@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/402",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 25 września 1990 r. zmieniające rozporządzenie w sprawie postępowania o świadczenia emerytalno-rentowe i zasad wypłaty tych świadczeń.",
- "converter": "eli2md 0.6.28",
+ "converter": "eli2md 0.6.29",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/402/text.pdf",
  "body": [
   {
@@ -170,12 +170,7 @@
       },
       {
        "type": "text",
-       "text": "3. Okresy, o których mowa w ust. 2 pkt 1, mogą być udowodnione zeznaniami świadków, gdy zainteresowany wykaże, że nie może przedstawić zaświadczenia właściwego organu resortu sprawiedliwości z powodu zniszczenia dokumentów w związku z upływem okresu ich przechowywania.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "4. Okres pobytu w więzieniu z przyczyn politycznych na obszarze Związku Socjalistycznych Republik Radzieckich może być udowodniony wszelkimi dokumentami na piśmie lub zeznaniami świadków.",
+       "text": "3. Okresy, o których mowa w ust. 2 pkt 1, mogą być udowodnione zeznaniami świadków, gdy zainteresowany wykaże, że nie może przedstawić zaświadczenia właściwego organu resortu sprawiedliwości z powodu zniszczenia dokumentów",
        "quoted": true
       },
       {
@@ -265,7 +260,12 @@
       },
       {
        "type": "text",
-       "text": "14",
+       "text": "14 w związku z upływem okresu ich przechowywania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Okres pobytu w więzieniu z przyczyn politycznych na obszarze Związku Socjalistycznych Republik Radzieckich może być udowodniony wszelkimi dokumentami na piśmie lub zeznaniami świadków.",
        "quoted": true
       },
       {

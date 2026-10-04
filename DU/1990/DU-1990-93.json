@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/93",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 lutego 1990 r. w sprawie ustalenia siedzib i terytorialnego zasięgu działania komend rejonowych straży pożarnych.",
- "converter": "eli2md 0.6.28",
+ "converter": "eli2md 0.6.29",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/93/text.pdf",
  "body": [
   {
@@ -898,26 +898,6 @@
       {
        "type": "text",
        "text": "Komenda Rejonowa Straży Pożarnych w Zgorzelcu dla miast: Bogatynia, Pieńsk, Zawidów i Zgorzelec oraz gmin: Bogatynia, Pieńsk, Sulików i Zgorzelec."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "13",
-     "path": "par_1/ust_13",
-     "text": "W województwie kaliskim:",
-     "children": [
-      {
-       "type": "text",
-       "text": "1"
-      },
-      {
-       "type": "text",
-       "text": "—"
-      },
-      {
-       "type": "text",
-       "text": "Komenda Rejonowa Straży Pożarnych w Jarocinie dla miast: Jarocin i Żerków oraz gmin: Jaraczewo, Jarocin, Kotlin i Żerków,"
       },
       {
        "type": "text",
@@ -1082,6 +1062,26 @@
       {
        "type": "text",
        "text": "10"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_1/ust_13",
+     "text": "W województwie kaliskim:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "text",
+       "text": "Komenda Rejonowa Straży Pożarnych w Jarocinie dla"
       },
       {
        "type": "text",
@@ -1093,7 +1093,7 @@
       },
       {
        "type": "text",
-       "text": "11"
+       "text": "11 miast: Jarocin i Żerków oraz gmin: Jaraczewo, Jarocin, Kotlin i Żerków,"
       },
       {
        "type": "text",
@@ -1110,14 +1110,14 @@
       {
        "type": "pkt",
        "num": "12",
-       "path": "par_1/ust_14/pkt_12",
+       "path": "par_1/ust_13/pkt_12",
        "text": "Komenda Rejonowa Straży Pożarnych w Pszczynie dla miast: Brzeszcze, Czechowice-Dziedzice i Pszczyna oraz gmin: Bestwina, Brzeszcze, Czechowice-Dziedzice, Miedźna, Pszczyna i Suszec,",
        "children": []
       },
       {
        "type": "pkt",
        "num": "13",
-       "path": "par_1/ust_14/pkt_13",
+       "path": "par_1/ust_13/pkt_13",
        "text": "Komenda Rejonowa Straży Pożarnych w Pyskowicach — dla miast: Pyskowice i Toszek oraz gmin: Rudziniec, Toszek i Wielowieś,",
        "children": [
         {
@@ -1137,7 +1137,7 @@
       {
        "type": "pkt",
        "num": "15",
-       "path": "par_1/ust_14/pkt_15",
+       "path": "par_1/ust_13/pkt_15",
        "text": "Komenda Rejonowa Straży Pożarnych w Rudzie Śląskiej dla miasta Ruda Śląska,",
        "children": [
         {
@@ -1213,7 +1213,7 @@
       {
        "type": "pkt",
        "num": "18",
-       "path": "par_1/ust_14/pkt_18",
+       "path": "par_1/ust_13/pkt_18",
        "text": "Komenda Rejonowa Straży Pożarnych w Sosnowcu dla miasta Sosnowiec,",
        "children": [
         {

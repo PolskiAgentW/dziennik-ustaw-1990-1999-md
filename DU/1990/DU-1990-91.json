@@ -1,110 +1,12 @@
 {
  "eli": "DU/1990/91",
  "title": "Rozporządzenie Ministra Finansów z dnia 7 marca 1990 r. zmieniające rozporządzenie w sprawie prowadzenia podatkowej księgi przychodów i rozchodów.",
- "converter": "eli2md 0.6.28",
+ "converter": "eli2md 0.6.29",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/91/text.pdf",
  "body": [
   {
    "type": "note",
    "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "przyuczenie do zawodu lub przekwalifikowanie w celu podjęcia pracy na wsi poza gospodarstwem rolnym,",
-   "children": [
-    {
-     "type": "text",
-     "text": "3"
-    },
-    {
-     "type": "text",
-     "text": "— zasiłek szkoleniowy,"
-    }
-   ]
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "świadczenia z tytułu wypadków przy pracy i chorób zawodowych, powstałych w związku z przyuczeniem do zawodu lub przekwalifikowaniem,",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "jednorazową pożyczkę na podjęcie pozarolniczej działa- 5"
-  },
-  {
-   "type": "text",
-   "text": "— Iności gospodarczej na wsi, jeżeli powierzchnia gospodarstwa rolnego nie przekracza 3 hektarów przeliczeniowych."
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Pokrycie składki, o którym mowa w ust. 4 pkt 1, polega na przekazaniu z Funduszu Pracy na Fundusz Ubezpieczenia Społecznego Rolników, na podstawie decyzji organu właściwego do przyznawania świadczeń pieniężnych z Funduszu Pracy, wydanej na wniosek rolnika zobowiązanego do zapłacenia składki, kwot należności z tytułu czterech kolejnych rat kwartalnych składki wymierzonej od osoby, która została zwolniona z pracy, i od hektarów przeliczeniowych, z tym że jeżeli z pracy został zwolniony domownik, pokrycie składki dotyczy tylko jej części wymierzonej od tego domownika. Pokrycie składki przysługuje począwszy od pierwszej raty kwartalnej, której wymagalność przypada po dniu rozwiązania stosunku pracy, a jeżeli rozwiązanie to nastąpiło w 1989 r. — począwszy od pierwszej raty kwartalnej w 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "91"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Koszty przyuczenia do zawodu lub przekwalifikowania, składka na ubezpieczenie społeczne z tytułu wypłacania zasiłku szkoleniowego oraz świadczenia pieniężne, o których mowa w ust. 4 pkt 3 15, są finansowane z Funduszu Pracy. Do przyznawania i korzystania z tych świadczeń stosuje się odpowiednio przepisy art. 11, art. 13 ust. 2 I 3, art. 17 i art. 18 pkt 1 ustawy z dnia 29 grudnia 1989 r. o zatrudnieniu (Dz. U. Nr 75, poz. 446 i z 1990 r. Nr 9, poz. 57).",
-   "children": []
-  },
-  {
-   "type": "art",
-   "num": "11",
-   "path": "art_11",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "art_11/ust_1",
-     "text": "Okresowe renty inwalidzkie, przyznane przed dniem 1 kwietnia 1990 r., wypłaca się na zasadach dotychczasowych.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "art_11/ust_2",
-     "text": "Ustalenie prawa do emerytury lub renty inwalidzkiej nie związanej z przekazaniem gospodarstwa rolnego, przysługującej od dnia 1 lipca 1990 r., może nastąpić, na wniosek zainteresowanej osoby, także przed tą datą.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "art",
-   "num": "12",
-   "path": "art_12",
-   "text": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1990 r., z wyjątkiem przepisów:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "art_12/pkt_1",
-     "text": "art. 6 pkt 10, 18, 20—22 oraz art. 9, które wchodzą w życie z dniem 1 kwietnia 1990 r.,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_12/pkt_2",
-     "text": "art. 6 pkt4 lit. b) i pkt 9, które wchodzą w życie z dniem 1 lipca 1990 r.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "signature",
-   "text": "Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski"
   },
   {
    "type": "text",
@@ -331,17 +233,19 @@
          "type": "text",
          "text": "d) ewidencję pożyczek i zastawionych rzeczy nie wypełniają kolumn od 3 do 6.”.",
          "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 1990 r.",
-         "quoted": true
         }
        ]
       }
      ]
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 kwietnia 1990 r.",
+   "children": []
   },
   {
    "type": "signature",
