@@ -24,12 +24,23 @@ układa wiersze w kolejności łamów, wycina akt spośród sąsiednich na tych 
 
 Na 60 losowych aktach z lat 1990–1999, które mają też oficjalny HTML (próba testowa, niewidziana przy pisaniu
 konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi: z warstwy Acrobata
-(eli2md 0.6.25) 0,664, z OCR eli2md 0.6.26 0,981
+(eli2md 0.6.25) 0,664, z OCR eli2md 0.6.28 0,983
 ([pomiar](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999)).
 
 ## Stan
 
 <!-- stats:start -->
+Stan na 2026-10-04 23:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+
+| rok | aktów w indeksie | przekonwertowanych | błędów |
+|---|---:|---:|---:|
+| 1990 | 433 | 433 | 0 |
+
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 433, razem 1209 z 1384 stron. Tekst z OCR (oznaczony) ma 1204 z nich w 433 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 1.
+
+Rodzaje aktów: Rozporządzenie 388, Oświadczenie rządowe 19, Umowa międzynarodowa 12, Uchwała 7, Konwencja 4, Zarządzenie 3.
+Wersje konwertera: eli2md 0.6.28 (433).
 <!-- stats:end -->
 
 ## Zawartość
@@ -50,23 +61,27 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Jak dobre jest
 
 Wzorcem są akty z lat 1990–1999, które mają HTML w API ELI (głównie ustawy, obwieszczenia i orzeczenia). Wynik
-eli2md 0.6.26 (`eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunkcji):
+eli2md 0.6.28 (`eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunkcji):
 
 | próba | treść R | treść P | aktów z R < 0,90 | załączniki R |
 |---|---:|---:|---:|---:|
-| test, 60 aktów (niewidziana) | 0,981 | 0,950 | 6 | 0,961 (6 aktów) |
-| dev, 40 aktów (na niej strojone) | 0,985 | 0,980 | 2 | 0,951 (6 aktów) |
+| test, 60 aktów (niewidziana) | 0,983 | 0,952 | 6 | 0,961 (6 aktów) |
+| dev, 40 aktów (na niej strojone) | 0,986 | 0,982 | 2 | 0,953 (6 aktów) |
 
 R = odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności, P = odsetek słów wyniku obecnych
 w oficjalnym tekście. Dla porównania warstwa Acrobata (0.6.25) na tych samych aktach: R 0,664 i 0,670, P 0,568
 i 0,616. Akty w tym zbiorze (bez HTML, w większości rozporządzenia) nie mają wzorca; zakładam, że wynik jest podobny,
-ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpis „0.6.26”)
+ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpisy „0.6.26”–„0.6.28”)
 i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999).
 
 ## Znane usterki
 
-- Błędy OCR: litery („ł” jako „t”: „ogtoszenia”), sklejone wyrazy („wart.” zamiast „w art.”), „§” odczytany jako
-  „8” albo „$” (konwerter poprawia go tylko na początku akapitu i po przyimku: „w § 1”).
+- Błędy OCR: litery, sklejone wyrazy, „§” odczytany jako „8” albo „$”. Konwerter poprawia ze słownikiem pl_PL słowa,
+  w których brakuje jednego albo dwóch znaków diakrytycznych albo „ł” odczytano jako „t”/„l” („ogtoszenia” →
+  „ogłoszenia”), oddziela jednoliterowe przyimki („Wrozporządzeniu”) i poprawia „§” na początku akapitu i po
+  przyimku („w § 1”); słowa, dla których poprawka nie jest jednoznaczna, zostają z błędem.
+- Gdy OCR nie odczyta numeru pozycji następnego aktu jako osobnego akapitu przed jego rodzajem, akt ma na końcu
+  początek następnego aktu z ostatniej wspólnej strony (DU/1993/20).
 - Pierwszy akt zeszytu stoi na stronie ze spisem treści. Gdy jest krótki, do jego tekstu trafiają fragmenty spisu
   (numery stron) i kolejność akapitów bywa zła (DU/1999/728).
 - Strony słabej jakości (przekreślenia, pieczęcie, ciemne tło) dają fragmenty bez sensu (DU/1990/390).
