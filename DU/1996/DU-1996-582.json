@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/582",
  "title": "Rozporządzenie Ministra Finansów z dnia 8 października 1996 r. w sprawie sposobu prowadzenia rachunku funduszu gwarancyjnego miejskiej strefy usług publicznych.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/582/text.pdf",
  "body": [
   {
@@ -64,8 +64,72 @@
      "path": "par_5/pkt_1",
      "text": "wpłat gmin, o których mowa w art. 20 ust. 1 ustawy,",
      "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "odsetek od nieterminowo regulowanych przez gminę wpłat na fundusz,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "odsetek od środków finansowych, zgromadzonych na rachunku funduszu.",
+     "children": []
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Środkami na rachunku funduszu dysponuje zarząd strefy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Z rachunku funduszu dokonywane są przelewy środków pochodzących ze źródeł, o których mowa w § 5, na uzupełnienie dochodów budżetu strefy, przeznaczonych na sfinansowanie niedoboru środków na wykonanie zadań przekazanych strefie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przelewy środków zgromadzonych na rachunku funduszu mogą być dokonywane do wysokości tych środków.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do dowodów wpłat na fundusz i przelewów środków z rachunku funduszu stosuje się właściwe podziałki klasyfikacji budżetowej, określone zgodnie z odrębnymi przepisami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W przypadku rozwiązania strefy, środki zgromadzone na rachunku funduszu przeznacza się w pierwszej kolejności na likwidację niedoboru budżetu strefy. Pozostałe środki podlegają zwrotowi na dochody budżetów gmin, proporcjonalnie do wniesionych przez nie wpłat na fundusz, o których mowa w art. 20 ust. 1 ustawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. K. Kalicki"
+  },
+  {
+   "type": "text",
+   "text": "nadesłanego zamówienia w Wydziale Wydawnictw i Poligrafii Egzemplarze bieżące i z lat ubiegłych oraz załączniki można nabywać na podstawie Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa"
   }
  ],
  "annexes": [],

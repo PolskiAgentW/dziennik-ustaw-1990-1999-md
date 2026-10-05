@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/601",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 10 października 1996 r. zmieniające rozporządzenie w sprawie zaliczenia dróg do kategorii dróg wojewódzkich w województwach białostockim, bielskim, ciechanowskim, częstochowskim, katowickim, kieleckim, krośnieńskim, łomżyńskim, nowosądeckim, ostrołęckim, pilskim, piotrkowskim, poznańskim, przemyskim, siedleckim, sieradzkim, suwalskim, rzeszowskim, tarnowskim i zielonogórskim.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/601/text.pdf",
  "body": [
   {
@@ -29,7 +29,44 @@
    "num": "1",
    "path": "par_1",
    "text": "W rozporządzeniu Ministra Komunikacji z dnia 14 lipca 1986 r. w sprawie zaliczenia dróg do kategorii dróg wojewódzkich w województwach białostockim, bielskim, ciechanowskim, częstochowskim, katowickim, kieleckim, krośnieńskim, łomżyńskim, nowosądeckim, ostrołęckim, pilskim, piotrkowskim, poznańskim, przemyskim, siedleckim, sieradzkim, suwalskim, rzeszowskim, tarnowskim i zielonogórskim (Dz. U. Nr 30, poz. 151, z 1994 r. Nr 109, poz. 525 oraz z 1996 r. Nr 2, poz. 13, Nr 75, poz. 359 i Nr 95, poz. 439) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w załączniku nr 9 Wykaz dróg wojewódzkich — województwo nowosądeckie w części „A. Drogi zamiejskie” skreśla się wyrazy „25 122 Gładyszów — Krzywa”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku nr 10 Wykaz dróg wojewódzkich — województwo ostrołęckie w części „A. Drogi zamiejskie” w nazwie drogi 28 163 Troszyn — Kleczkowo — Radgoszcz skreśla się wyraz „Radgoszcz”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załączniku nr 14 Wykaz dróg wojewódzkich — województwo przemyskie w części „A. Drogi zamiejskie” skreśla się wyrazy „33118 Gać — Ostrów”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu i Gospodarki Morskiej: B. Liberadzki"
+  },
+  {
+   "type": "text",
+   "text": "nadesłanego zamówienia w Wydziale Wydawnictw i Poligrafii Egzemplarze bieżące i z lat ubiegłych oraz załączniki można nabywać na podstawie Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa"
   }
  ],
  "annexes": [],

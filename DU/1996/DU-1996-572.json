@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/572",
  "title": "Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 21 sierpnia 1996 r. zmieniające rozporządzenie w sprawie zasad działalności reklamowej w programach radiofonii i telewizji.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/572/text.pdf",
  "body": [
   {
@@ -60,8 +60,14 @@
        "type": "lit",
        "num": "c",
        "path": "par_1/pkt_1/lit_c",
-       "text": "pkt 4 otrzymuje brzmienie: „4) czasu prezentacji towarów i usług wykorzystanych w audycji,”;",
-       "children": []
+       "text": "pkt 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) czasu prezentacji towarów i usług wykorzystanych w audycji,”;",
+         "quoted": true
+        }
+       ]
       }
      ]
     },
@@ -73,12 +79,99 @@
      "children": [
       {
        "type": "text",
-       "text": "„1. Nadawca programu telewizyjnego może przerwać audycję w celu nadania reklamy nie wcześniej niż po upływie 20 minut od rozpoczęcia audycji lub od zakończenia poprzedniej przerwy w tej audycji, z tym że filmy fabularne w okresie pierwszych 45 minut mogą być przerwane jednokrotnie w dowolnym czasie. Seria-",
+       "text": "„1. Nadawca programu telewizyjnego może przerwać audycję w celu nadania reklamy nie wcześniej niż po upływie 20 minut od rozpoczęcia audycji lub od zakończenia poprzedniej przerwy w tej audycji, z tym że filmy fabularne w okresie pierwszych 45 minut mogą być przerwane jednokrotnie w dowolnym czasie. Seriale, audycje rozrywkowe i filmy dokumentalne mogą być przerwane w dowolnym czasie, przy czym odstęp między kolejnymi przerwami powinien wynosić co najmniej 20 minut.”;",
        "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 10 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Zakazana jest reklama oddziaływająca w sposób ukryty na podświadomość. \";",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 12:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "dodaje się nowy ust. 2 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Ewidencja nadanych reklam obejmuje następujące dane:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) nazwę reklamowanego produktu lub usługi,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) nazwę reklamodawcy,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) datę emisji,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) godzinę emisji i czas trwania reklamy,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) czas trwania bloku reklamowego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) łączny czas trwania reklam w godzinie zegarowej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) dzienny czas nadawania programu i reklam.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "dotychczasowy ust. 2 oznacza się jako ust. 3.",
+       "children": []
       }
      ]
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: B. Sulik"
   }
  ],
  "annexes": [],

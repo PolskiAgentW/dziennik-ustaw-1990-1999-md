@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/479",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 7 sierpnia 1996 r. w sprawie określenia warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej, przeznaczone dla osób zatrzymanych.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/479/text.pdf",
  "body": [
   {
@@ -305,10 +305,78 @@
        "path": "par_7/ust_1/pkt_7",
        "text": "drzwi do ustępu i umywalni z natryskiem powinny być wyposażone w szybę z nietłukącego się szkła lub zwykłą szybę zabezpieczoną obustronnie siatką stalową,",
        "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_1/pkt_8",
+       "text": "woda gorąca do umywalni i natrysku powinna być, w miarę możliwości, doprowadzana poprzez mieszacz zlokalizowany w miejscu niedostępnym dla zatrzymanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_1/pkt_9",
+       "text": "na ścianach korytarzy, obok drzwi, powinny być zamocowane półki drewniane służące do stawiania naczyń z posiłkami.",
+       "children": []
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Pomieszczenia, o których mowa w ust. 1, powinny być wyposażone w niezbędną instalację elektryczną.",
+     "children": []
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Stosowanie zamiennych materiałów i innych rozwiązań technicznych niż określone w § 5—7 jest dopuszczalne po uzyskaniu zgody terenowego organu specjalistycznego nadzoru budowlanego, właściwego w dziedzinie bezpieczeństwa państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Pomieszczenia powinny być wyposażone w instalację alarmową dźwiękowo-świetlną, a mianowicie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "w dzwonki alarmowe i punkty świetlne w pokoju dyżurnego jednostki lub innym miejscu, z którego na sygnał alarmowy zapewnione jest natychmiastowe przybycie funkcjonariusza Straży Granicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "w przyciski dzwonków umieszczone: w izbie dyżurnej, na ścianach korytarza przy drzwiach każdego pokoju, w pokoju lekarskim, w ustępie i umywalni, w pokoju do przygotowywania posiłków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Ochronę pomieszczeń wykonują specjalnie do tego celu przeszkoleni funkcjonariusze Straży Granicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych: w z. Z. Sobotka"
   }
  ],
  "annexes": [],

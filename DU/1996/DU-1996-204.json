@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/204",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 kwietnia 1996 r. w sprawie organizacji, sposobu wydawania i rozpowszechniania oraz podstawy ustalania ceny numerów Monitora Sądowego i Gospodarczego i wysokości opłat za zamieszczenie w nim ogłoszenia lub obwieszczenia.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/204/text.pdf",
  "body": [
   {
@@ -64,6 +64,64 @@
      "text": "8 4, Monitor ukazuje się w miarę potrzeby, nie rzadziej niż raz w miesiącu."
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Monitor jest rozpowszechniany w prenumeracie oraz w punktach sprzedaży mieszczących się w sądach i organach administracji oraz innych punktach sprzedaży prasy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Po jednym egzemplarzu Monitora bezpłatnie otrzymują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "sądy rejonowe w celu udostępniania go do przeglądania przez zainteresowanych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "sąd, gdy skierowane przez niego ogłoszenie lub obwieszczenie zostało zamieszczone w tym egzemplarzu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Cenę każdego numeru określa Biuro. Cena powinna zapewniać pełne pokrycie kosztów wydawania Monitora oraz zysk w wysokości do 10%. Cena w prenumeracie będzie stanowić iloczyn przewidywanej ceny numeru i liczby egzemplarzy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Opłatę za ogłoszenie ustala się na 2 zt za 1 cm? druku, jednak nie mniej niż za 30 cm?. W razie żądania użycia w ogłoszeniu szczególnej czcionki oraz dokonania podkreśleń i wytłuszczeń, opłatę zwiększa się o 30%.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie z dniem 23 kwietnia 1996 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: L. Kubicki"
+  },
+  {
+   "type": "text",
+   "text": "nadesłanego zamówienia w Wydziale Wydawnictw i Poligrafii Egzemplarze bieżące i z lat ubiegłych oraz załączniki można nabywać na podstawie Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa"
   }
  ],
  "annexes": [],

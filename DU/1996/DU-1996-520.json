@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/520",
  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 22 sierpnia 1996 r. w sprawie szczególnych warunków produkcji i wprowadzania do obrotu dietetycznych środków spożywczych, używek przeznaczonych do celów dietetycznych i odżywek.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/520/text.pdf",
  "body": [
   {
@@ -163,8 +163,96 @@
    "type": "par",
    "num": "10",
    "path": "par_10",
-   "text": "Dietetyczne środki spożywcze mogą być wprowadzane do obrotu tylko w opakowaniu jednostkowym zawierającym te środki w ilościach dostosowa-",
+   "text": "Dietetyczne środki spożywcze mogą być wprowadzane do obrotu tylko w opakowaniu jednostkowym zawierającym te środki w ilościach dostosowanych do potrzeb nabywców indywidualnych lub zbiorowych.",
    "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Dietetyczne środki spożywcze powinny być znakowane w sposób określony w przepisach o znakowaniu środków spożywczych w opakowaniach jednostkowych przeznaczonych do obrotu, a ponadto należy na nich umieszczać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "napis „dietetyczny środek spożywczy”,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "numer zezwolenia oraz zawarte w zezwoleniu zalecenia dotyczące obrotu tym środkiem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Na opakowaniu jednostkowym dietetycznego środka spożywczego dla niemowląt, zastępującego mleko matki, powinna być informacja o nadrzędności i korzyściach karmienia niemowląt w sposób naturalny (mlekiem matki).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Podmioty gospodarcze, które wprowadzają do obrotu dietetyczne środki spożywcze, powinny je przechowywać w warunkach podanych na opakowaniu jednostkowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Podmioty gospodarcze, o których mowa w ust. 1, powinny zapewnić wydzielenie odpowiednich stoisk lub półek dla dietetycznych środków spożywczych oraz spełnienie innych warunków ustalonych w zezwoleniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Przepisy 8 9—12 stosuje się również do dietetycznych środków spożywczych sprowadzanych z zagranicy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Traci moc zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 22 kwietnia 1971 r. w sprawie szczegółowych warunków produkcji i wprowadzania do obrotu dietetycznych środków spożywczych (Monitor Polski Nr 33, poz. 211).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia i Opieki Społecznej: R. J. Żochowski"
+  },
+  {
+   "type": "text",
+   "text": "nadesłanego zamówienia w Wydziale Wydawnictw i Poligrafii Egzemplarze bieżące i z lat ubiegłych oraz załączniki można nabywać na podstawie Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa"
   }
  ],
  "annexes": [],

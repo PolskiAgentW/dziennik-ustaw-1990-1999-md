@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/38",
  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 11 grudnia 1995 r. w sprawie psychiatrycznych świadczeń zdrowotnych w domach pomocy społecznej i środowiskowych domach samopomocy.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/38/text.pdf",
  "body": [
   {
@@ -102,8 +102,62 @@
      "path": "pkt_2/lit_c",
      "text": "pomieszczenie dla grupowych zajęć terapeutycznych i ruchowych,",
      "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "pomieszczenie dla osób wymagających wzmożonego nadzoru ze względu na ich stan psychiczny.",
+     "children": []
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Mieszkańcom i innym osobom korzystającym ze świadczeń środowiskowych domów samopomocy dla osób z zaburzeniami psychicznymi, zwanych dalej „domami samopomocy”, zapewnia się psychiatryczną opiekę zdrowotną oraz rehabilitację społeczną.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Psychiatryczna opieka zdrowotna obejmuje zwłaszcza konsultacje i okresowe oceny stanu psychicznego oraz psychoterapię i terapię farmakologiczną. 8 5. Rehabilitacja społeczna obejmuje zwłaszcza:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "podtrzymanie i rozwijanie u osób z zaburzeniami psychicznymi umiejętności niezbędnych do samodzielnego życia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "terapię zajęciową,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "podejmowanie działań w celu przygotowania osób z zaburzeniami psychicznymi do podjęcia pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "pomoc w uzyskaniu odpowiedniego zatrudnienia. 8 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia i Opieki Społecznej: R. J. Żochowski"
   }
  ],
  "annexes": [],

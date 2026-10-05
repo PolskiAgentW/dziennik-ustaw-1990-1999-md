@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/362",
  "title": "Uchwała Trybunału Konstytucyjnego z dnia 28 maja 1996 r. w sprawie ustalenia powszechnie obowiązującej wykładni art. 105 ustawy z dnia 31 stycznia 1989 r. - Prawo bankowe.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/362/text.pdf",
  "body": [
   {
@@ -55,8 +55,35 @@
    "type": "pkt",
    "num": "2",
    "path": "pkt_2",
-   "text": "czy dla skuteczności prawnej uchwat podejmowanych przez zarząd komisaryczny konieczne jest zachowanie rygoru proceduralnego przewidzianego",
+   "text": "czy dla skuteczności prawnej uchwat podejmowanych przez zarząd komisaryczny konieczne jest zachowanie rygoru proceduralnego przewidzianego przepisami Kodeksu handlowego dla podejmowania uchwał przez walne zgromadzenie akcjonariuszy (tam, gdzie jest to możliwe) i czy w razie ich niezachowania akcjonariuszom banku przysługuje prawo wniesienia powództwa o unieważnienie uchwały na podstawie art. 413 Kodeksu handlowego,",
    "children": []
+  },
+  {
+   "type": "text",
+   "text": "ustalił:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Art. 105 ust. 2 ustawy z dnia 31 stycznia 1989 r. — Prawo bankowe (Dz. U. z 1992 r. Nr 72, poz. 359, z 1993 r. Nr 6, poz. 29, Nr 28, poz. 127, Nr 134, poz. 646, z 1994 r. Nr 80, poz. 369 i Nr 121, poz. 591 oraz z 1995 r. Nr 4, poz. 18 i Nr 133, poz. 654) oznacza przejście na zarząd komisaryczny prawa podejmowania decyzji we wszystkich sprawach zastrzeżonych w ustawie i statucie zarządowi banku i innym organom, których kompetencje stanowiące zostały zawieszone, w tym także w sprawach odwoływania i powoływania czionków rady banku, jeżeli organom banku przysługuje taka kompetencja z mocy ustawy lub statutu.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "W odniesieniu do decyzji zarządu komisarycznego banku w formie spółki akcyjnej zastrzeżonych przed ustanowieniem zarządu komisarycznego walnemu zgromadzeniu akcjonariuszy nie stosuje się przepisów Kodeksu handlowego o podejmowaniu uchwał przez walne zgromadzenie akcjonariuszy oraz art. 413 Kodeksu handlowego o zaskarżaniu tych uchwał, co nie pozbawia akcjonariuszy ochrony sądowej na innych podstawach prawnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący: A. Zoll Prezes Trybunału Konstytucyjnego"
+    },
+    {
+     "type": "text",
+     "text": "Sędziowie: Z. Czeszejko-Sochacki, T. Dybowski, L. Garlicki, S. Jaworski, K. Kolasiński, W. Łączkowski, F Rymarz, J. Skórzewska-Łosiak, W. Sokolewicz, J. Trzciński, B. Wierzbowski"
+    }
+   ]
   }
  ],
  "annexes": [],

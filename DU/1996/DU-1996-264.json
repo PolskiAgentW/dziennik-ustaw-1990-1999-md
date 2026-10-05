@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/264",
  "title": "Oświadczenie rządowe z dnia 31 stycznia 1996 r. w sprawie ratyfikacji przez Rzeczpospolitą Polską Konwencji o ochronie gatunków dzikiej flory i fauny europejskiej oraz ich siedlisk, sporządzonej w Bernie dnia 19 stycznia 1979 r.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/264/text.pdf",
  "body": [
   {
@@ -336,14 +336,11 @@
     {
      "type": "text",
      "text": "Cricetus cricetus, Coenagrion fregi, Coenagrion mercuriale, Stylurus (= Gomphus) flavipes, Ophiogomphus cecila, Oxygastra curtisii, Leucorrhinia caudalis, Leucorrhinia pectoralis, Graphoderus bilineatus, Cucujus cinnaberinus, Melanargia arge, Erebia calcaria, Lopinga achine, Lycaena dispar, Maculinea arion, Maculinea teleius."
-    }
-   ]
-  }
- ],
- "annexes": [
-  {
-   "heading": "Załącznik III",
-   "body": [
+    },
+    {
+     "type": "text",
+     "text": "Załącznik III"
+    },
     {
      "type": "text",
      "text": "Spośród gatunków wymienionych w załączniku III następujące gatunki nie są chronione na Węgrzech:"
@@ -391,14 +388,14 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "lit_a",
+     "path": "ust_2/lit_a",
      "text": "odnośnie do wybierania jaj Sterna paradisaea i Bucephala islandica.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "lit_b",
+     "path": "ust_2/lit_b",
      "text": "odnośnie do Gavia stellata, Branta leucopsis, Alopex lagopus, Orcinus orca, Globicephala melaena, Phocaena phocaena, Hyperoodon rostratus, Lagenorhynchus albirostris, Sibbaldus musculus, Megaptera novaengliae, Eubalaena glacialis, Balaena mysticetus, Thalarctos maritimus, Delphinus delphis, Tursiops truncatus i Lagenorhynchus acutus.",
      "children": [
       {
@@ -430,7 +427,7 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "lit_a",
+     "path": "ust_2/lit_a",
      "text": "do ptaków — AVES — które mogą być łapane w pułapki od 1 września do 31 stycznia.",
      "children": [
       {
@@ -454,23 +451,23 @@
     {
      "type": "lit",
      "num": "b",
-     "path": "lit_b",
+     "path": "ust_2/lit_b",
      "text": "do ptaków — AVES — które mogą być łapane w pułapki i strzelane od 10 kwietnia do 20 maja.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "heading": "Załącznik III",
-   "body": [
-    {
-     "type": "text",
-     "text": "Coturnix coturnix Streptopelia turtur"
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik III"
+      },
+      {
+       "type": "text",
+       "text": "Coturnix coturnix Streptopelia turtur"
+      }
+     ]
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "lit_c",
+     "path": "ust_2/lit_c",
      "text": "do siatek (jeden ze środków lub metod chwytania, wymienionych w załączniku IV) używanych do łapania gatunków ptaków wymienionych w lit. a) i b), a także dzikiego królika (Oryctolagus cuniculus).",
      "children": [
       {
@@ -842,210 +839,244 @@
        "type": "text",
        "text": "Geomalacus maculosus, Elona quimperiana, Margaritifera auricularia.",
        "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Załącznik III",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "BIVALVIA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Unionoida",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Margaritifera margaritifera, Unio elongatulus, Microcondylaea compressa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pierścienice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "HIRUDINEA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Hirudo medicinalis",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Chalcalburnus chalcoides, Abramis vimba, Alburnoides bipunctatus, Alburnus albidus, Aspius aspius,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Barbus plebejus, Chondrostoma nasus, Rutilus frisii, Rutilus rubilio, Siluris glanis, Gobius ophiocephalus, Gobius syrman, Proterorhinus marmoratus.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ZJEDNOCZONE KRÓLESTWO",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zastrzeżenia zgłoszone w czasie składania dokumentu ratyfikacyjnego 8 maja 1982 r. i zmienione na podstawie listu Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 26 marca 1987 r., zarejestrowanego w Sekretariacie Generalnym 31 marca 1987 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zastrzeżenia na podstawie artykułu 22",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "WIELKA BRYTANIA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zastrzeżenia są zgłoszone, jak przedstawiono poniżej, odnośnie do zakazów wymienionych w załączniku IV.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zające Sidta (z wyjątkiem sideł samozaciskających) Magnetofony Urządzenia elektryczne mogące zabić lub ogtuszyé Sztuczne źródła światła Lustra i inne urządzenia oślepiające Urządzenia do oświetlania celu Noktowizory z elektrycznym powiększaniem lub przetwarzaniem obrazu Siatki Pułapki Półautomatyczna broń z magazynkiem mieszczącym więcej niż dwa naboje Samoloty Pojazdy motorowe w ruchu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Gronostaje Zastrzeżenie jest zgłoszone odnośnie do zabronionych metod jak wyżej dla zająca, z dodatkowym uwzględnieniem użycia dymu i gazu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Łasice Zastrzeżenie jest zgłoszone odnośnie do zabronionych metod jak wyżej dla zająca, z dodatkowym uwzględnieniem użycia dymu i gazu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeleń w Anglii i Walii Jeleń europejski (Cervus elaphus): samce w okresie od 1 sierpnia do 30 kwietnia włącznie; samice od 1 listopada do 29 lutego włącznie. Daniel (Dama dama): samce od 1 sierpnia do 30 kwietnia włącznie; samice od 1 listopada do 29 lutego włącznie. Sarna (Capreolus): samiec od 1 kwietnia do 31 października włącznie; samica od 1 listopada do 29 lutego włącznie. Jeleń wschodni, Sika (Cervus nippon): samce od 1 sierpnia do 30 kwietnia włącznie; samice od 1 listopada do 29 lutego włącznie. Dla osób wkraczających na teren nieruchomości za zgodą właściciela lub posiadacza lub uprawnionego organu władzy (jeśli nieruchomość nie została wyłączona na mocy artykułów S10,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10A i 11 Ustawy o jeleniach, znowelizowanej w załączniku 7 do Ustawy o faunie, florze i obszarach wiejskich z 1981 r.). Magnetofony Urządzenia elektryczne mogące zabić i ogłuszyć Lustra i inne urządzenia oślepiające Półautomatyczna broń z magazynkiem mieszczącym więcej niż dwa naboje (z wyjątkiem innych, szczegółowych zakazów dotyczących broni palnej, broni i amunicji)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Urządzenia do oświetlania celu. Jeleń w Szkocji? Do celów legalnego zabijania, zgodnie z Ustawą o jeleniach (Szkocja) z 1959 r., z uwzględnieniem zmian:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Magnetofony Sztuczne źródła światła",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Lustra i inne urządzenia oślepiające Urządzenia do oświetlania celu Półautomatyczna broń z magazynkiem mieszczącym więcej niż dwa naboje. Samoloty Okresy polowań w Szkocji Gatunki: Jeleń europejski (Cervus Samce: 1 lipca — 20 elaphus), Jeleń wschodni, października włącznie; Sika (Cervus nippon) Samice: 21 października i krzyżówki Jelenia —15 lutego włącznie europejskiego/Jelenia wschodniego, Sika (Cervus elaphus/Cervus nippon) Daniel (Dama dama) Samce: 1 sierpnia — 30 kwietnia włącznie; Samice: 21 października-15 lutego włącznie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sarna (Capreolus capreolus) Samce: 1 kwietnia-30 października włącznie; Samice: 21 października-31 marca włącznie Foki3 Foka szara od 1 stycznia do 31 sierpnia włącznie Foka pospolita od 1 września do 31 maja włącznie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Magnetofony Urządzenia elektryczne mogące zabić i ogłuszyć Sztuczne źródła światła Lustra i inne urządzenia oślepiające Urządzenia do oświetlania celu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 Zastrzeżenia uzupełnione w marcu 1987 r. 3W marcu 1987 r. dodano zastrzeżenie w brzmieniu: „Półautomatyczna broń z magazynkiem mogącym pomieścić więcej niż 2 naboje”. Wycofano je listem Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 28 stycznia 1988 r., zarejestrowanym w Sekretariacie Generalnym 1 lutego 1988 r.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Noktowizory z elektronicznym powiększaniem lub przetwarzaniem obrazu Siatki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pułapki Jakakolwiek myśliwska broń palna na amunicję o energii wylotowej nie mniejszej niż 600 footpounds (jednostka pracy potrzebna do podniesienia 1 funta na wysokość 1 stopy), gdy pojedynczy nabój waży nie mniej niż 45 granów Samoloty Pojazdy motorowe w ruchu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "IRLANDIA PÓŁNOCNA?",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zostają zgłoszone następujące zastrzeżenia:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Załącznik 1 — Gatunki flory występujące w Irlandii Północnej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wszystkie gatunki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Załącznik II — Gatunki występujące w Irlandii Północnej i. Ssaki — wszystkie gatunki ii. Ptaki — wszystkie gatunki iii. Gady — wszystkie gatunki iv. Płazy — wszystkie gatunki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Ill — Gatunki występujące w Irlandii Północnej i. Ssaki — wszystkie gatunki, z wyjątkiem Halichoerus grypus (foka szara) ii. Ptaki — kormoran czubaty, kormoran, łabędź niemy, mewa śmieszka, dziki gołąb iii. Gady — wszystkie gatunki iv. Płazy — wszystkie gatunki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Załącznik IV — Zabronione środki i metody zabijania, chwytania i innej eksploatacji gatunków występujących w Irlandii Północnej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i. Ssaki — wszystkie metody ii. Ptaki — wszystkie gatunki (magnetofony, elektryczne urządzenia mogące zabić i ogłuszyć, sztuczne źródła światła, lustra i inne urządzenia oślepiające, urządzenia do oświetlania celu, noktowizory itp., środki wybuchowe, trutki oraz zatruta lub oszałamiająca przynęta są wyłączone, z wyjątkiem ich dozwolonego wykorzystania do zabijania lub chwytania synogarlicy tureckiej, która ma być pod ochroną zgodnie z konwencją).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4 Zastrzeżenia wycofano w marcu 1987 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zastrzeżenia dla Irlandii Północnej, chociaż obszerne, mają wyłącznie tymczasowy charakter. Zaproponowane przez Irlandię Północną Rozporządzenie królewskie (Order in Council) o ochronie przyrody, które w znacznym stopniu przyczyni się do ujednolicenia przepisów prawnych, zgodnie z istniejącymi w Wielkiej Brytanii, prawdopodobnie wejdzie w życie w grudniu 1982 r. Wówczas osobne zastrzeżenia odnośnie do Irlandii Północnej będą mogły zostać zastąpione przez zastrzeżenia zasadniczo podobne do zgłoszonych odnośnie do Wielkiej Brytanii.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "_ Sprzeciw zawarty w liście Departamentu Środowiska z dnia 25 lutego 1988 r., zarejestrowanym w Sekretariacie Generalnym 29 lutego 1988 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rząd Zjednoczonego Królestwa poddał dalszym uważnym rozważaniom decyzję odnośnie do uzupełnienia załącznika Il i III Konwencji berneńskiej, podjętą na szóstym posiedzeniu Stałego Komitetu w dniach 8-11 grudnia 1987 r. Większość zaproponowanych poprawek jest do zaakceptowania przez Zjednoczone Królestwo. Jednakże dwa z gatunków bezkręgowców zaproponowane do włączenia do załącznika Il nie są objęte ochroną przez przepisy prawa wewnętrznego. Są to: Coenagrion mercuriale, Euphydras aurinia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Żaden z tych gatunków nie spetnia kryteriów do objęcia ich przepisami Ustawy o faunie, florze i obszarach wiejskich z 1981 r., gdyż obydwa występują powszechnie w Wielkiej Brytanii. Dlatego też nie jest właściwe ich uwzględnienie pomiędzy ściśle chronionymi gatunkami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W konsekwencji, zgodnie z art. 17 ust. 3 konwencji, niniejszym listem zgłaszam formalny sprzeciw w imieniu Rządu Zjednoczonego Królestwa przeciwko włączeniu do załącznika II dwóch wyżej wymienionych gatunków.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Deklaracja zawarta w liście Charge d' Affaires z dnia 20 sierpnia 1992 r., zarejestrowanym w Sekretariacie Generalnym 24 sierpnia 1992 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 21 ust. 2 w imieniu Rządu Zjednoczonego Królestwa niniejszym oświadczam, że wyżej wymieniona konwencja będzie miała zastosowanie do Wyspy Man..",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ill. Informacje o państwach, które w terminie późniejszym staną się stronami powyższej konwencji, można uzyskać w Departamencie Prawno-Traktatowym Ministerstwa Spraw Zagranicznych.",
+       "quoted": true
       }
      ]
     }
    ]
   },
   {
-   "heading": "Załącznik III",
-   "body": [
-    {
-     "type": "text",
-     "text": "BIVALVIA"
-    },
-    {
-     "type": "text",
-     "text": "Unionoida"
-    },
-    {
-     "type": "text",
-     "text": "Margaritifera margaritifera, Unio elongatulus, Microcondylaea compressa."
-    },
-    {
-     "type": "text",
-     "text": "Pierścienice"
-    },
-    {
-     "type": "text",
-     "text": "HIRUDINEA"
-    },
-    {
-     "type": "text",
-     "text": "Hirudo medicinalis"
-    },
-    {
-     "type": "text",
-     "text": "Chalcalburnus chalcoides, Abramis vimba, Alburnoides bipunctatus, Alburnus albidus, Aspius aspius,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Barbus plebejus, Chondrostoma nasus, Rutilus frisii, Rutilus rubilio, Siluris glanis, Gobius ophiocephalus, Gobius syrman, Proterorhinus marmoratus."
-    },
-    {
-     "type": "text",
-     "text": "ZJEDNOCZONE KRÓLESTWO"
-    },
-    {
-     "type": "text",
-     "text": "Zastrzeżenia zgłoszone w czasie składania dokumentu ratyfikacyjnego 8 maja 1982 r. i zmienione na podstawie listu Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 26 marca 1987 r., zarejestrowanego w Sekretariacie Generalnym 31 marca 1987 r."
-    },
-    {
-     "type": "text",
-     "text": "Zastrzeżenia na podstawie artykułu 22"
-    },
-    {
-     "type": "text",
-     "text": "WIELKA BRYTANIA"
-    },
-    {
-     "type": "text",
-     "text": "Zastrzeżenia są zgłoszone, jak przedstawiono poniżej, odnośnie do zakazów wymienionych w załączniku IV."
-    },
-    {
-     "type": "text",
-     "text": "Zające Sidta (z wyjątkiem sideł samozaciskających) Magnetofony Urządzenia elektryczne mogące zabić lub ogtuszyé Sztuczne źródła światła Lustra i inne urządzenia oślepiające Urządzenia do oświetlania celu Noktowizory z elektrycznym powiększaniem lub przetwarzaniem obrazu Siatki Pułapki Półautomatyczna broń z magazynkiem mieszczącym więcej niż dwa naboje Samoloty Pojazdy motorowe w ruchu"
-    },
-    {
-     "type": "text",
-     "text": "Gronostaje Zastrzeżenie jest zgłoszone odnośnie do zabronionych metod jak wyżej dla zająca, z dodatkowym uwzględnieniem użycia dymu i gazu."
-    },
-    {
-     "type": "text",
-     "text": "Łasice Zastrzeżenie jest zgłoszone odnośnie do zabronionych metod jak wyżej dla zająca, z dodatkowym uwzględnieniem użycia dymu i gazu."
-    },
-    {
-     "type": "text",
-     "text": "Jeleń w Anglii i Walii Jeleń europejski (Cervus elaphus): samce w okresie od 1 sierpnia do 30 kwietnia włącznie; samice od 1 listopada do 29 lutego włącznie. Daniel (Dama dama): samce od 1 sierpnia do 30 kwietnia włącznie; samice od 1 listopada do 29 lutego włącznie. Sarna (Capreolus): samiec od 1 kwietnia do 31 października włącznie; samica od 1 listopada do 29 lutego włącznie. Jeleń wschodni, Sika (Cervus nippon): samce od 1 sierpnia do 30 kwietnia włącznie; samice od 1 listopada do 29 lutego włącznie. Dla osób wkraczających na teren nieruchomości za zgodą właściciela lub posiadacza lub uprawnionego organu władzy (jeśli nieruchomość nie została wyłączona na mocy artykułów S10,"
-    },
-    {
-     "type": "text",
-     "text": "10A i 11 Ustawy o jeleniach, znowelizowanej w załączniku 7 do Ustawy o faunie, florze i obszarach wiejskich z 1981 r.). Magnetofony Urządzenia elektryczne mogące zabić i ogłuszyć Lustra i inne urządzenia oślepiające Półautomatyczna broń z magazynkiem mieszczącym więcej niż dwa naboje (z wyjątkiem innych, szczegółowych zakazów dotyczących broni palnej, broni i amunicji)"
-    },
-    {
-     "type": "text",
-     "text": "Urządzenia do oświetlania celu. Jeleń w Szkocji? Do celów legalnego zabijania, zgodnie z Ustawą o jeleniach (Szkocja) z 1959 r., z uwzględnieniem zmian:"
-    },
-    {
-     "type": "text",
-     "text": "Magnetofony Sztuczne źródła światła"
-    },
-    {
-     "type": "text",
-     "text": "Lustra i inne urządzenia oślepiające Urządzenia do oświetlania celu Półautomatyczna broń z magazynkiem mieszczącym więcej niż dwa naboje. Samoloty Okresy polowań w Szkocji Gatunki: Jeleń europejski (Cervus Samce: 1 lipca — 20 elaphus), Jeleń wschodni, października włącznie; Sika (Cervus nippon) Samice: 21 października i krzyżówki Jelenia —15 lutego włącznie europejskiego/Jelenia wschodniego, Sika (Cervus elaphus/Cervus nippon) Daniel (Dama dama) Samce: 1 sierpnia — 30 kwietnia włącznie; Samice: 21 października-15 lutego włącznie"
-    },
-    {
-     "type": "text",
-     "text": "Sarna (Capreolus capreolus) Samce: 1 kwietnia-30 października włącznie; Samice: 21 października-31 marca włącznie Foki3 Foka szara od 1 stycznia do 31 sierpnia włącznie Foka pospolita od 1 września do 31 maja włącznie"
-    },
-    {
-     "type": "text",
-     "text": "Magnetofony Urządzenia elektryczne mogące zabić i ogłuszyć Sztuczne źródła światła Lustra i inne urządzenia oślepiające Urządzenia do oświetlania celu"
-    },
-    {
-     "type": "text",
-     "text": "2 Zastrzeżenia uzupełnione w marcu 1987 r. 3W marcu 1987 r. dodano zastrzeżenie w brzmieniu: „Półautomatyczna broń z magazynkiem mogącym pomieścić więcej niż 2 naboje”. Wycofano je listem Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 28 stycznia 1988 r., zarejestrowanym w Sekretariacie Generalnym 1 lutego 1988 r."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Noktowizory z elektronicznym powiększaniem lub przetwarzaniem obrazu Siatki"
-    },
-    {
-     "type": "text",
-     "text": "Pułapki Jakakolwiek myśliwska broń palna na amunicję o energii wylotowej nie mniejszej niż 600 footpounds (jednostka pracy potrzebna do podniesienia 1 funta na wysokość 1 stopy), gdy pojedynczy nabój waży nie mniej niż 45 granów Samoloty Pojazdy motorowe w ruchu"
-    },
-    {
-     "type": "text",
-     "text": "IRLANDIA PÓŁNOCNA?"
-    },
-    {
-     "type": "text",
-     "text": "Zostają zgłoszone następujące zastrzeżenia:"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik 1 — Gatunki flory występujące w Irlandii Północnej"
-    },
-    {
-     "type": "text",
-     "text": "Wszystkie gatunki"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik II — Gatunki występujące w Irlandii Północnej i. Ssaki — wszystkie gatunki ii. Ptaki — wszystkie gatunki iii. Gady — wszystkie gatunki iv. Płazy — wszystkie gatunki"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik Ill — Gatunki występujące w Irlandii Północnej i. Ssaki — wszystkie gatunki, z wyjątkiem Halichoerus grypus (foka szara) ii. Ptaki — kormoran czubaty, kormoran, łabędź niemy, mewa śmieszka, dziki gołąb iii. Gady — wszystkie gatunki iv. Płazy — wszystkie gatunki"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik IV — Zabronione środki i metody zabijania, chwytania i innej eksploatacji gatunków występujących w Irlandii Północnej"
-    },
-    {
-     "type": "text",
-     "text": "i. Ssaki — wszystkie metody ii. Ptaki — wszystkie gatunki (magnetofony, elektryczne urządzenia mogące zabić i ogłuszyć, sztuczne źródła światła, lustra i inne urządzenia oślepiające, urządzenia do oświetlania celu, noktowizory itp., środki wybuchowe, trutki oraz zatruta lub oszałamiająca przynęta są wyłączone, z wyjątkiem ich dozwolonego wykorzystania do zabijania lub chwytania synogarlicy tureckiej, która ma być pod ochroną zgodnie z konwencją)."
-    },
-    {
-     "type": "text",
-     "text": "4 Zastrzeżenia wycofano w marcu 1987 r."
-    },
-    {
-     "type": "text",
-     "text": "Zastrzeżenia dla Irlandii Północnej, chociaż obszerne, mają wyłącznie tymczasowy charakter. Zaproponowane przez Irlandię Północną Rozporządzenie królewskie (Order in Council) o ochronie przyrody, które w znacznym stopniu przyczyni się do ujednolicenia przepisów prawnych, zgodnie z istniejącymi w Wielkiej Brytanii, prawdopodobnie wejdzie w życie w grudniu 1982 r. Wówczas osobne zastrzeżenia odnośnie do Irlandii Północnej będą mogły zostać zastąpione przez zastrzeżenia zasadniczo podobne do zgłoszonych odnośnie do Wielkiej Brytanii."
-    },
-    {
-     "type": "text",
-     "text": "_ Sprzeciw zawarty w liście Departamentu Środowiska z dnia 25 lutego 1988 r., zarejestrowanym w Sekretariacie Generalnym 29 lutego 1988 r."
-    },
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "ust_1",
-     "text": "Rząd Zjednoczonego Królestwa poddał dalszym uważnym rozważaniom decyzję odnośnie do uzupełnienia załącznika Il i III Konwencji berneńskiej, podjętą na szóstym posiedzeniu Stałego Komitetu w dniach 8-11 grudnia 1987 r. Większość zaproponowanych poprawek jest do zaakceptowania przez Zjednoczone Królestwo. Jednakże dwa z gatunków bezkręgowców zaproponowane do włączenia do załącznika Il nie są objęte ochroną przez przepisy prawa wewnętrznego. Są to: Coenagrion mercuriale, Euphydras aurinia.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Żaden z tych gatunków nie spetnia kryteriów do objęcia ich przepisami Ustawy o faunie, florze i obszarach wiejskich z 1981 r., gdyż obydwa występują powszechnie w Wielkiej Brytanii. Dlatego też nie jest właściwe ich uwzględnienie pomiędzy ściśle chronionymi gatunkami.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "W konsekwencji, zgodnie z art. 17 ust. 3 konwencji, niniejszym listem zgłaszam formalny sprzeciw w imieniu Rządu Zjednoczonego Królestwa przeciwko włączeniu do załącznika II dwóch wyżej wymienionych gatunków.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Deklaracja zawarta w liście Charge d' Affaires z dnia 20 sierpnia 1992 r., zarejestrowanym w Sekretariacie Generalnym 24 sierpnia 1992 r."
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z art. 21 ust. 2 w imieniu Rządu Zjednoczonego Królestwa niniejszym oświadczam, że wyżej wymieniona konwencja będzie miała zastosowanie do Wyspy Man.."
-      },
-      {
-       "type": "text",
-       "text": "Ill. Informacje o państwach, które w terminie późniejszym staną się stronami powyższej konwencji, można uzyskać w Departamencie Prawno-Traktatowym Ministerstwa Spraw Zagranicznych."
-      }
-     ]
-    },
-    {
-     "type": "signature",
-     "text": "Minister Spraw Zagranicznych: D. Rosati"
-    }
-   ]
+   "type": "signature",
+   "text": "Minister Spraw Zagranicznych: D. Rosati"
   }
  ],
+ "annexes": [],
  "footnotes": {}
 }
