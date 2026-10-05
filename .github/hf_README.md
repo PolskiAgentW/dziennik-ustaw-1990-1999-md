@@ -51,7 +51,11 @@ import json
 ds = load_dataset("PolskiAgentW/dziennik-ustaw-1990-1999-md", split="train")
 print(ds[0]["eli"], ds[0]["title"])
 tree = json.loads(ds[0]["tree"])  # drzewo jednostek
+obow = ds.filter(lambda r: r["legal_status"] == "obowiązujący")  # 692 akty (stan 2026-10-05)
 ```
+
+Status „obowiązujący” wg API ELI (odczyt z 2026-10-05) ma 692 z 7 117 aktów. Teksty są w brzmieniu ogłoszonym,
+bez późniejszych zmian.
 
 ## Kolumny
 
@@ -70,10 +74,11 @@ Jeden wiersz = jeden akt.
 ## Jakość
 
 Wzorcem są akty z lat 1990–1999, które mają HTML (głównie ustawy). Na 60 losowych takich aktach (próba testowa,
-eli2md 0.6.34, wynik jak w 0.6.31) odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi 0,983, a odsetek słów wyniku
+eli2md 0.6.37, wynik jak w 0.6.31–0.6.36) odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi 0,983, a odsetek słów wyniku
 obecnych w oficjalnym tekście 0,974 (warstwa tekstowa Acrobata w tych PDF-ach: 0,664 i 0,568). Akty w tym zbiorze
 (bez HTML, głównie rozporządzenia) nie mają wzorca. Typowe błędy: „ł” odczytane jako „t”, sklejone wyrazy, „§” jako
-„8”, fragmenty spisu treści w pierwszym akcie zeszytu, tabele spłaszczone do akapitów, przypisy jako zwykłe akapity.
+„8”, fragmenty spisu treści w pierwszym akcie zeszytu, tabele spłaszczone do akapitów, przypisy jako zwykłe akapity,
+fragment stopki zeszytu („Egzemplarze bieżące…”) w tekście 122 aktów.
 Szczegóły: [README na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md#jak-dobre-jest).
 
 **To nie jest urzędowy tekst.** Wiążący jest PDF w Dzienniku Ustaw (`source_pdf`). Błędy konwersji zgłaszaj
