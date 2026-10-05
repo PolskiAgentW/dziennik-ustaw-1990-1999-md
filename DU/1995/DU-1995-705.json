@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/705",
  "title": "Rozporządzenie Rady Ministrów z dnia 5 grudnia 1995 r. w sprawie nadania statutu Państwowemu Urzędowi Nadzoru Ubezpieczeń.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/705/text.pdf",
  "body": [
   {
@@ -90,6 +90,78 @@
        "num": "2",
        "path": "par_3/ust_2",
        "text": "Prezes może upoważnić osoby, o których mowa w ust. 1, oraz innych pracowników Urzędu zatrudnionych na stanowiskach kierowniczych lub samodzielnych do wydawania decyzji z upoważnienia i w imieniu Prezesa, w określonych przez niego sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W skład Urzędu wchodzą następujące biura (równorzędne komórki organizacyjne):",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "Gabinet Prezesa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "Biuro Prawne,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "Biuro Nadzoru i Statystyki,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_1/pkt_4",
+         "text": "Biuro Kontroli,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_1/pkt_5",
+         "text": "Biuro Pośrednictwa Ubezpieczeniowego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_4/ust_1/pkt_6",
+         "text": "Biuro Administracyjne.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych Urzędu oraz tryb pracy Urzędu określa regulamin organizacyjny nadany przez Prezesa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Prezes może powoływać state lub doraźne zespoły opiniodawcze z określeniem ich nazwy, zakresu, trybu działania oraz składu osobowego.",
        "children": []
       }
      ]

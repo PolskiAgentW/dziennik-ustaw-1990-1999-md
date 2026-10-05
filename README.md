@@ -58,7 +58,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 4864, razem 18364 z 187
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 24.
 
 Rodzaje aktów: Rozporządzenie 4179, Oświadczenie rządowe 294, Umowa międzynarodowa 148, Uchwała 91, Konwencja 68, Protokół 23, Traktat 19, Porozumienie 17, Zarządzenie 15, Układ 8, Statut 1, Ustawa 1.
-Wersje konwertera: eli2md 0.6.37 (2588), eli2md 0.6.34 (2276).
+Wersje konwertera: eli2md 0.6.37 (3275), eli2md 0.6.34 (1589).
 <!-- stats:end -->
 
 ## Akty obowiązujące

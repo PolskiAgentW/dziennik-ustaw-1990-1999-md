@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/541",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 września 1995 r. w sprawie utworzenia ośrodków zamiejscowych Naczelnego Sądu Administracyjnego, określenia ich siedzib oraz właściwości miejscowej i rzeczowej.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/541/text.pdf",
  "body": [
   {
@@ -78,8 +78,77 @@
      "path": "par_1/pkt_7",
      "text": "Ośrodek Zamiejscowy w Poznaniu — dla obszaru województw: gorzowskiego, konińskiego, leszczyńskiego, pilskiego, poznańskiego i zielonogórskiego,",
      "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "Ośrodek Zamiejscowy w Rzeszowie — dla obszaru województw: krośnieńskiego, przemyskiego, rzeszowskiego i tarnobrzeskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "Ośrodek Zamiejscowy w Szczecinie — dla obszaru województw: koszalińskiego i szczecińskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "Ośrodek Zamiejscowy we Wrocławiu — dla obszaru województw: jeleniogórskiego, legnickiego, opolskiego, wałbrzyskiego i wrocławskiego.",
+     "children": []
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ośrodki zamiejscowe są właściwe w sprawach, o których mowa w art. 16i 17 ustawy z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym, z zakresu działania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "organów administracji publicznej mających siedzibę na terenie województw objętych właściwością ośrodków zamiejscowych określoną w § 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Prezesa Głównego Urzędu Cet w postępowaniu odwoławczym w sprawach załatwianych w I instancji przez organy celne mające siedzibę na terenie województw objętych właściwością ośrodków zamiejscowych określoną w § 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "kierownika Urzędu do Spraw Kombatantów i Osób Represjonowanych w sprawach osób zamieszkałych na terenie województw objętych właściwością ośrodków zamiejscowych określoną w § 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 października 1995 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. VVałęsa"
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Oleksy"
+  },
+  {
+   "type": "text",
+   "text": "nadesłanego zamówienia w Wydziale Wydawnictw i Poligrafii Egzemplarze bieżące i z lat ubiegłych oraz załączniki można nabywać na podstawie Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa P-1."
   }
  ],
  "annexes": [],
