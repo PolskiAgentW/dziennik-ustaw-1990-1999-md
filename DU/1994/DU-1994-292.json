@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/292",
  "title": "Rozporządzenie Ministra Współpracy Gospodarczej z Zagranicą z dnia 11 maja 1994 r. zmieniające rozporządzenie w sprawie wykazu towarów dla celów poboru podatku od towarów i usług oraz podatku akcyzowego w imporcie.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/292/text.pdf",
  "body": [
   {
@@ -10,293 +10,226 @@
   },
   {
    "type": "text",
-   "text": "290"
+   "text": "ROZPORZĄDZENIE MINISTRA WSPÓŁPRACY GOSPODARCZEJ Z ZAGRANICĄ"
   },
   {
    "type": "text",
-   "text": "OŚWIADCZENIE RZĄDOWE"
+   "text": "z dnia 11 maja 1994 r."
   },
   {
    "type": "text",
-   "text": "z dnia 7 kwietnia 1994 r."
+   "text": "zmieniające rozporządzenie w sprawie wykazu towarów dla celów poboru podatku od towarów i usług oraz podatku akcyzowego w imporcie."
   },
   {
    "type": "text",
-   "text": "w sprawie wymiany dokumentów ratyfikacyjnych Traktatu koncyliacyjnego i arbitrażowego między Rzecząpospolitą Polską a Konfederacją Szwajcarską, sporządzonego w Warszawie dnia 20 stycznia 1993 r."
+   "text": "Na podstawie art. 54 ust. 2 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, os. SES) zarzydzu się, nań następuje: § 1. W rozporządzeniu Ministra Współpracy Gospodarczej z Zagranicą z dnia 31 grudnia 1993 r. w sprawie wykazu towarów dla celów poboru podatku od towarów i usług oraz"
   },
   {
    "type": "text",
-   "text": "Podaje się niniejszym do wiadomości, że zgodnie z artykułem 18 ustęp 2 Traktatu koncyliacyjnego i arbitrażowego między Rzecząpospolitą Polską a Konfederacją Szwajcarską, sporządzonego w Warszawie dnia 20 stycznia 1993 r., nastąpiła w Bernie dnia 9 marca 1994 r. wymiana dokumentów ratyfikacyjnych wyżej wymienionego traktatu."
+   "text": "Kod PCN 0301 10100 | — — Słodkowodne 0301 10900 | — — Morskie podatku akcyzowego w imporcie (Dz. U. z 1994 r. Nr 5, poz."
   },
   {
-   "type": "text",
-   "text": "Powyższy traktat wszedł w życie dnia 9 marca 1994 r."
-  },
-  {
-   "type": "signature",
-   "text": "Minister Spraw Zagranicznych: A. Olechowski"
-  },
-  {
-   "type": "text",
-   "text": "291"
-  },
-  {
-   "type": "text",
-   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
-  },
-  {
-   "type": "text",
-   "text": "z dnia 24 maja 1994 r."
-  },
-  {
-   "type": "text",
-   "text": "w sprawie wysokości opłaty ryczałtowej za leki podstawowe."
-  },
-  {
-   "type": "text",
-   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 27 września 1991 r. o zasadach odpłatności za leki i artykuły sanitarne (Dz. U. Nr 94, poz. 422) zarządza się, co następuje:"
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Opłata ryczałtowa za lek podstawowy wynosi osiem tysięcy złotych.",
+   "type": "pkt",
+   "num": "23",
+   "path": "pkt_23",
+   "text": "wprowadza się następujące zmiany:",
    "children": []
   },
   {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 21 września 1992 r. w sprawie wysokości opłaty ryczałtowej za leki podstawowe (Dz. U. Nr 71, poz. 356). §3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w wykazie towarów, których przywóz z zagranicy jest zwolniony od podatku, stanowiącym załącznik nr 1 do rozporządzenia, wprowadza się następujące zmiany:",
    "children": [
     {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: W. Pawlak 292"
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "pozycje towarowe określone kodami PCN 0301 10 10 0 i 0301 10 90 O otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyszczególnienie"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "ROZPORZĄDZENIE MINISTRA WSPÓŁPRACY GOSPODARCZEJ Z ZAGRANICĄ"
-    },
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "po pozycji towarowej określonej kodem PCN 2401 10 90 O dodaje się pozycję towarową określoną kodem PCN 3917 10 10 O w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kod PCN"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 3917 Rury, przewody i węże oraz ich wyposażenie (np. złącza, kolanka, kołnierze) z tworzyw sztucznych: 3917 10 — Sztuczne jelita (osłonki kiełbas) z utwardzonych białek lub materiałów celulozowych: 3917 10100 | — — Z utwardzonych białek"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "£ Dziennik Ustaw Nr 67 — 1238 — Poz. 292"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w wykazie towarów, których przywóz z zagranicy jest objęty stawką podatku w wysokości 7%, stanowiącym załącznik nr 2 do rozporządzenia, wprowadza się następujące zmiany:",
+   "children": [
     {
-     "type": "text",
-     "text": "z dnia 11 maja 1994 r."
-    },
-    {
-     "type": "text",
-     "text": "zmieniające rozporządzenie w sprawie wykazu towarów dla celów poboru podatku od towarów i usług oraz podatku akcyzowego w imporcie."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 54 ust. 2 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, os. SES) zarzydzu się, nań następuje: § 1. W rozporządzeniu Ministra Współpracy Gospodarczej z Zagranicą z dnia 31 grudnia 1993 r. w sprawie wykazu towarów dla celów poboru podatku od towarów i usług oraz"
-    },
-    {
-     "type": "text",
-     "text": "Kod PCN 0301 10100 | — — Słodkowodne 0301 10900 | — — Morskie podatku akcyzowego w imporcie (Dz. U. z 1994 r. Nr 5, poz."
-    },
-    {
-     "type": "pkt",
-     "num": "23",
-     "path": "par_2/pkt_23",
-     "text": "wprowadza się następujące zmiany:",
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "skreśla się pozycję towarową określoną kodem PCN 2202 90 100,",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "par_2/pkt_1",
-     "text": "w wykazie towarów, których przywóz z zagranicy jest zwolniony od podatku, stanowiącym załącznik nr 1 do rozporządzenia, wprowadza się następujące zmiany:",
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "po pozycji towarowej określonej kodem PCN 4401 30 10 O dodaje się pozycję towarową określoną kodem PCN 4803 00 10 O w brzmieniu:",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "par_2/pkt_1/lit_a",
-       "text": "pozycje towarowe określone kodami PCN 0301 10 10 0 i 0301 10 90 O otrzymują brzmienie:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Wyszczególnienie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "par_2/pkt_1/lit_b",
-       "text": "po pozycji towarowej określonej kodem PCN 2401 10 90 O dodaje się pozycję towarową określoną kodem PCN 3917 10 10 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kod PCN"
-        },
-        {
-         "type": "text",
-         "text": "Wyszczególnienie 3917 Rury, przewody i węże oraz ich wyposażenie (np. złącza, kolanka, kołnierze) z tworzyw sztucznych: 3917 10 — Sztuczne jelita (osłonki kiełbas) z utwardzonych białek lub materiałów celulozowych: 3917 10100 | — — Z utwardzonych białek"
-        },
-        {
-         "type": "note",
-         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "£ Dziennik Ustaw Nr 67 — 1238 — Poz. 292"
-        }
-       ]
+       "type": "text",
+       "text": "= Kod PCN Wyszczególnienie 4803 00 Papier do produkcji papieru toaletowego lub chusteczek higienicznych, ręczników i pielu- | szek oraz podobny papier stosowany dla celów gospodarczych lub sanitarnych, wata | celulozowa i wstęgi z włókien celulozowych, krepowane, marszczone, tłoczone, perforowane, barwione powierzchniowo, z powierzchnią dekorowaną lub z nadrukiem, w zwojach o szerokości powyżej 36 cm lub w postaci arkuszy prostokątnych (również kwadratowych), w których po rozprostowaniu co najmniej jeden bok przekracza 36 cm: 4803 00 100 | — Wata celulozowa"
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "par_2/pkt_2",
-     "text": "w wykazie towarów, których przywóz z zagranicy jest objęty stawką podatku w wysokości 7%, stanowiącym załącznik nr 2 do rozporządzenia, wprowadza się następujące zmiany:",
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "po pozycji towarowej określonej kodem PCN 4818 40 dodaje się pozycje towarowe określone kodami PCN 4818 40 11 0, 4818 40 13 0 i 4818 40 19 O w brzmieniu:",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "par_2/pkt_2/lit_a",
-       "text": "skreśla się pozycję towarową określoną kodem PCN 2202 90 100,",
-       "children": []
+       "type": "text",
+       "text": "Kod PCN Wyszczególnienie"
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "par_2/pkt_2/lit_b",
-       "text": "po pozycji towarowej określonej kodem PCN 4401 30 10 O dodaje się pozycję towarową określoną kodem PCN 4803 00 10 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "= Kod PCN Wyszczególnienie 4803 00 Papier do produkcji papieru toaletowego lub chusteczek higienicznych, ręczników i pielu- | szek oraz podobny papier stosowany dla celów gospodarczych lub sanitarnych, wata | celulozowa i wstęgi z włókien celulozowych, krepowane, marszczone, tłoczone, perforowane, barwione powierzchniowo, z powierzchnią dekorowaną lub z nadrukiem, w zwojach o szerokości powyżej 36 cm lub w postaci arkuszy prostokątnych (również kwadratowych), w których po rozprostowaniu co najmniej jeden bok przekracza 36 cm: 4803 00 100 | — Wata celulozowa"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "par_2/pkt_2/lit_c",
-       "text": "po pozycji towarowej określonej kodem PCN 4818 40 dodaje się pozycje towarowe określone kodami PCN 4818 40 11 0, 4818 40 13 0 i 4818 40 19 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kod PCN Wyszczególnienie"
-        },
-        {
-         "type": "text",
-         "text": "> — — - Podpaski higieniczne, tampony i podobne wyroby: 481840110 | — — — Podpaski higieniczne 481840130 | — — — Tampony 481840190 | — — — Pozostałe"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "d",
-       "path": "par_2/pkt_2/lit_d",
-       "text": "po pozycji towarowej określonej kodem PCN 5601 10 90 O dodaje się pozycje towarowe określone kodami PCN 5601 21 10 0, 5601 21 90 0, 5601 22 10 0, 5601 22 91 0, 5601 22 99 0 i 5601 29 00 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kod PCN Wyszczególnienie"
-        },
-        {
-         "type": "text",
-         "text": "— Wata; inne wyroby z waty: 21 — — Z bawełnianej: 21100 | — — — Higroskopijnej 21900 | — — — Pozostałej 22 — Z włókien chemicznych: 22100 — — Zwoje o średnicy nie większej niż 8 mm — — - Pozostałe: - 22910 — — — Z włókien syntetycznych 22990 — — — Z włókien przetworzonych 29 00 0 — Pozostałe"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "e",
-       "path": "par_2/pkt_2/lit_e",
-       "text": "po pozycji towarowej określonej kodem PCN 8208 40 00 O dodaje się pozycję towarową określoną kodem PCN 8214 10 00 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "8214 Pozostałe artykuły nożownicze (np. maszynki do strzyżenia włosów, topory rzeźnicze lub kuchenne, tasaki, noże do maszynek do mięsa, noże do papieru); zestawy i akcesoria do manicure lub pedicure (nawet pilniki do paznokci): 821410000 | — Noże do papieru, otwieracze do listów, temperówki do ołówków i ostrza do nich?"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "f",
-       "path": "par_2/pkt_2/lit_f",
-       "text": "po pozycji towarowej określonej kodem PCN 8437 90 00 O dodaje się pozycje towarowe określone kodami PCN: « 8467 81 00 0, 8467 89 00 0, 8469 10000, 8469 21 000, 8469 29 000, 8469 31 000, 8469 39 00 O oraz 8508 20 10 0, 8508 20 30 0, 8508 20 90 O i 8508 80 90 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kod PCN Wyszczególnienie KZ eG; 8467 Narzędzia do pracy ręcznej, pneumatyczne lub z własnym silnikiem nieelektrycznym: — Pozostałe narzędzia: — — Pity łańcuchowe?$ — — Pozostałe”?",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "8467 81 00 0 8467 89 00 0"
-        },
-        {
-         "type": "note",
-         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "8469"
-        },
-        {
-         "type": "text",
-         "text": "Maszyny do pisania i maszyny do redagowania tekstów: — Automatyczne maszyny do pisania i maszyny do redagowania tekstów”? 8469 10 00 0 — Pozostałe maszyny do pisania, elektryczne: — — O masie nie przekraczającej 12 kg, bez futerału?* 8469 21 000 — — Pozostałe”? 8469 29 00 0 — Pozostałe maszyny do pisania, nieelektryczne: — — 0 masie nie przekraczającej 12 kg, bez futerału>? 8469 31 00 0 — — Pozostałe”? 8469 39 00 0 8508 Narzędzia elektromechaniczne, ręczne, z własnym silnikiem elektrycznym: 8508 20 — Piły: — — Łańcuchowe?* 8508 20 100 — — Tarczowe”§ 8508 20 30 0 — — Pozostałe?® 8508 20 90 0 8508 80 — Pozostałe narzędzia: — Pozostałe: — — Pozostałe: 8508 80 90 0 — — — Pozostałe”*"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "g",
-       "path": "par_2/pkt_2/lit_g",
-       "text": "po pozycji towarowej określonej kodem PCN 8712 00 10 O dodaje się pozycję towarową określoną kodem PCN 8712 00 30 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kod PCN"
-        },
-        {
-         "type": "text",
-         "text": "Wyszczególnienie"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "h",
-       "path": "par_2/pkt_2/lit_h",
-       "text": "w zamieszczonych pod tabelą Objaśnieniach do podpozycji oznaczonych symbolem * w kolumnie Pozycja, po wyrazach „*! brykiety z trocin” dodaje się wyrazy „** urządzenia do zapisywania i odczytywania tekstów w alfabecie Braille'a”,",
-       "children": []
+       "type": "text",
+       "text": "> — — - Podpaski higieniczne, tampony i podobne wyroby: 481840110 | — — — Podpaski higieniczne 481840130 | — — — Tampony 481840190 | — — — Pozostałe"
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "par_2/pkt_3",
-     "text": "w wykazie wyrobów akcyzowych, stanowiącym załącznik nr 5 do rozporządzenia, wprowadza się następujące zmiany:",
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "po pozycji towarowej określonej kodem PCN 5601 10 90 O dodaje się pozycje towarowe określone kodami PCN 5601 21 10 0, 5601 21 90 0, 5601 22 10 0, 5601 22 91 0, 5601 22 99 0 i 5601 29 00 O w brzmieniu:",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "par_2/pkt_3/lit_a",
-       "text": "po pozycji towarowej określonej kodem PCN 2103 90 30 0 dodaje się pozycję towarową określoną kodem PCN 2106 90 91 O w brzmieniu:",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kod PCN Wyszczególnienie"
-        },
-        {
-         "type": "text",
-         "text": "2106 2106 Przetwory spożywcze gdzie indziej nie wymienione ani nie włączone: 2106 90 — Pozostałe: —— — Pozostałe: 210690910 | — — — Nie zawierające tłuszczów i protein mleka, sacharozy, izoglukozy, glukozy lub skrobi lub zawierające mniej niż 1,5% tłuszczu mleka, 2,5% protein mleka, 5% sacharozy lub izoglukozy, 5% glukozy lub skrobi!*"
-        }
-       ]
+       "type": "text",
+       "text": "Kod PCN Wyszczególnienie"
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "par_2/pkt_3/lit_b",
-       "text": "w zamieszczonych pod tabelą Objaśnieniach do podpozycji oznaczonych symbolem * umieszczonym w kolumnie Pozycja po wyrazach „”* dotyczy zestawów zawierających środki upiększające lub wyroby perfumeryjne\" dodaje się wyrazy „,'* dotyczy tylko gumy do żucia”.",
-       "children": []
+       "type": "text",
+       "text": "— Wata; inne wyroby z waty: 21 — — Z bawełnianej: 21100 | — — — Higroskopijnej 21900 | — — — Pozostałej 22 — Z włókien chemicznych: 22100 — — Zwoje o średnicy nie większej niż 8 mm — — - Pozostałe: - 22910 — — — Z włókien syntetycznych 22990 — — — Z włókien przetworzonych 29 00 0 — Pozostałe"
       }
      ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "po pozycji towarowej określonej kodem PCN 8208 40 00 O dodaje się pozycję towarową określoną kodem PCN 8214 10 00 O w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "8214 Pozostałe artykuły nożownicze (np. maszynki do strzyżenia włosów, topory rzeźnicze lub kuchenne, tasaki, noże do maszynek do mięsa, noże do papieru); zestawy i akcesoria do manicure lub pedicure (nawet pilniki do paznokci): 821410000 | — Noże do papieru, otwieracze do listów, temperówki do ołówków i ostrza do nich?"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_2/lit_f",
+     "text": "po pozycji towarowej określonej kodem PCN 8437 90 00 O dodaje się pozycje towarowe określone kodami PCN: « 8467 81 00 0, 8467 89 00 0, 8469 10000, 8469 21 000, 8469 29 000, 8469 31 000, 8469 39 00 O oraz 8508 20 10 0, 8508 20 30 0, 8508 20 90 O i 8508 80 90 O w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kod PCN Wyszczególnienie KZ eG; 8467 Narzędzia do pracy ręcznej, pneumatyczne lub z własnym silnikiem nieelektrycznym: — Pozostałe narzędzia: — — Pity łańcuchowe?$ — — Pozostałe”?",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8467 81 00 0 8467 89 00 0"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "8469"
+      },
+      {
+       "type": "text",
+       "text": "Maszyny do pisania i maszyny do redagowania tekstów: — Automatyczne maszyny do pisania i maszyny do redagowania tekstów”? 8469 10 00 0 — Pozostałe maszyny do pisania, elektryczne: — — O masie nie przekraczającej 12 kg, bez futerału?* 8469 21 000 — — Pozostałe”? 8469 29 00 0 — Pozostałe maszyny do pisania, nieelektryczne: — — 0 masie nie przekraczającej 12 kg, bez futerału>? 8469 31 00 0 — — Pozostałe”? 8469 39 00 0 8508 Narzędzia elektromechaniczne, ręczne, z własnym silnikiem elektrycznym: 8508 20 — Piły: — — Łańcuchowe?* 8508 20 100 — — Tarczowe”§ 8508 20 30 0 — — Pozostałe?® 8508 20 90 0 8508 80 — Pozostałe narzędzia: — Pozostałe: — — Pozostałe: 8508 80 90 0 — — — Pozostałe”*"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_2/lit_g",
+     "text": "po pozycji towarowej określonej kodem PCN 8712 00 10 O dodaje się pozycję towarową określoną kodem PCN 8712 00 30 O w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kod PCN"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_2/lit_h",
+     "text": "w zamieszczonych pod tabelą Objaśnieniach do podpozycji oznaczonych symbolem * w kolumnie Pozycja, po wyrazach „*! brykiety z trocin” dodaje się wyrazy „** urządzenia do zapisywania i odczytywania tekstów w alfabecie Braille'a”,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w wykazie wyrobów akcyzowych, stanowiącym załącznik nr 5 do rozporządzenia, wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "po pozycji towarowej określonej kodem PCN 2103 90 30 0 dodaje się pozycję towarową określoną kodem PCN 2106 90 91 O w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kod PCN Wyszczególnienie"
+      },
+      {
+       "type": "text",
+       "text": "2106 2106 Przetwory spożywcze gdzie indziej nie wymienione ani nie włączone: 2106 90 — Pozostałe: —— — Pozostałe: 210690910 | — — — Nie zawierające tłuszczów i protein mleka, sacharozy, izoglukozy, glukozy lub skrobi lub zawierające mniej niż 1,5% tłuszczu mleka, 2,5% protein mleka, 5% sacharozy lub izoglukozy, 5% glukozy lub skrobi!*"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "w zamieszczonych pod tabelą Objaśnieniach do podpozycji oznaczonych symbolem * umieszczonym w kolumnie Pozycja po wyrazach „”* dotyczy zestawów zawierających środki upiększające lub wyroby perfumeryjne\" dodaje się wyrazy „,'* dotyczy tylko gumy do żucia”.",
+     "children": []
     }
    ]
   },

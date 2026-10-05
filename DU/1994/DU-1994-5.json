@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/5",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 13 grudnia 1993 r. w sprawie typów aptek, zakresu i rodzaju czynności należących do aptek poszczególnych typów oraz wymogów dotyczących lokalu i wyposażenia aptek.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/5/text.pdf",
  "body": [
   {
@@ -9,71 +9,20 @@
    "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "pkt",
-   "num": "21",
-   "path": "pkt_21",
-   "text": "Zakłady Mechaniczne Urządzeń Wiertniczych w Sosnowcu,",
-   "children": []
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ"
   },
   {
-   "type": "pkt",
-   "num": "22",
-   "path": "pkt_22",
-   "text": "Biuro Urządzania Lasu i Geodezji Leśnej w Warszawie,",
-   "children": []
+   "type": "text",
+   "text": "z dnia 13 grudnia 1993 r."
   },
   {
-   "type": "pkt",
-   "num": "23",
-   "path": "pkt_23",
-   "text": "Przedsiębiorstwo Naprawy Taboru Leśnego w Przeworsku,",
-   "children": []
+   "type": "text",
+   "text": "w sprawie typów aptek, zakresu i rodzaju czynności należących do aptek poszczególnych typów oraz wymogów dotyczących lokalu i wyposażenia aptek."
   },
   {
-   "type": "pkt",
-   "num": "24",
-   "path": "pkt_24",
-   "text": "Przedsiębiorstwo Naprawy Taboru Leśnego im. Aleksandra Wizy w Trzciance.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Inne jednostki nadzorowane:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_4/pkt_1",
-     "text": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej w Warszawie,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_4/pkt_2",
-     "text": "Państwowe Gospodarstwo Leśne Lasy Państwowe.",
-     "children": [
-      {
-       "type": "text",
-       "text": "ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ"
-      },
-      {
-       "type": "text",
-       "text": "z dnia 13 grudnia 1993 r."
-      },
-      {
-       "type": "text",
-       "text": "w sprawie typów aptek, zakresu i rodzaju czynności należących do aptek poszczególnych typów oraz wymogów dotyczących lokalu i wyposażenia aptek."
-      },
-      {
-       "type": "text",
-       "text": "Na podstawie art. 47 w związku z art. 37 ust. 3 ustawy z dnia 10 października 1991 r. o środkach farmaceutycznych, materiałach medycznych, aptekach, hurtowniach i nadzorze farmaceutycznym (Dz. U. Nr 105, poz. 452 oraz z 1993 r. Nr 16, poz. 68 i Nr 47, poz. 211) zarządza się, co następuje:"
-      }
-     ]
-    }
-   ]
+   "type": "text",
+   "text": "Na podstawie art. 47 w związku z art. 37 ust. 3 ustawy z dnia 10 października 1991 r. o środkach farmaceutycznych, materiałach medycznych, aptekach, hurtowniach i nadzorze farmaceutycznym (Dz. U. Nr 105, poz. 452 oraz z 1993 r. Nr 16, poz. 68 i Nr 47, poz. 211) zarządza się, co następuje:"
   },
   {
    "type": "par",
@@ -528,45 +477,6 @@
   {
    "type": "signature",
    "text": "Minister Obrony Narodowej: P. Kołodziejczyk"
-  },
-  {
-   "type": "text",
-   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
-  },
-  {
-   "type": "text",
-   "text": "z dnia 17 grudnia 1993 r."
-  },
-  {
-   "type": "text",
-   "text": "w sprawie bezpieczeństwa i higieny pracy przy produkcji cukru. Na podstawie art. 208 § 2 Kodeksu pracy zarządza się, co następuje:"
-  },
-  {
-   "type": "heading",
-   "label": "Rozdział 1",
-   "text": "Przepisy ogólne"
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Rozporządzenie określa warunki bezpieczeństwa i higieny pracy pracowników zatrudnionych w zakładach pracy przy:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "par_1/pkt_1",
-     "text": "produkcji, pakowaniu i magazynowaniu cukru,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "par_1/pkt_2",
-     "text": "magazynowaniu wysłodków i melasy. § 2. Zakład pracy obowiązany jest wyposażyć stanowiska pracy związane z obsługą urządzeń technicznych w instrukcje bezpieczeństwa i higieny pracy ze szczególnym uwzględnieniem sposobu postępowania w przypadku awarii tych urządzeń.",
-     "children": []
-    }
-   ]
   }
  ],
  "annexes": [],
