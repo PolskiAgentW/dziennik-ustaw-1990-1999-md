@@ -1,0 +1,404 @@
+{
+ "eli": "DU/1998/739",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 31 sierpnia 1998 r. w sprawie sposobu technicznego przygotowania sieci telekomunikacyjnej do kontroli rozmów telefonicznych oraz sposobu dokonywania, rejestracji, przechowywania, odtwarzania i niszczenia zapisów z kontrolowanych rozmów telefonicznych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/739/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 sierpnia 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu technicznego przygotowania sieci telekomunikacyjnej do kontroli rozmów telefonicznych oraz sposobu dokonywania, rejestracji, przechowywania, odtwarzania i niszczenia zapisów z kontrolowanych rozmów telefonicznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 242 ustawy z dnia 6 czerwca 1997 r. — Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Operator sieci telekomunikacyjnej ma obowiązek przygotowania sieci do przeprowadzania kontroli rozmów telefonicznych oraz innych przekazów informacji i przystosowania jej do utrwalania treści takich rozmów i przekazów, przy użyciu urządzeń samoczynnie uruchamiających zapis i wyłączających go po zakończeniu utrwalania, w warunkach uniemożliwiających dostęp do utrwalanych treści podmiotom do tego nie uprawnionym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przygotowanie, o którym mowa w ust. 1, polega na utworzeniu systemu dostępu do treści rozmów te-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "lefonicznych i treści innych przekazów informacji spełniającego funkcje:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "wprowadzania do systemu danych identyfikujących użytkownika sieci,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "ujmowania sygnałów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "odbioru sygnałów i dokonywania zapisu treści rozmów lub innych przekazów informacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "System, o którym mowa w ust. 2, powinien zapewniać niezwłoczne przeprowadzenie kontroli rozmowy telefonicznej lub innego przekazu informacji i danych im towarzyszących, właściwych dla danego systemu telekomunikacyjnego, oraz właściwą jakość przekazu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Czynności związane z wykonywaniem orzeczeń i zarządzeń w przedmiocie kontroli i utrwalenia rozmów telefonicznych lub innych przekazów informacji, a także związane z nimi doręczenia, powinny być realizowane w sposób przewidziany dla przekazywania wiadomości, na które rozciąga się obowiązek zachowania tajemnicy państwowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Utrwalenia treści rozmowy telefonicznej lub innego przekazu informacji dokonuje się przy użyciu środków technicznych, przez zapis przekazywanych informacji przychodzących do lub wychodzących od określonego użytkownika sieci telekomunikacyjnej, w sposób umożliwiający ich odtworzenie przy użyciu urządzeń odtwarzających.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Utrwalenia dokonuje podmiot wskazany w postanowieniu sądu lub prokuratora, na nośniku umożliwiającym odtworzenie treści informacji, zwanym dalej „nośnikiem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Osoba dokonująca utrwalenia treści rozmowy telefonicznej zapisuje lub oznacza na nośniku, o którym mowa w ust. 2, sygnaturę akt sprawy, w której czynność ta została zlecona, swoje imię, nazwisko i stanowisko służbowe, a także dane dotyczące podstawy utrwalania. Dotyczy to także czasu rozpoczęcia i zakończenia utrwalania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Operator sieci telekomunikacyjnej zapewnia osobie, o której mowa w § 3 ust. 3, możliwość utrwalenia informacji przesyłanych w sieci, w sposób uniemożliwiający zapoznanie się przez tę osobę z treścią utrwalanych informacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W razie przekazywania informacji w sieci, po ich zakodowaniu przez operatora, ma on obowiązek ich udostępnienia w formie nie zakodowanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Dane identyfikujące odbiorcę i nadawcę informacji, czas i miejsce jej nadania oraz odbioru mogą być utrwalane odrębnie od treści rozmów lub treści innych przekazów informacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W notatce urzędowej z czynności kontroli i utrwalenia, sporządzonej przez osobę upoważnioną do jej przeprowadzenia, należy zamieścić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "datę i miejsce sporządzenia notatki oraz sygnaturę akt sprawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "imię, nazwisko i stanowisko służbowe osoby sporządzającej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "oznaczenie czynności ze wskazaniem podstawy jej przeprowadzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "imię i nazwisko użytkownika sieci telekomunikacyjnej lub nazwę podmiotu będącego użytkownikiem oraz dane identyfikujące urządzenie służące do przeprowadzania rozmów, których treść podlega utrwaleniu, a także, w miarę możności, dane identyfikujące urządzenia, z którymi dokonywane byty połączenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_1/pkt_5",
+       "text": "rodzaj i typ aparatury utrwalającej oraz niezbędne dane o pracy urządzenia utrwalającego, w tym rodzaj i typ użytego nośnika i parametry zapisu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_1/pkt_6",
+       "text": "czas rozpoczęcia i zakończenia zapisu, z zaznaczeniem, czy zostało użyte urządzenie do automatycznego uruchamiania i wyłączania aparatury,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_1/pkt_7",
+       "text": "dane pozwalające na identyfikację użytego nośnika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/ust_1/pkt_8",
+       "text": "w miarę potrzeby inne dane dotyczące dokonywanej czynności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W razie uszkodzenia aparatury utrwalającej lub nośnika bądź ich zatrzymania w trakcie zapisu, czyni się o tym odpowiednią wzmiankę w notatce, o której mowa w ust. 1. Przepis § 3 ust. 3 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Po zakończeniu utrwalania nośnik, na którym dokonywano zapisu, osoba, o której mowa w § 3 ust. 3, opakowuje wraz z notatką wymienioną w § 6, oznacza sygnaturą akt sprawy i przekazuje organowi zarządzającemu utrwalenie treści rozmowy telefonicznej lub innego przekazu informacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Operator sieci telekomunikacyjnej zapewnia rejestrację faktu przeprowadzenia kontroli rozmowy telefonicznej i innego przekazu informacji, gromadząc dane o przeprowadzonych kontrolach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Dane te obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "sygnaturę akt sprawy i datę wydania postanowienia sądu lub prokuratora,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "datę przeprowadzenia kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "informację o podmiocie przeprowadzającym kontrolę i osobie dokonującej czynności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_2/pkt_4",
+       "text": "imię i nazwisko użytkownika sieci lub nazwę podmiotu będącego użytkownikiem, w stosunku do którego zarządzono kontrolę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_2/pkt_5",
+       "text": "czas dokonywania kontroli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Gromadzenie, przechowywanie i udostępnianie danych, o których mowa w ust. 1 i 2, odbywa się przy zastosowaniu przepisów dotyczących wiadomości, na",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "które rozciąga się obowiązek zachowania tajemnicy państwowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W protokole czynności, podczas której nastąpiło odtworzenie zapisu, zamieszcza się imię, nazwisko i stanowisko służbowe osoby dokonującej odtworzenia oraz dane, o których mowa w § 6 ust. 1 pkt 41 5, oraz dane dotyczące rodzaju i typu aparatury odtwarzającej. W wypadkach wydawania przez sąd lub prokuratora zgody, o której mowa w art. 237 8 6 Kodeksu postępowania karnego, należy nadto zamieścić w protokole datę jej wydania i sygnaturę akt sprawy, w której została wydana.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Przy odtwarzaniu zapisu może być użyte dodatkowe urządzenie korygujące lub wzmacniające dźwięk. Należy o tym dokonać wzmianki w protokole czynności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Jeżeli okaże się to konieczne dla zapewnienia bezpieczeństwa osoby, której głos lub wizerunek zostały utrwalone, sąd lub prokurator może zarządzić odtworzenie w warunkach uniemożliwiających jej rozpoznanie. Czynności tej należy dokonać w sposób zapewniający, że zapis na nośniku lub nośnik nie ulegną uszkodzeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "O uszkodzeniu nośnika w związku z odtwarzaniem należy uczynić adnotację w protokole czynności. W razie uszkodzenia nośnika w innych okolicznościach, należy sporządzić odpowiednią notatkę urzędową.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Nośnik z zapisami treści rozmów telefonicznych lub innych przekazów informacji przechowuje się i przesyła w warunkach zabezpieczających przed utratą, zniszczeniem lub uszkodzeniem, zwłaszcza przed szkodliwym działaniem środków chemicznych, czynników mechanicznych, temperatury, promieniowania, pola magnetycznego lub elektrycznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Zapis treści rozmowy telefonicznej lub innego przekazu informacji, którego zniszczenie sąd zarządził na podstawie art. 238 § 3 Kodeksu postępowania karnego, podlega usunięciu w sposób uniemożliwiający odtworzenie zapisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Jeżeli mimo usunięcia zapisu zachodzi możliwość jego odtworzenia, należy zarządzić fizyczne zniszczenie nośnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Z czynności usunięcia zapisu lub zniszczenia nośnika sporządza się protokół.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Traci moc rozporządzenie Ministrów Sprawiedliwości i Obrony Narodowej z dnia 10 maja 1983 r. w sprawie sposobu dokonywania, zabezpieczania, przechowywania, odtwarzania oraz niszczenia zapisów treści rozmów telefonicznych (Dz. U. Nr 27, poz. 133).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: w z. J. Niemcewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

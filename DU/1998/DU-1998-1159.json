@@ -1,0 +1,2897 @@
+{
+ "eli": "DU/1998/1159",
+ "title": "Rozporządzenie Rady Ministrów z dnia 22 grudnia 1998 r. w sprawie trybu i warunków postępowania domów maklerskich i banków prowadzących działalność maklerską oraz banków prowadzących rachunki papierów wartościowych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/1159/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW z dnia 22 grudnia 1998 r. w sprawie trybu i warunków postępowania domów maklerskich i banków prowadzących działalność maklerską oraz banków prowadzących rachunki papierów wartościowych. Na podstawie art. 60 ust.1 pkt 1 ustawy z dnia 21 sierpnia 1997 r.— Prawo o publicznym obrocie papierami wartościowymi (Dz. U. Nr 118, poz. 754 i Nr 141, poz. 945 oraz z 1998 r. Nr 107, poz. 669 i Nr 113, poz.715) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przepisy ogólne 8 1. Rozporządzenie określa tryb i warunki postępowania domów maklerskich i banków prowadzących działalność maklerską oraz banków prowadzących rachunki papierów wartościowych przy:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zawieraniu transakcji i dokonywaniu rozliczeń,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "prowadzeniu ewidencji i archiwizacji transakcji,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "ustanawianiu i realizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie papierów wartościowych,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "zabezpieczaniu wierzytelności na papierach wartościowych dopuszczonych do publicznego obrotu. 8 2. Ilekroć w rozporządzeniu jest mowa o:",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawie — rozumie się przez to ustawę z dnia 21 sierpnia 1997 r.— Prawo o publicznym obrocie papierami wartościowymi (Dz. U. Nr 118, poz. 754",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "i Nr 141, poz. 945 oraz z 1998 r. Nr 107, poz. 669 i Nr 113, poz. 715),"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "domu maklerskim — rozumie się przez to również bank prowadzący działalność maklerską oraz podmiot, o którym mowa w art. 52 ust. 1 ustawy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "banku prowadzącym rachunki papierów wartościowych — rozumie się przez to bank, o którym mowa w art. 57 ustawy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "zleceniu klienta — rozumie się przez to umowę, o której mowa w art. 34 ust. 3 ustawy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "zleceniu brokerskim — rozumie się przez to zlecenie lub ofertę, a także odpowiedź na ofertę, wystawiane przez dom maklerski na podstawie zlecenia klienta i przekazywane na rynek regulowany w celu realizacji tego zlecenia zgodnie z zasadami obrotu na tym rynku,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "giełdzie — rozumie się przez to giełdę papierów wartościowych,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "rynku pozagiełdowym — rozumie się przez to rynek utworzony zgodnie z przepisami art. 111—117 ustawy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "sesji — rozumie się przez to sesję giełdową, a także dzień transakcyjny na regulowanym rynku pozagiełdowym,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "dzień transakcyjny — rozumie się przez to dzień, w którym zgodnie z przepisami dotyczącymi danego rynku regulowanego zawierane są na nim transakcje.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "prawie do otrzymania papieru wartościowego — rozumie się przez to prawo wynikające z zobowiązania, o którym mowa w art. 7 ust. 6 ustawy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "rejestrze operacyjnym — rozumie się przez to rejestr papierów wartościowych i praw do otrzymania papierów wartościowych, które mogą być przedmiotem zlecenia sprzedaży, przed otwarciem rejestru sesji, o którym mowa w pkt. 12. Liczba papierów wartościowych i praw do otrzymania papierów wartościowych w rejestrze operacyjnym jest równa sumie liczby:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_11/lit_a",
+     "text": "papierów wartościowych zapisanych na rachunku papierów wartościowych, z wyłączeniem papierów wartościowych, które byty przedmiotem zawartych, lecz jeszcze nie rozliczonych transakcji sprzedaży i pozostają nadal zapisane na rachunku papierów wartościowych oraz",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_11/lit_b",
+     "text": "praw do otrzymania papierów wartościowych, jeżeli rozliczenie transakcji kupna tych papierów objęte jest systemem, o którym mowa w art. 137 ust. 2 ustawy,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "12",
+   "path": "pkt_12",
+   "text": "rejestrze sesji — rozumie się przez to rejestr papierów wartościowych i praw do otrzymania papierów wartościowych obejmujący liczbę praw i papierów wartościowych zewidencjonowanych w rejestrze operacyjnym:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_12/lit_a",
+     "text": "pomniejszaną o liczbę papierów wartościowych i praw do ich otrzymania, które byty przedmiotem zawartej na danej sesji transakcji sprzedaży,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_12/lit_b",
+     "text": "powiększaną o liczbę papierów wartościowych i praw do ich otrzymania, które byty przedmiotem zawartej na danej sesji transakcji kupna, oraz wykaz środków pieniężnych, obejmujących sumę, o której mowa w § 27, powiększaną o środki pieniężne, które będą uzyskane w wyniku zawartych na danej sesji transakcji sprzedaży, i pomniejszane o środki pieniężne, które będą przeznaczone na opłacenie transakcji kupna zawartych na tej sesji,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "Krajowym Depozycie — rozumie się przez to Krajowy Depozyt Papierów Wartościowych SA,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "dogrywce — rozumie się przez to dodatkową ofertę specjalisty, skierowaną do członków giełdy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "uczestniku Krajowego Depozytu — rozumie się przez to podmiot, który zawarł z Krajowym Depozytem Papierów Wartościowych umowę, o której mowa w art. 129 ustawy.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział II",
+   "text": "Zawieranie transakcji i dokonywanie rozliczeń"
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 1",
+   "text": "Szczegółowe zasady zawierania umów o świadczenie usług brokerskich"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Świadczenie usług brokerskich odbywa się, z zastrzeżeniem § 4 i 5, na podstawie umowy zawartej między domem maklerskim a klientem. Szczegółowe warunki zawarcia i realizacji tej umowy określa regulamin świadczenia usług brokerskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Regulamin świadczenia usług brokerskich określa w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "tryb i warunki zawierania umowy o świadczenie usług brokerskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "tryb składania i anulowania zleceń kupna i sprzedaży papierów wartościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "tryb i warunki realizacji zleceń na rynku regulowanym, na którym dom maklerski pośredniczy w obrocie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "tryb i warunki uczestniczenia w dogrywce,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "tryb, warunki i forme ustanawiania pełnomocnictw,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "tryb i warunki prowadzenia rejestru sesji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "terminy, warunki i zasady dokonywania rozliczeń z tytułu zrealizowanych transakcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_2/pkt_8",
+       "text": "sposób i terminy sprawdzania pokrycia zleceń, jeżeli sprawdzenie pokrycia jest przewidziane przez umowę lub przepisy prawa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_2/pkt_9",
+       "text": "tryb i warunki dokonywania płatności za nabywane papiery wartościowe oraz wymogi, jakie muszą spełniać klienci, w zależności od sposobu dokonywania płatności,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_2/pkt_10",
+       "text": "sposób postępowania domu maklerskiego w przypadku, gdy klient nie dostarcza środków pieniężnych w terminach przewidzianych w umowie lub w przepisach prawa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/ust_2/pkt_11",
+       "text": "postanowienia zabezpieczające interesy domu maklerskiego w przypadku niewywiązania się klienta z przyjętych zobowiązań, a także sposoby zaspokajania roszczeń domu maklerskiego z papierów wartościowych i środków pieniężnych, zapisanych na rachunkach prowadzonych dla klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/ust_2/pkt_12",
+       "text": "sposoby i terminy wnoszenia przez klientów opłat i prowizji związanych z usługami wykonywanymi na rzecz klientów w związku z umową o świadczenie usług brokerskich oraz tryb określania ich wysokości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_3/ust_2/pkt_13",
+       "text": "sposoby doręczania klientowi potwierdzenia zawarcia transakcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_3/ust_2/pkt_14",
+       "text": "sposoby i terminy załatwiania reklamacji składanych przez klientów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_3/ust_2/pkt_15",
+       "text": "tryb i warunki wypowiedzenia oraz rozwiązania umowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_3/ust_2/pkt_16",
+       "text": "tryb, terminy i warunki zmiany regulaminu, a także sposób informowania klientów o tych zmianach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_3/ust_2/pkt_17",
+       "text": "tryb składania dyspozycji kupna lub sprzedaży papierów wartościowych za pomocą telefonu oraz innych urządzeń technicznych, warunki składania takich dyspozycji oraz sposób identyfikacji osoby składającej dyspozycję,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_3/ust_2/pkt_18",
+       "text": "warunki udzielania nieodpłatnych rekomendacji przez maklerów oraz zakres odpowiedzialności domu maklerskiego za szkody powstałe wskutek zastosowania się klienta do rekomendacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_3/ust_2/pkt_19",
+       "text": "kryteria ustalania kolejności udzielania pożyczek papierów wartościowych klientom oraz zaciągania pożyczek od klientów w przypadku, gdy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_19/lit_a",
+         "text": "popyt na papiery wartościowe jest większy od liczby papierów wartościowych, które mogą być przedmiotem pożyczek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_19/lit_b",
+         "text": "liczba papierów wartościowych, które mogą być przedmiotem pożyczek, jest większa od zapotrzebowania na te papiery,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_3/ust_2/pkt_20",
+       "text": "tryb i warunki wystawiania na podstawie zlecenia klienta więcej niż jednego zlecenia brokerskiego bądź wskazanie, że ten tryb i warunki podlegają uregulowaniu w umowie z klientem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_3/ust_2/pkt_21",
+       "text": "tryb i warunki zawierania oraz realizacji umowy o świadczenie usług brokerskich w zakresie praw pochodnych, jeżeli nie są one przedmiotem regulacji odrębnego regulaminu świadczenia usług brokerskich w zakresie praw pochodnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_3/ust_2/pkt_22",
+       "text": "tryb i warunki zawierania oraz realizacji umowy o świadczenie usług polegających na pośrednictwie w nabywaniu lub zbywaniu papierów wartościowych będących w obrocie na zagranicznych rynkach regulowanych, jeżeli nie są one przedmiotem regulacji odrębnego regulaminu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_3/ust_2/pkt_23",
+       "text": "tryb i warunki otwierania, prowadzenia i zamykania rachunku papierów wartościowych i rachunku pieniężnego, jeżeli nie są one przedmiotem regulacji odrębnego regulaminu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przepisy ust. 2 pkt 6 i 17—23 stosuje się, jeżeli dom maklerski prowadzi działalność, o której mowa w tych przepisach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Postanowienia dotyczące świadczenia usług na danym rynku regulowanym mogą być przedmiotem odrębnego regulaminu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W przypadku gdy świadczenie usług brokerskich w zakresie praw pochodnych związane jest z obowiązkiem wnoszenia przez klienta depozytu zabezpieczającego, świadczenie takich usług wymaga zawarcia między domem maklerskim a klientem umowy w tym zakresie. Warunki zawarcia i realizacji tej umowy określa, z zastrzeżeniem § 3 ust. 2 pkt 21, regulamin świadczenia usług brokerskich w zakresie praw pochodnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Regulamin, o którym mowa w ust.1, albo regulamin, o którym mowa w § 3, określa w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "tryb i warunki zawierania umowy z klientem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "sposoby ustalania wysokości depozytu zabezpieczającego oraz tryb informowania klienta o zmianie jego wysokości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "sposoby i tryb wnoszenia depozytu zabezpieczającego i jego uzupełniania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "tryb przekazywania przez dom maklerski żądania uzupełnienia zabezpieczenia do poziomu określonego umową i odpowiednimi przepisami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_2/pkt_5",
+       "text": "sposób postępowania domu maklerskiego w przypadku niewniesienia lub nieuzupełnienia przez klienta zabezpieczenia lub w przypadku przekroczenia limitów zaangażowania, określonych przez Krajowy Depozyt lub podmiot organizujący rynek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_2/pkt_6",
+       "text": "tryb i warunki rozwiązania umowy o świadczenie usług brokerskich w zakresie praw pochodnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_2/pkt_7",
+       "text": "terminy i sposoby wnoszenia przez klientów opłat i prowizji za wykonywanie usług w zakresie praw pochodnych oraz tryb określania ich wysokości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_2/pkt_8",
+       "text": "tryb, terminy i warunki zmiany regulaminu, a także sposób informowania klientów o tych zmianach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przed podpisaniem umowy, o której mowa w ust. 1, dom maklerski ma obowiązek uzyskać od klienta informację o Numerze Identyfikacji Klienta w Krajowym Depozycie, jeżeli klient posiada już taki",
+     "children": [
+      {
+       "type": "text",
+       "text": "numer."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Dom maklerski określi wymagania finansowe, jakie musi spełniać klient, aby móc za pośrednictwem domu maklerskiego dokonywać transakcji prawami pochodnymi, jeżeli związane jest to z obowiązkiem wnoszenia depozytu zabezpieczającego przez klienta. Dom maklerski uzależni podpisanie umowy, o której mowa w ust. 1, od uprzedniego uzyskania od klienta pisemnego oświadczenia o jego sytuacji finansowej.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Świadczenie usług polegających na pośrednictwie w nabywaniu lub zbywaniu papierów wartościowych, będących w obrocie na zagranicznych rynkach regulowanych, wymaga zawarcia w tym zakresie umowy między domem maklerskim a klientem. Warunki zawarcia i realizacji tej umowy określa, z zastrzeżeniem 8 3 ust. 2 pkt. 22, regulamin świadczenia usług w zakresie pośrednictwa w nabywaniu lub zbywaniu papierów wartościowych będących w obrocie na zagranicznych rynkach regulowanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Regulamin, o którym mowa w ust.1, albo regulamin, o którym mowa w § 3, określa w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "tryb i warunki zawierania umowy o świadczenie usług pośrednictwa w nabywaniu lub zbywaniu papierów wartościowych będących w obrocie na zagranicznych rynkach regulowanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "tryb składania i anulowania zleceń kupna i sprzedaży papierów wartościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "terminy i sposoby informowania klienta o zawarciu transakcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "sposoby rejestrowania przez dom maklerski nabytych papierów wartościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "terminy i sposoby informowania klienta o stanie posiadania papierów wartościowych, będących w obrocie na zagranicznych rynkach regulowanych, oraz środków pieniężnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "określenie sposobu składania przez klienta dyspozycji dotyczących realizacji praw majątkowych i niemajątkowych związanych z nabytymi przez klienta papierami wartościowymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_2/pkt_7",
+       "text": "sposoby i tryb przekazywania klientom informacji na temat praw przysługujących im do papierów wartościowych, będących w obrocie na zagranicznych rynkach regulowanych, oraz informacji na temat przepisów i zwyczajów obowiązujących na danym rynku zagranicznym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_2/pkt_8",
+       "text": "sposoby informowania klientów o wyborze zagranicznego podmiotu przechowującego papiery wartościowe oraz zagranicznego podmiotu świadczącego usługi brokerskie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_2/pkt_9",
+       "text": "tryb, warunki i formę ustanawiania pełnomocnictw,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_5/ust_2/pkt_10",
+       "text": "terminy, warunki i sposoby dokonywania rozliczeń z tytułu zrealizowanych transakcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_5/ust_2/pkt_11",
+       "text": "sposoby i terminy sprawdzania pokrycia zleceń, jeżeli sprawdzenie pokrycia jest przewidziane przez umowę lub przepisy prawa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_5/ust_2/pkt_12",
+       "text": "sposoby dokonywania płatności za nabywane papiery wartościowe oraz warunki, jakie muszą spełniać klienci, w zależności od sposobu płatności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_5/ust_2/pkt_13",
+       "text": "sposób postępowania domu maklerskiego w przypadku, gdy klient nie dostarcza środków pieniężnych w terminach przewidzianych w umowie lub przepisach prawa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_5/ust_2/pkt_14",
+       "text": "postanowienia zabezpieczające interesy domu maklerskiego w przypadku niewywiązania się klienta z przyjętych zobowiązań,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_5/ust_2/pkt_15",
+       "text": "sposoby i terminy wnoszenia przez klientów opłat i prowizji związanych z umową o świadczenie usług w zakresie pośrednictwa w nabywaniu lub zbywaniu papierów wartościowych, będących w obrocie na zagranicznych rynkach regulowanych, oraz tryb określania ich wysokości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_5/ust_2/pkt_16",
+       "text": "sposoby i terminy załatwiania reklamacji składanych przez klientów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_5/ust_2/pkt_17",
+       "text": "tryb i warunki wypowiedzenia oraz rozwiązania umowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_5/ust_2/pkt_18",
+       "text": "tryb, terminy i warunki zmiany regulaminu, a także sposób informowania klientów o tych zmianach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_5/ust_2/pkt_19",
+       "text": "sposób informowania klienta o zasadach przechowywania nabytych papierów wartościowych przez zagraniczny podmiot oraz o zmianach tych zasad.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Prowadzenie rachunku papierów wartościowych oraz rachunku pieniężnego przez dom maklerski, a także prowadzenie rachunku papierów wartościowych przez bank odbywa się na podstawie umowy oraz regulaminu prowadzenia rachunku papierów wartościowych i rachunku pieniężnego, z zastrzeżeniem 8 3 ust. 2 pkt 23.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Regulamin, o którym mowa w ust. 1, albo regulamin, o którym mowa w § 3, określa w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "tryb i warunki zawierania umowy o prowadzenie rachunku papierów wartościowych i rachunku pieniężnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "sposoby wydawania przez klienta dyspozycji co do papierów wartościowych zapisanych na rachunku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "sposób naliczania odsetek od środków zgromadzonych na rachunku pieniężnym oraz tryb określania ich wysokości, jeżeli umowa przewiduje oprocentowanie tych środków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_2/pkt_4",
+       "text": "sposoby udzielania przez klienta pełnomocnictw do dysponowania papierami wartościowymi oraz środkami pieniężnymi, jak również do zmiany lub wypowiedzenia umowy w imieniu klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_2/pkt_5",
+       "text": "tryb, warunki i przyczyny ustanawiania lub znoszenia blokady papierów wartościowych oraz praw do otrzymania papierów wartościowych klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_2/pkt_6",
+       "text": "sposoby postępowania z papierami wartościowymi, na których ustanowiono ograniczone prawo rzeczowe, lub których zbywalność jest ograniczona,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_2/pkt_7",
+       "text": "sposoby postępowania z papierami wartościowymi stanowiącymi przedmiot zabezpieczenia umowy kredytu lub pożyczki, jeżeli zabezpieczenia nie dokonano w drodze ustanowienia ograniczonego prawa rzeczowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/ust_2/pkt_8",
+       "text": "tryb i warunki przenoszenia papierów wartościowych i środków pieniężnych na rachunki klienta prowadzone przez inny podmiot,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_6/ust_2/pkt_9",
+       "text": "terminy i sposoby wnoszenia przez klientów opłat związanych z prowadzeniem rachunków oraz tryb określania ich wysokości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_6/ust_2/pkt_10",
+       "text": "sposób sporządzania i przekazywania klientowi wyciągów z rachunków,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_6/ust_2/pkt_11",
+       "text": "tryb i warunki wypowiedzenia umowy o prowadzenie rachunku papierów wartościowych i rachunku pieniężnego, likwidacji tych rachunków, a także tryb postępowania z papierami wartościowymi, co do których klient nie wydał dyspozycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_6/ust_2/pkt_12",
+       "text": "tryb, terminy i warunki dokonywania zmian regulaminu, a także sposób informowania klientów o tych zmianach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "W przypadku gdy w banku prowadzącym rachunki papierów wartościowych na rachunku papierów wartościowych mają być również rejestrowane prawa pochodne, regulamin, o którym mowa w ust. 2, określa dodatkowo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "sposoby ustalania wielkości depozytu zabezpieczającego oraz tryb informowania klienta o zmianie jego wielkości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "sposoby i tryb wnoszenia depozytu zabezpieczającego oraz jego uzupełniania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "tryb przekazywania przez bank żądania uzupełnienia zabezpieczenia do poziomu określonego umową i odpowiednimi przepisami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_3/pkt_4",
+       "text": "sposób postępowania banku w przypadku niewniesienia lub nieuzupełnienia przez klienta zabezpieczenia lub przekroczenia limitów zaangażowania, określonych przez Krajowy Depozyt lub podmiot organizujący rynek.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "W przypadku, o którym mowa w ust. 3, bank ma obowiązek uzyskać od klienta informacje o Numerze Identyfikacji Klienta w Krajowym Depozycie, jeżeli klient posiada już taki numer.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Bank określi wymagania finansowe, jakie musi spełniać klient, aby móc dokonywać transakcji prawami pochodnymi, rejestrowanymi na rachunku papierów wartościowych w tym banku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Postanowienia, o których mowa w ust. 3—5, mogą być przedmiotem odrębnego regulaminu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_6/ust_7",
+     "text": "Przepisów ust. 2, dotyczących rachunku pieniężnego, nie stosuje się do banków prowadzących rachunki papierów wartościowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Świadczenie usług brokerskich w zakresie pośrednictwa w sprzedaży pożyczonych papierów wartościowych odbywa się na podstawie odrębnej umowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W przypadku zmiany regulaminów, o których mowa w § 3—6, dom maklerski lub bank prowadzący rachunki papierów wartościowych informuje klienta o treści zmiany w takim terminie, aby klient mógł wypowiedzieć umowę z zachowaniem okresu wypowiedzenia, a rozwiązanie umowy nastąpiło przed dniem wejścia w życie zmian.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 2",
+   "text": "Prowadzenie rachunków i rejestrów"
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Dom maklerski, który prowadzi rachunek papierów wartościowych, otwiera dla klienta rejestr operacyjny. Dom maklerski może również otworzyć rejestr sesji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Dom maklerski nie otwiera rachunku papierów wartościowych dla klienta, gdy nabywane papiery wartościowe będą zapisywane na rachunku tego klienta w banku prowadzącym rachunki papierów wartościowych lub w Krajowym Depozycie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Rejestrowanie papierów wartościowych odbywa się zgodnie z procedurami Krajowego Depozytu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Na rachunku papierów wartościowych odrębnie rejestrowane są papiery wartościowe stuzace jako zabezpieczenie wykonania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "zobowiązań wynikających z pożyczek papierów wartościowych udzielonych na postawie odrębnych przepisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "zobowiązań wynikających z pożyczek i kredytów zaciągniętych na nabycie papierów wartościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_3/pkt_3",
+       "text": "zobowiązań wynikających z praw pochodnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_3/pkt_4",
+       "text": "innych zobowiązań przewidzianych w przepisach rozporządzenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Dom maklerski dokonuje zapisów w rejestrze sesji na podstawie potwierdzenia realizacji zlecenia kupna lub sprzedaży papierów wartościowych, otrzymanego z giełdy lub rynku pozagiełdowego w czasie sesji, jeżeli dowody ewidencyjne potwierdzające zawarcie transakcji nie są udostępniane bezpośrednio po zawarciu transakcji lub dom maklerski nie przetwarza tych dokumentów na bieżąco.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Rejestr sesji otwierany jest przed rozpoczęciem sesji lub w czasie jej trwania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Rejestr sesji jest prowadzony wyłącznie w celu sprawdzenia pokrycia zleceń, gdy obowiązek sprawdzenia przez dom maklerski pokrycia wynika z przepisów prawa lub warunków umowy albo w celu sprawdzenia, czy klient nie przekroczył limitu, o którym mowa w § 25 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Rejestr sesji jest zamykany z chwilą zakończenia sesji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Na wniosek klienta banku prowadzącego rachunki papierów wartościowych możliwe jest prowadzenie rejestru sesji dla tego klienta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Rejestr sesji, o którym mowa w ust. 1, otwierany jest w domach maklerskich, z którymi klient podpisał umowę o świadczenie usług brokerskich, na zasadach określonych w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Początkowy zapis w rejestrze sesji dokonywany jest w wysokości uzgodnionej przez bank prowadzący rachunki papierów wartościowych z klientem i potwierdzonej domowi maklerskiemu przez ten bank.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Dom maklerski zawierający transakcje na zlecenie innego domu maklerskiego będącego uczestnikiem Krajowego Depozytu, przekazuje do niego potwierdzenie realizacji zlecenia w celu dokonania przez ten dom maklerski zapisu w rejestrze sesji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Dom maklerski nie może wykorzystywać środków pieniężnych zgromadzonych na rachunkach pieniężnych w innym celu niż realizacja zleceń klientów",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "oraz pokrycie opłat i prowizji z tytułu świadczonych klientowi usług lub pokrycie innych zobowiązań klienta wobec domu maklerskiego, wynikających z umów o świadczenie usług przez dom maklerski."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Dom maklerski może wykonywać dyspozycje klienta dotyczące jego środków pieniężnych, wyłącznie w celu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "nabywania papierów wartościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "pokrywania opłat i prowizji z tytułu umów zawartych między domem maklerskim i klientem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "spłaty pożyczek i kredytów zaciągniętych na nabycie papierów wartościowych w publicznym obrocie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_14/ust_2/pkt_4",
+       "text": "wypłaty środków pieniężnych przez klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_14/ust_2/pkt_5",
+       "text": "przelewu środków pieniężnych na rachunek bankowy klienta lub na inny rachunek pieniężny klienta.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Na rachunku pieniężnym odrębnie rejestrowane są środki służące jako zabezpieczenie wykonania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "zobowiązań wynikających z pożyczek papierów wartościowych udzielonych na podstawie odrębnych przepisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "zobowiązań wynikających z kredytów i pożyczek środków pieniężnych zaciągniętych na nabycie papierów wartościowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "zobowiązań wynikających z praw pochodnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "innych zobowiązań przewidzianych w przepisach rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Środki, o których mowa w ust. 1, mogą być rejestrowane odrębnie albo tącznie dla poszczególnych grup, pod warunkiem prowadzenia przez dom maklerski dokumentacji pozwalającej na określenie wysokości środków pieniężnych stanowiących zabezpieczenie dla poszczególnych grup.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Na rachunku pieniężnym, tącznie ze środkami, o których mowa w ust. 1 pkt 3, mogą być rejestrowane także środki pieniężne służące jako zabezpieczenie wykonania zobowiązań wynikających z praw majątkowych, o których mowa w art. 97 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Środki pieniężne klientów zapisywane są na rachunkach bankowych prowadzonych dla domu maklerskiego odrębnie od środków pieniężnych domu maklerskiego. Środki pieniężne klientów mogą być przedmiotem lokat terminowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Zapisów na rachunkach papierów wartościowych oraz zapisów w rejestrach operacyjnych dokonuje się wyłącznie na podstawie dowodów ewidencyjnych, których minimalną zawartość określa Krajowy Depozyt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Zapisów na rachunkach pieniężnych dokonuje się na podstawie dowodów ewidencyjnych, których minimalną zawartość określa Krajowy Depozyt, a także na podstawie prawidłowych i rzetelnych dowodów wystawionych zgodnie z odrębnymi przepisami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Dowody, o których mowa w § 17, mogą być zapisywane lub przekazywane również na elektronicznych nośnikach informacji, chyba że przepisy odrębne stanowią inaczej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Do banku prowadzącego rachunki papierów wartościowych stosuje się odpowiednio przepisy niniejszego oddziału, z wyłączeniem przepisów dotyczących prowadzenia rejestru sesji oraz § 10 ust. 1, 8 11, 8 13—16 i § 17 ust. 2.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 3",
+   "text": "Transakcje papierami wartościowymi na rynku regulowanym"
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Dom maklerski pośredniczy w nabywaniu i zbywaniu papierów wartościowych, realizując pisemne zlecenie klienta, które zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "imię i nazwisko (firmę lub nazwę) oraz numer rachunku klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "datę i czas wystawienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_1/pkt_3",
+       "text": "rodzaj, kod i liczbę papierów wartościowych będących przedmiotem zlecenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_1/pkt_4",
+       "text": "przedmiot zlecenia (kupno lub sprzedaż papierów wartościowych),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_20/ust_1/pkt_5",
+       "text": "określenie ceny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_20/ust_1/pkt_6",
+       "text": "oznaczenie terminu ważności zlecenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_20/ust_1/pkt_7",
+       "text": "podpis klienta lub jego pełnomocnika, z zastrzeżeniem ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_20/ust_1/pkt_8",
+       "text": "w przypadku gdy zlecenie dotyczy zakupu lub sprzedaży papierów wartościowych będących w obrocie na zagranicznych rynkach regulowanych — oświadczenie klienta, że zlecenie jest zgodne z przepisami obowiązującego prawa dewizowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Jeżeli na jednym formularzu złożono więcej niż jedno zlecenie klienta, powinien on zawierać wyraźne określenie liczby zleceń. W takim przypadku wystarczające jest złożenie jednego podpisu klienta lub jego pełnomocnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Zarządzający cudzym pakietem papierów wartościowych na zlecenie może wystawiać jedno zlecenie na rzecz swoich klientów, pod warunkiem że w zleceniu tym określi liczbę kupowanych lub sprzedawanych papierów wartościowych dla poszczególnych klientów oraz sposób postępowania domu maklerskiego w przypadku częściowej realizacji zlecenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_20/ust_4",
+     "text": "W przypadku zlecenia składanego przez podmiot posiadający zezwolenie, o którym mowa w art. 35 ustawy, zlecenie nie musi zawierać imienia i nazwiska klienta, na którego rachunek dokonywana jest transakcja będąca przedmiotem zlecenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_20/ust_5",
+     "text": "W przypadku zlecenia umożliwiającego wystawienie na jego podstawie więcej niż jednego zlecenia brokerskiego, zamiast liczby papierów wartościowych można podać maksymalną łączną wartość transakcji, będących wynikiem realizacji zlecenia.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_20/ust_6",
+     "text": "Zlecenie może zawierać dodatkowe warunki jego realizacji, jeżeli nie są one sprzeczne z przepisami prawa i regulaminami przeprowadzania transakcji na rynku, na który jest przekazywane. W szczególności dotyczy to zlecenia umożliwiającego wystawianie na jego podstawie więcej niż jednego zlecenia brokerskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_20/ust_7",
+     "text": "Zlecenia klientów powinny zawierać odpowiednie oznaczenia, pozwalające na odróżnienie ich od innych zleceń, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_7/pkt_1",
+       "text": "dotyczą sprzedaży papierów wartościowych pożyczonych przez dom maklerski,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_7/pkt_2",
+       "text": "przedmiotem ich jest kupno papierów wartościowych za środki pieniężne pożyczone od domu maklerskiego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_7/pkt_3",
+       "text": "zawierają klauzulę umożliwiającą wystawianie na ich podstawie więcej niż jednego zlecenia brokerskiego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_20/ust_8",
+     "text": "Na wniosek klienta zlecenia złożone na podstawie rekomendacji domu maklerskiego udzielonej na warunkach określonych w regulaminie świadczenia usług brokerskich powinny zawierać odpowiednie oznaczenia pozwalające na odróżnienie ich od innych zleceń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_20/ust_9",
+     "text": "Upoważniony przez dom maklerski pracownik potwierdza złożenie zlecenia przez klienta poprzez złożenie podpisu na zleceniu klienta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_20/ust_10",
+     "text": "Dom maklerski obowiązany jest do zorganizowania miejsca przyjmowania zleceń klientów w sposób uniemożliwiający wgląd do dokumentów osobom nie upoważnionym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Na podstawie zlecenia, o którym mowa w § 20, dom maklerski wystawia zlecenie lub zlecenia brokerskie, które przekazywane są na odpowiedni rynek, z wyłączeniem zleceń realizowanych na zasadach określonych w art. 117 ust. 2 ustawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Dom maklerski może przyjmować dyspozycje klienta, składane za pomocą telefonu, telefaksu, modemu lub innych urządzeń technicznych, jeżeli przewiduje to umowa o świadczenie usług brokerskich, a klient udzielił pełnomocnictwa do składania na podstawie takich dyspozycji zleceń, o których mowa w § 20. Pełnomocnictwo może być udzielone imiennie wskazanemu pracownikowi domu maklerskiego lub pracownikom danego domu maklerskiego albo temu domowi, według wyboru klienta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Warunkiem przyjmowania dyspozycji za pomocą urządzeń, o których mowa w ust. 1, jest posiadanie odpowiednich zabezpieczeń organizacyjnych lub technicznych zapewniających poufność przekazywanych informacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Na podstawie dyspozycji klienta, o której mowa w § 22 ust. 1, upoważniony pracownik domu maklerskiego wystawia zlecenie na zasadach określonych w § 20. Zgodność tego zlecenia z dyspozycją klienta niezwłocznie potwierdza osoba, o której mowa w § 20 ust. 9, poprzez złożenie podpisu. Przez wystawienie zlecenia rozumie się również podpisanie przez upoważnionego pracownika domu maklerskiego dyspozycji klienta zawierającej dane, o których mowa w § 20 ust.1 pkt. 1—6 i 8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Osoba dokonująca potwierdzenia zgodności zlecenia z dyspozycją klienta nie może być jednocześnie osobą upoważnioną do wystawienia zlecenia na podstawie dyspozycji klienta, o której mowa w § 22 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Dom maklerski organizuje dogrywki w siedzibie domu maklerskiego, oddziałach lub punktach obsługi klienta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Dogrywkę prowadzi makler, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "W przypadku dogrywki organizowanej w punkcie obsługi klienta, w którym nie ma zatrudnionego maklera, zlecenia przekazywane są do centrali domu maklerskiego. Dogrywkę taką nadzoruje makler zatrudniony w tej centrali.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Osoba prowadząca dogrywkę jest upoważniona w czasie dogrywki do rozstrzygania wszelkich sporów i wątpliwości dotyczących jej przebiegu. W szczególności rozstrzyga ona o kolejności złożenia zleceń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "Zlecenia złożone przed dogrywką przekazywane są do realizacji w pierwszej kolejności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_24/ust_6",
+     "text": "Dom maklerski ma obowiązek stworzyć warunki pozwalające na składanie zleceń z zachowaniem poufności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Na zasadach określonych w regulaminie świadczenia usług brokerskich, dom maklerski wystawia zlecenia brokerskie na podstawie zlecenia kupna papierów wartościowych złożonego przez klienta, pod warunkiem że klient:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "posiada pełne pokrycie wartości zlecenia i przewidywanej prowizji w chwili wystawienia przez dom maklerski zlecenia brokerskiego albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "w chwili wystawienia przez dom maklerski zlecenia brokerskiego posiada częściowe pokrycie wartości zlecenia w wysokości uzgodnionej w umowie o świadczenie usług brokerskich, pod warunkiem że ustanowione zostały zabezpieczenia, o których mowa w § 29 ust. 2 i 3 na pozostałą część wartości zlecenia i przewidywanej prowizji, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_25/ust_1/pkt_3",
+       "text": "w chwili wystawienia przez dom maklerski zlecenia brokerskiego posiada ustanowione zabezpieczenia, o których mowa w § 29 ust. 2 i 3, na całkowitą wartość zlecenia i przewidywanej prowizji, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_25/ust_1/pkt_4",
+       "text": "w chwili wystawienia przez dom maklerski zlecenia brokerskiego posiada pokrycie wartości zlecenia w wysokości co najmniej 30%.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Dom maklerski może dostąpić od wymogu posiadania przez klienta całkowitego lub częściowego pokrycia wartości zlecenia i przewidywanej prowizji, a także od wymogu ustanowienia przez klienta zabezpieczeń, o których mowa w § 29 ust. 2 i 3, w przypadku gdy w opinii domu maklerskiego pozwala na to ocena stanu finansowego i wiarygodności klienta dokonana zgodnie z § 30 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Dom maklerski określi w umowie o świadczenie usług brokerskich limit maksymalnej wysokości należności domu maklerskiego od klienta z tytułu zawartych transakcji, które:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_3/pkt_1",
+       "text": "powinny być zabezpieczone przez klienta w sposób określony w § 29 ust. 2 i 3, w przypadku, o którym mowa w ust.1 pkt 2 i 3, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_3/pkt_2",
+       "text": "nie wymagają zabezpieczenia, w przypadku, o którym mowa w ust.1 pkt 4 oraz ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_25/ust_4",
+     "text": "Wartość zlecenia kupna ustala się jako maksymalną kwotę zobowiązania, które może powstać z tytułu pełnej zapłaty za nabywane papiery wartościowe, przy całkowitej realizacji zlecenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_25/ust_5",
+     "text": "Przepisy ust. 1 nie wyłączają możliwości udzielenia klientowi pożyczki na zakup papierów wartościowych zgodnie z odrębnymi przepisami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "W przypadku przyjmowania wpłat z tytułu zapisów składanych przy oferowaniu papierów wartościowych, dom maklerski zobowiązany jest do przyjęcia wpłaty na te papiery w wysokości określonej w ofercie i zgodnie z jej warunkami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "W przypadku gdy w chwili wystawienia zlecenia brokerskiego rejestr sesji nie został otwarty, podstawą do sprawdzenia pokrycia, o którym mowa w § 25 ust. 1 pkt 1, 2 i 4, jest suma nie zablokowanych środków pieniężnych klienta zdeponowanych na jego rachunku pieniężnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Suma, o której mowa w ust. 1, jest zwiększana o sumę środków pieniężnych stanowiących należności klienta z tytułu zawartych transakcji, jeżeli rozliczenie tych transakcji w Krajowym Depozycie powinno nastąpić przed rozliczeniem transakcji kupna, pod warunkiem że rozliczenie transakcji sprzedaży objęte jest systemem, o którym mowa w art. 137 ust. 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "W sytuacji gdy brokerskie zlecenie kupna wystawiane jest po otwarciu przez dom maklerski rejestru sesji, podstawą do sprawdzenia pokrycia, o którym mowa w § 25 ust.1 pkt 1, 2 i 4, jest stan nie zablokowanych środków pieniężnych w rejestrze sesji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "W przypadku zawarcia umowy o świadczenie usług brokerskich na zasadach określonych w § 25 ust. 1 pkt 2—4 i ust. 2, umowa ta powinna przewidywać obowiązek dokonania przez klienta zapłaty najpóźniej w dniu rozliczenia transakcji w Krajowym Depozycie, w wysokości zobowiązań klienta wobec domu maklerskiego z tytułu zawartych transakcji kupna papierów wartościowych, pomniejszonych o należności klienta z tytułu zawartych transakcji sprzedaży papierów wartościowych rozliczanych w Krajowym Depozycie w tym dniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Termin dokonania zapłaty określa umowa o świadczenie usług brokerskich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "W przypadku zawarcia umowy o świadczenie usług brokerskich na zasadach określonych w § 25 ust. 1 pkt 2 i 3, dom maklerski żąda ustanowienia zabezpieczenia zapłaty należności przez klienta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Zabezpieczeniem, o którym mowa w ust. 1, mogą być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_29/ust_2/pkt_1",
+       "text": "gwarancja bankowa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_29/ust_2/pkt_2",
+       "text": "akredytywa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_29/ust_2/pkt_3",
+       "text": "papiery wartościowe zablokowane na rachunku papierów wartościowych klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_29/ust_2/pkt_4",
+       "text": "środki pieniężne zablokowane na rachunku bankowym klienta,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_29/ust_2/pkt_5",
+       "text": "czek potwierdzony przez bank.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Zabezpieczenie, o którym mowa w ust. 1, może być również ustanowione w innej formie, jeżeli gwarantuje ona pewną i płynną jego realizację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_29/ust_4",
+     "text": "W przypadku gdy klient ustanowił na rzecz domu maklerskiego zabezpieczenia, o których mowa w ust. 2 pkt 3 i 4, dom maklerski powinien posiadać wystawione przez klienta pełnomocnictwo, odpowiednio do sprzedaży zablokowanych papierów wartościowych lub praw do papierów wartościowych albo do dokonania przelewu środków pieniężnych klienta znajdujących się w banku, do wysokości roszczenia domu maklerskiego z tytułu nieopłacenia przez klienta transakcji kupna papierów wartościowych wraz z prowizją.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_29/ust_5",
+     "text": "W przypadku gdy zabezpieczeniem, o którym mowa w ust. 1, są papiery wartościowe zablokowane na rachunku papierów wartościowych klienta, zabezpieczenie to powinno być ustanowione w wysokości zabezpieczającej interesy domu maklerskiego w przypadku niewywiązania się klienta z przyjętych zobowiązań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_29/ust_6",
+     "text": "W chwili wystawienia przez dom maklerski zlecenia brokerskiego środki pieniężne klienta stanowiące pokrycie zlecenia kupna papierów wartościowych są blokowane na rachunku pieniężnym lub w rejestrze sesji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_29/ust_7",
+     "text": "Środki pieniężne zablokowane na rachunku pieniężnym klienta, stanowiące pokrycie zleceń kupna papierów wartościowych zrealizowanych w trakcie sesji, mogą być odblokowane w takiej wysokości, aby zablokowane środki pieniężne byty wystarczające na rozliczenie przez dom maklerski transakcji zawartych w trakcie tej sesji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Dom maklerski uzależni podpisanie umowy o świadczenie usług brokerskich na zasadach określonych w § 25 ust. 1 pkt 2—4 i ust. 2 od złożenia przez klienta pisemnego oświadczenia o jego sytuacji finansowej, jak również opracuje system kryteriów, na podstawie których określane będą limity, o których mowa w § 25 ust. 3, oraz na podstawie których podejmowana będzie decyzja o zaproponowaniu klientowi określonego trybu dokonywania zapłaty z tytułu realizacji zleceń kupna papierów wartościowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "W umowie o świadczenie usług brokerskich zawartej na zasadach określonych w § 25 ust. 1 pkt 2 i 4 dom maklerski powinien zastrzec możliwość różnicowania wysokości pokrycia, w zależności od płynności papierów wartościowych będących przedmiotem zlecenia kupna złożonego przez klienta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "W przypadku gdy klient nie dokonał zapłaty w wysokości, o której mowa w § 28 ust. 1, w terminie i na zasadach określonych w umowie o świadczenie usług brokerskich, a nie jest możliwe zaspokojenie roszczeń domu maklerskiego na podstawie zabezpieczeń, o których mowa w § 29 ust. 2 i 3, dom maklerski",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "może zaspokoić swoje roszczenia z aktywów klienta znajdujących się na rachunkach i w rejestrze operacyjnym klienta prowadzonym przez dom maklerski."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "W przypadku gdy klient nie dokona zapłaty w wysokości, o której mowa w § 28 ust. 1, w terminie określonym w umowie o świadczenie usług brokerskich, dom maklerski przez okres co najmniej 6 miesięcy realizuje zlecenia kupna klienta, jedynie pod warunkiem posiadania przez niego pełnego pokrycia na rachunku pieniężnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Dom maklerski może nie stosować postanowień ust. 2 w szczególnie uzasadnionych przypadkach, gdy niedokonanie zapłaty nastąpiło bez winy klienta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_31/ust_4",
+     "text": "Papiery wartościowe nie opłacone przez klienta zapisywane są na rachunku papierów wartościowych klienta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Dom maklerski wystawia zlecenie brokerskie na podstawie zlecenia sprzedaży klienta, pod warunkiem że klient posiada nie zablokowane papiery wartościowe lub prawa do otrzymania papierów wartościowych będące przedmiotem zlecenia sprzedaży zapisane w rejestrze operacyjnym lub rejestrze sesji, a jeżeli zlecenie sprzedaży składa podmiot, o którym mowa w art. 94 ust.1 ustawy — pod warunkiem że takie papiery wartościowe lub prawa do otrzymania papierów wartościowych są zapisane w rejestrze operacyjnym lub rejestrze sesji prowadzonym dla zbywcy, o którym mowa w art. 94 ust. 2 pkt 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Dom maklerski może dokonać blokady papierów wartościowych w rejestrze operacyjnym lub w rejestrze sesji na podstawie informacji o złożeniu zlecenia sprzedaży papierów wartościowych przez klienta, z zastrzeżeniem ust. 3 i 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Dom maklerski może odstąpić od dokonania blokady papierów wartościowych, jeżeli w jego ocenie posiadacz rachunku nie będzie podejmował działań uniemożliwiających lub utrudniających terminowe rozliczenie transakcji oraz jego sytuacja finansowa uzasadnia przypuszczenie, że zaspokoi roszczenie domu maklerskiego, gdyby ten poniósł szkodę w następstwie działań klienta niezgodnych z treścią zobowiązania zaciągniętego na jego rachunek w obrocie regulowanym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Dom maklerski dokona blokady w każdym przypadku, gdy zażąda tego uczestnik Krajowego Depozytu ponoszący odpowiedzialność za rozliczenie transakcji zgodnie z zasadami określającymi funkcjonowanie systemu, o którym mowa w art. 137 ust. 2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_32/ust_5",
+     "text": "W przypadku gdy klient, o którym mowa w ust.3, podjął działania uniemożliwiające lub utrudniające terminowe rozliczenie transakcji przez dom maklerski, dom maklerski przez okres co najmniej 6 miesięcy będzie realizował zlecenia sprzedaży klienta jedynie pod warunkiem zablokowania papierów wartościowych będących przedmiotem tego zlecenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Środki zablokowane na pokrycie zleceń kupna lub sprzedaży mogą zostać odblokowane przed otrzymaniem z rynku regulowanego dokumentów ewidencyjnych, na podstawie informacji, które zgodnie z zasadami obowiązującymi na danym rynku pozwalają na stwierdzenie, że transakcja na pewno nie została zrealizowana.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "W razie stwierdzenia braku pokrycia dla zlecenia sprzedaży lub zlecenia kupna, dom maklerski realizuje zlecenie sprzedaży do wysokości pokrycia, o którym mowa w § 32 ust. 1, a zlecenie kupna — do wysokości pokrycia i posiadanych zabezpieczeń, o których mowa w § 25 ust. 1 pkt 1—3, albo odstępuje od realizacji zlecenia. Przyjęty sposób postępowania określa regulamin świadczenia usług brokerskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "W przypadku składania kilku zleceń kupna na daną sesję kolejność ich realizacji określa klient.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Dom maklerski dokonuje zapisów w rejestrze operacyjnym, przed rozliczeniem transakcji w Krajowym Depozycie, na podstawie dowodów ewidencyjnych otrzymanych i wystawionych zgodnie z przepisami § 17 i 18, jeżeli rozliczenie transakcji kupna objęte jest systemem, o którym mowa w art. 137 ust.2 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Dom maklerski dokonuje zapisów na rachunku papierów wartościowych i rachunku pieniężnym klienta po rozliczeniu transakcji w Krajowym Depozycie na podstawie dowodów ewidencyjnych, otrzymanych i wystawionych zgodnie z przepisami § 17 i 18.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Przepisy ust. 1 i 2 stosuje się również do dokonywania zapisów w rejestrze operacyjnym oraz na rachunku papierów wartościowych klienta prowadzonym przez bank prowadzący rachunki papierów wartościowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Na wniosek klienta dom maklerski po zakończeniu sesji doręcza klientowi, w sposób określony w regulaminie świadczenia usług brokerskich, potwierdzenie zawarcia transakcji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Dom maklerski pobiera prowizję od wartości zrealizowanego zlecenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Dom maklerski wykonując czynności polegające na nabywaniu lub zbywaniu papierów wartościowych na własny rachunek, w celu realizacji zadań związanych z organizacją rynku regulowanego, jest obowiązany do wystawiania zleceń kupna lub sprzedaży papierów wartościowych i ich realizacji na warunkach określonych na danym rynku regulowanym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Dom maklerski wykonujący czynności pośrednictwa w nabywaniu lub zbywaniu papierów wartościowych będących w obrocie na zagranicznych rynkach regulowanych wystawia zlecenia kupna lub sprzedaży papierów wartościowych na warunkach określonych na danym zagranicznym rynku regulowanym. Przepisy 8 20—23, 8 25, 8 27 ust. 1i 2, 8 29—34 i § 36 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 4",
+   "text": "Transakcje prawami pochodnymi na rynkach regulowanych"
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Dom maklerski pośredniczy w nabywaniu i zbywaniu praw pochodnych, realizując pisemne zlecenie klienta. Do zlecenia tego stosuje się przepisy oddziału 3, z wyłączeniem § 24—34.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Wystawca opcji lub strona transakcji terminowej musi posiadać zabezpieczenie w wysokości nie mniejszej niż określona przez Krajowy Depozyt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Niezwłocznie po rozliczeniu sesji dom maklerski żąda od klienta uzupełnienia zabezpieczenia do wysokości nie mniejszej niż określona przez Krajowy Depozyt lub umożliwia wypłacenie nadwyżki kwoty stanowiącej zabezpieczenie pieniężne, a w przypadku zabezpieczenia w postaci papierów wartościowych — na podstawie dyspozycji klienta znosi ich blokadę do wysokości nadwyżki zabezpieczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Dom maklerski wystawia zlecenie brokerskie na podstawie zlecenia nabycia opcji, wystawionego przez klienta, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient posiada pełne pokrycie wartości zlecenia i przewidywanej prowizji, ustalone na zasadach, o których mowa w § 27.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Dom maklerski wystawia zlecenie brokerskie na podstawie zlecenia zbycia (wystawienia) opcji wystawionego przez klienta, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient posiada zabezpieczenie, o którym mowa w § 39 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Dom maklerski wystawia zlecenie brokerskie na podstawie zlecenia nabycia warrantu wystawionego przez klienta, pod warunkiem że w chwili wystawiania zlecenia brokerskiego klient posiada pełne pokrycie wartości zlecenia i przewidywanej prowizji, ustalone na zasadach, o których mowa w § 27.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Dom maklerski przyjmuje zlecenie zbycia warrantów pod warunkiem, że zbywca posiada warranty przed wystawieniem przez dom maklerski zlecenia brokerskiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Do transakcji prawami pochodnymi stosuje się przepisy 8 35 i 36.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Przepisy tego oddziału stosuje się także do transakcji prawami pochodnymi zarejestrowanymi na rachunku w banku prowadzącym rachunki papierów wartościowych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 5",
+   "text": "Szczególne zasady postępowania w przypadku, gdy papiery wartościowe klienta rejestrowane są w banku prowadzącym rachunki papierów wartościowych lub w Krajowym Depozycie"
+  },
+  {
+   "type": "text",
+   "text": "8 44, 1. Dom maklerski, który nie prowadzi rachunku papierów wartościowych klienta, z którym zawarł umowę o świadczenie usług brokerskich, zawiera z bankiem prowadzącym rachunek papierów wartościowych klienta umowę o dostarczanie papierów wartościowych."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Dom maklerski, który nie prowadzi rachunku pieniężnego klienta, z którym zawarł umowę o świadczenie usług brokerkich, zawiera z bankiem prowadzącym rachunek papierów wartościowych lub rachunek pieniężny tego klienta umowę o gwarantowaniu zapłaty.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Umowa, o której mowa w ust. 1, zawiera w szczególności tryb i warunki dostarczania papierów wartościowych w przypadku zleceń sprzedaży, a także ich potwierdzania przez bank prowadzący rachunek papierów wartościowych i rozliczania w przypadku realizacji zlecenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Umowa, o której mowa w ust. 2, zawiera w szczególności tryb i warunki gwarantowania zapłaty w przypadku zleceń kupna papierów wartościowych, a także ich potwierdzania przez bank prowadzący rachunek papierów wartościowych lub rachunek pieniężny klienta i rozliczania w przypadku realizacji zlecenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Umowa, o której mowa w ust. 2, może przewidywać żądanie przez dom maklerski złożenia przez bank prowadzący rachunek papierów wartościowych lub rachunek pieniężny klienta zabezpieczenia na warunkach określonych w § 25 ust. 1 pkt 2—4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "W przypadku gdy złożono zlecenie sprzedaży papierów wartościowych rejestrowanych na rachunku prowadzonym przez bank, do obowiązków banku w zakresie dokonywania blokady papierów wartościowych w rejestrze operacyjnym stosuje się przepisy § 32 ust. 2—4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Przepisy tego oddziału stosuje się także w przypadku, gdy rachunek papierów wartościowych klienta prowadzony jest w Krajowym Depozycie.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 6",
+   "text": "Oferowanie papierów wartościowych oraz przenoszenie papierów wartościowych i środków pieniężnych klientów"
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Dom maklerski pośredniczący w oferowaniu papierów wartościowych jest obowiązany do przyjęcia zapisu na papiery wartościowe zgodnie z warunkami oferty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Oferujący dom maklerski przekazuje emitentowi środki pieniężne otrzymane od klientów, którzy nabyli akcje w obrocie pierwotnym, po wpisaniu do rejestru handlowego spółki albo podwyższeniu kapitału akcyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Do środków pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio § 16.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "Zapisanie papierów wartościowych nabytych na rynku pierwotnym lub w pierwszej ofercie publicznej na rachunku papierów wartościowych klienta prowadzonym w domu maklerskim lub banku prowadzącym rachunki papierów wartościowych następuje w ciągu 10 dni roboczych od dnia złożenia przez klienta odpowiedniego wniosku, chyba że warunki oferty przewidują krótszy termin. W przypadku złożenia przez klienta wniosku o zarejestrowanie papierów wartościowych przed dniem ich zarejestrowania w Krajowym Depozycie, termin powyższy biegnie od dnia otrzymania przez dom maklerski dokumentów potwierdzających zarejestrowanie papierów wartościowych w Krajowym Depozycie:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "Przepisy ust. 1 stosuje się również do zapisu na rachunku papierów wartościowych klienta, który nabył papiery wartościowe od klienta, któremu przydzielono te papiery.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Zapisanie papierów wartościowych nabytych w drodze transakcji lub zdarzeń prawnych, o których mowa w art. 89 i 92—94 ustawy, na rachunku papierów wartościowych, następuje w ciągu 7 dni roboczych od dokonania transakcji lub wystąpienia zdarzenia, chyba że z umowy wynika inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "W przypadku gdy do dokonania zapisów wymagane jest przedłożenie określonych prawem dokumentów, termin o którym mowa w ust. 1, biegnie od dnia ich przedłożenia w domu maklerskim lub banku prowadzącym rachunki papierów wartościowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "Przeniesienie papierów wartościowych i środków pieniężnych klienta do innego domu maklerskiego lub banku prowadzącego rachunki papierów wartościowych nie może trwać dłużej niż 7 dni roboczych od dnia złożenia wniosku, przy czym każdy z tych podmiotów obowiązany jest dokonać czynności niezbędnych do ich przeniesienia w ciągu 3 dni roboczych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 7",
+   "text": "Postępowanie domów maklerskich w przypadku ogłoszenia wezwań na nabywanie lub zamianę akcji"
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "W przypadku gdy zostało ogłoszone wezwanie do zapisywania się na sprzedaż lub zamianę akcji, dom maklerski przyjmuje zapisy po sprawdzeniu, czy klient posiada akcje będące przedmiotem wezwania i czy zostały one zablokowane na jego rachunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "Dom maklerski jest obowiązany do przyjmowania zapisów na sprzedaż lub zamianę akcji zgodnie z warunkami określonymi w treści wezwania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Dom maklerski, który przyjmuje zapisy na sprzedaż lub zamianę akcji, nalicza prowizję od wartości nabytych akcji z chwilą otrzymania od wzywającego oświadczenia o nabyciu akcji przedstawionych do sprzedaży lub zamiany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "Prowizja jest naliczana od ceny uzyskanej za akcje zgłoszone do sprzedaży bądź od wartości akcji nabytych w drodze zamiany przez zgłaszającego się na wezwanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Zasady ewidencjonowania i archiwizacji transakcji"
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Dom maklerski przechowuje przez okres co najmniej 5 lat formularze złożonych przez klientów zleceń i zapisów, zawartych z klientami umów o świadczenie usług brokerskich i innych umów w zakresie usług świadczonych przez dom maklerski, dokumentów udzielonych pełnomocnictw, potwierdzeń zawartych transakcji oraz rejestrów sesji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_56/ust_1",
+     "text": "Dom maklerski prowadzi ewidencję wszystkich transakcji zawieranych w obrocie papierami wartościowymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_56/ust_2",
+     "text": "W celu ewidencji transakcji dom maklerski sporządza następujące dokumenty:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_56/ust_2/pkt_1",
+       "text": "zestawienie zawartych w danym dniu transakcji, z wyszczególnieniem, czy transakcja była zawarta na rachunek:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_56/ust_2/pkt_1/lit_a",
+         "text": "klienta,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_56/ust_2/pkt_1/lit_b",
+         "text": "klienta, ale poza sesją,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_56/ust_2/pkt_1/lit_c",
+         "text": "własny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_56/ust_2/pkt_1/lit_d",
+         "text": "własny, ale w związku z wykonywaniem czynności, o których mowa w § 37 ust. 1,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_56/ust_2/pkt_1/lit_e",
+         "text": "własny w związku z wykonywaniem czynności, o których mowa w § 37 ust. 1, ale bezpośrednio z dającym zlecenie,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_56/ust_2/pkt_2",
+       "text": "dzienne zestawienie zleceń przyjętych od klientów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_56/ust_2/pkt_3",
+       "text": "kopie dokumentów potwierdzających zawarcie i rozliczenie transakcji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_56/ust_3",
+     "text": "Dom maklerski prowadzi odrębne rejestry:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_56/ust_3/pkt_1",
+       "text": "zleceń zawierających klauzulę umożliwiającą wystawianie na ich podstawie więcej niż jednego zlecenia brokerskiego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_56/ust_3/pkt_2",
+       "text": "ofert złożonych na rynku na rachunek własny, ale w związku z wykonywaniem czynności, o których mowa w § 37 ust.1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_56/ust_4",
+     "text": "Dokumenty, o których mowa w ust. 2 i 3, dom maklerski przechowuje przez okres co najmniej 5 lat. Dokumenty te mogą być przechowywane na magnetycznych lub optycznych nośnikach informacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_56/ust_5",
+     "text": "Dom maklerski jest obowiązany do zapewnienia odpowiednich warunków przechowywania dokumentów, o których mowa w ust. 2 i 3, w szczególności zabezpieczenia ich przed dostępem osób niepowołanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Dom maklerski utrwala dyspozycje, o których mowa w § 22 ust. 1, na magnetycznych lub optycznych nośnikach informacji. Nośniki te przechowywane są przez okres co najmniej 5 lat.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "Bank prowadzący rachunki papierów wartościowych przechowuje przez okres co najmniej 5 lat formularze umów zawartych z klientami, dokumenty pełnomocnictw oraz innych umów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "W przypadku umów oraz dokumentów pełnomocnictw, o których mowa w rozdziale niniejszym, okres 5 lat biegnie od dnia rozwiązania umowy lub ustania pełnomocnictwa.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Ustanawianie i realizacja zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie papierów wartościowych"
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_60/ust_1",
+     "text": "Dom maklerski wykonuje czynności związane z ustanawianiem i realizacją zabezpieczeń spłaty kredytów na nabycie papierów wartościowych na podstawie umowy między bankiem a klientem, do której przystępuje, lub na podstawie odrębnej umowy między bankiem a domem maklerskim, zgodnie",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "z którą dom maklerski jest zobowiązany do dokonywania czynności zmierzających do ustanowienia i realizacji zabezpieczenia udzielonego przez bank kredytu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_60/ust_2",
+     "text": "Umowa, o której mowa w ust. 1, powinna zawierać w szczególności określenie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_60/ust_2/pkt_1",
+       "text": "papierów wartościowych, które mogą być kupowane za środki pieniężne pochodzące z kredytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_60/ust_2/pkt_2",
+       "text": "terminu spłaty kredytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_60/ust_2/pkt_3",
+       "text": "rodzaju i wysokości wymaganego od klienta zabezpieczenia spłaty kredytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_60/ust_2/pkt_4",
+       "text": "sposobu dokonywania przez dom maklerski wyceny papierów wartościowych stanowiących zabezpieczenie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_60/ust_2/pkt_5",
+       "text": "warunków i terminów dokonywania i znoszenia przez dom maklerski blokady papierów wartościowych i środków pieniężnych stanowiących zabezpieczenie spłaty kredytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_60/ust_2/pkt_6",
+       "text": "trybu i terminów przekazywania bankowi przez dom maklerski informacji o aktualnej wysokości zabezpieczenia,",
+       "children": [
+        {
+         "type": "text",
+         "text": "7)sposobu postępowania domu maklerskiego w przypadku spadku wysokości zabezpieczenia poniżej wymaganego poziomu,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_60/ust_2/pkt_8",
+       "text": "sposobu postępowania domu maklerskiego z papierami wartościowymi i środkami pieniężnymi klienta w przypadku niezrealizowania przez klienta zobowiązań z umowy kredytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_60/ust_2/pkt_9",
+       "text": "obowiązku informowania banku przez dom maklerski o każdym przypadku zajęcia papierów wartościowych lub środków pieniężnych kredytobiorcy stanowiących zabezpieczenie kredytu przez organy egzekucyjne lub inne uprawnione podmioty.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "Dom maklerski przekazuje bankowi informacje, o których mowa w § 60 ust. 2 pkt 6, na podstawie udzielonego bankowi przez klienta upoważnienia do uzyskiwania informacji o stanach jego rachunku papierów wartościowych i rachunku pieniężnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "Przepisy tego rozdziału stosuje się odpowiednio do pożyczek na nabycie papierów wartościowych, z wyłączeniem pożyczek udzielanych przez domy maklerskie i banki prowadzące rachunki papierów wartościowych ich klientom, na podstawie odrębnych przepisów.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Tryb i warunki postępowania w przypadku zabezpieczenia wierzytelności na papierach wartościowych dopuszczonych do publicznego obrotu"
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_63/ust_1",
+     "text": "Dom maklerski podejmuje czynności związane z ustanowieniem zabezpieczenia wierzytelności na papierach wartościowych wyłącznie po uprzednim przyjęciu od klienta pisemnego oświadczenia, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_63/ust_1/pkt_1",
+       "text": "istnieje nieprzedawniona wierzytelność pieniężna lub niepieniężna, wynikająca z określonego stosunku prawnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_63/ust_1/pkt_2",
+       "text": "forma zabezpieczenia wierzytelności oraz sposób zaspokojenia wierzyciela z przedmiotu zabezpieczenia odpowiadają wymaganiom przewidzianym w przepisach prawa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_63/ust_1/pkt_3",
+       "text": "przedmiotem zabezpieczenia wierzytelności są papiery wartościowe dopuszczone do publicznego obrotu, zapisane na rachunku papierów wartościowych klienta.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_63/ust_2",
+     "text": "Stwierdzenie okoliczności, o których mowa w ust. 1, następuje także na podstawie stanu rachunku klienta oraz przedstawionej umowy o ustanowieniu zabezpieczenia i dokumentu, z którego wynika zabezpieczona wierzytelność. W domu maklerskim pozostawia się kopię umowy o ustanowieniu zabezpieczenia, zaopatrzoną w podpis upoważnionego pracownika, datę i pieczęć domu maklerskiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "64",
+   "path": "par_64",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_64/ust_1",
+     "text": "Dom maklerski może odmówić podjęcia określonej czynności związanej z ustanowieniem zabezpieczenia wierzytelności w przypadku powzięcia uzasadnionych wątpliwości wskazujących, że umowy, o których mowa w § 63 ust. 2, maja na celu obejście przepisów prawa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_64/ust_2",
+     "text": "Dom maklerski odmawia podjęcia czynności, o których mowa w ust. 1, gdy umowy, o których mowa w § 63 ust. 2, są sprzeczne z przepisami prawa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_64/ust_3",
+     "text": "Odmowa, o której mowa w ust.1 lub 2, powinna nastąpić na piśmie zawierającym uzasadnienie, po uprzednim uzyskaniu od klienta pisemnych lub ustnych wyjaśnień.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "65",
+   "path": "par_65",
+   "text": "Przepisy niniejszego rozdziału stosuje się odpowiednio, w przypadku gdy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_65/pkt_1",
+     "text": "zabezpieczenie wierzytelności banku z tytułu udzielonego kredytu zostało ustanowione na papierach wartościowych zapisanych na rachunkach papierów wartościowych prowadzonych przez wydzieloną jednostkę organizacyjną banku prowadzącą działalność maklerska,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_65/pkt_2",
+     "text": "zabezpieczenie wierzytelności zostało ustanowione na papierach wartościowych zapisanych zgodnie z art. 9 ust. 2 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "Podejmowanie przez dom maklerski czynności związanych z ustanowieniem na papierach wartościowych zabezpieczenia wierzytelności w innej formie i w inny sposób niż wskazane w przepisach oddziału 2 i 3 jest dopuszczalne, jeżeli nie narusza to przepisów prawa, a forma tego zabezpieczenia oraz sposób wykonywania przez dom maklerski tych czynności zostały szczegółowo określone odpowiednio w regulaminie świadczenia usług brokerskich lub regulaminie prowadzenia rachunków papierów wartościowych.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 2",
+   "text": "Blokada papierów wartościowych na rachunku papierów wartościowych"
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu na rachunku papierów wartościowych klienta blokady określonej liczby papierów wartościowych, połączonej z ustanowieniem pełnomocnictwa dla osoby uprawnionej z tytułu blokady (wierzyciela) do sprzedaży zablokowanych papierów i zaspokojenia się z uzyskanych w ten sposób środków pieniężnych, dom maklerski, po otrzymaniu umowy o ustanowieniu blokady i złożeniu przez klienta pisemnej dyspozycji blokady, dokonuje jej na rachunku klienta. Regulamin świadczenia usług brokerskich lub regulamin prowadzenia rachunków papierów wartościowych mogą przewidywać dodatkowe warunki ustanawiania takich pełnomocnictw.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "68",
+   "path": "par_68",
+   "text": "Dom maklerski jest obowiązany do utrzymywania blokady papierów wartościowych przez okres wynikający z umowy o ustanowieniu blokady.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "69",
+   "path": "par_69",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_69/ust_1",
+     "text": "W okresie utrzymywania blokady dom maklerski nie może wykonywać poleceń klienta dotyczących:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_69/ust_1/pkt_1",
+       "text": "zniesienia blokady,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)sprzedaży zablokowanych papierów wartościowych,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_69/ust_1/pkt_3",
+       "text": "przeniesienia zablokowanych papierów na inny rachunek papierów wartościowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "Przepisów ust. 1 nie stosuje się w przypadku przeniesienia papierów wartościowych będących przedmiotem blokady na inny rachunek papierów wartościowych z zachowaniem blokady, jeżeli przeniesienie jest wynikiem realizacji postanowień umowy ustanawiającej blokadę lub w przypadku, o którym mowa w art. 46 ust. 4 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_69/ust_3",
+     "text": "Wykonanie przez dom maklerski innych niż wymienione w ust. 1 dyspozycji klienta dotyczących zablokowanych papierów wartościowych może nastąpić wyłącznie w zakresie określonym w umowie o ustanowieniu blokady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "70",
+   "path": "par_70",
+   "text": "Dom maklerski prowadzący rachunek papierów wartościowych klienta, na którym zapisane są zablokowane papiery, w braku odmiennych postanowień umowy o ustanowieniu blokady, przekazuje do dyspozycji klienta, w sposób przez niego wskazany, pożytki z tych papierów, w szczególności dywidendy, odsetki lub inne świadczenia pieniężne spełniane na rzecz klienta przez dłużnika z papierów wartościowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "71",
+   "path": "par_71",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_71/ust_1",
+     "text": "Dom maklerski znosi blokadę w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_71/ust_1/pkt_1",
+       "text": "blokady bezterminowej, ustanowionej do odwołania lub do czasu wykonania zobowiązania zabezpieczonego blokadą — niezwłocznie po złożeniu przez wierzyciela, lub przez klienta — za pisemną zgodą wierzyciela, pisemnej dyspozycji zniesienia blokady,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Póz:'1159"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_71/ust_1/pkt_2",
+       "text": "blokady nieodwołalnej — w dniu następującym po upływie okresu utrzymywania blokady ustalonego w umowie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_71/ust_1/pkt_3",
+       "text": "określonym w § 72 ust. 1 — niezwłocznie po złożeniu zlecenia sprzedaży.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_71/ust_2",
+     "text": "Zniesienie blokady może dotyczyć części zablokowanych papierów wartościowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "72",
+   "path": "par_72",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_72/ust_1",
+     "text": "W dacie wymagalności wierzytelności zabezpieczonej blokadą dom maklerski realizuje pisemne zlecenie sprzedaży papierów wartościowych klienta, złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w zawartej umowie o ustanowieniu blokady. W przypadku zablokowania papierów wartościowych nie będących przedmiotem obrotu na rynku regulowanym, dom maklerski realizuje zlecenie po uzyskaniu przez wierzyciela zezwolenia, o kórym mowa w art. 93 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_72/ust_2",
+     "text": "Dom maklerski niezwłocznie przekazuje do dyspozycji wierzyciela, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1, środki pieniężne pochodzące z realizacji tego zlecenia w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_72/ust_3",
+     "text": "Po upływie ustalonego w umowie okresu utrzymywania blokady dom maklerski nie może przyjąć zlecenia, o którym mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 3",
+   "text": "Zastaw na papierach wartościowych"
+  },
+  {
+   "type": "par",
+   "num": "73",
+   "path": "par_73",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_73/ust_1",
+     "text": "W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na określonej liczbie papierów wartościowych zapisanych na rachunku papierów wartościowych klienta (zastawcy), dom maklerski, po otrzymaniu umowy zastawu i złożeniu przez klienta pisemnej dyspozycji blokady zastawionych papierów, dokonuje na rachunku zastawcy blokady tych papierów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_73/ust_2",
+     "text": "W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu rejestrowego na podstawie ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703, z 1997 r. Nr 121, poz. 769 i z 1998 r. Nr 106, poz. 668), zwanej dalej ustawą o zastawie rejestrowym, dom maklerski dokonuje blokady papierów wartościowych po otrzymaniu dokumentów, o których mowa w ust. 1, oraz odpisu z rejestru zastawów, stanowiącego dowód wpisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_73/ust_3",
+     "text": "W zakresie nie uregulowanym w przepisach niniejszego oddziału do ustanowienia, utrzymywania i zniesienia blokady papierów wartościowych stosuje się odpowiednio przepisy oddziału 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_73/ust_4",
+     "text": "Po ustanowieniu blokady zastawionych papierów wartościowych dom maklerski na żądanie klienta (zastawcy) wystawia mu imienne świadectwo depozytowe, opiewające na te papiery. W treści świadectwa zamieszcza się wzmiankę o ustanowieniu blokady papierów wartościowych w związku z obciążeniem ich zastawem, czasie trwania blokady oraz o wysokości wierzytelności zabezpieczonej zastawem.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "74",
+   "path": "par_74",
+   "text": "Dom maklerski jest obowiązany do utrzymywania blokady zastawionych papierów wartościowych przez okres wynikający z umowy zastawu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "75",
+   "path": "par_75",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_75/ust_1",
+     "text": "Dom maklerski prowadzący rachunek papierów wartościowych, na którym zapisane są papiery obciążone zastawem, w braku odmiennych postanowień umowy zastawu, przekazuje do dyspozycji zastawnika, w sposób przez niego wskazany, pożytki z tych papierów, w szczególności dywidendy lub odsetki. W zakresie obowiązku zastawnika określonego w art. 319 Kodeksu cywilnego dom maklerski może, na podstawie pełnomocnictwa udzielonego przez zastawnika, dokonać rozliczenia wobec zastawcy z pobranych pożytków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_75/ust_2",
+     "text": "W przypadku gdy dłużnik z papierów wartościowych obciążonych zastawem przekazuje domowi maklerskiemu, o którym mowa w ust. 1, świadczenie główne, do którego jest zobowiązany z tych papierów, dom maklerski dokonuje blokady na rachunku pieniężnym zastawcy otrzymanych z tego tytułu środków pieniężnych. Środki pieniężne podlegają blokadzie do czasu wykonania uprawnień przysługujących zastawcy lub zastawnikowi. Środki pieniężne pochodzące ze spełnienia świadczenia przez dłużnika z zastawionych papierów mogą być wypłacone wyłącznie do rąk zastawcy i zastawnika tącznie, albo na żądanie jednego z nich powinny zostać złożone do depozytu sądowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "76",
+   "path": "par_76",
+   "text": "Dom maklerski znosi blokadę niezwłocznie po powzięciu informacji o wygaśnięciu zastawu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "77",
+   "path": "par_77",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_77/ust_1",
+     "text": "Jeżeli zgodnie z przepisami regulującymi sposób zaspokojenia zastawnika zaspokojenie polega na przeniesieniu zastawionych papierów wartościowych poza rynkiem regulowanym, w szczególności poprzez przejęcie ich na własność, dom maklerski, na pisemne żądanie zastawnika zgłoszone, z zastrzeżeniem ust. 2, w dacie wymagalności wierzytelności zabezpieczonej zastawem, występuje do Komisji Papierów Wartościowych i Giełd z wnioskiem o udzielenie zgody, o której mowa w art. 89 ust. 1 pkt 2 ustawy, a po uzyskaniu tej zgody i na określonych w niej warunkach, niezwłocznie przenosi zastawione papiery wartościowe z rachunku papierów wartościowych zastawcy na wskazany rachunek papierów wartościowych zastawnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_77/ust_2",
+     "text": "W przypadku pozaegzekucyjnego sposobu zaspokojenia zastawnika, polegającego na przejęciu papierów wartościowych na własność w trybie i na warunkach określonych w ustawie o zastawie rejestrowym, wystąpienie przez dom maklerski, na pisemne żądanie zastawnika, z wnioskiem, o którym mowa w ust. 1, może nastąpić przed datą wymagalności wierzytelności zabezpieczonej zastawem rejestrowym, nie wcześniej jednak niż po dokonaniu czynności, o których mowa w § 73 ust. 2. Na podstawie uzyskanej zgody Komisji Papierów Wartościowych i Giełd dom maklerski przenosi papiery na rachunek zastawnika niezwłocznie po otrzymaniu pisemnego żądania zastawnika, zgłoszonego w dacie wymagalności tej wierzytelności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_77/ust_3",
+     "text": "W przypadku gdy przeniesienie papierów wartościowych poza rynkiem regulowanym w celu zaspokojenia zastawnika następuje według przepisów o postępowaniu egzekucyjnym, dom maklerski podejmuje czynności określone w ust. 1, na żądanie komornika prowadzącego egzekucję z zastawionych papierów wartościowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "78",
+   "path": "par_78",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_78/ust_1",
+     "text": "W przypadku gdy zaspokojenie zastawnika następuje według przepisów o postępowaniu egzekucyjnym i polega na sprzedaży papierów wartościowych na rynku regulowanym, dom maklerski realizuje pisemne zlecenie sprzedaży papierów wartościowych zastawcy, złożone przez komornika, po uprzednim dokonaniu przez niego zajęcia zastawionych papierów wartościowych na rachunku papierów wartościowych zastawcy, do wysokości egzekwowanej należności wraz z kosztami egzekucyjnymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_78/ust_2",
+     "text": "Dom maklerski niezwłocznie przekazuje do dyspozycji komornika, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1, środki pieniężne pochodzące z realizacji tego zlecenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "79",
+   "path": "par_79",
+   "text": "Po wygaśnięciu zastawu dom maklerski nie może podejmować czynności, o których mowa w § 77 i 78.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "80",
+   "path": "par_80",
+   "text": "Przepisy § 77 ust. 3 oraz § 78 stosuje się odpowiednio do postępowania domu maklerskiego w przypadku zaspokojenia wierzyciela z papierów wartościowych dłużnika, w ramach prowadzonej egzekucji, która nie wynika z ustanowionego zastawu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "81",
+   "path": "par_81",
+   "text": "Przepisy tego rozdziału dotyczące domu maklerskiego stosuje się również odpowiednio do banku prowadzącego rachunki papierów wartościowych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VI",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "82",
+   "path": "par_82",
+   "text": "Przepisów rozporządzenia dotyczących rozliczania transakcji nie stosuje się do zawieranych przez Narodowy Bank Polski z innymi bankami transakcji w aukcyjnym obrocie papierami wartościowymi lub w ramach bezwarunkowej sprzedaży oraz odkupu w trybie aukcyjnym papierów wartościowych (operacje otwartego rynku). W tym przypadku rozliczenie transakcji następuje bezpośrednio, z wyłączeniem domu maklerskiego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "83",
+   "path": "par_83",
+   "text": "Domy maklerskie dostosują regulaminy, o których mowa w rozporządzeniu, w terminie 6 miesięcy od dnia jego wejścia w życie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "84",
+   "path": "par_84",
+   "text": "Traci moc zarządzenie Przewodniczącego Komisji Papierów Wartościowych z dnia 7 lipca 1995 r. w sprawie szczegółowego sposobu przeprowadzania transakcji i rozliczeń, zasad prowadzenia ewidencji tych transakcji oraz trybu postępowania w przypadku zabezpieczenia wierzytelności na papierach wartościowych dopuszczonych do publicznego obrotu (Monitor Polski Nr 35, poz. 420 i z 1997 r. Nr 68, poz. 671).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "85",
+   "path": "par_85",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,1357 @@
+{
+ "eli": "DU/1998/589",
+ "title": "Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 14 lipca 1998 r. w sprawie określenia rodzajów inwestycji szczególnie szkodliwych dla środowiska i zdrowia ludzi albo mogących pogorszyć stan środowiska oraz wymagań, jakim powinny odpowiadać oceny oddziaływania na środowisko tych inwestycji.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/589/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OCHRONY ŚRODOWISKA, ZASOBÓW NATURALNYCH I LEŚNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 lipca 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia rodzajów inwestycji szczególnie szkodliwych dla środowiska i zdrowia ludzi albo mogących pogorszyć stan środowiska oraz wymagań, jakim powinny odpowiadać oceny oddziaływania na środowisko tych inwestycji."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 40 ust. 5 pkt 1 i pkt 2 lit. b) ustawy z dnia 7 lipca 1994 r. o zagospodarowaniu przestrzennym (Dz. U. Nr 89, poz. 415, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 111, poz. 726, Nr 133, poz. 885 i Nr 141, poz. 943) oraz art. 70 ust. 4 ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. Nr 49, poz. 196, z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622 oraz z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Do inwestycji szczególnie szkodliwych dla środowiska i zdrowia ludzi zalicza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "rafinerie ropy naftowej (z wyjątkiem instalacji do wytwarzania wyłącznie smarów z ropy naftowej), instalacje gazyfikacji i upłynniania węgla lub tupka bitumicznego o wydajności co najmniej 500 ton na dobę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "elektrownie konwencjonalne, elektrocieptownie i inne instalacje do spalania, w których ilość energii cieplnej wprowadzanej w paliwie w jednostce czasu przy nominalnym obciążeniu obiektu wynosi co najmniej 300 MW,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "elektrownie jądrowe i inne reaktory jądrowe tącznie z demontażem i wycofaniem z eksploatacji reaktorów jądrowych (z wyjątkiem instalacji badawczych do produkcji i konwersji materiałów rozszczepialnych i wzbogaconych, w których ilość energii cieplnej wprowadzanej w paliwie w jednostce czasu przy nominalnym obciążeniu obiektu nie przekracza 1 kW),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "instalacje do końcowego usuwania napromieniowanego paliwa jądrowego i odpadu radioaktywnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "inwestycje stuzace do produkcji lub wzbogacania paliw jądrowych, do przerobu paliw jądrowych lub do magazynowania, unieszkodliwiania i przerobu odpadów radioaktywnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "inwestycje służące do pierwotnego wytopu surówki żelaza i stali oraz produkcji metali nieżelaznych do: |",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "prażenia i spiekania rud żelaza w instalacjach o przerobie co najmniej 1 miliona ton rudy na rok, ,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "produkcji co najmniej 1 miliona ton surówki i stali surowej na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_6/lit_c",
+       "text": "produkcji ze złomu co najmniej 500 000 ton stali na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_6/lit_d",
+       "text": "przerobu co najmniej 100 000 ton rud metali ciężkich na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_6/lit_e",
+       "text": "produkcji, odzyskiwania lub przerobu metali nieżelaznych, ich związków lub innych stopów, w ilości co najmniej 100 000 ton na rok, procesami termicznymi, chemicznymi lub elektrolitycznymi,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "zakłady wydobywania azbestu oraz przerobu azbestu i produktów zawierających azbest,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "zakłady chemiczne lub grupy powiązanych ze sobą funkcjonalnie zakładów, wytwarzające:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_8/lit_a",
+       "text": "produkty organiczne (w tym pestycydy) powyżej 100 000 ton na rok, a produkty chemicznej przeróbki węgla powyżej 1000 ton na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_8/lit_b",
+       "text": "produkty nieorganiczne powyżej 200 000 ton na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_8/lit_c",
+       "text": "nawozy sztuczne powyżej 300 000 ton na rok,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "autostrady i drogi ekspresowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "porty lotnicze o długości podstawowego pasa startowego 2100 metrów lub większej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "porty morskie i instalacje portowe do obsługi następujących ładunków płynnych i sypkich: ropy naftowej i produktów naftowych, nawozów sztucznych, siarki i innych ładunków chemicznych, wtym położone poza linią brzegową na wodach terytorialnych i morskich wodach wewnętrznych oraz śródlądowe porty i śródlądowe drogi wodne pozwalające na żeglugę jednostek pływających o wyporności ponad 1350 ton,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "rurociągi do przesytu gazu, ropy naftowej, produktów naftowych i substancji chemicznych o średnicy większej niż 800 mm i długości ponad 40 km,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "inwestycje związane z wykorzystaniem lub unieszkodliwianiem odpadów niebezpiecznych oraz związane z termicznym przekształcaniem wszystkich odpadów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "nadpoziomowe stawy osadowe o powierzchni powyżej 10 ha,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "zbiorniki wodne o pojemności całkowitej większej niż 10 mln m oraz zapory wodne o wysokości piętrzenia powyżej 8 m,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "inwestycje służące do przesyłu zasobów wodnych między zlewniami, w celu zapobieżenia brakowi wody, w ilościach przekraczających 100 mln m3 rocznie, z wyłączeniem przesyłu wody pitnej rurociągami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "ujęcia wód podziemnych o wydajności powyżej 5 mln m3 na rok,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "inwestycje związane ze sztucznymi systemami zasilania wód podziemnych o rocznej objętości zasilania wynoszącej co najmniej 10 mln m* na rok,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "zakłady wytwarzające masy celulozowe, papier lub tekturę, w ilości powyżej 200 ton na dobę masy powietrznie suchej pulpy, papieru lub tektury,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_1/pkt_20",
+     "text": "zakłady górnicze i zakłady przeróbcze:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_20/lit_a",
+       "text": "podziemne zakłady górnicze i związane nimi technologicznie zakłady przeróbcze o wydobyciu i przerobie ponad 100 000 m*% urobku na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_20/lit_b",
+       "text": "podziemne zakłady górnicze i związane z nimi technologicznie zakłady przeróbcze węgla i rud metali nieżelaznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_20/lit_c",
+       "text": "odkrywkowe zakłady górnicze o powierzchni odkrywki ponad 25 ha,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_1/pkt_21",
+     "text": "inwestycje służące do poszukiwania lub wydobywania węglowodorów spod dna morskiego, tącznie z urządzeniami do przeładunku i transportu na ląd,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_1/pkt_22",
+     "text": "zbiorniki do magazynowania wraz z urządzeniami do przeładunku: co najmniej 50 000 m? ropy naftowej lub produktów chemicznych, co najmniej 30 000 m* produktów naftowych oraz co najmniej 50 000 m? gazu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_1/pkt_23",
+     "text": "linie elektroenergetyczne o napięciu znamionowym wyższym od 220 kV,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_1/pkt_24",
+     "text": "stacje i rozdzielnie elektroenergetyczne o napięciu znamionowym wyższym od 400 kV,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_1/pkt_25",
+     "text": "inwestycje związane z hodowlą zwierząt w liczbie ponad 500 dużych jednostek przeliczeniowych",
+     "children": [
+      {
+       "type": "text",
+       "text": "(DJP) inwentarza; współczynniki przeliczeniowe sztuk zwierząt gospodarskich na DJP określa załącznik do rozporządzenia,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_1/pkt_26",
+     "text": "oczyszczalnie ścieków obsługujące powyżej 150 000 mieszkańców równoważnych (MR),",
+     "children": [
+      {
+       "type": "text",
+       "text": "27)instalacje odsiarczania o wydajności powyżej 100 000 m* na godzinę gazów odlotowych w warunkach normalnych: w temperaturze 273°K i przy ciśnieniu 101,1 kPa,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "par_1/pkt_28",
+     "text": "inwestycje związane z produkcją lub wykorzystaniem rtęci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do inwestycji mogących pogorszyć stan środowiska zalicza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "inwestycje w rolnictwie, związane z:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "hodowlą zwierząt w liczbie od 50 do 500 DJP, w przypadku chowu ściółkowego — od 100 do 500 DJP, w przypadku zwierząt futerkowych mięsożernych w liczbie od 10 do 500 DJP,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "hodowlą ryb łososiowatych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "hodowlą ryb innych niż łososiowate oraz skorupiaków w stawach o powierzchni większej niż 10 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_1/lit_d",
+       "text": "hodowlą egzotycznych zwierząt powyżej 3 matek,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "inwestycje w przemyśle wydobywczym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "odkrywkowe zakłady górnicze o wielkości powierzchni odkrywki do 25 ha, z wyłączeniem wydobywania piasku, żwiru i gliny w ilości mniejszej niż 20 000 m* na rok, i związane z nimi technologicznie zakłady przeróbcze kopalin,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "podziemne zakłady górnicze i związane z nimi technologicznie zakłady przeróbcze nie wymienione w § 1 pkt 20 lit. a),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "powierzchniowe zakłady przeróbcze kopalin, nie związane technologicznie z zakładem górniczym i usytuowane poza terenem zamkniętym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_2/lit_d",
+       "text": "zakłady górnicze wydobywające kopaliny otworami wiertniczymi, z wyjątkiem wydobywania węglowodorów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_2/lit_e",
+       "text": "zakłady wzbogacania węgla,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_2/lit_f",
+       "text": "służące ujęciu solanek i wód leczniczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_2/pkt_2/lit_g",
+       "text": "służące poszukiwaniu lub wydobywaniu węglowodorów na lądzie oraz poszukiwaniu wód termalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_2/pkt_2/lit_h",
+       "text": "służące poszukiwaniu lub wydobywaniu kopalin pospolitych z dna morskiego, tącznie z urządzeniami do przeładunku i transportu na ląd, służące bezzbiornikowemu magazynowaniu",
+       "children": [
+        {
+         "type": "text",
+         "text": "— substancji w górotworze oraz składowaniu odpadów w podziemnych wyrobiskach górniczych, a także wtłaczaniu wód złożowych, pochodzących z innego złoża, do górotworu,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "inwestycje w przemyśle energetycznym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "elektrownie konwencjonalne, elektrocieptownie i inne instalacje do spalania nie wymienione w § 1 pkt 2, w których ilość energii cieplnej wprowadzonej w paliwie w jednostce czasu przy nominalnym obciążeniu obiektu wynosi co najmniej 25 MW, a przy stosowaniu paliwa stałego — co najmniej 10 MW,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "rurociągi do przesyłu gazu, ropy naftowej i produktów naftowych oraz substancji chemicznych, nie wymienione w § 1 pkt 12, a także rurociągi do przesyłu pary i gorącej wody, z wyjątkiem gazociągów o ciśnieniu do 0,4 MPa włącznie oraz przyłączy do budynków, a także z wyjątkiem osiedlowej sieci ciepłowniczej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "zakłady brykietowania węgla kamiennego i brunatnego, usytuowane poza obszarem zakładu górniczego, oraz zakłady brykietowania odpadów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_3/lit_d",
+       "text": "reaktory jądrowe do produkcji i konwersji materiałów rozszczepialnych i wzbogaconych, stuzace do celów badawczych, w których ilość energii cieplnej wprowadzanej w paliwie w jednostce czasu przy nominalnym obciążeniu obiektu nie przekracza 1 kW,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_3/lit_e",
+       "text": "elektrownie wodne o wysokości spadu co najmniej 3,0 m, a na obszarach chronionych — wszystkie elektrownie wodne,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "inwestycje w przemyśle hutniczym, metalurgicznym i maszynowym, obejmujące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_4/lit_a",
+       "text": "inwestycje pierwotnego wytopu surówki żelaza i stali oraz produkcji metali nieżelaznych, nie wymienione w § 1 pkt 6,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_4/lit_b",
+       "text": "odlewnie, zakłady kuźnicze, walcownie i ciągarnie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_4/lit_c",
+       "text": "urządzenia do wyciskania, wyciągania i wytłaczania odlewów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_4/lit_d",
+       "text": "zakłady do powierzchniowej obróbki i powlekania metali (w tym galwanizernie), \"e) zakłady produkcji zbiorników, kadzi i innych pojemników z blach,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_4/lit_f",
+       "text": "zakłady produkcji i montowania pojazdów lub urządzeń mechanicznych oraz produkcji silników,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_2/pkt_4/lit_g",
+       "text": "stocznie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_2/pkt_4/lit_h",
+       "text": "zakłady budowy i naprawy statków powietrznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_2/pkt_4/lit_i",
+       "text": "zakłady produkcji i naprawy sprzętu kolejowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_2/pkt_4/lit_j",
+       "text": "urządzenia do wytłaczania eksplozyjnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_2/pkt_4/lit_k",
+       "text": "zakłady sortowania i wstępnego przerobu złomu, w tym złomowania pojazdów i urządzeń mechanicznych oraz statków, |) zakłady konstrukcji metalowych o produkcji powyżej 1000 ton na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "t",
+       "path": "par_2/pkt_4/lit_t",
+       "text": "zakłady produkujące i powlekające drut i kable,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "inwestycje w przemyśle chemicznym, obejmujące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_5/lit_a",
+       "text": "zakłady wytwarzające produkty organiczne, nieorganiczne i nawozy sztuczne (w tym pestycydy), w ilościach mniejszych niż określone w § 1 pkt 8,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_5/lit_b",
+       "text": "zakłady wytwarzające tworzywa sztuczne i wyroby z tworzyw sztucznych, materiały wybuchowe, wyroby pirotechniczne, wyroby gumowe na bazie elastomerów oraz wyroby farmaceutyczne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_5/lit_c",
+       "text": "rafinerie ropy naftowej i instalacje do podziemnej gazyfikacji i upłynniania węgla, nie wymienione w § 1 pkt 1, i instalacje wytwarzania smarów z ropy naftowej,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "inwestycje w przemyśle spożywczym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_6/lit_a",
+       "text": "zakłady produkcji tłuszczów roślinnych i zwierzęcych, w tym dla celów technicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_6/lit_b",
+       "text": "zakłady wytwarzające wyroby mleczarskie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_6/lit_c",
+       "text": "browary i stodownie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_6/lit_d",
+       "text": "ubojnie zwierząt o produkcji powyżej 50 ton na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_6/lit_e",
+       "text": "krochmalnie przemysłowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_6/lit_f",
+       "text": "zakłady przetwórstwa mięsa o produkcji powyżej 200 ton na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_2/pkt_6/lit_g",
+       "text": "zakłady przetwórstwa ryb o produkcji powyżej 50 ton na rok oraz produkcji tranu i mączki rybnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_2/pkt_6/lit_h",
+       "text": "zakłady przetwórstwa owoców i warzyw o produkcji powyżej 200 ton na rok,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_2/pkt_6/lit_i",
+       "text": "cukrownie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_2/pkt_6/lit_j",
+       "text": "gorzelnie i wytwórnie win,",
+       "children": [
+        {
+         "type": "text",
+         "text": "~— inwestycje w przemyśle tekstylnym, skórzanym, 7 drzewnym i papierniczym, obejmujące:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_6/lit_a",
+       "text": "zakłady przemysłowego prania, odtłuszczania i farbowania materiałów włókienniczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_6/lit_b",
+       "text": "tartaki, zakłady wytwórcze płyt pilśniowych, wiórowych, sklejek i oklein,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_6/lit_c",
+       "text": "zakłady wytwarzające masy celulozowe, papier lub tekturę, nie wymienione w § 1 pkt 19,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_6/lit_d",
+       "text": "garbarnie i zakłady uszlachetniania skór,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "inwestycje infrastrukturalne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_8/lit_a",
+       "text": "linie kolejowe dopuszczające prędkości co najmniej 200 km/h oraz urządzenia przeładunkowe kolejowe i na inne rodzaje transportu oraz terminale między różnymi rodzajami transportu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_8/lit_b",
+       "text": "porty lotnicze nie wymienione w § 1 pkt 10 oraz lądowiska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_8/lit_c",
+       "text": "porty oraz przystanie, włącznie z portami rybackimi, nie wymienione w § 1 pkt 11,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_8/lit_d",
+       "text": "śródlądowe drogi wodne, nie wymienione w § 1 pkt 11, i systematyczne regulacje rzek oraz urządzenia przeciwpowodziowe: wały przeciwpowodziowe, retencyjne zbiorniki przeciwpowodziowe, poldery, kanały ulgi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_8/lit_e",
+       "text": "zbiorniki i zapory wodne, nie wymienione w § 1 pkt 15, i inne obiekty mające na celu piętrzenie wody lub długoterminowe jej magazynowanie — o wysokości piętrzenia lub gtebokosci powyżej5m,anaobszarach chronionych, wodach żeglownych i obszarach lasów — każdy zbiornik i zapora wodna, linie tramwajowe, koleje napowietrzne i podf ziemne (metro), kolejki linowe lub podobne linie szczególnego charakteru, używane wyłącznie lub głównie do transportu pasażerów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_2/pkt_8/lit_g",
+       "text": "rurociągi do przesyłu wody o średnicy co najmniej 1000 mm lub kanały odkryte o długości powyżej 10 km,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_2/pkt_8/lit_h",
+       "text": "wały ochronne, nabrzeża, pirsy i inne konstrukcje ochronne lub zmieniające linie wybrzeża morskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_2/pkt_8/lit_i",
+       "text": "linie elektroenergetyczne o napięciu znamionowym od 110 kV do 220 kV,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_2/pkt_8/lit_j",
+       "text": "stacje i rozdzielnie elektroenergetyczne o napięciu znamionowym od 110 kV do 400 kV,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_2/pkt_8/lit_k",
+       "text": "inwestycje obejmujące urządzenia emitujące elektromagnetyczne promieniowanie niejonizujące w zakresie częstotliwości 0,03—300 000 MHz: radiolokacyjne, radiokomunikacyjne, radionawigacyjne o sumarycznej, określonej zgodnie z przepisami odrębnymi, mocy nadajników wyższej od 10 W oraz radiolinie, drogi krajowe, z wyjątkiem autostrad i dróg eks- — presowych, oraz drogi wojewódzkie, stacje paliw płynnych, z wyłączeniem stacji gazu t",
+       "children": [
+        {
+         "type": "text",
+         "text": "~— propan-butan,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_2/pkt_8/lit_m",
+       "text": "parkingi samochodowe lub zespoły parkingów dla więcej niż 500 samochodów osobowych lub 200 samochodów ciężarowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_2/pkt_8/lit_n",
+       "text": "kompleksy handlowe o powierzchni powyżej 3,0 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_2/pkt_8/lit_o",
+       "text": "zajezdnie tramwajowe i autobusowe oraz bazy transportowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "p",
+       "path": "par_2/pkt_8/lit_p",
+       "text": "drogowe przejścia graniczne i terminale odpraw celnych,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "inwestycje turystyczne i wypoczynkowe:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_9/lit_a",
+       "text": "trasy narciarskie, bobslejowe, wyciągi narciarskie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_9/lit_b",
+       "text": "pola kempingowe i karawaningowe na terenach nie zurbanizowanych, zapewniające pobyt dla ponad 100 osób,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_9/lit_c",
+       "text": "ośrodki wypoczynkowe, pensjonaty, hotele na terenach nie zurbanizowanych, zapewniające pobyt dla ponad 100 osób,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_9/lit_d",
+       "text": "stadiony dostosowane do pobytu publiczności w liczbie większej niż 5000 osób,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_9/lit_e",
+       "text": "parki rozrywki o powierzchni powyżej 30,0 ha,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "inne inwestycje:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_10/lit_a",
+       "text": "zbiorniki do magazynowania wraz z urządzeniami do przeładunku: mniej niż 50 000 m? ropy naftowej lub produktów chemicznych, mniej niż 30 000 m* produktów naftowych oraz mniej niż 50 000 m? gazu, z wyjątkiem zbiorników związanych z instalacjami grzewczymi i prądotwórczymi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_10/lit_b",
+       "text": "koksownie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_10/lit_c",
+       "text": "cementownie i zakłady przemysłu wapienniczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_10/lit_d",
+       "text": "zakłady produkcji szkła i wyrobów szklanych, e)ujęcia wód podziemnych o wydajności od 1,5 mln m3 do 5 mln m? na rok i ujęcia wód powierzchniowych o wydajności co najmniej 50 m3 na godzinę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_10/lit_f",
+       "text": "inwestycje związane ze sztucznymi systemami zasilania wód podziemnych o objętości zasilania poniżej 10 mln m3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_2/pkt_10/lit_g",
+       "text": "oczyszczalnie ścieków obsługujące od 400 do 150 000 MR,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_2/pkt_10/lit_h",
+       "text": "inwestycje nie wymienione w § 1 pkt 13, związane z wykorzystaniem lub unieszkodliwianiem odpadów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_2/pkt_10/lit_i",
+       "text": "stałe tory wyścigowe lub próbne dla pojazdów mechanicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_2/pkt_10/lit_j",
+       "text": "stacjonarne wytwórnie mas bitumicznych lub betonu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_2/pkt_10/lit_k",
+       "text": "stanowiska testowania silników, turbin lub reaktorów,",
+       "children": [
+        {
+         "type": "text",
+         "text": "I) zakłady produkujące widkna mineralne,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "t",
+       "path": "par_2/pkt_10/lit_t",
+       "text": "zakłady wytwarzające styropian, z wyjątkiem prowadzących tylko produkcję finalną, wykorzystującą grys styropianowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_2/pkt_10/lit_m",
+       "text": "stacje obsługi lub remontowe sprzętu budowlanego, rolniczego lub środków transportu, nie wymienione w § 2 pkt 4 lit. h) oraz lit. i), posiadające więcej niż 3 stanowiska robocze, z wyłączeniem specjalistycznych stacji i warsztatów, prowadzących określoną jednoznacznie działalność obejmującą geometrię i wyważanie kot, ustawianie świateł, instalowanie zabezpieczeń antywłamaniowych oraz tapicerstwo,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_2/pkt_10/lit_n",
+       "text": "stacje przeładunku produktów naftowych z cystern do innego rodzaju cystern,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_2/pkt_10/lit_o",
+       "text": "nadpoziomowe stawy osadowe nie wymienione w § 1 pkt 14,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "p",
+       "path": "par_2/pkt_10/lit_p",
+       "text": "instalacje odsiarczania nie wymienione w § 1 pkt 27,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "r",
+       "path": "par_2/pkt_10/lit_r",
+       "text": "sztuczne wyspy, konstrukcje i urządzenia oraz linie elektroenergetyczne i rurociągi na polskich obszarach morskich, nie wymienione w § 1 pkt 12, 21i 23,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "s",
+       "path": "par_2/pkt_10/lit_s",
+       "text": "lakiernie i malarnie, z wyłączeniem zakładów zużywających w roku mniej niż 250 kg materiałów malarskich oraz z wyłączeniem lakierni proszkowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "t",
+       "path": "par_2/pkt_10/lit_t",
+       "text": "inwestycje związane z unieszkodliwianiem zasolonych wód kopalnianych i solanek pozabiegowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Oceny oddziaływania na środowisko inwestycji szczególnie szkodliwych dla środowiska i zdrowia ludzi albo mogących pogorszyć stan środowiska, sporządzane na etapie uzgadniania warunków zabudowy i zagospodarowania terenu, powinny spełniać następujące wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "określać oddziaływanie inwestycji na następujące elementy środowiska: ludzi, świat zwierzęcy i roślinny, powietrze, powierzchnię ziemi i glebę, wody powierzchniowe i podziemne, złoża kopalin, klimat, krajobraz, dobra materialne i dziedzictwo kultury, z uwzględnieniem ich wzajemnych powiązań i oddziaływań,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "uwzględniać stan środowiska w powiązaniu z istniejącym i planowanym zagospodarowaniem terenu z punktu widzenia nakładania się negatywnych oddziaływań na środowisko,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "uwzględniać etap budowy, eksploatacji i likwidacji inwestycji wraz z towarzyszącymi jej obiektami i urządzeniami budowlanymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "identyfikować i określać skutki potencjalnych sytuacji awaryjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "uwzględniać potencjalne skutki transgraniczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "przyjmować za podstawę istniejące dane obserwacyjne i pomiarowe oraz inne informacje dotyczące stanu środowiska i występujących uciążliwości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "przedstawiać zastosowane metody oceny i przyjęte założenia, jak również wykorzystane dane o środowisku, a także stwierdzone braki i niedoskonałości w tym zakresie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "zawierać streszczenie w języku niespecjalistycz-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nym,"
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_1/pkt_9",
+       "text": "przedstawiać zagadnienia w formie opisowej i graficznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Oceny, o których mowa w ust. 1, powinny uwzględniać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "opis inwestycji, w tym jej położenie i powierzchnię oraz charakterystykę technologii i rozwiązań technicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "opis stanu środowiska i sposobu zagospodarowania terenu na obszarze potencjalnego oddziaływania inwestycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "opis sposobu korzystania ze środowiska na etapie budowy, eksploatacji i likwidacji inwestycji, wraz z określeniem zużycia wody, kopalin, materiato- i energochłonności, ilości i rodzajów wytwarzanych odpadów i ścieków, emitowanych zanieczyszczeń, odorów, promieniowania, wibracji oraz zasięgu uciążliwego hałasu (przedstawionego na mapach w odpowiedniej skali),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "oszacowanie przewidywanych oddziaływań bezpośrednich, pośrednich, krótkotrwałych, odwracalnych i nieodwracalnych inwestycji na poszczególne elementy środowiska i zdrowie ludzi oraz planowane i istniejące zagospodarowanie terenu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "opis i analizę skuteczności proponowanych sposobów zminimalizowania ujemnego wpływu na środowisko i zdrowie ludzi, wynikających z aktualnego stanu wiedzy, w tym sposoby zapobiegania powstawaniu odpadów lub minimalizacji ich ilości oraz ich usuwania, wykorzystywania lub unieszko-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "dliwiania, z wyodrębnieniem przewidywanego postępowania z odpadami niebezpiecznymi,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "oddziaływanie inwestycji przy zastosowaniu środków minimalizujących negatywny wpływ na zdrowie ludzi i poszczególne elementy środowiska oraz planowane i istniejące zagospodarowanie terenu w obszarze potencjalnego jej oddziaływania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "oszacowanie, czy uciążliwe oddziaływanie inwestycji na środowisko mieści się w granicach terenu, dla którego jednostka organizacyjna wystąpiła o ustalenie warunków zabudowy i zagospodarowania terenu, a w przypadku niespełnienia tego warunku, dla inwestycji, dla których art. 71 ust. 2 ustawy o ochronie i kształtowaniu środowiska dopuszcza ustanowienie obszaru ograniczonego użytkowania — wstępne określenie granic takiego obszaru, ograniczeń w zakresie przeznaczenia terenu, wymagań technicznych dotyczących obiektów budowlanych i sposobu korzystania z terenu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_2/pkt_8",
+       "text": "koncepcję lokalnego monitoringu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_2/pkt_9",
+       "text": "ochronę interesów osób trzecich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_2/pkt_10",
+       "text": "wnioski, a w szczególności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_10/lit_a",
+         "text": "do wykorzystania w decyzji o warunkach zabudowy i zagospodarowania terenu, w tym do uwzględnienia w projekcie budowlanym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_10/lit_b",
+         "text": "dotyczące ewentualnej potrzeby wykonania oceny oddziaływania inwestycji po określonym czasie eksploatacji, w celu sprawdzenia skuteczności zastosowanych środków minimalizujących negatywny wpływ na środowisko i zdrowie ludzi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_2/pkt_10/lit_c",
+         "text": "dotyczące sposobu gospodarczego korzystania ze środowiska.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Oceny oddziaływania na środowisko inwestycji szczególnie szkodliwych dla środowiska i zdrowia ludzi, poza spełnieniem wymagań wymienionych w § 3, powinny również:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "identyfikować warianty technologiczne inwestycji i dla porównania — wariant polegający na niepodejmowaniu inwestycji, z punktu widzenia ich | wpływu na środowisko i zdrowie ludzi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "zawierać porównanie proponowanych rozwiązań technologicznych z innymi stosowanymi w praktyce krajowej lub zagranicznej, z punktu widzenia wyboru czystszej produkcji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "określać zagrożenia i korzyści z realizacji inwestycji dla innych użytkowników środowiska, a także dla istniejącej i planowanej zabudowy oraz zagospodarowania terenu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Oceny oddziaływania na środowisko inwestycji szczególnie szkodliwych dla środowiska i zdrowia ludzi albo mogących pogorszyć stan środowiska, sporządzane na etapie uzgodnienia projektu budowlanego, powinny spełniać następujące wymagania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "określać oddziaływanie inwestycji na poszczególne elementy środowiska i zdrowie ludzi przy przyjętym rozwiązaniu technologicznym, ze szczegółowością i dokładnością odpowiednią do posiadanych danych i informacji wynikających z projektu budowlanego i innych informacji uzyskanych po wydaniu decyzji o ustaleniu warunków zabudowy i zagospodarowania terenu oraz z uwzględnieniem sposobu zagospodarowania terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "brać pod uwagę u wnioski zawarte w ocenie oddziaływania na środowisko, sporządzonej na etapie warunków zabudowy i zagospodarowania terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "określać metody oceny, przyjęte założenia oraz wykorzystywane dane o środowisku, a także stwierdzone braki i niedoskonałości w tym zakresie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "określać stopień i sposób uwzględnienia ustaleń dotyczących ochrony środowiska, zawartych w decyzji o warunkach zabudowy i zagospodarowania terenu oraz innych rozstrzygnięciach administracyjnych dotyczących ochrony środowiska,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "uwzględniać ochronę interesów osób trzecich,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_5/pkt_6",
+     "text": "ustalać, czy uciążliwe oddziaływanie obiektów na środowisko mieści się w granicach terenu, do którego jednostka organizacyjna ma tytuł prawny, a w przypadku niespełnienia tego warunku, dla inwestycji, dla których art. 71 ust. 2 ustawy o ochronie i kształtowaniu środowiska dopuszcza ustanowienie obszaru ograniczonego użytkowania — określenie granic takiego obszaru, ograniczeń w zakresie przeznaczenia terenu, wymagań technicznych dotyczących obiektów budowlanych i sposobu korzystania z terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_5/pkt_7",
+     "text": "zawierać wnioski, w szczególności dotyczące koncepcji lokalnego monitoringu oraz wymagań ochrony środowiska w trakcie wykonywania robót budowlanych i eksploatacji inwestycji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_5/pkt_8",
+     "text": "zawierać streszczenie w języku niespecjalistycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Do oceny oddziaływania na środowisko inwestycji polegającej na odbudowie, rozbudowie, nadbudowie lub modernizacji obiektu budowlanego, powodującej zmianę sposobu zagospodarowania terenu, przepisy 8 3—5 stosuje się odpowiednio, w zależności od rodzaju i etapu inwestycji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wymagania, jakim powinny odpowiadać oceny oddziaływania autostrad płatnych na środowisko, sporządzane na etapie udzielania wskazań lokalizacyjnych, określają przepisy rozporządzenia Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 5 czerwca 1995 r. w sprawie wymagań, jakim powinny odpowiadać oceny oddziaływania autostrady na środowisko, grunty rolne i leśne oraz na dobra kultury objęte ochroną (Dz. U. Nr 64, poz. 332).",
+   "children": [
+    {
+     "type": "text",
+     "text": "„ § 8. Traci moc rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 13 maja 1995 r. w sprawie określenia rodzajów inwestycji szkodliwych dla środowiska i zdrowia ludzi oraz ocen oddziaływania na środowisko (Dz. U. Nr 52, poz. 284, z 1996 r. Nr 96, poz. 446 oraz z 1997 r. Nr 101, poz. 634 i Nr 128, poz. 840).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 9. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 1998 r.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa: J. Szyszko"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 14 lipca 1998 r. (poz. 589)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK ZWIERZĄT GOSPODARSKICH NA DUŻE JEDNOSTKI PRZELICZENIOWE (DJP)"
+    },
+    {
+     "type": "text",
+     "text": "Jedna sztuka rzeczywi- Rodzaj zwierząt sta odpowiada DJP"
+    },
+    {
+     "type": "text",
+     "text": "Ogiery Klacze i wałachy Źrebaki powyżej 2 lat Źrebaki powyżej 1 roku Źrebaki od 1/2 do 1 roku Źrebięta do 1/2 roku Buhaje Krowy Jałówki cielne"
+    },
+    {
+     "type": "text",
+     "text": "Jałówki powyżej 1 roku Jałówki od 1/2 do 1 roku Cielęta do 1/2 roku"
+    },
+    {
+     "type": "text",
+     "text": "Knury Maciory Warchlaki 2—4-miesięczne Prosięta do 2 miesięcy Tuczniki"
+    },
+    {
+     "type": "text",
+     "text": "Bekony Tryki powyżej 11/, roku Matki powyżej 11/, roku Jagnięta do 3!/, miesiąca Jarlaki tryczki Jarlaki maciory Lisy i jenoty Norki i tchórze"
+    },
+    {
+     "type": "text",
+     "text": "Kury i kaczki Gęsi Indyki"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

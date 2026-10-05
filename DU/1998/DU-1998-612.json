@@ -1,0 +1,894 @@
+{
+ "eli": "DU/1998/612",
+ "title": "Rozporządzenie Rady Ministrów z dnia 7 lipca 1998 r. w sprawie szczegółowych zasad wyceny nieruchomości oraz zasad i trybu sporządzania operatu szacunkowego.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/612/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 lipca 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad wyceny nieruchomości oraz zasad i trybu sporządzania operatu szacunkowego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 159 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy rozporządzenia stosuje się w postępowaniu, w wyniku którego następuje określanie wartości nieruchomości, w tym gruntów, części składowych tych gruntów oraz budynków i lokali stanowiących odrębny od gruntu przedmiot własności.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Artykuły powołane w rozporządzeniu bez bliższego określenia oznaczają artykuły ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "określaniu wartości nieruchomości — rozumie się przez to określanie wartości rynkowej lub wartości odtworzeniowej nieruchomości jako przedmiotu prawa własności lub wartości innych praw do nieruchomości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "częściach składowych gruntu — rozumie się przez to części składowe, o których mowa w art. 48 Kodeksu cywilnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Określanie wartości nieruchomości"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Do określania wartości rynkowej nieruchomości, o której mowa w art. 150 ust. 1 pkt 1, stosuje się podejście porównawcze lub podejście dochodowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Określanie wartości rynkowej nieruchomości należy poprzedzić analizą transakcji na rynku nieruchomości, w szczególności w zakresie warunków, o których mowa w § 6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przy zastosowaniu podejścia porównawczego konieczna jest znajomość cen transakcyjnych nieruchomości podobnych do nieruchomości będącej przedmiotem wyceny, a także cech tych nieruchomości wpływających na poziom ich cen.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W podejściu porównawczym stosuje się metodę porównywania parami albo metodę analizy statystycznej rynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przy metodzie porównywania parami porównuje się nieruchomość będącą przedmiotem wyceny, której cechy są znane, kolejno z nieruchomościami podobnymi, które były przedmiotem obrotu rynkowego i dla których znane są ceny transakcyjne, warunki zawarcia transakcji, a także cechy tych nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przy metodzie analizy statystycznej rynku do porównań określonych w ust. 3 przyjmuje się grupę nieruchomości reprezentatywnych dla rynku właściwego miejscowo ze względu na położenie wycenianej nieruchomości, jeżeli byty one przedmiotem obrotu rynkowego i dla których znane są ceny transakcyjne, warunki zawarcia transakcji, a także cechy tych nieruchomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Źródłem informacji o cenach transakcyjnych, o których mowa w § 5, nie mogą być informacje o transakcjach, w których wystąpiły szczególne warunki sprzedaży, a także ustalenia zapłaty, a zwłaszcza przymusowa sprzedaż, sprzedaż z odroczonym terminem przekazania nieruchomości nabywcy, bonifikata udzielona od ceny lub sprzedaż w drodze przetargu, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Ceny uzyskane przy sprzedaży w drodze przetargu mogą być źródłem informacji o cenach transakcyjnych, jeżeli w sposób rażący nie odbiegają od cen uzyskiwanych na rynku nieruchomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Podejście dochodowe stosuje się przy określaniu wartości nieruchomości przynoszących dochód lub mogących przynosić dochód, pod warunkiem że wysokość tego dochodu jest znana lub możliwa do określenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przy zastosowaniu podejścia dochodowego konieczna jest znajomość dochodu uzyskiwanego lub możliwego do uzyskania z czynszu lub z innych dochodów z nieruchomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W podejściu dochodowym stosuje się metodę inwestycyjną lub metodę zysków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Metodę inwestycyjną stosuje się przy określaniu wartości nieruchomości przynoszących dochód z czynszów, którego wysokość można ustalić na podstawie analizy kształtowania się stawek rynkowych czynszów najmu lub dzierżawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Metodę zysków stosuje się przy określaniu wartości nieruchomości przynoszących dochód, którego wysokości nie można ustalić w sposób, o którym mowa w ust. 2. Dochód ten ustala się w wysokości równej udziałowi właściciela nieruchomości w zyskach osiąganych z działalności prowadzonej na tej nieruchomości.",
+     "children": [
+      {
+       "type": "text",
+       "text": "| 89. Metodę inwestycyjną i metodę zysków stosuje się przy użyciu techniki kapitalizacji prostej albo techniki dyskontowania strumieni pieniężnych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Przy użyciu techniki kapitalizacji prostej wartość nieruchomości określa się jako iloczyn dochodu rocznego i współczynnika kapitalizacji. Współczynnik kapitalizacji odzwierciedla okres, w którym powinien nastąpić zwrot środków, wydatkowanych na zakup nieruchomości, z dochodów uzyskiwanych z tej nieruchomości.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Wysokość współczynnika kapitalizacji ustala się na podstawie badania rynku nieruchomości jako wzajemną relację pomiędzy ceną transakcyjną zapłaconą za nieruchomość a dochodem możliwym do uzyskania z tej nieruchomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Przy użyciu techniki dyskontowania strumieni pieniężnych wartość nieruchomości określa się jako sumę zdyskontowanych strumieni pieniężnych pochodzących z dochodów przewidywanych do uzyskiwania z nieruchomości w poszczególnych latach, powiększoną o wartość rezydualną nieruchomości. Wartość rezydualna przedstawia wartość nieruchomości po upływie ostatniego roku przyjętego do dyskontowania strumieni pieniężnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Liczba lat, o których mowa w ust. 1, jest zależna od przewidywanego okresu, w którym dochody z wycenianej nieruchomości będą ulegaty zmianie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Dyskontowania dokonuje się, na dzień określenia wartości nieruchomości, przy użyciu stopy dyskontowej. Stopa dyskontowa powinna odzwierciedlać wymaganą przez nabywców nieruchomości relację pomiędzy rocznym dochodem uzyskiwanym z nieruchomości a nakładami, jakie należy ponieść na jej zakup.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Podejście kosztowe stosuje się do określania wartości odtworzeniowej nieruchomości, o której mowa w art. 150 ust. 1 pkt 2.",
+   "children": [
+    {
+     "type": "text",
+     "text": ". § 13. 1. Przy określaniu wartości odtworzeniowej nieruchomości odrębnie określa się wartość gruntu i wartość jego części składowych."
+    },
+    {
+     "type": "text",
+     "text": ". 2. Za wartość gruntu przyjmuje się koszty, jakie należałoby ponieść na zakup gruntu o takich samych cechach."
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Za wartość części składowych gruntu przyjmuje się kwotę równą kosztom ich odtworzenia lub kosztom ich zastąpienia, pomniejszoną o wartość zużycia tych części składowych, albo kwotę równą kosztom ich likwidacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W podejściu kosztowym stosuje się metodę kosztów odtworzenia, metodę kosztów zastąpienia albo metodę kosztów likwidacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Przy metodzie kosztów odtworzenia określa się, ile wyniosłyby koszty odtworzenia części składowych gruntu przy zastosowaniu tej samej technologii, której użyto do wzniesienia lub powstania tych części składowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Przy metodzie kosztów zastąpienia określa się, ile wyniosłyby koszty zastąpienia części składowych gruntu obiektami o takiej samej funkcji, jaką spełniają obiekty, których wartość określa się, lecz wykonanymi przy użyciu aktualnie stosowanych technologii i materiałów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Przy metodzie kosztów likwidacji określa się wartość materiałów porozbiórkowych, pomniejszoną o koszty rozbiórki lub likwidacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Metodę kosztów odtworzenia lub kosztów zastąpienia stosuje się przy użyciu techniki szczegółowej, techniki elementów scalonych albo techniki wskaźnikowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Przy użyciu techniki szczegdtowej koszty odtworzenia lub zastąpienia określa się na podstawie ilości niezbędnych do wykonania robót budowlanych oraz cen jednostkowych tych robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Przy użyciu techniki elementów scalonych koszty odtworzenia lub zastąpienia określa się na podstawie ilości scalonych elementów robót budowlanych oraz cen scalonych elementów tych robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Przy użyciu techniki wskaźnikowej koszty określa się przez przemnożenie ceny wskaźnikowej przez liczbę jednostek odniesienia, dla których ta cena została ustalona. Technikę wskaźnikową można stosować tylko wtedy, gdy obiekty, których wartość określa się, są porównywalne z obiektami, dla których znane są ceny wskaźnikowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Metodę kosztów likwidacji stosuje się przy użyciu techniki szczegółowej, z tym że zamiast ilości niezbędnych do wykonania robót budowlanych oraz cen jednostkowych tych robót określa się ilość materiałów porozbiórkowych oraz ceny jednostkowe tych materiałów, a także uwzględnia się koszty rozbiórki lub likwidacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "8 18.1. W podejściu mieszanym mogą być stosowane elementy podejść: porównawczego, dochodowego lub kosztowego."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "W podejściu mieszanym stosuje się metodę pozostałościową lub metodę stawki szacunkowej gruntów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Metodę pozostałościową stosuje się przy określaniu wartości nieruchomości, jeżeli nieruchomość ma być przedmiotem zabudowy, odbudowy, rozbudowy, nadbudowy, modernizacji, przebudowy lub innych ulepszeń. Wartość nieruchomości można określić dla samego gruntu, dla gruntu wraz z jego częściami składowymi przed ich ulepszeniem lub osobno dla części składowych gruntu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Wartość, o której mowa w ust. 3, określa się przez obliczenie, jaką wartość będzie miała nieruchomość po jej ulepszeniu i odjęciu od tej wartości kosztów zainwestowania w ulepszenie nieruchomości, z uwzględnieniem zysku inwestora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_17/ust_5",
+     "text": "Metodę stawki szacunkowej gruntów można stosować przy określaniu wartości nieruchomości przeznaczonych w planach miejscowych na cele rolne lub wykorzystywanych na te cele.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_17/ust_6",
+     "text": "Przy zastosowaniu metody, o której mowa w ust. 5, wartość nieruchomości określa się jako iloczyn stawki szacunkowej 1 ha gruntów i ceny 1 decytony żyta ustalonej stosownie do przepisów o podatku rolnym. Stawki szacunkowe gruntów określają odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "W przypadku konieczności poniesienia nakładów na przywrócenie nieruchomości do stanu przydatnego do użytku, przekraczających wartość, jaką nieruchomość miałaby, gdyby te nakłady nie byty konieczne, wartość tej nieruchomości może być wyrażona liczbą ujemną. Wyrażenie wartości nieruchomości liczbą ujemną należy uzasadnić.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Określanie wartości nieruchomości w przypadkach szczególnych"
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Przepisy niniejszego rozdziału stosuje się przy określaniu wartości nieruchomości, dla których nie ma nieruchomości porównywalnych, będących przedmiotem obrotu na warunkach określonych w art. 151 ust. 1, a także przy określaniu wartości nieruchomości w sytuacji, gdy przepisy szczególne wymagają specjalnego sposobu ich wyceny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Przy określaniu wartości nieruchomości, które ze względu na ich szczególne cechy nie są przedmiotem obrotu na rynku lokalnym, można przyjmować ceny transakcyjne uzyskiwane na rynku krajowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W razie braku cen transakcyjnych uzyskiwanych na rynku krajowym, przy określaniu wartości nieruchomości, o których mowa w ust. 1, można przyjmować ceny transakcyjne uzyskiwane na rynkach międzynarodowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Dla ustalenia ceny nieruchomości gruntowej oddawanej w użytkowanie wieczyste oraz dla aktualizacji opłat z tego tytułu określa się jej wartość jako przedmiotu prawa własności, które przystuguje Skarbowi Państwa lub gminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Wartość, o której mowa w ust. 1, określa się w podejściu porównawczym według stanu i cen na dzień ustanowienia prawa użytkowania wieczystego lub aktualizacji opłat z tytułu tego prawa, z uwzględnieniem warunków wymienionych w art. 134 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "W razie braku transakcji rynkowych sprzedaży nieruchomości jako przedmiotu prawa własności, wartość, o której mowa w ust. 1, określa się na podstawie cen transakcyjnych uzyskiwanych przy sprzedaży nieruchomości gruntowej jako przedmiotu prawa użytkowania wieczystego, z uwzględnieniem zasad określających wzajemne relacje pomiędzy tymi prawami, ustalonych zgodnie z § 23.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Wartość rynkową nieruchomości gruntowej jako przedmiotu prawa użytkowania wieczystego określa się w podejściu porównawczym, przyjmując ceny transakcyjne uzyskiwane przy sprzedaży nieruchomości gruntowych nie zabudowanych jako przedmiotu prawa użytkowania wieczystego, z uwzględnieniem czynników wymienionych w art. 134 ust. 2 oraz wysokości stawek procentowych opłat rocznych i nie wykorzystanego okresu trwania prawa użytkowania wieczystego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Do określania wartości rynkowej nieruchomości gruntowej jako przedmiotu prawa użytkowania wieczystego, w przypadku braku transakcji, o których mowa w ust. 1, przyjmuje się kwotę równą 25% wartości rynkowej wycenianej nieruchomości jako przedmiotu prawa własności, powiększoną o 0,25% tej wartości za każdy rok nie wykorzystanego okresu prawa użytkowania wieczystego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Przy określaniu wartości nieruchomości gruntowej jako przedmiotu prawa użytkowania wieczystego do celów, o których mowa w art. 33 ust. 3 i art. 69, stosuje się 8 23 ust. 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Wartość nieruchomości gruntowej jako przedmiotu prawa użytkowania wieczystego, wnoszonej do spółki w formie wkładu niepieniężnego (aportu), określa się stosownie do § 23.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Wartość budynków i urządzeń dla ustalenia wynagrodzenia, o którym mowa w art. 33 ust. 2, określa się w podejściu kosztowym przez obliczenie kosztów odtworzenia tych budynków i urządzeń, pomniejszonych o wartość ich zużycia technicznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Dla ustalenia ceny nieruchomości oddawanej w trwały zarząd lub dla aktualizacji opłat z tego tytułu określa się jej wartość jako przedmiotu prawa własności, które przystuguje Skarbowi Państwa lub gminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Wartość, o której mowa w ust. 1, określa się zarówno dla gruntu, jak i dla części składowych tego gruntu, z uwzględnieniem art. 88 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "W przypadku, o którym mowa w art. 88 ust. 2, dla ustalenia ceny nieruchomości określa się jej wartość łącznie dla gruntu oraz dla jego części składowych. Cenę tę pomniejsza się o wartość nakładów poniesionych przez jednostkę organizacyjną na odbudowę, rozbudowę, nadbudowę, przebudowę lub modernizację tych części składowych równą kwocie, o jaką wzrosła ich wartość na skutek poniesionych nakładów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_27/ust_4",
+     "text": "W przypadku, o którym mowa w art. 218 ust. 1, do ustalenia wartości nakładów stosuje się odpowiednio ust. 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Dla ustalenia odszkodowania w przypadku, o którym mowa w art. 134 ust. 4, za działki gruntu wydzielone pod nowe drogi albo pod poszerzenie dróg istniejących wartość nieruchomości ustala się w podejściu porównawczym, przyjmując ceny transakcyjne uzyskiwane przy sprzedaży nieruchomości na te cele.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Jeżeli nie ma cen transakcyjnych uzyskiwanych przy sprzedaży nieruchomości, dla ustalenia odszkodowania, w przypadku, o którym mowa w ust. 1, przyjmuje się wartość 1 m? gruntu równą wartości 1 m? gruntu wchodzącego w skład nieruchomości, z której wydzielono drogi, powiększoną o 50% tej wartości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Przy określaniu wartości rynkowej nieruchomości uwzględnia się szczególne okoliczności wynikające z obciążenia nieruchomości ograniczonymi prawami rzeczowymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Przy określaniu wartości nieruchomości, na której ustanowiono ograniczone prawo rzeczowe, jej wartość zmniejsza się o kwotę odpowiadającą wartości tego prawa, równej zmianie wartości nieruchomości, spowodowanej następstwami ustanowienia ograniczonego prawa rzeczowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "W razie braku możliwości określenia wartości w sposób, o którym mowa w ust. 2, wartość ograniczonego prawa rzeczowego może być określona przez obliczenie kosztów uzyskania tego prawa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Przy ustalaniu stopnia zmniejszenia albo zwiększenia wartości nieruchomości, o którym mowa w art. 140 ust. 4, uwzględnia się wyłącznie te skutki zmian wartości nieruchomości, które zostały spowodowane działaniami dokonanymi bezpośrednio na tej nieruchomości.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Wartość nieruchomości przed wybudowaniem urządzeń infrastruktury technicznej i po ich wybudowaniu, dla ustalenia wysokości opłaty adiacenckiej, o której mowa w art. 146 ust. 3, określa się bez uwzględniania wartości części składowych tej nieruchomości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Różnicę wartości nieruchomości dla ustalenia odszkodowania za zmniejszenie się wartości nieruchomości spowodowane skutkami działań, o których mowa w art. 120 oraz art. 124—126, określa się według stanu na dzień, w którym decyzja o wywłaszczeniu stata się ostateczna, lub na dzień, w którym decyzji tej nadano rygor natychmiastowej wykonalności.",
+   "children": [
+    {
+     "type": "text",
+     "text": "8 33.1. Przy określaniu wartości nieruchomości wpisanych do rejestru zabytków wyboru podejścia dokonuje rzeczoznawca majątkowy z uwzględnieniem przepisu art. 154 oraz biorąc pod uwagę ustalenia służby ochrony zabytków, a także inne okoliczności związane z zabytkowym charakterem nieruchomości."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Przy zastosowaniu podejścia porównawczego uwzględnia się w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_2/pkt_1",
+       "text": "cechy materialne oraz możliwości rozwojowe nieruchomości, wynikające z ustaleń służby ochrony zabytków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_2/pkt_2",
+       "text": "cechy niematerialne, w tym wartość artystyczną i historyczną, estetykę formy architektonicznej i unikalny charakter nieruchomości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_32/ust_2/pkt_3",
+       "text": "ceny transakcyjne nieruchomości podobnych, uzyskiwane na rynku krajowym lub międzynarodowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Przy zastosowaniu podejścia dochodowego uwzględnia się dochody, jakie można osiągnąć z nieruchomości, oraz ograniczenia i koszty, jakie należy ponosić ze względu na objęcie nieruchomości ochroną konserwatorską.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Przy określaniu wartości nieruchomości zadrzewionych lub zakrzewionych stanowiących parki, ogrody ozdobne lub zieleńce udostępnione publicznie w podejściu kosztowym stosuje się następujące zasady:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_34/ust_1/pkt_1",
+       "text": "dla gruntu przyjmuje się wartość 1 m? gruntu równą 50% wartości 1 m? gruntów o funkcji przeważającej wśród gruntów przyległych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_34/ust_1/pkt_2",
+       "text": "dla drzew i roślin ustala się koszt ich nasadzenia oraz pielęgnacji do dnia określenia wartości nieruchomości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Przy określaniu wartości gruntów wchodzących w skład nieruchomości, o których mowa w ust. 1, położonych poza strefami zainwestowania miejskiego, stosuje się metodę stawki szacunkowej gruntów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Zasady i tryb sporządzania operatu szacunkowego"
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Operat szacunkowy powinien być sporządzony w formie pisemnej, zgodnie ze stanem faktycznym i prawnym nieruchomości, oraz zawierać wszelkie informacje niezbędne do ustalenia sposobu postępowania i wniosków rzeczoznawcy majątkowego dotyczących określenia wartości nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Wyciąg, o którym mowa w art. 158, zamieszcza się na początku operatu szacunkowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Zapisy w operacie szacunkowym należy uzasadnić i udokumentować.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Operat szacunkowy powinien być sporządzony zgodnie z zasadą szczególnej staranności, w szczególności w zakresie wskazania podstaw prawnych dokonanych czynności, rozwiązań merytorycznych, przedstawienia toku obliczeń, wyniku końcowego, zawartych w operacie wniosków oraz ich uzasadnienia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 36.1. W operacie szacunkowym należy przedstawić czynności przeprowadzone w postępowaniu związanym z określeniem wartości nieruchomości, a w szczególności:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_4/pkt_1",
+       "text": "określenie nieruchomości i zakresu wyceny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_4/pkt_2",
+       "text": "określenie celu wyceny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_4/pkt_3",
+       "text": "określenie podstaw formalnych i materialnoprawnych wyceny nieruchomości oraz źródeł danych merytorycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_35/ust_4/pkt_4",
+       "text": "ustalenie daty sporządzenia wyceny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_35/ust_4/pkt_5",
+       "text": "określenie stanu nieruchomości, w tym stanu prawnego, techniczno-użytkowego oraz przeznaczenia w planie miejscowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_35/ust_4/pkt_6",
+       "text": "określenie sposobu wyceny, w tym wskazanie rodzaju określanej wartości, wyboru podejścia, metody i techniki szacowania,",
+       "children": [
+        {
+         "type": "text",
+         "text": "7)analizę i charakterystykę rynku nieruchomości w zakresie dotyczącym celu i sposobu wyceny,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_35/ust_4/pkt_8",
+       "text": "określenie wartości nieruchomości, z przedstawieniem obliczeń tej wartości i wyniku końcowego wyceny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "W operacie szacunkowym należy, oprócz danych wymienionych w ust. 1, zamieścić także klauzule, w szczególności o sporządzeniu operatu szacunkowego zgodnie z przepisami prawa oraz standardami zawodowymi, o sporządzeniu i przekazaniu wyciągu, o którym mowa w art. 158, a także zamieścić dokumenty uzasadniające dokonanie zapisów w operacie szacunkowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Wyciąg, o którym mowa w art. 158, powinien zawierać także określenie nieruchomości i celu wyceny, wskazanie osób, którym przysługują prawa do tej nieruchomości, określenie jej rodzaju i wartości, datę określenia wartości, datę sporządzenia operatu oraz podpis rzeczoznawcy majątkowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Końcową wartość nieruchomości należy podawać w zaokrągleniu do pełnych złotych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Rzeczoznawca majątkowy sporządzający wycenę podpisuje operat szacunkowy, z podaniem posiadanych uprawnień do szacowania nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "W przypadku sporządzenia operatu szacunkowego przez kilku rzeczoznawców majątkowych należy podać, które części operatu zostały sporządzone wspólnie, a które indywidualnie przez każdego z nich. Operat ten podpisują wszyscy sporządzający go rzeczoznawcy majątkowi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "En nien an am. 1. alinak |_|. = rr"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Sporządzanie operatów szacunkowych nie zakończonych przed dniem wejścia w życie rozporządzenia odbywa się zgodnie z jego przepisami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

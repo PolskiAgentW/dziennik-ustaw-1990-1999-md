@@ -1,0 +1,3923 @@
+{
+ "eli": "DU/1998/867",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 6 października 1998 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz zasad rozliczeń w obrocie ciepłem, w tym rozliczeń z indywidualnymi odbiorcami w lokalach.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/867/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 października 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz zasad rozliczeń w obrocie ciepłem, w tym rozliczeń z indywidualnymi odbiorcami w lokalach."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042 oraz z 1998 r. Nr 94, poz. 594 i Nr 106, poz. 668) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe zasady:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "kształtowania i kalkulacji taryf przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, magazynowania, przetwarzania, przesyłania i dystrybucji lub obrotu ciepłem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "rozliczeń w obrocie ciepłem, w tym rozliczeń z indywidualnymi odbiorcami w lokalach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawa — ustawę z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042 oraz z 1998 r. Nr 94, poz. 594 i Nr 106, poz. 668),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "sprzedawca — przedsiębiorstwo energetyczne dostarczające odbiorcy ciepło na podstawie umowy sprzedaży ciepta, zawartej z tym odbiorcą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "indywidualny odbiorca w lokalu — osoba, która posiada tytuł prawny do korzystania z lokalu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "źródło ciepła — połączone ze sobą urządzenia lub instalacje służące do wytwarzania ciepła dostarczanego do sieci ciepłowniczej albo zainstalowane w obiekcie urządzenia lub instalacje do wytwarzania ciepła, które zasilają instalacje odbiorcze wtym obiekcie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "sieć ciepfownicza — połączone ze sobą urządzenia lub instalacje, stuzace do przesyłania i dystrybucji ciepła ze źródeł ciepta do obiektów, należące do przedsiębiorstwa energetycznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "przyłącze — odcinek sieci ciepłowniczej łączący źródło ciepła z tą siecią lub odcinek sieci ciepłowniczej doprowadzający ciepło wyłącznie do jednego węzła cieplnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "węzeł cieplny — połączone ze sobą urządzenia lub instalacje służące do zmiany rodzaju lub parametrów nośnika ciepła dostarczanego z sieci ciepłowniczej oraz regulacji ilości ciepła dostarczanego do instalacji odbiorczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "grupowy węzeł cieplny — węzeł cieplny, z którym są połączone instalacje odbiorcze obsługujące więcej niż jeden budynek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "instalacja odbiorcza — połączone ze sobą urządzenia lub instalacje służące do transportowania ciepła lub ciepłej wody z węzłów cieplnych do odbiorników ciepta lub punktów poboru ciepłej wody w budynkach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "obiekt — budowlę lub budynek wraz z instalacjami odbiorczymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "układ pomiarowo-rozliczeniowy — dopuszczone do stosowania urządzenia stuzace do pomiaru ilości i parametrów nośnika ciepła, których odczyty",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stanowią podstawę do obliczenia należności z tytułu dostarczania ciepła,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "zamówiona moc cieplna — największy pobór ciepła dostarczanego w postaci określonego nośnika, jaki może wystąpić w warunkach obliczeniowych, przez okres co najmniej jednej godziny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "warunki obliczeniowe — obliczeniową temperaturę powietrza atmosferycznego określoną dla strefy klimatycznej, w której zlokalizowane są obiekty, do których jest dostarczane ciepło, i temperaturę wody użytkowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "obliczeniowe natężenie przepływu nośnika ciepła — największe natężenie przepływu nośnika ciepta odpowiadające zamówionej mocy cieplnej i parametrom nośnika ciepła, określonym w tabeli regulacyjnej dla warunków obliczeniowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "sezon grzewczy — okres między wrześniem a majem roku następnego, w którym warunki atmosferyczne powodują konieczność ciągłego dostarczania ciepła w celu ogrzewania obiektów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "uzasadnione koszty — koszty określone przez przedsiębiorstwo energetyczne na podstawie ustawy i niniejszego rozporządzenia, przy zachowaniu należytej staranności zmierzającej do ochrony interesów odbiorców i minimalizacji kosztów, niezbędne do wykonania zobowiązań wynikających z umowy o przyłączenie do sieci ciepłowniczej, umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "subsydiowanie skrośne — pokrywanie kosztów dotyczących jednego rodzaju prowadzonej działalności gospodarczej lub jednej grupy odbiorców przychodami pochodzącymi z innego rodzaju prowadzonej działalności gospodarczej lub od innej grupy odbiorców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zasady kształtowania i kalkulacji taryf"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przedsiębiorstwo energetyczne ustala taryfę w sposób zapewniający:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "zgodność z założeniami polityki energetycznej państwa, a w szczególności z określoną w tych założeniach polityką inwestycyjną i cenową oraz innymi czynnikami wpływającymi na poziom uzasadnionych kosztów, stanowiących podstawę do ustalania cen i opłat,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "ochronę interesów odbiorców przed nieuzasadnionym poziomem cen,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wyeliminowanie subsydiowania skrośnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przedsiębiorstwo energetyczne kształtuje taryfę odpowiednio do zakresu prowadzonej działalności gospodarczej związanej z zaopatrzeniem w ciepło, rodzaju odbiorców i charakteru ich zapotrzebowania na ciepło.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Taryfa powinna, odpowiednio do prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej, określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "poszczególne grupy odbiorców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "rodzaje oraz wysokość cen i stawek opłat, a także warunki ich stosowania, w tym sposób wprowadzania zmian cen i stawek opłat oraz zasady uwzględniania przy kalkulacji cen i stawek opłat:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "uzasadnionych kosztów prowadzonej działalności gospodarczej, w tym kosztów modernizacji i rozwoju oraz ochrony środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "kosztów wspdtfinansowania przedsięwzięć i usług zmierzających do zmniejszenia zużycia ciepła u odbiorcy, stanowiących ekonomiczne uzasadnienie uniknięcia budowy lub rozbudowy źródeł ciepła i sieci ciepłowniczych oraz przedsięwzięć związanych z rozwojem energetyki niekonwencjonalnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_2/lit_c",
+         "text": "skojarzonego wytwarzania ciepła i energii elektrycznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_2/lit_d",
+         "text": "projektowanej poprawy efektywności funkcjonowania przedsiębiorstwa energetycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_2/lit_e",
+         "text": "ochrony interesów odbiorców przed nieuzasadnionym poziomem cen,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "bonifikaty, upusty i opłaty z tytułu niedotrzymania przez strony warunków umowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "opłaty za nielegalny pobór ciepła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Określone w taryfie ceny i stawki opłat różnicuje się dla poszczególnych grup odbiorców odpowiednio do zakresu prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej związanej z zaopatrzeniem w ciepło odbiorców i uzasadnionych kosztów ponoszonych z tego tytufu przez przedsiębiorstwo energetyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Ceny i stawki opłat, o których mowa w ust. 2, mogą być kalkulowane z uwzględnieniem sezonowego różnicowania ich wysokości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przedsiębiorstwo energetyczne jest obowiązane kształtować taryfę w taki sposób, aby odbiorca mógł na jej podstawie obliczyć należność odpowiadającą zakresowi prowadzonej działalności gospodarczej związanej z zaopatrzeniem w ciepło, określonej w umowie sprzedaży ciepła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Określone w taryfie warunki stosowania cen i stawek opłat są kształtowane z uwzględnieniem standardów jakościowych obsługi odbiorców, określonych w umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłowych albo w odrębnych przepisach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Warunki, o których mowa w ust. 1, powinny określać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "zakres świadczonych usług dla określonych grup odbiorców przyłączonych do wydzielonej sieci ciepłowniczej, o której mowa w § 9 ust. 2, lub zasilanych z wydzielonych źródeł ciepła, nie przyłączonych do sieci,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "standardy jakościowe obsługi odbiorców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "sposób postępowania w przypadku zgłoszenia reklamacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_2/pkt_4",
+       "text": "sposób obliczania należności w przypadku niedotrzymania przez strony warunków umowy,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "5)sposób postępowania i obliczania należności w przypadku uszkodzenia układu pomiarowo-rozliczeniowego."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Taryfa przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "ceny za zamówioną moc cieplną — wyrażone w złotych za MW,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "ceny ciepta — wyrażone w złotych za GJ lub w złotych za MWh,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "ceny nośnika ciepta, dostarczonego do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia jego ubytków poza źródłem ciepta — wyrażone w złotych za metr sześcienny nośnika ciepta lub w złotych za tonę skroplin.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Taryfa przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie wytwarzania, przetwarzania, magazynowania, przesyłania i dystrybucji ciepła zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "ceny za zamówioną moc cieplną — wyrażone w złotych za MW,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "ceny ciepła — wyrażone w złotych za GJ lub MWh,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "ceny nośnika ciepta, dostarczonego do napełniania instalacji odbiorczych oraz do uzupełnienia jego ubytków w tych instalacjach — wyrażone w złotych za metr sześcienny nośnika ciepła lub w złotych za tonę skroplin,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "stawki opłat abonamentowych — wyrażone w złotych za przyłącze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_2/pkt_5",
+       "text": "stawki opłat za usługi przesyłowe — wyrażone w złotych za MW zamówionej mocy cieplnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_2/pkt_6",
+       "text": "stawki opłat za przyłączenie do sieci, obejmujące:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_6/lit_a",
+         "text": "stawki opłat za budowę przyłączy — wyrażone w złotych za metr bieżący przyłącza,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_6/lit_b",
+         "text": "stawki opłat za wykonanie przejścia przyłącza przez ścianę obiektu — wyrażone w złotych za przejście przytącza przez ścianę obiektu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_2/pkt_6/lit_c",
+         "text": "stawki opłat za rozbudowę sieci ciepłowniczej — wyrażone w złotych za metr sześcienny na godzinę natężenia przepływu nośnika ciepła lub w złotych za tonę na godzinę natężenia przepływu pary.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Taryfa przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie przesyłania i dystrybucji oraz obrotu ciepłem określa warunki prowadzenia rozliczeń na podstawie cen i stawek opłat ustalanych przez inne przedsiębiorstwo energetyczne i zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "stawki opłat za usługi przesyłowe — wyrażone w złotych za MW zamówionej mocy cieplnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "stawki opłat abonamentowych — wyrażone w złotych za przyłącze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "stawki opłat za przyłączenie do sieci, obejmujące:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_3/pkt_3/lit_a",
+         "text": "stawki opłat za budowę przyłączy — wyrażone w złotych za metr bieżący przyłącza,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_3/pkt_3/lit_b",
+         "text": "stawki opłat za wykonanie przejścia przyłącza przez ścianę obiektu — wyrażone w złotych za przejście przyłącza przez ścianę obiektu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_3/pkt_3/lit_c",
+         "text": "stawki opłat za rozbudowę sieci ciepłowniczej — wyrażone w złotych za metr sześcienny na godzinę natężenia przepływu nośnika ciepła lub w złotych za tonę na godzinę natężenia przepływu pary.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Taryfa przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie obrotu ciepłem określa warunki prowadzenia rozliczeń na podstawie cen i stawek opłat ustalanych przez inne przedsiębiorstwo energetyczne i zawiera stawki opłat abonamentowych — wyrażone w złotych za przyłącze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Jeżeli przedsiębiorstwo energetyczne prowadzi więcej niż jeden rodzaj działalności gospodarczej, o którym mowa w ust. 1—3, taryfa opracowana przez to przedsiębiorstwo zawiera, odpowiednio do zakresu prowadzonej działalności gospodarczej, ceny i stawki opłat określone w ust. 1—3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, przetwarzania lub magazynowania ciepła lub przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła może pobierać od odbiorców:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "opłaty z tytułu współfinansowania przedsięwzięć i usług zmierzających do zmniejszenia zużycia ciepta u odbiorcy, stanowiących ekonomiczne uzasadnienie uniknięcia budowy lub rozbudowy źródeł ciepta lub sieci ciepłowniczych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2)opłaty z tytułu współfinansowania przedsięwzięć związanych z rozwojem energetyki niekonwencjonalnej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Podział odbiorców na grupy, o których mowa w § 5 ust. 1 pkt 1, powinien być dokonywany w zależności od:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "źródeł ciepła lub sieci ciepłowniczych, z których dostarczane jest ciepło,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "rodzaju dostarczanego nośnika ciepła i jego parametrów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "systemu rozliczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "miejsca dostarczania ciepła oraz zakresu niezawodności i ciągłości świadczonych usług przez przedsiębiorstwo energetyczne i ponoszonych z tego tytułu kosztów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Wyodrębnioną grupę stanowią odbiorcy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "przyłączeni do wydzielonej sieci ciepłowniczej, tworzącej odrębny układ technologiczny połączonych ze sobą rurociągów wraz z instalacjami i urządzeniami zainstalowanymi w tej sieci, lub odbiorcy, do których ciepło jest dostarczane bezpośrednio z wydzielonego źródła ciepła nie przyłączonego do sieci,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "przyłączeni do wydzielonej sieci ciepłowniczej, w której nośnikiem ciepła jest para wodna lub gorąca woda o określonych parametrach i sposobie",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ich regulacji, w zależności od warunków atmosferycznych i zapotrzebowania na ciepło,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "do których jest stosowany ten sam system rozliczeń,",
+       "children": [
+        {
+         "type": "text",
+         "text": "4)o takim samym charakterze zapotrzebowania na ciepło, dla których są stosowane te same ceny i stawki opłat."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Uzasadnione koszty, o których mowa w § 5 ust. 1 pkt 2 lit. a) i ust. 2, ustala się dla określonych grup odbiorców na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "kosztów wytwarzania, przetwarzania, magazynowania, przesyłania i dystrybucji oraz obrotu ciepłem, poniesionych w poprzednim roku obrotowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "planowanych rocznych kosztów modernizacji i rozwoju oraz kosztów związanych z realizacją inwestycji w zakresie ochrony środowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Koszty, o których mowa w ust. 1 pkt 1, ustala się na podstawie ewidencji kosztów, prowadzonej zgodnie z dokumentacją księgową opisującą przyjęte zasady rachunkowości, określone przepisami o rachunkowości, w sposób umożliwiający ustalenie kosztów stałych i kosztów zmiennych poniesionych przez przedsiębiorstwo energetyczne w stosunku do poszczególnych grup odbiorców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Koszty, o których mowa w ust. 1 pkt 2, ustala się na podstawie planu, o którym mowa w art. 20 ustawy, jako średnie roczne koszty w okresie objętym planem, wynikające z określonych w tym planie nakładów inwestycyjnych, a do czasu uchwalenia tego planu przez radę gminy — w obowiązującym dla przedsiębiorstwa energetycznego planie rozwoju i modernizacji sieci ciepłowniczej oraz przyłączania do tej sieci nowych źródeł ciepła i obiektów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Koszty prowadzenia działalności, w tym koszty modernizacji i rozwoju oraz ochrony środowiska, które są wspólne dla wszystkich lub kilku grup odbiorców, dzieli się na poszczególne grupy odbiorców, zgodnie z przyjętą w przedsiębiorstwie energetycznym metodą podziału kosztów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "W przypadku przedsiębiorstwa energetycznego wielobranżowego, ponoszone przez to przedsiębiorstwo koszty wspólne dla wszystkich lub kilku rodzajów prowadzonej działalności gospodarczej dzieli się na poszczególne rodzaje prowadzonej działalności gospodarczej, zgodnie z przyjętą w tym przedsiębiorstwie metodą podziału kosztów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_10/ust_6",
+     "text": "Metoda podziału kosztów, o której mowa w ust. 4 i 5, nie może spowodować wystąpienia subsydiowania skrośnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_10/ust_7",
+     "text": "W przypadku skojarzonego wytwarzania ciepła i energii elektrycznej w źródle ciepła, jako uzasadnione koszty wytwarzania, przetwarzania i magazynowania ciepła przyjmuje się różnicę między łącznymi uzasadnionymi kosztami prowadzenia działalności gospodarczej w zakresie wytwarzania, przetwarzania oraz magazynowania ciepła i energii elektrycznej, wraz z kosztami modernizacji i rozwoju oraz ochrony środowiska w tym źródle, a kosztami uzyskania przychodu ze sprzedaży mocy i energii elektrycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Uzasadnione koszty, o których mowa w § 10, obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "w przedsiębiorstwie energetycznym, o którym mowa w § 7 ust. 1 — koszty prowadzonej działalności gospodarczej w zakresie wytwarzania, przetwarzania i magazynowania ciepła, w tym koszty modernizacji, rozwoju i ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "w przedsiębiorstwie energetycznym, o którym mowa w § 7 ust. 2 — koszty prowadzonej działalności gospodarczej w zakresie wytwarzania, przetwarzania, magazynowania, przesyłania i dystrybucji ciepta, w tym koszty modernizacji, rozwoju i ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "w przedsiębiorstwie energetycznym, o którym mowa w § 7 ust. 3 — koszty prowadzonej działalności gospodarczej w zakresie przesyłania i dystrybucji oraz obrotu ciepłem, w tym koszty modernizacji, rozwoju i ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_1/pkt_4",
+       "text": "w przedsiębiorstwie energetycznym, o którym mowa w § 7 ust. 4 — koszty prowadzonej działalności gospodarczej w zakresie obrotu ciepłem, w tym koszty modernizacji i rozwoju.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Do kosztów uzasadnionych, o których mowa w ust. 1, nie zalicza się kosztów związanych z używaniem mienia nie stanowiącego własności przedsiębiorstwa energetycznego, z wyjątkiem przypadków określonych w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Jeżeli umowa sprzedaży ciepła stanowi, ze przedsiębiorstwo energetyczne, o którym mowa w ust. 1 pkt 2 lub 3, prowadzi również działalność gospodarczą w zakresie eksploatacji węzłów cieplnych, grupowych węzłów cieplnych, odcinków instalacji odbiorczych między węzłami grupowymi i poszczególnymi budynkami, instalacji odbiorczych w obiektach odbiorcy, które stanowią mienie odbiorcy, to uzasadnione koszty, o których mowa w ust. 1 pkt 2 i 3, obejmują odpowiednio koszty prowadzenia tej działalności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Ceny i stawki opłat, o których mowa w 87, ustala się jako bazowe ceny i stawki opłat na podstawie jednostkowych kosztów obliczanych zgodnie z zasadami określonymi w ust. 2 i 3 oraz w § 15 ust. 4 i w § 30 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Jednostkowe koszty, o których mowa w ust. 1, stanowiące podstawę do ustalania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "bazowych cen za zamówioną moc cieplną, o których mowa w § 7 ust. 1 pkt 1 i ust. 2 pkt 1, oblicza się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kip =AXxK,:N"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: K,„ — koszt jednostkowy, stanowiący podstawę do ustalenia bazowej ceny za zamówioną moc cieplną dla danej grupy odbiorców [w zt/MW],"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "K, — uzasadnione koszty w zakresie wytwarzania, przetwarzania, magazynowania ciepta, o których mowa w § 10 i 11, związane z dostarczaniem ciepła dla danej grupy odbiorców,"
+        },
+        {
+         "type": "text",
+         "text": "A — wskaźnik udziału opłat za zamówioną moc cieplną w łącznych opłatach w roku obrotowym dla danej grupy odbiorców, którego wartość może być zawarta w przedziale od 0,3 do 0,4,"
+        },
+        {
+         "type": "text",
+         "text": "N — określoną w umowach sprzedaży ciepła moc cieplną zamówioną przez daną grupę odbiorców w poprzednim roku obrotowym lub średnią zamówioną moc cieplną, obliczoną jako średnia arytmetyczna mocy cieplnej zamówionej w kolejnych 12 miesiącach poprzedniego roku obrotowego, jeżeli wskutek przyłączenia lub odłączenia obiektów albo w wyniku uzgodnienia między stronami w ciągu poprzedniego roku obrotowego nastąpiła zmiana zamówionej mocy cieplnej [w MW],"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "bazowych cen ciepła, o których mowa w § 7 ust. 1 pkt 2 i ust. 2 pkt 2, oblicza się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "K,=(1-A)xK,:Q"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "Ri —koszt jednostkowy, stanowiący podstawę do ustalenia bazowej ceny ciepta dla danej grupy odbiorców [w zł/GJ lub w zł/MWh],"
+        },
+        {
+         "type": "text",
+         "text": "Q — ilość ciepta dostarczoną danej grupie odbiorców w poprzednim roku obrotowym [w GJ lub w MWh],"
+        },
+        {
+         "type": "text",
+         "text": "A —u wskaźnik udziału opłat za zamówioną moccieplną w łącznych opłatach w roku obrotowym dla danej grupy odbiorców, którego wartość może być zawarta w przedziale od 0,3 do 0,4,"
+        },
+        {
+         "type": "text",
+         "text": "K, — uzasadnione koszty w zakresie wytwarzania, przetwarzania, magazynowania ciepła, o których mowa w § 10 i 11, związane z dostarczaniem ciepła dla danej grupy odbiorców,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_2/pkt_3",
+       "text": "bazowych cen nośnika ciepła, o których mowa w § 7 ust. 1 pkt 3 i ust. 2 pkt 3, oblicza się jako iloraz uzasadnionych kosztów w zakresie pozyskania, uzdatniania i podgrzewania nośnika ciepła oraz ilości tego nośnika, dostarczonego do napełniania sieci ciepłowniczych lub instalacji odbiorczych, a także do uzupełnienia jego ubytków w tych sieciach lub instalacjach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_2/pkt_4",
+       "text": "bazowych stawek opiat abonamentowych, o których mowa w § 7 ust. 2 pkt 4, ust. 3 pkt 2 i ust. 4, oblicza się jako iloraz uzasadnionych kosztów obejmujących w szczególności koszty obsługi odbiorców w zakresie odczytów wskazań układów pomiarowo-rozliczeniowych, obliczania należności, wystawiania faktur i egzekwowania należności, a także czynności związanych z kontrolą układów pomiarowo-rozliczeniowych, dotrzymywania warunków umów i prawidłowości rozliczeń oraz liczby przyłączy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_2/pkt_5",
+       "text": "bazowych stawek opłat za usługi przesyłowe, o których mowa w § 7 ust. 2 pkt 5 i ust. 3 pkt 1, oblicza się jako iloraz uzasadnionych kosztów w zakresie przesyłania ciepła, o których mowa w § 10 i 11, związanych z dostarczaniem ciepła dla danej grupy odbiorców i mocy cieplnej, zamówionej przez tę grupę odbiorców w danym roku obrotowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Jednostkowe koszty, które stanowią podstawę do ustalania bazowych stawek opłat za przyłączenie do sieci, o których mowa w § 7 ust. 2 pkt 6 i ust. 3 pkt 3, oblicza się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_3/pkt_1",
+       "text": "jednostkowe koszty budowy przyłączy, o których mowa w § 7 ust. 2 pkt 6 lit. a) i ust. 3 pkt 3 lit. a), na których podstawie ustalane są bazowe stawki opłat za przyłącze, określa się jako iloraz uzasadnionych kosztów modernizacji i rozwoju planowanych w roku obrotowym na budowę określonego rodzaju przyłączy i łącznej długości tych przyłączy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_3/pkt_2",
+       "text": "jednostkowe koszty wykonania przejść przyłączy przez ściany obiektów, o których mowa w § 7 ust. 2 pkt 6 lit. b) i ust. 3 pkt 3 lit. b), na których podstawie ustalane są bazowe stawki opłat za przejście przytącza przez ścianę, określa się jako iloraz uzasadnionych kosztów modernizacji i rozwoju planowanych w roku obrotowym na wykonanie określonego rodzaju przejść przyłączy przez ściany obiektów i łącznej ilości tych przejść,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_3/pkt_3",
+       "text": "jednostkowe koszty rozbudowy sieci ciepłowniczej, o których mowa w § 7 ust. 2 pkt 6 lit. c) i ust. 3 pkt 3 lit. c), na których podstawie ustalane są bazowe stawki opłat za rozbudowę sieci ciepłowniczej, określa się jako iloraz uzasadnionych kosztów modernizacji i rozwoju planowanych w roku obrotowym na budowę lub wymianę odcinków sieci ciepłowniczej doprowadzających ciepło do przyłączy i obliczeniowego natężenia przepływu nośnika ciepta dla tych odcinków.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Uzasadnione koszty, stanowiące podstawę do ustalenia jednostkowych kosztów i stawek opłat za usługi przesyłowe, o których mowa w § 7 ust. 2 pkt 5 i ust. 3 pkt 1, ustala się dla poszczególnych grup odbiorców na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "ewidencji kosztów, prowadzonej zgodnie z dokumentacją księgową opisującą przyjęte zasady rachunkowości, określone przepisami o rachunkowości, oraz rzeczywistego wykonania w poprzednim roku obrotowym kosztów stałych i kosztów zmiennych poniesionych w stosunku do poszczególnych grup odbiorców w zakresie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_1/pkt_1/lit_a",
+         "text": "przesyłania i dystrybucji ciepła siecią ciepłowniczą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_1/pkt_1/lit_b",
+         "text": "wytwarzania, przetwarzania i magazynowania ciepta, jeżeli w sieci ciepłowniczej są zainstalowane urządzenia lub instalacje współpracujące ze źródłami ciepła należącymi do przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_13/ust_1/pkt_1/lit_c",
+         "text": "strat ciepta i ubytków nośnika ciepta podczas przesyłania,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "kosztów modernizacji i rozwoju oraz kosztów związanych z realizacją inwestycji w zakresie ochrony",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "środowiska, określonych na podstawie planu, o którym mowa w art. 20 ustawy, jako średnie roczne koszty w okresie objętym planem, wynikające z określonych w tym planie nakładów inwestycyjnych, a do czasu uchwalenia tego planu przez radę gminy — w obowiązującym dla przedsiębiorstwa planie rozwoju i modernizacji sieci ciepłowniczej oraz przyłączania do tej sieci nowych źródeł ciepła i obiektów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zużycie paliw i energii elektrycznej do napędów urządzeń lub instalacji oraz straty ciepła i ubytki nośnika ciepła podczas przesyłania ustalane są w oparciu o wielkości lub wskaźniki wynikające z analiz pracy sieci ciepłowniczych i pomiarów wykonanych przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepta lub zleconych specjalistycznym jednostkom pomiarowo-badawczym. Jako wielkości technicznie uzasadnione uznaje się średnie wartości z ostatnich dwóch lat, pod warunkiem że spełnione są wymagania określone w art. 51 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Bazowe ceny i stawki opłat, o których mowa w § 12 ust. 1, ustala się na podstawie kosztów jednostkowych, obliczanych według zasad określonych w § 12 ust. 2i3, powiększonych o ustaloną przez przedsiębiorstwo energetyczne marżę zysku, nie wyższą niż 10%, i po zastosowaniu współczynnika korekcyjnego X, o którym mowa w § 17 ust. 2 i 3, uwzględniającego projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego w okresie 12 miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Wielkość współczynnika korekcyjnego, o którym mowa w ust. 1, określa przedsiębiorstwo energetyczne, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Wielkość współczynnika korekcyjnego, określoną we wniosku o zatwierdzenie taryfy przez przedsiębiorstwo energetyczne posiadające koncesję, ustala Prezes Urzędu Regulacji Energetyki, przy zatwierdzeniu taryfy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Przedsiębiorstwo energetyczne może ustalić w taryfie stawki opłat i zasady obliczania dodatkowych opłat, pobieranych za dodatkowe usługi lub czynności, wykonywane na dodatkowe zlecenie odbiorcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Dodatkowe opłaty, o których mowa w ust. 1, ustala się za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "przerwanie i wznowienie dostarczania ciepła,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "sprawdzenie prawidłowości wskazań układu pomiarowo-rozliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "usługi pogotowia technicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_2/pkt_4",
+       "text": "inne usługi lub czynności wykonywane na zlecenie odbiorcy ciepła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Stawki opłat, stanowiące podstawę do obliczenia dodatkowych opłat, o których mowa w ust. 1, ustala się w sposób eliminujący subsydiowanie skrośne, jako stawki bazowe na podstawie jednostkowych uzasadnionych kosztów, powiększonych o marżę zysku, o której mowa w § 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Jednostkowe koszty, stanowiące podstawę do ustalenia stawek bazowych, o których mowa w ust. 3, określa się na podstawie ewidencji kosztów poniesionych w poprzednim roku obrotowym na wykonywanie dodatkowych usług lub czynności, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Przedsiębiorstwo energetyczne ustala bazowe ceny i bazowe stawki opłat, o których mowa w § 14, na okres pięciu lat, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Prezes Urzędu Regulacji Energetyki może określić okres obowiązywania bazowych cen i bazowych stawek opłat od jednego roku do pięciu lat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Przedsiębiorstwo energetyczne, nie częściej niż raz na 12 miesięcy, dostosowuje stawki opłat i ceny do zmieniających się warunków ekonomicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Stawki opłat i ceny, stanowiące podstawę do obliczania wysokości opłat, które są niezależne od ilości dostarczonego ciepła, dostosowuje się do zmieniających się warunków ekonomicznych według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "C,, = Cy, [1 + (RPI,_, — X) : 100]"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: C,, — nową cenę lub stawkę opłaty niezależną od ilości dostarczonego ciepła,"
+      },
+      {
+       "type": "text",
+       "text": "— odpowiednio bazową cenę lub bazową staw- Csb kę opłaty, o której mowa w § 16 ust. 1, albo cenę lub stawkę opłaty stosowaną w rozliczeniach po ostatnim jej dostosowaniu do zmieniających się warunków ekonomicznych, o których mowa w ust. 1, RPI,_, — wzrost cen towarów i usług konsumpcyjnych, jaki w okresie 12 miesięcy nastąpił w stosunku do ich poziomu, uwzględnionego przy ostatniej zmianie ceny lub stawki opłaty, ustalony na podstawie obwieszczeń Prezesa Głównego Urzędu Statystycznego opublikowanych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %l, X — współczynnik korekcyjny, uwzględniający projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego w okresie 12 miesięcy [w %l."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Ceny stanowiące podstawę do obliczania wysokości opłat zależnych od ilości dostarczonego ciepta dostosowuje się do zmieniających się warunków ekonomicznych według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Czy = Cy, (Z x U, : 100 + [1+ (RPI, + — X) : 100] U, : 100)"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: C,, — nową cenę ciepła, C,, — cenę bazową lub cenę ciepła stosowaną w rozliczeniach po ostatnim jej dostosowaniu do zmieniających się warunków ekonomicznych, o których mowa w ust. 1,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 4726 ="
+      },
+      {
+       "type": "text",
+       "text": "Z —średni wskaźnik zmiany cen paliwa obliczony według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "Z=(C : Cup) X UW: 100 + (C,,, : Co) x UG: 100 + wn + (Cyq : Cop) X U, : 100 on *"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Cn; Cyni Cop — nowe ceny węgla, gazu i oleju po wn! \"gn zmianie dla danego asortymentu paliw,"
+      },
+      {
+       "type": "text",
+       "text": "C,, — średnie ceny węgla, gazu i oleju,"
+      },
+      {
+       "type": "text",
+       "text": "Cog wb! “gbr określone jako średnie ceny dla ostatnich 12 miesięcy, na podstawie średnich miesięcznych cen ogłoszonych w publikacjach Głównego Urzędu Statystycznego, Ui Ug; U; — udział zużycia węgla, gazu i oleju w zużyciu paliw ogółem [w %l, U, —udział kosztów paliw w łącznych kosztach stanowiących podstawę do ustalenia ceny ciepła dla danej grupy odbiorców [w %],"
+      },
+      {
+       "type": "text",
+       "text": "U — udział pozostałych kosztów w łącznych kosztach stanowiących podstawę do ustalenia ceny ciepła dla danej grupy odbiorców [w %],"
+      },
+      {
+       "type": "text",
+       "text": "— wzrost cen towarów i usług konsumpcyjnych, jaki w okresie 12 miesięcy nastąpił w stosunku do ich poziomu, uwzględnionego przy ostatniej zmianie ceny lub stawki opłaty, ustalony na podstawie obwieszczeń Prezesa Głównego Urzędu Statystycznego opublikowanych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” [w %], X — współczynnik korekcyjny, uwzględniający projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego w okresie 12 miesięcy [w %]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Stawki opłat i ceny ustalone w taryfie przez przedsiębiorstwo energetyczne stanowią podstawę do obliczania opłat określonych w umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłowych, lub w umowie o przyłączenie do sieci.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Stawki opłat i ceny, o których mowa w ust. 1, określa się dla każdej grupy odbiorców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Stawki opłat za przyłączenie do sieci, o których mowa w § 7 ust. 2 pkt 6 i ust. 3 pkt 3, mogą być różnicowane dla przyłączy i sieci ciepłowniczych budowanych nad ziemią, pod ziemią i w pomieszczeniach, po określeniu wpływu warunków lokalnych — w tym ukształtowania terenu, rodzaju i przeznaczenia gruntu, rodzaju nawierzchni, zastosowanej technologii, wymaganych zabezpieczeń i innych czynników — na poziom jednostkowych kosztów, o których mowa w § 12 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Stawki opłat za przyłączenie do sieci, o których mowa w ust. 1, aktualizuje się wraz ze zmianą planów, o których mowa w § 10 ust. 3, stanowiących podstawę do określenia uzasadnionych kosztów modernizacji i rozwoju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła ewidencjonuje poniesione koszty i określa rzeczywiste koszty przyłączania do sieci ciepłowniczych w sposób umożliwiający weryfikację planowanych jednostkowych kosztów i stawek opłat, o których mowa w ust. 1i 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Wysokość opłat określonych w umowie sprzedaży ciepła lub umowie o świadczenie usług przesyłowych oblicza się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "roczna opłata za zamówioną moc cieplną — stanowi iloczyn mocy cieplnej zamówionej przez odbiorce i ceny za zamówioną moc cieplną dla danej grupy odbiorców; opłata ta jest pobierana w 12 ratach miesięcznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "opłata za dostarczone ciepło — stanowi iloczyn ilości dostarczonego ciepła, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego, i ceny ciepła dla danej grupy odbiorców; opłata ta jest pobierana w każdym miesiącu, w którym dostarczono ciepło,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_1/pkt_3",
+       "text": "opłata za nośnik ciepła — stanowi iloczyn ustalonej na podstawie wskazań układu pomiarowo-rozliczeniowego ilości nośnika ciepła, dostarczonego do napełniania i uzupełnienia jego ubytków w sieciach ciepłowniczych i instalacjach odbiorczych, oraz ceny nośnika ciepta dla danej sieci ciepłowniczej; opłata ta jest pobierana w każdym miesiącu, w którym dostarczono nośnik ciepła,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_1/pkt_4",
+       "text": "opłata abonamentowa — stanowi iloczyn liczby przyłączy, doprowadzających ciepło do węzłów cieplnych w obiektach odbiorcy, i stawki opłaty abonamentowej; opłata ta jest pobierana w każdym miesiącu, w którym jest wystawiana faktura,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_20/ust_1/pkt_5",
+       "text": "opłata za usługi przesyłowe — stanowi iloczyn mocy cieplnej zamówionej przez odbiorcę w roku obrotowym i stawki opłaty za usługi przesyłowe dla danej grupy odbiorców; opłata ta jest pobierana w 12 ratach miesięcznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_20/ust_1/pkt_6",
+       "text": "opłata za dodatkowo zlecone przez odbiorcę przerwanie i wznowienie dostarczania ciepła — stanowi iloczyn liczby przyłączy, w których przerwano lub wznowiono dostarczanie ciepła, i stawki opłaty za przerwanie i wznowienie dostarczania ciepła do przyłącza,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_20/ust_1/pkt_7",
+       "text": "optata za dodatkowo zlecone przez odbiorcę sprawdzenie prawidłowości wskazań układu pomiarowo-rozliczeniowego — stanowi iloczyn liczby układów pomiarowo-rozliczeniowych i stawki opłaty za dodatkowe sprawdzenie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_20/ust_1/pkt_8",
+       "text": "opłata za usługi pogotowia technicznego — stanowi sumę iloczynów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_20/ust_1/pkt_8/lit_a",
+         "text": "poszczególnych rodzajów usług wykonanych przez pogotowie techniczne i stawek opłat za poszczególne rodzaje wykonanych usług,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_20/ust_1/pkt_8/lit_b",
+         "text": "odległości dojazdu i stawki opłaty za dojazd pogotowia technicznego,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_20/ust_1/pkt_9",
+       "text": "opłata za inne usługi lub czynności wykonywane na zlecenie odbiorcy — stanowi sumę iloczynów ilości poszczególnych rodzajów usług lub czynności i stawek opłaty za poszczególne rodzaje wykonanych usług lub czynności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Wysokość opłat określonych w umowie o przyłączenie do sieci oblicza się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_2/pkt_1",
+       "text": "jeżeli umowa o przyłączenie nie stanowi inaczej, opłata za przyłączenie do sieci pobierana jest przed rozpoczęciem dostarczania ciepła i stanowi sumę opłat za przyłącze, za wykonanie przejść przyłącza przez ściany i za rozbudowę sieci ciepłowniczej, których wysokość oblicza się według następujących zasad:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_20/ust_2/pkt_1/lit_a",
+         "text": "opłata za przyłącze — stanowi iloczyn długości przyłącza i stawki opłaty za to przyłącze,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_20/ust_2/pkt_1/lit_b",
+         "text": "opłata za wykonanie przejść przyłączy przez ściany — stanowi iloczyn ilości wykonanych określonego rodzaju przejść przez ściany i stawek opłat za te przejścia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_20/ust_2/pkt_1/lit_c",
+         "text": "opłata za rozbudowę sieci ciepłowniczej jest zależna od udziału odbiorcy w obciążeniu odcinków sieci, którymi nośnik ciepła jest dostarczany do przyłącza wykonanego dla tego odbiorcy, oraz stanowi iloczyn obliczeniowego natężenia przepływu nośnika ciepta dla przytącza i stawki opłaty za rozbudowę poszczególnych odcinków sieci ciepłowniczej, doprowadzających ciepło do przyłącza,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_2/pkt_2",
+       "text": "w przypadku sieci ciepłowniczych, w których nośnikiem ciepła jest woda, przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła może stosować zryczałtowane opłaty, których wysokość jest zależna od średnicy nominalnej rurociągu doprowadzającego nośnik ciepła do węzła cieplnego; zryczałtowane opłaty mogą być stosowane za:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_20/ust_2/pkt_2/lit_a",
+         "text": "przytącze, gdy długość przyłącza nie przekracza 5 metrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_20/ust_2/pkt_2/lit_b",
+         "text": "wykonanie przejścia przyłącza przez ścianę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_20/ust_2/pkt_2/lit_c",
+         "text": "rozbudowę sieci ciepłowniczych, gdy obliczeniowe natężenie przepiywu wody w przyłączu nie przekracza 0,25 m*/h,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_2/pkt_3",
+       "text": "jeżeli przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła pobiera od odbiorców zryczałtowane opłaty, o których mowa w pkt 2 lit. a), oraz długość przytącza przekracza 5 metrów, opłata za to przyłącze obejmuje zryczałtowaną opłatę oraz dodatkową opłatę za każdy rozpoczęty metr przytacza powyżej 5 metrów, jeżeli umowa o przyłączenie nie stanowi inaczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_2/pkt_4",
+       "text": "jeżeli w pomieszczeniu węzła cieplnego instalowany jest, na koszt odbiorcy, prefabrykowany węzeł cieplny wyposażony przez producenta w układ pomiarowo-rozliczeniowy i urządzenie regulujące natężenie przepływu nośnika ciepła, opłata za przyłącze powinna być pomniejszona o koszt ich zakupu i montażu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_20/ust_2/pkt_5",
+       "text": "suma pobranych od odbiorców opłat za rozbudowę sieci ciepłowniczych, o których mowa w pkt 1 lit. c), nie może przekroczyć 70% łącznych nakładów, określonych w planie, o którym mowa w art. 20 ustawy, na rozbudowę sieci ciepłowniczej, związaną z przytaczaniem do tej sieci odbiorców.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "W przypadku grupowego węzła cieplnego, z którym połączone są instalacje odbiorcze należące do więcej niż jednego odbiorcy, opłaty pobierane od poszczególnych odbiorców oblicza się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "roczną opłatę stałą za zamówioną moc cieplną oblicza się jako iloczyn mocy cieplnej zamówionej przez odbiorcę i ceny za zamówioną moc cieplną dla odbiorców zasilanych z węzła grupowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "opłatę za ciepło, dostarczone w celu ogrzewania, oblicza się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Os s Ge x Cw x do : 6 lub Ogg = Qyygo X Cw X Goo * Gs o"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "Oo — Opłatę za ciepło dostarczone w celu ogrzewania, obliczoną dla danego odbiorcy, as — ilość ciepta dostarczoną do węzła grupowego w celu ogrzewania, określoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowgo, zainstalowanego w węźle cieplnym [w GJ lub w MWh],"
+        },
+        {
+         "type": "text",
+         "text": "Gwą — cenę ciepła dostarczanego do węzła grupowego [w zł/GJ lub w zł/MWh],"
+        },
+        {
+         "type": "text",
+         "text": "Q,, — ilość ciepta dostarczoną w celu ogrzewania do budynków eksploatowanych przez odbiorcę, określoną na podstawie odczytów wskazań ciepłomierzy zainstalowanych w tych budynkach [w GJ lub w MWh],"
+        },
+        {
+         "type": "text",
+         "text": "Q — ilość ciepła dostarczoną w celu ogrzewania do wszystkich obiektów zasilanych z węzła grupowego, określoną na podstawie odczytów wskazań 'ciepłomierzy zainstalowanych w tych obiektach [w GJ lub w MWh],"
+        },
+        {
+         "type": "text",
+         "text": "G — ilość nośnika ciepła dostarczonego w celu ogrzewania do obiektów eksploatowanych przez odbiorcę, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach [w m3],"
+        },
+        {
+         "type": "text",
+         "text": "G,, — ilość nośnika ciepta dostarczonego w celu ogrzewania do wszystkich obiektów zasilanych z węzła grupowego, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach [w m3],"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "opłatę za ciepło, dostarczone w celu podgrzewania wody wodociągowej, oblicza się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Osa =Q Cag x Gw :G wgcw x scwo"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "Owo — Opłatę za ciepło dostarczone w celu podgrzewania wody wodociągowej, obliczoną dla odbiorcy,"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ae — ilość ciepła dostarczoną do węzła grupowego w celu podgrzewania wody wodociągowej, określoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego, za- Trę w węźle cieplnym [w GJ lub c _ tad 4 ' —cenę ciepta dostarczanego do węzła grupoia że: iw ziGJ ib w Zł/MWh), zda"
+        },
+        {
+         "type": "text",
+         "text": "ai ee : sd isktach sk"
+        },
+        {
+         "type": "text",
+         "text": "Gewo — Ilość ciepłej wody zużytej w = cs ape | = p MEIGS sę Pa POSS IS DUSZY \"NRA hep yy mierzy zainstalowanych w tych obiektach [w m],"
+        },
+        {
+         "type": "text",
+         "text": "Gscwo — ilość ciepłej wody zużytej we wszystkich obiektach zasilanych z węzła grupowego, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach [w m3],"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_1/pkt_4",
+       "text": "opłatę za nośnik ciepła oblicza się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "One = Śwwg x G X Now . No wg"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: O,, — opłatę za nośnik ciepła, obliczoną dla odbiorcy, Ówag — ilość nośnika ciepta dostarczonego do węzła grupowego w celu napełniania zasilanych z tego węzła instalacji odbiorczych i uzupełnienia ubytków wody w tych instalacjach [w m3],"
+        },
+        {
+         "type": "text",
+         "text": "C, —cenę nośnika ciepła dostarczanego do węzła grupowego [w zt/m?], Nj. — moccieplną zamówioną przez odbiorcę w celu ogrzewania wszystkich obiektów zasilanych z węzła grupowego, eksploatowanych przez niego obiektów [w MW], Dog — moc cieplną zamówioną przez odbiorców w celu ogrzewania wszystkich obiektów zasilanych z węzła grupowego [w MW],"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_21/ust_1/pkt_5",
+       "text": "opłatę abonamentową oblicza się jako iloczyn liczby budynków eksploatowanych przez odbiorcę i stawki opiaty abonamentowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_21/ust_1/pkt_6",
+       "text": "opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, ustaloną według zasad określonych w § 20 ust. 2, dzieli się między poszczególnych odbiorców proporcjonalnie do ich udziału w obciążeniu grupowego węzła cieplnego według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "O50 = Opwg X N N o wg"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: Us — opłatę za przyłączenie, obliczoną dla odbiorcy, ag — opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, N, _— zamówioną moc cieplną dla obiektów eksploatowanych przez odbiorcę [w MW], ws — zamówioną moc cieplną dla wszystkich obiektów zasilanych z węzła grupowego [w MW]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Rozliczenia za wodę wodociągową, podgrzewaną w węźle grupowym, przeprowadza się na zasadach określonych w odrębnej umowie, która może być zawarta między odbiorcami i przedsiębiorstwem:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_2/pkt_1",
+       "text": "dostarczającym wodę wodociągową do obiektów zasilanych z węzła grupowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_2/pkt_2",
+       "text": "energetycznym prowadzącym działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła, które kupuje wodę wodociągową podgrzewaną w węźle grupowym od przedsiębiorstwa dostarczającego zimną wodę wodociągową do obiektów zasilanych z tego węzła i",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Odbiorca nieodpłatnie udostępnia przedsiębiorstwu energetycznemu prowadzącemu działalność gospodarczą w zakresie przesyłania i dystrybucji ciepta pomieszczenie węzła cieplnego oraz pokrywa inne koszty związane z jego utrzymaniem, jeżeli umowa sprzedaży ciepła nie stanowi inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Jeżeli odbiorca lub grupa odbiorców zażąda, aby umowa sprzedaży ciepła przewidywała odpłatne udostępnienie pomieszczenia węzła cieplnego oraz odpłatność za inne koszty związane z jego utrzymaniem, to opłaty z tego tytułu stanowią dla przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła koszty, o których mowa w § 10 ust. 1 pkt 1 i 2, ponoszone przez to przedsiębiorstwo w celu zaopatrzenia w ciepło danego odbiorcy lub grupy odbiorców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Opłatę z tytułu współfinansowania przez przedsiębiorstwo energetyczne przedsięwzięć i usług zmierzających do zmniejszenia zużycia ciepła u odbiorcy, stanowiących ekonomiczne uzasadnienie uniknięcia budowy lub rozbudowy źródeł ciepła, ustala się na podstawie indywidualnych kalkulacji, zgodnie z postanowieniami zawartymi w odrębnej umo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Opłatę z tytułu współfinansowania przez przedsiębiorstwo energetyczne przedsięwzięć związanych z rozwojem energetyki niekonwencjonalnej ustala się na podstawie odrębnych kalkulacji, w przypadku gdy koszty te nie będą mogły być pokryte przychodami ze sprzedaży ciepta wytworzonego w źródłach niekonwencjonalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "W przypadku nałożenia na przedsiębiorstwo energetyczne obowiązku zakupu ciepta ze źródeł niekonwencjonalnych, w tym odnawialnych, uzasadnione koszty zakupu tego ciepła ustala się według zasad określonych w przepisach wydanych na podstawie art. 9 ust. 4 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "W uzasadnionych przypadkach, wynikających z nietypowych warunków dostarczania ciepła, a w szczególności zawarcia umowy sprzedaży ciepła na czas określony, przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania ciepła lub przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji może, na wniosek odbiorcy, prowadzić rozliczenia, w których zamiast ceny za zamówioną moc",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "cieplną i ceny ciepła, o których mowa w § 7 ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1 i 2, stosuje się tylko cenę ciepła obliczoną według wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "C, = 1,2 (C,, x N+C,,x0):0Q"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: C, —cenęciepła dla danej grupy odbiorców [w zł/GJ lub w zł/MWh],"
+      },
+      {
+       "type": "text",
+       "text": "C,, — cenę za zamówioną moc cieplną [w zt/MW] dla odbiorców o podobnym charakterze zapotrzebowania na ciepło, z którymi rozliczenia prowadzone są przy zastosowaniu ceny za zamówioną moc cieplną i ceny ciepła, N — moc cieplną zamówioną w poprzednim roku obrotowym przez odbiorców o podobnym charakterze zapotrzebowania na ciepło, z którymi rozliczenia prowadzone są przy zastosowaniu ceny za zamówioną moc cieplną i ceny ciepła, lub średnią zamówioną moc cieplną, obliczoną jako średnia arytmetyczna mocy cieplnej zamówionej przez tych odbiorców w kolejnych 12 miesiącach poprzedniego roku obrotowego, w przypadku gdy z powodu przyłączenia lub odłączenia obiektów, lub w wyniku uzgodnień między stronami, w ciągu poprzedniego roku obrotowego nastąpiła zmiana zamówionej mocy cieplnej [w MW], C., — cenę ciepta dla odbiorców o podobnym charakterze zapotrzebowania na ciepło, z którymi rozliczenia są prowadzone przy zastosowaniu ceny za zamówioną moc cieplną i ceny ciepła [w zł/GJ lub w zł/MWh],"
+      },
+      {
+       "type": "text",
+       "text": "Q — ilość ciepta dostarczoną w poprzednim roku obrotowym odbiorcom o podobnym charakterze zapotrzebowania na ciepło, z którymi rozliczenia prowadzone są przy zastosowaniu ceny za zamówioną moc cieplną i ceny ciepta [w GJ lub w MWh]."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Opłata za ciepło stanowi iloczyn ilości dostarczonego ciepta, ustalonej na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego, i ceny ciepła dla danej grupy odbiorców, o której mowa w ust. 1; opłata jest pobierana w każdym miesiącu, w którym wystąpiła dostawa ciepła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Przedsiębiorstwo energetyczne, nie posiadające koncesji lub zwolnione przez Prezesa Urzędu Regulacji Energetyki z obowiązku przedkładania taryf do zatwierdzenia, opracowuje taryfę zgodnie z zasadami określonymi w ustawie i rozporządzeniu oraz wprowadza ją do stosowania przy zawieraniu umów z poszczególnymi odbiorcami po dniu, w którym Minister Finansów zaprzestanie ustalania taryf dla ciepła.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "W przypadku nowo tworzonych przedsiębiorstw energetycznych lub podejmowania przez istniejące przedsiębiorstwa nowego rodzaju działalności gospodarczej w zakresie zaopatrzenia w ciepło, podstawę do określenia jednostkowych kosztów, o których mowa w § 12—14, 16 i 30, stanowią koszty planowane w pierwszym roku obrotowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Przedsiębiorstwo, o którym mowa w ust. 1, w terminie dwóch miesięcy po zakończeniu pierwszego roku obrotowego, jest zobowiązane dokonać weryfikacji jednostkowych kosztów i ustalonych na ich podstawie cen i stawek opłat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Kalkulacja taryf oraz zasady rozliczeń w obrocie ciepłem"
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji oraz obrotu ciepłem prowadzi rozliczenia z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_1/pkt_1",
+       "text": "przedsiębiorstwem energetycznym prowadzącym działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła, sprzedającym ciepło do sieci ciepłowniczej eksploatowanej przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji oraz obrotu ciepłem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_1/pkt_2",
+       "text": "odbiorcą przyłączonym do sieci ciepłowniczej eksploatowanej przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji oraz obrotu ciepłem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/ust_1/pkt_3",
+       "text": "przedsiębiorstwem energetycznym prowadzącym działalność gospodarczą w zakresie obrotu ciepłem, korzystającym z usług przesyłowych świadczonych przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_27/ust_1/pkt_4",
+       "text": "odbiorcą kupującym ciepło bezpośrednio od przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła i korzystającym z usług przesyłowych świadczonych przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą wyłącznie w zakresie obrotu ciepłem prowadzi rozliczenia z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_2/pkt_1",
+       "text": "przedsiębiorstwem energetycznym prowadzącym działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła, sprzedającym ciepło przedsiębiorstwu energetycznemu prowadzącemu działalność gospodarczą w zakresie obrotu ciepłem i dostarczającym ciepło do sieci ciepłowniczej eksploatowanej przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_2/pkt_2",
+       "text": "przedsiębiorstwem energetycznym prowadzącym działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła, świadczącym usługi przesyłowe dla przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie obrotu ciepłem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/ust_2/pkt_3",
+       "text": "odbiorcą korzystającym z usług świadczonych przez przedsiębiorstwo energetyczne prowadzące",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "działalność gospodarczą w zakresie obrotu ciepłem."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji oraz obrotu ciepłem stosuje w rozliczeniach następujące rodzaje opłat:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_28/pkt_1",
+     "text": "opłatę abonamentową — stanowiącą iloczyn liczby przyłączy doprowadzających ciepło do węzłów cieplnych w obiektach odbiorcy i stawki opłaty abonamentowej; opłata ta jest pobierana w każdym miesiącu, w którym jest wystawiana faktura,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_28/pkt_2",
+     "text": "opłatę za usługi przesyłowe — stanowiącą iloczyn mocy cieplnej zamówionej przez odbiorcę w roku obrotowym i stawki opłaty za usługi przesyłowe dla danej grupy odbiorców; opłata ta jest pobierana w 12 ratach miesięcznych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "R inne opłaty ustalone w taryfie według zasad określonych w rozdziale 2 rozporządzenia, jeżeli umowa sprzedaży ciepła lub umowa o świadczenie usług przesyłowych nie stanowi inaczej, a w szczególności opłaty za:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_28/pkt_2/lit_a",
+       "text": "przyłączenie do sieci ciepłowniczej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_28/pkt_2/lit_b",
+       "text": "dodatkowo zlecone przez odbiorcę przerwanie i wznowienie dostarczania ciepła,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_28/pkt_2/lit_c",
+       "text": "dodatkowo zlecone przez odbiorcę sprawdzenie prawidłowości wskazań układu pomiarowo-rozliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_28/pkt_2/lit_d",
+       "text": "usługi pogotowia technicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_28/pkt_2/lit_e",
+       "text": "inne usługi lub czynności wykonywane na zlecenie odbiorcy lub przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie obrotu ciepłem,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_28/pkt_4",
+     "text": "opłaty obliczane na podstawie cen ustalonych dla danej sieci ciepłowniczej przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_28/pkt_4/lit_a",
+       "text": "roczną opłatę stałą za zamówioną moc cieplną — stanowiącą iloczyn mocy cieplnej zamówionej przez odbiorcę i ceny za zamówioną moc cieplną; opłata ta jest pobierana w 12 ratach miesięcznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_28/pkt_4/lit_b",
+       "text": "opłatę za dostarczone ciepło — stanowiącą iloczyn ilości ciepta dostarczonego do węzłów cieplnych zasilających budynki eksploatowane przez odbiorcę, ustaloną na podstawie odczytów wskazań układów pomiarowo-rozliczeniowych zainstalowanych w tych węzłach, i ceny ciepła; opłata ta jest pobierana w każdym miesiącu, w którym wystąpiła dostawa ciepła,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_28/pkt_4/lit_c",
+       "text": "opłatę za nośnik ciepła — stanowiącą iloczyn ilości tego nośnika, ustalonej na podstawie wskazań ciepfomierza zainstalowanego w miejscu określonym w umowie sprzedaży ciepła, i ceny nośnika ciepła; opłata ta jest pobierana w każdym miesiącu, w którym wystąpiła dostawa nośnika ciepła.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "W przypadku grupowego węzła cieplnego, z którym połączone są instalacje odbiorcze należące do więcej niż jednego odbiorcy, opłaty pobierane od poszczególnych odbiorców oblicza się według następujących zasad:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1)roczną opłatę stałą za zamówioną moc cieplną oblicza się jako iloczyn mocy cieplnej zamówionej przez odbiorcę i ceny za zamówioną moc cieplną, ustalonej przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania ciepła dla danej sieci ciepłowniczej,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "opłatę za ciepło, dostarczone w celu ogrzewania, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oyj = Owes x Cs X O,, : Os, lub O,, = wać X Gy X Gz! Ggo"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Oo — Opłatę za ciepło dostarczone w celu ogrzewania, obliczoną dla danego odbiorcy, go — ilość ciepta dostarczoną do węzła grupowego w celu ogrzewania, określoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego, zainstalowanego w węźle cieplnym [w GJ lub w MWh], Cc —cenę ciepta dostarczanego do węzła grupowego [w zł/GJ lub w zł/MWh],"
+      },
+      {
+       "type": "text",
+       "text": "— ilość ciepła dostarczoną w celu ogrzewania do budynków eksploatowanych przez odbiorcę, określoną na podstawie odczytów wskazań ciepłomierzy zainstalowanych w tych budynkach [w GJ lub w MWh],"
+      },
+      {
+       "type": "text",
+       "text": "Q — ilość ciepła dostarczoną w celu ogrzewania do wszystkich obiektów zasilanych z węzła grupowego, określoną na podstawie odczytów wskazań ciepłomierzy zainstalowanych w tych obiektach [w GJ lub w MWh],"
+      },
+      {
+       "type": "text",
+       "text": "— ilość nośnika ciepta dostarczonego w celu 00 ogrzewania do obiektów eksploatowanych przez odbiorcę, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach [w m3],"
+      },
+      {
+       "type": "text",
+       "text": "G — ilość nośnika ciepła dostarczonego w celu ogrzewania do wszystkich obiektów zasilanych z węzła grupowego, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach [w m3],"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_29/pkt_3",
+     "text": "opłatę za ciepło dostarczone w celu podgrzewania wody wodociągowej oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "0.,,=0 wgcw X Cis X Goon : Gos cwo"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Owo — Opłatę za ciepło dostarczone w celu podgrzewania wody wodociągowej, obliczoną dla danego odbiorcy, Osę — ilość ciepła dostarczona do węzła grupowego w celu podgrzewania wody wodociągowej, określoną na podstawie odczytów wskazań układu pomiarowo-rozliczeniowego, zainstalowanego w węźle cieplnym [w GJ lub w MWh],"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "| — cenę ciepła dostarczanego do węzła grupowego [w zł/GJ lub w zt/MWh), Gio — ilość ciepłej wody zużytej w obiektach eksploatowanych przez odbiorcę, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach 3 [w m*],"
+      },
+      {
+       "type": "text",
+       "text": "G — ilość ciepłej wody zużytej we wszystkich scwo ~ . obiektach zasilanych z węzła grupowego, określoną na podstawie odczytów wskazań przepływomierzy zainstalowanych w tych obiektach [w m3],"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_29/pkt_4",
+     "text": "opłatę za nośnik ciepta oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ono = Biss x C,, X Nas : No wg"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Oy = opłatę za nośnik ciepła, obliczoną dla danego odbiorcy, Save — ilość nośnika ciepta dostarczonego do węzła grupowego w celu napełniania zasilanych z tego węzła instalacji odbiorczych i uzupełnienia ubytków wody w tych instalacjach [w m3],"
+      },
+      {
+       "type": "text",
+       "text": "C, —cenę nośnika ciepła, ustaloną przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepta dla danej sieci ciepłowniczej [w zt/m?],"
+      },
+      {
+       "type": "text",
+       "text": "N — moc cieplną zamówioną przez odbiorcę w celu ogrzewania eksploatowanych przez niego obiektów [w MW],"
+      },
+      {
+       "type": "text",
+       "text": "Nowa — moc cieplną zamówioną przez odbiorców w celu ogrzewania wszystkich obiektów zasilanych z węzła grupowego [w MW],"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_29/pkt_5",
+     "text": "opłatę abonamentową oblicza się jako iloczyn liczby budynków eksploatowanych przez odbiorcę i stawki opłaty abonamentowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_29/pkt_6",
+     "text": "opłatę za usługi przesyłowe, związane z dostarczaniem ciepła w celu ogrzewania, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Osu = | x Neo"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Om — opłatę za usługi przesyłowe, związane z dostarczaniem ciepła w celu ogrzewania, obliczoną dla odbiorcy,"
+      },
+      {
+       "type": "text",
+       "text": "C, — stawkę opłaty za usługi przesyłowe dla danej grupy odbiorców [w zt/MW],"
+      },
+      {
+       "type": "text",
+       "text": "N,, — moccieplną zamówioną przez odbiorcę w roku"
+      },
+      {
+       "type": "lit",
+       "num": "foe",
+       "path": "par_29/pkt_6/lit_foe",
+       "text": ". obrotowym w celu ogrzewania eksploatowanych przez niego obiektów [w MW],",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_29/pkt_7",
+     "text": "opłatę za usługi przesyłowe, związane z dostarczaniem ciepła w celu podgrzewania wody wodociągowej, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O = 09 X Newo cwpu"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "Opes — opłatę za usługi przesyłowe, związane z dostarczaniem ciepła w celu podgrzewania wody wodociągowej, obliczoną dla danego odbiorcy, C, — stawkę opłaty za usługi przesyłowe dla danej grupy odbiorców [w zł/MWI], Nawo — moc cieplną zamówioną przez odbiorcę w roku obrotowym w celu podgrzewania wody wodociągowej [w MW],"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_29/pkt_8",
+     "text": "opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, ustaloną według zasad określonych w § 20 ust. 2, dzieli się między poszczególnych odbiorców proporcjonalnie do ich udziału w obciążeniu grupowego węzła cieplnego według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Opa = Opwg X N :N o wg"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: O — opłatę za przyłączenie, obliczoną dla odbiorcy, sing — opłatę za przyłączenie grupowego węzła cieplnego do sieci ciepłowniczej, N, — zamówioną moc cieplną dla obiektów eksploatowanych przez odbiorcę [w MW], Nwq — moc cieplną zamówioną przez odbiorców dla wszystkich obiektów zasilanych z węzła grupowego [w MW]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie obrotu ciepłem stosuje w rozliczeniach opłaty abonamentowe, które stanowią iloczyn liczby przyłączy doprowadzających ciepło do węzłów cieplnych w obiektach odbiorcy i stawki opłaty abonamentowej — pobierane w każdym miesiącu, w którym są wystawiane faktury, oraz następujące rodzaje opłat, które są ustalane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_30/ust_1/pkt_1",
+       "text": "przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_30/ust_1/pkt_1/lit_a",
+         "text": "roczną opłatę stałą za zamówioną moc cieplną — stanowiącą iloczyn mocy cieplnej zamówionej przez odbiorcę i ceny za zamówioną moc cieplną; opłata ta jest pobierana w 12 ratach miesięcznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_30/ust_1/pkt_1/lit_b",
+         "text": "opłatę za dostarczone ciepło — stanowiącą iloczyn ilości ciepła dostarczonego do węzłów cieplnych zasilających budynki eksploatowane przez odbiorcę, ustaloną na podstawie odczytów wskazań układów pomiarowo-rozliczeniowych zainstalowanych w tych węzłach, i ceny ciepła; opłata ta jest pobierana w każdym miesiącu, w którym dostarczono ciepło,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_30/ust_1/pkt_2",
+       "text": "przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_30/ust_1/pkt_2/lit_a",
+         "text": "opłatę za nośnik ciepła — stanowiącą iloczyn ilości tego nośnika, dostarczonego w celu napełniania i uzupełniania ubytków nośnika ciepła w obiektach odbiorcy, ustalonej na podstawie wskazań ciepłomierza zainstalowanego w miejscu określonym w umowie o świadczenie usług",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "przesyłowych i ceny nośnika ciepła ustalonej przez przedsiębiorstwo prowadzące działalność gospodarczą w zakresie wytwarzania, przetwarzania i magazynowania ciepła; opłata ta jest pobierana w każdym miesiącu, w którym dostarczono nośnik ciepła,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_30/ust_1/pkt_2/lit_b",
+         "text": "opłatę za usługi przesyłowe — stanowiącą iloczyn mocy cieplnej zamówionej przez odbiorcę w roku obrotowym i stawki opłaty za usługi przesyłowe dla danej grupy odbiorców; opłata ta jest pobierana w 12 ratach miesięcznych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_30/ust_1/pkt_3",
+       "text": "w taryfie przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła, zgodnie z zasadami określonymi w rozdziale 2 rozporządzenia, jeżeli umowa o świadczenie usług przesyłowych nie stanowi inaczej, a w szczególności opłaty za:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_30/ust_1/pkt_3/lit_a",
+         "text": "dodatkowo zlecone przez odbiorcę przerwanie i wznowienie dostarczania ciepła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_30/ust_1/pkt_3/lit_b",
+         "text": "dodatkowo zlecone przez odbiorcę sprawdzenie prawidłowości wskazań układu pomiarowo-rozliczeniowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_30/ust_1/pkt_3/lit_c",
+         "text": "usługi pogotowia technicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_30/ust_1/pkt_3/lit_d",
+         "text": "inne usługi lub czynności wykonywane na zlecenie przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie obrotu ciepłem.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Jednostkowe koszty, o których mowa w § 12 ust. 1, stanowiące podstawę do ustalenia opłat abonamentowych, o których mowa w ust. 1, oblicza się jako iloraz uzasadnionych kosztów w zakresie dokonywania odczytów wskazań układów pomiarowo-rozliczeniowych i wodomierzy w węzłach cieplnych, wykonywania obliczeń należności i wystawiania faktur oraz kosztów związanych z egzekwowaniem należności od odbiorców i liczby przyłączy do obiektów należących do odbiorców, w których imieniu przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie obrotu ciepłem zawarto umowy sprzedaży ciepła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Przedsiębiorstwo energetyczne, prowadzące rozliczenia w obrocie ciepłem, wyodrębnia w fakturze wystawianej odbiorcy opłaty, obliczone na podstawie cen lub stawek opłat ustalonych przez to przedsiębiorstwo, i opłaty ustalone przez inne przedsiębiorstwa energetyczne, z którymi prowadzi rozliczenia w obrocie ciepłem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "W przypadku niedotrzymania przez strony warunków umowy sprzedaży ciepła, wysokość opłat ustala się według zasad określonych w rozporządzeniu, jeżeli umowa sprzedaży ciepła nie stanowi inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "W przypadku niedotrzymania przez sprzedawcę standardów jakościowych obsługi odbiorców lub niedotrzymania warunków umowy przez odbiorcę, rozliczanego w systemie opomiarowanym, wysokość opłat ustala się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_2/pkt_1",
+       "text": "jeżeli sprzedawca:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_32/ust_2/pkt_1/lit_a",
+         "text": "zwiększył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się obliczeniowe natężenie przepływu nośnika ciepła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_32/ust_2/pkt_1/lit_b",
+         "text": "zmniejszył obliczeniowe natężenie przepływu nośnika ciepta i przekroczył jego dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się zmniejszone natężenie przepływu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_32/ust_2/pkt_1/lit_c",
+         "text": "podniósł temperaturę dostarczanego nośnika ciepła i przekroczył jej dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za ilość dostarczonego ciepta przyjmuje się temperaturę nośnika ciepła, która jest zgodna z warunkami umowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_32/ust_2/pkt_1/lit_d",
+         "text": "obniżył temperaturę dostarczanego nośnika ciepta i przekroczył jej dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za ilość dostarczonego ciepta przyjmuje się obniżoną temperaturę nośnika ciepła,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_2/pkt_2",
+       "text": "jeżeli odbiorca:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_32/ust_2/pkt_2/lit_a",
+         "text": "zwiększył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za ilość dostarczonego ciepła i zamówioną moc cieplną przyjmuje się zwiększone natężenie przepływu nośnika ciepią,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_32/ust_2/pkt_2/lit_b",
+         "text": "zmniejszył obliczeniowe natężenie przepływu nośnika ciepła i przekroczył jego dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za: — ilość dostarczonego ciepła — przyjmuje się zmniejszone natężenie przepływu nośnika ciepła, — zamówioną moc cieplną — przyjmuje się obliczeniowe natężenie przepływu nośnika ciepła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_32/ust_2/pkt_2/lit_c",
+         "text": "podniósł temperaturę zwracanego nośnika ciepła i przekroczył jej dopuszczalne odchylenie bez zmiany postanowień umowy, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się temperaturę nośnika ciepła, która jest zgodna z warunkami umowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_32/ust_2/pkt_2/lit_d",
+         "text": "obniżył temperaturę zwracanego nośnika ciepła, do obliczenia wysokości opłat za ilość dostarczonego ciepła przyjmuje się: — temperaturę nośnika ciepła, zgodną z warunkami umowy — w przypadku gdy wytwarzanie ciepta jest skojarzone z wytwarzaniem energii elektrycznej, — obniżoną temperaturę nośnika ciepła — w pozostałych przypadkach.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Sprawdzenie dotrzymywania przez sprzedawcę standardów jakościowych obsługi odbiorców i dotrzymywania przez odbiorcę warunków umowy jest dokonywane na podstawie średniego natężenia przepływu i temperatury nośnika ciepła:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_3/pkt_1",
+       "text": "w okresie doby — gdy nośnikiem ciepła jest woda,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_3/pkt_2",
+       "text": "wciągu godziny — gdy nośnikiem ciepła jest para.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Średnie natężenie przepływu i temperatury nośnika ciepta, o których mowa w ust. 3, stanowią podstawę do ustalania wysokości opłat, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "W przypadku uszkodzenia lub stwierdzenia nieprawidłowych wskazań układu pomiarowo-rozliczeniowego, wysokość opłat, w okresie braku prawidłowego pomiaru ilości dostarczonego ciepła, ustala się według zasad określonych w rozporządzeniu, jeżeli umowa sprzedaży ciepła nie stanowi inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "W przypadku uszkodzenia układu pomiarowo- -rozliczeniowego, o którym mowa w ust. 1, ilość ciepta dostarczonego w okresie braku prawidłowego pomiaru ilości dostarczonego ciepła oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oy, = [O (t, - ty) : (ty — to) + OJ x hy oh OW w o"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Q, — ilość ciepła dostarczonego w okresie braku prawidłowego pomiaru [w GJ lub w MWh], Q,„ — ilość ciepta dostarczonego w zależności od warunków atmosferycznych na ogrzewanie i wentylację, w okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w GJ lub w MWh],"
+      },
+      {
+       "type": "text",
+       "text": "wt — ilość ciepta dostarczonego niezależnie od wa-"
+      },
+      {
+       "type": "text",
+       "text": "Q c runków atmosferycznych na podgrzewanie wody wodociągowej lub na cele technologiczne w okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w GJ lub w MWh],"
+      },
+      {
+       "type": "text",
+       "text": "ty — temperaturę obliczeniową ogrzewanych pomieszczeń [w °C],"
+      },
+      {
+       "type": "text",
+       "text": "t, — średnią temperaturę zewnętrzną w okresie braku prawidłowego pomiaru ilości dostarczonego ciepła [w °C], t, — średnią temperaturę zewnętrzną w okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego [w °C], h, — liczbę dni braku prawidłowego pomiaru ilości dostarczonego ciepła, h, — liczbę dni w okresie rozliczeniowym przed uszkodzeniem układu pomiarowo-rozliczeniowego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "W przypadku stwierdzenia nieprawidłowych wskazań układu pomiarowo-rozliczeniowego, o którym mowa w ust. 1, wprowadza się uzgodnioną przez strony korektę odczytów wskazań tego układu, a jeżeli ustalenie takiej korekty nie jest możliwe, ilość ciepła dostarczonego w okresie nieprawidłowych wskazań układu pomiarowo-rozliczeniowego oblicza się w sposób określony w ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Jeżeli nie można ustalić liczby dni w okresie braku prawidłowego pomiaru ilości dostarczonego ciepła, ilość dostarczonego ciepła oblicza się począwszy od dnia rozpoczęcia okresu rozliczeniowego do dnia usunięcia stwierdzonych nieprawidłowości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_33/ust_5",
+     "text": "Odbiorca ma prawo żądać od sprzedawcy sprawdzenia prawidłowości wskazań układu pomiarowo- -rozliczeniowego, o którym mowa w ust. 1, a w przypadku stwierdzenia uszkodzenia tego układu lub założonych na nim plomb bądź wadliwego działania obowiązany jest niezwłocznie zawiadomić o tym sprzedawcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_33/ust_6",
+     "text": "Żądanie lub zawiadomienie, o którym mowa w ust. 5, nie zwalnia odbiorcy od obowiązku regulowania bieżących należności za usługi związane z zaopatrzeniem w ciepło.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_33/ust_7",
+     "text": "Sprzedawca jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_33/ust_7/pkt_1",
+       "text": "sprawdzić, w okresie 3 dni od dnia zgłoszenia przez odbiorcę, prawidłowość wskazań układu pomiarowo-rozliczeniowego w miejscu jego zainstalowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_33/ust_7/pkt_2",
+       "text": "wymontować, w razie potrzeby lub na żądanie odbiorcy, zakwestionowany układ pomiarowo-rozliczeniowy i sprawdzić go w laboratorium,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_33/ust_7/pkt_3",
+       "text": "doręczyć odbiorcy protokół sprawdzenia układu pomiarowo-rozliczeniowego — w terminie 14 dni od dnia sprawdzenia prawidłowości jego działania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_33/ust_7/pkt_4",
+       "text": "dokonać stosownej korekty obliczenia należności — w terminie 14 dni od dnia doręczenia protokołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_33/ust_8",
+     "text": "Odbiorca pokrywa koszty sprawdzenia układu pomiarowo-rozliczeniowego, w przypadku gdy sprawdzenie to wykonano na żądanie odbiorcy i nie stwierdzono błędu wskazań większego od określonego przepisami dla danej klasy dokładności ani innych wad powodujących nieprawidłowe działanie tego układu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "W przypadku niedotrzymania przez sprzedawcę warunków umowy w zakresie terminów rozpoczęcia i zakończenia dostarczania ciepła w celu ogrzewania i planowych przerw w dostarczaniu ciepła w okresie letnim, odbiorcy przysługują bonifikaty, których wysokość, jeżeli umowa sprzedaży ciepła nie stanowi inaczej, ustala się według następujących zasad:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_34/pkt_1",
+     "text": "jeżeli rozpoczęcie lub zakończenie dostarczania ciepła w celu ogrzewania nastąpiło z opóźnieniem w stosunku do ustalonych standardów jakościowych obsługi odbiorców, bonifikata stanowi 1/30 miesięcznej opłaty za zamówioną moc cieplną dla obiektów, w których nastąpiło opóźnienie — za każdą rozpoczętą dobę opóźnienia,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2)jeżeli planowa przerwa w dostarczaniu ciepła w okresie letnim byta dłuższa od ustalonych standardów jakościowych obsługi odbiorców, bonifikata stanowi 1/30 miesięcznej opłaty za zamówioną moc cieplną dla obiektów, w których nastąpiło przedłużenie przerwy w dostarczaniu ciepła — za każdą rozpoczętą dobę przedłużenia tej przerwy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Jeżeli sprzedawca dotrzymuje określonych w odrębnych przepisach standardów jakościowych obsługi odbiorców, moc cieplna dostarczona odbiorcy",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nie może być niższa niż wynika to z dopuszczalnych odchyleń obliczeniowego natężenia przepływu i temperatury nośnika ciepła dostarczanego ze źródła ciepta do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego oraz temperatury nośnika ciepła zwracanego z węzła cieplnego do sieci ciepłowniczej lub z sieci ciepłowniczej do źródła ciepła."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Jeżeli umowa sprzedaży ciepta nie stanowi inaczej, za dopuszczalne ograniczenie w dostarczaniu ciepta uznaje się ograniczenie mocy cieplnej, wynoszące w warunkach obliczeniowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_2/pkt_1",
+       "text": "przy dostarczaniu ciepta do sieci ciepłowniczej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_35/ust_2/pkt_1/lit_a",
+         "text": "do 7% — gdy nośnikiem ciepła jest gorąca woda,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_35/ust_2/pkt_1/lit_b",
+         "text": "do 10% — gdy nośnikiem ciepła jest para,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_2/pkt_2",
+       "text": "przy dostarczaniu ciepta do węzła cieplnego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_35/ust_2/pkt_2/lit_a",
+         "text": "do 10% — gdy nośnikiem ciepła jest gorąca woda,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_35/ust_2/pkt_2/lit_b",
+         "text": "do 17% — gdy nośnikiem ciepła jest para.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "W przypadku gdy niedotrzymanie warunków umowy przez jedną ze stron powoduje powstanie strat lub wzrost kosztów ponoszonych przez drugą stronę, stosuje się odpowiednio upust ustalony według zasad określonych w ust. 4 albo w ust. 5, jeżeli umowa sprzedaży ciepła nie stanowi inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Jeżeli umowa sprzedaży ciepta nie stanowi inaczej, za ograniczenie w dostarczaniu ciepła uznaje się ograniczenie mocy cieplnej wynoszące do 40%, a upust, o którym mowa w ust. 3, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_4/pkt_1",
+       "text": "przy rozliczeniach według cen za zamówioną moc cieplną i cen ciepła:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Sy = Sum * Św Sum = 0,25 [N, (T,-T ithe = Tyg? + None Ngl X Cong x hp : 365 S,, = 0,4 x Q, x Cog Q, = 3,6 [IN(T, -T,) : (T HI ) + New — Na] X 24 x h, zo po"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_4/pkt_2",
+       "text": "przy rozliczeniach według cen ciepta:",
+       "children": [
+        {
+         "type": "text",
+         "text": "S, = 0,34xQ,xC,"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: Su — łączny upust za ograniczenia w dostarczaniu ciepła, Sim — Upust za nie dostarczoną moc cieplną, S,. — Upust za nie dostarczone ciepło, N, — moc cieplną zamówioną przez odbiorcę na ogrzewanie, wentylację, w zależności od warunków atmosferycznych [w MW], Nias — MOG cieplną zamówioną przez odbiorcę na podgrzewanie wody wodociągowej lub cele technologiczne, niezależnie od warunków atmosferycznych [w MW], Ng —— moc cieplną dostarczoną odbiorcy w okresie ograniczeń w dostarczaniu ciepła [w MW],"
+        },
+        {
+         "type": "text",
+         "text": "T, —§$rednia temperaturę wody dostarczanej ze źródła ciepła do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego w okresie miesiąca lub w innym okresie rozliczeniowym [w °C],"
+        },
+        {
+         "type": "text",
+         "text": "T — średnią temperaturę wody zwracanej z węzła cieplnego do sieci ciepłowniczej lub z sieci ciepłowniczej do źródła ciepta w okresie miesiąca lub w innym okresie rozliczeniowym [w *C],"
+        },
+        {
+         "type": "text",
+         "text": "T — temperaturę wody dostarczanej ze źródła ciepta do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego w warunkach obliczeniowych [w °C],"
+        },
+        {
+         "type": "text",
+         "text": "T — temperaturę wody zwracanej z węzła cieplnego do sieci ciepłowniczej lub z sieci ciepłowniczej do źródła ciepła w warunkach obliczeniowych [w °C],"
+        },
+        {
+         "type": "text",
+         "text": "h — liczbę dni, w których wystąpiły ograniczenia w dostarczaniu ciepła,"
+        },
+        {
+         "type": "text",
+         "text": "Q, — ilość ciepła nie dostarczoną odbiorcy z powodu ograniczeń w dostarczaniu ciepta [w GJ lub w MWh],"
+        },
+        {
+         "type": "text",
+         "text": "— cenę za moc cieplną zamówioną przez daną c cn grupę odbiorców [w zł/MWI], on — cenę ciepła przy rozliczeniach według cen za zamówioną moc cieplną i cen ciepta — dla danej grupy odbiorców [w zł/GJ lub w zł/MWhl,"
+        },
+        {
+         "type": "text",
+         "text": "C, —cenę ciepta przy rozliczeniach według cen ciepta — dla danej grupy odbiorców [w zł/GJ lub w zt/MWhl."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_35/ust_5",
+     "text": "Jeżeli umowa sprzedaży ciepła nie stanowi inaczej, za przerwę w dostarczaniu ciepła uznaje się ograniczenie mocy cieplnej wynoszące ponad 40%, a upust, o którym mowa w ust. 3, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_5/pkt_1",
+       "text": "przy rozliczeniach według cen za zamówioną moc cieplną i cen ciepła:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Sy = Sum + Due Sum = 9,5 IN, (T-T,) (ha Tet + Naga Nal X Cong x hp : 365 Suc = 0,8 X A, X Co, Q, = 3,6 IN,(T, — T,) : (Tzą — Tpo) + Nowe 7 Nal X 24 xh, zo"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_5/pkt_2",
+       "text": "przy rozliczeniach według cen ciepła:",
+       "children": [
+        {
+         "type": "text",
+         "text": "S, = 0,68 x Q, x C,"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: Sy — łączny upust za ograniczenia w dostarczaniu ciepła, Sim — Upust za nie dostarczoną moc cieplną, Suc — Upust za nie dostarczone ciepło, N, — moc cieplną zamówioną przez odbiorcę na ogrzewanie, wentylację, w zależności od warunków atmosferycznych [w MW],"
+        },
+        {
+         "type": "text",
+         "text": "Nowt — Moc cieplną zamówioną przez odbiorcę na podgrzewanie wody wodociągowej lub cele"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "technologiczne, niezależnie od warunków atmosferycznych [w MW], Ny —— moc cieplną dostarczoną odbiorcy w okresie ograniczeń w dostarczaniu ciepła [w MW], UP — średnią temperaturę wody dostarczanej ze źródła ciepła do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego w okresie miesiąca lub w innym okresie rozliczeniowym [w °C], Ti — średnią temperaturę wody zwracanej z węzła cieplnego do sieci ciepłowniczej lub z sieci ciepłowniczej do źródła ciepła w okresie miesiąca lub w innym okresie rozliczeniowym [w °C], i, — temperaturę wody dostarczanej ze źródła ciepta do sieci ciepłowniczej lub z sieci ciepłowniczej do węzła cieplnego w warunkach obliczeniowych [w °C], T — temperaturę wody zwracanej z węzła cieplnes go do sieci ciepłowniczej lub z sieci ciepłowniczej do źródła ciepta w warunkach obliczeniowych [w °C], hp — liczbę dni, w których wystąpiły ograniczenia w dostarczaniu ciepła, Q, — ilość ciepła nie dostarczoną odbiorcy z powodu ograniczeń w dostarczaniu ciepta [w GJ lub w MWh], — — cenę za moc cieplną zamówioną przez daną grupę odbiorców [w zł/MW!], Ce — cenę ciepła przy rozliczeniach według cen za zamówioną moc cieplną i cen ciepta — dla danej grupy odbiorców [w zł/GJ lub w zt/MWh], C, — cenę ciepła przy rozliczeniach według cen ciepła — dla danej grupy odbiorców [w zł/GJ lub w zł/MWh]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_35/ust_6",
+     "text": "Jeżeli umowa sprzedaży ciepła nie stanowi inaczej, a odbiorca nie dotrzymał warunków umowy, a u sprzedawcy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_6/pkt_1",
+       "text": "nastąpiły zakłócenia w pracy źródła ciepła lub sieci ciepłowniczej albo zakłócenia w dostarczaniu ciepta innym odbiorcom — odbiorca jest obowiązany zapłacić sprzedawcy opłatę dodatkową, w wysokości stanowiącej równowartość 1/180 rocznej opłaty za zamówioną moccieplną za każdą rozpoczętą dobę, w której wystąpiły zakłócenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_6/pkt_2",
+       "text": "nastąpiło zmniejszenie produkcji energii elektrycznej przy jej skojarzonym wytwarzaniu wraz z ciepłem — odbiorca jest obowiązany zapłacić sprzedawcy opłatę dodatkową, w wysokości stanowiącej równowartość 1/180 rocznej opłaty za zamówioną moc cieplną za każdą rozpoczętą dobę, w której wystąpiły zakłócenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_35/ust_7",
+     "text": "Wystąpienie przerw lub ograniczeń w dostarczaniu ciepła, o których mowa w ust. 4 i 5, oraz zakłóceń lub zmniejszenia produkcji energii elektrycznej, o których mowa w ust. 6, wymaga potwierdzenia protokołem podpisanym przez sprzedawcę i odbiorcę lub ich upoważnionych przedstawicieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_35/ust_8",
+     "text": "W przypadku niestawienia się przedstawiciela jednej ze stron w uzgodnionym miejscu i czasie w celu sporządzenia protokołu, o którym mowa w ust. 7, protokół może być sporządzony przez jedną ze stron. Protokół stanowi podstawę do prowadzenia postępowania i dochodzenia upustów oraz innych roszczeń, o których mowa w ust. 4—6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "W przypadku nielegalnego pobierania ciepła przez odbiorcę, sprzedawca może pobierać podwyższone opłaty w wysokości dwukrotnych cen i stawek opłat, określonych w taryfie dla danej grupy odbiorców, jeżeli umowa sprzedaży ciepta nie stanowi inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Podwyższone opłaty, o których mowa w ust. 1, oblicza się dla całego nie objętego przedawnieniem okresu udowodnionego nielegalnego pobierania ciepta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "W przypadku gdy ciepło pobierane jest bez zawarcia umowy sprzedaży ciepła, sprzedawca obciąża pobierającego opłatami za nielegalny pobór mocy i ciepła w wysokości pięciokrotnych cen i stawek opłat, określonych w taryfie dla odbiorców o podobnym charakterze zapotrzebowania na ciepło.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Opłaty, o których mowa w ust. 1, oblicza się dla całego nie objętego przedawnieniem okresu udowodnionego pobierania ciepła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Zasady rozliczeń z indywidualnymi odbiorcami w lokalach"
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Koszty zakupu ciepła dostarczonego do budynku lub wytworzenia ciepła w kotłowni lokalnej znajdującej się w budynku pokrywane są przez indywidualnych odbiorców w lokalach znajdujących się w tym budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Zarządzający budynkiem ustala ceny i stawki opłat oraz pobiera opłaty za ogrzewanie i podgrzewanie wody użytkowej, wynikające z kosztów, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Rozliczenia z indywidualnymi odbiorcami w lokalach za ciepło dostarczone na ogrzewanie i na podgrzewanie wody wodociągowej prowadzi się w systemie opomiarowanym, jeżeli w budynku są zainstalowane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_39/ust_1/pkt_1",
+       "text": "w przypadku zakupu ciepta dostarczanego z sieci ciepłowniczej — urządzenia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_39/ust_1/pkt_1/lit_a",
+         "text": "umożliwiające określenie ilości ciepła dostarczonego do instalacji centralnego ogrzewania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_39/ust_1/pkt_1/lit_b",
+         "text": "niezbędne do indywiduainego rozliczania kosztów ogrzewania poszczególnych lokali,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_39/ust_1/pkt_1/lit_c",
+         "text": "do pomiaru ilości podgrzanej wody wodociągowej, która została zużyta w poszczególnych lokalach lub punktach czerpalnych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_39/ust_1/pkt_2",
+       "text": "w przypadku wytwarzania ciepła w kotłowni lokalnej znajdującej się w budynku — urządzenia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_39/ust_1/pkt_2/lit_a",
+         "text": "niezbędne do indywidualnego rozliczania kosztów ogrzewania poszczególnych lokali,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_39/ust_1/pkt_2/lit_b",
+         "text": "do pomiaru ilości podgrzanej wody wodociągowej, która została zużyta w poszczególnych lokalach lub punktach czerpalnych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "W przypadku wyposażenia budynku w urządzenia umożliwiające indywidualne rozliczanie kosztów ogrzewania, o których mowa w ust. 1 pkt 1 lit. a) i b), lub urządzenia umożliwiające indywidualne rozliczanie kosztów podgrzewania wody wodociągowej, o których mowa w ust. 1 pkt 1 lit. c), opomiarowany system rozliczeń stosuje się w takim zakresie, na jaki pozwalają zainstalowane urządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Rozliczenia, o których mowa w § 39, prowadzi się z zastosowaniem:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_40/ust_1/pkt_1",
+       "text": "w budynkach wyposażonych w instalacje centralnego ogrzewania i ciepłej wody użytkowej — opłat obejmujących:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_40/ust_1/pkt_1/lit_a",
+         "text": "łączną opłatę stata za ciepło dostarczone na ogrzewanie i na podgrzewanie wody wodociągowej — pobieraną przez 12 miesięcy w roku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_40/ust_1/pkt_1/lit_b",
+         "text": "opłatę zmienną za ciepło dostarczone na ogrzewanie — pobieraną w okresie ogrzewania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_40/ust_1/pkt_1/lit_c",
+         "text": "opłatę zmienną za ciepło dostarczone na podgrzewanie wody wodociągowej — pobieraną w okresie poboru ciepłej wody użytkowej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_40/ust_1/pkt_2",
+       "text": "w budynkach wyposażonych w instalacje centralnego ogrzewania — opłat obejmujących:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_40/ust_1/pkt_2/lit_a",
+         "text": "opłatę stałą za ciepło dostarczone na ogrzewanie — pobieraną przez 12 miesięcy w roku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_40/ust_1/pkt_2/lit_b",
+         "text": "opłatę zmienną za ciepło dostarczone na ogrzewanie — pobieraną w okresie ogrzewania.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "W przypadku zakupu ciepła dostarczanego z sieci ciepłowniczej udział opłat zmiennych w łącznych opłatach za ciepło dostarczone na ogrzewanie lub za ciepło dostarczone na ogrzewanie i podgrzewanie wody wodociągowej, o których mowa w ust. 1, ponoszonych w roku obrotowym, ustala się w sposób zapewniający pokrycie kosztów dostarczania ciepła do obiektu w kolejnych miesiącach roku obrotowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_40/ust_3",
+     "text": "W przypadku wytwarzania ciepta w kotłowni lokalnej znajdującej się w budynku udział opłat zmiennych w łącznych opłatach za ciepło dostarczone na ogrzewanie lub za ciepło dostarczone na ogrzewanie i podgrzewanie wody wodociągowej, o których mowa w ust. 1, ponoszonych w roku obrotowym, ustala się w sposób:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_40/ust_3/pkt_1",
+       "text": "zapewniający pokrycie kosztów wytwarzania ciepła w kotłowni lokalnej, w kolejnych miesiącach roku obrotowego,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2"
+        },
+        {
+         "type": "text",
+         "text": "— stwarzający zachętę ekonomiczną dla indywidualnych odbiorców w lokalach do oszczędnego użytkowania ciepła wytwarzanego w kotłowni lokalnej; udział opłat zmiennych w łącznych opłatach, o których mowa w ust. 1, ponoszonych w roku obrotowym, powinien być nie niższy niż 50% i nie wyższy niż 70%."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_40/ust_4",
+     "text": "Podstawę ustalania opłat za ciepło dostarczone na ogrzewanie i za ciepło dostarczone na podgrzewanie wody wodociągowej stanowi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_40/ust_4/pkt_1",
+       "text": "dla opłat, o których mowa w ust. 1 pkt 1 lit. a) i pkt 2 lit. a) — powierzchnia lokalu, dla której jest ustalana opłata za użytkowanie tego lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_40/ust_4/pkt_2",
+       "text": "dla opłat, o których mowa w ust. 1 pkt 1 lit. b) i pkt 2 lit. b):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_40/ust_4/pkt_2/lit_a",
+         "text": "wskazania ciepłomierza zainstalowanego na odgałęzieniu instalacji centralnego ogrzewania do poszczególnych lokali,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_40/ust_4/pkt_2/lit_b",
+         "text": "wskazania przepływomierza zainstalowanego na odgałęzieniu instalacji ogrzewania do poszczególnych lokali,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_40/ust_4/pkt_2/lit_c",
+         "text": "wskazania podzielników kosztów zainstalowanych na grzejnikach w poszczególnych lokalach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_40/ust_4/pkt_2/lit_d",
+         "text": "wskazania innych urządzeń dopuszczonych do stosowania przez upoważnione do tego jednostki,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_40/ust_4/pkt_3",
+       "text": "dla opłat, o których mowa w ust. 1 pkt 1 lit. c):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_40/ust_4/pkt_3/lit_a",
+         "text": "wskazania przepływomierza zainstalowanego na odgałęzieniu instalacji ciepłej wody użytkowej do poszczególnych lokali, mierzącego ilość podgrzanej wody wodociągowej zużytej w tym lokalu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_40/ust_4/pkt_3/lit_b",
+         "text": "wskazania przepływomierzy zainstalowanych w punktach poboru ciepłej wody użytkowej w poszczególnych lokalach, mierzących ilość podgrzanej wody wodociągowej zużytej w tych lokalach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_40/ust_4/pkt_3/lit_c",
+         "text": "wskazania innych urządzeń dopuszczonych do stosowania przez upoważnione do tego jednostki, mierzących ilość podgrzanej wody wodociągowej zużytej w poszczególnych lokalach,",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_40/ust_5",
+     "text": "Odczyty wskazań urządzeń, o których mowa w ust. 4 pkt 2 i 3, przeprowadza się raz w roku, po zakończeniu sezonu grzewczego, w terminach określonych przez zarządzającego budynkiem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_40/ust_6",
+     "text": "Odczyty wskazań urządzeń, o których mowa w ust. 4 pkt 3, stanowią podstawę do ustalania opłaty za podgrzaną wodę wodociągową, jeżeli opłaty tej nie pobrano przy rozliczeniach za zimną wodę wodociągową dostarczoną do budynku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Wysokość opłat, o których mowa w § 40 ust. 1, ustala się wediug następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_1/pkt_1",
+       "text": "opłatę stałą za ciepło dostarczone na ogrzewanie i za ciepło dostarczone na podgrzewanie wody wodociągowej ustala się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "O, FP (Or, * Osy] X Pza : Pe"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają:"
+        },
+        {
+         "type": "text",
+         "text": "O, — miesięczną opłatę stałą dla danego lokalu za ciepło dostarczone na ogrzewanie i za ciepło dostarczone na podgrzewanie wody wodociągowej, 0,9 — w przypadku: — zakupu ciepta — sumę opłat, o których mowa w § 20 ust. 1 pkt 1 oraz pkt 3—9, poniesionych w danym miesiącu przez zarządzającego budynkiem z tytułu dostarczania ciepła do instalacji centralnego ogrzewania w tym budynku,"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= WBJ —"
+        },
+        {
+         "type": "text",
+         "text": "— wytwarzania ciepta w lokalnej kotłowni, zło- G,, — sumę odczytów wskazań przepływomierzy zakalizowanej w budynku — koszty state, niezależne od ilości dostarczonego ciepta, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepła, dostarczonego do instalacji centralnego ogrzewania w tym budynku, O,„— w przypadku: — zakupu ciepła — sumę opłat, o których mowa w § 20 ust. 1 pkt 1 oraz pkt 3—9, poniesionych w danym miesiącu przez zarządzającego budynkiem z tytułu podgrzewania wody wodociągowej w tym budynku,"
+        },
+        {
+         "type": "text",
+         "text": "— wytwarzania ciepła w lokalnej kotłowni, zlokalizowanej w budynku — koszty stałe, niezależne od ilości dostarczonego ciepła, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu podgrzewania wody wodociągowej w tym budynku, P,, — powierzchnię lokalu, dla którego ustalana jest miesięczna opłata stała za ciepło dostarczone na ogrzewanie i podgrzewanie wody wodociągowej [w m?], P,. — sumę powierzchni wszystkich lokali w obiekcie, dla których ustalane są miesięczne opłaty state za ogrzewanie i za podgrzewanie wody wodociągowej [w m?],"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_1/pkt_2",
+       "text": "opłaty zmienne za ogrzewanie ustala się według wzoru:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_41/ust_1/pkt_2/lit_a",
+         "text": "gdy indywidualnego rozliczenia dokonuje się na podstawie odczytów wskazań ciepłomierzy lub przepływomierzy zainstalowanych na odgałęzieniach instalacji centralnego ogrzewania do poszczególnych lokali:",
+         "children": [
+          {
+           "type": "text",
+           "text": "Oou = Oo, X Q, : Q,, lub O, = O,, x G,: G"
+          },
+          {
+           "type": "text",
+           "text": "gdzie poszczególne symbole oznaczają: O,u — miesięczną opłatę zmienną dla danego lokalu za ciepło dostarczone na ogrzewanie, O,, —w przypadku: — zakupu ciepła — opłatę poniesioną w danym miesiącu przez zarządzającego budynkiem, obliczoną jako iloczyn ceny ciepła dla danej grupy odbiorców i ilości ciepła dostarczonego do instalacji centralnego ogrzewania w tym budynku,"
+          },
+          {
+           "type": "text",
+           "text": "— wytwarzania ciepła w lokalnej kotłowni zlokalizowanej w budynku — koszty zmienne, zależne od ilości dostarczonego ciepła, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepta, dostarczonego do instalacji centralnego ogrzewania w tym budynku,"
+          },
+          {
+           "type": "text",
+           "text": "— odczyt wskazań ciepłomierza zainstalowanego na odgałęzieniu instalacji centralnego ogrzewania do danego lokalu [w GJ lub w kWh],"
+          },
+          {
+           "type": "text",
+           "text": "— odczyt wskazań przepływomierza zainstalowanego na odgałęzieniu instalacji centralnego ogrzewania do danego lokalu [w m?],"
+          },
+          {
+           "type": "text",
+           "text": "— sumę odczytów wskazań ciepłomierzy zainstalowanych na odgałęzieniach instalacji centralnego ogrzewania do wszystkich lokali w danym budynku [w GJ lub w kWh],"
+          },
+          {
+           "type": "text",
+           "text": "00 instalowanych na odgałęzieniach instalacji centralnego ogrzewania do wszystkich lokali w danym budynku [w m3],"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_41/ust_1/pkt_2/lit_b",
+         "text": "gdy indywidualnego rozliczenia dokonuje się na podstawie odczytów wskazań podzielników kosztów, zainstalowanych na grzejnikach w poszczególnych lokalach:",
+         "children": [
+          {
+           "type": "text",
+           "text": "Ga = O., A li : loa"
+          },
+          {
+           "type": "text",
+           "text": "gdzie poszczególne symbole oznaczają:"
+          },
+          {
+           "type": "text",
+           "text": "|, — sumę odczytów wskazań podzielników kosztów zainstalowanych na grzejnikach w danym lokalu [ilość podziałek lub odczyt cyfrowy],"
+          },
+          {
+           "type": "text",
+           "text": "l, ~~ sumę odczytów wskazań podzielników kosztów zainstalowanych na grzejnikach we wszystkich lokalach w danym obiekcie [ilość podziałek lub odczyt cyfrowy],"
+          },
+          {
+           "type": "text",
+           "text": "Ou — miesięczną opłatę zmienną dla danego lokalu za ciepło dostarczone na ogrzewanie,"
+          },
+          {
+           "type": "text",
+           "text": "O, — w przypadku: — zakupu ciepła — opłatę poniesioną w danym miesiącu przez zarządzającego budynkiem, obliczoną jako iloczyn ceny ciepta dla danej grupy odbiorców i ilości ciepta dostarczonego do instalacji centralnego ogrzewania w tym budynku,"
+          },
+          {
+           "type": "text",
+           "text": "— wytwarzania ciepła w lokalnej kotłowni zlokalizowanej w budynku — koszty zmienne, zależne od ilości dostarczonego ciepła, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepła, dostarczonego do instalacji centralnego ogrzewania w tym budynku,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_41/ust_1/pkt_2/lit_c",
+         "text": "gdy indywidualnego rozliczenia dokonuje się na podstawie odczytów wskazań innych urządzeń dopuszczonych do stosowania przez upoważnione do tego jednostki, miesięczną opłatę zmienną za ogrzewanie oblicza się dla danego lokalu według zasad, o których mowa w lit. a) i b),",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_41/ust_1/pkt_3",
+       "text": "opłaty zmienne za podgrzewanie wody wodociągowej ustala się według wzoru:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_41/ust_1/pkt_3/lit_a",
+         "text": "gdy indywidualnego rozliczenia dokonuje się na podstawie odczytów wskazań przepływomierzy zainstalowanych na odgałęzieniach instalacji ciepłej wody użytkowej do poszczególnych lokali:",
+         "children": [
+          {
+           "type": "text",
+           "text": "O niż = Ong a G, . Gaw"
+          },
+          {
+           "type": "text",
+           "text": "gdzie poszczególne symbole oznaczają: Oy — miesięczną opłatę zmienną dla danego lokalu za ciepło dostarczone na podgrzewanie wody wodociągowej,"
+          },
+          {
+           "type": "text",
+           "text": "O,, —w przypadku: — zakupu ciepła — opłatę za ciepło poniesioną w danym miesiącu przez zarządzającego budynkiem, obliczoną jako iloczyn ceny ciepta dla danej grupy odbiorców i ilości ciepła"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "dostarczonego w celu podgrzewania wody wodociągowej w tym budynku,"
+          },
+          {
+           "type": "text",
+           "text": "— wytwarzania ciepta w lokalnej kotłowni, zlokalizowanej w budynku — koszty zmienne, zależne od ilości dostarczonego ciepta, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepta dostarczonego w celu podgrzewania wody wodociągowej w tym budynku, — odczyt wskazań przepływomierza, zainstalowanego na odgałęzieniu instalacji ciepłej wody użytkowej w danym lokalu [w m°], G,„ — sumę odczytów wskazań przepływomierzy, zainstalowanych na odgałęzieniach instalacji ciepłej wody użytkowej we wszystkich lokalach w danym obiekcie [w m3],"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_41/ust_1/pkt_3/lit_b",
+         "text": "gdy indywidualnego rozliczenia dokonuje się na podstawie odczytów wskazań przepływomierzy, zainstalowanych w punktach poboru ciepłej wody użytkowej w poszczególnych lokalach:",
+         "children": [
+          {
+           "type": "text",
+           "text": "w = Oz X Gi : Go"
+          },
+          {
+           "type": "text",
+           "text": "gdzie poszczególne symbole oznaczają: Gpu — sumę odczytów wskazań przepływomierzy, za- * instalowanych w punktach poboru ciepłej wody użytkowej w danym lokalu [w m3], G,, — sumę odczytów wskazań przepływomierzy, zainstalowanych w punktach poboru ciepłej wody użytkowej we wszystkich lokalach w danym obiekcie [w m3],"
+          },
+          {
+           "type": "text",
+           "text": "O,„„ — miesięczną opłatę zmienną dla danego lokalu za ciepło dostarczone na podgrzewanie wody wodociągowej,"
+          },
+          {
+           "type": "text",
+           "text": "O,„ — w przypadku: — zakupu ciepła — opłatę za ciepło poniesioną w danym miesiącu przez zarządzającego budynkiem, obliczoną jako iloczyn ceny ciepła dla danej grupy odbiorców i ilości ciepła dostarczonego w celu podgrzewania wody wodociągowej w tym budynku,"
+          },
+          {
+           "type": "text",
+           "text": "— wytwarzania ciepta w lokalnej kotłowni, zlokalizowanej w budynku — koszty zmienne, zależne od ilości dostarczonego ciepła, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepta dostarczonego w celu podgrzewania wody wodociągowej w tym budynku,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_41/ust_1/pkt_3/lit_c",
+         "text": "gdy indywidualnego rozliczenia dokonuje się na podstawie odczytów wskazań innych urządzeń dopuszczonych do stosowania przez upoważnione do tego jednostki, miesięczną opłatę za ciepło dostarczone na podgrzewanie wody wodociągowej oblicza się dla danego lokalu według zasad, o których mowa w pkt 3 lit. a) i b).",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "W przypadku zmiany użytkownika lokalu w okresie między kolejnymi odczytami wskazań urządzeń, o których mowa w ust. 1 pkt 2 i 3 oraz w § 40 ust. 4 pkt 2 i 3, należy przeprowadzić dodatkowy odczyt w celu ustalenia wskazań tych urządzeń przed zmianą użytkownika lokalu. Na podstawie dodatkowego odczytu oblicza się wysokość opłaty, którą wnosi dotychczasowy użytkownik lokalu. Nowy użytkownik lokalu jest obowiązany uregulować opłatę obliczoną na podstawie następnego odczytu, dokonanego w planowanym terminie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "W przypadku grupowego węzła cieplnego, z którym połączone są instalacje odbiorcze w kilku budynkach, wysokość opłat, o których mowa w § 41 ust. 1, poniesionych w danym miesiącu przez zarządzającego budynkiem, niezależnych od ilości dostarczonego ciepła, i opłat za ciepło dostarczone do celów ogrzewania i podgrzewania wody wodociągowej zużytej w poszczególnych budynkach, ustala się według zasad określonych w § 21 ust. 1 i 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Rozliczenia z indywidualnymi odbiorcami w lokalach należy prowadzić w taki sposób, aby wysokość opłat dla poszczególnych lokali byta ustalana z uwzględnieniem różnic występujących w danym budynku w odniesieniu do wielkości strat ciepła wynikających z odmiennego usytuowania lokali w tym budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Jeżeli w obiekcie znajdują się lokale o zwiększonych stratach ciepta wynikających z ich usytuowania, w opomiarowanym systemie rozliczeń stosuje się odpowiednie współczynniki korygujące w taki sposób, aby wysokość opłat pobieranych od indywidualnych odbiorców w lokalach byta zależna od wysokości temperatury w pomieszczeniach, a nie od zwiększonych strat ciepła powstałych w wyniku przenikania ciepta przez przegrody budowlane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Współczynniki korygujące, o których mowa w ust. 2, ustala się na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_3/pkt_1",
+       "text": "aktualnie obowiązujących normatywów i zasad obliczania strat ciepła powstałych w wyniku przenikania ciepła przez przegrody budowlane,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_3/pkt_2",
+       "text": "wydajności grzejników zainstalowanych w poszczególnych lokalach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_3/pkt_3",
+       "text": "danych dotyczących rozliczeń z indywidualnymi odbiorcami w lokalach w poprzednich latach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Współczynników korygujących, o których mowa w ust. 2, można nie stosować w przypadku, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_4/pkt_1",
+       "text": "pobierane są odpowiednio niższe opłaty za użytkowanie lokali o zwiększonych stratach ciepta (opłaty czynszowe) lub gdy cena zakupu tych lokali została odpowiednio obniżona,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_4/pkt_2",
+       "text": "straty ciepta w obiekcie są bardzo niskie, co powoduje, że różnice w opłatach za ogrzewanie lokali szczytowych i narożnych oraz lokali położonych między innymi lokalami są tak nieznaczne, że nie mają one wpływu na opłaty ponoszone przez użytkowników tych lokali.",
+       "children": [
+        {
+         "type": "text",
+         "text": "8 44, 1. Jeżeli instalacje odbiorcze w budynku nie zostały wyposażone w urządzenia, o których mowa w § 39, rozliczenia z indywidualnymi odbiorcami w lokalach za ciepło dostarczone na ogrzewanie i podgrzewanie wody wodociągowej prowadzi się w systemie ryczałtowym."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Rozliczenia, o których mowa w ust. 1, prowadzi się stosując opłaty ryczałtowe za ciepło dostarczone na ogrzewanie i podgrzewanie wody wodociągowej; opłaty te są pobierane przez 12 miesięcy w roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Podstawę rozliczeń, o których mowa w ust. 2, stanowią:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_3/pkt_1",
+       "text": "dla ustalenia opłat ryczałtowych za ciepło dostarczone na ogrzewanie — powierzchnia lokalu, dla której jest ustalana opłata za użytkowanie lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_3/pkt_2",
+       "text": "dla ustalenia opłat ryczałtowych za ciepło dostarczone na podgrzewanie wody wodociągowej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_43/ust_3/pkt_2/lit_a",
+         "text": "powierzchnia lokalu, dla której jest ustalana opłata za użytkowanie lokalu, lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_43/ust_3/pkt_2/lit_b",
+         "text": "liczba osób zameldowanych na pobyt staty w lokalu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Wysokość opłat, o których mowa w ust. 2 i 3, ustala się według następujących zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_4/pkt_1",
+       "text": "opłatę ryczałtową za ogrzewanie ustala się według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "0g = On, BP, 3 P o"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: O,o — miesięczną opłatę ryczałtową za ciepło dostarczone na ogrzewanie, obliczaną dla danego lokalu, Opoc 77 W przypadku: — zakupu ciepła — łączne opłaty określone w § 20 ust. 1 poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu dostarczania ciepła do instalacji centralnego ogrzewania w tym budynku, — wytwarzania ciepła w lokalnej kotłowni zlokalizowanej w budynku — łączne koszty state i zmienne, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepta dostarczonego do instalacji centralnego ogrzewania w tym budynku, P, — powierzchnię lokalu, dla którego jest ustalana opłata ryczałtowa za ciepło dostarczone na ogrzewanie [w m2], P, — sumę powierzchni wszystkich lokali w budynku, dla której ustala się opłaty za ciepło dostarczone na ogrzewanie [w m?],"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_4/pkt_2",
+       "text": "opłata ryczattowa za podgrzewanie wody wodociągowej może być ustalana według wzoru:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Oy FOGG KP? Pg EB O, = Ogg X by EL o"
+        },
+        {
+         "type": "text",
+         "text": "gdzie poszczególne symbole oznaczają: Ow — miesięczną opłatę za ciepło dostarczone na podgrzewanie wody wodociągowej, obliczaną dla danego lokalu, Opwc 7 W przypadku: — zakupu ciepła — łączne opłaty określone w § 20 ust. 1, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu dostarczania ciepta w celu podgrzewania wody wodociągowej w tym budynku,"
+        },
+        {
+         "type": "text",
+         "text": "— wytwarzania ciepta w lokalnej kotłowni zlokalizowanej w budynku — łączne koszty state i zmienne, poniesione w danym miesiącu przez zarządzającego budynkiem z tytułu wytwarzania ciepła dostarczonego w celu podgrzewania wody wodociągowej w tym budynku,"
+        },
+        {
+         "type": "text",
+         "text": "L — liczbę osób zameldowanych na pobyt stały w danym lokalu,"
+        },
+        {
+         "type": "text",
+         "text": "L. — liczbę osób zameldowanych na pobyt stały we wszystkich lokalach w danym obiekcie,"
+        },
+        {
+         "type": "text",
+         "text": "P, — powierzchnię lokalu, dla którego jest ustalana opłata ryczattowa za ogrzewanie [w m?],"
+        },
+        {
+         "type": "text",
+         "text": "P, — sumę powierzchni wszystkich lokali w budynku, dla której ustala się opłaty za ciepło dostarczone na ogrzewanie [w m?]."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_45/ust_1",
+     "text": "W przypadku grupowego węzła cieplnego, z którym połączone są instalacje odbiorcze w kilku budynkach, wysokość poniesionych w danym miesiącu przez zarządzającego budynkiem łącznych opłat, o których mowa w § 44 ust. 4, za ciepło dostarczone do celów ogrzewania poszczególnych budynków i opłat za ciepło dostarczone do celów podgrzewania wody wodociągowej, zużytej w poszczególnych budynkach, ustala się według zasad określonych w § 21 ust. 1i2, z zastrzeżeniem ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_45/ust_2",
+     "text": "Roczną opłatę stata za zamówioną moc cieplną, obliczoną według zasad określonych w § 21 ust. 1 pkt 1, dzieli się na roczną opłatę stałą za zamówioną moc cieplną na cele ogrzewania i roczną opłatę stałą za zamówioną moc cieplną na cele podgrzewania wody.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_45/ust_3",
+     "text": "Podziału, o którym mowa w ust. 2, dokonuje się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "O_po = 0,7 O,, oraz O = 0,, 7 O nbcw nbo"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: O,, — roczną opłatę stałą za zamówioną moc cieplną dla danego budynku, Opo — roczną opłatę stata za zamówioną moc cieplną na cele ogrzewania, O pcw — roczna opłatę stałą za zamówioną moc cieplną na cele podgrzewania wody wodociągowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_46/ust_1",
+     "text": "Jeżeli eksploatacja węzła cieplnego i instalacji odbiorczych lub tylko węzła cieplnego jest prowadzona przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła, związane z tym koszty są uwzględniane w cenie za zamówioną moc cieplną i cenie ciepła lub stawce opłaty za usługi przesyłowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "W przypadku, o którym mowa w ust. 1, zarządzający budynkiem nie uwzględnia kosztów eksploatacji węzła cieplnego i instalacji odbiorczych w opłatach pobieranych za eksploatację tego budynku.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_46/ust_3",
+     "text": "Jeżeli eksploatacja węzła cieplnego i instalacji odbiorczych lub tylko instalacji odbiorczych jest prowadzona przez zarządzającego budynkiem, związane z tym koszty nie są uwzględniane przy ustalaniu opłat, o których mowa w § 41 i 44.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_46/ust_4",
+     "text": "W przypadku, o którym mowa w ust. 3, zarządzający budynkiem nie uwzględnia kosztów eksploatacji węzła cieplnego i instalacji odbiorczych w opłatach pobieranych od indywidualnych odbiorców w lokalach za ogrzewanie i podgrzewanie wody wodociągowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_46/ust_5",
+     "text": "Ponoszone przez zarządzającego budynkiem koszty eksploatacji węzła cieplnego i instalacji odbiorczych stanowią koszty eksploatacji obiektu, które są uwzględniane w opłatach za korzystanie z lokali znajdujących się w tym budynku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "W przypadku gdy lokal lub kilka lokali mieszkalnych, znajdujących się w obiekcie lub budynku niemieszkalnym, posiadają wydzielone instalacje centralnego ogrzewania i ciepłej wody użytkowej, rozliczenia za ogrzewanie i podgrzewanie wody wodociągowej z użytkownikami tych lokali prowadzi się w opomiarowanym systemie rozliczeń, o którym mowa w § 39—43.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Rozliczenia ryczałtowe z indywidualnymi odbiorcami w lokalach prowadzi się w taki sposób, aby wysokość opłat byta ustalana z uwzględnieniem różnic, jakie występują w danym budynku w odniesieniu do wielkości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_48/ust_1/pkt_1",
+       "text": "strat ciepta w lokalach, wynikających z odmiennego przeznaczenia lokali,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_48/ust_1/pkt_2",
+       "text": "zużycia podgrzanej wody wodociągowej w zależności od przeznaczenia lokali.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Do rozliczeń ryczałtowych należy stosować współczynniki korygujące, określone na podstawie rozliczeń w systemie opomiarowanym, prowadzonych z indywidualnymi odbiorcami w podobnych obiektach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "W przypadku uszkodzenia urządzenia, którego wskazania stanowią podstawę do ustalania wysokości opłat pobieranych od indywidualnego odbiorcy w lokalu, do obliczenia wysokości tych opłat przyjmuje się wskazania tego urządzenia w porównywalnym wcześniejszym okresie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Zarządzający budynkiem uzyskane wpływy z bonifikat, upustów lub innych opłat z tytułu niedotrzymania przez przedsiębiorstwo energetyczne warunków umowy sprzedaży ciepła lub umowy o świadczenie usług przesyłowych dzieli między indywidualnych odbiorców w lokalach, proporcjonalnie do powierzchni lokali.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Bonifikaty, upusty lub inne opłaty, o których mowa w ust. 1, mogą być zaliczone, za zgodą indywidualnych odbiorców w lokalach, na poczet przyszłych opłat za ciepło dostarczane na ogrzewanie i podgrzewanie wody wodociągowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_51/ust_1",
+     "text": "Indywidualnym odbiorcom w lokalach przysługują upusty w opłatach za ciepło dostarczane na ogrzewanie i podgrzewanie wody wodociągowej, jeżeli z powodu wadliwego działania instalacji odbiorczych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_1/pkt_1",
+       "text": "temperatura w lokalu jest niższa od temperatury obliczeniowej, określonej w odrębnych przepisach i obowiązujących Polskich Normach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_1/pkt_2",
+       "text": "temperatura podgrzanej wody wodociągowej jest w punkcie czerpalnym niższa od 45°C.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_51/ust_2",
+     "text": "Upusty, o których mowa w ust. 1, określa się na podstawie obowiązującej ceny energii elektrycznej dla gospodarstw domowych w taryfie całodobowej, w następujących wysokościach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_2/pkt_1",
+       "text": "w przypadku określonym w ust. 1 pkt 1 zarządzający budynkiem udziela indywidualnemu odbiorcy w lokalu upustu za każdą rozpoczętą dobę niedogrzewania, w wysokości stanowiącej równowartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_51/ust_2/pkt_1/lit_a",
+         "text": "15 kWh energii elektrycznej, jeżeli obniżenie temperatury w lokalu nie przekroczyło 2°C w stosunku do temperatury obliczeniowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_51/ust_2/pkt_1/lit_b",
+         "text": "30 kWh energii elektrycznej, jeżeli obniżenie temperatury w lokalu przekroczyło 2?C w stosunku do temperatury obliczeniowej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_2/pkt_2",
+       "text": "w przypadku określonym w ust. 1 pkt 2 zarządzający budynkiem udziela indywidualnemu odbiorcy w lokalu upustu za każdą rozpoczętą dobę, w której wystąpiło zaniżenie temperatury ciepłej wody użytkowej, w wysokości stanowiącej równowartość:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_51/ust_2/pkt_2/lit_a",
+         "text": "10 kWh energii elektrycznej, jeżeli temperatura wody nie była niższa od 40°C,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_51/ust_2/pkt_2/lit_b",
+         "text": "25 kWh energii elektrycznej, jeżeli temperatura wody była niższa od 40°C.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_52/ust_1",
+     "text": "Opłaty obliczone i pobrane od indywidualnych odbiorców w lokalach oraz bonifikaty, upusty i inne opłaty, o których mowa w § 40—51, stanowią podstawę do rozliczenia rocznych kosztów zaopatrzenia budynku w ciepło.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_52/ust_2",
+     "text": "Rozliczenie, o którym mowa w ust. 1, jest dokonywane w terminie ustalonym przez zarządzającego budynkiem i obejmuje porównanie poniesionych przez niego kosztów związanych z zakupem lub wytworzeniem ciepła dla celów ogrzewania i podgrzewania wody wodociągowej oraz opłat pobranych od indywidualnych odbiorców w lokalach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_52/ust_3",
+     "text": "Jeżeli w wyniku dokonanego rozliczenia, o którym mowa w ust. 1 i 2, powstanie różnica między poniesionymi przez zarządzającego budynkiem kosztami i opłatami pobranymi od indywidualnych odbiorców w lokalach, różnicę tę uwzględnia się przy ustalaniu wysokości opłat na następny rok obrotowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "W braku układów pomiarowo-rozliczeniowych, niezbędnych do stosowania opomiarowanego systemu rozliczeń, dopuszcza się stosowanie rozliczeń w systemie ryczałtowym z odbiorcami, do czasu zainstalowania przez przedsiębiorstwo energetyczne, pro-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepta, niezbędnych układów pomiarowo-rozliczeniowych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "System rozliczeń ryczałtowych, o którym mowa w ust. 1, oparty jest na ryczałtowych cenach umownych, stosowanych przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji ciepła przed dniem wejścia w życie rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_53/ust_3",
+     "text": "Opłaty pobierane przez sprzedawcę w systemie rozliczeń ryczałtowych oblicza się na podstawie cen, o których mowa w ust. 2, które stanowią bazowe stawki opłat dla tego systemu rozliczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_53/ust_4",
+     "text": "Stawki opłat, stanowiące podstawę do obliczania wysokości opłat ryczałtowych, o których mowa w ust. 3, dostosowuje się do zmieniających się warunków ekonomicznych, według zasad określonych w § 17 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_53/ust_5",
+     "text": "Podmioty stosujące system rozliczeń ryczałtowych są obowiązane do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_53/ust_5/pkt_1",
+       "text": "zastosowania opomiarowanego systemu rozliczeń, po zainstalowaniu niezbędnego układu pomiarowo-rozliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_53/ust_5/pkt_2",
+       "text": "wprowadzenia niezbędnych zmian w umowie sprzedaży ciepła, wynikających z zastosowania opomiarowanego systemu rozliczeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_53/ust_6",
+     "text": "System rozliczeń ryczałtowych, o którym mowa w ust. 1—3, może być stosowany nie dłużej niż do dnia 30 września 1999 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Przedsiębiorstwo energetyczne może opracować pierwszą taryfę na podstawie uzasadnionych kosztów, poniesionych w okresie ostatnich 12 miesięcy kalendarzowych poprzedzających opracowanie taryfy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "Przy ustalaniu pierwszej taryfy zgodnie z zasadami określonymi w § 14, ze względu na ochronę interesów odbiorców, przedsiębiorstwo energetyczne nie może podwyższyć ostatnio stosowanych cen i stawek opłat o więcej niż 15%, z zastrzeżeniem ust. 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_54/ust_3",
+     "text": "Jeżeli przedsiębiorstwo energetyczne przy ustaleniu pierwszej taryfy wprowadza nowe rodzaje cen i stawki opłat niż ostatnio stosowane, to średni wzrost cen i stawek opłat uwzględnionych w tej taryfie nie może być wyższy niż określony w ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_54/ust_4",
+     "text": "Przedsiębiorstwo energetyczne, w którym uzasadnione koszty prowadzenia działalności gospodarczej dotyczącej zaopatrzenia w ciepło były w ostatnim roku obrotowym wyższe od uzyskanych z tego tytułu przychodów, może dokonać podwyżki ostatnio stosowanych cen i stawek opłat, zgodnie z zasadami określonymi w art. 45 ust. 1 pkt 1 i 2 oraz art. 45 ust. 4 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_54/ust_5",
+     "text": "Postanowienia ust. 1—4 stosuje się odpowiednio do zarządzającego budynkiem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_55/ust_1",
+     "text": "Jeżeli wymaga tego ochrona interesów odbiorców, przedsiębiorstwo energetyczne może stopniowo dostosowywać dotychczasowy system rozliczeń i taryfy do wymogów i zasad określonych w niniejszym rozporządzeniu, a w szczególności stosować uśrednione:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_55/ust_1/pkt_1",
+       "text": "koszty modernizacji i rozwoju rozproszonych źródeł i sieci ciepłowniczych eksploatowanych przez jedno przedsiębiorstwo energetyczne, jeżeli umożliwia to skoncentrowanie środków na realizację inwestycji modernizacyjnych i rozwojowych, wpływających na wzrost efektywności wykorzystania energii i ochronę środowiska, a w szczególności ograniczających tempo wzrostu opłat ponoszonych przez odbiorców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_55/ust_1/pkt_2",
+       "text": "stawki opłat i ceny dla rozproszonych źródeł i sieci ciepłowniczych eksploatowanych przez jedno przedsiębiorstwo energetyczne, jeżeli umożliwia to ograniczenie drastycznego wzrostu opłat ponoszonych przez odbiorców zaopatrywanych w ciepło z niskosprawnych źródeł ciepła lub ze źródeł ciepta, w których muszą być stosowane drogie sortymenty paliwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_55/ust_2",
+     "text": "Dostosowywanie dotychczasowych systemów rozliczeń i taryf, o których mowa w ust. 1, do wymogów i zasad określonych w niniejszym rozporządzeniu następuje w terminie nie dłuższym niż 3 lata od dnia wejścia w życie rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: J. Steinhoff"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

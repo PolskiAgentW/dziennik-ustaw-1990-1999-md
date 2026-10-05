@@ -1,0 +1,420 @@
+{
+ "eli": "DU/1998/402",
+ "title": "Rozporządzenie Rady Ministrów z dnia 12 maja 1998 r. w sprawie szczegółowych zasad prowadzenia rejestru członków funduszu emerytalnego, szczegółowego zakresu informacji, które powinny być zawarte w rejestrze, oraz zasad sporządzania i przechowywania kopii danych zawartych w rejestrze na wypadek jego utraty.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/402/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 maja 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad prowadzenia rejestru członków funduszu emerytalnego, szczegółowego zakresu informacji, które powinny być zawarte w rejestrze, oraz zasad sporządzania i przechowywania kopii danych zawartych w rejestrze na wypadek jego utraty."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 89 ust. 4 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy art. 89 ust. 2, art. 98 oraz art. 134 ust. 1 pkt 1 i 2, powołane w rozporządzeniu bez bliższego określenia, oznaczają przepisy ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rejestr członków funduszu emerytalnego, zwany dalej „rejestrem”, powinien zawierać następujące informacje dotyczące poszczególnych członków funduszu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "numer rachunku członka w funduszu emerytalnym, o którym mowa w art. 98 ustawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "podstawowe dane osobowe członków funduszu emerytalnego, o których mowa w art. 89 ust. 2 ustawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "dane o środkach gromadzonych w funduszu emerytalnym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "daty otrzymania wpłat na rachunek funduszu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "kwoty wpłat,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "ilość jednostek rozrachunkowych zaliczonych na rachunek w wyniku każdorazowego przeliczenia wpłaconej składki lub wypłaty transferowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_3/lit_d",
+       "text": "łączną ilość jednostek rozrachunkowych zapisanych na rachunku.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Poza informacjami, o których mowa w § 2, dane o środkach gromadzonych w funduszu emerytalnym powinny zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "w otwartym funduszu emerytalnym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "kwotę opłat potrąconych każdorazowo przez fundusz emerytalny ze składki, o których mowa w art. 134 ust. 1 pkt 1 ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "okres, którego dotyczy wpłata każdej składki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_1/lit_c",
+       "text": "kwotę opłaty potrąconej ze środków na rachunku członka funduszu, o której mowa w art. 134 ust. 1 pkt 2 ustawy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "w pracowniczym funduszu emerytalnym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "daty złożenia akcji na rachunku ilościowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "ilość akcji złożonych na rachunku ilościowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_2/lit_c",
+       "text": "daty przeniesienia akcji z rachunku ilościowego do aktywów pracowniczego funduszu emerytalnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_3/pkt_2/lit_d",
+       "text": "ilość akcji przeniesionych z rachunku ilościowego do aktywów pracowniczego funduszu emerytalnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_3/pkt_2/lit_e",
+       "text": "wartość akcji przeniesionych z rachunku ilościowego do aktywów pracowniczego funduszu emerytalnego na dzień przeniesienia akcji, ilość jednostek rozrachunkowych zaliczonych na f",
+       "children": [
+        {
+         "type": "text",
+         "text": "— rachunek w wyniku przeniesienia akcji z rachunku ilościowego do aktywów pracowniczego funduszu emerytalnego,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_3/pkt_2/lit_g",
+       "text": "daty i kwoty podatku dochodowego opłaconego przez członka funduszu, w przypadku gdy płatnikiem jest pracowniczy fundusz emerytalny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_3/pkt_2/lit_h",
+       "text": "ilość akcji przechowywanych na rachunkach ilościowych wraz z oznaczeniem emitenta tych akcji, a w przypadku gdy występuje zróżnicowanie ~ uprawnień wynikających z akcji różnych emisji tego samego emitenta — także oznaczenie rodzaju emisji.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Rejestr jest prowadzony w systemie elektronicznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Prowadzenie rejestru odbywa się w układzie dziennym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wprowadzenie do rejestru danych, o których mowa w § 2 pkt 2i 8 3 pkt 1 lit. b), odbywa się na pod-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stawie danych uzyskanych przez fundusz emerytalny od:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "członków funduszu emerytalnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "instytucji wykonujących na podstawie odrębnych przepisów zadania w zakresie ubezpieczeń społecznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Dane objęte rejestrem, o którym mowa w ust. 1, przechowuje się przez okres 5 lat, licząc od dnia wypłaty środków zgromadzonych na rachunku członka funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Wydruk komputerowy wszystkich danych zawartych w rejestrze albo kopię tych danych, sporządzoną na trwałym elektronicznym nośniku informacji, sporzadza się na ostatni dzień roboczy każdego roku kalendarzowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "W przypadku, o którym mowa w ust. 5, sporządzanie kopii na trwałym elektronicznym nośniku informacji może nastąpić, jeżeli posiada on cechę jednorazowego zapisu i wielokrotnego odczytu oraz jeżeli zostaną zapewnione warunki do jego niezwłocznego odczytu na życzenie organów uprawnionych do kontroli działalności funduszu emerytalnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_4/ust_7",
+     "text": "Wydruk, o którym mowa w ust. 5, lub nośnik informacji, o którym mowa w ust. 5 i 6, przechowuje się przez okres 50 lat, licząc od dnia jego sporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Podmiot prowadzący rejestr sporządza na trwałych elektronicznych nośnikach informacji kopię danych zawartych w rejestrze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Kopia, o której mowa w ust. 1, powinna być przechowywana poza miejscem przechowywania rejestru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Miejsce przechowywania kopii powinno zapewniać należytą ochronę przechowywanych w nim elektronicznych nośników informacji przed utratą lub zniszczeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Nośniki informacji, o których mowa w ust. 1, przechowuje się przez okres 5 lat, licząc od zakończenia roku, w którym zostały sporządzone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Poza miejscem przechowywania rejestru archiwizuje się także wydruk komputerowy lub nośnik informacji, o którym mowa w § 4 ust.5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "rych mowa w ust. 1, powinno spełniać warunki określone w § 5 ust. 3."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Podmiot prowadzący rejestr powinien posiadać dokumentację obejmującą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "wykaz stosowanych programów wraz z pisemnym potwierdzeniem osoby upoważnionej o dopuszczeniu każdego z nich do stosowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "opis przeznaczenia każdego programu, sposobu jego działania oraz wykorzystywania podczas przetwarzania danych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "zasady ochrony danych objętych rejestrem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "procedury zapewniające właściwe stosowanie programów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "zasady ewidencji przebiegu przetwarzania danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wydruki i nośniki informacji, o których mowa w § 4—6, powinny być przechowywane w sposób zapobiegający niedozwolonym zmianom, nieupoważnionemu rozpowszechnianiu, uszkodzeniu lub zniszczeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Podmiot prowadzący rejestr jest zobowiązany do systematycznego tworzenia rezerwowych kopii zbiorów danych objętych rejestrem oraz do zapewnienia ochrony przed nieupoważnionym dostępem do danych objętych rejestrem oraz użytkowanego oprogramowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Fundusz emerytalny niezwłocznie informuje Urząd Nadzoru nad Funduszami Emerytalnymi o miejscu przechowywania kopii, o których mowa w § 5 ust. 1, oraz dokumentów, o których mowa w § 6 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Fundusz emerytalny jest zobowiązany niezwłocznie poinformować Urząd Nadzoru nad Funduszami Emerytalnymi o każdym przypadku niewykonania przepisów niniejszego rozporządzenia, z jednoczesnym wskazaniem przyczyn oraz planowanego terminu i sposobu dostosowania prowadzonej działalności do przepisów rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
