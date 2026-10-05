@@ -1,0 +1,423 @@
+{
+ "eli": "DU/1996/88",
+ "title": "Rozporządzenie Rady Ministrów z dnia 6 lutego 1996 r. w sprawie wprowadzania ograniczeń w dostawie mocy elektrycznej i zużyciu paliw gazowych ze wspólnej sieci.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/88/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 lutego 1996 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wprowadzania ograniczeń w dostawie mocy elektrycznej i zużyciu paliw gazowych ze wspólnej sieci."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 pkt 1 ustawy z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. Nr 21, poz. 96, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192 oraz Z 1990 ld Nr 14, poz. 89 i Nr 34, poz. 198) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1)ograniczeniach w dostawie mocy elektrycznej i zużyciu paliw gazowych — należy przez to rozumieć ograniczenia w poborze mocy elektrycznej i dobowego poboru gazu ziemnego ze wspólnej sieci,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "odbiorcach przemysłowych — należy przez to rozumieć podmioty gospodarcze produkcyjne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "stopniach zasilania — należy przez to rozumieć stopnie ograniczeń, w których określono maksymalne wielkości poboru mocy elektrycznej i dobowego poboru gazu ziemnego przez odbiorców ze wspólnej sieci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wprowadza się ograniczenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "dostawy mocy elektrycznej — w odniesieniu do energii elektrycznej dostarczanej odbiorcom ze wspólnej sieci elektroenergetycznej,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "do paliw gazowych dostarczanych odbiorcom ze wspólnej sieci gazowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ograniczeniami, o których mowa w § 2, obejmuje się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "w zakresie dostawy mocy elektrycznej — odbiorców przemysłowych zasilanych z sieci wysokiego i średniego napięcia, zamawiających moc umowną 700 kW i wyższą, z wyjątkiem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "elektrowni i elektrociepłowni zawodowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "zakładów wydobywczych gazu i obiektów technologicznych sieci gazowej oraz koksowni,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_1/lit_c",
+       "text": "działu transportu przedsiębiorstwa państwowego „Polskie Koleje Państwowe”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_3/pkt_1/lit_d",
+       "text": "zakładów wodociągowo-kanalizacyjnych i ciepfowniczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_3/pkt_1/lit_e",
+       "text": "stacji nadawczych radiowych i telewizyjnych oraz obiektów telekomunikacyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_3/pkt_1/lit_f",
+       "text": "trakcji komunikacji miejskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_3/pkt_1/lit_g",
+       "text": "przedsiębiorstwa eksploatacji rurociągów naftowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_3/pkt_1/lit_h",
+       "text": "zakładów związanych z przechowywaniem i przetwórstwem żywności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_3/pkt_1/lit_i",
+       "text": "niektórych zakładów przemysłu obronnego i lotniczego, określonych zarządzeniem Ministra Przemysłu i Handlu, w razie zagrożenia bezpieczeństwa państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_3/pkt_1/lit_j",
+       "text": "lotnisk udostępnionych na potrzeby lotnictwa cywilnego;",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)w zakresie dobowego zużycia gazu ziemnego — odbiorców przemysłowych pobierających gaz w ilościach 10 000 m3/dobę i więcej, z wyjątkiem:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "obiektów technologicznych sieci gazowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "niektórych zakładów przemysłu obronnego i lotniczego, określonych zarządzeniem Ministra Przemysłu i Handlu, w razie zagrożenia bezpieczeństwa państwa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Ograniczenia, o których mowa w § 2, mogą być wprowadzone jedynie w przypadku niedoboru energii elektrycznej i paliw gazowych, po wykazaniu przez dostawców najwyższej staranności w zakresie zapewnienia maksymalnych dostaw z dostępnych źródeł.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Plany ograniczeń dostawy mocy elektrycznej określają wielkości dopuszczalnego poboru mocy elektrycznej przez odbiorców, określone w poszczególnych stopniach zasilania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Plany ograniczeń dobowego zużycia paliw gazowych określają wielkości dopuszczalnego dobowego poboru paliw gazowych w poszczególnych stopniach zasilania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Plany ograniczeń dostawy mocy elektrycznej i dobowego zużycia paliw gazowych sporządza się na wypadek zaistnienia niedoboru energii elektrycznej i paliw gazowych, a także awarii we wspólnej sieci, uwzględniając przewidywane wielkości deficytu mocy elektrycznej i paliw gazowych, określone przez Krajową Dyspozycję Mocy i Krajową Dyspozycję Gazu, upoważnione do dysponowania tymi nośnikami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "do przekazywania upoważnionej jednostce ustalającej plan ograniczeń niezbędne dane w zakresie technicznych warunków ograniczenia poboru mocy elektrycznej i zużycia paliw gazowych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Plany ograniczeń dostawy mocy elektrycznej dla poszczególnych odbiorców ustalane są na okres od dnia 1 października danego roku do dnia 30 września roku następnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Plany ograniczeń, o których mowa w ust. 1, ustalają okręgowe inspektoraty gospodarki energetycznej w porozumieniu z obszarowymi dyspozycjami mocy, do wielkości przewidywanego deficytu, tj. w stopniach zasilania od 03 do 20, i zawiadamiają odbiorców oraz Krajową Dyspozycję Mocy o ustalanych wielkościach ograniczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Plany ograniczeń, na wypadek awarii we wspólnej sieci, ustala Krajowa Dyspozycja Mocy, która zawiadamia odbiorców o ustalonych wielkościach ograniczeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Plany ograniczeń dobowego zużycia paliw gazowych dla poszczególnych odbiorców ustalane są na okresy kwartalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Plany ograniczeń, o których mowa w ust. 1, ustalają okręgowe inspektoraty gospodarki energetycznej w porozumieniu z Krajową Dyspozycją Gazu, do wielkości przewidywanego deficytu, tj. w stopniach zasilania od 2 do 10, i zawiadamiają odbiorców oraz Krajową Dyspozycję Gazu o ustalonych wielkościach ograniczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Plany ograniczeń, na wypadek awarii we wspólnej sieci, ustala Krajowa Dyspozycja Gazu, która zawiadamia odbiorców oraz okręgowe inspektoraty gospodarki energetycznej o ustalonych wielkościach ograniczeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Ograniczenia dostawy mocy elektrycznej i dobowego zużycia paliw gazowych są operatywnie wprowadzane przez dostawców, przez polecenia dyspozytorskie o obowiązujących stopniach zasilania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "w zakresie dostawy mocy elektrycznej — przez Krajową Dyspozycję Mocy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "w zakresie dobowego zużycia paliw gazowych — przez Krajową Dyspozycję Gazu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Polecenia dyspozytorskie dla odbiorców objętych planem ograniczeń o obowiązujących stopniach zasilania przekazywane są w radiowych komunikatach energetycznych i obowiązują w czasie określonym w tych poleceniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Radiowe komunikaty energetyczne, o których mowa w ust. 2, zawierają także informacje podawane, co najmniej z 12-godzinnym wyprzedzeniem, o przewidywanych stopniach zasilania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "W razie konieczności wprowadzenia zróżnicowanych ograniczeń, służby dyspozytorskie powiadamiają odbiorców w formie pisemnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Polecenia dotyczące ograniczeń, przekazane w formie pisemnej, są dla odbiorcy nadrzędne w stosunku do poleceń zawartych w komunikatach radiowych.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Odbiorca w czasie obowiązywania polecenia dyspozytorskiego o wprowadzonym stopniu zasilania może pobierać moc elektryczną: 1)w stopniu zasilania 03 — do wysokości mocy umownej,",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "w stopniu zasilania 10 — w taryfowych strefach szczytowych do wysokości ustalonej w planie ograniczeń, a w strefach pozaszczytowych — do wysokości mocy umownej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "w stopniach zasilania od 11 wzwyż — do wysokości ustalonej w danym stopniu zasilania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Odbiorca w czasie obowiązywania polecenia dyspozytorskiego o wprowadzonym stopniu zasilania, może zużywać dobowe ilości paliw gazowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "w stopniu zasilania 1 — do wysokości wynikającej z umownego godzinowego poboru paliwa gazowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "w stopniach zasilania od 2 wzwyż — do wysokości ustalonej w danym stopniu zasilania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Odbiorcy objęci ograniczeniami dostawy mocy elektrycznej oraz zużycia paliw gazowych są obowiązani realizować polecenia dyspozytorskie w zakresie obowiązujących stopni zasilania, wynikające z planów ograniczeń dostawy mocy elektrycznej i dobowego zużycia paliw gazowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Odbiorcy nie posiadający aparatury kontrolno-rejestrującej są zobowiązani do prowadzenia bieżących cogodzinnych zapisów wielkości poboru mocy elektrycznej i dobowych zapisów zużycia paliw gazowych stosownie do ustaleń dostawców tych nośników energetycznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Od ustalonych w planie ograniczeń wielkości ograniczeń dostawy mocy elektrycznej i dobowego zużycia paliw gazowych przystuguje odwołanie w trybie określonym w Kodeksie postępowania administracyjnego do Ministra Przemysłu i Handlu za pośrednictwem jednostki ustalającej plan ograniczeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Oleksy"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

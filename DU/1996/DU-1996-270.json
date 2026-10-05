@@ -1,0 +1,193 @@
+{
+ "eli": "DU/1996/270",
+ "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 15 maja 1996 r. w sprawie algorytmu rozdziału między gminy subwencji na zadania oświatowe.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/270/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 maja 1996 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie algorytmu rozdziału między gminy subwencji na zadania oświatowe."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12a ust. 2 pkt 2 ustawy z dnia 10 grudnia 1993 r. o finansowaniu gmin (Dz. U. Nr 129, poz. 600, z 1994 r. Nr 105, poz. 509 oraz z 1995 r. Nr 124, poz. 601 i Nr 154, poz. 794) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się algorytm rozdziału między gminy subwencji na zadania oświatowe, stanowiący załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Edukacji Narodowej: J. J. Wiatr"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Edukacji Narodowej z dnia 15 maja 1996 r. (poz. 270)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ALGORYTM ROZDZIAŁU MIĘDZY GMINY SUBWENCJI NA ZADANIA OŚWIATOWE"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Do ustalenia kwot subwencji na zadania oświatowe stosuje się następujący wzór algorytmu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "So = [(A1 x W1 + A2 x W2 + A3 x W3) x a/p x (Ui/26 + Uj x Pj/26)] x 12 + (Ui + Uj x Pj) x Ko"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "So — kwotę subwencji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "WT, W2, W3 — przeciętne struktury kwalifikacji zawodowych nauczycieli, określające stosunek liczby nauczycieli posiadających wykształcenie określone w odpowiednich pozycjach tabeli stawek wynagrodzenia zasadniczego (zarządzenie Ministra Edukacji Narodowej z dnia 22 czerwca 1995 r. w sprawie wynagradzania nauczycieli — Monitor Polski Nr 31, poz. 366 i Nr 54, poz. 588) do ogólnej liczby nauczycieli zatrudnionych w szkołach podstawowych prowadzonych przez daną gminę (analogicznie jak przy wskaźnikach A1, AŻ, A3),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "AT, A2, A3",
+       "children": [
+        {
+         "type": "text",
+         "text": "— odpowiadające ww. wskaźnikom przeciętne miesięczne kwoty środków na wynagrodzenia nauczycieli — wraz z pochodnymi i odpisami — na rozpatrywany rok budżetowy,"
+        },
+        {
+         "type": "text",
+         "text": "4)a=27 — średnią liczbę godzin lekcyjnych w tygodniu, wynikającą z ramowego planu nauczania,"
+        },
+        {
+         "type": "text",
+         "text": "5)p=18 — średnie tygodniowe pensum nauczycieli,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "26 — średnią liczbę uczniów przypadającą na jeden oddział szkolny,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "12 — liczbę miesięcy w roku kalendarzowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "Ui, UJ — liczby uczniów szkół „miejskich” i „wiejskich” zarówno publicznych, jak i niepublicznych odpowiednio z uwzględnieniem uczniów szkół podstawowych dla dorosłych — ustalone na podstawie sprawozdań statystycznych Głównego Urzędu Statystycznego S—02 i S—03, przy czym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_8/lit_a",
+         "text": "w odniesieniu do liczby uczniów szkół „miejskich” oraz uczniów szkół niepublicznych stosuje się mnożnik przeliczeniowy 1,0,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_8/lit_b",
+         "text": "w odniesieniu do liczby uczniów szkół „wiejskich” stosuje się określone w pkt 9 mnożniki przeliczeniowe zależne od przeciętnej dla danej gminy liczby uczniów przypadających na jeden oddział szkolny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_8/lit_c",
+         "text": "w odniesieniu do liczby uczniów w szkołach prowadzących: klasy (oddziały) specjalne, integracyjne, klasy (oddziały) dla mniejszości narodowych, realizujących program szkół mistrzostwa sportowego, niezależnie od mnożników przewidzianych pod lit. b), stosuje się następujące mnożniki uzupełniające w wysokości: 1,5 — do liczby uczniów, którzy zostali zakwalifikowani do kształcenia przez publiczną poradnię psychologiczno-pedagogiczną lub inną poradnię specjalistyczną w klasach (oddziałach) specjalnych, integracyjnych, 1,2 — do liczby uczniów w klasach (oddziałach) dla mniejszości narodowych, 2,0 — do liczby uczniów w szkołach mistrzostwa sportowego, 1,5 — do liczby uczniów w szkotach (klasach) sportowych; zwiększenie subwencji z tego tytułu ma charakter przejściowy i odnosi się tylko do roku 1996,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "Pj — mnożniki przeliczeniowe liczby uczniów szkół „wiejskich”, które wynoszą: 1,86 — przy przeciętnej liczebności oddziałów <15, 1,63 — przy przeciętnej liczebności oddziałów 15—17, 1,44 — przy przeciętnej liczebności oddziałów >17,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "Ko — kalkulacyjną roczną kwotę pozostałych wydatków bieżących (wynagrodzenia pracowników nie będących nauczycielami oraz wydatki rzeczowe) — w przeliczeniu na 1 ucznia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kwoty subwencji na zadania oświatowe skalkulowane według algorytmu określonego w ust. 1 podlegają uzupełnieniu w przypadkach, gdy w szkołach podstawowych prowadzonych przez gminy zatrudnieni są nauczyciele — doradcy metodyczni. Wysokość dodatkowej subwencji dla poszczególnych gmin naliczana będzie według następującego wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "0,75xA1xLdx12"
+      },
+      {
+       "type": "text",
+       "text": "gdzie Ld — oznacza liczbę nauczycieli — doradców metodycznych w gminie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W 1996 r. kwota subwencji na zadania oświatowe nie może być mniejsza niż 121% i większa niż 133% wysokości środków budżetowych przekazanych na działalność szkół podstawowych w roku 1995, pomniejszonych o poniesione wydatki jednorazowe, bez uwzględnienia skutków zwiększeń, o których mowa w ust. 1 pkt8 lit. c).",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}
