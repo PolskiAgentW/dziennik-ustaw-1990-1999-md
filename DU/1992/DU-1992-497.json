@@ -1,7 +1,7 @@
 {
  "eli": "DU/1992/497",
  "title": "Rozporządzenie Ministra Finansów z dnia 16 grudnia 1992 r. zmieniające rozporządzenie w sprawie opodatkowania przychodów osób duchownych.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1992/497/text.pdf",
  "body": [
   {
@@ -10,142 +10,26 @@
   },
   {
    "type": "text",
-   "text": "należy podwyższyć jednostkowy koszt zakupu, a następnie ustalić wartość poszczególnych składników spisu z natury."
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
   },
   {
    "type": "text",
-   "text": "Podatnik może dokonać wyceny wartości materiałów i towarów handlowych według cen zakupu, tj. bez podwyższenia tej ceny o wskaźnik kosztów ubocznych zakupu."
+   "text": "z dnia 16 grudnia 1992 r."
   },
   {
    "type": "text",
-   "text": "W celu ustalenia dochodu osiągniętego w roku podatkowym należy na oddzielnej karcie księgi:"
+   "text": "zmieniające rozporządzenie w sprawie opodatkowania przychodów osób duchownych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 1 i 2, art. 18 ust. 3 i art. 38 pkt 3 ustawy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. Nr 27, poz. 111, z 1982 r. Nr 45, poz. 289, z 1984 r. Nr 52, poz. 268, z 1985 r. Nr 12, poz. 50, z 1988 r. Nr 41, poz. 325, z 1989 r. Nr 4, poz. 23, Nr 33, poz. 176, Nr 35, poz. 192 i Nr 74, poz. 443, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 100, poz. 442 i Nr 110, poz. 475 oraz z 1992 r. Nr 21, poz. 86 i Nr 53, poz."
   },
   {
    "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "ustalić wartość osiągniętego przychodu w roku podatkowym (kol. 9),",
+   "num": "251",
+   "path": "pkt_251",
+   "text": "w związku z art. 10 ust. 1 pkt 2 i art. 13 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. Nr 80, poz. 350 i Nr 100, poz. 442 oraz z 1992 r. Nr 21, poz. 86 i Nr 68, poz. 341) zarządza się, co następuje:",
    "children": []
-  },
-  {
-   "type": "text",
-   "text": "ustalić wysokość poniesionych w roku podatkowym"
-  },
-  {
-   "type": "text",
-   "text": "2 — kosztów uzyskania przychodów w sposób następujący: — do wartości spisu z natury na początek roku podatkowego doliczyć wartość zakupu towarów handlowych (materiałów) z kolumn 10 i 11, a następnie pomniejszyć o wartość spisu z natury sporządzonego na koniec roku podatkowego, — kwotę wynikającą z tego obliczenia powiększyć o kwotę wydatków z kolumny 19 oraz pomniejszyć o wartość wynagrodzeń w naturze w tej części, w której wydatki (koszty) związane z wynagrodzeniami w naturze zostały zaksięgowane w innych kolumnach księgi przychodów i rozchodów (np. w gastronomii koszty zakupu materiałów i towarów handlowych zużytych do przygotowania posiłków dla pracowników zostały wpisane w kol. 10),"
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "wartość osiągniętego przychodu (kol. 9) pomniejszyć o wysokość poniesionych w roku podatkowym kosztów uzyskania przychodu, obliczonych zgodnie z objaśnieniami w pkt 2 niniejszego ustępu; wynikająca z tego obliczenia różnica stanowi kwotę dochodu osiągniętego w roku podatkowym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "32",
-   "path": "ust_32",
-   "text": "Zasady określone w ust. 2—30 stosuje się odpowiednio w przypadku prowadzenia podatkowej księgi przychodów i rozchodów w imieniu podatnika przez biuro rachunkowe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przykład obliczenia dochodu"
-    },
-    {
-     "type": "text",
-     "text": "586.729.800 zł"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przychód (kol. 9)",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wysokość kosztów uzyskania przychodów poniesionych w roku podatkowym:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wartość spisu z natury na początek ro- 20.300.300 zł ku podatkowego plus wydatki na zakup towarów han- ~~ b 239.200.200 zł dlowych i materiałów (kol. 10) plus wydatki na koszty uboczne za- — c 11.200.000 zł kupu (kol. 11) minus wartość spisu z natury na kod",
-     "children": [
-      {
-       "type": "text",
-       "text": "~~ 27.235.300 zt nieć roku podatkowego plus kwota pozostałych wydatków ~~ e 36.012.400 zł (kol. 19) minus wartość wynagrodzeń w natuf"
-      },
-      {
-       "type": "text",
-       "text": "— rze ujętych w innych kolumnach księgi 3.750.000 zł"
-      },
-      {
-       "type": "text",
-       "text": "Razem koszty uzyskania przychodu 275.727.600 zł"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ustalenie dochodu osiągniętego w roku podatkowym 586.729.800 zł",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "przychód (pkt 1) 275.727.600 zł",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "minus koszty uzyskania (pkt 2)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dochód (a — b) 311.002.200 zł"
-      },
-      {
-       "type": "text",
-       "text": "496"
-      },
-      {
-       "type": "text",
-       "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
-      },
-      {
-       "type": "text",
-       "text": "z dnia 16 grudnia 1992 r."
-      },
-      {
-       "type": "text",
-       "text": "zmieniające rozporządzenie w sprawie opodatkowania przychodów osób duchownych."
-      },
-      {
-       "type": "text",
-       "text": "Na podstawie art. 9 pkt 1 i 2, art. 18 ust. 3 i art. 38 pkt 3 ustawy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. Nr 27, poz. 111, z 1982 r. Nr 45, poz. 289, z 1984 r. Nr 52, poz. 268, z 1985 r. Nr 12, poz. 50, z 1988 r. Nr 41, poz. 325, z 1989 r. Nr 4, poz. 23, Nr 33, poz. 176, Nr 35, poz. 192 i Nr 74, poz. 443, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 100, poz. 442 i Nr 110, poz. 475 oraz z 1992 r. Nr 21, poz. 86 i Nr 53, poz."
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "251",
-     "path": "ust_3/pkt_251",
-     "text": "w związku z art. 10 ust. 1 pkt 2 i art. 13 pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. Nr 80, poz. 350 i Nr 100, poz. 442 oraz z 1992 r. Nr 21, poz. 86 i Nr 68, poz. 341) zarządza się, co następuje:",
-     "children": []
-    }
-   ]
   },
   {
    "type": "par",
