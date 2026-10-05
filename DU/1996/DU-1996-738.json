@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/738",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 grudnia 1996 r. w sprawie ustanowienia kontyngentów celnych na niektóre towary przywożone z zagranicy do budowy Systemu Gazociągów Tranzytowych.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/738/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1997 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: W, Cimoszewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: W, Cimoszewicz"
   }
  ],
  "annexes": [

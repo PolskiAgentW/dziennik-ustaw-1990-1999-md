@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/821",
  "title": "Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 30 grudnia 1996 r. w sprawie nadania osobowości prawnej Kolportażowi Księży Werbistów z siedzibą w Laskowicach Pomorskich.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/821/text.pdf",
  "body": [
   {
@@ -37,97 +37,96 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister—Szef Urzędu Rady Ministrów: L. Miller"
+  },
+  {
+   "type": "text",
+   "text": "Wydział Wydawnictw i Poligrafii Gospodarstwa Pomocniczego Urzędu Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "uprzejmie informuje, że stosownie do art. 70 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591) jednostki, o których mowa w art. 64 ust. 1 tej ustawy, a mianowicie:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "banki oraz zakłady ubezpieczeń,",
    "children": [
     {
      "type": "text",
-     "text": "Minister—Szef Urzędu Rady Ministrów: L. Miller"
-    },
+     "text": "2)jednostki działające na podstawie przepisów prawa o publicznym obrocie papierami wartościowymi i funduszach powierniczych,"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "spółki akcyjne,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "pozostałe jednostki (inne spółki prawa handlowego, spółki prawa cywilnego, osoby fizyczne i spółki cywilne osób fizycznych, inne osoby prawne, jednostki organizacyjne nie mające osobowości prawnej, zagraniczne osoby prawne i fizyczne oraz zagraniczne jednostki nie posiadające osobowości prawnej) prowadzące działalność na terytorium Rzeczypospolitej Polskiej, które w poprzedzającym roku obrotowym, za który sporządzono sprawozdanie finansowe, osiągnęły lub przekroczyły granicę dwóch z trzech następujących wielkości:",
+   "children": [
     {
-     "type": "text",
-     "text": "Wydział Wydawnictw i Poligrafii Gospodarstwa Pomocniczego Urzędu Rady Ministrów"
-    },
-    {
-     "type": "text",
-     "text": "uprzejmie informuje, że stosownie do art. 70 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591) jednostki, o których mowa w art. 64 ust. 1 tej ustawy, a mianowicie:"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "par_2/pkt_1",
-     "text": "banki oraz zakłady ubezpieczeń,",
-     "children": [
-      {
-       "type": "text",
-       "text": "2)jednostki działające na podstawie przepisów prawa o publicznym obrocie papierami wartościowymi i funduszach powierniczych,"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "par_2/pkt_3",
-     "text": "spółki akcyjne,",
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "średnioroczne zatrudnienie — 50 osób,",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "4",
-     "path": "par_2/pkt_4",
-     "text": "pozostałe jednostki (inne spółki prawa handlowego, spółki prawa cywilnego, osoby fizyczne i spółki cywilne osób fizycznych, inne osoby prawne, jednostki organizacyjne nie mające osobowości prawnej, zagraniczne osoby prawne i fizyczne oraz zagraniczne jednostki nie posiadające osobowości prawnej) prowadzące działalność na terytorium Rzeczypospolitej Polskiej, które w poprzedzającym roku obrotowym, za który sporządzono sprawozdanie finansowe, osiągnęły lub przekroczyły granicę dwóch z trzech następujących wielkości:",
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "suma aktywów bilansu na koniec roku obrotowego — równowartość w walucie polskiej 1 000 000 ECU,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "przychód netto ze sprzedaży towarów i produktów oraz operacji finansowych za rok obrotowy — równowartość w polskiej walucie 3 000 000 ECU, zobowiązane są do ogłoszenia rocznego sprawozdania finansowego w MONITORZE POLSKIM „B”.",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "par_2/pkt_4/lit_a",
-       "text": "średnioroczne zatrudnienie — 50 osób,",
-       "children": []
+       "type": "text",
+       "text": "Kierownik jednostki, w ciągu 15 dni od dnia zatwierdzenia sprawozdania finansowego, obowiązany jest złożyć do publikacji: — bilans,"
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "par_2/pkt_4/lit_b",
-       "text": "suma aktywów bilansu na koniec roku obrotowego — równowartość w walucie polskiej 1 000 000 ECU,",
-       "children": []
+       "type": "text",
+       "text": "— rachunek zysków i strat,"
       },
       {
-       "type": "lit",
-       "num": "c",
-       "path": "par_2/pkt_4/lit_c",
-       "text": "przychód netto ze sprzedaży towarów i produktów oraz operacji finansowych za rok obrotowy — równowartość w polskiej walucie 3 000 000 ECU, zobowiązane są do ogłoszenia rocznego sprawozdania finansowego w MONITORZE POLSKIM „B”.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kierownik jednostki, w ciągu 15 dni od dnia zatwierdzenia sprawozdania finansowego, obowiązany jest złożyć do publikacji: — bilans,"
-        },
-        {
-         "type": "text",
-         "text": "— rachunek zysków i strat,"
-        },
-        {
-         "type": "text",
-         "text": "— sprawozdanie z przepiywu środków pieniężnych,"
-        },
-        {
-         "type": "text",
-         "text": "— opinię biegłego rewidenta,"
-        },
-        {
-         "type": "text",
-         "text": "— odpis uchwały bądź postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego i podziale zysku lub pokryciu straty."
-        },
-        {
-         "type": "text",
-         "text": "Należność za usługę zależna jest od objętości sprawozdania. Koszt 1 strony ogłoszeniowej w Monitorze Polskim „B” wynosi 500,00 zt + 22% VAT. Prosimy o załączenie oświadczenia upoważniającego do wystawienia faktury VAT bez podpisu odbiorcy. Nie przyjmujemy przedpłat. Należność prosimy uiścić w ciągu 14 dni od dnia otrzymania wyceny."
-        },
-        {
-         "type": "text",
-         "text": "Nasz adres:"
-        },
-        {
-         "type": "text",
-         "text": "Wydział Wydawnictw i Poligrafii GP URM ul. Powsińska 69/71, 02-903 Warszawa"
-        }
-       ]
+       "type": "text",
+       "text": "— sprawozdanie z przepiywu środków pieniężnych,"
+      },
+      {
+       "type": "text",
+       "text": "— opinię biegłego rewidenta,"
+      },
+      {
+       "type": "text",
+       "text": "— odpis uchwały bądź postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego i podziale zysku lub pokryciu straty."
+      },
+      {
+       "type": "text",
+       "text": "Należność za usługę zależna jest od objętości sprawozdania. Koszt 1 strony ogłoszeniowej w Monitorze Polskim „B” wynosi 500,00 zt + 22% VAT. Prosimy o załączenie oświadczenia upoważniającego do wystawienia faktury VAT bez podpisu odbiorcy. Nie przyjmujemy przedpłat. Należność prosimy uiścić w ciągu 14 dni od dnia otrzymania wyceny."
+      },
+      {
+       "type": "text",
+       "text": "Nasz adres:"
+      },
+      {
+       "type": "text",
+       "text": "Wydział Wydawnictw i Poligrafii GP URM ul. Powsińska 69/71, 02-903 Warszawa"
       }
      ]
     }

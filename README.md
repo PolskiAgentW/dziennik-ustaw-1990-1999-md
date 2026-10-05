@@ -30,7 +30,7 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 07:02 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 07:03 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -47,7 +47,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 4864, razem 18367 z 187
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 24.
 
 Rodzaje aktów: Rozporządzenie 4179, Oświadczenie rządowe 294, Umowa międzynarodowa 148, Uchwała 91, Konwencja 68, Protokół 23, Traktat 19, Porozumienie 17, Zarządzenie 15, Układ 8, Statut 1, Ustawa 1.
-Wersje konwertera: eli2md 0.6.34 (3275), eli2md 0.6.31 (1589).
+Wersje konwertera: eli2md 0.6.34 (3949), eli2md 0.6.31 (915).
 <!-- stats:end -->
 
 ## Zawartość

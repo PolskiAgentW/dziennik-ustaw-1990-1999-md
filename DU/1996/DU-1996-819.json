@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/819",
  "title": "Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 30 grudnia 1996 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży Diecezji Toruńskiej.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/819/text.pdf",
  "body": [
   {
@@ -40,12 +40,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister—Szef Urzędu Rady Ministrów: L. Miller"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister—Szef Urzędu Rady Ministrów: L. Miller"
   }
  ],
  "annexes": [],

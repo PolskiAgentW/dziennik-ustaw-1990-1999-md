@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/511",
  "title": "Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 19 sierpnia 1995 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Niepełnosprawnych przy Parafii św. Marii Magdaleny w Warszawie w Diecezji Warszawsko-Praskiej.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/511/text.pdf",
  "body": [
   {
@@ -40,12 +40,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister—Szef Urzędu Rady Ministrów: L. Miller"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister—Szef Urzędu Rady Ministrów: L. Miller"
   }
  ],
  "annexes": [],
