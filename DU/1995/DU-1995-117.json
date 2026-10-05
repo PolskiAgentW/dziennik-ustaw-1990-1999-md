@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/117",
  "title": "Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 23 lutego 1995 r. w sprawie nadania osobowości prawnej Duszpasterstwu Młodych - Wspólnocie Dobrego Pasterza z siedzibą w Katowicach.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/117/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister—Szef Urzędu Rady Ministrów: M. Strąk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister—Szef Urzędu Rady Ministrów: M. Strąk"
   }
  ],
  "annexes": [],

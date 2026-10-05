@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/583",
  "title": "Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 17 października 1995 r. w sprawie nadania osobowości prawnej Federacji Bibliotek Kościelnych - Fides z siedzibą w Warszawie.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/583/text.pdf",
  "body": [
   {
@@ -36,24 +36,23 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister—Szef Urzędu Rady Ministrów: w z. G. Rydlewski"
-    },
-    {
-     "type": "text",
-     "text": "WYDZIAŁ WYDAWNICTW I POLIGRAFII GOSPODARSTWA POMOCNICZEGO URM uprzejmie informuje:"
-    },
-    {
-     "type": "text",
-     "text": "Instytucje, urzędy i osoby fizyczne zainteresowane prenumeratą naszych wydawnictw proszone są o dokonanie wpłaty na konto: BPH S.A., XVI O/Warszawa, nr 320010-1717-139.11, Wydział Wydawnictw i Poligrafii Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa."
-    },
-    {
-     "type": "text",
-     "text": "Wszelkich informacji na temat prenumeraty lub zakupu naszych wydawnictw udziela: Wydział Wydawnictw i Poligrafii GP URM, tel. 694-67-50 i 694-67-52, telefaks (22) 694-62-06."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister—Szef Urzędu Rady Ministrów: w z. G. Rydlewski"
+  },
+  {
+   "type": "text",
+   "text": "WYDZIAŁ WYDAWNICTW I POLIGRAFII GOSPODARSTWA POMOCNICZEGO URM uprzejmie informuje:"
+  },
+  {
+   "type": "text",
+   "text": "Instytucje, urzędy i osoby fizyczne zainteresowane prenumeratą naszych wydawnictw proszone są o dokonanie wpłaty na konto: BPH S.A., XVI O/Warszawa, nr 320010-1717-139.11, Wydział Wydawnictw i Poligrafii Gospodarstwa Pomocniczego Urzędu Rady Ministrów, ul. Powsińska 69/71, 02-903 Warszawa."
+  },
+  {
+   "type": "text",
+   "text": "Wszelkich informacji na temat prenumeraty lub zakupu naszych wydawnictw udziela: Wydział Wydawnictw i Poligrafii GP URM, tel. 694-67-50 i 694-67-52, telefaks (22) 694-62-06."
   }
  ],
  "annexes": [],
