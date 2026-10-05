@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/541",
  "title": "Umowa między Rzecząpospolitą Polską a Republiką Federalną Niemiec o współpracy i wzajemnej pomocy administracji celnych, sporządzona w Warszawie dnia 29 lipca 1992 r.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/541/text.pdf",
  "body": [
   {
@@ -480,112 +480,110 @@
     {
      "type": "text",
      "text": "Rzeczypospolitej Polskiej Republiki Federalnej Niemiec K. Skubiszewski K. Kinkel"
-    }
-   ]
-  }
- ],
- "annexes": [
-  {
-   "heading": "Załącznik",
-   "body": [
+    },
+    {
+     "type": "text",
+     "text": "Załącznik"
+    },
     {
      "type": "text",
      "text": "UNORMOWANIA OBOWIĄZUJĄCE ADMINISTRACJE CELNE RZECZYPOSPOLITEJ POLSKIEJ I REPUBLIKI FEDERA- LNEJ NIEMIEC PRZY PRZEKAZYWANIU DANYCH IDENTYFIKACYJNO-OSOBOWYCH"
-    },
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "ust_1",
-     "text": "Odbiorca może wykorzystać dane tylko do wskazanego celu i na warunkach określonych przez administrację celną przekazującą dane.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "Odbiorca informuje administrację celną przekazującą dane, na jej wniosek, o wykorzystaniu przekazanych danych i osiągniętych dzięki temu wynikach.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "ust_3",
-     "text": "Dane identyfikacyjno-osobowe mogą być przekazywane wyłącznie właściwym organom celnym, jak również organom ścigania. Dalsze przekazywanie danych innym organom administracji państwowej może nastąpić tylko za zgodą administracji celnej, która dane przekazała.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "ust_4",
-     "text": "Administracja celna przekazująca dane zobowiązana jest zwracać uwagę na ich prawidłowość, przekazywać je w niezbędnym zakresie oraz proporcjonalnym stosunku do celu, dla jakiego są one przekazywane. Należy przy tym uwzględnić zakaz przekazywania danych zgodnie z obowiązującym prawem narodowym. Jeśli okaże się, że przekazano nieprawidłowe dane identyfikacyjno-osobowe lub dane, których nie wolno było przekazać, należy o tym niezwłocznie poinformować odbiorcę. Jest on zobowiązany do skorygowania lub zniszczenia danych.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "5",
-     "path": "ust_5",
-     "text": "Osobie zainteresowanej, na jej wniosek, należy udzielić informacji odnośnie do danych jej dotyczących, jak również o zamierzonym celu ich użycia. Informacji takiej nie udziela się jednak, jeżeli okaże się, że interes publiczny przemawiający za jej nieudzieleniem przeważa nad interesem osoby zainteresowanej. Poza tym osoba zainteresowana ma prawo uzyskać posiadane dane jej dotyczące zgodnie z prawem tej Umawiającej się Strony, na której terytorium złożono wniosek o udzielenie informacji.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "6",
-     "path": "ust_6",
-     "text": "Jeżeli ktoś poniósł szkodę na skutek niezgodnego z prawem działania dokonanego w ramach wymiany danych na podstawie niniejszej umowy, odpowiedzialność ponosi strona, która dane otrzymała, zgodnie ze swoim prawem wewnętrznym. Strona ta nie może w celu odciążenia siebie powoływać się wobec osoby poszkodowanej na to, że szkoda spowodowana została przez administrację celną przekazującą dane.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "7",
-     "path": "ust_7",
-     "text": "Administracja celna przekazująca dane wskazuje przy przekazywaniu danych na termin wymazania danych zgodnie z jej prawem.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "ust_8",
-     "text": "Umawiające się Strony zobowiązane są do odnotowywania w aktach faktu przekazania i otrzymania danych identyfikacyjno-osobowych.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "9",
-     "path": "ust_9",
-     "text": "Umawiające się Strony są obowiązane skutecznie chronić przekazane dane identyfikacyjno-osobowe przed dostępem do nich osób nieuprawnionych, zmianami bez upoważnienia administracji celnej przekazującej dane i udostępnianiem osobom niepowołanym.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Po zaznajomieniu się z powyższą umową w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-      },
-      {
-       "type": "text",
-       "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-      },
-      {
-       "type": "text",
-       "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-      },
-      {
-       "type": "text",
-       "text": "— będzie niezmiennie zachowywana."
-      },
-      {
-       "type": "text",
-       "text": "Na dowód czego wydany został akt niniejszy opatrzony pieczęcią Rzeczypospolitej Polskiej."
-      },
-      {
-       "type": "text",
-       "text": "Dano w Warszawie dnia 9 czerwca 1994 r. Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
-      }
-     ]
-    },
-    {
-     "type": "signature",
-     "text": "Minister Spraw Zagranicznych: A. Olechowski"
     }
    ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Odbiorca może wykorzystać dane tylko do wskazanego celu i na warunkach określonych przez administrację celną przekazującą dane.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Odbiorca informuje administrację celną przekazującą dane, na jej wniosek, o wykorzystaniu przekazanych danych i osiągniętych dzięki temu wynikach.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Dane identyfikacyjno-osobowe mogą być przekazywane wyłącznie właściwym organom celnym, jak również organom ścigania. Dalsze przekazywanie danych innym organom administracji państwowej może nastąpić tylko za zgodą administracji celnej, która dane przekazała.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Administracja celna przekazująca dane zobowiązana jest zwracać uwagę na ich prawidłowość, przekazywać je w niezbędnym zakresie oraz proporcjonalnym stosunku do celu, dla jakiego są one przekazywane. Należy przy tym uwzględnić zakaz przekazywania danych zgodnie z obowiązującym prawem narodowym. Jeśli okaże się, że przekazano nieprawidłowe dane identyfikacyjno-osobowe lub dane, których nie wolno było przekazać, należy o tym niezwłocznie poinformować odbiorcę. Jest on zobowiązany do skorygowania lub zniszczenia danych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Osobie zainteresowanej, na jej wniosek, należy udzielić informacji odnośnie do danych jej dotyczących, jak również o zamierzonym celu ich użycia. Informacji takiej nie udziela się jednak, jeżeli okaże się, że interes publiczny przemawiający za jej nieudzieleniem przeważa nad interesem osoby zainteresowanej. Poza tym osoba zainteresowana ma prawo uzyskać posiadane dane jej dotyczące zgodnie z prawem tej Umawiającej się Strony, na której terytorium złożono wniosek o udzielenie informacji.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Jeżeli ktoś poniósł szkodę na skutek niezgodnego z prawem działania dokonanego w ramach wymiany danych na podstawie niniejszej umowy, odpowiedzialność ponosi strona, która dane otrzymała, zgodnie ze swoim prawem wewnętrznym. Strona ta nie może w celu odciążenia siebie powoływać się wobec osoby poszkodowanej na to, że szkoda spowodowana została przez administrację celną przekazującą dane.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Administracja celna przekazująca dane wskazuje przy przekazywaniu danych na termin wymazania danych zgodnie z jej prawem.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Umawiające się Strony zobowiązane są do odnotowywania w aktach faktu przekazania i otrzymania danych identyfikacyjno-osobowych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Umawiające się Strony są obowiązane skutecznie chronić przekazane dane identyfikacyjno-osobowe przed dostępem do nich osób nieuprawnionych, zmianami bez upoważnienia administracji celnej przekazującej dane i udostępnianiem osobom niepowołanym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Po zaznajomieniu się z powyższą umową w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+    },
+    {
+     "type": "text",
+     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+    },
+    {
+     "type": "text",
+     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+    },
+    {
+     "type": "text",
+     "text": "— będzie niezmiennie zachowywana."
+    },
+    {
+     "type": "text",
+     "text": "Na dowód czego wydany został akt niniejszy opatrzony pieczęcią Rzeczypospolitej Polskiej."
+    },
+    {
+     "type": "text",
+     "text": "Dano w Warszawie dnia 9 czerwca 1994 r. Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Zagranicznych: A. Olechowski"
   }
  ],
+ "annexes": [],
  "footnotes": {}
 }

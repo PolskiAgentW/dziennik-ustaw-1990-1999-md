@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/155",
  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 14 marca 1994 r. zmieniające rozporządzenie w sprawie obowiązkowych szczepień ochronnych.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/155/text.pdf",
  "body": [
   {
@@ -29,7 +29,53 @@
    "num": "1",
    "path": "par_1",
    "text": "W rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 22 grudnia 1975 r. w sprawie obowiązkowych szczepień ochronnych (Dz. U. z 1976r. Nr 1, poz.8,z 1977r.",
-   "children": []
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr 20, poz. 83, z 1980r. Nr5, poz. 12, z 1989 r. Nr 28, poz. 151 iz 1991 r. Nr 14, poz. 66) wprowadza się następujące zmiany:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wys a pozy mj zamienię ‘i F NEM",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) przeciw błonicy — osób dorosłych,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w§5skreśla się ust. 3.",
+     "children": [
+      {
+       "type": "text",
+       "text": "; oo, ;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia i Opieki Społecznej: A. J. Żochowski"
   }
  ],
  "annexes": [],
