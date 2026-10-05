@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/215",
  "title": "Rozporządzenie Ministra Gospodarki Przestrzennej i Budownictwa z dnia 27 kwietnia 1993 r. w sprawie zasad udzielania i sposobu rozliczania dotacji dla spółdzielni mieszkaniowych w 1993 r.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/215/text.pdf",
  "body": [
   {
@@ -190,12 +190,11 @@
    "num": "5",
    "path": "par_5",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1993 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Gospodarki Przestrzennej i Budownictwa: A, Bratkowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Przestrzennej i Budownictwa: A, Bratkowski"
   }
  ],
  "annexes": [

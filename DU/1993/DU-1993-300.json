@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/300",
  "title": "Rozporządzenie Ministra Współpracy Gospodarczej z Zagranicą z dnia 2 lipca 1993 r. w sprawie sposobu rozdysponowania kontyngentów celnych na przywóz niektórych towarów pochodzących z Republiki Czeskiej, Republiki Słowackiej i Republiki Węgier.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/300/text.pdf",
  "body": [
   {
@@ -9,54 +9,20 @@
    "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ust",
-   "num": "10",
-   "path": "ust_10",
-   "text": "Wnioskowany termin ważności pozwolenia .............",
-   "children": []
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA WSPÓŁPRACY GOSPODARCZEJ Z ZAGRANICĄ"
   },
   {
-   "type": "ust",
-   "num": "11",
-   "path": "ust_11",
-   "text": "Waluta kontraktu ..............emue aaa aaa aaa aa ee ence ene eeeeeenes",
-   "children": []
+   "type": "text",
+   "text": "z dnia 2 lipca 1993 r."
   },
   {
-   "type": "ust",
-   "num": "12",
-   "path": "ust_12",
-   "text": "Warunki płatności .....-« «asa sai ao A LAW",
-   "children": [
-    {
-     "type": "text",
-     "text": "ena: (data wyst wienia wniosku)"
-    },
-    {
-     "type": "text",
-     "text": "©\" (podpis i pieczęć osoby uprawnionej)"
-    },
-    {
-     "type": "text",
-     "text": "(imię, nazwisko, stanowisko służbowe) 300"
-    },
-    {
-     "type": "text",
-     "text": "ROZPORZĄDZENIE MINISTRA WSPÓŁPRACY GOSPODARCZEJ Z ZAGRANICĄ"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 2 lipca 1993 r."
-    },
-    {
-     "type": "text",
-     "text": "w sprawie sposobu rozdysponowania kontyngentów celnych na przywóz niektórych towarów pochodzących z Republiki Czeskiej, Republiki Słowackiej i Republiki Węgier."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 58 pkt 1 i 3 ustawy z dnia 28 grudnia 1989 r. — Prawo celne (Dz. U. Nr 75, poz. 445, z 1991 r. Nr60, poz. 253, Nr 73, poz. 320 i Nr 100, poz. 442, z 1992 r. Nr21, poz. 85 i z 1993 r. Nr 60, poz. 279) zarządza się, co następuje:"
-    }
-   ]
+   "type": "text",
+   "text": "w sprawie sposobu rozdysponowania kontyngentów celnych na przywóz niektórych towarów pochodzących z Republiki Czeskiej, Republiki Słowackiej i Republiki Węgier."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 58 pkt 1 i 3 ustawy z dnia 28 grudnia 1989 r. — Prawo celne (Dz. U. Nr 75, poz. 445, z 1991 r. Nr60, poz. 253, Nr 73, poz. 320 i Nr 100, poz. 442, z 1992 r. Nr21, poz. 85 i z 1993 r. Nr 60, poz. 279) zarządza się, co następuje:"
   },
   {
    "type": "par",

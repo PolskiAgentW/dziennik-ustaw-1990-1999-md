@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/436",
  "title": "Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 6 października 1993 r. zmieniające rozporządzenie w sprawie wynagradzania i przyznawania innych świadczeń pracownikom Krajowej Szkoły Administracji Publicznej.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/436/text.pdf",
  "body": [
   {
@@ -41,12 +41,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 września 1993 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister—Szef Urzędu Rady Ministrów: w z. P. Stachańczyk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister—Szef Urzędu Rady Ministrów: w z. P. Stachańczyk"
   }
  ],
  "annexes": [
