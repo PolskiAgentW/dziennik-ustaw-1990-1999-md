@@ -1,0 +1,973 @@
+{
+ "eli": "DU/1997/892",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie szczegółowej organizacji i sposobu prowadzenia rejestru zastawów.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/892/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 15 października 1997 r. w sprawie szczegółowej organizacji i sposobu prowadzenia rejestru zastawów. Na podstawie art. 43 pkt 1 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703 i z 1997 r. Nr 121, poz. 769) zarządza się, co następuje: 8 1. 1. Powołane w rozporządzeniu artykuły bez bliższego określenia oznaczają artykuły ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703 i z 1997 r. Nr 121, poz. 769)."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "W rozumieniu rozporządzenia właściwy powszechny numer identyfikacyjny oznacza:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "dla osób fizycznych — numer nadany w powszechnym elektronicznym systemie ewidencji ludności, zwanym „systemem PESEL”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "dla osób prawnych, spółek komandytowych, spółek jawnych oraz innych podmiotów — numer identyfikacyjny nadany w rejestrze podmiotów gospodarki narodowej w oparciu o przepisy o statystyce publicznej, zwanym „rejestrem REGON”. 8 2. 1. Rejestr zastawów, służący do dokonywania 3",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_2/lit_c",
+       "text": "w polu trzecim — nazwę / nazwisko lub pierwszy człon nazwiska złożonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_2/lit_d",
+       "text": "w polu czwartym — drugi człon nazwiska złożonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/pkt_2/lit_e",
+       "text": "w polu piątym — pierwsze imię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/pkt_2/lit_f",
+       "text": "w polu szóstym — drugie imię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/pkt_2/lit_g",
+       "text": "w polu siódmym — właściwy powszechny numer identyfikacyjny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/pkt_2/lit_h",
+       "text": "w polu ósmym — kraj,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/pkt_2/lit_i",
+       "text": "w polu dziewiątym — miejscowość,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_2/pkt_2/lit_j",
+       "text": "w polu dziesiątym — gminę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "ust_2/pkt_2/lit_k",
+       "text": "w polu jedenastym — województwo, I) w polu dwunastym — ulicę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "tf",
+       "path": "ust_2/pkt_2/lit_tf",
+       "text": "w polu trzynastym — numer domu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "ust_2/pkt_2/lit_m",
+       "text": "w polu czternastym — numer lokalu, = wpisów zastawu rejestrowego, zwany dalej „rejestrem”, prowadzi się w systemie informatycznym.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Urządzenia rejestrowe znajdują się w Ministerstwie Sprawiedliwości w Centrali Rejestru Zastawów. 8 3. Rejestr obejmuje siedem rubryk podzielonych na pola, w których wpisuje się następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "w rubryce pierwszej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_1/lit_a",
+       "text": "w polu pierwszym — numer pozycji rejestru,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_1/lit_b",
+       "text": "w polu drugim — oznaczenie sądu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_1/lit_c",
+       "text": "w polu trzecim — numer kolejny wpisu w danej pozycji rejestru,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_1/lit_d",
+       "text": "w polu czwartym — sygnaturę akt,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/pkt_1/lit_e",
+       "text": "w polu piątym — datę zfozenia wniosku o wpis,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/pkt_1/lit_f",
+       "text": "w polu szóstym — datę wydania postanowienia o wpisie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/pkt_1/lit_g",
+       "text": "w polu siódmym — datę dokonania wpisu w rejestrze,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "w rubryce drugiej „Zastawnik” — dane dotyczące zastawnika:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_2/lit_a",
+       "text": "w polu pierwszym — numer kolejny podmiotu w rubryce,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_2/lit_b",
+       "text": "w polu drugim — oznaczenie podmiotu: — Skarb Państwa albo — inny podmiot, w rubryce trzeciej „Zastawca” — dane dotyczące zastawcy:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_2/lit_a",
+       "text": "w polu pierwszym — numer kolejny podmiotu w rubryce,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_2/lit_b",
+       "text": "w polu drugim — oznaczenie podmiotu: — Skarb Państwa albo — inny podmiot,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_2/lit_c",
+       "text": "w polu trzecim — nazwę / nazwisko lub pierwszy człon nazwiska złożonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_2/lit_d",
+       "text": "w polu czwartym — drugi człon nazwiska złożonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/pkt_2/lit_e",
+       "text": "w polu piątym — pierwsze imię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/pkt_2/lit_f",
+       "text": "w polu szóstym — drugie imię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/pkt_2/lit_g",
+       "text": "w polu siódmym — właściwy powszechny numer identyfikacyjny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/pkt_2/lit_h",
+       "text": "w polu ósmym — kraj,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/pkt_2/lit_i",
+       "text": "w polu dziewiątym — miejscowość,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_2/pkt_2/lit_j",
+       "text": "w polu dziesiątym — gminę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "ust_2/pkt_2/lit_k",
+       "text": "w polu jedenastym — województwo, I) w polu dwunastym — ulicę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "t",
+       "path": "ust_2/pkt_2/lit_t",
+       "text": "w polu trzynastym — numer domu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "ust_2/pkt_2/lit_m",
+       "text": "w polu czternastym — numer lokalu,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "w rubryce czwartej „Dłużnik” — dane dotyczące dłużnika, jeżeli nie jest zastawcą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_4/lit_a",
+       "text": "w polu pierwszym — numer kolejny podmiotu w rubryce,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_4/lit_b",
+       "text": "w polu drugim — oznaczenie podmiotu: — Skarb Państwa albo",
+       "children": [
+        {
+         "type": "text",
+         "text": "— inny podmiot,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_4/lit_c",
+       "text": "w polu trzecim — nazwę / nazwisko lub pierwszy człon nazwiska złożonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_4/lit_d",
+       "text": "w polu czwartym — drugi człon nazwiska złożonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/pkt_4/lit_e",
+       "text": "w polu piątym — pierwsze imię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/pkt_4/lit_f",
+       "text": "w polu szóstym — drugie imię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/pkt_4/lit_g",
+       "text": "w polu siódmym — właściwy powszechny numer identyfikacyjny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/pkt_4/lit_h",
+       "text": "w polu ósmym — kraj,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/pkt_4/lit_i",
+       "text": "w polu dziewiątym — miejscowość,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_2/pkt_4/lit_j",
+       "text": "w polu dziesiątym — gminę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "ust_2/pkt_4/lit_k",
+       "text": "w polu jedenastym — województwo,",
+       "children": [
+        {
+         "type": "text",
+         "text": "I) w polu dwunastym — ulicę,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "t",
+       "path": "ust_2/pkt_4/lit_t",
+       "text": "w polu trzynastym — numer domu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "ust_2/pkt_4/lit_m",
+       "text": "w polu czternastym — numer lokalu,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "w rubryce piątej „Przedmiot zastawu”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_5/lit_a",
+       "text": "w polu pierwszym — nazwę przedmiotu zastawu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_5/lit_b",
+       "text": "w polu drugim — numer pozycji Katalogu sposobu opisu przedmiotów zastawu, stanowiącego załącznik nr 1, zwanego dalej „Katalogiem”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_5/lit_c",
+       "text": "w polach od trzeciego do ósmego — cechy identyfikacji przedmiotu zastawu według Katalogu,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "d)w polu dziewiątym — sposób oznakowania przedmiotu zastawu,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "w rubryce szóstej — „Szczegóły dotyczące zastawu”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_6/lit_a",
+       "text": "w polu pierwszym — określenie rodzaju ujawnionej kwoty: — kwota wierzytelności zabezpieczona zastawem, — oznaczenie najwyższej kwoty zabezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_6/lit_b",
+       "text": "w polu drugim — wysokość kwoty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_6/lit_c",
+       "text": "w polu trzecim — oznaczenie waluty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/pkt_6/lit_d",
+       "text": "w polu czwartym — wzmiankę o sposobie zaspokojenia określonym w art. 22,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/pkt_6/lit_e",
+       "text": "w polu piątym — wzmiankę o sposobie zaspokojenia określonym w art. 24,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/pkt_6/lit_f",
+       "text": "w polu szóstym — wzmiankę o sposobie zaspokojenia określonym w art. 27 ust. 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/pkt_6/lit_g",
+       "text": "w polu siódmym — wzmiankę o sposobie zaspokojenia określonym w art. 27 ust. 2,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/pkt_6/lit_h",
+       "text": "w polu ósmym — wzmiankę o sposobie zaspokojenia określonym w art. 28,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/pkt_6/lit_i",
+       "text": "w polu dziewiątym — wzmiankę o zastrzeżeniu dotyczącym zbycia przedmiotu zastawu określonym w art. 14 ust. 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_2/pkt_6/lit_j",
+       "text": "w polu dziesiątym — wzmiankę o zastrzeżeniu dotyczącym obciążenia przedmiotu zastawu określonym w art. 14 ust. 1,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_2/pkt_7",
+     "text": "w rubryce siódmej „Wykreślenie zastawu”:",
+     "children": [
+      {
+       "type": "text",
+       "text": "w polu pierwszym — wzmiankę o wykreśleniu zastawu z rejestru."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wniosek o wpis do rejestru obejmuje jeden przedmiot zastawu, oznaczony zgodnie z Katalogiem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W wypadku gdy po stronie zastawnika, zastawcy lub dłużnika występuje spótka cywilna, we wniosku o wpis do rejestru wymienia się wszystkich wspólników tej spółki. Nazwy i innych danych spółki nie podaje się we wniosku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W wypadku gdy po stronie zastawnika, zastawcy lub dłużnika występuje więcej niż jeden podmiot, do wniosku o wpis do rejestru należy dołączyć załączniki, złożone na urzędowych formularzach, obejmujące dane wszystkich tych podmiotów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "We wniosku o wpis do rejestru należy podać właściwy powszechny numer identyfikacyjny każdego z podmiotów podlegających wpisaniu do rejestru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Sąd z urzędu dokonuje sprawdzenia danych wskazanych we wniosku o wpis do rejestru z danymi wynikającymi z systemu PESEL lub rejestru REGON, chyba że istnieją przeszkody faktyczne uniemożliwiające dokonanie takiego sprawdzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do sądu składa się wypełnione urzędowe formularze w dwóch egzemplarzach wraz z odpowiednią ilością odpisów, dla doręczenia ich uczestniczącym w sprawie osobom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Każdy zastaw rejestrowy, zwany dalej „zastawem”, wpisuje się do rejestru pod oddzielną pozycją, oznaczoną kolejnym numerem, zwanym dalej „numerem pozycji rejestru”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Z chwilą wpisu zastawu do rejestru nadaje się numer pozycji rejestru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Datą wpisu do rejestru jest data wprowadzenia do rejestru danych zawartych w postanowieniu sądu w przedmiocie wpisu do rejestru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "O dokonanym wpisie zawiadamia się wnioskodawcę i osoby, których wpis dotyczy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Dla każdego zastawu prowadzi się odrębne akta rejestrowe, obejmujące dokumenty stanowiące podstawę wpisu do rejestru, dokumenty dotyczące postępowania rejestrowego oraz odpis z rejestru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W wypadku gdy jako zastawnik, zastawca lub dłużnik występuje więcej niż jeden podmiot, dane do-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "tyczące każdego z tych podmiotów wpisuje się w rejestrze w odpowiedniej rubryce pod kolejnym numerem podmiotu w danej rubryce."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Jeżeli podmiot wpisany w rubrykach „Zastawnik”, „Zastawca” lub „Dłużnik” w polu drugim określony jest jako Skarb Państwa, to w kolejnych polach tych rubryk wpisuje się dane dotyczące organu lub jednostki organizacyjnej reprezentującej Skarb Państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Przy każdym kolejnym wpisie dotyczącym tej samej pozycji rejestru, w rubryce pierwszej wypełnia się pola od trzeciego do siódmego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Wpisu do rejestru dokonuje się wielkimi literami z użyciem znaków pisarskich ujętych w tablicy znaków pisarskich, stanowiącej załącznik nr 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "W wypadku wystąpienia w imieniu, nazwisku, nazwie, adresie, opisie przedmiotu zastawu znaku pisarskiego nie występującego w tablicy znaków pisarskich, o której mowa w ust. 1, wpisu do rejestru zastawów dokonuje się zgodnie z zasadami określonymi w załączniku nr 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Maksymalne ilości znaków pisarskich w poszczególnych polach rejestru określa załącznik nr 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "W polach rejestru przewidzianych na wpisanie adresu wpisów dokonuje się zgodnie z nazwami przyjętymi w krajowym rejestrze urzędowym podziału terytorialnego kraju, prowadzonym na podstawie przepisów o statystyce publicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Czynności związane z prowadzeniem rejestru wykonuje się w sądzie, o którym mowa w art. 36 ust. 2, oraz w Centrali Rejestru Zastawów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "W sądzie wykonuje się czynności związane z postępowaniem w sprawach o wpis do rejestru, w tym wysyłanie stronom odpisów postanowień i zawiadomień o dokonanym wpisie oraz prowadzi się akta rejestrowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Czynności związane z wprowadzaniem danych do rejestru wykonuje się w Centrali Rejestru Zastawów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1998 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: L. Kubicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 15 października 1997 r. (poz. 892) Załącznik nr 1 KATALOG SPOSOBU OPISU PRZEDMIOTÓW ZASTAWU",
+   "body": [
+    {
+     "type": "text",
+     "text": "(Katalog sposobu opisu przedmiotów zastawu, stanowiący załącznik nr 1 do rozporządzenia, zawiera oddzielny załącznik do niniejszego numeru)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 TABLICA ZNAKÓW PISARSKICH UDUCOCEKE Załącznik nr 3 ZASADY WPISU DO REJESTRU ZASTAWÓW W RAZIE WYSTĄPIENIA ZNAKU PISARSKIEGO NIE WYSTĘPUJĄCEGO W TABLICY ZNAKÓW PISARSKICH",
+   "body": [
+    {
+     "type": "text",
+     "text": "W wypadku wystąpienia w imieniu, nazwisku, nazwie, adresie, opisie przedmiotu zastawu znaku pisarskiego nie występującego w tablicy znaków stosowanych we wpisach do rejestru zastawów, stanowiącej załącznik nr 2 do rozporządzenia, stosuje się następujące zasady:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pomija się wszystkie znaki diakrytyczne występujących w danym znaku (np.A=A,O=O,E=E,C= C, D=D,U=U,C=0).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Za znak „B” wpisujemy znak „SS”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W wypadku dyftongów wpisujemy pierwszą literę tworzącą dyftong (np. A = A).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W wypadku wystąpienia innego znaku, nie należącego do grupy znaków, o których mowa w punktach 2, 3, w miejsce tego znaku wpisuje się znak *.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Apostrof w nazwiskach osób fizycznych i nazwach innych osób piszemy zgodnie z pisownią oryginału, z zastosowaniem dostępnego znaku z tablicy zawartej w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W wypadku wystąpienia cudzysłowów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_6/lit_a",
+       "text": "cudzysłów otwierający („) zamienia się cudzysłowem zamykającym (”),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_6/lit_b",
+       "text": "cudzysłów («) oraz (») zastępuje się cudzysłowem zamykającym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Stosuje się jedynie nawiasy zwykłe ( ); nawiasy klamrowe {} oraz kwadratowe [ ] przekształca się w odpowiadające nawiasy zwykłe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W wypadku wystąpienia znaku pisarskiego przesuniętego w stosunku do linii tekstu (indeks górny lub dolny), w rejestrze zastawów sprowadza się ten znak do linii tekstu (np. m? = m2, x; = x3). W przypadku równoczesnego wystąpienia obu indeksów indeks górny poprzedza indeks dolny przy wpisie do rejestru.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dzień: .k Ustaw Nr 134"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "IMMAKSYMALNA ILOŚĆ ZNAKÓW PISARSKICH W POSZCZEGÓLNYCH POLACH REJESTRU ZASTAWÓW"
+    },
+    {
+     "type": "text",
+     "text": "Ilość znaków"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W polach zawierających imię i nazwisko osób fizycznych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "imię pierwsz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "imię drugie",
+       "children": [
+        {
+         "type": "text",
+         "text": "24 24"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nazwisko lub pierwszy człon nazwiska złożonego 28",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "drugi człon nazwiska złożonego",
+       "children": [
+        {
+         "type": "text",
+         "text": "28 . W polu zawierającym nazwę podmiotu nie będącego osobą fizyczną . W polach adresu:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "kraj",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "miejscowość",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "gmina",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "województwo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "ulica",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_1/lit_f",
+       "text": "numer domu",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_1/lit_g",
+       "text": "numer lokalu",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W polu „Nazwa przedmiotu zastawu”",
+     "children": [
+      {
+       "type": "text",
+       "text": "120"
+      },
+      {
+       "type": "text",
+       "text": "50 56 24 24 60 15 15 150"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W polu „Sposób oznakowania przedmiotu zastawu” 200",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W polach „Cechy opisu przedmiotu zastawu według Katalogu (dla każdej z cech)”",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W polu „Wysokość kwoty”",
+     "children": [
+      {
+       "type": "text",
+       "text": "150 15 i 2 dziesiętne"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

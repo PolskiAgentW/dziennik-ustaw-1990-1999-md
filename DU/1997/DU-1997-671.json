@@ -1,0 +1,665 @@
+{
+ "eli": "DU/1997/671",
+ "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 21 sierpnia 1997 r. w sprawie substancji chemicznych stwarzających zagrożenie dla zdrowia lub życia.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/671/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA I OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 sierpnia 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie substancji chemicznych stwarzających zagrożenie dla zdrowia lub życia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 221 8 5 Kodeksu pracy zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie określa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "kryteria i sposób klasyfikacji substancji chemicznych pod względem zagrożeń dla zdrowia lub życia oraz sposób znakowania tych substancji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "wykaz niebezpiecznych substancji chemicznych, sposób ich znakowania, etykietowania i rejestrowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "wymagania dotyczące sporządzania kart charakterystyki niebezpiecznych substancji chemicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ilekroć w rozporządzeniu jest mowa o substancjach chemicznych, należy przez to rozumieć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "pierwiastki chemiczne i ich związki w stanie, w jakim występują w przyrodzie lub zostają uzyskane za pomocą jakiegokolwiek procesu produkcyjnego, wraz ze wszystkimi dodatkami wymaganymi dla zachowania ich trwałości oraz wszystkimi zanieczyszczeniami powstałymi w wyniku zastosowanego procesu, jednak bez rozpuszczalników, które można oddzielić bez wpływu na trwałość substancji i bez zmiany jej składu, a także",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "mieszaniny pierwiastków chemicznych lub ich związków, o których mowa w pkt 1, z wyłączeniem mieszanin będących odpadami.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Substancje chemiczne klasyfikuje się uwzględniając ich toksyczność, właściwości fizykochemiczne oraz działanie na środowisko.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jako niebezpieczne klasyfikuje się substancje chemiczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "o właściwościach wybuchowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "o właściwościach utleniających,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "skrajnie łatwo palne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "wysoce łatwo palne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "łatwo palne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_2/pkt_6",
+       "text": "bardzo toksyczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_2/pkt_7",
+       "text": "toksyczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_2/pkt_8",
+       "text": "szkodliwe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_2/pkt_9",
+       "text": "żrące,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_2/pkt_10",
+       "text": "drażniące,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_2/pkt_11",
+       "text": "uczulające,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_2/pkt_12",
+       "text": "rakotwórcze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_2/pkt_13",
+       "text": "mutagenne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/ust_2/pkt_14",
+       "text": "działające na rozrodczość,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/ust_2/pkt_15",
+       "text": "niebezpieczne dla środowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Klasyfikację substancji chemicznych przeprowadza się na podstawie wyników badań ich właściwości fizykochemicznych i biologicznych lub informacji dostępnych w piśmiennictwie naukowym, bazach danych albo wynikających z udokumentowanych doświadczeń praktycznych, a w odniesieniu do substancji chemicznych, o których mowa w § 1 ust. 2 pkt 2 — właściwości toksyczne lub działanie rakotwórcze, mutagenne albo działanie na rozrodczość ustala się także na podstawie zawartości pierwiastków chemicznych lub ich związków, sklasyfikowanych jako niebezpieczne substancje chemiczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Szczegółowe kryteria i sposób klasyfikacji substancji chemicznych pod względem zagrożeń dla zdrowia lub życia oraz sposób znakowania substancji chemicznych i niebezpiecznych substancji chemicznych określa załącznik nr 1 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Producent, importer, dystrybutor i inny dostawca, zwani dalej „producentem i dostawcą”, są obowiązani do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "klasyfikowania substancji chemicznych zgodnie z kryteriami przedstawionymi w załączniku nr 1 do rozporządzenia, jeżeli substancje te nie są wymienione w wykazie niebezpiecznych substancji chemicznych, o którym mowa w § 6,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "właściwego znakowania substancji chemicznych, zgodnie z dokonaną klasyfikacją.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Substancje chemiczne znakuje się, z zastrzeżeniem § 5, podając na etykiecie, umieszczonej trwale na powierzchni opakowania, informacje w języku polskim określające jego zawartość oraz producenta lub dostawcę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Substancje chemiczne zaklasyfikowane jako niebezpieczne znakuje się, podając na etykiecie następujące informacje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "nazwę lub nazwy chemiczne substancji, a w przypadku mieszaniny — nazwy chemiczne niebezpiecznych substancji wchodzących w jej skład oraz ich udział procentowy w mieszaninie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "nazwę handlową substancji chemicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "nazwę i adres producenta lub dostawcy, wprowadzającego substancję chemiczną do obrotu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "znaki ostrzegawcze wymienione w aneksie III załącznika nr 1 do rozporządzenia, wraz z ich znaczeniami, i określenia dotyczące rodzaju zagrożenia oraz prawidłowego postępowania z niebezpieczną substancją chemiczną, odpowiednie do dokonanej klasyfikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Informacje powinny być zgodne z danymi zawartymi w karcie charakterystyki niebezpiecznej substancji chemicznej, o której mowa w § 10, i umieszczone na etykiecie w taki sposób, aby napisy mogły być odczytane poziomo, gdy opakowanie spoczywa w normalnym położeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Kolor i wygląd etykiety powinny być tak dobrane, aby znak ostrzegawczy i jego tło wyraźnie się od siebie odróżniały, a umieszczone napisy wyraźnie się odróżniały od tła i miały wielkość oraz krój czcionki ułatwiające ich odczytanie. Znak lub znaki ostrzegawcze umieszczone na etykiecie powinny pokrywać co najmniej jedną dziesiątą jej powierzchni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "W zależności od pojemności opakowania etykiety powinny mieć następujące wymiary:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pojemność opakowania |Wymiary (w milimetrach)"
+      },
+      {
+       "type": "text",
+       "text": "do 3 dm? co najmniej 52 x 74 ponad 3 dm3 do 50 dm3 co najmniej 74 x 105 ponad 50 dm? do 500 dm? co najmniej 105 x 148 ponad 500 dm? co najmniej 148 x 210"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Etykieta nie jest wymagana, jeżeli znakowanie jest trwale i czytelnie umieszczone na opakowaniu w inny sposób.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Wykaz niebezpiecznych substancji chemicznych określa załącznik nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Pojemniki na stanowiskach pracy, zawierające niebezpieczne substancje chemiczne, powinny być oznakowane znakami ostrzegawczymi, wynikającymi z klasyfikacji tych substancji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Niebezpieczne substancje chemiczne stosowane w Polsce podlegają zgłoszeniu do rejestru, który prowadzi Instytut Medycyny Pracy im. prof. dr med. J. Nofera w Łodzi, z wyjątkiem niebezpiecznych substancji chemicznych stosowanych wyłącznie w resorcie obrony narodowej, które podlegają zgłoszeniu do rejestru prowadzonego przez Wojskowy Instytut Higieny i Epidemiologii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Niebezpieczna substancja chemiczna powinna zostać zgłoszona do rejestru przez jej producenta lub dostawcę wprowadzającego do obrotu, stosującego lub sprowadzającego tę substancję po raz pierwszy, najpóźniej w dniu jej zastosowania lub wprowadzenia do obrotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Zgłoszeniu do rejestru nie podlegają niebezpieczne substancje chemiczne stosowane lub wprowadzane do obrotu w ilości poniżej 100 kg rocznie przez jednego producenta lub dostawcę, chyba że z innych przepisów wynika obowiązek zgłoszenia substancji chemicznej stosowanej w mniejszych ilościach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Zgłoszenia, o którym mowa w § 8 ust. 2, dokonuje się na karcie zgłoszenia według wzoru stanowiącego załącznik nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Do zgłoszenia, o którym mowa w ust. 1, powinna być dołączona karta charakterystyki niebezpiecznej substancji chemicznej oraz zezwolenie na produkcję lub zezwolenie bądź koncesja na import, jeżeli są one wymagane odrębnymi przepisami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Jednostki, o których mowa w § 8 ust. 1, mają prawo zażądać informacji, na podstawie których dokonano klasyfikacji lub sporządzono kartę charakterystyki zgłaszanej substancji chemicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Producent i dostawca niebezpiecznych substancji chemicznych mają obowiązek posiadać karty charakterystyki tych substancji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Kartę charakterystyki sporządza się według wzoru stanowiącego załącznik nr 4 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Producent i dostawca niebezpiecznej substancji chemicznej ma obowiązek udostępniać nieodpłatnie jej odbiorcy kartę charakterystyki oraz informować go o wszelkich wprowadzanych do niej zmianach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Producent lub dostawca, który w dniu wejścia w życie rozporządzenia stosuje lub wprowadza do obrotu niebezpieczną substancję chemiczną, jest obowiązany w terminie 30 dni od dnia wejścia w życie rozporządzenia dokonać zgłoszenia do odpowiedniego rejestru, o którym mowa w § 8 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Rozporządzenie nie dotyczy kosmetyków, paszy i dodatków do paszy, amunicji i materiałów wybuchowych, żywności i dodatków do żywności, środków farmaceutycznych i materiałów medycznych, środków ochrony roślin oraz transportu materiałów niebezpiecznych regulowanych odrębnymi przepisami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Rozporządzenie nie narusza odrębnych przepisów dotyczących produktów powszechnego użytku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia i Opieki Społecznej: R. J. Żochowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Zdrowia i Opieki Społecznej z dnia 21 sierpnia 1997 r. (poz. 671) Załącznik nr 1 SZCZEGÓŁOWE KRYTERIA | SPOSÓB KLASYFIKACJI SUBSTANCJI CHEMICZNYCH POD WZGLĘDEM ZAGROŻEŃ DLA ZDROWIA LUB ŻYCIA ORAZ SPOSÓB ZNAKOWANIA SUBSTANCJI CHEMICZNYCH | NIEBEZPIECZNYCH SUBSTANCJI CHEMICZNYCH (Załącznik nr 1 zawiera oddzielny załącznik do niniejszego numeru) Załącznik nr 2 WYKAZ NIEBEZPIECZNYCH SUBSTANCJI CHEMICZNYCH (Załącznik nr 2 zawiera oddzielny załącznik do niniejszego numeru)",
+   "body": []
+  },
+  {
+   "heading": "Załącznik nr 3 GOL IN Me]S) Ąluuerzg KARTA ZGŁOSZENIA NIEBEZPIECZNEJ SUBSTANCJI CHEMICZNEJ DO REJESTRU",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa producenta/importera"
+    },
+    {
+     "type": "text",
+     "text": ": Nazwa handlowa niebezpiecznej Nazwa chemiczna substancji chemicznej niebezpiecznej substancji chemicznej*"
+    },
+    {
+     "type": "text",
+     "text": "REGON | zgłoszenia | Znaki i napisy ostrzegawcze | | symbole zwroty R zwroty S"
+    },
+    {
+     "type": "text",
+     "text": "— 00££ — KEEWNNEMA KE NEK KZK KME NKK KN"
+    },
+    {
+     "type": "text",
+     "text": "KONA KA KE H———————— KENNEENN EEK NN ee * W przypadku zgłoszenia mieszaniny podać nazwy niebezpiecznych substancji chemicznych oraz ich procentowy udział w w składzie mieszaniny."
+    },
+    {
+     "type": "text",
+     "text": "LL9 'z0d"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR KARTY CHARAKTERYSTYKI NIEBEZPIECZNEJ SUBSTANCJI CHEMICZNEJ"
+    },
+    {
+     "type": "text",
+     "text": "* Producent/Importer/Dystrybutor, adres, telefon, teleks, telefaks, nr statystyczny REGON"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Identyfikacja substancji chemicznej",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Klasyfikacja i oznakowanie",
+     "children": [
+      {
+       "type": "text",
+       "text": "ab. Symbole niebezpieczeństwa DŻ; Napisy ostrzegawcze 2:3. Klasyfikacja i oznakowanie w transporcie 2.4. Opakowania"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Środki bezpieczeństwa",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. Srodki ochrony indywidualnej 3.2. Zasady pierwszej pomocy 3.3. Sposoby postępowania na wypadek pożaru lub awarii - sposób postępowania przy wycieku - metody unieszkodliwiania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Fizyczne i chemiczne właściwości substancji",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. _« Postać fizyczna, barwa, zapach"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "4.11. Właściwości korozyjne"
+      },
+      {
+       "type": "text",
+       "text": "2 3 4 5"
+      },
+      {
+       "type": "text",
+       "text": "Yi RU i 9"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zagrożenia dla zdrowia",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1. _ Drogi narażenia 5.2. Działanie miejscowe (skóra, oczy, błony śluzowe) 5.3. | Skutki zdrowotne narażenia ostrego 5.4. Skutki zdrowotne narażenia przewlekłego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Zagrożenie dla środowiska Zagrożenie dla środowiska",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Kontrola narażenia 7.1. Wartości NDS, NDSCh, NDSP 7.2. _ Metody oceny narażenia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Instrukcja postępowania 8.1. | Przechowywanie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Data sporządzenia karty KENA",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Informacje dodatkowe",
+     "children": [
+      {
+       "type": "text",
+       "text": "* 10.1. Niebezpieczna substancja chemiczna została zgłoszona do rejestru w dniu"
+      },
+      {
+       "type": "text",
+       "text": "” Informacja w rubryce nie jest wymagana w przypadku stosowania przez pracodawcę karty charakterystyki sporządzonej przez osobę inną niż producent, importer lub dystrybutor,"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

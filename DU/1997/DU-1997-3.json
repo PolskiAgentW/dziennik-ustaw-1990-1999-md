@@ -1,0 +1,536 @@
+{
+ "eli": "DU/1997/3",
+ "title": "Rozporządzenie Ministra Finansów z dnia 23 grudnia 1996 r. w sprawie wykonania niektórych przepisów ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/3/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "A, Aa, Az, Ay A; — odpowiadające ww. wskaźnikom przeciętne miesięczne kwoty środków na wynagrodzenia nauczycieli — wraz z pochodnymi i odpisami — na rozpatrywany rok budżetowy,",
+   "children": [
+    {
+     "type": "text",
+     "text": "4)a=27 —średnia liczba godzin lekcyjnych w tygodniu, wynikająca z ramowego planu nauczania,"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "p= 18— tygodniowy wymiar godzin zajęć dydaktycznych nauczycieli,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "26 — średnia liczba uczniów przypadająca na jeden oddział szkolny,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "12 — liczba miesięcy w roku kalendarzowym,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "U,, U, j — liczby uczniów szkół „miejskich” i „wiejskich” zarówno publicznych, jak i niepublicznych odpowiednio z uwzględnieniem uczniów szkół podstawowych dla dorosłych — ustalone na podstawie sprawozdań statystycznych Głównego Urzędu Statystycznego S-02 i S-03, przy czym:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_8/lit_a",
+     "text": "w odniesieniu do liczby uczniów szkół „miejskich” oraz uczniów szkół niepublicznych stosuje się mnożnik przeliczeniowy 1,0,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_8/lit_b",
+     "text": "w odniesieniu do liczby uczniów szkół „wiejskich” stosuje się określone w pkt 9 mnożniki przeliczeniowe zależne od przeciętnej dla danej gminy liczby uczniów przypadającej na jeden oddział szkolny,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_8/lit_c",
+     "text": "w odniesieniu do liczby uczniów w szkotach prowadzących: klasy (oddziały) specjalne, integracyjne, klasy (oddziały) dla mniejszości narodowych, realizujących program szkół mistrzostwa sportowego i szkół sportowych, niezależnie od mnożników przewidzianych pod lit. b), stosuje się następujące mnożniki uzupełniające w wysokości:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1,5 — do liczby uczniów niepełnosprawnych, którzy zostali zakwalifikowani przez publiczną poradnię psychologiczno-pedagogiczną lub inną poradnię specjalistyczną do kształcenia w klasach (oddziałach) specjalnych,"
+      },
+      {
+       "type": "text",
+       "text": "4,0 — do liczby uczniów niepełnosprawnych, którzy zostali zakwalifikowani w ww. trybie do kształcenia w klasach (oddziałach) integracyjnych,"
+      },
+      {
+       "type": "text",
+       "text": "1,2 — do liczby uczniów w klasach (oddziałach) dla mniejszości narodowych,"
+      },
+      {
+       "type": "text",
+       "text": "2,0 — do liczby uczniów w szkołach mistrzostwa sportowego,"
+      },
+      {
+       "type": "text",
+       "text": "1,2 — do liczby uczniów w szkołach (klasach) sportowych,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "P, — mnożniki przeliczeniowe liczby uczniów szkół „wiejskich”, które wynoszą:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1,44 — przy przeciętnej liczebności oddziałów większej od 17,"
+    },
+    {
+     "type": "text",
+     "text": "1,63 — przy przeciętnej liczebności oddziałów mniejszej lub równej 17,"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "f = 1 — wprowadzona od roku szkolnego 1996/97 dodatkowa godzina wychowania fizycznego w klasach I, V, VI, VII i VIII szkoły podstawowej,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "p = 22,3 — tygodniowy wymiar godzin zajęć dydaktycznych nauczycieli wychowania fizycznego (18 godz.), powiększony o średnią liczbę godzin ponadwymiarowych realizowanych tygodniowo,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wit Uiws — liczby uczniów, odpowiednio , „miejskich” 12 „wiejskich ”, w klasach I, V, VI, Vili VIII szkół podstawoah prowadzonych przez gminę w roku szkolnym 1996/97, ustalone na podstawie sprawozdania statystycznego S-02,"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "Ly — liczba nauczycieli — doradców metodycznych zatrudnionych w szkołach podstawowych prowadzonych przez gminę, ustalona na podstawie sprawozdania statystycznego EN-3,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "Lup — liczba księży i diakonów Kościoła Katolickiego prowadzących naukę religii w szkołach podstawowych prowadzonych przez gminę, ustalona na podstawie sprawozdania statystycznego EN-3,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "4 — liczba miesięcy od września do grudnia,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "16",
+   "path": "pkt_16",
+   "text": "B — przeciętna miesięczna kwota środków na wynagrodzenia pracowników szkół podstawowych nie będących nauczycielami — wraz z pochodnymi i odpisami — na rozpatrywany rok budżetowy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "17",
+   "path": "pkt_17",
+   "text": "Ry — kalkulacyjna roczna kwota pozostałych wydatków bieżących — w przeliczeniu na 1 ucznia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "W 1997 r. kwota subwencji na zadania oświatowe nie może być mniejsza niż 115% środków budżetowych przekazanych gminie w 1996 r. na działalność szkół podstawowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 23 grudnia 1996 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie wykonania niektórych przepisów ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 26a ust. 28 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626, z 1995 r. Nr 5, poz. 25i Nr 133, poz. 654 oraz z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 i Nr 156, poz 776) oraz art. 18a ust. 28 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646, z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627, z 1995 r. Nr 5, poz. 25, Nr 86, poz. 433, Nr 96, poz. 478, Nr 133, poz. 654 i Nr 142, poz. 704 oraz z 1996 r. Nr 25, poz. 113, Nr 34, poz. 146, Nr 90, poz. 405, Nr 137, poz. 639 i Nr 147, poz. 686) zarządza się, co następuje:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "= B="
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy art. 26a ustawy o podatku dochodowym od osób fizycznych oraz art. 18a ustawy o podatku dochodowym od osób prawnych nie mają zastosowania do wydatków inwestycyjnych poniesionych przez podatników w okresie korzystania z ulg, odliczeń i zwolnień od podatku dochodowego na podstawie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "art. 46 ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. Nr 51, poz. 298, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591 i Nr 133, poz. 685 oraz z 1996 r. Nr 90, poz. 405 i Nr 106, poz. 496),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. Nr 60, poz. 253, Nr 80, poz. 350 i Nr 111, poz. 480, z 1993 r. Nr 134, poz. 646 oraz z 1996 r. Nr 45, poz. 199),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "art. 54 ust. 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626, z 1995 r. Nr5, poz. 25 i Nr 133, poz. 654 oraz z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 i Nr 156, poz. 776),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "art. 39 ust. 3 i 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646 oraz z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627, z 1995 r. Nr 5, poz. 25, Nr 86, poz. 433, Nr 96, poz. 478, Nr 133, poz. 654 i Nr 142, poz. 704 oraz z 1996 r. Nr 25, poz. 113, Nr 34, poz. 146, Nr 90, poz. 405, Nr 137, poz. 639 i Nr 147, poz. 686),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "art. 12 ust. 1 i 2 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600 i z 1996 r. Nr 106, poz. 496),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "rozporządzenia Ministra Finansów z dnia 6 lutego 1989 r. w sprawie zwolnienia od podatku dochodowego dochodów z tytułu niektórych rodzajów działalności gospodarczej (Dz. U. Nr 3, poz. 20 i Nr 49, poz. 278 oraz z 1991 r. Nr 51, poz. 222),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "rozporządzenia Ministra Finansów z dnia 18 maja 1990 r. w sprawie zwolnienia od podatków obrotowego i dochodowego podatników osiągających przychody z niektórych rodzajów nowo uruchomionej działalności gospodarczej (Dz. U. Nr 35, poz. 203 i Nr 69, poz. 403 oraz z 1991 r. Nr 64, poz. 276),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "rozporządzenia Rady Ministrów z dnia 22 czerwca 1993 r. w sprawie odliczeń od dochodu wydatków inwestycyjnych na terenie gmin o szczególnym zagrożeniu wysokim bezrobociem strukturalnym (Dz. U. Nr 59, poz. 266),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "rozporządzenia Rady Ministrów z dnia 25 stycznia 1994 r. w sprawie odliczeń od dochodu wydatków inwestycyjnych oraz obniżek podatku dochodowego (Dz. U. z 1996 r. Nr 39, poz. 171 i Nr 63, poz. 294),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "rozporządzenia Rady Ministrów z dnia 24 stycznia 1995 r. w sprawie odliczeń od dochodu wydatków inwestycyjnych oraz obniżek podatku dochodowego w gminach zagrożonych szczególnie wysokim bezrobociem strukturalnym (Dz. U. Nr 14, poz. 63i z 1996 r. Nr 63, poz. 293),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "przepisów wykonawczych wydanych na podstawie art. 26a ust. 29 ustawy o podatku dochodowym od osób fizycznych oraz art. 18a ust. 29 ustawy o podatku dochodowym od osób prawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Podatnicy, którzy korzystają ze zwolnień od podatku dochodowego na podstawie rozporządzenia, o którym mowa w § 1 pkt 6, mogą zrezygnować z tego prawa i począwszy ocd miesiąca, w którym zaprzestali stosować te zwolnienia, mogą korzystać z odliczeń lub obniżek na zasadach określonych w art. 26a ustawy o podatku dochodowym od osób fizycznych lub art. 18a ustawy o podatku dochodowym od osób prawnych, jeżeli do końca miesiąca, w którym korzystają ze zwolnień, złożą w urzędzie skarbowym właściwym w sprawach podatku dochodowego zawiadomienie o rezygnacji z tych zwolnień do końca okresu ich obowiązywania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Określa się zakres działalności, z którymi związane są odliczenia na zasadach przewidzianych w art. 26a ustawy o podatku dochodowym od osób fizycznych oraz w art. 18a ustawy o podatku dochodowym od osób prawnych, w sposób następujący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "„eksport towarów” — czynności, jakie wyznaczają dla tej działalności przepisy ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703 oraz z 1996 r. Nr 137, poz. 640),",
+     "children": [
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "„eksport usług” — usługi wykonywane przez podatnika poza państwową granicą Rzeczypospolitej Polskiej oraz czynności, które zgodnie z przepisami o podatku od towarów i usług oraz o podatku akcyzowym uważane są za eksport usług,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "„przetwórstwo rolne” — działalność polegająca na produkcji wyrobów przemysłu spożywczego, pasz przemysłowych i produktów utylizacyjnych, sklasyfikowanych w gałęziach 23-26 Systematycznego wykazu wyrobów (SWW) Głównego Urzędu Statystycznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "„budownictwo (w tym mieszkaniowe) i produkcja materiałów budowlanych” — działalność obejmująca:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_4/lit_a",
+       "text": "budowę, przebudowę, rozbudowę, odbudowę, remont, modernizację i konserwację budynków i budowli, sklasyfikowaną w dziale 45 Europejskiej klasyfikacji działalności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_4/lit_b",
+       "text": "wykonywanie obiektów budownictwa mieszkaniowego oraz robót budowlano-montażowych związanych z budownictwem mieszkaniowym i infrastrukturą towarzyszącą budownictwu",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "=F"
+        },
+        {
+         "type": "text",
+         "text": "mieszkaniowemu w rozumieniu ustawy, o której mowa w pkt 1, oraz"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_4/lit_c",
+       "text": "produkcję materiałów budowlanych wymienionych w załączniku do rozporządzenia,",
+       "children": [
+        {
+         "type": "text",
+         "text": ">"
+        },
+        {
+         "type": "text",
+         "text": "„żegluga i rybołówstwo” — działalność polegająca 5 na świadczeniu usług w zakresie przewozu pasażerów lub ładunków (dział 61 Europejskiej klasyfikacji działalności, z wyjątkiem dzierżawienia sprzętu transportu morskiego, przybrzeżnego i śródlądowego, wraz z załogą) oraz w zakresie pozyskiwania produktów rybołówstwa i rybactwa na wodach morskich, przybrzeżnych i śródlądowych, wraz z przetwórstwem ryb, skorupiaków i mięczaków, związanych bezpośrednio z rybołówstwem (sekcja B Europejskiej klasyfikacji działalności),",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "„turystyka i wypoczynek” — działalność polegająca na świadczeniu usług związanych z przygotowaniem i realizacją wycieczek oraz pobytów turystycznych i wypoczynkowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 4, Wydatki inwestycyjne muszą być udokumentowane:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "fakturą (rachunkiem uproszczonym) wystawioną przez podatnika podatku od towarów i usług nie korzystającego ze zwolnienia na podstawie art. 14 ustawy wymienionej w § 3 pkt 1 (w tym również wystawioną przez organ egzekucyjny określony w przepisach o postępowaniu egzekucyjnym w administracji lub komornika sadowego) lub dowodem odprawy celnej — w przypadku wydatków określonych w art. 26a ust. 3 pkt 1, 3,6 i 8 ustawy o podatku dochodowym od osób fizycznych lub art. 18a ust. 2 pkt 1, 3, 6 i 8 ustawy o podatku dochodowym od osób prawnych albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "dowodami wymienionymi w pkt 1 w razie zakupu towarów i usług służących do wytworzenia we własnym zakresie i na wiasny użytek środków trwałych określonych w art. 26a ust. 3 pkt 1 i 2 ustawy o podatku dochodowym od osób fizycznych lub art. 18a ust. 2 pkt 1 i 2 ustawy o podatku dochodowym od osób prawnych, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "dowodem przekazania należności i aktem notarialnym albo fakturą (rachunkiem uproszczonym) wystawioną przez organ egzekucyjny określony w przepisach o postępowaniu egzekucyjnym w administracji lub komornika sądowego — w przypadku wydatków na zakup budynków, budowli albo przedsiębiorstwa lub zorganizowanej części mienia przedsiębiorstwa, określonych w art. 26a ust. 3 pkt 2 i 4 ustawy o podatku dochodowym od osób fizycznych lub art. 18a ust. 2 pkt 2 i 4 ustawy o podatku dochodowym od osób prawnych, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "dowodem przekazania należności — w pozostałych przypadkach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie do wydatków inwestycyjnych poniesionych od dnia 1 stycznia 1997 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. K. Kalicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Finansów z dnia 23 grudnia 1996 r. (poz. 3)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ MATERIAŁÓW BUDOWLANYCH"
+    },
+    {
+     "type": "text",
+     "text": "Symbol Systematycznego wykazu wyrobów (SWW)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa materiału"
+    },
+    {
+     "type": "text",
+     "text": "Asfalty z przeróbki ropy naftowej 1 Asfalty naturalne 2 Pręty i profile średnie 3 Pręty i profile lekkie 4 Rury stalowe"
+    },
+    {
+     "type": "text",
+     "text": "5 Blachy walcowane na zimno, blachy powlekane i inne wyroby przetwórstwa hutni- 6"
+    },
+    {
+     "type": "text",
+     "text": "czego 7"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby hutnictwa żelaza uzdatnione z odpadów Wyroby walcowane z aluminium i stopów aluminium 8 Wyroby walcowane z cynku i stopów cynku 9 1"
+    },
+    {
+     "type": "text",
+     "text": "Rury z miedzi"
+    },
+    {
+     "type": "text",
+     "text": "0 Wyroby odlewnicze żeliwne, z wyjątkiem armatury, bez wyrobów o symbolu i"
+    },
+    {
+     "type": "text",
+     "text": "1 SWW 0614-7 i -8 Armatura metalowa przemysłowa (bez armatury do olejowej hydrauliki siłowej i bez N ex 0615 at\" armatury okrętowej specjalnej), z wyjątkiem wyrobów o symbolu SWW 0615-8 i -9 of W Armatura metalowa sieci domowej i szpitalna — — —"
+    },
+    {
+     "type": "text",
+     "text": "0616-1 i -2 Osprzęt centralnego ogrzewania z metali nieżelaznych 0617-1 Konstrukcje stalowe stanowiące część urządzenia (bez mechanizmów i osprzętu) 0622"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "0623-1 0624 0625 0626 0627 0629-4 0629-5 0651-16 0654-1 do -4 0656-321 0656-5 0656-6 0656-7 0672-11, -12, -2 0711-5 0719"
+    },
+    {
+     "type": "text",
+     "text": "0871-111 0871-91 0912-111 0915-51 0915-52 0918-13 091"
+    },
+    {
+     "type": "text",
+     "text": "0941-42 0943-71 0943-73 0945-12 0945-19 1114-11, -13, -17"
+    },
+    {
+     "type": "text",
+     "text": "1115-1 1115-281, -282 1119-41, -51"
+    },
+    {
+     "type": "text",
+     "text": "1121-35, -45 1123-1, -2, -3 1126 1131-31 ex 1131-9"
+    },
+    {
+     "type": "text",
+     "text": "1133-11, -14, -17, -2, -3, -41, -43, -45 1136-11 1136-6 1289-7"
+    },
+    {
+     "type": "text",
+     "text": "ex 1336-433, -444, -53 1361-332 1361-36 1361-376 1363 ex 1365 1411 ex 1413-9"
+    },
+    {
+     "type": "text",
+     "text": "1421 1422 1431"
+    },
+    {
+     "type": "text",
+     "text": "Gg sz Poz. 3"
+    },
+    {
+     "type": "text",
+     "text": "Konstrukcje zbiornikowe stalowe Elementy i segmenty budowlane aluminiowe Elementy i segmenty budowlane stalowe (ślusarka budowlana) Konstrukcje budowlane aluminiowe Konstrukcje stalowe lekkie do wyposażenia obiektów inwentarskich Elementy konstrukcyjne stalowe (bez ślusarki budowlanej) Konstrukcje metalowe z kształtowników giętych na zimno Sploty i linki do konstrukcji sprężonych Okucia budowlane metalowe Grzejniki z blachy do centralnego ogrzewania Wyroby przemysłowe z blachy emaliowane Wyroby przemysłowe z blachy aluminiowej Wyroby przemysłowe z blachy stalowej nierdzewnej Kuchnie gazowe oraz piece grzewcze i podgrzewacze Kotty grzewcze Zespoły i części maszyn i urządzeń energetycznych, z wyłączeniem zespołów i części silników spalinowych tłokowych (SWW:0719-7) Pompy wirowe odśrodkowe z wirnikiem łopatkowym Hydrofory Regulatory temperatury Zespoły redukcyjne Reduktory membranowe Elementy automatyki grzewczej Urządzenia do automatycznej regulacji i sterowania — wyłącznie urządzenia i zestawy urządzeń do automatycznej regulacji dostaw ciepła oraz zdalnego sterowania pracą systemów ciepłowniczych, a także części do tych urządzeń Liczniki elektryczne prądu zmiennego Wodomierze Gazomierze Ciepłomierze Przyrządy do pomiaru ilości ciepta pozostałe Rozdzielnice prefabrykowane wnętrzowe i napowietrzne wysokiego napięcia oraz stacje transformatorowe rozdzielcze prefabrykowane, z wbudowanymi transformatorami Urządzenia rozdzielcze i sterownicze niskiego napięcia Podstawy i wkładki bezpiecznikowe niskiego napięcia Części do urządzeń rozdzielczych wysokiego napięcia prefabrykowanych oraz części do urządzeń rozdzielczych i sterowniczych niskiego napięcia Przewody gołe aluminiowe i stalowo-aluminiowe napowietrzne Przewody elektroenergetyczne instalacyjne, uzbrojone i kabelkowe Kable elektroenergetyczne Sprzęt instalacyjny sygnalizacyjny domowy Sprzęt instalacyjny pozostały — z wyjątkiem wyrobów o symbolu SWW 1131-97, 1131-98, 1131-99 Oprawy oświetleniowe"
+    },
+    {
+     "type": "text",
+     "text": "Kuchnie elektryczne Urządzenia elektryczne grzejne do podgrzewania wody Srodki chemiczne pomocnicze do produkcji elementów budowlanych i dodatki do betonów oraz środki ochrony w budownictwie Kleje dla budownictwa"
+    },
+    {
+     "type": "text",
+     "text": "Płyty z polistyrenu spienionego (styropianu) Płyty z poliuretanów Bloki z poliuretanów Rury i armatura z tworzyw sztucznych Wyroby z tworzyw sztucznych dla budownictwa, z wyjątkiem 1365-45, -46, -47 i8 Kruszywo budowlane (bez kruszywa z żużla wielkopiecowego) Elementy i materiały budowlane kamienne, z wyjątkiem wyrobów o symbolu SWW 1413-919 Klinkier cementowy Cement Wapno"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "1433 Spoiwa gipsowe 1434 Elementy ścienne gipsowe 1435 Elementy stropowe gipsowe 1436 Elementy gipsowe pozostałe 144 Materiały budowlane ceramiczne (tącznie z wapienno-piaskowymi i wapienno- -żużlowymi) 145 Wyroby z betonu 146 Materiały budowlane izolacyjne i azbestowo-cementowe 1484, 1485 Zaprawy i wyprawy (bez ogniotrwałych), mieszanki mineralno-bitumiczne 151 Szkło budowlane 1623 Kamionka kanalizacyjna i sanitarna 1624 Kamionka budowlana 1632 Wyroby sanitarne ceramiczne 1639-1 Płytki i kształtki ceramiczne ścienne szkliwione 1715 Materiały podłogowe z drewna 1732 Elementy budynków i obiektów budowlanych z drewna i z materiałów drewnopochodnych (bez kompletów) 1733 Stolarka budowlana otworowa (bez okrętowej) 1735-11, -12 Komplety elementów budynków mieszkalnych wolno stojących i szeregowych z drewna i materiałów drewnopochodnych 1829-91 Tapety papierowe"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

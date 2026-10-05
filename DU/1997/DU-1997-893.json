@@ -1,0 +1,603 @@
+{
+ "eli": "DU/1997/893",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/893/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 października 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 43 pkt 2 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703 i z 1997 r. Nr 121, poz. 769) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Centralna informacja o zastawach rejestrowych, zwana dalej „centralną informacją”, wchodzi w skład Ministerstwa Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Centralna informacja składa się z: Wydziału Obsługi Klientów, Wydziału Obsługi Technicznej, Wydziału Obsługi Ekspozytur i ekspozytur centralnej informacji, stanowiących terenowe punkty centralnej informacji, zwanych dalej „ekspozyturami”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zadania z zakresu udzielania informacji oraz wydawania odpisów i zaświadczeń centralna informacja realizuje przez Wydział Obsługi Klientów oraz ekspozytury.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Centralna informacja udziela informacji oraz wydaje zaświadczenia i odpisy z rejestru zastawów na podstawie danych otrzymanych z Centrali Rejestru Zastawów, o której mowa w § 2 ust. 2 rozporządzenia Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie szczegółowej organizacji i sposobu prowadzenia rejestru zastawów (Dz. U. Nr 134, poz. 892).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Centralna informacja udziela następujących informacji:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "czy dany podmiot jako zastawca jest wpisany do rejestru zastawów i pod jakim numerem pozycji rejestru zastawów oraz czy toczy się postępowanie o wpis nowego zastawu rejestrowego, w którym dany podmiot występuje jako zastawca i pod jaką sygnaturą akt sprawy,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2)czy dany podmiot jako zastawca określonego przedmiotu zastawu rejestrowego jest wpisany do rejestru zastawów i pod jakim numerem pozycji rejestru zastawów oraz czy toczy się postępowanie o wpis nowego zastawu rejestrowego, w którym dany podmiot występuje jako zastawca określonego przedmiotu zastawu rejestrowego i pod jaką sygnaturą akt sprawy,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "o braku w rejestrze zastawów danego numeru pozycji rejestru,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "o wykreśleniu zastawu rejestrowego pod danym numerem pozycji rejestru zastawów wraz z podaniem daty wykreślenia oraz nazwy sądu, który wydał postanowienie o wykreśleniu tego zastawu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "o braku w Centrali Rejestru Zastawów sprawy o danej sygnaturze akt,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_5/pkt_6",
+     "text": "o numerze pozycji rejestru zastawów właściwym dla danej sygnatury akt sprawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_5/pkt_7",
+     "text": "że sprawa o danej sygnaturze akt jest w toku, wraz z określeniem daty złożenia wniosku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_5/pkt_8",
+     "text": "że pod daną sygnaturą akt sprawy wpisany byt zastaw rejestrowy pod danym numerem pozycji rejestru zastawów, wraz z podaniem daty jego wykreślenia oraz nazwy sądu, który wydał postanowienie o wykreśleniu tego zastawu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Informacji, o których mowa w & 5, udziela się w formie pisemnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Gromadzenie i rozliczanie wpływów z tytułu opłat za wydawanie odpisów, zaświadczeń, pisemnych informacji następuje w formie środka specjalnego jednostki budżetowej w Ministerstwie Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zgłaszanie wniosków do centralnej informacji"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Wniosek o wydanie odpisu z rejestru zastawów składa się na formularzu, którego wzór stanowi załącznik nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "We wniosku o wydanie odpisu z rejestru zastawów podaje się numer pozycji rejestru zastawów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Wniosek o wydanie zaświadczeń o wpisie danego podmiotu jako zastawcy lub o wpisie podmiotu jako zastawcy określonego przedmiotu zastawu rejestrowego w rejestrze zastawów składa się na formularzach, których wzory stanowią załączniki nr 2 i 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "We wniosku o wydanie zaświadczenia o wpisie podmiotu jako zastawcy w rejestrze zastawów podaje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "dla osób fizycznych — powszechny numer identyfikacyjny PESEL albo imię i nazwisko,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "dla osób prawnych, spółek komandytowych, spółek jawnych i innych podmiotów nie będących osobami fizycznymi — powszechny numer identyfikacyjny REGON albo nazwę.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "We wniosku o wydanie zaświadczenia o wpisie podmiotu jako zastawcy określonego przedmiotu zastawu rejestrowego w rejestrze zastawów podaje się dane, o których mowa w ust. 2, oraz numer pozycji Katalogu sposobu opisu przedmiotów zastawu, stanowiącego załącznik nr 1 do rozporządzenia Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie szczegółowej organizacji i sposobu prowadzenia rejestru zastawów (Dz. U. Nr 134, poz. 892), zwanego dalej Katalogiem, albo dane, o których mowa w ust. 2, numer pozycji Katalogu oraz jedną cechę identyfikującą przedmiot zastawu, określoną według Katalogu, będącą cechą do wyszukiwania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "We wnioskach, o których mowa w ust. 2 i 3, jeżeli nie wskazano w nich powszechnego numeru identyfikacyjnego, można podać również:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_4/pkt_1",
+       "text": "dla osób fizycznych — drugie imię oraz dane dotyczące adresu: województwo, gmina, miejsco- WOśŚĆ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_4/pkt_2",
+       "text": "dla osób prawnych, spółek komandytowych, spółek jawnych i innych podmiotów nie będących osobami fizycznymi — dane dotyczące adresu: województwo, gmina, miejscowość.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Wniosek o podanie numeru pozycji rejestru zastawów, pod którym jest wpisany zastaw rejestrowy, składa się na formularzu, którego wzór stanowi załącznik nr 4 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "We wniosku, o którym mowa w ust. 1, podaje się sygnaturę akt sprawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Wnioski, o których mowa w § 8—10, zwane dalej „wnioskami”, składa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "w Wydziale Obsługi Klientów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "w ekspozyturze.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Ekspozytura udziela informacji oraz wydaje zaświadczenia i odpisy z rejestru zastawów tylko na wniosek złożony bezpośrednio w ekspozyturze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Wnioski przesyłane pocztą do ekspozytur przekazuje się do Wydziału Obsługi Klientów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Wniosek złożony z naruszeniem przepisów",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 8,89 ust. 1,2,3i § 10, wniosek nie opłacony lub od którego uiszczono opłatę w wysokości niższej od należnej, pozostawia się bez nadania biegu, informując o tym wnioskodawcę."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Wnioski wpisuje się do ewidencji wniosków, prowadzonej przez Wydział Obsługi Klientów lub ekspozyturę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W ewidencji wniosków, o której mowa w § 13, wpisuje się datę wpływu wniosku, rodzaj wniosku oraz sposób i datę jego załatwienia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Szczegółowe zasady udzielania informacji oraz wydawania odpisów i zaświadczeń"
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Centralna informacja udziela informacji oraz wydaje zaświadczenia i odpisy z rejestru zastawów na wniosek, na podstawie danych wyszukanych w rejestrze zastawów, dokładnie odpowiadających wypełnionym lub wykreślonym polom wniosku.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Uwzględniając wniosek o wydanie odpisu z rejestru zastawów, centralna informacja:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "wydaje odpis z rejestru zastawów lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "udziela informacji, o których mowa w §5pkt3i4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Odpis z rejestru zastawów może być skrócony, aktualny lub pełny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Odpis skrócony z rejestru zastawów zawiera aktualne dane dotyczące zastawcy, określone w rubryce trzeciej w polach od pierwszego do siódmego danej pozycji rejestru zastawów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Odpis aktualny z rejestru zastawów zawiera aktualną treść wpisów w rejestrze zastawów pod daną pozycją tego rejestru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Odpis pełny z rejestru zastawów zawiera treść wszystkich wpisów w rejestrze zastawów, dokonanych od chwili pierwszego wpisu pod daną pozycją tego rejestru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Na każdym odpisie z rejestru zastawów zamieszcza się informację, że toczy się postępowanie o zmianę wpisu lub o wykreślenie zastawu pod podaną sygnaturą sprawy albo że nie toczy się takie postępowanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Informacje o braku w rejestrze zastawów danego numeru pozycji rejestru wydaje się w wypadku, gdy w rejestrze nie ma jeszcze takiego numeru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Jeżeli pod danym numerem pozycji rejestru zastawów zastaw rejestrowy został wykreślony, udziela się informacji, o której mowa w § 5 pkt 4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Uwzględniając wniosek o wydanie zaświadczeń o wpisie podmiotu jako zastawcy lub o wpisie podmiotu jako zastawcy określonego przedmiotu zastawu rejestrowego w rejestrze zastawów, centralna informacja wydaje:",
+   "children": [
+    {
+     "type": "text",
+     "text": "\"Imię i nazwisko / Nazwa"
+    },
+    {
+     "type": "text",
+     "text": "Ulica"
+    },
+    {
+     "type": "text",
+     "text": "Poczta"
+    },
+    {
+     "type": "text",
+     "text": "Kraj — Miejscowość"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Podaj numer pozycji",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "zaświadczenie o braku wpisu danego podmiotu jako zastawcy lub o braku wpisu danego podmiotu jako zastawcy określonego przedmiotu zastawu rejestrowego w rejestrze zastawów oraz że toczy się postępowanie, pod podaną sygnaturą akt sprawy, o wpis nowego zastawu rejestrowego, w którym dany podmiot występuje jako zastawca, lub o wpis nowego zastawu rejestrowego, w którym dany podmiot występuje jako zastawca określonego przedmiotu zastawu rejestrowego, albo że nie toczy się takie postępowanie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "zaświadczenie, że dany podmiot jako zastawca lub dany podmiot jako zastawca określonego przedmiotu zastawu rejestrowego jest wpisany do rejestru zastawów pod daną pozycją rejestru zastawów oraz że toczy się postępowanie, pod podaną sygnaturą akt sprawy, o wpis nowego zastawu rejestrowego, w którym dany podmiot występuje jako zastawca, lub o wpis nowego zastawu rejestrowego, w którym dany podmiot występuje jako zastawca określonego przedmiotu zastawu rejestrowego, albo że nie toczy się takie postępowanie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Na skutek złożenia wniosku o podanie numeru pozycji rejestru zastawów, pod którym jest wpisany zastaw rejestrowy, centralna informacja udziela informacji, o których mowa w § 5 pkt 5, 6, 7i8.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Każdy odpis, zaświadczenie oraz pisemna informacja powinny zawierać, poza treścią, oznaczenie miejsca i daty wydania dokumentu oraz datę i godzinę stanu rejestru zastawów, według którego wydano odpis, zaświadczenie lub pisemną informację, a także powinny być podpisane przez upoważnionego pracownika i opatrzone pieczęcią urzędową.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1998 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: L. Kubicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 15 października 1997 r. (poz. 893) Załącznik nr 1",
+   "body": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zakreślić jeden z kwadratów Skrócony [__|",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pełny |_|"
+      },
+      {
+       "type": "text",
+       "text": "Aktualny |_|"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Imię i nazwisko / Nazwa Kraj — Miejscowość"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa/ Nazwisko lub pierwszy człon nazwiska j 2. Drugi człon nazwiska złożonego",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Pierwsze imię See 2",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Województwa",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "Imię i nazwisko / Nazwa Ulica Nr lokalu Kraj - Miejscowość Kod pocztowy"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwał Nazwisko lub pierwszy człon nazwiska",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Pierwsze imię",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Dział = 10. Litera (A-F) | 11. Nozwa cechy wg Katalogu",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ulica"
+      },
+      {
+       "type": "text",
+       "text": "Kraj — Miejscowość"
+      },
+      {
+       "type": "text",
+       "text": "NsRejZa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": []
+  }
+ ],
+ "footnotes": {}
+}

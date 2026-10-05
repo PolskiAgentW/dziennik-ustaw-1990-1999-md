@@ -1,0 +1,531 @@
+{
+ "eli": "DU/1997/709",
+ "title": "Rozporządzenie Ministra Łączności z dnia 4 września 1997 r. w sprawie wymagań technicznych i eksploatacyjnych dla urządzeń, linii i sieci telekomunikacyjnych zakładanych i używanych na terytorium Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/709/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ŁĄCZNOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 września 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań technicznych i eksploatacyjnych dla urządzeń, linii i sieci telekomunikacyjnych zakładanych i używanych na terytorium Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 2 ustawy z dnia 23 listopada 1990 r. o łączności (Dz. U. z 1995 r. Nr 117, poz. 564, z 1996r. Nr 106, poz. 496 oraz z 1997 r. Nr 43, poz. 272, Nr 88, poz. 554 i Nr 106, poz. 675) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wprowadza się do stosowania na terytorium Rzeczypospolitej Polskiej dla urządzeń, linii i sieci telekomunikacyjnych wymagania techniczne i eksploatacyjne w brzmieniu określonym w załącznikach nr 2—50 do rozporządzenia*).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szczegółowy wykaz załączników, o których mowa w § 1, zawiera załącznik nr 1 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Traci moc rozporządzenie Ministra Łączności z dnia 16 lipca 1993 r. w sprawie wymagań technicznych i eksploatacyjnych oraz warunków wzajemnej współpracy urządzeń, linii i sieci telekomunikacyjnych zakładanych i używanych na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 70, poz. 340).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Łączności: A. Zieliński"
+  },
+  {
+   "type": "text",
+   "text": "*) Załączniki nr 2—50 do rozporządzenia stanowią odrębne wydawnictwa i są do nabycia w Instytucie Łączności: 04-894 Warszawa, ul. Szachowa 1, tel. 128470, teleks 813630, telefaks 129007."
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 1 do rozporządzenia Ministra Łączności z dnia 4 września 1997 r. (poz. 709)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ ZAŁĄCZNIKÓW NR 2—50 DO ROZPORZĄDZENIA MINISTRA ŁĄCZNOŚCI"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Ogólne wymagania techniczne dla systemów radiowego dostępu abonenckiego dla polskiej sieci telekomunikacyjnej użytku publicznego."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne dotyczące krajowego planu transmisji dla sieci telefonicznej (KPT-92)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania dla numeracji punktów sygnalizacyjnych w sieci PSTN/ISDN (PNK-92-S7)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla cyfrowych systemów komutacyjnych dla polskiej sieci telekomunikacyjnej użytku publicznego."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla urządzeń i sieci pakietowych oraz zasady ich współpracy między sobą i współpracy z innymi sieciami telekomunikacyjnymi."
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "— Zasady tworzenia sieci danych z komutacją pakietów i współpracy operatorów tych sieci na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "— Metody dostępu do sieci pakietowej użytku publicznego — WTE na interfejsy między DTE i DCE."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6a**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla urządzeń i sieci pakietowych oraz zasady ich współpracy między sobą i współpracy z innymi sieciami telekomunikacyjnymi."
+    },
+    {
+     "type": "heading",
+     "label": "Część 3",
+     "text": "— WTE na współpracę sieci danych z komutacją pakietów."
+    },
+    {
+     "type": "heading",
+     "label": "Część 4",
+     "text": "— Metodyka badań homologacyjnych urządzeń dla sieci danych z komutacją pakietów."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla synchronizacji central cyfrowych w polskiej sieci telekomunikacyjnej użytku publicznego."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne dotyczące zasad współpracy w krajowej sieci telegraficznej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 9**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla telefonicznych central abonenckich i zasady współpracy z centralami sieci telekomunikacyjnej użytku publicznego."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 10*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla cyfrowych przełącznic automatycznych z komutacją kanałów 64 kbit/s i portami 2 Mbit/s (DXC-1/0)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 11**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla kabli optotelekomunikacyjnych liniowych."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 12",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla kabli światłowodowych w przewodzie odgromowym linii wysokiego napięcia."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 13",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla światłowodowej przełącznicy kabli jednomodowych."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 14**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla rodziny teletransmisyjnych plezjochronicznych systemów cyfrowych."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 15**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla sieci radiokomunikacji ruchomej lądowej o strukturze komórkowej, zakładanej i eksploatowanej w paśmie częstotliwości 450 MHz, oraz warunki jej współpracy z siecią telekomunikacyjną użytku publicznego."
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "— Wymagania podstawowe."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "— System NMT-450i."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 15a**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla sieci radiokomunikacji ruchomej lądowej o strukturze komórkowej, zakładanej i eksploatowanej w paśmie częstotliwości 450 MHz, oraz warunki jej współpracy z siecią telekomunikacyjną użytku publicznego."
+    },
+    {
+     "type": "heading",
+     "label": "Część 3",
+     "text": "— Stacja ruchoma."
+    },
+    {
+     "type": "heading",
+     "label": "Część 4",
+     "text": "— Stacja bazowa."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 16",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla aparatów telekopiowych przeznaczonych do pracy w komutowanej sieci telefonicznej użytku publicznego."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 17**)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla transmisyjnych systemów abonenckich do realizacji kanałów telefonicznych (typ A)."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 18**) Wymagania techniczne i eksploatacyjne dla aparatów telefonicznych CB ogólnego przeznaczenia, pracujących z analogowym łączem telefonicznym."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 19**) Wymaganiatechniczne i eksploatacyjne dla zespołu telefonu bezsznurowego systemu CT1."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 20 Wymagania techniczne i eksploatacyjne dla ogólnodostępnych aparatów telefonicznych wykorzystujących kartę abonamentową."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 21*) Wymagania techniczne dotyczące elementów składowych telewizji kablowej."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 22*) Wymagania techniczne i eksploatacyjne na osłony złączy dla kabli miedzianych i światłowodowych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 23*) Wymagania techniczne na okablowanie strukturalne."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 24**) Wymagania techniczne i eksploatacyjne dla systemu SDH."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 25*) Wymagania techniczne i eksploatacyjne dla linii i urządzeń ISDN do realizacji kanałów 2B+D."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 26*) Wymagania techniczne i eksploatacyjne dla urządzeń radiokomunikacji ruchomej o modulacji kąta przeznaczonych do transmisji sygnałów mowy."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 27*) Wymagania techniczne i eksploatacyjne dla nadajników telewizyjnych oraz metodyka badań."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 28*) Wymagania techniczne i eksploatacyjne dla przemienników telewizyjnych oraz metodyka badań."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 29*) Wymagania techniczne i eksploatacyjne dla naziemnych stacji satelitarnych służby stałej."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 30*) Wymagania techniczne i eksploatacyjne dla sieci przywoławczych."
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "— Wymagania techniczne i eksploatacyjne dla ogólnopolskiej sieci przywoławczej użytku publicznego z wykorzystaniem nadajników radiofonicznych UKF pracujących w pasmie częstotliwości 66—74 MHz."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "— Wymagania techniczne i eksploatacyjne dla wewnętrznych systemów przywoławczych o małym zasięgu działania."
+    },
+    {
+     "type": "heading",
+     "label": "Część 3",
+     "text": "— Wymagania techniczne i eksploatacyjne dla lokalnych sieci przywoławczych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 31*) Wymagania techniczne i eksploatacyjne dla optotelekomunikacyjnych kabli stacyjnych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 32*) Wymagania techniczne i eksploatacyjne dla zabezpieczenia linii i urządzeń telekomunikacyjnych przed przepięciami i przetężeniami powstającymi w torach telekomunikacyjnych przewodowych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 33*) Wymagania techniczne i eksploatacyjne oraz zalecane metody pomiarów urządzeń do transmisji danych w sieciach radiokomunikacyjnych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 34*) Wymagania techniczne i eksploatacyjne dla radiowych urządzeń do zdalnego sterowania."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 35*) Wymagania techniczne i eksploatacyjne dla nadajników radiofonicznych."
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "— Wymagania techniczne i eksploatacyjne dla nadajników radiofonicznych z modulacją częstotliwościową."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "— Wymagania techniczne i eksploatacyjne dla nadajników radiofonicznych z modulacją amplitudową."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 36*) Wymagania techniczne dla urządzeń cyfrowych linii radiowych."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 37*) Podstawowe wymagania techniczne i eksploatacyjne dla sieci telefonii ruchomej GSM 900 o strukturze komórkowej oraz warunki ich współpracy z siecią telekomunikacyjną użytku publicznego."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 38*) Wymagania techniczne i eksploatacyjne dla terminali ISDN."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 39*) Wymagania techniczne i eksploatacyjne dla bezprzewodowego systemu łączności ruchomej opartego na standardzie CT2."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 40*)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla telekomunikacyjnych kabli miejscowych."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 41*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla systemu bilingowego analogowych central miejscowych."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 42*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania dotyczące systemów obsługi wiadomości (MHS)."
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "— Wymagania techniczne i eksploatacyjne na system obsługi wiadomości MHS."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "— Wymagania na procedury obsługi wiadomości międzyosobowych w systemach MHS."
+    },
+    {
+     "type": "heading",
+     "label": "Część 3",
+     "text": "— Wymagania na procedury obsługi wiadomości elektronicznej wymiany danych (EDI) w systemach MHS."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 43*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla urządzeń zgłoszeniowo-rejestrujących."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 44*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne na krajowy system łączności alarmowej i bezpieczeństwa GMDSS w zakresie obszarów morza A1 i A2."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 45*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne na urządzenia cyfrowego selektywnego wywołania w radiokomunikacji ruchomej morskiej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 46*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania dotyczące automatycznego systemu łączności radiotelefonicznej ze statkami w paśmie VHF w ruchomej służbie morskiej."
+    },
+    {
+     "type": "heading",
+     "label": "Część 1",
+     "text": "— Wymagania techniczne i eksploatacyjne dla zautomatyzowanego systemu łączności radiotelefonicznej ze statkami w paśmie VHF w ruchomej służbie morskiej."
+    },
+    {
+     "type": "heading",
+     "label": "Część 2",
+     "text": "— Wymagania techniczne i eksploatacyjne dla urządzeń wchodzących w skład wyposażenia automatycznego systemu łączności komercyjnej ze statkami morskimi w paśmie VHF dla kierunku statek—ląd."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 47*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla systemu radiowej transmisji danych RDS."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 48*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Podstawowe wymagania techniczne i eksploatacyjne dla urządzeń systemu DCS 1800."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 49*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne i eksploatacyjne dla urządzeń systemu DECT."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 50*)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wymagania techniczne dla cyfrowych kodeków telewizyjnych."
+    },
+    {
+     "type": "text",
+     "text": "*) Nowy załącznik. **) Załącznik zmieniony w stosunku do załącznika o takim samym tytule, umieszczonego w rozporządzeniu, o którym mowa w § 3."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

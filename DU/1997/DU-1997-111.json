@@ -1,0 +1,3666 @@
+{
+ "eli": "DU/1997/111",
+ "title": "Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 20 grudnia 1996 r. w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane gospodarki wodnej i ich usytuowanie.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/111/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OCHRONY ŚRODOWISKA, ZASOBÓW NATURALNYCH I LEŚNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 grudnia 1996 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane gospodarki wodnej i ich usytuowanie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. Nr 89, poz. 414 oraz z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Dział I",
+   "text": "PRZEPISY OGÓLNE"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy wstępne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie ustala warunki techniczne, jakim powinny odpowiadać obiekty budowlane gospodarki wodnej, zwane dalej „budowlami hydrotechnicznymi”, i ich usytuowanie, przy zachowaniu przepisów Prawa budowlanego, odrębnych ustaw i przepisów szczególnych, a także ustaleń Polskich Norm.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przepisy rozporządzenia stosuje się przy budowie, odbudowie i rozbudowie obiektów budowlanych gospodarki wodnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Przepisy rozporządzenia mają zastosowanie do obiektów budowlanych podstawowych melioracji wodnych w rozumieniu przepisów prawa wodnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Budowle hydrotechniczne na obszarach szkód górniczych, parków narodowych, krajobrazowych i uzdrowisk oraz w pasie nadbrzeżnym podlegają również przepisom odnoszącym się do tych obszarów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przepisy rozporządzenia nie dotyczą budowli morskich i melioracji szczegółowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "budowli hydrotechnicznej — rozumie się przez to budowle, wraz z urządzeniami i instalacjami technicznymi z nimi związanymi, stuzace gospodarce wodnej oraz kształtowaniu zasobów wodnych i korzystaniu z nich, a w szczególności: zapory ziemne i betonowe, jazy, upusty, przelewy i spusty, śluzy żeglugowe, waty przeciwpowodziowe, przepusty, śluzy watowe i mnichy, siłownie i elektrownie wodne, ujęcia śródlądowych wód powierzchniowych, wyloty ścieków, czasze zbiorników wodnych, wraz ze zboczami i skarpami, pompownie, kanały, sztolnie, rurociągi hydrotechniczne, syfony, lewary, akwedukty, stopnie wodne i progi, budowie regulacyjne na rzekach i potokach, grodze, nadpoziomowe stawy gromadzące substancje płynne i półpłynne, porty, baseny, zimowiska, pirsy, mola, nabrzeża, bulwary, pochylnie i falochrony na wodach śródlądowych, przepławki dla ryb, w tym łososiowatych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "budowli piętrzącej — rozumie się przez to każdą budowlę umożliwiającą state lub okresowe utrzymanie wzniesionego ponad przyległy teren lub akwen zwierciadła wody bądź substancji piynnej lub póipłynnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "wysokości piętrzenia budowli hydrotechnicznej — rozumie się przez tą różnicę rzędnej maksymalnego poziomu piętrzenia i rzędnej zwierciadła wody dolnej, odpowiadającej przepływowi średniemu niskiemu; w przypadku prognozowanej erozji dna rzeki lub kanału należy uwzględnić również tę erozję; gdy budowla nie styka się z dolną wodą, przyjmuje się odpowiednio najniższą rzędną bezpośrednio przyległego terenu naturalnego lub uformowanego sztucznie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "normalnym poziomie piętrzenia (NPP) — rozumie się przez to najwyższy eksploatacyjny poziom zwierciadła wody w okresach poza wezbraniami:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_4/lit_a",
+       "text": "dla budowli hydrotechnicznych piętrzących wody okresowo (np. wały przeciwpowodziowe) za",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "normalny poziom piętrzenia przyjmuje się poziom wody przy przepływie miarodajnym,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_4/lit_b",
+       "text": "dla budowli hydrotechnicznych znajdujących się w zasięgu cofki budowli piętrzącej za normalny poziom piętrzenia przyjmuje się położenie zwierciadła wody wynikające z krzywej cofkowej ustalonej dla NPP i średniorocznego przepływu wody,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "maksymalnym poziomie piętrzenia (Max PP) — rozumie się przez to najwyższe położenie zwierciadła spiętrzonej wody w okresie użytkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "minimalnym poziomie piętrzenia (Min PP) — rozumie się przez to najniższe położenie zwierciadła spiętrzonej wody w okresie użytkowania; przy ustalaniu tego poziomu nie uwzględnia się okresowo niższych piętrzeń, spowodowanych np. względami bezpieczeństwa, potrzebą przeprowadzenia przeglądów i remontów lub trudnościami zaopatrzenia odbiorców w wodę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "podstawowym układzie obciążeń budowli piętrzącej — rozumie się przez to obciążenia występujące przy pełnej sprawności jej urządzeń i maksymalnym poziomie piętrzenia dla zbiorników retencyjnych lub poziomie piętrzenia przy miarodajnym przepływie wezbraniowym Q, określonym w § 56, a jeżeli poziom ten jest niższy od NPP — przy normalnym poziomie piętrzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "przepływie średnim niskim — rozumie się przez to wartość średnią arytmetyczną obliczoną z minimalnych rocznych przepływów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_4/pkt_9",
+     "text": "miarodajnym maksymalnym wezbraniu — rozumie się przez to największy przepływ, jaki może się zdarzyć w określonych warunkach fizyczno-geograficznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_4/pkt_10",
+     "text": "maksymalnym przepływie budowlanym — rozumie się przez to największy przepływ, który nie powoduje przelania się przez koronę budowli tymczasowych lub przerwania tych budowli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_4/pkt_11",
+     "text": "obciążeniach wyjątkowych — rozumie się przez to obciążenia występujące, gdy poziom piętrzenia przekracza poziom piętrzenia określony w pkt 5 lub gdy z powodu niesprawności urządzeń upustowych lub zdarzeń losowych występują mniej korzystne warunki pracy budowli niż dla podstawowego układu obciążeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_4/pkt_12",
+     "text": "obciążeniu charakterystycznym — rozumie się przez to obciążenia w postaci sił zewnętrznych lub oddziafywan wywołanych wpływem temperatury, skurczu, osiadania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_4/pkt_13",
+     "text": "konstrukcji z betonu słabo zbrojonego — rozumie się przez to konstrukcję, w której procent zbrojenia jest mniejszy od minimalnego procentu zbrojenia konstrukcji żelbetowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_4/pkt_14",
+     "text": "gruntach antropogenicznych — rozumie się przez to grunty sztuczne powstałe w wyniku działalności człowieka,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_4/pkt_15",
+     "text": "substancjach płynnych lub potptynnych — rozumie się przez to substancje ciekie lub półciekłe, zmieszane z wodą, powstałe przy eksploatacji kopalń, elektrowni i innych zakładów przemysłowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Ustalenia podstawowe"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Budowle hydrotechniczne w czasie występowania podstawowego układu obciążeń nie mogą powodować zagrożeń bezpieczeństwa ludzi i mienia, a także szkodliwych zmian w środowisku naturalnym, kulturze oraz infrastrukturze technicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Konstrukcje budowli hydrotechnicznych powinny być wykonane z wyrobów posiadających certyfikaty, aprobaty, zaświadczenia potwierdzające ich jakość oraz zachować trwałość i cechy użytkowe w ustalonym okresie użytkowania; elementy budowli hydrotechnicznych ulegające uszkodzeniu lub korozji powinny być zabezpieczone przed tymi zagrożeniami i tak skonstruowane, aby byta możliwa ich naprawa lub wymiana.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Budowle hydrotechniczne służące do magazynowania, piętrzenia i transportowania wody oraz substancji płynnych lub półpłynnych powinny być zabezpieczone przed przepełnieniem i wypłynięciem przez wzniesienie koron oraz brzegów budowli na bezpieczną wysokość i przez wyposażenie w upusty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Budowle, o których mowa w § 7, powinny być wyposażone w spusty denne, sztolnie lub inne przewody umożliwiające bezpieczne odprowadzenie nagromadzonych wód lub substancji płynnych lub półpłynnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Kanały w nasypach należy wyposażyć w bramy awaryjne, umożliwiające ograniczenie szkód spowodowanych przerwaniem obwałowań; można odstąpić od budowy bramy awaryjnej w technicznie uzasadnionym przypadku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Ziemne budowle piętrzące, jak zapory ziemne, wały przeciwpowodziowe, obwałowania kanałów i mokrych składowisk, należy wykonać z gruntów naturalnych lub antropogenicznych, w których zawartość składników podlegających rozkładowi lub rozpuszczeniu w wodzie nie zagraża trwałości i bezpieczeństwu zarówno w czasie budowy, jak i w użytkowaniu; budowle, wraz z ich podłożem, powinny być stateczne w każdych warunkach pracy, w całości i elementach, takich jak: korpus, skarpy, umocnienia, uszczelnienia, warstwy ochronne, drenaże.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Ziemnych budowli piętrzących nie należy przecinać innymi budowlami; jeżeli przecięcia budowli ziemnej nie da się uniknąć, należy przewidzieć zabezpieczenie przed filtracją wzdłuż styków tych budowli.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Konstrukcje z betonu słabo zbrojonego i żelbetowe powinny spełniać warunki dotyczące wytrzymałości, szczelności, ustalonego zakresu odporności na powstanie rys, wodoszczelności i mrozoodporności, zależnych od przyjętych ustaleń projektu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Podłoże i przyczółki budowli piętrzącej powinny być zabezpieczone przed ujemnymi skutkami filtra-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "cji, przebicia hydraulicznego, sufozji i wypierania gruntu, w szczególności przez stosowanie przesłon przeciwfiltracyjnych i drenaży."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Budowle hydrotechniczne posadawia się na podłożu naturalnym lub wzmocnionym, które pod wpływem obciążeń konstrukcją, wodą i innymi czynnikami nie ulegnie zmianom zagrażającym bezpieczeństwu budowli lub zakłócającym jej użytkowanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Budowle hydrotechniczne powinny być zabezpieczone przed działaniem ludzi, zwierząt, roślin i innych czynników zewnętrznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Budowle hydrotechniczne piętrzące i ich części nie mogą być przekazane do użytku przed przeprowadzeniem i uzyskaniem pozytywnych wyników próbnego obciążenia wodą, gruntem i innymi czynnikami w najniekorzystniejszych z możliwych warunkach eksploatacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Próby należy przeprowadzać według określonego w dokumentacji budowy sposobu obciążenia oraz zakresu niezbędnych obserwacji i pomiarów kontrolnych, z zastrzeżeniem ust. 3 i 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Próbne obciążenie wodą zbiorników wodnych, z wyjątkiem składowisk substancji płynnych i półpłynnych oraz wałów przeciwpowodziowych, należy przeprowadzić przy napełnieniu do normalnego poziomu piętrzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Dla budowli klasy | i Il należy opracować plan ewakuacji ludzi i mienia na wypadek wystąpienia katastrofy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Dopuszcza się do próbnego obciążenia budowli piętrzącej wodą, o którym mowa w § 16, po stwierdzeniu, że:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "wszystkie urządzenia z zamknięciami i napędami gwarantują swobodne manewrowanie, zapewniona jest możliwość dojazdu do budowli oraz niezbędna łączność telefoniczna i radiowa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "zrealizowano przedsięwzięcia wymagane w § 27,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_17/pkt_3",
+     "text": "zainstalowano i przekazano do użytku urządzenia kontrolno-pomiarowe budowli i przyległych terenów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_17/pkt_4",
+     "text": "przygotowano do zalewu i odebrano czaszę zbiornika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_17/pkt_5",
+     "text": "skompletowano pełną dokumentację techniczną i powykonawczą, wraz z instrukcją eksploatacyjną i instrukcją próbnego obciążenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Usytuowanie budowli hydrotechnicznych i ich oddziaływanie na środowisko"
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Budowle hydrotechniczne i wchodzące w ich skład inne budowle powinny być usytuowane w oparciu o studium lokalizacyjne i projektowane tak, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "zapewniały zgodność z miejscowym planem zagospodarowania przestrzennego oraz wymogami decyzji o warunkach zabudowy i zagospodarowania terenu,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)zapewniały optymalizację kryteriów gospodarczych, społecznych, ekologicznych i innych,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "ograniczały skutki ewentualnej awarii lub katastrofy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_1/pkt_4",
+       "text": "harmonizowały z istniejącym krajobrazem, przy uwzględnieniu regionalnych cech budownictwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_1/pkt_5",
+       "text": "zapewniały wykonanie niezbędnych badań geologiczno-inżynierskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_18/ust_1/pkt_6",
+       "text": "zapewniały realizację warunków zawartych w pozwoleniu wodnoprawnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Jeżeli budowla hydrotechniczna spełnia również funkcję obiektu komunikacyjnego, przy jej projektowaniu i wykonaniu stosuje się przepisy dotyczące budownictwa transportowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Brzegom zbiorników wodnych, zabudowanych rzek i kanałów należy zapewnić stateczność, zabezpieczając je odpowiednio przed uszkodzeniem przez wodę i inne czynniki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Brzegi i skarpy zbiornika wodnego powinny być tak ukształtowane, aby umożliwiały zwierzętom dostęp do wody; jeżeli utrudnienia takie są nie do uniknięcia, należy zbudować odpowiednie trasy dostępu zwierząt do wody.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Budowle hydrotechniczne przegradzające rzekę powinny być wyposażone w urządzenia zapewniające swobodne przedostawanie się ryb przez przeszkodę, a zbiorniki wodne powinny być tak ukształtowane, aby były pozostawione ostoje i tarliska dla ryb.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Przygotowanie zbiornika wodnego przed spiętrzeniem powinno odpowiadać warunkom sanitarnym i użytkowym oraz ochrony środowiska; ukształtowanie zbiornika wodnego powinno zapewniać zminimalizowanie płycizn i odsłonięć w czasie eksploatacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Ukształtowanie zbiornika wodnego powinno ograniczać możliwości powstawania zatorów lodowych i śryżowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Zamulanie zbiorników wodnych, powodujące utratę pojemności użytkowej i inne ujemne skutki, powinno być ograniczone odpowiednią zabudową przeciwrumowiskową zlewni lub zastosowaniem rozwiązań technicznych ograniczających dopływ ciał stałych; w dokumentacji budowy należy przewidzieć możliwość usuwania powstałych odkładów i ich wykorzystanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Dolne stanowisko budowli hydrotechnicznej piętrzącej oraz związane z nim tereny, budowle i urządzenia należy zabezpieczyć przed erozją, zapewniając stabilizację dolnej wody.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Przy gruntach rozmywalnych lub elektrowni wodnej należy przewidzieć stabilizację dna kanału od-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "piywowego lub rzeki przez budowę progu o stałym przelewie lub budowlę piętrzącą położoną poniżej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Dolne stanowisko budowli hydrotechnicznej powinno być zasilane przepływem nie mniejszym od przepływu biologicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Przepływ większy od nieszkodliwego dla dolnego stanowiska i odcinka rzeki poniżej nie powinien przekraczać aktualnego dopływu do zbiornika; w dokumentacji budowy należy przewidzieć sposoby ostrzegania mieszkańców doliny poniżej zbiornika przed przewidywanym przekroczeniem wartości nieszkodliwego przepływu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Dla każdej budowli hydrotechnicznej piętrzącej powinno się określić wielkość przepływu nieszkodliwego poniżej budowli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Dla budowli hydrotechnicznej o wysokości piętrzenia przekraczającej 2,0 m lub gromadzącej więcej niż 200 000 m$ wody powinno się określić przebieg i zasięg fali wezbraniowej, wywołanej zniszczeniem lub uszkodzeniem tej budowli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Dla dolin i obszarów, na których fala wezbraniowa, wywołana zniszczeniem lub uszkodzeniem budowli hydrotechnicznej, może spowodować zagrożenie życia lub straty w środowisku naturalnym, kulturze oraz infrastrukturze technicznej, należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_27/ust_3/pkt_1",
+       "text": "zainstalować systemy ostrzegawcze, sygnalizujące niebezpieczeństwo wtargnięcia fali wezbraniowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_27/ust_3/pkt_2",
+       "text": "wykonać zabezpieczenia w postaci obwałowań, nasypów-schronisk chroniących ludność, przemysł i dobra kultury albo dokonać przemieszczeń zakładów, dróg, linii energetycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_27/ust_3/pkt_3",
+       "text": "wskazać istniejące lub wybudować nowe drogi ewakuacyjne oraz opracować plany działań w razie katastrofy, w tym ewakuacji, akcji ratowniczych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział II",
+   "text": "KLASYFIKACJA BUDOWLI HYDROTECHNICZNYCH"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Podział budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Budowle hydrotechniczne dzielą się na tymczasowe i stałe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Do budowli hydrotechnicznych tymczasowych * zalicza się: ss i",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_2/pkt_1",
+       "text": "budowle hydrotechniczne, których zadaniem jest, bez względu na okres ich użytkowania, umożliwienie budowy, renowacji lub napraw innych budowli hydrotechnicznych, | 2) budowle hydrotechniczne, których przewidywany czas użytkowania nie przekracza 5 lat.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Do stałych budowli hydrotechnicznych zalicza się inne niż określone w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Stałe budowle hydrotechniczne dzielą się na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "budowle główne, utrzymujące piętrzenie, od których stanu zależy osiągnięcie zamierzonych efektów technicznych i gospodarczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "budowle drugorzędne, nie utrzymujące piętrzenia, których awaria, uszkodzenie, remont lub okresowe wyłączenie nie powodują ani zagrożenia bezpieczeństwa budowli głównej lub ograniczenia skuteczności jej działania, ani zagrożenia dla terenów i środowiska, znajdujących się w zasięgu spiętrzenia budowli głównej, jak kierownice i waty rozdzielcze, konstrukcje chroniące przed działaniem lodu, odbojnice, kładki służbowe nie obciążone urządzeniami zamknięć upustów i ich mechanizmami wyciągowymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Klasy budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Stałe budowle hydrotechniczne zalicza się do jednej z czterech klas ważności: I, II, III, IV. Klasami wyższymi, którym stawia się większe wymagania, są klasy o niższych liczbach porządkowych; najwyższą klasą ważności jest klasa I.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "W zależności od klasy budowli hydrotechnicznej różnicuje się warunki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_31/pkt_1",
+     "text": "przepływów obliczeniowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_31/pkt_2",
+     "text": "współczynników przyjmowanych w obliczeniach statycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_31/pkt_3",
+     "text": "bezpiecznych wzniesień koron budowli, brzegów nad określonym położeniem zwierciadła wody i poziomami wtaczania się fal,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_31/pkt_4",
+     "text": "wyposażenia w urządzenia technicznej kontroli budowli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_31/pkt_5",
+     "text": "zakresu wymaganych studiów przedprojektowych i projektowych, w tym badań modelowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_31/pkt_6",
+     "text": "wyposażenia upustów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Klasę budowli hydrotechnicznych głównych określa się na podstawie wskaźników i informacji zawartych w tabeli 1; budowię należy zaliczyć do klasy najwyższej spośród klas ustalonych na podstawie poszczególnych wskaźników.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Klasę budowli hydrotechnicznej drugorzędnej przyjmuje się o jeden stopień niższą od ostatecznie ustalonej klasy budowli głównej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Gdy budowla główna zaliczona jest do klasy IV, również budowlę drugorzędną zalicza się do tej klasy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Tymczasowych budowli hydrotechnicznych nie zalicza się do poszczególnych klas, z wyjątkiem przypadków, gdy ich zniszczenie może wywołać następstwa o charakterze katastrofalnym dla miast i osiedli oraz placu budowy realizowanych budowli głównych klas I i II.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Budowlę hydrotechniczną tymczasową w sytuacji określonej w ust. 1 zalicza się do klasy nie wyższej niż II.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Budowle hydrotechniczne o wysokości piętrzenia nie przekraczającej 2,0 m lub gromadzące wode w ilości poniżej 200 000 m? nie podlegają klasyfikacji według tabeli 1, pod warunkiem, że ich zniszczenie nie zagraża terenom zabudowanym.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "KLASYFIKACJA GŁÓWNYCH BUDOWLI HYDROTECHNICZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa, charakter . Opis Wartość lub i wskaźnika funkcja budowli miano wskaźnika dla klasy I"
+    },
+    {
+     "type": "text",
+     "text": "LZ IN MeJSf] Aluuerzq Tabela 1 Wartość Wartość Wartość wskaźnika wskaźnika wskaźnika dla klasy II dla klasy Ill dla klasy IV ah BAL $, JL 8 łaj LE Budowle piętrzące na — H > 30 m podłożu: Wysokość piętrzenia:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_35/lit_a",
+     "text": "skalnym H [m]",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_35/lit_b",
+     "text": "nieskalnym : H>20m",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_35/lit_a",
+     "text": "pojemność zbiornika: 3",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_35/lit_b",
+     "text": "obszar zatopiony przez Budowle, których awaria falę powstałą przy nor-",
+     "children": [
+      {
+       "type": "text",
+       "text": "15<H<30m | 5<H<15m 2<H<5m \"= : : Wysokość piętrzenia określona w § 4 pkt 3 10<H<20m 5<H<10m 3 3 3 |Pojemność przy maksymalnym"
+      },
+      {
+       "type": "text",
+       "text": "Obszar zatopiony jest to obszar, na powoduje utratę pojem- malnym poziomie pię- F > 50 km? 10<F<50km2 | 1<F< 10 km? F<1 km? którym głębokość wody przekraności zbiornika lub może trzenia: spowodować zatopienie F [km?] 2 terenów falą wypływającą przez zniszczoną lub | , . es uszkodzoną budowlę ©) ina MOI RÓW w wyniku zniszczenia| L > 300 osób budowii: , ' L [osóbl Budowle do nawodnień | Obszar nawadniany lub lub odwodnień odwadniany: F[km2]| \"> 200 km? Budowle przeznaczone | ż : do ochrony przeciwpo- Obszar ideale [km2] F > 300 km? wodziowej Elektrownie wodne i i obiekty wodne wcho- | Moc elektrowni: dzące w skład elektrowni P [MW] P > 150 MW cieplnych i jądrowych Budowle umożliwiające ‘ ;"
+      },
+      {
+       "type": "text",
+       "text": "Budowle przeznaczone do zaopatrzenia w wodę cza 0,5 m = LOR = Poza stałymi mieszkańcami do liczby ludności wlicza się również BOENS 10 < L<80 osób L<10 osób załogi fabtyk, biur, urzędów itp. 300 osób oraz osoby przebywające w ośrodkach zakwaterowania zbiorowego (hotele, domy wczasowe itp.) 20<F< 2 2 200 km? 4<F<20km Fs4km Obszar, który przed obwatowaate kod | niem ulegał zatopieniu wodami m Mm o prawdopodobieństwie p = 1%"
+      },
+      {
+       "type": "text",
+       "text": "50<P< 150 MW 5<P<50MW"
+      },
+      {
+       "type": "text",
+       "text": "LLL “20d Indywidualnie przeprowadzona Użytkowanie wody Budowle zalicza się do klasy I lub II analiza ważności użytkownika wody miast i osiedli oraz zakładów przemysłowych"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział III",
+   "text": "OCENA STATECZNOŚCI BUDOWLI HYDROTECHNICZNYCH"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Warunki stateczności budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Obliczenia stateczności i wytrzymałości budowli hydrotechnicznych należy wykonywać według metod podanych w Polskich Normach — w tym metody stanów granicznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "W metodzie stanów granicznych przy wyznaczaniu obciążeń obliczeniowych należy uwzględniać współczynnik konsekwencji zniszczenia budowli hydrotechnicznych y,, zależny od jej klasy, z zastrzeżeniem ust. 4. Współczynnik y, stanowi mnożnik zwiększający obciążenia budowli i pozwala na uwzględnienie skutków ewentualnej katastrofy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Wartości współczynnika y, przyjmuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_37/ust_2/pkt_1",
+       "text": "dla budowli hydrotechnicznych, których awaria może spowodować przerwanie obiektu piętrzącego i powstanie fali nagłego opróżnienia — z tabeli 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_37/ust_2/pkt_2",
+       "text": "dla budowli, których awaria nie powoduje skutków określonych w pkt 1 — z tabeli 2 przy założeniu, że budowla jest o klasę niższa od ustalonej w klasyfikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_37/ust_3",
+     "text": "W każdym przypadku powinien być spełniony warunek y, > 1,10.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_37/ust_4",
+     "text": "Dla rzek granicznych współczynnik y, należy ustalać indywidualnie dla każdej budowli hydrotechnicznej, uzgadniając go z odpowiednimi służbami sąsiadującego kraju; przepisów ust. 1—3 nie stosuje się.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela 2"
+      },
+      {
+       "type": "text",
+       "text": "peso | | [0 TN współczynnik konsezniszczenia kwencji hydrotechbudowli nicznej y,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Do współczynnika y, należy stosować mnożnik w postaci współczynnika układu obciążeń 4, a mianowicie: Yc = 1,0 — dla podstawowego układu obciążeń (§ 4 pkt 7), YL. 5 0,9— dla wyjątkowego układu obciążeń (8 4 pkt 11), YLo = 0,9 — dla obciążeń występujących w czasie budowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Do wyznaczania obciążeń budowli hydrotechnicznych dla metody stanów granicznych częściowe współczynniki bezpieczeństwa, tzn. współczynniki obciążenia (y,), współczynniki materiałowe (y,,) oraz współczynniki korekcyjne (m), zmniejszające lub zwiększające wytrzymałości materiałów i uwzględniające inne ich cechy mechaniczne, a także parametry geofizyczne podłoża, należy przyjmować według Polskich Norm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Do metody naprężeń dopuszczalnych w obliczeniach stateczności i wytrzymałości budowli hydrotechnicznych współczynniki pewności oraz współczynniki bezpieczeństwa należy określać według Polskich Norm.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Metody obliczeń statycznych"
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Betonowe, żelbetowe i kamienne budowle hydrotechniczne, posadowione na podłożu nieskalnym, powinny spełniać warunki bezpieczeństwa w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_41/pkt_1",
+     "text": "przekroczenia obliczeniowego oporu granicznego podłoża gruntowego lub naprężeń dopuszczalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_41/pkt_2",
+     "text": "poślizgu po podłożu lub w podłożu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_41/pkt_3",
+     "text": "przekroczenia dopuszczalnych wartości osiadań i różnicy osiadań oraz przechylenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_41/pkt_4",
+     "text": "wypłynięcia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_41/pkt_5",
+     "text": "przebicia hydraulicznego i sufozji gruntu podłoża i przyczółków,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_41/pkt_6",
+     "text": "naprężenia w podłożu, wywołanego obciążeniami od budowli, wraz z obciążeniami powstałymi od spiętrzenia wody.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Betonowe budowle hydrotechniczne piętrzące na podłożu skalnym powinny być sprawdzane w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_42/pkt_1",
+     "text": "przekroczenia obliczeniowego oporu granicznego podłoża gruntowego lub naprężeń dopuszczalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_42/pkt_2",
+     "text": "przesunięcia, poślizgu po podłożu i w podłożu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_42/pkt_3",
+     "text": "obrotu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_42/pkt_4",
+     "text": "wystąpienia naprężeń rozciągających od strony odwodnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_42/pkt_5",
+     "text": "wystąpienia nadmiernych ciśnień filtracyjnych i wyporu w podstawie budowli oraz w podłożu,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_42/pkt_6",
+     "text": "przebić hydraulicznych w szczelinach podłoża skalnego i przyczółków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Budowle hydrotechniczne nasypowe powinny być sprawdzone w zakresie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_43/pkt_1",
+     "text": "stateczności skarp,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_43/pkt_2",
+     "text": "gradientów ciśnień filtracyjnych i możliwości przebicia lub sufozji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_43/pkt_3",
+     "text": "wartości ciśnienia spływowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_43/pkt_4",
+     "text": "chłonności, wydajności drenaży,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_43/pkt_5",
+     "text": "wartości osiadań korpusu i podłoża budowli, w tym wartości naprężeń w korpusie i podłożu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_43/pkt_6",
+     "text": "niebezpieczeństwa wystąpienia przesunięcia, poślizgu po podłożu i w podłożu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_43/pkt_7",
+     "text": "niebezpieczeństwa wyparcia słabego gruntu spod nasypu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 44, Stateczność zboczy zbiorników należy sprawdzać z uwzględnieniem przewidywanych wahań poziomu piętrzenia, ich zakresu i prędkości zmian poziomów wody; jeżeli objętość potencjalnego osuwiska lub obrywu wskazuje na zagrożenie budowli piętrzącej lub możliwość przelania się wody przez jej koronę, do obliczeń stateczności zboczy należy wprowadzić współczynnik konsekwencji zniszczenia y,, taki jak dla zapory tworzącej zbiornik."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_45/ust_1",
+     "text": "Do sprawdzenia warunków stateczności budowli stosuje się zależność, której ogólna postać w metodzie stanów granicznych jest następująca:",
+     "children": [
+      {
+       "type": "text",
+       "text": "E gest <m: Estab"
+      },
+      {
+       "type": "text",
+       "text": "gdzie:"
+      },
+      {
+       "type": "text",
+       "text": "E.,., — efekty obliczeniowe oddziaływania stabilizująstab cego, którymi są: — obliczeniowy opór graniczny podłoża gruntowego, — suma rzutów na płaszczyznę ścięcia wszystkich sił od obciążeń obliczeniowych, przeciwdziałających przesunięciu, — moment wszystkich sił obliczeniowych, przeciwdziafajacych obrotowi, Egęst — efekty obliczeniowe oddziaływania destabilizującego, którymi są odpowiednio: — wartość obciążenia obliczeniowego przekazywanego przez fundament na podłoże gruntowe, — obliczeniowa wartość składowej stycznej wszystkich obciążeń powodujących przesunięcie w płaszczyźnie ścięcia, — moment wszystkich sit obliczeniowych powodujących obrót, m — współczynnik zależny od rodzaju sprawdzanego warunku stateczności, rodzaju konstrukcji i przyjętej metody obliczeń konstrukcji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_45/ust_2",
+     "text": "Jeżeli Polskie Normy nie stanowią inaczej, współczynniki korekcyjne m należy przyjmować:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1)przy sprawdzeniu przekroczenia obliczeniowego oporu granicznego podłoża gruntowego i nośności gruntu:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_45/ust_2/lit_a",
+       "text": "gdy stosuje się rozwiązanie teorii granicznych stanów naprężeń, m= 0,9,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_45/ust_2/lit_b",
+       "text": "przy przybliżonych metodach oznaczania parametrów gruntu m= 0,8,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_45/ust_2/pkt_2",
+       "text": "przy sprawdzeniu poślizgu po podłożu m = 0,8,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_45/ust_2/pkt_3",
+       "text": "przy sprawdzeniu poślizgu w podłożu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_45/ust_2/pkt_3/lit_a",
+         "text": "gdy przyjmuje się kołowe linie poślizgu w gruncie, m=0,8,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_45/ust_2/pkt_3/lit_b",
+         "text": "gdy stosuje się inne, bardziej uproszczone metody obliczeń, m=0,7,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_45/ust_2/pkt_4",
+       "text": "przy sprawdzeniu stateczności na obrót m = 0,8.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "W budowlach hydrotechnicznych betonowych posadowionych na skale, z zastrzeżeniem 8 47, obliczeniowa wypadkowa wszystkich sit poziomych i pionowych działających na budowlę piętrzącą, odniesiona do dowolnego przekroju poziomego, w tym do podstawy budowli, powinna dla podstawowego układu obciążeń mieścić się w rdzeniu przekroju i spełniać warunek Ixl < 1/6 b, który eliminuje występowanie naprężeń rozciągających w korpusie budowli i podłożu,",
+   "children": [
+    {
+     "type": "text",
+     "text": "gdzie:"
+    },
+    {
+     "type": "text",
+     "text": "x— odległość położenia wypadkowej od środka przekroju, b — szerokość przekroju (podstawy)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_47/ust_1",
+     "text": "W budowlach hydrotechnicznych betonowych posadowionych na skale, dla wyjątkowego układu obciążeń, dopuszcza się, aby wypadkowa wszystkich obciążeń obliczeniowych wyszła poza rdzeń przekroju, przy spełnieniu warunku |x! < 1/3 b.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_47/ust_2",
+     "text": "Dla obciążeń charakterystycznych wypadkowa powinna mieścić się w rdzeniu przekroju, spełniając warunek Ixl < 1/6 b.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_47/ust_3",
+     "text": "Obciążeniem charakterystycznym jest obciążenie w postaci sit zewnętrznych lub oddziaływań wywołanych wpływami temperatury, skurczu, osiadania podpór; wartości obciążeń charakterystycznych należy przyjmować według Polskich Norm.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_47/ust_4",
+     "text": "Obciążenie obliczeniowe równe jest iloczynowi obciążenia charakterystycznego i współczynników obciążenia y, współczynnika konsekwencji zniszczenia },: oraz współczynnika układu obciążeń y ..",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "Współczynniki pewności dla poślizgu, przesunięcia po podłożu i w podłożu oraz obrotu budowli hydrotechnicznej dla obciążeń charakterystycznych, w zależności od warunków pracy i klasy ważności budowli hydrotechnicznej, należy przyjmować według tabeli 3.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 3"
+    },
+    {
+     "type": "text",
+     "text": "Współczynnik pewności y, dla klasy budowli Układy obciążeń | ee ee"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "Przy sprawdzeniu budowli hydrotechnicznej na wyptyniecie współczynniki pewności nie powinny być mniejsze niż:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1,1 — dla podstawowego układu obciążeń, 1,05 — dla wyjątkowego układu obciążeń."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Występujące rzeczywiste gradienty ciśnień filtracyjnych (I,,,,,) w korpusie zapory nasypowej oraz w podłożu wszystkich budowli piętrzących powinny być mniejsze od krytycznych (I,,) dla danego gruntu, przy uwzględnieniu współczynnika konsekwencji zniszczenia y,, zgodnie z następującą zależnością:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Yn* lees < ler"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "W wartości I,„„„, należy uwzględniać procesy filtracji ustalonej i nie ustalonej, wywoływanej wahaniami stanów wody oraz procesami konsolidacji w gruntach spoistych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_50/ust_3",
+     "text": "Wartości |,, dla budowli hydrotechnicznych klasy |i Il należy przyjmować na podstawie badań laboratoryjnych gruntu, a dla budowli pozostałych klas wartości |, można przyjmować na podstawie opublikowanych wyników badań i analiz naukowo-technicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "Dla określenia nadwyżek nasypu w okresie budowy, w celu utrzymania projektowanej rzędnej ko-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Lt | Klasa budowli"
+    },
+    {
+     "type": "text",
+     "text": "współczynnik z rony, należy opracować prognozę osiadań zapory; prognoza powinna być sporządzona w oparciu o parametry geotechniczne podłoża i materiału na zaporę i określona na podstawie wyników badań polowych i laboratoryjnych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_52/ust_1",
+     "text": "Sprawdzenie stateczności skarp budowli nasypowych polega na wykazaniu, ze jest spefniona ogólna zależność określona w § 45 oraz są spełnione warunki określone w ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_52/ust_2",
+     "text": "Ustalając obciążenia obliczeniowe, oprócz współczynników obciążenia y, należy uwzględniać współczynnik konsekwencji zniszczenia y, i współczynnik układu obciążeń y „.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_52/ust_3",
+     "text": "Współczynnik korekcyjny m zależny od stosowanej metody obliczeniowej stateczności skarpy, stopnia rozpoznania warunków geotechnicznych, ilości przeanalizowanych linii poślizgu i warunków pracy budowli należy przyjmować:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_52/ust_3/pkt_1",
+       "text": "dla obliczeń stateczności skarpy, uwzględniających obciążenia obliczeniowe oraz obliczeniowe parametry gruntu: m = 0,9 + 0,75,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)dla obciążeń charakterystycznych i charakterystycznych parametrów gruntu w zależności od klas budowli określonych w tabeli 4."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 4"
+        },
+        {
+         "type": "text",
+         "text": "we NEW WĘG korekcyjny m”) | 0:70—0.60 0,75—0,70 | 0,80—0,75 | 0,85—0,80 w"
+        },
+        {
+         "type": "text",
+         "text": "\") Większe wartości współczynników korekcyjnych m należy przyjmować w przypadku szczegółowego rozpoznania warunków geotechnicznych i przeanalizowania wielu linii poślizgu; mniejsze wartości współczynników korekcyjnych m należy przyjmować w przypadku obliczeń uproszczonych, słabego rozpoznania warunków geotechnicznych i trudnych warunków eksploatacji budowli."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział IV",
+   "text": "PRZYJMOWANIE OBLICZENIOWYCH STANÓW | PRZEPŁYWÓW WEZBRANIOWYCH WOD"
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "Zdolność przepustowa i sposób użytkowania stałych budowli hydrotechnicznych powinny zapewniać bezpieczeństwo tych budowli w czasie przejścia wezbrań obliczeniowych, to jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_53/pkt_1",
+     "text": "miarodajnego wezbrania obliczeniowego o przepływie maksymalnym, zwanym dalej „Q”, o określonym prawdopodobieństwie pojawiania się (przewyższenia),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_53/pkt_2",
+     "text": "kontrolnego, największego możliwego wezbrania obliczeniowego o przepływie maksymalnym, zwanym dalej „Q4”, o określonym prawdopodobień-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "=Mi="
+      },
+      {
+       "type": "text",
+       "text": "stwie pojawiania się (przewyższenia), lub określonego na podstawie analizy warunków kształtowania się fali powodziowej w zlewni, metodami genetycznymi WMW,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_53/pkt_3",
+     "text": "największego obliczeniowego, miarodajnego stanu wody „H,,” w czasie wezbrania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Wyznaczenie przepływów miarodajnych i kontrolnych następuje przez przyjęcie prawdopodobieństwa przepływów miarodajnych i kontrolnych dla stałych budowli hydrotechnicznych według tabeli 5 w zależności od klasy budowli, określonej w dziale Il, z zastrzeżeniem ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "Obliczenie przepływu kontrolnego, o którym mowa w ust. 1, można przeprowadzić przez dodanie do Oz p! określonego w tabeli 5, średniego błędu oszacowania przy to = 1 i poziomie ufności równym 0,84; do wymiarowania budowli za przepływ kontrolny należy przyjąć wartość Q „+6 :(Q „) lub WMW. max p max p”",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_54/ust_3",
+     "text": "Na podstawie analizy warunków miejscowych, przy ocenie, że zniszczenie budowli hydrotechnicznej wywoła katastrofalne skutki na terenach leżących poniżej, obliczenia przepływu kontrolnego należy dodatkowo dokonać w oparciu o metody genetyczne WMW.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Wyznaczanie miarodajnego stanu wody następuje przez określenie największego obliczeniowego miarodajnego stanu wody H,,, odpowiadającego przepływowi miarodajnemu; jeżeli takie wyznaczenie nie jest możliwe, wskazane jest przyjęcie wartości najwyższych, obserwowanych lub ocenianych na podstawie analizy przyczyn powstania podwyższonych stanów wody.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Jeżeli istnieje gwarancja retencjonowania wielkich wód przez zbiornik lub zespół zbiorników, dopuszcza się możliwość zmniejszenia przepływów obliczeniowych Q,, i Q, o wartości wynikające z magazynowania szczytu fali; pojemnością retencyjną jest wielkość stałej rezerwy powodziowej zawartej pomiędzy maksymalnym poziomem piętrzenia (Max PP) i normalnym poziomem piętrzenia (NPP).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Konstrukcja, wymiary i sposób użytkowania budowli hydrotechnicznych tymczasowych powinny zapewniać bezpieczne przeprowadzenie wezbrań o kulminacjach mniejszych lub równych przepływowi budowlanemu określonemu w dokumentacji budowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_58/ust_1",
+     "text": "Maksymalny przepływ budowlany określa się na podstawie przeprowadzonej analizy nakładów na budowę urządzeń do przeprowadzania wód i strat mogących wyniknąć z ich zbyt małej zdolności przepustowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_58/ust_2",
+     "text": "W przypadku braku analizy, o której mowa w ust. 1, za maksymalny przepływ budowlany należy przyjąć przepływ o prawdopodobieństwie pojawiania się (przewyższenia), podany w tabeli 6, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_58/ust_3",
+     "text": "Prawdopodobieństwo pojawiania się (przewyższenia), podane w tabeli 6, zmniejsza się, gdy przerwanie lub zniszczenie tymczasowych budowli hydrotechnicznych może spowodować znaczne szkody na obszarach znajdujących się poniżej realizowanej budowli hydrotechnicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "Jeżeli czas użytkowania tymczasowej budowli hydrotechnicznej jest krótszy niż rok, to prawdopodobieństwo występowania maksymalnego przepływu budowlanego należy określić dla tego okresu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "Jeżeli istnieje możliwość redukcji maksymalnych przepływów budowlanych, przez samoczynną transformację fali powodziowej, należy zmniejszyć maksymalne przepływy wód o wartość wynikającą z obniżenia wezbrania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "PRAWDOPODOBIEŃSTWO POJAWIANIA SIĘ (PRZEWYŻSZENIA) PRZEPŁYWÓW MIARODAJNYCH I KONTROLNYCH DLA STAŁYCH BUDOWLI HYDROTECHNICZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj budowli"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 5"
+    },
+    {
+     "type": "text",
+     "text": "Prawdopodobieństwo pojawiania się (przewyższenia) p% dla klasy: Przepływ Jo fw | m | w | budowle ulegające zniszczeniu przy przela- |miarodajny O, | 01 | 03 | 05 | 10 | porwana, [002 [008 | 02 | 08 niu się przez nie wody"
+    },
+    {
+     "type": "text",
+     "text": "budowie nie ulegające zniszczeniu pray|™arodainyOn, | 05 | 19 | 20 | 30 oma, |_| 08 | os | 10 przelaniu się przez nie wody"
+    },
+    {
+     "type": "text",
+     "text": "UWAGI:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_60/pkt_1",
+     "text": "Do Ip. 1 zalicza się wszystkie budowle hydrotechniczne ziemne na podłożu łatwo rozmywalnym, zbudowanym z gruntów nieskalistych, rumoszu skalnego lub miękkich skat.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_60/pkt_2",
+     "text": "Dla obwałowań chroniących użytki zielone, zaliczanych według tabeli 1 do klasy IV, dopuszcza się jako wodę miarodajną przepływ Q,, o prawdopodobieństwie p > 10%, a jako wodę kontrolną — przepływ QO, o prawdopodobieństwie p = 10%.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "PRAWDOPODOBIEŃSTWO POJAWIANIA SIĘ (PRZEWYŻSZENIA) MAKSYMALNYCH PRZEPŁYWÓW BUDOWLANYCH DLA TYMCZASOWYCH BUDOWLI HYDROTECHNICZNYCH"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj budowli"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6"
+      },
+      {
+       "type": "text",
+       "text": "Prawdopodobieństwo pojawiania się (przewyższenia) p%"
+      },
+      {
+       "type": "text",
+       "text": "1 budowle ulegające zniszczeniu przy przelaniu się przez nie wody"
+      },
+      {
+       "type": "text",
+       "text": "2 budowle nie ulegające zniszczeniu przy przelaniu się przez nie wody"
+      },
+      {
+       "type": "text",
+       "text": "Patrz uwagi pod tabelą 5."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział V",
+   "text": "BEZPIECZNE WZNIESIENIE BUDOWLI HYDROTECHNICZNYCH PONAD POZIOMY WOD I PRZEPUSZCZANIE WOD"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Bezpieczne wzniesienie korony budowli hydrotechnicznej"
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_61/ust_1",
+     "text": "Korony budowli hydrotechnicznych, spody konstrukcji mostowych, kładek, belek poddźwigowych i innych konstrukcji rozpiętych nad wodą oraz powierzchnie nie zalewane i górne krawędzie elementów uszczelniających powinny być wzniesione ponad charakterystyczne poziomy wody na wysokość zwaną dalej „bezpiecznym wzniesieniem budowli”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_61/ust_2",
+     "text": "W normalnych warunkach eksploatacji należy przyjmować maksymalny poziom wód dla budowli hydrotechnicznych zbiorników retencyjnych, a dla pozostałych budowli hydrotechnicznych — maksymalny poziom wód przy miarodajnym przepływie wezbraniowym. W obu przypadkach należy uwzględnić spiętrzenie wywołane falowaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_61/ust_3",
+     "text": "W wyjątkowych warunkach eksploatacji należy przyjmować dla budowli hydrotechnicznych zbiorników retencyjnych poziom wód przy przejściu miarodajnego przepływu wezbraniowego i nieczynnym jednym przewodzie spustowym, a dla pozostałych budowli hydrotechnicznych — poziom wód przy przepływie kontrolnym oraz obliczony najwyższy stan wody.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_61/ust_4",
+     "text": "Dla budowli tymczasowych należy przyjmować poziomy wód odpowiadające przepływowi budowlanemu określonemu w § 58—60.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "Budowla hydrotechniczna powinna być tak wykonana i eksploatowana, aby bezpieczne wzniesienie budowli byto zachowane po uwzględnieniu osiadania budowli i jej podłoża oraz obniżenia korony budowli hydrotechnicznej, spowodowanych ruchem kołowym, rozmyciem przez opady i drganiami, których przyczyną jest praca maszyn elektrowni wodnej i pompowni.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Bezpieczne wzniesienie korony stałych budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "Bezpieczne wzniesienie korony stałych budowli hydrotechnicznych nie może być mniejsze niż podane w tabeli 7.",
+   "children": [
+    {
+     "type": "text",
+     "text": "BEZPIECZNE WZNIESIENIE KORONY STAŁYCH BUDOWLI HYDROTECHNICZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 7"
+    },
+    {
+     "type": "text",
+     "text": "Bezpieczne wzniesienie korony budowli hydrotechnicznych"
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj w [m] dla klas |--IV"
+    },
+    {
+     "type": "text",
+     "text": "nad statycznym poziomem budowli Warunki eksploatacji"
+    },
+    {
+     "type": "text",
+     "text": "maksymalne lub normalne poziomy wód Zapory ziemne miarodajne przepływy wezbraniowe i obwałowania wyjątkowe warunki eksploatacji"
+    },
+    {
+     "type": "text",
+     "text": "maksymalne lub normalne poziomy wód Budowle miarodajne przepływy wezbraniowe betonowe"
+    },
+    {
+     "type": "text",
+     "text": "wyjątkowe warunki eksploatacji nad poziomem wywołanym falowaniem wody pm pw pete tw 7 os [es [os [os [os os [os [os 0,3 nie uwzględnia się falowania or [os"
+    },
+    {
+     "type": "text",
+     "text": "0,1 KE nie uwzględnia się falowania"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "64",
+   "path": "par_64",
+   "text": "Dla ustalenia minimalnego całkowitego wzniesienia korony budowli hydrotechnicznej ponad statyczny maksymalny lub normalny poziom wód oraz ponad poziom wód spowodowany miarodajnym przepływem wezbraniowym, ustalonym w § 61 ust. 2, należy do wielkości podanych w tabeli 7 dodać obliczoną wartość piętrzenia wywołanego falowaniem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "65",
+   "path": "par_65",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_65/ust_1",
+     "text": "Dla ziemnej budowli hydrotechnicznej, której korona zaopatrzona jest w szczelny parapet, wzniesienie budowli ustalone w 3 64 należy liczyć do górnej krawędzi tego parapetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_65/ust_2",
+     "text": "Korona ziemnej budowli hydrotechnicznej, zaopatrzona w szczelny parapet, powinna być wzniesiona nad maksymalny i normalny poziom piętrzenia wód i poziom wód wywołany miarodajnym wezbraniem co najmniej o 0,4 m i nie może być niższa niż poziom wód w wyjątkowych warunkach eksploatacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_65/ust_3",
+     "text": "Parapet na koronie zapory ziemnej powinien być zabezpieczony przed podmywaniem i utratą stateczności przy poziomie wód nie przekraczającym korony parapetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_66/ust_1",
+     "text": "Wysokość piętrzenia wywołanego falowaniem należy dla ziemnych budowli hydrotechnicznych ustalić jako sumę wysokości piętrzenia spowodowanego przez wiatr i wysokości wtaczania się fali na skarpę budowli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_66/ust_2",
+     "text": "Wysokość piętrzenia wywołanego falowaniem należy dla budowli betonowych o ścianie pionowej lub zbliżonej do pionu ustalić jako sumę piętrzenia spowodowanego przez wiatr i wysokość fali stojącej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_67/ust_1",
+     "text": "Dla zbiorników o długości do 3 km można nie uwzględniać piętrzenia spowodowanego przez wiatr.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_67/ust_2",
+     "text": "Wyznaczenie wysokości fali należy przeprowadzić dla prędkości wiatru:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_2/pkt_1",
+       "text": "20 m/s — przy maksymalnym i normalnym poziomie piętrzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_2/pkt_2",
+       "text": "15 m/s— przy miarodajnym przepływie wezbraniowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_67/ust_3",
+     "text": "Wyznaczenie wysokości fali wywołanej ruchem statków należy obliczać, dodając wysokość fali wywołanej ruchem statków do wyznaczonej wysokości fali wywołanej przez wiatr o prędkości, przy której może się jeszcze odbywać ruch statków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Bezpieczne wzniesienie górnej krawędzi elementów uszczelniających"
+  },
+  {
+   "type": "par",
+   "num": "68",
+   "path": "par_68",
+   "text": "Bezpieczne wzniesienie górnej krawędzi elementów uszczelniających zapór ziemnych nad normalnym i maksymalnym poziomem piętrzenia nie może być mniejsze niż podane w tabeli 8.",
+   "children": [
+    {
+     "type": "text",
+     "text": "WZNIESIENIE GÓRNEJ KRAWĘDZI USZCZELNIEŃ ZAPÓR ZIEMNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 8"
+    },
+    {
+     "type": "text",
+     "text": "Minimalne wzniesienie górnej krawędzi elementów uszczelniających zapór ziemnych nad:"
+    },
+    {
+     "type": "text",
+     "text": "zwierciadłem wody przy maksymalnym lub normalnym poziomem wód Rodzaj uszczelnienia przepływie miarodajnym w [m] dla klas budowli” m] wl m]"
+    },
+    {
+     "type": "text",
+     "text": "Ekrany pochyłe | w ||| e ||| os | Rdzenie pionowe"
+    },
+    {
+     "type": "text",
+     "text": "*) Max PP — dla budowli hydrotechnicznych zbiorników retencyjnych, NPP — dla innych budowli hydrotechnicznych, **) z uwzględnieniem falowania"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Bezpieczne wzniesienie korony tymczasowych budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "69",
+   "path": "par_69",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_69/ust_1",
+     "text": "Bezpieczne wzniesienie korony tymczasowych budowli hydrotechnicznych nad poziomem wody przy maksymalnym przepływie budowlanym obliczonym według tabeli 6 powinno wynosić, z zastrzeżeniem ust. 2, nie mniej niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_69/ust_1/pkt_1",
+       "text": "0,8 m — gdy przelanie się wód przez koronę tym- — czasowej budowli zagraża zniszczeniu tej budowli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_69/ust_1/pkt_2",
+       "text": "0,5 m— gdy przelanie się wód przez koronę tymczasowej budowli nie zagraża zniszczeniu tej budowli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "Przy ustalaniu bezpiecznego wzniesienia korony budowli budowanych na rzekach nie uwzględnia się falowania.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_69/ust_3",
+     "text": "Przy ustalaniu bezpiecznego wzniesienia korony tymczasowych budowli hydrotechnicznych na zbiornikach naturalnych lub sztucznych należy uwzględniać falowanie, dodając do poziomu wód przy maksymalnym przepływie budowlanym ustalonym zgodnie z § 61—63 wysokość fali ustalonej przy prędkości wiatru wynoszącej 15 m/s.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Bezpieczne wzniesienie konstrukcji budowli hydrotechnicznych znajdujących się nad wodą"
+  },
+  {
+   "type": "par",
+   "num": "70",
+   "path": "par_70",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_70/ust_1",
+     "text": "Bezpieczne wzniesienie spodu konstrukcji budowli hydrotechnicznych znajdujących się nad wodą powinno wynosić co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_70/ust_1/pkt_1",
+       "text": "0,5 m — nad poziomem wody przy maksymalnym poziomie wody lub poziomie wody przy przepływie miarodajnym, jeżeli w wodzie w czasie wezbrań nie ma lodu, kry i innych ciał pływających,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_70/ust_1/pkt_2",
+       "text": "0,5 m — nad przewidywanym położeniem górnej krawędzi lodu i innych ciał pływających przy przepływie miarodajnym, jeżeli może wystąpić konieczność przepuszczania lodu i innych ciał pływających,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_70/ust_1/pkt_3",
+       "text": "0,2 m — nad zwierciadfem wody przy przepływie kontrolnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_70/ust_2",
+     "text": "Przy konstrukcjach położonych nad zbiornikiem wodnym należy uwzględniać wpływ piętrzeń cofkowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_70/ust_3",
+     "text": "Bezpieczne wzniesienie spodu konstrukcji budowli hydrotechnicznych, o których mowa w ust. 1i2, nie może być mniejsze niż ustalone w Polskich Normach dotyczących mostów na drogach publicznych i szlakach żeglownych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Bezpieczne wzniesienie korony obwałowań kanałów"
+  },
+  {
+   "type": "par",
+   "num": "71",
+   "path": "par_71",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_71/ust_1",
+     "text": "Bezpieczne wzniesienie korony obwałowań kanałów energetycznych i kanałów melioracyjnych, nie prowadzących wód wezbraniowych, należy ustalić według tabeli 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_71/ust_2",
+     "text": "Jako poziom wód odpowiadający miarodajnemu przepływowi wezbraniowemu w tabeli 7 należy przyjmować jeden z wyższych wyznaczonych w pkt 1 i 2 poziomów wód:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_71/ust_2/pkt_1",
+       "text": "poziom wody, który wystąpi przy nagłym zatrzymaniu lub unieruchomieniu elektrowni lub pompowni, z uwzględnieniem pracy z pełną wydajnością wszystkich zainstalowanych turbin lub pomp, ale bez uwzględnienia maszyn rezerwowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_71/ust_2/pkt_2",
+       "text": "poziom wody, który wystąpi przy pracy pompowni ze wszystkimi zainstalowanymi pompami, łącznie z pompami rezerwowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_71/ust_3",
+     "text": "Jako poziom wód odpowiadający przepływowi w wyjątkowych warunkach eksploatacji przyjmuje się poziom wody przy nagłym zatrzymaniu lub uruchomieniu wszystkich turbin lub pomp, z uwzględnieniem możliwości nałożenia się fal, wynikłych z szybko po sobie następujących operacji ich uruchomienia i zatrzymania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "72",
+   "path": "par_72",
+   "text": "Gdy bezpieczne wzniesienie koron obwałowań kanałów prowadzących wody wezbraniowe, ustalone jak w § 63 dla stafych budowli hydrotechnicznych, jest wyższe niż wyznaczone zgodnie z § 71, to należy przyjąć te ostatnie wielkości.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepuszczanie wód podczas budowy budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "73",
+   "path": "par_73",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_73/ust_1",
+     "text": "Budowla hydrotechniczna podczas budowy powinna być wyposażona co najmniej w jedno z urządzeń do przepuszczania wód — kanał obiegowy, spusty lub sztolnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_73/ust_2",
+     "text": "Urządzenia do przepuszczania wód powinny spełniać następujące warunki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_73/ust_2/pkt_1",
+       "text": "jeżeli podczas przepuszczania wód budowlanych może być zniszczona tymczasowa budowla hydrotechniczna, należy zapewnić bezpieczne przepuszczanie przepływu wezbraniowego i bezpieczne wzniesienie korony budowli, ustalone zgodnie z przepisami działu IV i V, uwzględniając transformację fali powodziowej przez istniejący zbiornik,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "jeżeli podczas przepuszczania wód budowlanych 2"
+      },
+      {
+       "type": "text",
+       "text": "= może być zniszczona będąca w budowie stała budowla hydrotechniczna, należy zapewnić bezpieczne przepuszczenie przepływu wezbraniowego, określonego w dziale IV, a bezpieczne wzniesienie korony budowli ustalone w dziale V — uwzględniając transformację fali powodziowej przez istniejący zbiornik."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "74",
+   "path": "par_74",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_74/ust_1",
+     "text": "Progi wlotów urządzeń do przepuszczenia wody budowlanej powinny być umieszczone co najmniej 0,5 m ponad dnem koryta lub specjalnie wykonanego osadnika rumowiska przed wlotem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_74/ust_2",
+     "text": "Wloty do urządzeń, o których mowa w ust. 1, należy wyposażyć w kraty chroniące przed napływem ciat pływających i wleczonych po dnie; konstrukcja krat powinna umożliwiać ich okresowe oczyszczanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Przepuszczanie wód podczas eksploatacji budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "75",
+   "path": "par_75",
+   "text": "Budowle hydrotechniczne powinny zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_75/pkt_1",
+     "text": "regulowanie przepływu wody zgodnie z wymaganiami eksploatacyjnymi, ustalonymi w dokumentacji budowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_75/pkt_2",
+     "text": "bezpieczne przepuszczenie przepływów wezbraniowych z zachowaniem wzniesienia korony budowli ponad poziomy wód występujące przy tych przepływach,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 8/5 — Dziennik Ustaw Nr 21"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_75/pkt_3",
+     "text": "bezpieczne przepuszczenie lodu oraz innych ciał pływających i wleczonych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "76",
+   "path": "par_76",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_76/ust_1",
+     "text": "Przepływy wód przez budowle hydrotechniczne powinny być przepuszczane przez przelewy i urządzenia działające pod ciśnieniem wód oraz inne budowle hydrotechniczne przystosowane do przepuszczania wód.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_76/ust_2",
+     "text": "Zdolność przepustowa przelewu w normalnych warunkach eksploatacji powinna wynosić co najmniej 80% przepływu miarodajnego; pozostała część przepływu powinna być przeprowadzona przez inne urządzenia do przepuszczania wód.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_76/ust_3",
+     "text": "Przy przepuszczaniu przepiywu miarodajnego w normalnych warunkach eksploatacji liczba spustów i turbin, których nie należy uwzględniać, podana jest w tabeli 9.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_76/ust_4",
+     "text": "Przy przepuszczeniu przepływu kontrolnego należy przyjmować, że czynne są wszystkie urządzenia przystosowane do przeprowadzenia wód wezbraniowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "LICZBA SPUSTÓW I TURBIN NIE UWZGLĘDNIANYCH PRZY PRZEPUSZCZENIU PRZEPŁYWU MIARODAJNEGO"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 9"
+      },
+      {
+       "type": "text",
+       "text": "Liczba nie uwzględnionych w obliczeniach spustów i lewarów oraz turbin"
+      },
+      {
+       "type": "text",
+       "text": "me e (EH WEW OC WO OC O KZ WOK WC O"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "77",
+   "path": "par_77",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_77/ust_1",
+     "text": "Przepływy wezbraniowe miarodajne i kontrolne powinny być wprowadzane bezpiecznie przez upusty do koryta rzeki znajdującego się poniżej budowli hydrotechnicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_77/ust_2",
+     "text": "Dopuszcza się przepuszczanie części przepływu wezbraniowego poza korytem rzeki i urządzeniami do przepuszczania wód:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_77/ust_2/pkt_1",
+       "text": "przez obszar zalewowy, ale pod warunkiem zabezpieczenia go przed powstaniem nowego koryta rzek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_77/ust_2/pkt_2",
+       "text": "dla zbiorników wodnych nizinnych o pojemności całkowitej do 10 min m3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_77/ust_2/pkt_3",
+       "text": "dla zbiorników wodnych górskich, gdy część przepływu wezbraniowego, która jest przeprowadzana przez przelewy stokowe, siodła terenowe na nie umocnione zbocza bez koryta odpływowego do rzeki, nie przekracza przepływu wezbraniowego o prawdopodobieństwie pojawienia się p = 5%.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "78",
+   "path": "par_78",
+   "text": "Stosowanie spustów i sztolni, jako urządzeń działających pod ciśnieniem, do przepuszczenia wód wezbraniowych możliwe jest tylko pod warunkiem, że przepływy te mogą być w całości przeprowadzone awaryjnymi urządzeniami do przepuszczania wód, takimi jak kanały ulgi i przelewy awaryjne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "79",
+   "path": "par_79",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_79/ust_1",
+     "text": "W razie braku możliwości uzyskania ostrzeżenia o zbliżającym się wezbraniu wód, dającym czas na przygotowanie rezerwy w zbiorniku, w szczególności na rzekach górskich i podgórskich o gwałtownych wezbraniach, część przelewów powinna działać samoczynnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_79/ust_2",
+     "text": "Samoczynnie uruchamiane przelewy powinny mieć tącznie zdolność przepustową równą co najmniej 50% zdolności przepustowej wszystkich przelewów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_79/ust_3",
+     "text": "Przekroczenie normalnego poziomu piętrzenia o 0,10—0,15 m powinno uruchamiać działające samoczynnie kolejne zamknięcia przelewu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "80",
+   "path": "par_80",
+   "text": "W przypadku awarii jednego z zamknięć przelewów, miarodajny przepływ wezbraniowy powinien być przeprowadzany przez pozostałe przęsła przelewu, a także przez spusty, sztolnie i turbiny, w liczbie podanej w tabeli 9, oraz przez śluzę, jeżeli przystosowano ją do przepuszczenia wezbrań, przy zachowaniu bezpiecznego wzniesienia korony budowli hydrotechnicznej nie mniejszego niż wymagane w wyjątkowych warunkach eksploatacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "81",
+   "path": "par_81",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_81/ust_1",
+     "text": "Jazy lub przelewy z zamknięciami powinny mieć co najmniej trzy przęsła, z zastrzeżeniem ust. 213.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_81/ust_2",
+     "text": "Jeżeli tączna długość przęseł jazów lub przelewów nie przekracza 6,0 m, liczba przęseł może być zmniejszona do dwóch.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_81/ust_3",
+     "text": "Przy długości przęsła nie przekraczającej 2,0 m dopuszcza się jedno przęsło, jeżeli przelanie się wody przez zamknięcie lub zaporę nie spowoduje znacznych szkód.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "82",
+   "path": "par_82",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_82/ust_1",
+     "text": "Rurociągi i sztolnie odprowadzające wody z przelewów wieżowych powinny zapewniać odpływ",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "bezciśnieniowy wody występujący przy najwyższym z możliwych poziomie; przepływ nie powinien jednak przekraczać 1,5-krotnej wielkości przepływu kontrolnego, z zastrzeżeniem ust. 2."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_82/ust_2",
+     "text": "Stosowanie przewodów ciśnieniowych jest dopuszczone pod warunkiem, że nie zmniejszy ono bezpieczeństwa budowli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "83",
+   "path": "par_83",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_83/ust_1",
+     "text": "Przęsła jazów i przelewów posadowionych na gruntach rozmywalnych powinny być tak skonstruowane, aby przy przejściu przez budowlę miarodajnego przepływu wezbraniowego przez wszystkie czynne przęsła nie wystąpiła nadmierna erozja dna koryta odpływowego i aby nie został przekroczony na progu przepływ jednostkowy wody 30 m*/(s - m).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_83/ust_2",
+     "text": "Poniżej jazów i przelewów o piętrzeniu powyżej 8,0 m należy wykonać staty próg utrzymujący poziom dolnej wody i zabezpieczający przed rozmyciem dna kanału lub rzeki; budowa progu nie jest wymagana, jeżeli poniżej jazu lub przelewu przewiduje się wybudowanie budowli hydrotechnicznej, której cofka będzie podpierała ten jaz lub przelew.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "84",
+   "path": "par_84",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_84/ust_1",
+     "text": "Jazy i przelewy powinny zapewniać zdolność przepustową w okresie zimowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_84/ust_2",
+     "text": "Konstrukcja zamknięć i szerokości przęseł jazów i przelewów powinna umożliwiać przepuszczenie lodów i ciał pływających bez konieczności całkowitego otwierania ich przęseł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "85",
+   "path": "par_85",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_85/ust_1",
+     "text": "Zbiornik wodny powinien być wyposażony w spusty umożliwiające całkowite jego opróżnienie; spusty można wykorzystywać do przeprowadzenia wód wezbraniowych oraz wód budowlanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_85/ust_2",
+     "text": "Czas opróżniania zbiornika powinien uwzględniać warunki bezpieczeństwa, a natężenie przepływu wód do dolnego stanowiska budowli hydrotechnicznych powinno być dostosowane do warunków eksploatacyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "86",
+   "path": "par_86",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_86/ust_1",
+     "text": "Przewody spustowe w budowlach hydrotechnicznych ziemnych powinny być monolityczne, żelbetowe lub z betonu słabo zbrojonego, mogą też być wykonywane jako rurociągi stalowe, ułożone w przełazowych galeriach żelbetowych, z zastrzeżeniem ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_86/ust_2",
+     "text": "Stosowanie spustów z obetonowanych rur stalowych, ułożonych w gruncie, dopuszczalne jest tylko dla budowli klas III i IV.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_86/ust_3",
+     "text": "Dopuszcza się do układania bezpośrednio w gruncie nie obetonowanych rur stalowych lub z tworzyw sztucznych przy wysokości piętrzenia wody nie przekraczającej 2,0 m; stosując takie rozwiązanie, należy przewidzieć zabezpieczenie przed nadmierną filtracją wzdłuż ścian rurociągów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "87",
+   "path": "par_87",
+   "text": "Wloty do spustów powinny być zabezpieczone kratami o odpowiednio dobranych prześwitach; należy przewidzieć możliwość oczyszczania krat.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "88",
+   "path": "par_88",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_88/ust_1",
+     "text": "Spusty powinny być co najmniej dwuprzewodowe i powinna być możliwość wyłączenia z pracy jednego przewodu dla przeprowadzenia remontu i przeglądu, z zachowaniem sprawności pozostałych, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_88/ust_2",
+     "text": "Stosowanie spustów jednoprzewodowych dozwolone jest, gdy pojemność całkowita zbiornika obsługiwanego przez ten spust nie przekracza 200000 m?, a wysokość piętrzenia jest mniejsza od 2,0 m, lub istnieją inne urządzenia mogące przejąć funkcję spustu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "89",
+   "path": "par_89",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_89/ust_1",
+     "text": "Nie dopuszcza się powiększenia na terenie zalewowym natężenia przepływu więcej niż o 25% w stosunku do przepływów wezbraniowych na tym terenie, jeżeli część przepływu wezbraniowego przeprowadzana jest obok jazu lub przelewu przez teren zalewowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_89/ust_2",
+     "text": "Wymagania tego można nie spełnić, jeżeli przepuszczenie po tym terenie przepływu o natężeniu większym niż określone w ust. 1 nie spowoduje nadmiernych szkód.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "90",
+   "path": "par_90",
+   "text": "Usytuowanie, kształty i wymiary wlotów budowli upustowych powinny umożliwiać łagodne wprowadzenie do nich wody i ograniczać zawirowania prądami ukośnymi i przepływem wody, w celu uniknięcia zagrożenia podmyciem tych budowli, budowli sąsiednich i brzegów lub utrudnienia w ruchu statków oraz w doprowadzeniu wody do położonych w pobliżu ujęć.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "91",
+   "path": "par_91",
+   "text": "Wloty budowli upustowych, w których mogą się zatrzymywać ciała pływające lub lód, powinny być chronione kratami lub fartuchami lodowymi i izbicami; warunki te nie dotyczą przelewów wieżowych o średnicy wewnętrznej większej od 3,0 m.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "92",
+   "path": "par_92",
+   "text": "Budowle upustowe powinny być zaopatrzone w urządzenia do rozpraszania energii wodnej oraz mieć umocnione skarpy i dno, dla ochrony budowli i brzegów przed podmyciem zagrażającym ich stateczności i trwałości; urządzenia te powinny być dostosowane do przepływów, które mogą wystąpić w trakcie użytkowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "93",
+   "path": "par_93",
+   "text": "Powierzchnie przelewów powinny mieć tak dobrany kształt, aby nie powstawały na nich podciśnienia mogące spowodować kawitację, lub być wykonane w taki sposób, aby kawitacja nie powodowała ich niszczenia; w spustach i wlotach należy stosować zabezpieczenia zmniejszające skutki kawitacji przez opancerzenie i napowietrzenie.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział VI",
+   "text": "BUDOWLE HYDROTECHNICZNE DO POBORU | PRZESYŁANIA WOD"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Ujęcia wód"
+  },
+  {
+   "type": "par",
+   "num": "94",
+   "path": "par_94",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_94/ust_1",
+     "text": "Lokalizacja i rozwiązania techniczne ujęć wód powinny uniemożliwiać lub ograniczać przedostawanie się i gromadzenie lodu, śryżu i innych ciat pływających po powierzchni lub zanurzonych, a także fauny wodnej i osadów, z zastrzeżeniem ust. 2.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_94/ust_2",
+     "text": "Jeżeli nie można uniemożliwić gromadzenia się osadów i ciał pływających przed ujęciem wody, należy wyposażyć je w urządzenia do ich usuwania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "95",
+   "path": "par_95",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_95/ust_1",
+     "text": "Wloty ujęć wód powinny być ukształtowane w sposób ograniczający występowanie zawirowań, zasysania powietrza i zaburzeń przepływu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_95/ust_2",
+     "text": "Korona progu wlotu powinna być usytuowana na takiej wysokości nad dnem cieku, aby było maksymalnie ograniczone wnoszenie do ujęcia wody rumowiska wleczonego; najmniejsze wzniesienie progu wlotu ujęcia wody nad próg upustu lub innego urządzenia pfuczącego powinno wynosić 0,50 m, aw sytuacji gdy ilość rumowiska wleczonego jest niewielka — 0,30 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "96",
+   "path": "par_96",
+   "text": "Rurociągi ujęć wód i elektrowni wodnych, przecinające ziemną budowię piętrzącą poniżej zwierciadła wody górnej, powinny być skonstruowane zgodnie z warunkami określonymi w § 86.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "97",
+   "path": "par_97",
+   "text": "Górna krawędź wlotów do przewodów ujęć wód działających pod ciśnieniem powinna być położona na głębokości zabezpieczającej przed zasysaniem powietrza, ciał pływających, śryżu i lodu.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Pompownie wody"
+  },
+  {
+   "type": "par",
+   "num": "98",
+   "path": "par_98",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_98/ust_1",
+     "text": "Pompowniom odwadniającym i przesyłowym powinien być zapewniony dopływ energii elektrycznej z dwóch niezależnych źródeł; tym drugim źródłem zasilania może być agregat prądotwórczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_98/ust_2",
+     "text": "Pompownie należy wyposażyć w pompy rezerwowe. Można nie przewidywać pomp rezerwowych pod warunkiem zapewnienia możliwości przepompowania wody.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "99",
+   "path": "par_99",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_99/ust_1",
+     "text": "Podstawy silników elektrycznych pomp odwadniających tereny depresyjne powinny być umieszczone powyżej maksymalnego poziomu zwierciadła wody przyległego cieku lub zbiornika, z zastrzeżeniem ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_99/ust_2",
+     "text": "Jeżeli spełnienie warunku wymienionego w ust. 1 jest niemożliwe, należy zastosować inny sposób zabezpieczenia, który wyklucza zatopienie silników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_99/ust_3",
+     "text": "Przy użyciu pomp pogrążalnych nie stosuje się warunków określonych w ust. 1 i-2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "100",
+   "path": "par_100",
+   "text": "Pompownie wód i rurociągi tłoczące wodę do położonego wyżej zbiornika lub kanału należy zabezpieczyć przed zatopieniem budynku pampowni i podmyciem podpór rurociągu w przypadku ich awarii.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "101",
+   "path": "par_101",
+   "text": "Rurociągi pompowni wody przechodzące przez ziemne budowle trwale piętrzące wodę powinny spełniać warunki określone w § 86.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Budowle hydrotechniczne przesyłowe"
+  },
+  {
+   "type": "par",
+   "num": "102",
+   "path": "par_102",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_102/ust_1",
+     "text": "Trasy kanałów otwartych prowadzi się w sposób ograniczający ilość skrzyżowań z.liniami komunikacyjnymi i z ciekami, przejściami przez osiedla, zakłady przemysłowe, obszary cennych upraw, tereny chronione oraz obszary zagrożeń sanitarnych, a także tereny osuwiskowe, bagniste, o znacznej przepuszczalności oraz wymagające prowadzenia kanału w nasypie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_102/ust_2",
+     "text": "Promienie tuków trasy kanałów nieżeglownych nie powinny być mniejsze od 2,5-krotnej szerokości zwierciadła wody w kanale przy największym przepływie obliczeniowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "103",
+   "path": "par_103",
+   "text": "Konstrukcja kanałów otwartych powinna zapewniać zdolność przepustową, szczelność, stateczność, trwałość i łatwość utrzymania i spełniać wymagania ochrony środowiska.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "104",
+   "path": "par_104",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_104/ust_1",
+     "text": "Brzegi i skarpy kanałów powinny być zabezpieczone przed erozją i sufozją wywołaną przez wody powierzchniowe i gruntowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_104/ust_2",
+     "text": "Dla zachowania przepustowości kanałów zabezpiecza się je przed zamulaniem, zarastaniem i zasypywaniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "105",
+   "path": "par_105",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_105/ust_1",
+     "text": "Sztolnie, kanały zamknięte i inne przewody bezciśnieniowe prowadzące wodę powinny być napowietrzane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_105/ust_2",
+     "text": "Przewody ciśnieniowe prowadzące wodę powinny być napowietrzane i odpowietrzane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "106",
+   "path": "par_106",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_106/ust_1",
+     "text": "Przewody ciśnieniowe prowadzące wodę powinny być przystosowane do przeniesienia uderzeń hydraulicznych, powstających w warunkach eksploatacji i awarii tych urządzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_106/ust_2",
+     "text": "Zamknięcia przewodów ciśnieniowych prowadzących wodę z napędem elektrycznym powinny posiadać rezerwowy napęd ręczny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "107",
+   "path": "par_107",
+   "text": "Przewody bezciśnieniowe i ciśnieniowe prowadzące wodę, przecinające ziemne budowle piętrzące, powinny spełniać warunki określone w § 86.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział VII",
+   "text": "WYPOSAŻENIE BUDOWLI HYDROTECHNICZNYCH"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Zamknięcia główne budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "108",
+   "path": "par_108",
+   "text": "Konstrukcja zamknięć głównych budowli hydrotechnicznych powinna umożliwiać manewrowanie nimi w płynącej wodzie i zapewniać bezpieczną ich eksploatację.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "109",
+   "path": "par_109",
+   "text": "Szybkość zamykania i otwierania zamknięć głównych budowli hydrotechnicznych powinna być dostosowana do wielkości przepływu wód nie powodujących szkód w dolnym i górnym stanowisku budowli hydrotechnicznych i do charakteru wezbrań oraz wymagań eksploatacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "110",
+   "path": "par_110",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_110/ust_1",
+     "text": "Zamknięcia główne budowli hydrotechnicznych powinny być wyposażone w materiały i urzą-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "dzenia techniczne zapewniające prawidłową eksploatację w okresie zimowym, z zastrzeżeniem ust. 2."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_110/ust_2",
+     "text": "Jeżeli nie przewiduje się eksploatacji zamknięć budowli hydrotechnicznej w okresie zimowym, warunki określone w ust. 1 mają zastosowanie do zamknięć używanych do regulacji przepływu oraz do 1/3 pozostałych zamknięć.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "111",
+   "path": "par_111",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_111/ust_1",
+     "text": "Zamknięcia główne budowli hydrotechnicznych powinny być wyposażone w napęd elektryczny zasadniczy i rezerwowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_111/ust_2",
+     "text": "Napędy zamknięć głównych budowli hydrotechnicznych klasy I i Il powinny być zasilane z dwóch niezależnych źródeł, dwoma liniami przeprowadzonymi przez tereny nie zagrożone podmyciem, osuwiskami, lawinami; elektrownia wodna budowana przy stopniu lub zaporze oraz spalinowy agregat prądotwórczy mogą stanowić rezerwowe źródło zasilania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_111/ust_3",
+     "text": "Napędy zamknięć głównych budowli hydrotechnicznych klasy Ill powinny być zasilane z dwóch niezależnych źródeł; rezerwowym źródiem zasilania może być napęd ręczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_111/ust_4",
+     "text": "Napędy zamknięć budowli hydrotechnicznych klasy IV oraz budowli hydrotechnicznych klasy III o wysokości piętrzenia niższej niż 2,0 m i pojemności zbiornika mniejszej niż 200 000 m* można ograniczyć do napędu ręcznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_111/ust_5",
+     "text": "Zamknięcia główne budowli hydrotechnicznych działające na zasadzie wykorzystania różnicy ciśnień wody górnej i dolnej powinny mieć urządzenia do ich uruchamiania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "112",
+   "path": "par_112",
+   "text": "Konstrukcja zamknięć głównych budowli hydrotechnicznych nie powinna dopuszczać do drgań zagrażających ich trwałości; przestrzenie pod strumieniami przelewającej się wody oraz nad zamknięciami i progami powinny być napowietrzane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "113",
+   "path": "par_113",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_113/ust_1",
+     "text": "Wzniesienie górnej krawędzi zamknięć głównych przelewów i jazów nad poziomem normalnego piętrzenia powinno wynosić nie mniej niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_113/ust_1/pkt_1",
+       "text": "0,3 m — dla przelewów na zbiornikach i dla jazów na Wiśle, Odrze, Bugu, Narwi, Warcie, Sanie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_113/ust_1/pkt_2",
+       "text": "0,1 m— dla jazów na pozostałych rzekach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_113/ust_2",
+     "text": "Dopuszczalne jest umieszczenie górnej krawędzi zamknięć głównych przelewów i jazów na poziomie normalnego piętrzenia; konstrukcja zamknięć powinna umożliwiać przelewanie się wody i przepuszczanie lodów nad zamknięciem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "114",
+   "path": "par_114",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_114/ust_1",
+     "text": "Zamknięcia główne budowli hydrotechnicznych powinny być zabezpieczone przed przypadkowym ich uruchomieniem lub uszkodzeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_114/ust_2",
+     "text": "Zamknięcia główne budowli hydrotechnicznych powinny być odporne na wpływy atmosferyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_114/ust_3",
+     "text": "W każdych warunkach atmosferycznych i hydrologicznych powinien być zapewniony bezpieczny dostęp obsługi do mechanizmów zamknięć głównych budowli hydrotechnicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "115",
+   "path": "par_115",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_115/ust_1",
+     "text": "Mechanizmy zamknięć głównych budowli hydrotechnicznych powinny być wyposażone w ograniczniki krańcowe, hamulce i wskaźniki ich położenia; mechanizmy sterowane zdalnie lub automatycznie powinny być wyposażone dodatkowo w ręczne sterowanie, umożliwiające ich bezpośrednią obsługę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_115/ust_2",
+     "text": "Stosowanie ruchomych mechanizmów zamknięć głównych budowli hydrotechnicznych, przemieszczanych wzdłuż jazów i ujęć wody obsługujących kolejno różne przęsła, jest dopuszczalne w razie niewystępowania potrzeby jednoczesnego podnoszenia lub opuszczania zamknięć.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_115/ust_3",
+     "text": "Budowla upustowa powinna mieć co najmniej dwa ruchome mechanizmy zamknięć głównych budowli hydrotechnicznych, przy czym jeden mechanizm powinien obsługiwać nie więcej niż pięć przęseł.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Ruchome mechanizmy zamknięć głównych budowli hydrotechnicznych nie mogą być stosowane, w razie zastosowania zamknięć głównych budowli hydrotechnicznych działających automatycznie lub zdalnie sterowanych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zamknięcia awaryjne i remontowe budowli hydrotechnicznych"
+  },
+  {
+   "type": "par",
+   "num": "116",
+   "path": "par_116",
+   "text": "Konstrukcja zamknięć awaryjnych budowli hydrotechnicznych powinna umożliwiać: _",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_116/pkt_1",
+     "text": "manewrowanie nimi w płynącej wodzie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_116/pkt_2",
+     "text": "szybkie zatrzymanie przepływu wody w przypadku awarii zamknięć głównych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_116/pkt_3",
+     "text": "bezpieczną ich eksploatację.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "117",
+   "path": "par_117",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_117/ust_1",
+     "text": "Elektrownie i siłownie wodne powinny być wyposażone w zamknięcia awaryjne, a inne budowle hydrotechniczne — tylko w przypadku, gdy awaria zamknięcia głównego spowodować może znaczne straty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_117/ust_2",
+     "text": "W elektrowniach wodnych o niskim spadzie rolę zamknięcia awaryjnego może spełniać jedno z urządzeń regulujących przepływ wody przez turbinę, jeśli turbina jest zaopatrzona w dwa takie urządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "118",
+   "path": "par_118",
+   "text": "Zamknięcia awaryjne można wykorzystywać jako zamknięcia remontowe, przy czym jeden komplet zamknięć awaryjnych powinien być zawsze do dyspozycji użytkownika.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "119",
+   "path": "par_119",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_119/ust_1",
+     "text": "Zamknięcia remontowe powinny umożliwiać przeprowadzenie napraw i przeglądów zamknięć głównych oraz innych elementów budowli hydrotechnicznych przy normalnym poziomie piętrzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_119/ust_2",
+     "text": "Zamknięcia remontowe powinny umożliwiać wypełnienie wodą przestrzeni pomiędzy zamknięciami remontowymi a głównymi.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "120",
+   "path": "par_120",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_120/ust_1",
+     "text": "Upusty, jazy i ujęcia wody powinny być wyposażone w zamknięcia remontowe, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_120/ust_2",
+     "text": "Każda budowla hydrotechniczna, o której mowa w ust. 1, powinna być wyposażona co najmniej w jeden komplet zamknięć remontowych od górnej wody na każde pięć otworów, a także od strony dolnej wody, gdy nieodzowne są one dla umożliwienia przeglądów, konserwacji i remontów. Liczba kompletów zamknięć remontowych od wody dolnej powinna być taka jak liczba zamknięć od wody górnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_120/ust_3",
+     "text": "Budowle hydrotechniczne, o których mowa w ust. 1, nie muszą być wyposażone w zamknięcia remontowe, gdy remont zamknięć głównych lub samej budowli jest bez nich możliwy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "121",
+   "path": "par_121",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_121/ust_1",
+     "text": "Spusty budowli hydrotechnicznych powinny być wyposażone w zamknięcia awaryjne, główne dla regulacji przepiywów i remontowe od strony wody górnej, a jeżeli istnieje taka potrzeba, także od strony wody dolnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_121/ust_2",
+     "text": "Spusty budowli hydrotechnicznych klasy IV mogą być wyposażone w jedno zamknięcie umieszczone od strony wody górnej, a od strony wody dolnej, w przypadku gdy wysokość piętrzenia nie przekracza 2,0 m, a pojemność zbioriiika wodnego jest mniejsza od 200 000 m? i zapewnione jest bezpieczne odprowadzanie przesiąków i przecieków wody z przewodu spustowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "122",
+   "path": "par_122",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_122/ust_1",
+     "text": "Dno spustu powinno być wykonane ze spadkiem podłużnym, co najmniej 0,2% w kierunku dolnej wody.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_122/ust_2",
+     "text": "Odcinki przewodów spustowych poniżej zamknięć powinny być napowietrzane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Wyposażenie wlotów i ujęć wody"
+  },
+  {
+   "type": "par",
+   "num": "123",
+   "path": "par_123",
+   "text": "Wloty ujęć wody pitnej i przemysłowej oraz wloty wody kierowanej na pompy, turbiny i inne urządzenia należy wyposażyć w kraty o konstrukcji umożliwiającej oczyszczanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "124",
+   "path": "par_124",
+   "text": "Otwory wiotowe ujęć wody powinny być zaopatrzone w zamknięcia remontowe, a gdy przewiduje się potrzebę regulacji przepływu na wlocie ujęcia wody lub konieczność szybkiego odcięcia dopływu wody do ujęcia — w zamknięcia główne i awaryjne.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Wyposażenie budowli hydrotechnicznych w sprzęt, materiały i zabezpieczenia"
+  },
+  {
+   "type": "par",
+   "num": "125",
+   "path": "par_125",
+   "text": "Budowle hydrotechniczne powinny być wyposażone w maszyny, sprzęt, urządzenia, środki transportowe i materiały niezbędne do normalnej eksploatacji oraz przeznaczone do użycia w przypadku awarii i działań przeciwpowodziowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "126",
+   "path": "par_126",
+   "text": "Zbiorniki wodne powinny być wyposażone w sprzęt do usuwania ciał pływających, pochodzących ze zlewni i z czaszy zbiornika, w czasie eksploatacji, w szczególności w czasie ich pierwszego napełniania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "127",
+   "path": "par_127",
+   "text": "Zbiorniki wodne narażone na powstawanie zatorów lodowych lub śryżowych należy wyposażyć w sprzęt i środki przeciwdziałające powstawaniu zatorów lub przyspieszające ich likwidację.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "128",
+   "path": "par_128",
+   "text": "Budowla hydrotechniczna oddawana do eksploatacji powinna być wyposażona w zestaw części zamiennych, wystarczający co najmniej na pierwszy rok eksploatacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "129",
+   "path": "par_129",
+   "text": "Budowle hydrotechniczne piętrzące wodę oraz kanały i zbiorniki wodne, stanowiące przeszkodę dla turystyki wodnej, powinny być wyposażone w urządzenia umożliwiające przeprowadzenie łodzi i sprzętu turystycznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "130",
+   "path": "par_130",
+   "text": "Budowle hydrotechniczne powinny:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_130/pkt_1",
+     "text": "być wyposażone w sprzęt ratowniczy; jeżeli giębokość wody przekracza 1,5 m lub prędkość przepływu wody 1,5 m/s, budowlę należy wyposażyć w kota lub łodzie ratunkowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_130/pkt_2",
+     "text": "przed upustami i ujęciami wody mieć wyznaczoną bojami i tablicami ostrzegawczą linię, której przekroczenie stwarza niebezpieczeństwo porwania przez prąd wody; dla budowli o piętrzeniu do 2,0 m dopuszcza się stosowanie tylko tablic ostrzegawczych,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "na ścianach odwodnych oraz skarpach umocnio- 3"
+    },
+    {
+     "type": "text",
+     "text": "> nych gładkimi elementami o nachyleniu większym niż 1:3 drabinki lub schodki, sięgające 1,5 m poniżej najniższego poziomu wody lub do dna należy rozmieszczać w odstępach nie większych niż 100 m; w kanałach o szerokości zwierciadła wody do 20 m wyposażenie to można rozmieszczać na przemian po obu brzegach kanału; w przypadku braku możliwości umieszczenia urządzeń, o których mowa w pkt 1, należy ścianę lub skarpę zabezpieczyć przed dostępem osób niepowołanych,"
+    },
+    {
+     "type": "text",
+     "text": "— mieć wloty do przewodów podziemnych — syfo- 4 nów, rurociągów, ujęć, których górna krawędź potożona jest płycej niż 5 m poniżej normalnego poziomu piętrzenia, zabezpieczone kratami lub siatkami,."
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_130/pkt_5",
+     "text": "na początku odcinków kanałów nieżeglownych przy przepływie wody o prędkości powyżej 1,5 m/s być wyposażone w kraty, siatki, łańcuchy lub inne urządzenia zabezpieczające przed porywaniem prądem wody ludzi, zwierząt lub łodzi; należy przewidzieć sposoby usunięcia powstałych zanieczyszczeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Techniczna kontrola budowli"
+  },
+  {
+   "type": "par",
+   "num": "131",
+   "path": "par_131",
+   "text": "Budowle hydrotechniczne powinny mieć zapewnioną kontrolę stanu technicznego i ich otoczenia przez cały okres użytkowania — od momentu rozpoczęcia budowy do czasu zakończenia jej eksploatacji i ustania związanego z istnieniem obiektu zagrożenia.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "132",
+   "path": "par_132",
+   "text": "Budowle hydrotechniczne powinny być wyposażone w urządzenia kontrolno-pomiarowe, umożliwiające obserwacje i pomiary, w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_132/pkt_1",
+     "text": "naprężeń, przemieszczeń i odkształceń budowli, jej podłoża oraz przyległego terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_132/pkt_2",
+     "text": "poziomów i ciśnień wód podziemnych oraz procesów filtracji zachodzących w budowli, jej podłożu i przyczółkach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_132/pkt_3",
+     "text": "stanów i jakości wód: górnej i dolnej oraz na głównych dopływach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_132/pkt_4",
+     "text": "zmian dna i brzegów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_132/pkt_5",
+     "text": "zjawisk lodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_132/pkt_6",
+     "text": "zjawisk towarzyszących.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "133",
+   "path": "par_133",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_133/ust_1",
+     "text": "Rodzaj, liczbę i rozmieszczenie urządzeń kontrolno-pomiarowych oraz dokładności pomiarów ustala się indywidualnie dla każdej budowli hydrotechnicznej w zależności od jej klasy w taki sposób, aby wyniki obserwacji pomiarów umożliwiły ocenę stanu technicznego bezpieczeństwa budowli hydrotechnicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_133/ust_2",
+     "text": "Budowle hydrotechniczne o wysokości piętrzenia niższej niż 2,0 m i pojemności zbiornika mniejszej od 50 000 m* mogą nie być wyposażone w urządzenia kontrolno-pomiarowe; techniczna kontrola ogranicza się do systematycznych oględzin budowli hydrotechnicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Urządzenia kontrolno-pomiarowe"
+  },
+  {
+   "type": "par",
+   "num": "134",
+   "path": "par_134",
+   "text": "Urządzenia kontrolno-pomiarowe należy instalować i prowadzić ich obserwacje od początku budowy, a w miarę możliwości przed rozpoczęciem budowy, tak aby wyniki obserwacji i pomiarów umożliwiały ocenę stanu budowli w czasie budowy oraz prognozę jej dalszego zachowania się; wyniki pomiarów i obserwacji powinny być przechowywane przez okres eksploatacji budowli hydrotechnicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "135",
+   "path": "par_135",
+   "text": "Obiekty klasy | i Il oraz inne wymagające stałej, bieżącej kontroli należy wyposażyć w urządzenia kontrolno-pomiarowe przystosowane do automatycznego odczytu; bez względu na klasę budowli hydrotechnicznej, należy zapewnić okresową kontrolę prawidłowości wskazań automatycznych za pomocą innych urządzeń — nieautomatycznych, tak aby istniała możliwość porównania wyników obserwacji urządzeń automatycznych i nieautomatycznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "136",
+   "path": "par_136",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_136/ust_1",
+     "text": "Urządzenia kontrolno-pomiarowe powinny być rozmieszczane w oparciu o znajomość pracy elementów budowli hydrotechnicznej i podfoza, przy wykorzystaniu modelu obliczeniowo-interpretacyjnego; urządzenia kontrolno-pomiarowe należy rozmieszczać w sposób umożliwiający porównanie wyników pomiarów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_136/ust_2",
+     "text": "Urządzenia kontrolno-pomiarowe należy umieszczać w budowli hydrotechnicznej oraz jej podłożu, z zagęszczeniem w strefach większego zagrożenia, o których mowa w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_136/ust_3",
+     "text": "Do stref większego zagrożenia, o których mowa w ust. 2, zalicza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_136/ust_3/pkt_1",
+       "text": "w podłożu budowli hydrotechnicznej — uskoki, wkładki słabych gruntów lub skał i starorzecza,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_136/ust_3/pkt_2",
+       "text": "w konstrukcjach budowli hydrotechnicznej — strefy koncentracji naprężeń, połączenia nasypów z elementami betonowymi i przyczółki zapór.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_136/ust_4",
+     "text": "Położenie urządzeń kontrolno-pomiarowych powinno być określone z uwzględnieniem geodezyjnej sieci odniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "137",
+   "path": "par_137",
+   "text": "Dla poszczególnych pomiarów dokonywanych z użyciem urządzeń kontrolno-pomiarowych powinny być ustalone:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_137/pkt_1",
+     "text": "graniczne i dopuszczalne wartości obserwowanych zjawisk i ich dynamika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_137/pkt_2",
+     "text": "częstotliwość dokonywania pomiarów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_137/pkt_3",
+     "text": "sposób i miejsce przechowywania ich wyników,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_137/pkt_4",
+     "text": "metody interpretacji wyników,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_137/pkt_5",
+     "text": "terminy aktualizacji instrukcji eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział VIII",
+   "text": "KOMUNIKACJA, ŁĄCZNOŚĆ | POMIESZCZENIA BUDOWLI HYDROTECHNICZNYCH"
+  },
+  {
+   "type": "par",
+   "num": "138",
+   "path": "par_138",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_138/ust_1",
+     "text": "Do budowli hydrotechnicznej i wszystkich jej elementów powinny być doprowadzone drogi dojazdowe oraz dojścia piesze lub dojazdy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_138/ust_2",
+     "text": "Drogi dojazdowe do budowli hydrotechnicznej powinny być dostosowane do rodzaju przewożonego sprzętu i materiałów oraz środków transportowych; drogi dojazdowe do zapór bocznych i obwałowań przeciwpowodziowych powinny być budowane wzdłuż tych obiektów lub po ich koronie i posiadać połączenia z drogami publicznymi — nie rzadziej niż co 4 km.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_138/ust_3",
+     "text": "Dla zbiorników wodnych i kanałów należy zapewnić transport wodny; w razie braku możliwości technicznych zorganizowania transportu wodnego, należy wzdłuż brzegów zbiorników i kanałów przewidzieć drogę roboczą lub pas gruntu umożliwiający dojazdy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "139",
+   "path": "par_139",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_139/ust_1",
+     "text": "W budowlach hydrotechnicznych galerie kontrolno-zastrzykowe i korytarze transportowe powinny mieć wysokość co najmniej 2,2 m, a szerokość nie mniejszą niż 1,4 m; szerokość galerii kontrolno-zastrzykowych może być zmniejszona do 1,2 m, jeżeli w galerii nie przewidziano koryta dla odprowadzenia wód z filtracji przez konstrukcję galerii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_139/ust_2",
+     "text": "Wymiary galerii kontrolno-zastrzykowych powinny zapewniać transport i pracę sprzętu wiertniczego używanego do wykonywania cementacji podłoża pod budowlami.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_139/ust_3",
+     "text": "Galerie i korytarze transportowe powinny mieć szerokość większą o 0,3 m od największego transportowanego elementu; jeżeli przewidziano przechodzenie obok przemieszczanych lub umiejscowionych przedmiotów, szerokość tę należy zwiększyć jednostronnie o 1,0 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "140",
+   "path": "par_140",
+   "text": "Korytarze transportowe, galerie kontrolno- -zastrzykowe, szyby, pochylnie transportowe i komunikacyjne wewnątrz budowli lub w jej podłożu powinny być zaopatrzone w:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_140/pkt_1",
+     "text": "naturalną lub sztuczną wentylację,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_140/pkt_2",
+     "text": "grawitacyjne lub pompowe odwodnienie z pompami rezerwowymi, które można uruchomić w przypadku zalania galerii,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_140/pkt_3",
+     "text": "oświetlenie elektryczne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_140/pkt_4",
+     "text": "schody, także w sytuacji, gdy przewidziano transport pionowy wewnątrz budowli hydrotechnicznej dźwigiem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "141",
+   "path": "par_141",
+   "text": "Wiązy, otwory i zagłębienia w podłodze budowli hydrotechnicznej powinny być zabezpieczone pokrywami lub barierami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "142",
+   "path": "par_142",
+   "text": "Transport pionowy w budowli hydrotechnicznej sprzętu i urządzeń może się odbywać schodami, szybami lub pochylniami za pomocą wózków i dźwigów z napędem elektrycznym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "143",
+   "path": "par_143",
+   "text": "Drogi dojazdowe, dojścia piesze i dojazdy powinny zapewniać swobodną komunikację i transport, w warunkach awaryjnych, a także powinny być oznakowane tablicami kierunkowymi oraz tablicami, na których określono dopuszczalne obciążenie i maksymalne gabaryty transportowanych przedmiotów, oraz powinny być wyposażone w tablice informacyjne, nakazu i zakazu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "8 144, Budowle hydrotechniczne lub ich zespoły powinny posiadać przystań z nabrzeżem lub pochylnią do podnoszenia i wodowania łodzi inspekcyjnych i taboru eksploatacyjnego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "145",
+   "path": "par_145",
+   "text": "Budowle hydrotechniczne powinny być wyposażone w miejsca i urządzenia przeładunkowe, w przypadku ich wykorzystania do transportu wodnego dla sprzętu i materiałów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "146",
+   "path": "par_146",
+   "text": "Budowle hydrotechniczne powinny być wyposażone w łączność wewnętrzną i zewnętrzną; budowle hydrotechniczne klasy | i II powinny posiadać łączność z dwóch niezależnych systemów; jednym z tych systemów może być łączność radiowa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "147",
+   "path": "par_147",
+   "text": "Budowle hydrotechniczne klasy | i II powinny być wyposażone w łączność ze stacjami pomiarowymi w zlewni i jednostkami sprawującymi osłonę hydrologiczną, dla uzyskania prognoz dopływów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "148",
+   "path": "par_148",
+   "text": "Pomieszczenia dla mechanizmów i innych urządzeń budowli hydrotechnicznych powinny być wyposażone w:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_148/pkt_1",
+     "text": "naturalną lub sztuczną wentylację,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_148/pkt_2",
+     "text": "oświetlenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_148/pkt_3",
+     "text": "dojścia do urządzeń oraz drogi do szybkiej i bezpiecznej ewakuacji, w tym również schody ewakuacyjne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_148/pkt_4",
+     "text": "odwodnienie grawitacyjne lub pompowe, z pompami rezerwowymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_148/pkt_5",
+     "text": "zabezpieczenie przed mrozem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_148/pkt_6",
+     "text": "sprzęt przeciwpożarowy, odzież i obuwie robocze,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_148/pkt_7",
+     "text": "oznakowanie informujące o dopuszczalnych obciążeniach na stropy i inne elementy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_148/pkt_8",
+     "text": "wyposażenie w urządzenia umożliwiające transport i podnoszenie części maszyn lub urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział IX",
+   "text": "PRZEPISY PRZEJŚCIOWE I KOŃCOWE"
+  },
+  {
+   "type": "par",
+   "num": "149",
+   "path": "par_149",
+   "text": "Rozporządzenia nie stosuje się do obiektów budowlanych, wobec których, przed dniem wejścia w życie rozporządzenia, została wydana decyzja o pozwoleniu na budowę lub został złożony wniosek o wydanie takiej decyzji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "150",
+   "path": "par_150",
+   "text": "Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa: S. Żelichowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,1645 @@
+{
+ "eli": "DU/1997/851",
+ "title": "Rozporządzenie Rady Ministrów z dnia 15 października 1997 r. w sprawie określenia szczegółowych zasad i trybu ustalania niepreferencyjnego pochodzenia towarów, sposobu jego dokumentowania oraz listy towarów, których pochodzenie musi być udokumentowane świadectwem pochodzenia.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/851/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 października 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia szczegółowych zasad i trybu ustalania niepreferencyjnego pochodzenia towarów, sposobu jego dokumentowania oraz listy towarów, których pochodzenie musi być udokumentowane świadectwem pochodzenia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 19 8 3 ustawy z dnia 9 stycznia 1997 r. — Kodeks celny (Dz. U. Nr 23, poz. 117, Nr 64, poz. 407 i Nr 121, poz. 770) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wytwarzanie — każdy rodzaj obróbki lub przetworzenia, tącznie z montażem lub operacjami charakterystycznymi dla danego procesu produkcyjnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "materiał — składnik, surowiec, komponent lub część, użyte do wytworzenia produktu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "produkt — wytworzony, wydobyty lub uzyskany towar, nawet jeśli jest on przeznaczony do użycia w innym procesie wytwarzania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "materiał niepochodzący — materiał pochodzący z kraju innego niż kraj, w którym towar jest wytwarzany, lub materiał, którego pochodzenia nie można ustalić,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "cena ex works — cenę zapłaconą producentowi za produkt w kraju, w którym został wytworzony, po odliczeniu wszystkich podatków wewnętrznych, które są lub mogą być zwrócone w wypadku wywozu produktu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "pozycja HS — pierwsze cztery cyfry nomenklatury Zharmonizowanego Systemu Oznaczania i Kodowania Towarów (HS),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "reguły szczegółowe — rodzaje procesów określonych w załącznikach, o których mowa w § 2 pkt 1 i 2, stosowane wobec produktów wymienionych w tych załącznikach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ustala się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wykaz procesów wykonywanych na materiałach niepochodzących, nadających materiałom i wyrobom włókienniczym pochodzenie kraju wytwarzania, stanowiący załącznik nr 1 do rozporządzenia, zwany dalej „Wykazem nr 1”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "wykaz procesów wykonywanych na materiałach niepochodzących, nadających produktom innym niż materiały i wyroby włókiennicze pochodzenie kraju wytwarzania, stanowiący załącznik nr 2 do rozporządzenia, zwany dalej „Wykazem nr 2\",",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wykaz towarów przywożonych na polski obszar celny, których pochodzenie musi być udokumentowane świadectwem pochodzenia, stanowiący załącznik nr 3 do rozporządzenia, zwany dalej „Wykazem nr3”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Ustalanie pochodzenia materiałów i wyrobów włókienniczych należących do sekcji XI HS"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Z zastrzeżeniem ust. 2, za istotną, ekonomicznie uzasadnioną obróbkę lub przetworzenie, o których mowa w art. 17 Kodeksu celnego, nadające materiałom i wyrobom włókienniczym, z wyjątkiem materiałów i wyrobów, o których mowa w § 4 ust. 1, pochodzenie kraju, gdzie procesy te zostały przeprowadzone, uznaje się obróbkę lub przetworzenie, które powodują, że wytworzony produkt jest klasyfikowany w innej po-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "zycji HS niż pozycje obejmujące każdy z użytych materiałów niepochodzących (wystarczające przetworzenie)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Następujące obróbki lub przetworzenia wykonane na materiałach niepochodzących nie są uznawane za wystarczające przetworzenie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "zabiegi mające na celu zabezpieczenie produktów w czasie ich transportu i składowania, w szczególności wentylacja, rozkładanie, suszenie i usuwanie uszkodzonych części,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "proste operacje usuwania pyłu, przesiewania, sortowania, klasyfikowania, łączenia, w tym także tworzenia zestawów, mycia i wycinania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "zmiana opakowań, rozdzielanie i łączenie paczek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "proste operacje konfekcjonowania, a w szczególności pakowanie w torby, etui lub pudełka,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "znakowanie produktów i ich opakowań etykietami i innymi znakami wyróżniającymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "proste łączenie części produktów w celu złożenia produktu kompletnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "połączenie dwóch lub więcej operacji wymienionych w pkt 1—6.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W wypadku produktów wymienionych w kolumnie 2 Wykazu nr 1, za wystarczające przetworzenie uznaje się wykonanie na materiałach niepochodzących co najmniej obróbki lub przetworzenia określonych w kolumnie 3 tego wykazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Jeżeli zgodnie z regułami szczegółowymi materiał niepochodzący może być użyty na określonym etapie wytwarzania, jest dozwolone użycie takiego materiału na tym lub wcześniejszym etapie wytwarzania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Jeżeli produkt wykonany z materiałów niepochodzących nabył pochodzenie kraju wytworzenia i jest następnie użyty jako materiał w procesie wytwarzania nowego produktu, w celu ustalenia pochodzenia nowego produktu reguły szczegółowe nie dotyczą produktu włączonego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W wypadku gdy reguły szczegółowe określają, że produkt może być wytwarzany z więcej niż jednego materiału, nie jest konieczne, żeby wszystkie te materiały byty użyte.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Jeżeli zgodnie z regułami szczegółowymi produkt musi być wytwarzany z określonego materiału, warunek ten nie wyklucza użycia materiałów, których z powodu ich właściwości reguła ta nie dotyczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "W celu stosowania reguł szczegółowych, wartością użytych materiałów niepochodzących jest ich wartość celna, określona w chwili przywozu tych materiałów do kraju, w którym towar jest wytwarzany, lub jeśli wartość celna materiałów niepochodzących nie została określona — pierwsza możliwa do ustalenia cena zapłacona za te materiały w kraju, w którym towar jest wytwarzany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_4/ust_7",
+     "text": "W wypadku produktów otrzymanych z dwóch lub więcej materiałów włókienniczych, reguły szczegółowe mają zastosowanie do każdego z tych materiałów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Ustalanie pochodzenia towarów innych niż materiały i wyroby włókiennicze należące do sekcji XI HS"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W wypadku produktów wymienionych w kolumnie 2 Wykazu nr 2, za istotną, ekonomicznie uzasadnioną obróbkę lub przetworzenie, o których mowa w art. 17 Kodeksu celnego, nadające tym produktom pochodzenie kraju, gdzie procesy te zostały przeprowadzone, uznaje się obróbki lub przetworzenia określone w kolumnie 3 tego wykazu (wystarczające przetworzenie).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przepisy § 4 ust. 2—6 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "W celu stosowania reguł szczegółowych, za wartość dodaną w wyniku montażu uznaje się sumę kosztów montażu, włącznie z operacjami wykończeniowymi lub sprawdzającymi, wartości włączonych części pochodzących z kraju, w którym montaż został dokonany, oraz zysków i innych kosztów poniesionych w tym kraju w związku z montażem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W wypadku produktów innych niż materiały i wyroby włókiennicze należące do sekcji XI HS oraz innych niż wymienione w Wykazie nr 2, pochodzenie ustala się na podstawie art. 17 Kodeksu celnego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Ustalanie pochodzenia części zamiennych"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Użyte w niniejszym rozdziale określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "sprzęt, maszyny, aparaty lub pojazdy — towary należące do sekcji XVI, XVII i XVIII HS,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "istotne części zamienne — części, które tącznie spełniają następujące warunki",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_2/lit_a",
+       "text": "stanowią elementy, bez których nie może być zapewnione właściwe funkcjonowanie sprzętu, maszyn, aparatów lub pojazdów wcześniej dopuszczonych do obrotu lub wywiezionych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_2/lit_b",
+       "text": "są charakterystyczne dla sprzętu, maszyn, aparatów lub pojazdów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_2/lit_c",
+       "text": "są przeznaczone do konserwacji sprzętu, maszyn, aparatów lub pojazdów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_7/pkt_2/lit_d",
+       "text": "są przeznaczone do zastąpienia części tego samego rodzaju, uszkodzonych lub nie nadających się do użytku.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Części zamienne, akcesoria i wyposażenie przywożone na polski obszar celny w tym samym czasie co",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "sprzęt, maszyny, aparaty lub pojazdy i będące częścią ich typowego fabrycznego wyposażenia, są uważane za mające takie samo pochodzenie, jak ten sprzęt, maszyny, aparaty lub pojazdy, o ile te części zamienne, akcesoria i wyposażenie zostały uwzględnione przy ustalaniu pochodzenia sprzętu, maszyn, aparatów lub pojazdów."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Istotne części zamienne przeznaczone do sprzętu, maszyn, aparatów lub pojazdów wcześniej dopuszczonych do obrotu lub wywiezionych będą uważane za mające takie samo pochodzenie, jak sprzęt, maszyny, aparaty lub pojazdy, pod warunkiem że:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "jest to niezbędne do dokonania przywozu do kraju przeznaczenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "użycie istotnych części zamiennych do produkcji sprzętu, maszyny, aparatu lub pojazdu nie przeszkodziłoby w nadaniu pochodzenia temu sprzętowi, maszynie, aparatowi lub pojazdowi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W wypadku wątpliwości co do spełnienia przez towar warunków przewidzianych w niniejszym rozdziale, organ celny może żądać przedstawienia odpowiednich dokumentów, a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "faktury lub kopii faktury na sprzęt, maszynę, aparat lub pojazd wcześniej dopuszczony do obrotu lub wywozu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "kopii kontraktu albo innego dokumentu potwierdzającego, że dostawa jest dokonywana w ramach konserwacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Dokumentowanie pochodzenia towarów przywożonych na polski obszar celny"
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Pochodzenie towarów wymienionych w Wykazie nr 3 musi być udokumentowane świadectwem pochodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Dowodem pochodzenia towarów innych niż określone w ust. 1 może być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "świadectwo pochodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "faktura, specyfikacja towarów, kontrakt, świadectwo jakości lub inny dokument urzędowy, o ile w dokumentach tych jest umieszczony zapis o kraju pochodzenia towaru,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "trwałe oznaczenie kraju pochodzenia na towarze.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "W razie wątpliwości co do pochodzenia towaru, organ celny może zażądać przedstawienia szczegółowego opisu procesu wytwarzania towaru, z którego będzie wynikać, że spełnione zostały warunki określone w przepisach dotyczących pochodzenia towarów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Opis, o którym mowa w ust. 1, musi być potwierdzony przez organ upoważniony w kraju pochodzenia towaru do wystawiania świadectw pochodzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Świadectwa pochodzenia"
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Jeżeli pochodzenie towaru przywożonego na polski obszar celny lub wywożonego z polskiego obszaru celnego musi być udokumentowane świadectwem pochodzenia, dowodem pochodzenia towaru może być świadectwo pochodzenia, które spełnia łącznie następujące warunki:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1)zostało sporządzone przez organ upoważniony w danym kraju do wydawania świadectw pochodzenia oraz dający gwarancję rzetelności kontroli pochodzenia towarów,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "zawiera dane niezbędne do identyfikacji towaru objętego świadectwem, w szczególności",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_13/pkt_2/lit_a",
+       "text": "dane nadawcy lub osoby wywożącej towar,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_13/pkt_2/lit_b",
+       "text": "określenie rodzaju towaru,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_13/pkt_2/lit_c",
+       "text": "masę brutto lub netto towaru; dane te mogą zostać zastąpione innymi, takimi jak ilość lub objętość, w wypadku gdy towar podczas transportu zmienia swoją masę, gdy jego masa nie może być określona lub gdy ilość lub objętość są danymi zwyczajowo identyfikującymi ten towar,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_13/pkt_2/lit_d",
+       "text": "liczbę, rodzaj, znaki i numery opakowań; jeżeli towar jest przewożony luzem, należy umieścić na świadectwie odpowiednią adnotację,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "poświadcza, że towar, którego świadectwo dotyczy, pochodzi z określonego kraju.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Świadectwa pochodzenia na towary wywożone z polskiego obszaru celnego są wydawane przez organy celne na pisemny wniosek nadawcy lub osoby wywożącej towar z polskiego obszaru celnego, chyba że umowy międzynarodowe przewidują wydawanie świadectw pochodzenia przez inne uprawnione podmioty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Świadectwa pochodzenia na towary wywożone z polskiego obszaru celnego sporządza się na formularzu, którego wzór określa załącznik nr 4 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Karta nr 1 formularza, której druga strona nie jest zadrukowana, stanowi oryginał świadectwa pochodzenia i, po potwierdzeniu przez organ celny, jest wydawana wnioskodawcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Karta nr 2 formularza, której druga strona nie jest zadrukowana, stanowi kopię świadectwa pochodzenia. Organ celny po potwierdzeniu świadectwa zatrzymuje kopię, chyba że wnioskodawca umieści we wniosku żądanie wydania kopii świadectwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Karta nr 3 formularza, która jest dwustronnie zadrukowana, stanowi wniosek o wydanie świadectwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "Wnioskodawca wypełnia pola 1—7 na kartach nr 1 i 2 oraz pola 1—9 na karcie nr 3 formularza.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_15/ust_6",
+     "text": "Organ celny może, na żądanie wnioskodawcy, wydać dodatkowe kopie świadectwa pochodzenia, sporządzone na kartach nr 2 formularza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Wymiary świadectwa pochodzenia na towary wywożone z polskiego obszaru celnego powinny wynosić 210 mm x 297 mm z dopuszczalną tolerancją długości minus 5 mm lub plus 8 mm. Stosowany papier musi być papierem koloru białego, nie zawierającym masy ściernej, nadającym się do pisania i ważyć minimum 64 g/m? lub, jeżeli jest stosowany papier poczty lotniczej — między 25 g/m? i 30 g/m?. Tło świadectwa powinien pokrywać giloszowany nadruk koloru ciemnobrązowego, pozwalający ujawnić każdego rodzaju fałszerstwo za pomocą środków mechanicznych lub chemicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Karta nr 3 formularza jest drukowana w języku polskim. Karty nr 1 i 2 formularza świadectwa pochodzenia mogą być drukowane w jednym lub kilku językach: polskim, angielskim lub, jeśli wymagają tego potrzeby handlu, w innym języku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Na każdym formularzu świadectwa pochodzenia musi znajdować się nazwa i adres drukarni lub jej znak identyfikacyjny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Formularz świadectwa pochodzenia na towary wywożone z polskiego obszaru celnego powinien być wypełniany maszynowo lub ręcznie, na wszystkich kartach w identyczny sposób. Jeżeli formularze są wypełniane pismem odręcznym, powinno to być zrobione tuszem lub atramentem i wielkimi literami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Formularz wypełnia się w języku polskim lub, w zależności od stosowanej praktyki bądź wymagań handlu, w innym języku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Świadectwo i wniosek nie mogą zawierać skreśleń, poprawek, wymazań ani wyrazów wpisanych w miejscu innych wyrazów. Jednakże w wyjątkowych okolicznościach można dokonać poprawek, pod warunkiem że dokonane zmiany nie uniemożliwią odczytania skreślonego zapisu. Każda zmiana musi być parafowana przez osobę, która wypełniała formularz, i powinna zostać potwierdzona przez organ wystawiający świadectwo pochodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Jeżeli świadectwo pochodzenia jest wystawiane na więcej niż jeden towar, każdy towar jest oznaczany liczbą porządkową. Bezpośrednio pod zapisem odnoszącym się do ostatniego towaru umieszcza się poziomą linię.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_17/ust_5",
+     "text": "Świadectwo powinno być wypełnione w taki sposób, aby uniemożliwić jego późniejsze uzupełnienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "W wypadku świadectwa pochodzenia wydawanego dla istotnych części zamiennych, o których mowa w § 9, przywożonych na polski obszar celny lub wywożonych z polskiego obszaru celnego, wnioskodawca jest zobowiązany umieścić w polu 6 wszystkich kart formularza oświadczenie, że towary są przeznaczone do konserwacji sprzętu, maszyn, aparatów lub pojazdów wcześniej wywiezionych, oraz podać dane pozwalające na identyfikację tego sprzętu, maszyn, aparatów lub pojazdów. Wnioskodawca powinien, o ile jest to możliwe, podać dane dotyczące świadectwa pochodzenia, wystawionego dla wywiezionego sprzętu, maszyn, aparatów lub pojazdów, do konserwacji którego części są przeznaczone, a w szczególności nazwę organu wydającego świadectwo pochodzenia, numer i datę wydania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Każdy formularz świadectwa pochodzenia wystawionego dla towaru wywożonego z polskiego obszaru celnego musi posiadać numer serii w celu jego indywidualizacji. Na każdej karcie formularza numer serii musi być taki sam.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Organ celny może umieścić na jednej lub kilku kartach formularza świadectwa pochodzenia dodatkowo numer wystawienia. Jeżeli numer wystawienia jest umieszczony na więcej niż jednej karcie, numer ten musi być taki sam.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Organ, który wydał świadectwo pochodzenia, przechowuje wnioski dotyczące wydanych świadectw przez okres 5 lat.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "W wypadku wydawania świadectwa pochodzenia przez uprawnione podmioty, o których mowa w § 14, przepisy § 15—20 stosuje się odpowiednio, chyba że umowy międzynarodowe stanowią inaczej.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1998 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: W. Cimoszewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 15 października 1997 r. (poz. 851) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ PROCESÓW WYKONYWANYCH NA MATERIAŁACH NIEPOCHODZĄCYCH, NADAJĄCYCH MATERIAŁOM I WYROBOM WŁÓKIENNICZYM POCHODZENIE KRAJU WYTWARZANIA"
+    },
+    {
+     "type": "text",
+     "text": "Ee aT | RS (Se © WENN"
+    },
+    {
+     "type": "text",
+     "text": "Wełna, z wyjątkiem zgrzeblonej lub czesanej: ex 5101 - odtłuszczona, nie karbonizowana"
+    },
+    {
+     "type": "text",
+     "text": "- karbonizowana"
+    },
+    {
+     "type": "text",
+     "text": "ex 5103 Odpady z wełny lub cienkiej albo grubej sierści zwierzęcej, karbonizowane"
+    },
+    {
+     "type": "text",
+     "text": "Bawełna, z wyjątkiem zgrzeblonej lub czesanej, bielona"
+    },
+    {
+     "type": "text",
+     "text": "5501 do 5507 | Włókna chemiczne cięte: - nie zgrzeblone lub nie czesane, ani nie przerobione w inny sposób do przędzenia"
+    },
+    {
+     "type": "text",
+     "text": "- zgrzeblone lub czesane, lub inne"
+    },
+    {
+     "type": "text",
+     "text": "Przędza, włókna pojedyncze i nici, inne niż przędza papierowa: - drukowane lub barwione"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie odtłuszczonej wełny, włączając odpadową, której.wartość nie przekracza 50 % ceny ex works produktu."
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z odtłuszczonej wełny, nie karbonizowanej, której wartość nie przekracza 50 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "| Wytwarzanie z nie karbonizowanych odpadów, których wartość nie przekracza 50% ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z surowej bawełny, której wartość nie przekracza 50 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z materiałów chemicznych lub pulpy włókienniczej"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z materiałów chemicznvch lub pulpy włókienniczej, lub odpadów z pozycji 5505"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z: - naturalnych włókien nie zgrzeblonych lub nie czesanych lub inaczej przygotowanych do przędzenia (1). - jedwabiu surowego lub odpadów jedwabiu, - materiałów chemicznych lub pulpy włókienniczej (2), lub - włókien chemicznych ciętych, kabli lub odpadów włókien, nie zgrzeblonych. nie czesanych lub inaczej przygotowanych do przędzenia (3) albo drukowanie lub barwienie przędzy lub włókien pojedynczych. nie bielonych lub wstępnie bielonych (4), któremu towarzyszą operacje przygotowujące lub wykańczające, skręcanie lub teksturowanie nie będące uważanymi za takie, wartość niepochodzących materiałów (włączając przędzę) nie przekracza 48 % ceny ex works produktu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe ex Działy 50 do 55 (cd.)"
+    },
+    {
+     "type": "text",
+     "text": "Tkaniny inne niż tkaniny z przędzy papierowej:"
+    },
+    {
+     "type": "text",
+     "text": "- drukowane lub barwione"
+    },
+    {
+     "type": "text",
+     "text": "Wata z materiałów włókienniczych i artykuły z waty; włókna tekstylne o długości nie przekraczającej 5 mm (kosmyki), proszek oraz rozdrobnione resztki włókien"
+    },
+    {
+     "type": "text",
+     "text": "Filc impregnowany, powlekany, pokryty lub laminowany, lub nie poddany tego rodzaju obróbce: - drukowany lub barwiony"
+    },
+    {
+     "type": "text",
+     "text": "- impregnowany, powlekany, pokryty lub laminowany"
+    },
+    {
+     "type": "text",
+     "text": "- pozostały"
+    },
+    {
+     "type": "text",
+     "text": "Włókniny nawet impregnowane, powlekane, pokrywane lub laminowane: - drukowane lub barwione"
+    },
+    {
+     "type": "text",
+     "text": "- impregnowane, powlekane, pokrywane lub laminowane"
+    },
+    {
+     "type": "text",
+     "text": "= pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z: - naturalnych włókien nie zgrzeblonych lub nie czesanych lub inaczej przygotowanych do przędzenia (1), | - jedwabiu surowego lub odpadów jedwabiu, - materiałów chemicznych lub pulpy włókienniczej (2), lub"
+    },
+    {
+     "type": "text",
+     "text": "- włókien chemicznych ciętych, kabli lub odpadów włókien, nie zgrzeblonych, nie czesanych lub inaczej przygolowanych do przędzenia (3)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy albo = drukowanie lub barwienie nie bielonych lub wstępnie bielonych tkanin, któremu towarzyszą operacje przygotowujące lub wykańczające (4) (5)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6) albo drukowanie lub barwienie nie bielonego lub wstępnie bielonego filcu, któremu towarzyszą operacje przygotowujące lub wykańczające (4) (5)"
+    },
+    {
+     "type": "text",
+     "text": "Impregnacja, powiekanie, pokrywanie lub laminowanie nie bielonych włóknin (7)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6) albo drukowanie lub barwienie nie bielonych lub wstępnie bielonych włóknin, któremu towarzyszą operacje przygotowujące lub wykańczające (4) (5)"
+    },
+    {
+     "type": "text",
+     "text": "Impregnacja, powlekanie, pokrywanie lub laminowanie nie bielonych włóknin (7)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6)"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Nić gumowa lub sznurek, pokryte materiałem włókienniczym; przędza włókiennicza oraz taśma i podobne materiały z pozycji nr 5404 lub 5405, impregnowane, powlekane, pokryte lub otulane gumą, lub tworzywem sztucznym: - nić gumowa lub sznurek, pokryte materiałem włókienniczym"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Szpagat, powróz, linki i liny, nawet plecione, oplatane, impregnowane, powlekane, pokrywane lub otulane gumą, lub tworzywem sztucznym, lub nie poddane tego rodzaju obróbce"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby z przędzy, taśmy lub podobnych materiałów z pozycji nr 5404 lub 5405, szpagatu, powroza, linki lub liny, gdzie indziej nie wymienione ani nie włączone"
+    },
+    {
+     "type": "text",
+     "text": "Dywany i inne włókiennicze wykładziny podłogowe, z filcu, gładkie, nieflokowane, nawet konfekcjonowane"
+    },
+    {
+     "type": "text",
+     "text": "Tkaniny specjalne; tkaniny pluszowe, koronki; tkaniny obiciowe; pasmanteria; hafty: - hafty w sztukach, taśmach lub motywach (z pozycji 5810)"
+    },
+    {
+     "type": "text",
+     "text": "- drukowane lub barwione"
+    },
+    {
+     "type": "text",
+     "text": "- impregnowane. powlekane lub pokrywane"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Materiały włókiennicze płaskie powlekane gumą lub substancją skrobiową. używane do opraw książek itp.: techniczna kalka płócienna, płótna zagruntowane dla celów malarskich; płótno klejone i podobne materiały włókiennicze płaskie usztywniane do formowania stożków kapeluszy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nici gumowej lub sznurka, nie pokrytych materiałem włókienniczym"
+    },
+    {
+     "type": "text",
+     "text": "Impregnacja, powlekanie, pokrywanie lub otulanie przędzy włókienniczej oraz taśmy i podobnych materiałów, nie bielonych"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien, przędzy kokosowej, przędzy z włókna ciągłego syntetycznego lub przetworzonego albo włókna pojedynczego syntetycznego lub przetworzonego (6)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien, przędzy kokosowej, przędzy z włókna ciągłego syntetycznego lub przetworzonego albo włókna pojedynczego syntetycznego lub przetworzonego (6)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie, w którym wartość użytych materiałów nie przekracza 50 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub drukowanie lub barwienie nie bielonych lub wstępnie bielonych tkanin, filcu lub włóknin, któremu towarzyszą operacje przygotowujące lub wykańczające (4) (5)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie bielonych tkanin, filcu lub włóknin"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie bielonych tkanin"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tkaniny kordowe z przędzy o wysokiej wytrzymałości na rozciąganie, z nylonu lub innych poliamidów, poliestrów lub jedwabiu wiskozowego"
+    },
+    {
+     "type": "text",
+     "text": "Materiały włókiennicze płaskie impregnowane, powlekane, pokrywane lub laminowane tworzywem sztucznym, z wyłączeniem tkanin z pozycji nr 5902"
+    },
+    {
+     "type": "text",
+     "text": "5904 Linoleum, także wycinane według kształtu; wykładziny podłogowe składające się z powłoki lub pokrycia nałożonego na podkładzie włókienniczym, również wykrojone według kształtu"
+    },
+    {
+     "type": "text",
+     "text": "Włókiennicze wykładziny ścienne"
+    },
+    {
+     "type": "text",
+     "text": "5906 Materiały włókiennicze płaskie gumowane, z wyłączeniem tkanin z pozycji nr 5902"
+    },
+    {
+     "type": "text",
+     "text": "5907 Materiały włókiennicze płaskie impregnowane lub powlekane i pokrywane w inny sposób, płótna malowane jako dekoracje teatralne, tła atelier i podobne"
+    },
+    {
+     "type": "text",
+     "text": "5908 Knoty tkane, plecione lub dziane z materiałów włókienniczych, do lamp, kuchenek, zapalniczek, świec i wyrobów podobnych: ko- ° szulki żarowe oraz dzianiny cylindryczne do ich wyrobu, nawet impregnowane"
+    },
+    {
+     "type": "text",
+     "text": "5909 Przewody rurowe do pomp i podobne przewody, z materiałów włókienniczych, nawet z wykładziną, ze zbrojeniem, z osprzętem z innych materiałów"
+    },
+    {
+     "type": "text",
+     "text": "Pasy transmisyjne lub taśmy przenośnikowe lub materiały na nie z materiałów włókienniczych, impregnowane, pokrywane. powlekane, laminowane tworzywami sztucznymi lub nie, lub wzmacniane metalem lub innym materiałem"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie bielonych tkanin lub drukowanie lub barwienie nie bielonych lub wstępnie bielonych tkanin,któremu towarzyszą operacje przygotowujące lub wykańczające (4)(5)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie bielonych tkanin, filcu lub włóknin i"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie biełonych tkanin lub drukowanie lub barwienie nie bielonych lub wstępnie bielonych tkanin, któremu towarzyszą operacje przygotowujące lub wykańczające (4)(5)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z bielonych dzianych lub szydełkowanych tkanin, lub z innych nie bielonych tkanin"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z nie biełonych tkanin lub drukowanie lub barwienie nie bielonych lub wstępnie bielonych tkanin, któremu towarzyszą operacje przygotowujące lub wykańczające (4)(5)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub włóknin"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub włóknin"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "heading",
+     "label": "Dział 60",
+     "text": ""
+    },
+    {
+     "type": "heading",
+     "label": "Dział 61",
+     "text": "Odzież i dodatki odzieżowe dziane lub szydełkowane: - otrzymywane przez zszycie lub połączenie w inny sposób dwóch lub więcej kawałków dzianin lub materiałów szydełkowanych które zostały albo przycięte na wymiar, albo wykonane bezpośrednio do postaci"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "ex Dział 62 | Odzież i dodatki odzieżowe, bez dzianych i szydełkowanych, z wyjątkiem pozycji nr 6213 i 6214, dla których reguły są podane poniżej: - wykończone lub kompletne"
+    },
+    {
+     "type": "text",
+     "text": "- niewykończone lub niekompletne"
+    },
+    {
+     "type": "text",
+     "text": "6213i6214 | Chusteczki do nosa, szale, chusty, szaliki, mantyle, welony i podobne artykuły: - haflowane"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby z materiałów włókienniczych do zastosowań technicznych, wyszczególnione w uwadze 7 do niniejszego działu: - tarcze lub pierścienie polerskie inne niż z filcu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub tkaniny odpadowej lub ze szmat z pozycji nr 6310"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub włókien (6)"
+    },
+    {
+     "type": "text",
+     "text": "Dzianiny i wyroby szydełkowane: - drukowane lub barwione"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub drukowanie lub barwienie nie bielonych lub wstępnie bielonych tkanin, któremu towarzyszą operacje przygotowujące lub wykańczjące (4) (5)"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Całkowite wykańczanie (8)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Całkowite wykańczanie (8)"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub wytwarzanie z tkaniny niehaftowanej, pod warunkiem. że wartość użytej tkaniny niehaftowanej nie przekracza 40 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "6301 do ex 6306 stołowa, bielizna do celów toaletowych i kuchennych; firanki, zasłony i rolety, lambrekiny okienny i łóżkowe; inne artykuły wyposażenia wnętrz, z wyjątkiem z pozycji nr 9404; worki i torby stosowane do pakowania towarów, wyroby z brezentu impregnowanego, markizy i zasłony przeciwsłoneczne, wyposażenie kempingowe: - z filcu lub włóknin: — nie impregnowane, nie powlekane, nie pokrywane lub nie laminowane"
+    },
+    {
+     "type": "text",
+     "text": "--impregnowane, powlekane, pokrywane lub laminowane"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe: -- dziane lub szydełkowane: --- niehaftowane"
+    },
+    {
+     "type": "text",
+     "text": "--- haftowane"
+    },
+    {
+     "type": "text",
+     "text": "-- nie dziane lub nie szydełkowane: -— nie haftowane"
+    },
+    {
+     "type": "text",
+     "text": "-— haftowane"
+    },
+    {
+     "type": "text",
+     "text": "Pozostałe artykuły konfekcjonowane, łącznie z wykrojami odzieży: - ścierki do podłogi, ścierki do naczyń, ścierki do kurzu i podobne"
+    },
+    {
+     "type": "text",
+     "text": "- pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Zestawy tkanin i przędzy, z dodatkami lub bez, do wykonywania kilimów, obić, haftowanej bielizny stołowej i serwetek lub podobnych artykułów włókienniczych, w opakowaniach, przeznaczone do sprzedaży detalicznej"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z włókien (6)"
+    },
+    {
+     "type": "text",
+     "text": "Impregnowanie, powlekanie, pokrywanie lub laminowanie filcu lub włóknin, nie bielonych (7)"
+    },
+    {
+     "type": "text",
+     "text": "Całkowite wykańczanie (8)"
+    },
+    {
+     "type": "text",
+     "text": "Całkowite wykańczanie (8) lub wytwarzanie z nie haftowanej dzianej lub szydełkowanej tkaniny, pod warunkiem, że wartość użytej nie haftowanej dzianej lub szydełkowanej tkaniny nie przekracza 40 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy lub wytwarzanie z nie haftowanej tkaniny, pod warunkiem, że wartość użytej nie haftowanej tkaniny nie przekracza 40 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z przędzy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie, w którym wartość użytych materiałów nie przekracza 40 % ceny ex works produktu"
+    },
+    {
+     "type": "text",
+     "text": "Włączanie do zestawu, w którym ogólna wartość wszystkich niepochodzących artykułów nie przekracza 23 % ceny ex works zestawu"
+    },
+    {
+     "type": "text",
+     "text": "(1). Określenie \"włókna naturalne\" odnosi się do włókien innych niż włókna sztuczne lub syntetyczne i jest ograniczone do etapów poprzedzających przędzenie, włącznie z odpadami, i o ile nie jest wyszczególnione inaczej, określenie \"włókna naturalne\" obejmuje włókna, które były gręplowane, czesane lub inaczej przetwarzane, ale nie przędzione. Określenie \"włókna naturalne\" obejmuje wlosie końskie z pozycji HS 0503, jedwab z pozycji HS 5002 i 5003 jak również włókna wełniane, cienką lub grubą sierść zwierzęcą z pozycji HS 5101 do 5105, włókna bawełniane z pozycji HS 5201 do 5203 i inne roślinne włókna z pozycji HS 5301 do 5305."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "(2) Określenia \"pulpa włókiennicza” i \"materiały chemiczne\" dotyczą materiałów niewłókienniczych (nie klasyfikowanych w działach 50 do 63), które mogą być używane do wytwarzania sztucznych lub syntetycznych włókien albo przędz lub włókien w rodzaju używanych do wytwarzania papieru."
+    },
+    {
+     "type": "text",
+     "text": "(3) Określenie \"włókna chemiczne cięte\" odnosi się do syntetycznych lub sztucznych kabli włókien ciętych lub odpadów objętych pozycjami HS 5501 do 5507."
+    },
+    {
+     "type": "text",
+     "text": "(4) Określenie \"wstępnie bielona” użyte w wykazie w załączniku nr 2 charakteryzuje poziom wytworzenia wymagany, gdy użyte są pewne materiały nicpochodzace i ma zastosowanie do pewnych przędz, tkanin oraz dzianin lub materiałów szydełkowanych, które były tylko wyprane po operacji przędzenia lub tkania. Wstępne bielenie jest wcześniejszym etapem wytwarzania niż bielenie polegające na kilku kąpielach w środkach bielących (środki utleniające takie jak nadtlenek wodoru i środki redukujące)."
+    },
+    {
+     "type": "text",
+     "text": "(5) Jednakże, aby można było uważać, że obróbka lub przetworzenie nadały pochodzenie, to drukowaniu ciep- I nemu musi towarzyszyć drukowanie kalkomanii."
+    },
+    {
+     "type": "text",
+     "text": "(6) Określenie \"włókna\" obejmuje \"włókna naturalne\" i \"włókna chemiczne cięte\" objęte pozycjami HS 5501 do 5507 oraz włókna w rodzaju używanych do wytwarzania papieru."
+    },
+    {
+     "type": "text",
+     "text": "(7) Określenie \"impregnacja, powlekanie, pokrywanie lub laminowanie\" nie obejmuje takich operacji wykonywanych w celu połączenia tkanin."
+    },
+    {
+     "type": "text",
+     "text": "(8) Określenie \"całkowite wykańczanie \" użyte w wykazie w załączniku nr 2 oznacza, że wszystkie operacje, które nadają kształt, następujące bezpośrednio po cięciu tkanin lub dzianin lub tkanin szydełkowanych, muszą być wykonane. Jednakże wykończenie, w którym nie są wykonane jedna lub więcej operacji wykończeniowych, niekoniecznie będzie uważane za niecałkowite. Poniżej podano wykaz takich operacji wykończeniowych: - mocowanie guzików lub innych rodzajów zapięć, - wykonywanie dziurek na guziki, - wykańczanie nogawek spodni i rękawów oraz brzegów spódnic i sukienek, - umieszczanie przybrań i dodatków takich jak kieszenie, etykietki, symbole itp., - prasowanie i inne przygotowywanie odzieży do sprzedaży jako wyrób gotowy."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ PROCESÓW WYKONYWANYCH NA MATERIAŁACH NIEPOCHODZĄCYCH, NADAJĄCYCH PRODUKTOM INNYM NIŻ MATERIAŁY I WYROBY WŁÓKIENNICZE POCHODZENIE KRAJU WYTWARZANIA"
+    },
+    {
+     "type": "text",
+     "text": "Pozycja HS Opis produktu l BL AL ee Mięso wołowe świeże lub chłodzone"
+    },
+    {
+     "type": "text",
+     "text": "a"
+    },
+    {
+     "type": "text",
+     "text": "0203 Mięso wieprzowe świeże, chłodzone lub mrożone 0204 Mięso baranie lub kozie - świeże, chłodzone lub mrożone 0205 Mięso końskie, z osłów, z muła i osłomułów - świeże, chłodzone lub mrożone 0206 Jadalne podroby wołowe, wieprzowe, baranie, kozie, końskie, z osłów, mułów i osłomułów - świeże, chłodzone lub mrożone 0302 do 0305 | Ryby inne niż żywe"
+    },
+    {
+     "type": "text",
+     "text": "Jaja ptasie bez skorupek i żółtka jaj, suszone"
+    },
+    {
+     "type": "text",
+     "text": "1603 Ekstrakty i soki z mięsa. ryb lub skorupiaków, mięczaków lub innych bezkręgowców wodnych"
+    },
+    {
+     "type": "text",
+     "text": "Przetworzone lub konserwowane ryby. kawior i namiastki kawioru przygotowane z ikry rybiej Skorupiaki, mięczaki i inne bezkegowce wodne, przetworzone lub konserwowane"
+    },
+    {
+     "type": "text",
+     "text": "Rodzaje procesów ee: ] Ubój, poprzedzony tuczeniem przez okres co najmniej trzech miesięcy (') Ubój, poprzedzony tuczeniem przez okres co najmniej trzech miesięcy (') Ubój, poprzedzony tuczeniem przez okres co najmniej trzech miesięcy (') Ubój, poprzedzony tuczeniem przez okres co najmniej trzech miesięcy (') Ubój, poprzedzony tuczeniem przez okres co najmniej trzech miesięcy (') Ubój, poprzedzony tuczeniem przez okres co najmniej trzech miesięcy lub trzech miesięcy w przypadku świń, owiec lub kóz (') Wytwarzanie, w którym wszystkie użyte uprzednio materiały z działu 3 muszą być pochodzące Suszenie (po stłuczeniu i oddzieleniu, gdzie jest to konieczne): - jaj ptasich, w skorupkach, świeżych lub konserwowanych, z pozycji ex 0407 - jaj ptasich, bez skorupek, innych niż suszone, z pozycji ex 0408 lub - białka jaj, innego niż suszonego, z pozycji ex 3502 Wytwarzanie ze zwierząt objętych działem 1. Jednakże wszystkie użyte ryby, skorupiaki, mięczaki lub inne bezkręgowce wodne muszą być przedtem pochodzące Wytwarzanie. w którym wszystkie użyte ryby lub ikra rybia muszą być przędłem pochodzące"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie, w którym wszystkie użyte skorupiaki. mięczaki lub inne bezkręgowce wodne muszą być przediem pochodzące"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "ex 3502 Albumina jaja, suszona"
+    },
+    {
+     "type": "text",
+     "text": "6401 do 6405 | Obuwie"
+    },
+    {
+     "type": "text",
+     "text": "Suszenie (po stłuczeniu i oddzieleniu, gdzie jest to konieczne): - jaj ptasich, w skorupkach, świeżych lub konserwowanych, z pozycji cx 0407 - jaj ptasich, bez skorupek, innych niż suszone, z pozycji cx (00408 lub - białka jaj, innego niż suszonego, z pozycji ex 3502"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie z materiałów wymienionych w jakiejkolwiek pozycji, z wyjątkiem połączeń wierzchów z wewnętrznymi podeszwami lub innymi częściami podeszwy objętymi pozycją nr 6406"
+    },
+    {
+     "type": "text",
+     "text": "ex 8520 Magnetofony wyposażone lub nie w urządzę- | Wytwarzanie, podczas którego wartość dodana nią do odtwarzania dźwięku"
+    },
+    {
+     "type": "text",
+     "text": "ex 8527"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia odbiorcze dla radiotelefonii, posiadające lub nie, w tej samej obudowie, aparaturę do zapisu lub odtwarzania dźwięku, lub posiadające zegar"
+    },
+    {
+     "type": "text",
+     "text": "ex 8528"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia odbiorcze do telewizji (z wyłączeniem odtwarzaczy wideo, projektorów wideo i monitorów wideo) nawet zawierające odbiorniki radiowe lub aparaturę do zapisu lub odtwarzania dźwięku, ale nie z magnetowidem lub odtwarzaczami dźwięku"
+    },
+    {
+     "type": "text",
+     "text": "ex 8542 Elektroniczne układy scalone w wyniku montażu i, jeśli ma to miejsce, włączenie części pochodzących z kraju montażu, stanowi co najmniej 45 % ceny ex works produktu. Kiedy powyższa reguła nie jest spełniona, produkt powinien być traktowany jako pochodzący z kraju. z którego pochodzą części stanowiące więcej niż 35 % ceny ex works produktu. Kiedy reguła 35% jest spełniona przez dwa kraje, produkt powinien być traktowany jako pochodzący z kraju, z którego pochodzą części reprezentujące większy udział procentowy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie, podczas którego wartość dodana w wyniku montażu i, jeśli ma to miejsce, włączenie części pochodzących z kraju montażu, stanowi co najmniej 45 % ceny ex works produktu. Kiedy powyższa reguła nie jest spełniona, produkt powinien być traktowany jako pochodzący z kraju, z którego pochodzą części stanowiące więcej niż 35 % ceny ex works produktu. Kiedy reguła 35% jest spełniona przez dwa kraje, produkt powinien być traktowany jako pochodzący z kraju. z którego pochodzą części reprezentujące większy udział procentowy"
+    },
+    {
+     "type": "text",
+     "text": "Wytwarzanie. podczas którego wartość dodana w wyniku montażu i, jeśli ma to miejsce, włączenie części pochodzących z kraju montażu, stanowi co najmniej 45 % ceny ex works produktu. Kiedy powyższa reguła nie jest spełniona. produkt powinien być traktowany jako pochodzący z kraju. z którego pochodzą części stanowiące więcej niż 35 % ceny ex works produktu. Kiedy reguła 15% jest spełniona przez dwa kraje. produkt powinien być traktowany jako pochodzący z kraju. z którego pochodzą części reprezentujące większy udział procentowy"
+    },
+    {
+     "type": "text",
+     "text": "Dyfuzja. w czasie której układy scalone są formowane na półprzewodniku poprzez selektywne wprowadzanie właściwych domieszek"
+    },
+    {
+     "type": "text",
+     "text": "(') Kiedy te warunki nie są spełnione, mięso (odpadki) powinno być uważane za pochodzące z kraju, gdzie zwierzęta, z których zostało uzyskane, były tuczone lub hodowane przez najdłuższy okres."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ TOWARÓW PRZYWOŻONYCH NA POLSKI OBSZAR CELNY, KTÓRYCH POCHODZENIE MUSI BYĆ UDOKUMENTOWANE ŚWIADECTWEM POCHODZENIA."
+    },
+    {
+     "type": "text",
+     "text": "Pozycja HS Opis produktu 2 0201 Mięso wołowe świeże lub chłodzone"
+    },
+    {
+     "type": "text",
+     "text": "0203 Mięso wieprzowe świeże, chłodzone lub mrożone 0204 Mięso baranie lub kozie - świeże, chłodzone lub mrożone 0205 Mięso końskie, z osłów, z muła i osłomułów - świeże, chłodzone lub mrożone"
+    },
+    {
+     "type": "text",
+     "text": "0302 do 0305 | Ryby inne niż żywe Jaja ptasie bez skorupek i żółtka jaj, suszone Ekstrakty i soki z mięsa, ryb lub skorupiaków, mięczaków lub innych bezkręgowców wodnych"
+    },
+    {
+     "type": "text",
+     "text": "Jadalne podroby wołowe, wieprzowe, baranie, kozie, końskie, z osłów, mułów i osłomułów - świeże, chłodzone lub mrożone"
+    },
+    {
+     "type": "text",
+     "text": "Przetworzone lub konserwowane ryby, kawior i namiastki kawioru przygotowane z ikry rybiej 1605 Skorupiaki, mięczaki i inne bezkręgowce wodne, przetworzone lub konserwowane"
+    },
+    {
+     "type": "text",
+     "text": "Kowal AENEON Magnetofony wyposażone lub nie w urządzenia do odtwarzania dźwięku ex 8527 Urządzenia odbiorcze dla radiotelefonii, posiadające lub nie, w tej samej obudowie, aparaturę do zapisu lub odtwarzania dźwięku, lub posiadające zegar ex 8528"
+    },
+    {
+     "type": "text",
+     "text": "Albumina jaj, suszona Materiały i wyroby włókiennicze"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia odbiorcze do telewizji (z wyłączeniem odtwarzaczy wideo, projektorów wideo i monitorów wideo) nawet zawierające odbiorniki radiowe lub aparaturę do zapisu lub odtwarzania dźwięku, ale nie z magnetowidem lub odtwarzaczami dźwięku Elektroniczne układy scalone"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Karta nr 1"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nadawca/eksporter (imię, nazwisko i adres albo nazwa i siedziba)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Odbiorca (imię, nazwisko i adres albo nazwa i siedziba)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Szczegóły dotyczące transportu (wypełnianie nieobowiązkowe)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Liczba porządkowa; znaki , numery, liczba i rodzaj opakowań; opis towaru",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik nr 4 Nr serii 000000 ORYGINAŁ RZECZPOSPOLITA POLSKA a a z A r sn z a ŚWIADECTWO POCHODZENIA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ilość (wyrażona w masie brutto lub netto lub w innej jednostce miary)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "NIŻEJ PODPISANE WŁADZE POTWIERDZAJĄ, ŻE TOWARY OPISANE POWYŻEJ POCHODZĄ Z KRAJU WSKAZANEGO W POLU NR 3 Miejsce i data wystawienia, nazwa, podpis i pieczęć upoważnionych władz",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Karta nr 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nadawca/eksporter (imię, nazwisko i adres albo nazwa i siedziba)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Odbiorca (imię, nazwisko | adres albo nazwa i siedziba)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Liczba porządkowa; znaki , numery,liczba i rodzaj opakowań, opis towaru",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr serii 000000 RZECZPOSPOLITA POLSKA ŚWIADECTWO POCHODZENIA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kraj pochodzenia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ilość (wyrażona w masie brutto lub netto lub w innej jednostce miary)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "NIŻEJ PODPISANE WŁADZE POTWIERDZAJĄ, ZE TOWARY OPISANE POWYŻEJ SĄ POCHODZĄCE Z KRAJU WSKAZANEGO W POLU NR 3 Miejsce i data wystawienia, nazwa, podpis i pieczęć upoważnionych władz",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Karta nr 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nadawca/eksporter (imię, nazwisko i adres albo nazwa i siedziba) No serii 000000 WNIOSEK (Numer wystawienia)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Odbiorca (imię, nazwisko i adres albo nazwa i siedziba)",
+     "children": [
+      {
+       "type": "text",
+       "text": "RZECZPOSPOLITA POLSKA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kraj pochodzenia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Szczegóły dotyczące transportu (wypełnianie nieobowiązkowe)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Liczba porządkowa; znaki , numery; liczba i rodzaj opakowań: opis towaru 7. Ilość (wyrażona w masie brutto lub netto lub w innej jednostce miary)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Ja niżej podpisany: - wnioskuję o wystawienie świadectwa pochodzenia wskazującego, że towary opisane powyżej pochodzą z kraju podanego w polu 3, - deklaruję, że informacje podane w tym wniosku i w załączonych dokumentach oraz informacje dostarczone w celu wystawienia świadectwa są prawdziwe a towary, do których ten dokument się odnosi, spełniają warunki ustanowione w regułach pochodzenia towarów, - zobowiązuję się do dostarczenia, na żądanie organu wystawiającego świadectwo, wszelkich dodatkowych informacji i dokumentów, wymaganych do określenia pochodzenia towarów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Wnioskodawca",
+     "children": [
+      {
+       "type": "text",
+       "text": "Miejsce i data Podpis wnioskodawcy"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "== 4019 — Poz. 851"
+      },
+      {
+       "type": "text",
+       "text": "(Miejsce na dodatkowe informacje)"
+      },
+      {
+       "type": "text",
+       "text": "ZASADY SPORZĄDZANIA ŚWIADECTWA POCHODZENIA I WNIOSKU O JEGO WYDANIE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Formularz świadectwa pochodzenia na towary wywożone z polskiego obszaru celnego powinien być wypełniany maszynowo lub ręcznie, wszystkie karty w identyczny sposób. Jeżeli formularze są wypełniane pismem odręcznym, powinno to być zrobione tuszem lub atramentem i wielkimi literami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Formularz wypełnia się w języku polskim lub, w zależności od stosowanej praktyki bądź wymagań handlu, w innym języku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Świadectwo i wniosek nie mogą zawierać skreśleń, poprawek, wymazań ani wyrazów wpisanych w miejscu innych wyrazów. Jednakże w wyjątkowych okolicznościach można dokonać poprawek, pod warunkiem że dokonane zmiany nie uniemożliwią odczytania skreślonego zapisu. Każda zmiana musi być parafowana przez osobę, która wypełniała formularz, i powinna zostać potwierdzona przez organ wystawiający świadectwo pochodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Jeżeli świadectwo pochodzenia wystawiane jest na więcej niż jeden towar. każdy towar oznaczany jest liczbą porządkową. Bezpośrednio pod zapisem odnoszącym się do ostalniego towaru umieszcza się poziomą linię.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Świadectwo powinno być wypełnione w laki sposób, aby uniemożliwić jego późniejsze uzupełnienie.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

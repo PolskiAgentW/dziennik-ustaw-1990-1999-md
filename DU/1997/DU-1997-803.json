@@ -1,0 +1,105 @@
+{
+ "eli": "DU/1997/803",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 29 września 1997 r. w sprawie szczegółowego wykazu paliw ciekłych, w zakresie których tworzy się zapasy obowiązkowe.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/803/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 września 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowego wykazu paliw ciekłych, w zakresie których tworzy się zapasy obowiązkowe."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 ust. 3 ustawy z dnia 30 maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw (Dz. U. Nr 90, poz. 404 i Nr 156, poz. 775 oraz z 1997 r. Nr 121, poz. 770) zarządza się, co następuje: 8 1. Obowiązek tworzenia i utrzymywania zapasów obowiązkowych paliw ciekłych dotyczy następujących rodzajów paliw:"
+  },
+  {
+   "type": "text",
+   "text": "symbol SWW symbol PCN"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "benzyn, w tym gatunków:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "benzyny silnikowe bezołowiowe 0242-211 2710 00 270 2710 00 290 2710 00 320",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "symbol SWW symbol PCN"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "benzyny silnikowe ołowiowe 0242-211 2710 00 340 2710 00 360",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "benzyna lotnicza 0242-212 2710 00 260 271000370",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "olejów napa wyci, w tym gatunków:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "oleje napędowe do silników 0242-221 2710 00 610 2710 00 650 2710 00 66 2710 00 67 2710 00 681 symbol SWW symbol PCN",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "materiały pędne do silników lotniczych na bazie nafty 0242-23 27100051.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 grudnia 1997 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: W. Kaczmarek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
