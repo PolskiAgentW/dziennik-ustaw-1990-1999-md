@@ -1,0 +1,1229 @@
+{
+ "eli": "DU/1995/48",
+ "title": "Rozporządzenie Ministra Gospodarki Przestrzennej i Budownictwa z dnia 19 grudnia 1994 r. w sprawie aprobat i kryteriów technicznych dotyczących wyrobów budowlanych.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/48/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI PRZESTRZENNEJ I BUDOWNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 grudnia 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie aprobat i kryteriów technicznych dotyczących wyrobów budowlanych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 3 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. Nr89, poz. 414) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "jednostki upoważnione przez Ministra Gospodarki Przestrzennej i Budownictwa do wydawania aprobat technicznych oraz zadania i obowiązki tych jednostek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "szczegółowe zasady i tryb postępowania aprobacyjnego, mającego na celu stwierdzenie przydatności wyrobów budowlanych do zamierzonego stosowania, oraz zasady odpłatności z tytułu udzielania aprobat technicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "zasady i tryb opracowywania i zatwierdzania kryteriów technicznych, stanowiących podstawę certyfikacji wy-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "robów budowlanych na znak bezpieczeństwa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisów rozporządzenia nie stosuje się do wyro-",
+   "children": [
+    {
+     "type": "text",
+     "text": "bów budowlanych podlegających dozorowi technicznemu lub służących do wykrywania i gaszenia pożarów, w zakresie ich właściwości technicznych, objętych odrębnymi przepisa-"
+    },
+    {
+     "type": "text",
+     "text": "mi."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "wyrobach budowlanych, zwanych dalej „wyrobami”,",
+     "children": [
+      {
+       "type": "text",
+       "text": "rozumie się przez to:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "wyroby krajowe i zagraniczne wytwarzane w celu",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wbudowania, zainstalowania, wmontowania lub za-"
+      },
+      {
+       "type": "text",
+       "text": "stosowania w obiektach budowlanych,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "części obiektów budowlanych powstające w wyniku robót budowlanych, wykonywanych przy zastosowaniu określonego procesu technologicznego, stanowiące powtarzalne rozwiązanie techniczne,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "wymaganiach podstawowych, rozumie się przez to wymagania określone w stosunku do obiektów budowlanych w odrębnych przepisach, dotyczące zapewnienia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "bezpieczeństwa konstrukcji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "bezpieczeństwa pożarowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_2/lit_c",
+       "text": "bezpieczeństwa użytkowania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_3/pkt_2/lit_d",
+       "text": "odpowiednich warunków higienicznych i zdrowotnych oraz ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_3/pkt_2/lit_e",
+       "text": "ochrony przed hałasami i drganiami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_3/pkt_2/lit_f",
+       "text": "oszczędności energii i odpowiedniej izolacyjności” cieplnej przegród,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "kryteriach technicznych, rozumie się przez to zestaw wymagań stawianych w stosunku do określonych wyrobów, wybranych odpowiednio z właściwych przedmiotowo Polskich Norm lub aprobat technicznych, w uzasadnionych wypadkach uzupełniony na podstawie innych przepisów i dokumentów technicznych, ustalający konieczny i wystarczający zakres i poziom właściwości użytkowych i własności technicznych wyrobów, zapewniających spełnienie wymagań podstawowych przez obiekty budowlane, dla których wyroby są przeznaczone,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "dostawcy wyrobu budowlanego, zwanego dalej „dostawcą”', rozumie się przez to dostawcę, o którym mowa w przepisach o badaniach i certyfikacji, dotyczy to producentów, dystrybutorów i importerów wyrobów określonych w pkt 1 lit. a), a w wypadku wyrobów, o których mowa w pkt 1 lit. b) — właścicieli praw wyłącznych do rozwiązań technicznych i ich licencjobiorców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Jednostki upoważnione do udzielania aprobat technicznych"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Do udzielania aprobat technicznych upoważnia się następujące jednostki, zwane dalej „jednostkami aprobującymi”:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "Instytut Techniki Budowlanej w Warszawie — w odniesieniu do wszystkich wyrobów, z wyjątkiem tych, o których mowa w pkt 2—12,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "Centralny Ośrodek Badawczo-Rozwojowy Techniki Instalacyjnej „Instal'” w Warszawie — w odniesieniu do wyrobów z zakresu inżynierii sanitarnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "Centralny Ośrodek Badawczo-Rozwojowy Instalacji i Urządzeń Elektrycznych w Budownictwie „Elektromontaż” w Warszawie — w odniesieniu do wyrobów z zakresu inżynierii elektrycznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "Instytut Badawczy Dróg i Mostów w Warszawie — w odniesieniu do wyrobów z zakresu inżynierii komunikacyjnej, stosowanych wyłącznie w budownictwie drogowym i mostowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "Instytut Górnictwa Naftowego i Gazownictwa w Krakowie — w odniesieniu do wyrobów z zakresu sieci i instalacji paliw gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "Centralny Ośrodek Badawczo-Rozwojowy Przemysłu Elementów Wyposażenia Budownictwa „Metalplast” w Poznaniu — w odniesieniu do okuć budowlanych i zamków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "Instytut Energetyki w Warszawie — w odniesieniu do wyrobów stosowanych wyłącznie w sieciach i stacjach elektroenergetycznych o napięciu 110 kV i wyższym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_1/pkt_8",
+       "text": "Instytut Ochrony Środowiska w Warszawie — w odniesieniu do wyrobów stosowanych wyłącznie do oczyszczania ścieków i przeróbki osadów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_1/pkt_9",
+       "text": "Instytut Budownictwa, Mechanizacji i Elektryfikacji Ro- Inictwa w Warszawie — w odniesieniu do wyrobów stosowanych wyłącznie w obiektach przeznaczonych do hodowli zwierząt oraz do przechowywania płodów rolnych, środków produkcji rolnej i przetwórstwa rolno- -spożywczego w gospodarstwach rolnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_4/ust_1/pkt_10",
+       "text": "Wojskową Akademię Techniczną w Warszawie — w odniesieniu do wyrobów stosowanych wyłącznie w budownictwie obronnym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_4/ust_1/pkt_11",
+       "text": "Centrum Naukowo- Techniczne Kolejnictwa w Warszawie — w odniesieniu do wyrobów stosowanych wyłącznie do budowy nawierzchni kolejowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_4/ust_1/pkt_12",
+       "text": "Instytut Łączności w Warszawie, Oddział we Wrocławiu — w odniesieniu do wyrobów stosowanych wyłącznie jako elementy nośne i zamocowania anten, wraz z osprzętem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Wykazy wyrobów objętych działalnością aprobacyjną, prowadzoną przez jednostki aprobujące, określone w ust. 1, są publikowane w Dzienniku Urzędowym Ministerstwa Gospodarki Przestrzennej i Budownictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Zasady udzielania aprobat technicznych"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Aprobaty techniczne są udzielane dla wyrobów, których właściwości użytkowe i własności techniczne zapewniają prawidłowo projektowanym i wykonywanym obiektom budowlanym, w których wyroby mają być użyte, spełnianie stawianych im wymagań podstawowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Właściwości użytkowe i własności techniczne, o których mowa w ust. 1, ocenia się na podstawie badań, analiz obliczeniowych i ocen ekspertów, dokonywanych zgodnie z zaleceniami udzielania aprobat technicznych, zwanymi dalej „zaleceniami”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Aprobata techniczna określa właściwości użytkowe i własności techniczne wyrobu, podlegające ocenie, o której mowa w ust. 2, z wyodrębnieniem tych, które stanowią kryteria techniczne określone w § 3 pkt 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zalecenia, o których mowa w § 5 ust. 2, opracowywane przez jednostki aprobujące powinny w szczególności zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "wymagania dotyczące wyrobów, wynikające z wymagań podstawowych, oraz założenia do określenia kryteriów technicznych,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "plan, program i metody badan,",
+       "children": [
+        {
+         "type": "text",
+         "text": "_ Poz. 48"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Jednostka aprobująca w terminie 2 tygodni, a w wypadkach wymagających opinii Komisji — w terminie",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "metody oceniania i wnioskowania na podstawie wyni- 1 miesiąca od dnia przyjęcia wniosku, w ramach wstępnego ków badań. etapu postępowania aprobacyjnego, dokonuje formalnej weryfikacji wniosku oraz rozpatruje jego zasadność. Jedno-",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zalecenia powinny uwzględniać, w miarę możliwostka aprobująca potwierdza potrzebę wszczęcia postępowaści, właściwe przedmiotowo „Wytyczne dla europejskich nią aprobacyjnego lub przedstawia dostawcy pisemne uzaaprobat technicznych” i „Zasady udzielania europejskich aprobat technicznych” Europejskiej Organizacji Aprobat Tesadnienie braku potrzeby jego wszczęcia. chnicznych — EOTA.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Jednostki aprobujące publikują i upowszechniają",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Stwierdzenie braku potrzeby wszczęcia postępowania aprobacyjnego następuje, gdy udzielenie aprobaty techzalecenia, z wyłączeniem zaleceń dotyczących wyrobów nicznej dla wyrobu będącego przedmiotem wniosku nie jest stosowanych wyłącznie w budownictwie obronnym. wymagane w myśl § 7 i 8.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Uzyskanie aprobaty technicznej jest wymagane dla wyrobów:",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Wszczęcie właściwego postępowania aprobacyjnego następuje w terminie określonym umową zawartą przez strony. W ciągu 2 miesięcy od tego terminu, jeżeli",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_1/pkt_1",
+       "text": "określonych w§ 3 pkt 1 lit. a), na które nie ustanowiono umowa nie stanowi inaczej, jednostka aprobująca przedwłaściwych przedmiotowo Polskich Norm, lub wyrostawia dostawcy pisemne stanowisko w sprawie wniosku. bów, których właściwości użytkowe i cechy odnoszące się do wymagań podstawowych różnią się od właściwości określonych we właściwych przedmiotowo Polskich",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "W stanowisku opracowanym na podstawie zaleceń i opinii Komisji określa się zakres prac niezbędnych do oceny Normach, przydatności wyrobu do zamierzonego stosowania oraz warunki płatności, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "określonych w §3 pkt 1 lit. b), nie sprawdzonych w krajowej praktyce i nie mających podstaw w obowiązujących przepisach i Polskich Normach.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Uzyskanie aprobaty technicznej nie jest wymagane dla wyrobów stosowanych lub wytwarzanych jednostkowo, na indywidualne zamówienie stosującego i nie wprowadzanych do obrotu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "O aprobaty techniczne mogą ubiegać się dostawcy będący podmiotami gospodarczymi w rozumieniu odrębnych przepisów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Kierownik jednostki aprobującej powołuje komisję aprobat technicznych, zwaną dalej „Komisją”. Komisja działa na podstawie regulaminu zatwierdzonego przez kierownika jednostki aprobującej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "W skład Komisji wchodzą przedstawiciele jednostki",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "rodzaj, przedmiot i metody badań eksperymentalnych, wraz z podstawowym uzasadnieniem konieczności ich wykonania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "zakres i przedmiot niezbędnych uzasadnień obliczeniowych oraz wykaz dodatkowych danych, dokumentów, sprawozdań i zaświadczeń umożliwiających ocenę przydatności wyrobu do zamierzonego stosowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "listę jednostek właściwych do wykonania badań, o których mowa w pkt 1, uwzględniającą w pierwszej kolejności laboratoria akredytowane zgodnie z odrębnymi przepisami o badaniach i certyfikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Uzyskanie dokumentów i wyników badań, określonych w ust. 2 pkt1 i 2, należy do dostawcy ubiegającego się o aprobatę techniczną i nie wchodzi w skład postępowania aprobacyjnego. aprobującej, eksperci spoza jednostki aprobującej, przedstawiciele jednostek certyfikujących wyroby budowlane oraz organizacji producentów i wykonawców budowlanych. Na posiedzenia Komisji są zapraszani przedstawiciele: dostawcy ubiegającego się o aprobatę, Ministra Gospodarki Prze-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Jednostka aprobująca może uznać wyniki badań. laboratoriów zagranicznych, jeżeli z upoważnienia Ministra Gospodarki Przestrzennej i Budownictwa zawarła z organizacją zagraniczną porozumienie o wzajemnym uznawaniu strzennej i Budownictwa oraz innych ministrów właściwych sprawozdań z badań, a także gdy zobowiązanie o wzajemze względu na jednostkę aprobującą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Do zadań Komisji należy bezstronne opiniowanie przydatności wyrobu do zamierzonego stosowania na podnym uznawaniu badań wynika z umów międzynarodowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Po uzyskaniu pełnej dokumentacji wniosku, określonej w § 14 ust. 2 pkt 1 i 2, jednostka aprobująca stawie oceny przeprowadzonej według § 5 ust. 2 oraz opiniodokonuje analizy otrzymanych danych i rozstrzyga o przydatwanie zaleceń, o których mowa w §6.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Postępowanie aprobacyjne"
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Jednostki aprobujące są obowiązane udostępniać ności wyrobu do zamierzonego stosowania według zasad ustalonych w §5, przy respektowaniu cząstkowych ocen i opinii o wyrobie, wydawanych na podstawie odrębnych przepisów przez upoważnione jednostki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Jednostka aprobująca udziela aprobaty technicznej na podstawie pozytywnej opinii Komisji. dostawcom informator wskazujący dokumenty stanowiące podstawę działalności aprobacyjnej i zawierający opis postępowania aprobacyjnego, czas potrzebny do jego przep-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Aprobatę techniczną podpisuje kierownik jednostki aprobującej. rowadzenia oraz informacje na temat opłat za tę działalność.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Dostawca, o którym mowa w §9, ubiegający się",
+   "children": [
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Wydanie aprobaty technicznej następuje w terminie 2 miesięcy od dnia uzyskania pełnej dokumentacji wniosku, o aprobatę techniczną składa wniosek do właściwej jednookreślonej w § 14 ust. 2 pkt 1 i 2. stki aprobującej, wraz z dowodem uiszczenia opłaty za wstępny etap postępowania aprobacyjnego. Wzór formularza wniosku określa załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Aprobatatechniczna obowiązuje od dnia w niej określonego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Aprobata techniczna jest udzielana na okres do 5 lat włącznie. Okres ten może być przedłużany drogą aneksu do wydanej aprobaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Aprobata techniczna traci swą ważność z dniem ustanowienia właściwej przedmiotowo Polskiej Normy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Dostawca, który uzyskał aprobatę techniczną, jest obowiązany zawiadamiać jednostkę aprobującą o zamierzonych zmianach materiałowych, konstrukcyjnych, technologicznych i recepturowych wyrobu objętego udzieloną aprobatą techniczną.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Aprobatatechniczna może być zmieniona przez jednostkę, która ją wydała:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "w razie zgłoszenia przez dostawcę, który uzyskał aprobal tę techniczną, zamierzonych zmian materiałowych, konstrukcyjnych, technologicznych i recepturowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "z inicjatywy jednostki aprobującej — w wyniku zmian stanu wiedzy technicznej lub w związku ze zmianą odrębnych przepisów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "W wypadku wprowadzenia zmian wymagań technicznych aprobaty, należy przeprowadzić odpowiednio uproszczone postępowanie aprobacyjne w zakresie dotyczącym zmian i wydać nową aprobatę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Aprobata techniczna może być uchylona przez jednostkę aprobującą, która ją wydała, w razie stwierdzenia niespełniania przez wyrób wymagań określonych w aprobacie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Uchylenie aprobaty może nastąpić także na wniosek Ministra Gospodarki Przestrzennej i Budownictwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Jednostka aprobująca powinna poinformować dostawcę, który uzyskał aprobatę techniczną, i Ministra Gospodarki Przestrzennej i Budownictwa o uchyleniu aprobaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Jednostka aprobująca prowadzi rejestr udzielonych i uchylonych aprobat technicznych i przekazuje ich wykaz Ministrowi Gospodarki Przestrzennej i Budownictwa nie rzadziej niż raz na 3 miesiące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Wykaz udzielonych i uchylonych aprobat technicznych jest publikowany w Dzienniku Urzędowym Ministerstwa Gospodarki Przestrzennej i Budownictwa, z wyłączeniem aprobat technicznych dla wyrobów stosowanych wyłącznie w budownictwie obronnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Jednostki aprobujące są obowiązane, co najmniej raz do roku, przekazywać Ministrowi Gospodarki Przestrzennej i Budownictwa informacje o przebiegu działalności aprobacyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Jednostki aprobujące publikują i upowszechniają aprobaty techniczne, z wyłączeniem aprobat technicznych dla wyrobów stosowanych wyłącznie w budownictwie obronnym. Przedruk aprobaty jest dozwolony jedynie w całości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Dostawca, który uzyskał aprobatę techniczną, jest obowiązany powoływać się na jej udzielenie w treści dokumentów związanych z wprowadzaniem do obrotu i stosowaniem wyrobu objętego aprobatą, podając pełne oznaczenie aprobaty nadane przez jednostkę aprobującą i termin ważności aprobaty. Tekst i rysunki w publikacjach dotyczących wyrobu objętego aprobatą techniczną nie mogą być z nią sprzeczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Jednostka aprobująca i działająca przy niej Komisja zapewniają poufność informacji uzyskanych w trakcie swej działalności i zachowanie tajemnicy co do zastrzeżonych przez dostawcę ubiegającego się o aprobatę techniczną wyników badań, dokumentacji konstrukcyjnej i opisu technologii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Jednostka aprobująca informuje dostawcę ubiegającego się o udzielenie aprobaty o przysługującym mu prawie zgłoszenia zastrzeżenia, o którym mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Jeżeli jednostka aprobująca odmówi udzielenia aprobaty technicznej, dostawca ubiegający się o udzielenie aprobaty technicznej może zwrócić się do Ministra Gospodarki Przestrzennej i Budownictwa z wnioskiem o zbadanie zasadności odmowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Minister Gospodarki Przestrzennej i Budownictwa rozpatrując wniosek, o którym mowa w ust. 1, może nakazać powtórzenie postępowania aprobacyjnego lub jego części na koszt jednostki aprobującej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Opłaty"
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Koszty poniesione przez jednostkę aprobującą, związane z rozpatrzeniem wniosku oraz udzieleniem, zmianą lub przedłużeniem terminu ważności aprobaty technicznej, oraz koszty związane z prowadzeniem działalności aprobacyjnej, objętej rozporządzeniem, pokrywa dostawca ubiegający się o udzielenie aprobaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Odpłatność za przeprowadzenie etapu wstępnego, o którym mowa w § 13, ustala się w wysokości 100% kwoty przeciętnego wynagrodzenia w poprzednim kwartale, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o rewaloryzacji oraz zasadach ustalania emerytur i rent.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Odpłatność za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_3/pkt_1",
+       "text": "opracowanie stanowiska w sprawie wniosku, o którym mowa w § 14 ust. 1i2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_3/pkt_2",
+       "text": "analizę wyników badań i inne czynności, niezbędne do oceny przydatności wyrobów do zamierzonego stosowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_3/pkt_3",
+       "text": "opracowanie i wydanie dokumentu aprobaty technicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_24/ust_3/pkt_4",
+       "text": "opracowanie i wydanie aneksu do aprobaty technicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_24/ust_3/pkt_5",
+       "text": "wprowadzenie zmian postanowień technicznych do aprobaty technicznej, opracowanie i wydanie znowelizowanej aprobaty technicznej, . określa się na podstawie udokumentowanej liczby godzin nakładu pracy i stawki godzinowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Jednostka aprobująca ustala w cenniku odpłatność za czynności określone w ust. 3.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jednostki w działalności aprobacyjnej, podlega zatwierdzeniu przez Ministra Gospodarki Przestrzennej i Budownictwa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Przepisów § 24 nie stosuje się do innych kosztów, ponoszonych przez dostawcę ubiegającego się o udzielenie aprobaty technicznej, a w szczególności kosztów badań związanych z uzyskaniem dokumentów określonych w § 14 ust. 2 pkt 1 i 2.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Zasady i tryb opracowywania i zatwierdzania kryteriów technicznych stanowiących podstawę certyfikacji wyrobów budowlanych na znak bezpieczeństwa"
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Kryteria techniczne, o których mowa w §3 pkt 3, stanowią podstawę certyfikacji wyrobów na znak bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Kryteria techniczne dla określonych wyrobów powinny jednoznacznie określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_2/pkt_1",
+       "text": "właściwości użytkowe i własności techniczne wyrobu podlegające sprawdzeniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_2/pkt_2",
+       "text": "poziom wymagań odnoszących się do wybranych właściwości użytkowych i własności technicznych wyrobu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_26/ust_2/pkt_3",
+       "text": "sposób sprawdzania spełnienia tych wymagań przez określenie planu, programu i metod badań oraz innych metod weryfikacji, gdy ma to zastosowanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Określenie zakresu i poziomu wymagań, o których mowa w ust. 2, powinno opierać się na właściwych przedmiotowo Polskich Normach lub aprobatach technicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Opracowanie kryteriów technicznych w postaci odrębnego dokumentu nie jest wymagane, jeżeli właściwe przedmiotowo Polskie Normy, wprowadzone do obowiązkowego stosowania, lub aprobaty techniczne pozwalają na jednoznaczne określenie wymagań, o których mowa w § 26 ust. 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Opracowanie kryteriów technicznych w postaci odrębnego dokumentu jest wymagane, jeżeli jednoznaczne określenie wszystkich danych, o których mowa w § 26 ust. 2, nie jest możliwe na podstawie istniejących, właściwych przedmiotowo Polskich Norm lub aprobat technicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Przy opracowywaniu kryteriów technicznych, o których mowa w ust. 1, niezbędne uzupełnienia wprowadza się wykorzystując inne przepisy i dokumenty techniczne, zaakceptowane przez Ministra Gospodarki Przestrzennej i Budownictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Do opracowania kryteriów technicznych, o których mowa w § 28, są obowiązane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "jednostki aprobujące — w odniesieniu do wyrobów, które na podstawie ustaleń § 7 są przedmiotem obowiązujących aprobat technicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "akredytowane jednostki certyfikujące — w odniesieniu do pozostałych wyrobów objętych Polskimi Normami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Minister Gospodarki Przestrzennej i Budownictwa zatwierdza kryteria techniczne opracowane przez jednostki, o których mowa w § 29.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Jednostki wymienione w § 29 publikują i upowszechniają zatwierdzone kryteria techniczne, z wyłączeniem kryteriów technicznych dotyczących wyrobów stosowanych wyłącznie w budownictwie obronnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Wykaz zatwierdzonych kryteriów technicznych stanowiących podstawę certyfikacji wyrobów na znak bezpieczeństwa jest publikowany w Dzienniku Urzędowym Ministerstwa Gospodarki Przestrzennej i Budownictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Kryteria techniczne, zatwierdzone przez Ministra Gospodarki Przestrzennej i Budownictwa przed dniem wejścia w życie rozporządzenia, pozostają w mocy w dotychczasowym zakresie do dnia 30 czerwca 1996 r. włącznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Wnioski dotyczące dopuszczenia do stosowania w budownictwie nowych materiałów budowlanych, złożone przed dniem wejścia w życie rozporządzenia, uznaje się, za zgodą wnioskodawcy, za wnioski o udzielenie aprobaty technicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Przestrzennej i Budownictwa: B. Blida"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Gospodarki Przestrzennej i Budownictwa z dnia 19 grudnia 1994 r. (poz. 48)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WNIOSEK O WYDANIE APROBATY TECHNICZNEJ A. Informacje podstawowe"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wniosekidó: <assassaazoa oo oso WE OPP S EA OGG AŚ EA 06-66 AO AI W RA 10 wees WPA oem ee ROWIE A AS aman ary (nazwa upoważnionej jednostki aprobującej)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WnioskódawCć s:uwssswa i wy cased GDG RR as sage oc are A SIRO KG BIS WIE A we W KROWY Oa Slew 6 GRĘ FG alate KB ae ed doe ees IRR G eR ri\" producent, dystrybutor, importer wyrobu Oo świadczący usługi budowlane",
+     "children": [
+      {
+       "type": "text",
+       "text": "(nazwa i adres wnioskodawcy)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Rodzaj wyrobu lub powtarzalnego rozwiązania technicznego ............uuuaeaa aaa aaa eee nana a nai ca",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Nazwa handlowa ........uuaaeaaeaaaa aaa nn EE aaa aaa aaa kaka nn Ene ened aaa ian ci A",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Lista autoryzowanych wytwórców lub wykonawców robót budowlanych: oO Wyrób przeznaczony do obrotu oO Powtarzalne rozwiązanie techniczne Nazwa i adres zakładów produkcyjnych, w których będzie Nazwa i adres przedsiębiorstw (firm) wykonujących roprodukowany wyrób budowlany:",
+     "children": [
+      {
+       "type": "text",
+       "text": "boty budowlane:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Posiada ważną aprobatę wydaną przez jednostki aprobujące UEAtc lub EOTA. O Tak >",
+     "children": [
+      {
+       "type": "text",
+       "text": "(nazwa, numer i data ważności dokumentu)"
+      },
+      {
+       "type": "text",
+       "text": "1 Odpowiednie zakreślić"
+      },
+      {
+       "type": "text",
+       "text": "LI Nie"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "B. Charakterystyka techniczna wyrobu lub powtarzalnego rozwiązania technicznego"
+      },
+      {
+       "type": "text",
+       "text": "Integralną częścią niniejszego wniosku są:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Charakterystyka techniczna: lig opis techniczny surowców i materiałów zał. 1 Oo opis techniczny wyrobu lub rozwiązania technicznego zał. 2 oO rysunki techniczne zał. 3 Oo obliczenia wykonane przez: zał. 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oo wyniki dotychczasowych badań, wykonane przez: zał. 5"
+      },
+      {
+       "type": "text",
+       "text": "Oo szczegółowy opis przeznaczenia i zakresu stosowania oraz wytyczne techniczne producenta dotyczące warunków stosowania wyrobu, wykonywania robót budowlanych, szczegółowe dane dotyczące montażu, wbudowania i ewentualnej konserwacji zał. 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Inne opinie i zaświadczenia wymagane z mocy odrębnych przepisów:",
+     "children": [
+      {
+       "type": "text",
+       "text": "EE EE AA zał. 7 (znak i nr opinii)"
+      },
+      {
+       "type": "text",
+       "text": "2 Odpowiednie zakreślić"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "C. Deklaracje wnioskodawcy"
+      },
+      {
+       "type": "text",
+       "text": "Po zapoznaniu się z zasadami postępowania aprobacyjnego deklaruję niniejszym, że:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Posiadam upoważnienie wytwórcy (właściciela) przedmiotu aprobaty do występowania w jego imieniu z wnioskiem o wydanie aprobaty zał. 8",
+     "children": [
+      {
+       "type": "text",
+       "text": "Osobą reprezentującą wnioskodawcę i odpowiedzialną za realizację wymagań ze strony jednostki aprobującej jest:"
+      },
+      {
+       "type": "text",
+       "text": "(imię i nazwisko, adres, nr tel., faks.)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Upoważniam jednostkę aprobującą do poinformowania o treści wniosku i załączonych do niego dokumentów Komisji Aprobat Technicznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(data złożenia wniosku)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

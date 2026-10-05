@@ -1,0 +1,409 @@
+{
+ "eli": "DU/1995/271",
+ "title": "Rozporządzenie Ministra Łączności z dnia 21 kwietnia 1995 r. w sprawie warunków technicznych zasilania energią elektryczną obiektów budowlanych łączności.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/271/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ŁĄCZNOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 kwietnia 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych zasilania energią elektryczną obiektów budowlanych łączności."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. Nr 89, poz. 414) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustanawia się warunki techniczne zasilania energią elektryczną obiektów budowlanych łączności.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunki techniczne, o których mowa w § 1, stosuje się przy projektowaniu i budowie obiektów budowlanych łączności przeznaczonych do pracy w krajowej sieci telekomunikacyjnej lub we współpracy z tą siecią.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "obiekty budowlane łączności — obiekty budowlane mieszczące zespoły urządzeń telekomunikacyjnych, radiokomunikacyjnych, pocztowych lub technologicznych łączności,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "— czas rezerwy bateryjnej — czas, w ciągu którego baterie akumulatorów mogą zasilać urządzenia przy maksymalnym poborze prądu i zapewnieniu dolnej dopuszczalnej wartości napięcia rozładowania baterii,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "zasilanie dwustronne z sieci energetycznej — zasilanie realizowane z dwóch niezależnych GPZ (głównych punktów zasilających),",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "zasilanie rezerwowane z sieci energetycznej — zasilanie 4"
+    },
+    {
+     "type": "text",
+     "text": "— z dwóch stacji transformatorowych lub jednej stacji transformatorowej i jednej linii niskiego napięcia zasilanej z innej stacji transformatorowej lub dwóch linii niskiego napięcia zasilanych z różnych stacji transformatorowych,"
+    },
+    {
+     "type": "text",
+     "text": "zasilanie jednostronne — zasilanie z jednej stacji trans- 5"
+    },
+    {
+     "type": "text",
+     "text": "— formatorowej lub jednej linii niskiego napięcia,"
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "zasilanie podstawowe — zasilanie z sieci elektroenergetycznej energetyki zawodowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "zasilanie rezerwowe — zasilanie z baterii akumulatorów i/lub zespołu spalinowo-elektrycznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "zespół spalinowo-elektryczny przewoźny — zespół przystosowany do przemieszczenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "zespół spalinowo-elektryczny stacjonarny — zespół zainstalowany na stałe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Obiekty budowlane łączności, w zależności od ich rodzaju i wymagań niezawodności pracy, powinny być zasilane w sposób określony w tabeli stanowiącej załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W wypadku wspólnej lokalizacji obiektów o różnych grupach niezawodności zasilania należy przyjąć dla wszystkich tych obiektów najwyższą grupę niezawodności zasilania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Czas rezerwy bateryjnej podany w kolumnie 6 tabeli załącznika jest czasem minimalnym i odnosi się do rozładowania baterii w połączeniu równoległym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wszystkie obiekty grup A, B, C i D tabeli załącznika powinny być wyposażone w przyłącza do zespołów spalinowo-elektrycznych przewoźnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Moc zespołu spalinowo-elektrycznego powinna być wystarczająca do zasilania wszystkich urządzeń wymagających rezerwowania, przy uwzględnieniu charakteru obciążenia ze strony tych urządzeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Zapas paliwa dla zespołów spalinowo-elektrycznych stacjonarnych powinien zapewniać co najmniej 72 godziny pracy zespołu w warunkach znamionowych.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Pojemność baterii akumulatorów powinna być dobrana z uwzględnieniem wszystkich urządzeń obiektu wymagającego rezerwowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "W obiektach budowlanych łączności nie posiadających obsługi, a wyposażonych w stacjonarne zespoły spalinowo-elektryczne, należy projektować automatyczne lub zdalne uruchamianie tych zespołów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Liczbę urządzeń zasilających należy projektować według zasady n+ 1, gdzie n oznacza liczbę urządzeń niezbędnych dla prawidłowego zasilania, łącznie z potrzebami własnymi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Stosowanie określonych warunków klimatycznych powinno być uzależnione od wymagań producenta dla danego rodzaju urządzeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Urządzenia klimatyzacyjne, których praca jest nieodzowna dla właściwego działania obsługiwanych urządzeń technologicznych, powinny być projektowane z jednym klimatyzatorem rezerwowym, a co najmniej z jednym pełnym obiegiem chłodniczym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Obiekty, w których są zainstalowane urządzenia według § 14, powinny być wyposażone w zespoły spalinowo-elektryczne stacjonarne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Skomputeryzowane obiekty budowlane łączności powinny być wyposażone w niezawodne źródła zasilania prądem przemiennym o niezmiennej częstotliwości i napięciu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Dla obiektów nie wymienionych w tabeli załącznika sposób zasilania określa się według indywidualnych potrzeb.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "W obiektach, na które nałożone są zadania wynikające z Programu mobilizacji gospodarki, stosuje się zasilanie o najwyższej grupie niezawodności (grupa A).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Przepisów rozporządzenia nie stosuje się do obiektów budowlanych łączności, w stosunku do których, przed dniem wejścia w życie rozporządzenia, został złożony wniosek o wydanie decyzji o pozwoleniu na budowę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Łączności: A. Zieliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Łączności z dnia 21 kwietnia 1995 r. (poz. 271)",
+   "body": [
+    {
+     "type": "text",
+     "text": "TABELA DOTYCZĄCA SPOSOBÓW ZASILANIA"
+    },
+    {
+     "type": "text",
+     "text": "Wyszczególnienie obiektu"
+    },
+    {
+     "type": "text",
+     "text": "Zasilanie podstawowe rezerwowe baterie akumulatorów zespół spaliz sieci elektrorezerwa nowo-elektryenergetycznej (szt.) godzinoczny wa 1 |a|] 80] 4] 8] 6] 1] | i Centrale telefoniczne międzynarodowe i międzymiastowe tranzytowe: IŚĆ (automatyczna centrala międzynarodowa); ACMM-CT (automatyczna centrala międzymiastowa — centrala tranzytowa)"
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "Stacje teletransmisyjne obsługujące centrale międzynarodowe i międzymiastowe tranzytowe"
+    },
+    {
+     "type": "text",
+     "text": "Stacje łączności satelitarnej pracujące w sieci magistralnej"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia nadawcze radiofoniczne i telewizyjne w sieci o zasięgu ogólnokrajowym"
+    },
+    {
+     "type": "text",
+     "text": "Centrale telefoniczne międzymiastowe końcowe: ACMM-CK (automatyczna centrala międzymiastowa — centrala końcowa)"
+    },
+    {
+     "type": "text",
+     "text": "2 Stacje teletransmisyjne obsługujące telefoniczne centrale międzymiastowe końcowe"
+    },
+    {
+     "type": "text",
+     "text": "3 | Stacje teletransmisyjne pracujące w sieci magistralnej"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia linii radiowych w sieci magistralnej"
+    },
+    {
+     "type": "text",
+     "text": "Centrale radiotelefoniczne dla telefonii komórkowej dwustronne stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "— “econ"
+    },
+    {
+     "type": "text",
+     "text": "rezerwowane 2 3 stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "rezerwowane 2 3 stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "rezerwowane 2 3 stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "rezerwowane 2 3 stacjonarny"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "_—_—_— 1860 FCP. 271, 272i 273 Ustaw Nr 50 — ik towa), CMG (centrala miejska główna) Centrale telefoniczne okręgowe i miejscowe tranzytowe: CM (centrala miejscowa), CO (centrala okręgowa), CMT (centrala miejska tranzytowa), CST (centrala strefowo-tranzy-"
+    },
+    {
+     "type": "text",
+     "text": "Stacje teletransmisyjne obsługujące centrale okręgowe miejscowe tranzytowe 3 Hy pocztowe o poborze mocy powyżej 50 1 Centrale telefoniczne miejscowe końcowe: CM (centrala miejska), CMK (centrala miejska końcowa), CWK (centrala wiejska końcowa) Wyniesione stopnie abonenckie"
+    },
+    {
+     "type": "text",
+     "text": "Stacje teletransmisyjne w sieciach strefowych"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia linii radiowych działające w sieciach strefowych"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia nadawcze radiofoniczne i telewizyjne o zasięgu lokalnym z Sai: pts jednostronne stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "jednostronne stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "[os jednostronne 2 jednostronne aa stacjonarny"
+    },
+    {
+     "type": "text",
+     "text": "stacjonarny jednostronne przewoźny stacjonarno- -przewoźny jednostronne Pojęcie „centrala telefoniczna” obejmuje obiekty, które mogą być wyposażone nie tylko w urządzenia związane z usługami telefonicznymi, lecz także z usługami teledacyjnymi, jak ma to miejsce w przypadku nowoczesnych central cyfrowych. 272"
+    },
+    {
+     "type": "text",
+     "text": "ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 26 kwietnia 1995 r. zmieniające rozporządzenie w sprawie zasad i trybu uzyskiwania przez żołnierzy w czynnej służbie wojskowej zezwoleń na wyjazd i pobyt za granicą oraz właściwości organów wojskowych w tych sprawach. Na podstawie art. 51 ust. 3 i art. 107 ust. 2 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 1992 r. Nr 8, poz. 31 i Nr 54, poz. 254 oraz z 1994 r. Nr 10, poz. 36) oraz art. 66 i 90 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. Nr 4, poz. 16, Nr 40, poz. 174 i Nr 54, poz. 254 oraz z 1994 r. Nr 43, poz. 165) zarządza się, co następuje: §1. W rozporządzeniu Ministra Obrony Narodowej z dnia 19 listopada 1992 r. w sprawie zasad i trybu uzyskiwania przez żołnierzy w czynnej służbie wojskowej zezwoleń na wyjazd i pobyt za granicą oraz właściwości organów wojskowych w tych sprawach (Dz. U. Nr 89, poz. 444) wprowadza się następujące zmiany:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w§1 po wyrazach „służbie wojskowej” dodaje się po przecinku wyrazy „w tym również żołnierze zwolnieni z zasadniczej służby wojskowej przedterminowo z pozostawieniem w dyspozycji dowódcy jednostki wojskowej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w§11 dodaje się ust. 3 w brzmieniu: „3. Przepisów ust. 1 i 2 nie stosuje się do żołnierza zwolnionego z zasadniczej służby wojskowej przedterminowo z pozostawieniem w dyspozycji dowódcy jednostki wojskowej.'';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w§ 12 wyrazy „Szefa Zarządu” zastępuje się wyrazami „Dyrektora Departamentu\".",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Obrony Narodowej: Z. W. Okoński 273 ROZPORZĄDZENIE MINISTRA OCHRONY ŚRODOWISKA, ZASOBÓW NATURALNYCH I LEŚNICTWA z dnia 26 kwietnia 1995 r. w sprawie wprowadzenia obowiązku stosowania wybranych Polskich Norm z zakresu ochrony środowiska, zasobów naturalnych i leśnictwa."
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie art. 19 ust. 2 ustawy z dnia 3 kwietnia 1993 r. o normalizacji (Dz. U. Nr 55, poz. 251) zarządza się, co następuje: §1. Wprowadza się obowiązek stosowania Polskich Norm określonych w załączniku do rozporządzenia."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+     "children": []
+    },
+    {
+     "type": "signature",
+     "text": "Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa: S. Żelichowski"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

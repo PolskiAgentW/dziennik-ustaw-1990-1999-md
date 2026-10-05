@@ -39,12 +39,13 @@ Stan na 2026-10-05 04:41 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 1992 | 461 | 461 | 0 |
 | 1993 | 572 | 572 | 0 |
 | 1994 | 701 | 701 | 0 |
+| 1995 | 687 | 687 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 2588, razem 9150 z 9359 stron. Tekst z OCR (oznaczony) ma 9090 z nich w 2588 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 3275, razem 11168 z 11382 stron. Tekst z OCR (oznaczony) ma 11107 z nich w 3275 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 8.
 
-Rodzaje aktów: Rozporządzenie 2210, Oświadczenie rządowe 160, Umowa międzynarodowa 91, Uchwała 55, Konwencja 29, Protokół 11, Traktat 11, Zarządzenie 10, Układ 7, Porozumienie 3, Statut 1.
-Wersje konwertera: eli2md 0.6.31 (2588).
+Rodzaje aktów: Rozporządzenie 2748, Oświadczenie rządowe 224, Umowa międzynarodowa 120, Uchwała 71, Konwencja 48, Protokół 16, Traktat 15, Zarządzenie 13, Porozumienie 11, Układ 8, Statut 1.
+Wersje konwertera: eli2md 0.6.31 (3275).
 <!-- stats:end -->
 
 ## Zawartość

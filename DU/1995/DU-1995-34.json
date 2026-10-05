@@ -1,0 +1,1451 @@
+{
+ "eli": "DU/1995/34",
+ "title": "Rozporządzenie Ministra Finansów z dnia 20 stycznia 1995 r. w sprawie amortyzacji środków trwałych oraz wartości niematerialnych i prawnych, a także aktualizacji wyceny środków trwałych.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/34/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 stycznia 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie amortyzacji środków trwałych oraz wartości niematerialnych i prawnych, a także aktualizacji wyceny środków trwałych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 ust. 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993r."
+  },
+  {
+   "type": "text",
+   "text": "Nr 106, poz. 482 i Nr 134, poz. 646, z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90,"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627 oraz z 1995 r. Nr 5, poz. 25) oraz art. 22 ust. 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626 oraz z 1995r. Nr5, poz. 25) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy rozporządzenia stosuje się do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "podatników podatku dochodowego od osób prawnych, określonych w ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. Nr 106, poz. 482 i Nr 134, poz. 646, z 1994 r. Nr 1, poz. 2, Nr 43, poz. 163, Nr 80, poz. 368, Nr 87, poz. 406, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 127, poz. 627 oraz z 1995 r. Nr 5, poz. 25),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "podatników podatku dochodowego od osób fizycznych, bez względu na formę opodatkowania, prowadzących działalność określoną w art. 10 ust. 1 pkt 3—6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz. 626 oraz 1995 r. Nr 5, poz. 25), zwanych dalej ,,podatnikami”, jeżeli, zgodnie z odrębnymi przepisami, środki trwałe oraz wartości niematerialne i prawne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w przypadku prowadzenia ksiąg rachunkowych lub podatkowych ksiąg przychodów i rozchodów — zostały wprowadzone do ewidencji tych środków i wartości, zwanej dalej „ewidencją ”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w pozostałych przypadkach — zostały objęte wykazem tych środków i wartości, zwanym dalej „wykazem”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Zaśrodki trwałe uznaje się stanowiące własność lub współwłasność podatnika: nieruchomości (grunty, budynki, w tym także będące odrębną własnością lokale, budowle i inwestycje w obcych środkach trwałych), maszyny, urządzenia, środki transportu oraz inne przedmioty kompletne i zdatne do użytku w dniu przyjęcia do używania — o przewidywanym okresie używania dłuższym niż rok, przeznaczone na potrzeby podatnika związane z prowadzoną przez niego działalnością gospodarczą lub do oddania w używanie na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze; do środków trwałych podatnika zalicza się również obce środki trwałe używane przez niego na podstawie umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, jeżeli zgodnie z odrębnymi przepisami środki te są zaliczane do składników majątku podatnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Za wartości niematerialne i prawne uznaje się nabyte przez podatnika prawa majątkowe nadające się do gospodarczego wykorzystania, a w szczególności prawo użytkowania wieczystego gruntu, spółdzielcze własnościowe prawo do lokalu, prawa autorskie, prawa do: projektów, wynalazków, patentów, znaków towarowych, wzorów zdobniczych, licencje oraz programy komputerowe — o przewidywanym okresie używania dłuższym niż rok, przeznaczone na potrzeby podatnika związane z prowadzoną przez niego działalnością gospodarczą lub do oddania do używania na podstawie stosownej umowy. Do wartości niematerialnych i prawnych zalicza się również koszty organizacji poniesione przy założeniu lub późniejszym rozszerzeniu spółki akcyjnej, wartość firmy oraz koszty zakończonych prac rozwojowych, przez które rozumie się badania lub w inny sposób uzyskiwaną wiedzę, których wynik może być wykorzystany do produkcji nowych lub ulepszonych produktów lub technologii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Jeżeli podatnicy nabędą lub wytworzą we własnym zakresie składniki majątkowe, o których mowa w ust. 1 i 2, o wartości przekraczającej 2.000 zł i ze względu na przewidywany okres używania równy lub krótszy niż rok nie zaliczą ich do środków trwałych albo wartości niematerialnych i prawnych, a faktyczny okres ich używania przekroczy rok, podatnicy są obowiązani w pierwszym miesiącu po upływie tego roku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "zaliczyć te składniki do środków trwałych albo wartości niematerialnych i prawnych, przyjmując je do ewidencji lub wykazu w cenie nabycia lub koszcie wytworzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "zmniejszyć koszty uzyskania przychodów o różnicę między ceną nabycia lub kosztem wytworzenia a kwotą odpisów amortyzacyjnyck, obliczanych według stawek, o których mowa w § 7 ust. 1, przypadającą na okres ich dotychczasowego używania.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Podatnicy, z wyjątkiem tych, którzy nie prowadzą działalności gospodarczej ze względu na ogłoszoną upadłość, dokonują, z zastrzeżeniem ust. 3 i 4, odpisów amortyzacyjnych od zaktualizowanej zgodnie z rozporządzeniem wartości początkowej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "własnych środków trwałych lub środków trwałych przyjętych do odpłatnego korzystania, jeżeli środki te są zaliczane, zgodnie z odrębnymi przepisami, do składników majątku używającego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wartości niematerialnych i prawnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "środków trwałych otrzymanych od Skarbu Państwa lub gminy w nieodpłatny zarząd lub nieodpłatne używanie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "budynków i budowli wybudowanych na cudzym gruncie oraz inwestycji w obcych środkach trwałych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Odpisów amortyzacyjnych dokonuje się w każdym przypadku, gdy wartość początkowa środka trwałego albo wartości niematerialnej i prawnej w dniu przyjęcia do używania jest wyższa niż 2000 zł. W przypadku gdy wartość początkowa jest równa lub niższa niż 2000 zł, podatnicy mogą dokonywać odpisów amortyzacyjnych zgodnie z§5—8 lub jednorazowo — w miesiącu oddania do używania tych środków trwałych albo wartości niematerialnych i prawnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Odpisów amortyzacyjnych nie dokonuje się od:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "gruntów i prawa wieczystego użytkowania gruntów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "budynków mieszkalnych wraz ze znajdującymi się w nich dźwigami lub lokali mieszkalnych, z tym że podatnicy mogą we własnym zakresie podjąć decyzję o amortyzowaniu tych budynków lub lokali:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_3/pkt_2/lit_a",
+         "text": "przeznaczonych do prowadzenia działalności gospodarczej lub wynajmowanych albo wydzierżawianych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_3/pkt_2/lit_b",
+         "text": "w budynkach innych niż zakładowe budynki mieszkalne i budynki, w związku z którymi podatnicy otrzymują dotacje budżetowe — wynajmowanych na cele mieszkalne;",
+         "children": [
+          {
+           "type": "text",
+           "text": "— odpisów amortyzacyjnych dokonuje się wówczas w wysokości ustalonej od wartości początkowej budynków lub lokali odpowiadającej stosunkowi powierzchni użytkowej budynku lub lokalu do ogólnej powierzchni użytkowej budynku lub lokalu, chyba że odrębne przepisy stanowią inaczej,"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "budynków, z zastrzeżeniem pkt 2, budowli i urządzeń zaliczanych do spółdzielczych zasobów mieszkaniowych lub służących działalności społeczno-wychowawczej prowadzonej przez spółdzielnie mieszkaniowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_3/pkt_4",
+       "text": "wartości firmy, jeżeli wartość ta powstała w wyniku nabycia przedsiębiorstwa lub jego zorganizowanej części w inny sposób niż w drodze:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_3/pkt_4/lit_a",
+         "text": "kupna,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_3/pkt_4/lit_b",
+         "text": "przyjęcia do odpłatnego korzystania, a przyjęte składniki majątkowe, zgodnie z odrębnymi przepisami, są zaliczane do składników majątku używającego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_3/pkt_4/lit_c",
+         "text": "wniesienia do spółki na podstawie przepisów o prywatyzacji przedsiębiorstw państwowych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_3/pkt_5",
+       "text": "wartości niematerialnych i prawnych wniesionych do spółki w formie wkładu niepieniężnego, stanowiących równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_3/pkt_6",
+       "text": "dzieł sztuki i eksponatów muzealnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_3/pkt_7",
+       "text": "środków trwałych oraz wartości niematerialnych i prawnych nabytych nieodpłatnie, z wyjątkiem nabycia w drodze spadku lub darowizny, a dochód z tego tytułu jest zwolniony od podatku dochodowego lub nie stanowi przychodu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_3/pkt_8",
+       "text": "składników majątku zaliczonych do środków trwałych od dnia 1 stycznia 1995 r., jeżeli zostały nabyte przed tym dniem i nie były uznane za środki trwałe albo wartości niematerialne i prawne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych, które zostały przewłaszczone w celu zabezpieczenia kredytu lub pożyczki, dokonuje kredytobiorca lub pożyczkobiorca.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Za wartość początkową środków trwałych oraz wartości niematerialnych i prawnych uważa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "w razie nabycia w drodze kupna — cenę ich nabycia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "w razie wytworzenia we własnym zakresie — koszt wytworzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób — wartość rynkową z dnia nabycia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "w razie nabycia w formie wkładu niepieniężnego (apor-",
+       "children": [
+        {
+         "type": "lit",
+         "num": "tu",
+         "path": "par_4/ust_1/pkt_4/lit_tu",
+         "text": "wniesionego przez udziałowca osoby prawnej lub wspólnika, w tym także gdy jako wkład wnoszone jest przedsiębiorstwo lub jego zorganizowana część — ustaloną przez podatnika na dzień wniesienia wkładu wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, nie wyższą jednak od ich wartości rynkowej, z tym że suma wartości wszystkich składników stanowiących wkład pieniężny i niepieniężny łącznie nie może być wyższa od wartości objętych akcji lub udziałów; w przypadku gdy wkład niepieniężny pochodzi z zagranicy, przy ustalaniu wartości poszczególnych środków trwałych oraz wartości niematerialnych i prawnych uwzględnia się cło, podatek akcyzowy oraz podatek importowy.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Wartość początkową firmy stanowi nadwyżka ceny nabycia przedsiębiorstwa lub jego zorganizowanej części nad wartością rynkową składników majątkowych wchodzących w skład kupionego, przyjętego do odpłatnego korzystania albo wniesionego do spółki przedsiębiorstwa lub zorganizowanej jego części, odpowiednio z dnia kupna, przyjęcia do korzystania albo wniesienia do spółki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Jeżeli środki trwałe uległy ulepszeniu (przebudowie, rozbudowie, rekonstrukcji, adaptacji lub modernizacji), wartość początkową tych środków, ustaloną zgodnie z ust. 1, powiększa się o sumę wydatków na ich ulepszenie, w tym także o wydatki na nabycie części składowych lub peryferyjnych, których cena nabycia przekracza 1.000 zł. Środki trwałe uważa się za ulepszone, jeżeli wydatki poniesione na przebudowę, rozbudowę, rekonstrukcję, adaptację lub modernizację powodują wzrost ich wartości użytkowej w stosunku do tej wartości z dnia przyjęcia środków trwałych do używania, mierzonej w szczególności okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych za pomocą ulepszonych środków trwałych i kosztami ich eksploatacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Za cenę nabycia uważa się rzeczywistą cenę składnika majątkowego, obejmującą kwotę należną sprzedającemu, powiększoną o koszty związane z zakupem naliczone do dnia przekazania środka trwałego do używania, a w szczególności o koszty transportu, załadunku i wyładunku, ubezpieczenia w drodze, montażu, opłat notarialnych, skarbowych i innych, odsetek, prowizji i różnic kursowych, oraz pomniejszoną, zgodnie z odrębnymi przepisami, o podatek od towarów i usług, z wyjątkiem gdy podatnikowi nie przysługuje obniżenie kwoty naliczonego podatku lub zwrot różnicy podatku od towarów i usług. W przypadku importu cena nabycia obejmuje cło i podatek akcyzowy oraz podatek importowy od składników majątkowych sprowadzanych lub nadsyłanych z zagranicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Za koszt wytworzenia uważa się wartość, w cenie nabycia, zużytych do wytworzenia rzeczowych składników majątku i wykorzystanych usług obcych, koszt wynagrodzeń za pracę wraz z pochodnymi i inne koszty dające się zaliczyć do wartości wytworzonych przedmiotów majątkowych. Do kosztu wytworzenia nie zalicza się kosztów ogólnych zarządu, kosztów sprzedaży oraz pozostałych kosztów operacyjnych i kosztów operacji finansowych, w szczególności odsetek od kredytów (pożyczek), prowizji i różnic kursowych, z wyłączeniem odsetek, prowizji i różnic kursowych naliczonych do dnia przekazania środka trwałego do używa-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nią."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Jeżeli wartości początkowej środków trwałych lub ich części nabytych przez podatników podatku dochodowego od osób fizycznych przed dniem założenia ewidencji lub sporządzenia wykazu, o których mowa w odrębnych przepisach, nie można ustalić w sposób określony w ust. 1, wartość początkową tych środków przyjmuje się w wysokości wynikającej z wyceny dokonanej przez podatnika, z uwzględnieniem cen rynkowych środków trwałych tego samego rodzaju z grudnia roku poprzedzającego rok założenia ewidencji lub sporządzenia wykazu oraz stopnia ich zużycia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_4/ust_7",
+     "text": "Jeżeli ustalenie kosztu wytworzenia, o którym mowa w ust. 5, nie jest możliwe — jego wartość ustala się w wysokości określonej przez biegłego, powołanego przez podatnika, z uwzględnieniem cen rynkowych z dnia przekazania składnika majątkowego do używania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_4/ust_8",
+     "text": "Wartość rynkową, o której mowa w ust. 1 pkt 3 i 4 oraz ust. 2, 6 i 7, określa się na podstawie przeciętnych cen stosowanych w danej miejscowości w obrocie składnikami majątkowymi tego samego rodzaju i gatunku, z uwzględnieniem ich stanu i stopnia zużycia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_4/ust_9",
+     "text": "Podatnicy podatku dochodowego od osób fizycznych mogą ustalić wartość początkową budyń ków mieszkalnych lub lokali mieszkalnych: wynajmowanych, wydzierżawianych albo używanych przez właściciela na cele prowadzonej przez niego działalności gospodarczej, przyjmując",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "w każdym roku podatkowym wartość stanowiącą iloczyn metrów kwadratowych wynajmowanej, wydzierżawianej lub używanej przez właściciela powierzchni użytkowej tego budynku lub lokalu i kwoty 681 zł, przy czym za powierzchnię użytkową uważa się powierzchnię przyjętą dla celów podatku od nieruchomości."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_4/ust_10",
+     "text": "Wartość inwestycji w obcych środkach trwałych ustala się stosując odpowiednio ust. 3, 5 lub 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_4/ust_11",
+     "text": "Przy ustalaniu wartości początkowej zgodnie z ust. 1 pkt 3 i 4 oraz ust. 2, 6 i 7 stosuje się odpowiednio art. 14 ust. 3 ustawy wymienionej w § 1 pkt 1 lub art. 19 ust. 3 ustawy wymienionej w § 1 pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Odpisów amortyzacyjnych od wartości początkowej poszczególnych środków trwałych lub wartości niematerialnych i prawnych dokonuje się w równych ratach co miesiąc, począwszy od pierwszego dnia miesiąca następującego po miesiącu, w którym środek trwały przyjęto do używania, do końca tego miesiąca, w którym następuje zrównanie sumy odpisów amortyzacyjnych z ich wartością początkową lub w którym postawiono je w stan likwidacji, zbyto lub stwierdzono ich niedobór.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Odpisów amortyzacyjnych od środków trwałych związanych trwale z cudzymi gruntami dokonuje się według zasad określonych w ust. 1 oraz w § 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przepis ust. 1 stosuje się odpowiednio do inwestycji w obcych środkach trwałych, z tym że odpisów amortyzacyjnych dokonuje się według zasad określonych w § 7 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych używanych sezonowo dokonuje się tylko za okres ich wykorzystania. Wysokość odpisu miesięcznego stanowi w takim wypadku iloraz wynikający z podzielenia rocznej kwoty amortyzacji przez liczbę miesięcy w sezonie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Odpisy amortyzacyjne od ujawnionych środków trwałych, nie objętych dotychczas ewidencją lub wykazem, oraz korekty odpisów amortyzacyjnych dokonanych w nieprawidłowej wysokości mogą nastąpić wyłącznie za rok podatkowy, w którym przypadki te ujawniono.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Odpisy amortyzacyjne mogą być dokonywane w równych ratach kwartalnych lub jednorazowo na koniec roku podatkowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Od środków trwałych oraz wartości niematerialnych i prawnych otrzymanych do odpłatnego korzystania zgodnie z umowami zawartymi na podstawie ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. Nr 51, poz. 298, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480 oraz z 1994 r. Nr 121, poz. 591 i Nr 133, poz. 685), jeżeli złych umów wynika prawo zakupu tych środków albo wartości przez korzystającego za cenę ustaloną w umowach oraz od środków trwałych otrzymanych od Skarbu Państwa albo gminy w nieodpłatny zarząd lub nieodpłatne używanie, podatnicy dokonują odpisów amortyzacyjnych na zasadach określonych w § 5 ust. 1. Stawki amortyzacyjne, z uwzględnieniem § 7 ust. 2 i 6—10, ustala się w proporcji do okresu wynikającego z umowy, z wyjątkiem środków trwałych oraz wartości niematerialnych i prawnych o krótszym okresie amortyzacji niż okres ttwania umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Od środków trwałych oraz wartości niematerialnych i prawnych, przekazanych do używania na podstawie innych umów niż wymienione w ust. 1, odpisów amortyzacyjnych dokonują podatnicy, którzy zgodnie z odrębnymi przepisami zaliczają te środki trwałe oraz wartości niematerialne i prawne do składników majątku; w tym przypadku odpisów amortyzacyjnych dokonują odpowiednio wynajmujący (wydzierżawiający) albo najemca (dzierżawca) na zasadach określonych w § 718.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Odpisów amortyzacyjnych od środków trwałych, z zastrzeżeniem § 6 ust. 1 i § 7 ust. 3, dokonuje się przy zastosowaniu stawek amortyzacyjnych określonych w wykazie rocznych stawek amortyzacyjnych, stanowiącym załącznik do rozporządzenia, zwanym dalej „wykazem stawek amortyzacyjnych”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Podatnicy mogą podane w wykazie stawek amortyzacyjnych stawki podwyższać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "dla budynków i budowli używanych w warunkach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_1/lit_a",
+         "text": "pogorszonych — przy zastosowaniu współczynników nie wyższych niż 1,2,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_1/lit_b",
+         "text": "złych — przy zastosowaniu współczynników nie wyższych niż 1,4,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "dla maszyn, urządzeń i środków transportu, z wyjątkiem taboru pływającego, używanych bardziej intensywnie w stosunku do warunków przeciętnych albo wymagających szczególnej sprawności technicznej (np. pod ziemią, w warunkach terenowych, w warunkach leśnych, przy pracy na trzy zmiany, mimo że nie działają ze swej istoty w ruchu ciągłym) — przy zastosowaniu w tym okresie współczynników nie wyższych niż 1,4,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "dla:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_3/lit_a",
+         "text": "rurociągów podsadzkowych — przy zastosowaniu współczynników nie wyższych niż 7,0",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_3/lit_b",
+         "text": "odwiertów ropy naftowej i gazu ziemnego — przy ~~ zastosowaniu współczynników nie wyższych niż 5,0,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "pomp tłoczących ciecze z zawiesinami, wodą mors- ~ (2) ką, materiałami ściernymi, solanką i innymi substancjami żrącymi, wentylatorów, urządzeń wentylacyjnych i klimatyzacyjnych, dmuchaw i ssaw oraz taboru pływającego — przy zastosowaniu współczynników nie wyższych niż 4,0,"
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_2/pkt_3/lit_d",
+         "text": "silników powietrznych — przy zastosowaniu współczynników nie wyższych niż 2,5,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "wykopów górniczych, sztolni, wyrobisk upadowych, ~ i) szybów i szybików — przy zastosowaniu współczynników nie wyższych niż 2,0,"
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_7/ust_2/pkt_3/lit_f",
+         "text": "rurociągów przemysłowych i rozdzielczych solanki — przy zastosowaniu współczynników nie wyższych niż 2,0,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_7/ust_2/pkt_3/lit_g",
+         "text": "maszyn i urządzeń grupy 4 do 6 poddanych szybkiemu postępowi technicznemu — przy zastosowaniu współczynników nie wyższych niż 2,0.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Podatnicy, z zastrzeżeniem § 6 ust. 1, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji lub wykazu, z tym że okres amortyzacji wynikający z zastosowania stawki amortyzacyjnej nie może być krótszy niż:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "dla środków trwałych zaliczonych do grupy 3—6 i 8:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_3/pkt_1/lit_a",
+         "text": "24 miesiące — gdy ich wartość początkowa nie przekracza 20 000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_3/pkt_1/lit_b",
+         "text": "36 miesięcy — gdy ich wartość początkowa jest wyższa od 20000 zł i nie przekracza 40 000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_3/pkt_1/lit_c",
+         "text": "60 miesięcy — w pozostałych przypadkach,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "dla środków transportu, w tym samochodów osobowych — 30 miesięcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "dla budynków i budowli — 10 lat, z wyjątkiem budynków wymienionych w poz. 03 wykazu stawek amortyzacyjnych, dla których okres ten nie może być krótszy niż 36 miesięcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Środki trwałe, o których mowa w ust.'3, uznaje się za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "używane — jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane co najmniej przez okres 6 pełnych miesięcy, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "ulepszone — jeżeli przed wprowadzeniem do ewidencji lub wykazu wydatki poniesione przez podatnika na ich ulepszenie stanowiły co najmniej 20% wartości początkowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Podatnicy mogą obniżać podane w wykazie stawek amortyzacyjnych stawki dla maszyn, urządzeń i środków transportu używanych w warunkach lepszych od przeciętnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Podatnicy mogą podane w wykazie stawek amortyzacyjnych stawki dla maszyn i urządzeń zaliczonych do grupy 3—6 i 8 Klasyfikacji rodzajowej środków trwałych oraz środków transportu (z wyjątkiem samochodów osobowych) przyjętych do używania-po dniu 1 stycznia 1991 r. podwyższać przy zastosowaniu współczynników nie wyższych niż 2, a w przypadku ich używania w gminach o szczególnym zagrożeniu wysokim bezrobociem strukturalnym, których wykaz ustala Rada Ministrów — nie wyższych niż 3. Tak ustalone stawki amortyzacyjne stosuje się do wartości początkowej środków trwałych w pierwszym podatkowym roku ich używania, a w następnych latach do ich wartości początkowej, pomniejszonej o dotychczasowe odpisy amortyzacyjne, ustalonej na początek kolejnych lat ich używania. Począwszy od roku następującego po roku, w którym nastąpiło zrównanie rocznej kwoty amortyzacji obliczonej przy zastosowaniu zasad przewidzianych w § 5 ust. 1 i w §7 ust. 1 oraz zasady, o której mowa w niniejszym ustępie, podatnicy dokonują dalszych odpisów amortyzacyjnych według zasad określonych w § 5 ust. 1 i w § 7 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "Jeżeli w trakcie roku podatkowego gmina zostanie wyłączona z wykazu gmin o szczególnym zagrożeniu wysokim bezrobociem strukturalnym, podatnik może stosować podwyższone stawki amortyzacyjne według zasad określonych w ust. 6 do końca tego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_7/ust_8",
+     "text": "W przypadku podwyższania lub obniżania stawek amortyzacyjnych, podanych w wykazie stawek amortyzacyjnych, za pomocą współczynników określonych w ust. 2, 5 lub 6, należy dla poszczególnych środków trwałych stosować jeden wybrany współczynnik.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_7/ust_9",
+     "text": "Podatnicy ustalają zasady stosowania stawek amortyzacyjnych dla poszczególnych środków trwałych na cały okres amortyzacji przed rozpoczęciem dokonywania odpisów amortyzacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_7/ust_10",
+     "text": "Warunki uzasadniające stosowanie podwyższonych stawek amortyzacyjnych, o których mowa w ust. 2, oraz sposób ich ustalania określają objaśnienia do wykazu stawek amortyzacyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Z zastrzeżeniem ust. 3 oraz § 6 ust. 1, okres dokonywania odpisów amortyzacyjnych od wartości niematerialnych i prawnych nie może być krótszy niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "od wartości oprogramowania komputerów i praw autorskich — 2 lata,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "od poniesionych kosztów zakończonych prac rozwojowych — 3 lata,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "od pozostałych wartości niematerialnych i prawnych — 5 lat.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Podatnicy ustalają stawki amortyzacyjne dla poszczególnych tytułów wartości niematerialnych i prawnych na cały okres amortyzacji przed rozpoczęciem dokonywania odpisów amortyzacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Odpisów amortyzacyjnych od spółdzielczego własnościowego prawa do lokalu użytkowego dokonuje się przy zastosowaniu rocznej stawki amortyzacyjnej w wysokości 2,5%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Przepis § 5 ust. 5 stosuje się odpowiednio do korekty odpisów amortyzacyjnych od wartości niematerialnych i prawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Podatnicy, z wyjątkiem postawionych w stan likwidacji oraz w stosunku do których ogłoszono upadłość, dokonują, z zastrzeżeniem ust. 2, aktualizacji wyceny środków trwałych według ich stanu na dzień 1 stycznia 1995 r. w terminie do dnia 30 czerwca 1995 r.; aktualizacji wyceny nie dokonuje się od składników majątku zaliczanych do środków trwałych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "oddnia 1 stycznia 1995 r., jeżeli zostały nabyte przed tym dniem i zgodnie z obowiązującymi przepisami nie były uznawane za środki trwałe w rozumieniu przepisów rozporządzenia wymienionego w § 11 ust. 1 pkt 1 lub zostały objęte wykazami, o których mowa w § 1 pkt 2 lit. b),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "nabytych przed dniem 1 stycznia 1995 r., jeżeli cena ich nabycia, bez uzasadnionej przyczyny, znacznie odbiegała od wartości rynkowej z dnia nabycia; przepisy art. 14 ust. 2 ustawy wymienionej w § 1 pkt 1 lub art. 19 ust. 2 ustawy wymienionej w § 1 pkt 2 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Poczynając dnia od 1 stycznia 1995 r. kwota, o której mowa w § 4 ust. 9, podlega aktualizacji, zgodnie z przepisami rozporządzenia, przy zastosowaniu współczynnika przeliczeniowego dla budynków nabytych (wytworzonych) w II półroczu 1992 r., ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Aktualizacji, o której mowa w ust. 1, dokonuje się metodą szczegółową polegającą na przeliczeniu wykazanej w ewidencji wartości początkowej oraz wartości dotychczasowych odpisów amortyzacyjnych (umorzeniowych) poszczególnych środków trwałych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Przeliczeń, o których mowa w ust. 3, dokonuje się przy zastosowaniu wskaźników przeliczeniowych ogłoszonych przez Prezesa Głównego Urzędu Statystycznego, z uwzględnieniem poziomu cen z września 1994 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Jeżeli po zastosowaniu wskaźnika przeliczeniowego wartość początkowa środka trwałego różni się więcej niż o 10% od rynkowej wartości środka z września 1994 r., to przeliczenie może nastąpić z zastosowaniem tej wartości rynkowej. Wartość dotychczasowych odpisów amortyzacyjnych (umorzeniowych) środka trwałego ustala się wówczas w takiej proporcji do zaktualizowanej wartości początkowej, w jakiej pozostawały odpisy do wartości początkowej przed aktualizacją. Przepisy art. 14 ust. 3 ustawy wymienionej w§ 1 pkt 1 lubart. 19 ust. 3 ustawy wymienionej w§ 1 pkt 2 stosuje się odpowiednio.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "W razie nieogłoszenia przez Prezesa Głównego Urzędu Statystycznego wskaźników przeliczeniowych dla niektórych środków trwałych, przepisy ust. 5 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Podatnicy ustalają różnicę między kwotą odpisów amortyzacyjnych od środków trwałych za 1995 r. po aktualizacji, obliczoną od stanu tych środków na dzień 1 stycznia 1995 r., a kwotą odpisów amortyzacyjnych od środków trwałych za 1994 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "W latach 1995—1997 przyrost kwoty odpisów amortyzacyjnych od zaktualizowanej wartości środków trwałych wykazanych w ewidencji lub wykazie na dzień 1 stycznia 1995 r. w stosunku do kwoty odpisów amortyzacyjnych za 1994 r. nie może być wyższy niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "w 1995 r. — 24% kwoty odpisów amortyzacyjnych za 1994 r.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "odrębnie w każdym z lat 1996 i 1997 — 50% różnicy obliczonej zgodnie z ust. 1, pomniejszonej o kwotę faktycznego przyrostu odpisów za 1995 r. ustalonego zgodnie z pkt 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "W przedsiębiorstwach energetyki zawodowej (elektrowniach, elektrociepłowniach, zakładach energetycznych, kopalniach węgla brunatnego oraz w przedsiębiorstwie „Polskie Sieci Elektroenergetyczne” SA) przyrost kwoty odpisów amortyzacyjnych od zaktualizowanej wartości Srodków trwałych wykazanych w ewidencji na dzień 1 stycznia 1995 r. w stosunku do kwoty odpisów amortyzacyjnych za 1994 r. nie może być w latach 1995—1997 wyższy niż:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "w 1995 r. — 24% różnicy, o której mowa w ust. 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "odrębnie w każdym z lat 1996 i 1997 — 50% różnicy obliczonej zgodnie z ust. 1, pomniejszonej o kwotę faktycznego przyrostu odpisów za 1995 r.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Przepis ust. 3 ma zastosowanie w przypadku, gdy odpisy amortyzacyjne w latach 1995—1999 będą dokonywane wyłącznie według zasad określonych w rozporządzeniu. Jeżeli odpisy amortyzacyjne w tych latach będą dokonywane przy zastosowaniu innych metod, stosuje się odpowiednio przepisy ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Traci moc:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "z zastrzeżeniem ust. 2, rozporządzenie Ministra Finansów z dnia 27 marca 1992 r. w sprawie składników majątkowych uznawanych za środki trwałe oraz wartości niematerialne i prawne, zasad i stawek ich amortyzacji oraz trybu i terminów aktualizacji wyceny środków trwałych (Dz. U. z 1994 r. Nr 104, poz. 508),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "§ 5, 6 i 8 rozporządzenia Ministra Finansów z dnia 21 grudnia 1991 r. w sprawie wykonania niektórych przepisów ustawy o podatku dochodowym od osób fizycznych (Dz. U. Nr 124, poz. 553, z 1992 r. Nr 52, poz. 239, z 1993 r. Nr 66, poz. 312 i Nr 133, poz. 641 oraz z 1994 r. Nr 76, poz. 345 i Nr 126, poz. 623).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Jeżeli rok podatkowy podatnika nie rozpoczyna się w dniu 1 stycznia 1995 r., przepisy rozporządzenia wymienionego w ust. 1 pkt 1, w części dotyczącej dokonywania odpisów amortyzacyjnych od środków trwałych oraz wartości niematerialnych i prawnych wprowadzonych do używania przed tym dniem, mają zastosowanie do końca roku podatkowego kończącego się w 1995 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia i ma zastosowanie od dnia 1 stycznia 1995 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: wz. K. Kalicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Finansów z dnia 20 stycznia 1995 r. (poz. 34)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ ROCZNYCH STAWEK AMORTYZACYJNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Symbol*"
+    },
+    {
+     "type": "text",
+     "text": "Pozycja grupa, dalsze podgrupa, szczeble rodzaj podziału"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa środków trwałych Stawka %"
+    },
+    {
+     "type": "text",
+     "text": "Budynki, w tym budynki hoteli miejskich i schronisk turystycznych z wyjątkiem poz. 02 i 03"
+    },
+    {
+     "type": "text",
+     "text": "16 Budynki mieszkalne (z wyjątkiem rodzaju 166, 168 i 169)"
+    },
+    {
+     "type": "text",
+     "text": "Kioski, budki towarowe, domki kempingowe o konstrukcji trwałej wznie- 125,169 sione na fundamencie trwałym, budynki zastępcze z pudeł wagonowych 198"
+    },
+    {
+     "type": "text",
+     "text": "2 Budowle z wyjątkiem poz. 05"
+    },
+    {
+     "type": "text",
+     "text": "250, 251,"
+    },
+    {
+     "type": "text",
+     "text": "Budowle inżynieryjne wodne (z wyjątkiem rodzaju 250-5, 251-3 i 255- 253, 254,"
+    },
+    {
+     "type": "text",
+     "text": "-5), budowle sportowe, wieże przeciwpożarowe, budowle oznakowania nawigacyjnego, pochylnie i slipy, melioracje szczegółowe 255, 256, 259, 28, 291, 293, 297, 01"
+    },
+    {
+     "type": "text",
+     "text": "3 Kotły i maszyny energetyczne z wyjątkiem poz. 07"
+    },
+    {
+     "type": "text",
+     "text": "* Według Klasyfikacji rodzajowej środków trwałych, wprowadzonej zarządzeniem nr51 Prezesa Głównego Urzędu Statystycznego z dnia 17 grudnia 1991 r. w sprawie stosowania Klasyfikacji rodzajowej środków trwałych."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "323, 324, 325, 326, 343, 344, 349"
+    },
+    {
+     "type": "text",
+     "text": "4 z wyjątkiem poz.09—13"
+    },
+    {
+     "type": "text",
+     "text": "40, 41"
+    },
+    {
+     "type": "text",
+     "text": "431 450 451 454, 475 477"
+    },
+    {
+     "type": "text",
+     "text": "44, 46, 47"
+    },
+    {
+     "type": "text",
+     "text": "50 z wyjątkiem poz.16—19"
+    },
+    {
+     "type": "text",
+     "text": "501"
+    },
+    {
+     "type": "text",
+     "text": "505"
+    },
+    {
+     "type": "text",
+     "text": "506 507"
+    },
+    {
+     "type": "text",
+     "text": "51 z wyjątkiem poz.21—25"
+    },
+    {
+     "type": "text",
+     "text": "510"
+    },
+    {
+     "type": "text",
+     "text": "511"
+    },
+    {
+     "type": "text",
+     "text": "Silniki spalinowe na paliwo lekkie, ciężkie, gazowe, silniki powietrzne, zespoły elektroenergetyczne polowe o napędzie spalinowym, reaktory jądrowe"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny, urządzenia i aparaty ogólnego zastosowania"
+    },
+    {
+     "type": "text",
+     "text": "Obrabiarki do metali skrawające"
+    },
+    {
+     "type": "text",
+     "text": "Filtry (prasy) błotniarki, cedzidła mechaniczne, piece do przerobu surowców (z wyjątkiem rodzaju 450-50), piece do przetwarzania paliw (z wyjątkiem rodzaju 451-0), piece do wypalania tunelowe, aparaty bębnowe, suszarki komorowe"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia do przetłaczania i sprężania cieczy i gazów, aparaty do wymiany ciepła (z wyjątkiem rodzaju 465 i 469-0), maszyny i aparaty do operacji i procesów materiałowych (z wyjątkiem rodzaju 474, 475, 477-0do4i6do8 i 479-0)"
+    },
+    {
+     "type": "text",
+     "text": "Zamykarki do stoi i do puszek, wymienniki przeponowe rurowe pracujące jako chłodnice kwasu siarkowego"
+    },
+    {
+     "type": "text",
+     "text": "Zespoły komputerowe"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia dystrybucyjne do benzyny i olejów elektryczne i przepływomierze składowe do paliw płynnych, wymienniki płynów obiegowych przy produkcji sody, chłodnice odmulin i prób kotłowych rozkładni gazu, kolumny nitracyjne i denitracyjne, odbieralnice hydrauliczne rozkładni gazu, aparaty i urządzenia do powierzchniowej obróbki metali sposobem chemicznym i elektrochemicznym oraz sposobem cieplnym, urządzenia do spawania i napawania łukowego w ochronie gazów oraz do spawania i napawania plazmowego, przenośne wytwornice acetylenu wysokiego ciśnienia i przenośne maszyny do cięcia termicznego i metodami pokrewnymi, zgrzewarki oporowe i tarcicowe oraz przetwornice spawalnicze (spawarki wirujące), urządzenia do metalizacji natryskowej, urządzenia do natryskiwania tworzywami sztucznymi, komputery (z wyjątkiem ujętych w poz. 13), samodzielne urządzenia do automatycznej regulacji i sterowania procesami, roboty przemysłowe"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny, urządzenia i aparaty przemysłu chemicznego"
+    },
+    {
+     "type": "text",
+     "text": "Aparaty szklane i porcelanowe oraz porcelanowe młyny kulowe"
+    },
+    {
+     "type": "text",
+     "text": "Z rodzaju 502-3 odgazowywacze"
+    },
+    {
+     "type": "text",
+     "text": "Piece prażalnicze fluidyzacyjne stosowane przy produkcji kwasu siarkowego"
+    },
+    {
+     "type": "text",
+     "text": "Aparaty do rektyfikacji powietrza, maszyny, urządzenia i aparaty przemysłu rafineryjnego"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia wiertnicze, górnicze, hutnicze, odlewnicze i torfiarskie oraz geodezyjno-kartograficzne"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia wiertnicze"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny górnicze, z wyłączeniem obudów zmechanizowanych"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "512, 513 514"
+    },
+    {
+     "type": "text",
+     "text": "517"
+    },
+    {
+     "type": "text",
+     "text": "52 z wyjątkiem poz. 27i 28"
+    },
+    {
+     "type": "text",
+     "text": "520 523 525 529"
+    },
+    {
+     "type": "text",
+     "text": "53 z wyjątkiem poz. 30"
+    },
+    {
+     "type": "text",
+     "text": "54 z wyjątkiem poz. 32"
+    },
+    {
+     "type": "text",
+     "text": "548"
+    },
+    {
+     "type": "text",
+     "text": "55"
+    },
+    {
+     "type": "text",
+     "text": "56 z wyjątkiem poz. 35"
+    },
+    {
+     "type": "text",
+     "text": "561 568"
+    },
+    {
+     "type": "text",
+     "text": "57 z wyjątkiem poz. 37 i 38"
+    },
+    {
+     "type": "text",
+     "text": "571"
+    },
+    {
+     "type": "text",
+     "text": "579"
+    },
+    {
+     "type": "text",
+     "text": "58 z wyjątkiem poz.40—43"
+    },
+    {
+     "type": "text",
+     "text": "580, 581 582"
+    },
+    {
+     "type": "text",
+     "text": "30, 31,8"
+    },
+    {
+     "type": "text",
+     "text": "000, 003, 01, 09"
+    },
+    {
+     "type": "text",
+     "text": "Obudowy zmechanizowane, aparaty i urządzenia do pomiarów magnetycznych, geoelektrycznych, sejsmicznych i radiometrycznych oraz do pomiarów i zabiegów geofizycznych"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia do eksploatacji otworów wiertniczych, maszyny i urządzenia do obróbki mechanicznej rud i węgla, maszyny i urządzenia hutnicze, aglomerowni, wielkopiecowe, nożyce hutnicze do cięcia na gorąco, tabor hutniczy, walcowniczy, maszyny i urządzenia hutnicze stalowni, inne maszyny i urządzenia hutnicze"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia torfiarskie"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny do produkcji surowców mineralnych i wyrobów z nich"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia przemysłu kamieniarskiego, cementowego, autoklawy, maszyny do produkcji elementów z lastryka i kamienia sztucznego"
+    },
+    {
+     "type": "text",
+     "text": "Z rodzaju 524-3 piece do trampowania głowic „Hagera” oraz z rodzaju 524-4 piece do topienia żużla wielkopiecowego i bazaltu"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny do wyrobów z metali i tworzyw sztucznych"
+    },
+    {
+     "type": "text",
+     "text": "Z rodzaju 535-0 aparaty specjalne do wytwarzania kwasu wolframowego i maszyny do redukcyjnych, próżniowych i specjalnych wytopów metali, z rodzaju 535-1 maszyny do produkcji węglanów i past emulsyjnych oraz z rodzaju 535-7 urządzenia do produkcji półprzewodników"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny do obróbki i przerobu drewna, wyrobów z drewna oraz maszyny papiernicze i poligraficzne"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny, urządzenia i aparaty do produkcji materiału zecerskiego"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny włókiennicze i odzieżowe oraz do produkcji skóry i wyrobów ze skóry"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny, urządzenia i aparaty przemysłów rolnych"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny, urządzenia i aparaty do produkcji wód gazowanych, maszyny impregnacyjne, maszyny, urządzenia i aparaty przemysłu piekarniczego (z wyjątkiem rodzaju 568-40 do 48)"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny, urządzenia i aparaty przemysłów spożywczych"
+    },
+    {
+     "type": "text",
+     "text": "Autoklawy do hydrolizy, neutralizatory stalowe, neutralizatory i hydrolizatory betonowe lub murowane"
+    },
+    {
+     "type": "text",
+     "text": "Destruktory, młynki młotkowe, maszyny i urządzenia do przerobu odpadków zwierzęcych"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny do robót ziemnych, budowlanych i drogowych"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny do robót ziemnych i fundamentowych (z wyjątkiem wymienionych w poz. 41), maszyny do robót budowlanych (z wyjątkiem rodzaju 581 -2 i 4 oraz z rodzaju 581-3 zacieraczki do tynku), szczotki mechaniczne i osprzęt roboczy do utrzymania dróg"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "6 z wyjątkiem poz.46—50"
+    },
+    {
+     "type": "text",
+     "text": "600, 601"
+    },
+    {
+     "type": "text",
+     "text": "610 do 615 641 662 681"
+    },
+    {
+     "type": "text",
+     "text": "633, 634 662"
+    },
+    {
+     "type": "text",
+     "text": "644"
+    },
+    {
+     "type": "text",
+     "text": "644 664"
+    },
+    {
+     "type": "text",
+     "text": "70, 71, 72, z wyjątkiem poz.52—54"
+    },
+    {
+     "type": "text",
+     "text": "700—706 710 do 712"
+    },
+    {
+     "type": "text",
+     "text": "770 773 780—781"
+    },
+    {
+     "type": "text",
+     "text": "740, 741 742, 744 782"
+    },
+    {
+     "type": "text",
+     "text": "743, 745 746, 747 748, 75, 76"
+    },
+    {
+     "type": "text",
+     "text": "8 z wyjątkiem poz.57—60"
+    },
+    {
+     "type": "text",
+     "text": "801 802 804 803 805 806 rh. 01 do 03"
+    },
+    {
+     "type": "text",
+     "text": "Wibratory i wibromłoty oraz z rodzaju 581-3 zacieraczki do tynku"
+    },
+    {
+     "type": "text",
+     "text": "Z rodzaju 582-1 pojemniki do bitumu stalowe powyżej 20 000 I pojemności oraz z rodzaju 582-2 odśnieżarki o mocy silników powyżej 120 KM"
+    },
+    {
+     "type": "text",
+     "text": "Koparki i zwałowarki w kopalniach odkrywkowych węgla, koparki w piaskowniach przemysłu węglowego"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny rolnicze i gospodarki leśnej"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia techniczne"
+    },
+    {
+     "type": "text",
+     "text": "Zbiorniki naziemne z cegły betonowe i żelbetowe (z wyjątkiem z wykładziną chemoodporną dla kwasu ponitracyjnego), urządzenia telefoniczne systemów nośnych na liniach wysokiego napięcia i urządzenia telefonii na przewodach zawieszonych pod przewodami wysokiego napięcia, wyciągi kopalniane (bez wyciągów przy głębieniu szybów), towarowe kolejki linowe i dźwignice linowe, akumulatory hydrauliczne, wagi wozowe, wagonowe i inne wbudowane"
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia rozdzielcze i aparatura energii elektrycznej przewoźna, dźwigniki, wciągniki i wciągarki przejezdne oraz nieprzejezdne, kołowroty i wyciągi (z wyjątkiem rodzaju 641-63 oraz z rodzaju 641-7 wyciągi kopalniane łącznie z wyciągami przy głębieniu szybów, a także wyciągi kolei i kolejek linowych), projektory przenośne 16 mm i 35 mm, kontenery"
+    },
+    {
+     "type": "text",
+     "text": "Baterie akumulatorów elektrycznych stałych (stacyjnych) i przewoźnych, ekrany kinowe"
+    },
+    {
+     "type": "text",
+     "text": "Przenośniki zgrzebłowe ciężkie i lekkie w kopalniach węgla"
+    },
+    {
+     "type": "text",
+     "text": "Przenośniki w kopalniach i zakładach przetwórczych rud i węgla, urządzenia do przeprowadzania badań technicznych, aparaty kontrolno- -pomiarowe elektryczne i elektroniczne do mierzenia wielkości elektrycznych i nieelektrycznych"
+    },
+    {
+     "type": "text",
+     "text": "Tabor szynowy i tabor pływający"
+    },
+    {
+     "type": "text",
+     "text": "Drezyny i przyczepy do drezyn, lokomotywy akumulatorowe, wozy kopalniane, kontenery pływające, wodoloty oraz łodzie różnego typu, tabor lotniczy"
+    },
+    {
+     "type": "text",
+     "text": "Pojazdy mechaniczne, szybowce"
+    },
+    {
+     "type": "text",
+     "text": "Samochody specjalne, trolejbusy i samochody ciężarowe o napędzie elektrycznym, ciągniki, przyczepy i naczepy, tabor konny, pozostały tabor bezszynowy"
+    },
+    {
+     "type": "text",
+     "text": "Inne nie wymienione maszyny, urządzenia i środki transportowe"
+    },
+    {
+     "type": "text",
+     "text": "Narzędzia, przyrządy, ruchomości i wyposażenie"
+    },
+    {
+     "type": "text",
+     "text": "Elektroniczna aparatura kontrolno-pomiarowa do przeprowadzania badań laboratoryjnych, aparaty i sprzęt hydro- i mechanoterapii, wyposażenie cyrków Maszyny biurowe oraz dalekopisy do maszyn matematycznych Wyposażenie teatrów, kin itp., instrumenty muzyczne Kioski, budki, domki kempingowe Plantacje wikliny"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "sa"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W razie podwyższania lub obniżania stawek amortyzacyjnych, podanych w wykazie, za pomoc i i o ; , odpowiednic współczynników, mnoży się właściwe dla danych środków trwałych stawki amortyzacyjne, ssialone w wozie dia ¢ 1 luk Iza ]",
+     "children": [
+      {
+       "type": "text",
+       "text": "warunków normalnych, przez odpowiedni współczynnik określony w § 7 ust. 2, 5 i 6 rozporządzenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Za pogorszone warunki używania uważa się używanie budynku lub budowli pod ciągłym działaniem wody, par wodnych znacznych drgań, nagłych zmian temperatury oraz innych czynników powodujących przyspieszenie zużycia obiektu. : Za złe warunki używania uważa się używanie budynku lub budowli pod ciągłym wpływem silnej agresji chemicznej w razie gdy są to obiekty, w których wytwarza się, stosuje w produkcji lub przechowuje agresywne środki chemiczne. Dotyczy to również wypadków silnego działania na środek trwały agresywnych środków chemicznych rozproszonych w atmosferze, wodzie lub wydzielających się w postaci oparów, których źródłem są inne obiekty znajdujące się w pobliżu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Przez maszyny i urządzenia grupy 4—6 poddane szybkiemu postępowi technicznemu, o których mowa w § 7 ust. 2 pkt 3 lit.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_3/lit_g",
+       "text": "rozporządzenia, rozumie się maszyny, urządzenia i aparaturę, w których zastosowane są układy mikroprocesorowe lub systemy komputerowe spełniające założone funkcje dzięki wykorzystaniu w nich najnowszych zdobyczy techniki, a także pozostałą aparaturę naukowo-badawczą i doświadczalno-produkcyjną.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

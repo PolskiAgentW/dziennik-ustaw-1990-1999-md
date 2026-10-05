@@ -1,0 +1,104 @@
+{
+ "eli": "DU/1995/707",
+ "title": "Rozporządzenie Ministra Finansów z dnia 7 grudnia 1995 r. w sprawie zasad reasekuracji ryzyk ubezpieczeniowych za granicą.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/707/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 grudnia 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad reasekuracji ryzyk ubezpieczeniowych za granicą."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 58 pkt 2 ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. Nr 59, poz. 344, z 1993 r. Nr5, poz. 21i Nr 44, poz. 201, z 1994 r. Nr 4, poz. 17 i Nr 121, poz. 591 oraz z 1995 r. Nr 96, poz. 478 i Nr 118, poz. 574) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zakłady ubezpieczeń mogą reasekurować swoje ryzyka u reasekuratorów zagranicznych, z zastrzeżeniem wyjątków przewidzianych w niniejszym rozporządzeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Zakład ubezpieczeń w zawieranych umowach reasekuracyjnych nie może zobowiązać się do przekazania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "jednemu reasekuratorowi zagranicznemu więcej niż 15% składki przypisanej brutto ze wszystkich ubezpieczeń bezpośrednich w danym roku obrotowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "łącznie więcej niż 20% składki przypisanej brutto ze wszystkich ubezpieczeń bezpośrednich w danym roku obrotowym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "reasekuratorom zagranicznym należącym do tej samej grupy przedsiębiorstw,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_2/lit_b",
+         "text": "reasekuratorom zagranicznym należącym do tej samej grupy przedsiębiorstw co zakład ubezpieczeń.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przez „tę samą grupę przedsiębiorstw” rozumie się co najmniej dwa przedsiębiorstwa powiązane w ten sposób, że jedno z nich:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "posiada większość głosów w organach stanowiących innego przedsiębiorstwa lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "jest uprawnione do powoływania lub odwoływania większości członków organów zarządzających innego przedsiębiorstwa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

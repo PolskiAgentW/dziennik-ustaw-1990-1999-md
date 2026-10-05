@@ -1,0 +1,422 @@
+{
+ "eli": "DU/1995/783",
+ "title": "Rozporządzenie Ministra Finansów z dnia 20 grudnia 1995 r. zmieniające rozporządzenie w sprawie klasyfikacji dochodów i wydatków budżetowych oraz innych przychodów i rozchodów.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/783/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 grudnia 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie klasyfikacji dochodów i wydatków budżetowych oraz innych przychodów i rozchodów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 5 ustawy z dnia 5 stycznia 1991 r. — Prawo budżetowe (Dz. U. z 1993 r. Nr 72, poz. 344, z 1994 r. Nr 76, poz. 344, Nr 121, poz. 591 i Nr 133, poz. 685 oraz z 1995 r. Nr 78, poz. 390, Nr 124, poz. 601 i Nr 132, poz. 640) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "W załączniku nr 1 do rozporządzenia Ministra Finansów z dnia 18 kwietnia 1991 r. w sprawie klasyfikacji dochodów i wydatków budżetowych oraz innych przychodów i rozchodów (Dz. U. Nr 39, poz. 169, Nr 60, poz. 257, Nr 69, poz. 297 i Nr 81, poz. 356, z 1992 r. Nr 22, poz. 91 i Nr 103, poz. 523, z 1993 r. Nr 42, poz. 194, Nr 59, poz. 276 i Nr 109, poz. 489, z 1994 r. Nr 9, poz. 33 i Nr 66, poz. 286 oraz z 1995 r. Nr 29, poz. 148) wprowadza się następujące zmiany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "w rozdziale | Klasyfikacja resortowa (części) dodaje się części 17 i 20 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„17. Rzecznik Ubezpieczonych",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "20. Państwowy Urząd Nadzoru Ubezpieczeń”;",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "w rozdziale Ill Klasyfikacja rozdziałów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_2/lit_a",
+         "text": "w dziale 31 — Budownictwo skreśla się rozdział „3882 Centralny Ośrodek Informacji Budownictwa”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_2/lit_b",
+         "text": "w dziale 40 — Rolnictwo rozdział 4408 otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„4408 Chemizacja rolnictwa i ochrona roślin uprawnych”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_1/pkt_2/lit_c",
+         "text": "w dziale 50 — Transport skreśla się rozdział „5233 Biuro Hydrograficzne Rzeczypospolitej Polskiej”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_1/ust_1/pkt_2/lit_d",
+         "text": "w dziale 59 — Łączność:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— dodaje się rozdziały 5923 i 5997 w brzmieniu:"
+          },
+          {
+           "type": "text",
+           "text": "„5923 Państwowa Agencja Radiokomunikacyjna 5997 Gospodarstwa pomocnicze”,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "— rozdział „5922 Państwowa Inspekcja Telekomunikacyjna” otrzymuje brzmienie:"
+          },
+          {
+           "type": "text",
+           "text": "„5922 Państwowa Inspekcja Telekomunikacyjna i Pocztowa”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_1/ust_1/pkt_2/lit_e",
+         "text": "w dziale 90 — Dochody od osób prawnych, od osób fizycznych i od innych jednostek nie posiadających osobowości prawnej:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— w pierwszym zdaniu objaśnień występujących po rozdziale 9020 Wpływy z opłaty skarbowej skreśla się po wyrazach „z tytułu” wyrazy „podatku obrotowego i” oraz po wyrazach „przedsiębiorstw państwowych” wyrazy „opłat sankcyjnych za przekroczenie wzrostu wynagrodzeń”,"
+          },
+          {
+           "type": "text",
+           "text": "— skreśla się rozdziały:"
+          },
+          {
+           "type": "text",
+           "text": "„9032 Wpływy z podatku obrotowego od usług polegających na skupie i sprzedaży walut obcych",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "9033 Wpływy z podatku od sprzedaży akcji w publicznym obrocie”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_1/ust_1/pkt_2/lit_f",
+         "text": "w dziale 91 — Administracja państwowa i samorządowa:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— skreśla się rozdział „9141 Biura wyborcze”,"
+          },
+          {
+           "type": "text",
+           "text": "— dodaje się rozdziały 9140 i 9187 w brzmieniu:"
+          },
+          {
+           "type": "text",
+           "text": "„9140 Utrzymanie drogowych przejść granicznych 9187 Wybory Prezydenta Rzeczypospolitej Polskiej”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_1/ust_1/pkt_2/lit_g",
+         "text": "w dziale 94 — Finanse dodaje się rozdział 9496 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„9496 Krajowy Fundusz Mieszkaniowy”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_1/ust_1/pkt_2/lit_h",
+         "text": "w dziale 98 — Obrona narodowa dodaje się rozdziały 9812, 9813 i 9814 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„9812 Wojskowe szkolnictwo zawodowe",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "9813 Wojskowa Agencja Mieszkaniowa",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "9814 Partnerstwo dla Pokoju”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_1/ust_1/pkt_2/lit_i",
+         "text": "w dziale 99 — Urzędy naczelnych organów władzy, kontroli i sądownictwa dodaje się rozdziały 9913 i 9990 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„9913 Biuro Bezpieczeństwa Narodowego",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "9990 Wybory Prezydenta Rzeczypospolitej Polskiej”;",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "w rozdziale IV Klasyfikacja paragrafów dochodów (z objaśnieniami):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_3/lit_a",
+         "text": "skreśla się paragrafy:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„11 Podatek obrotowy",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "18 Opłaty sankcyjne za przekroczenie wzrostu wynagrodzeń",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "29 Podatek od sprzedaży akcji w publicznym obrocie”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_3/lit_b",
+         "text": "dodaje się paragraf 60 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„60 Wpływy z wpłat gmin na zwiększenie subwencji ogólnej”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_1/pkt_3/lit_c",
+         "text": "paragrafy 92 i 93 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„92 Dotacje celowe otrzymane z budżetu państwa na finansowanie zadań inwestycyjnych własnych gmin o statusie miasta",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "93 Dotacje celowe otrzymane z budżetu państwa na finansowanie zadań inwestycyjnych zleconych gminom o statusie miasta”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_1/ust_1/pkt_3/lit_d",
+         "text": "w nazwie paragrafu 94 wyraz „przekazanych” zastępuje się wyrazem „zleconych”;",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "w rozdziale V Klasyfikacja paragrafów wydatków (z objaśnieniami):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_4/lit_a",
+         "text": "w objaśnieniach występujących po paragrafie 28 Podróże służbowe krajowe, w podstawie prawnej wskazanej w nawiasie, wyraz „oraz” zastępuje się przecinkiem, a po wyrazach „poz. 572” dodaje się wyrazy „oraz z 1995 r. Nr 16, poz. 200”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_4/lit_b",
+         "text": "w objaśnieniach występujących po paragrafie 85 Dotacje celowe na finansowanie zadań inwestycyjnych zleconych gminom (związkom gmin) po wyrazach „z realizacją zadań”, skreśla się wyrazy „administracji rządowej”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_1/pkt_4/lit_c",
+         "text": "dodaje się paragraf 60 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„60 Wpłaty gmin na zwiększenie subwencji ogólnej”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_1/ust_1/pkt_4/lit_d",
+         "text": "paragrafy 92 i 93 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„92 Dotacje celowe na finansowanie zadań inwestycyjnych własnych gmin o statusie miasta",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "93 Dotacje celowe na finansowanie zadań inwestycyjnych zleconych gminom o statusie miasta”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_1/ust_1/pkt_4/lit_e",
+         "text": "w nazwie paragrafu 94 wyraz „przekazanych” zastępuje się wyrazem „zleconych”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_1/ust_1/pkt_4/lit_f",
+         "text": "objaśnienia występujące po paragrafie 94 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Paragrafy 92,93i94 obejmują dotacje celowe z budżetu państwa na finansowanie zadań inwestycyjnych własnych i zleconych oraz zadań bieżących zleconych organom samorządu terytorialnego we wskazanych miastach oraz miejskich strefach usług publicznych na zasadach i w trybie określonych w ustawie z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych (Dz. U. Nr 141, poz. 692).",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2. W załączniku nr 2 do rozporządzenia, o którym mowa w ust. 1, wprowadza się następujące zmiany:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "1) w pozycjach od 0021 do 0024 wyraz „Obligacja” zastępuje się wyrazem „Obligacje”;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) pozycja 0026 otrzymuje brzmienie:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "„0026 Obligacje restrukturyzacyjne”;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) dodaje się pozycję 0028 w brzmieniu:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "„0028 Obligacje państwowej pożyczki dziesięcioletniej”;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "4) pozycja 0030 otrzymuje brzmienie:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "„0030 Bony skarbowe o terminie wykupu 2, 3 dni oraz jednego i dwóch tygodni”.",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1996 r., z wyjątkiem § 1 ust. 1 pkt 2 lit. f) oraz i), który wchodzi w życie z dniem ogłoszenia.",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. K. Kalicki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,514 @@
+{
+ "eli": "DU/1995/133",
+ "title": "Rozporządzenie Ministra Gospodarki Przestrzennej i Budownictwa z dnia 21 lutego 1995 r. w sprawie rodzaju i zakresu opracowań geodezyjno-kartograficznych oraz czynności geodezyjnych obowiązujących w budownictwie.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/133/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI PRZESTRZENNEJ I BUDOWNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 lutego 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie rodzaju i zakresu opracowań geodezyjno-kartograficznych oraz czynności geodezyjnych obowiązujących w budownictwie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 43 ust. 4 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. Nr89, poz. 414) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy rozporządzenia określają rodzaje i zakres opracowań geodezyjno-kartograficznych i czynności geodezyjnych obowiązujących podczas projektowania, budowy, remontu i utrzymywania obiektów budowlanych, dla których jest wymagane uzyskanie pozwolenia na budowę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Opracowania i czynności geodezyjne, o których mowa w rozporządzeniu, wykonują podmioty posiadające niezbędne uprawnienia zawodowe w tym zakresie, zgodnie z art. 43 ustawy z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1990 r. Nr 34, poz. 198 oraz z 1991 r. Nr 103, poz. 446), zwane dalej wykonawcami prac geodezyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Opracowania i czynności geodezyjne związane z realizacją sieci uzbrojenia terenu regulują odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Opracowania geodezyjno-kartograficzne do celów projektowych"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Opracowania geodezyjno-kartograficzne do celów projektowych obejmują przygotowanie dokumentacji geodezyjnej niezbędnej do wykonania projektu budowlanego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Projekt zagospodarowania działki lub terenu należy sprządzić na kopii aktualnej mapy zasadniczej. Dopuszcza się dwukrotne pomniejszenie lub powiększenie tej mapy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W razie braku mapy zasadniczej w odpowiedniej skali, projekt sporządza się na mapie jednostkowej, przyjętej do państwowego zasobu geodezyjnego i kartograficznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W razie budowy pojedynczych obiektów o prostej konstrukcji, usytuowanych w granicach jednej nieruchomości, dopuszcza się wykonanie mapy jednostkowej, o której mowa w ust. 2, w układzie lokalnym dla danej inwestycji. W takim wypadku punkty, na których będzie oparty pomiar, należy utrwalić znakami z trwałego materiału oraz sporządzić dla nich opisy topograficzne w nawiązaniu do istniejących trwałych szczegółów sytuacyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Mapy, o których mowa w § 4, zwane dalej „mapami do celów projektowych”, powinny obejmować również obszar otaczający teren inwestycji w pasie co najmniej 30 m, a w razie konieczności ustalenia strefy ochronnej — także teren tej strefy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Treść mapy do celów projektowych, poza elementami stanowiącymi treść mapy zasadniczej łącznie z granicami władania (własności) nieruchomości (działek), powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "opracowane geodezyjnie linie rozgraniczające tereny o różnym przeznaczeniu, linie zabudowy oraz osie ulic, dróg itp., jeżeli zostały ustalone w miejscowym planie zagospodarowania przestrzennego lub w decyzji o ustaleniu warunków zabudowy i zagospodarowania terenu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "usytuowanie zieleni wysokiej ze wskazaniem pomników przyrody,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "usytuowanie innych obiektów i szczegółów wskazanych przez projektanta, zgodnie z celem wykonywanej pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Skalę map do celów projektowych należy dostosować do rodzaju i wielkości obiektu lub całego zamierzenia budowlanego, przy czym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "skala map działek budowlanych nie powinna być mniejsza niż 1:500,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "skala map zespołów obiektów budowlanych oraz terenów budownictwa przemysłowego nie może być mniejsza niż 1:1000,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "skala map rozległych terenów z obiektami budowlanymi o dużym rozproszeniu oraz obiektami liniowymi może wynosić 1:2000.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wielkość obszaru, o którym mowa w §5, oraz skalę map do celów projektowych dla danej inwestycji określa w razie potrzeby organ właściwy do wydania pozwolenia na budowę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przy opracowywaniu projektu budowlanego dotyczącego remontu obiektu zabytkowego wykonawca prac geodezyjnych, na wniosek projektanta, sporządza inwentaryzację architektoniczno-budowlaną remontowanego obiektu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Inwentaryzacja, o której mowa w ust. 1, powinna zawierać dokumentację opisową, pomiarowo-kartograficzną, fotograficzną i fotogrametryczną, umożliwiającą w sposób jednoznaczny, z wymaganą dla charakteru planowanych prac dokładnością, odtworzyć geometrię układu przestrzennego oraz detali architektonicznych i budowlanych danego obiektu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Geodezyjne wyznaczanie obiektów budowlanych w terenie"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Projekt zagospodarowania działki lub terenu należy opracować geodezyjnie, w celu określenia danych liczbowych potrzebnych do wytyczenia w terenie położenia poszczególnych elementów projektowanych obiektów budowlanych. W szczególności dane te powinny dotyczyć: punktów głównych budowli, przebiegu osi, linii rozgraniczających, linii zabudowy, usytuowania obiektów budowlanych, jak również projektowanego ukształtowania terenu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Opracowanie geodezyjne projektu zagospodarowania działki lub terenu należy opierać na osnowie geodezyjnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "W wypadku, o którym mowa w § 4 ust. 3, dane liczbowe potrzebne do wytyczenia mogą być wyznaczone tylko w stosunku do trwałych szczegółów sytuacyjnych uwidocznionych na mapie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Sposób i tryb ochrony znaków geodezyjnych regulują odrębne przepisy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Geodezyjne wytyczenie obiektów budowlanych w terenie służy przestrzennemu usytuowaniu tych obiektów zgodnie z projektem budowlanym, a w szczególności zachowaniu przewidzianego w projekcie położenia wyznaczanych obiektów względem obiektów istniejących i wznoszonych oraz względem granic nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Wytyczeniu w terenie i utrwaleniu na gruncie, zgodnie z wymaganiami projektu budowlanego, podlegają geodezyjne elementy określające usytuowanie w poziomie oraz posadowienie wysokościowe budowanych obiektów, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "główne osie obiektów budowlanych naziemnych i podziemnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "charakterystyczne punkty projektowanego obiektu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "stałe punkty wysokościowe — repery.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wykonawca prac geodezyjnych stwierdza wykonanie czynności, o których mowa w § 10, przez dokonanie odpowiedniego wpisu w dzienniku budowy.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Czynności geodezyjne w toku budowy"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Czynności geodezyjne w toku budowy obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "geodezyjną obsługę budowy i montażu obiektu budowlanego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "pomiary przemieszczeń obiektu i jego podłoża oraz pomiary odkształceń obiektu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "geodezyjną inwentaryzację powykonawczą obiektów lub elementów obiektów, o których mowa w art. 43 ust. 3 ustawy — Prawo budowlane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Czynności określone w ust. 1 pkt 1 i 2 wykonuje się, jeżeli są one przewidziane w projekcie budowlanym lub na wniosek uczestnika procesu budowlanego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Geodezyjna obsługa budowy i montażu obiektu budowlanego obejmuje tyczenie i pomiary kontrolne tych elementów obiektu, których dokładność usytuowania bez pomiarów geodezyjnych nie zapewni prawidłowego wykonania obiektu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W celu zapewnienia bezpieczeństwa budowy obiektu budowlanego oraz bezpieczeństwa jego utrzymywania wykonuje się czynności geodezyjne związane z geodezyjnym wyznaczeniem przemieszczeń obiektu i jego podłoża oraz pomiary odkształceń obiektu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Wykonanie czynności geodezyjnych, o których mowa w § 12, wykonawca prac geodezyjnych potwierdza wpisem do dziennika budowy lub montażu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Wykonawca prac geodezyjnych przekazuje kierownikowi budowy kopie szkiców tyczenia i kontroli położenia poszczególnych elementów obiektu budowlanego, zawierające dane geodezyjne umożliwiające wznowienie lub kontrolę wyznaczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W razie stwierdzenia rozbieżności między wynikami pomiarów a ustaleniami projektu budowlanego, fakt ten należy odnotować w dzienniku budowy lub dzienniku montażu oraz udokumentować szkicami.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Czynności geodezyjne po zakończeniu budowy"
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Po zakończeniu budowy poszczególnych obiektów budowlanych należy sporządzić geodezyjną inwentaryzację powykonawczą w celu zebrania aktualnych danych o przestrzennym rozmieszczeniu elementów zagospodarowania działki lub terenu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Po zakończeniu prac budowlanych, a przed oddaniem obiektu do użytkowania, należy wykonać pomiar stanu wyjściowego obiektów wymagających w trakcie użytkowania okresowego badania przemieszczeń i odkształceń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Okresowe pomiary geodezyjne przemieszczeń i odkształceń wykonuje się, jeżeli pomiary takie przewiduje projekt budowlany lub na wniosek zainteresowanego podmiotu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Geodezyjna dokumentacja powykonawcza"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Operat geodezyjny wchodzący w skład dokumentacji budowy powinien zawierać dokumentację geodezyjną sporządzoną na poszczególnych etapach budowy, a w szczególności szkice tyczenia i kontroli położenia poszczególnych elementów obiektu budowlanego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "W wypadku pomiaru przemieszczeń i odkształceń obiektu lub jego podłoża, do dokumentacji budowy należy dołączyć operat z tych pomiarów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Dokumentacja geodezyjno-kartograficzna, sporządzona w wyniku geodezyjnej inwentaryzacji powykonawczej, powinna zawierać dane umożliwiające wniesienie zmian na mapę zasadniczą, do ewidencji gruntów i budynków oraz do ewidencji sieci uzbrojenia terenu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Wykonawca prac geodezyjnych przekazuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_21/pkt_1",
+     "text": "do ośrodka dokumentacji geodezyjnej i kartograficznej oryginał dokumentacji, o której mowa w § 20, w formie i zakresie przewidzianym odrębnymi przepisami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_21/pkt_2",
+     "text": "kierownikowi budowy kopię mapy powstałej w wyniku geodezyjnej inwentaryzacji powykonawczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepisy końcowe"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Traci moc rozporządzenie Ministra Gospodarki Terenowej i Ochrony Środowiska z dnia 20 lutego 1975 r. w sprawie rodzajów i zakresu opracowań geodezyjno-kartograficznych i czynności geodezyjnych obowiązujących w budownictwie (Dz. U. Nr 8, poz. 47).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Przestrzennej i Budownictwa: B. Blida"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

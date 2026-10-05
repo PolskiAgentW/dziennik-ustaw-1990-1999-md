@@ -1,0 +1,44 @@
+{
+ "eli": "DU/1995/785",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 15 grudnia 1995 r. w sprawie wysokości opłaty od kasacji w sprawach karnych.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/785/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 15 grudnia 1995 r. w sprawie wysokości opłaty od kasacji w sprawach karnych. Na podstawie art. 465 8 1 Kodeksu postępowania karnego zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Opłatę od kasacji ustala się na kwotę:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "500 zt w sprawie, w której w pierwszej instancji orzeczenie wydat sąd wojewódzki. 8 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1996 r.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "300 zł w sprawie, w której w pierwszej instancji orzeczenie wydał sąd rejonowy,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: J. Jaskiernia"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
