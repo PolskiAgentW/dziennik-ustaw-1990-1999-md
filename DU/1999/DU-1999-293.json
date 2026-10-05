@@ -1,0 +1,180 @@
+{
+ "eli": "DU/1999/293",
+ "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 12 marca 1999 r. w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/293/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SOCJALNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 marca 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowego zakresu danych zawartych w centralnych rejestrach prowadzonych przez Zakład Ubezpieczeń Społecznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 26, poz. 228) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Centralny Rejestr Ubezpieczonych, o którym mowa w art. 33 ust. 1 pkt 3 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. Nr 137, poz. 887 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 26, poz. 228), zwanej dalej ustawą, zawiera następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "dane dotyczące ubezpieczonego: PESEL, NIP, rodzaj dokumentu, o którym mowa w art. 33 ust. 2 ustawy, i numer tego dokumentu, nazwisko, pierwsze i drugie imię, data urodzenia, nazwisko rodowe, obywatelstwo, płeć, a w przypadku cudzoziemców — posiadanie karty stałego lub czasowego pobytu albo statusu uchodźcy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "dane adresowe odpowiednio do zameldowania, zamieszkania, do korespondencji: kod pocztowy, miejscowość, gmina, powiat, województwo, ulica, numer domu, numer lokalu, skrytka pocztowa, a także inne formy kontaktu: numer telefonu, numer faksu, adres poczty elektronicznej, a dla celów wypłaty świadczeń — konto bankowe ubezpieczonego i numer rachunku ubezpieczonego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "dane dotyczące podlegania ubezpieczeniu: tytuł ubezpieczenia, rodzaj ubezpieczenia, data objęcia ubezpieczeniem, data wyrejestrowania z ubezpieczenia, stopień pokrewieństwa/powinowactwa z pracodawcą/zleceniodawcą, pozostawanie we wspólnym gospodarstwie domowym z pracodawcą/zleceniodawcą, praca w szczególnych warunkach/szczególnym charakterze, wykonywany zawód, wykształcenie, wymiar czasu pracy, stanowiska pracy górniczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "stopień niepełnosprawności: stopień niepełnosprawności i okres, na jaki został orzeczony, stopień niezdolności do pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Centralny Rejestr Płatników Składek, o którym mowa w art. 33 ust. 1 pkt 4 ustawy, zawiera następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "dane płatnika składek: NIP, REGON, PESEL, nazwa skrócona, rodzaj dowodu tożsamości i jego numer, nazwisko, pierwsze i drugie imię, data i miejsce urodzenia, obywatelstwo, nazwa/firma zgodna z aktem konstytucyjnym podmiotu, nazwa organu założycielskiego, rodzaj uprawnienia do prowadzenia działalności, numer uprawnienia do prowadzenia działalności, nazwa organu rejestrowego/ewi-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "dencyjnego wydającego uprawnienia, data wpisu do rejestru — ewidencji/ wydania uprawnienia, numer wpisu do rejestru/uprawnienia, data rozpoczęcia wykonywania działalności, data powstania obowiązku opłacania składek na ubezpieczenia społeczne, przyczyna wyrejestrowania, data wyrejestrowania, numery rachunków bankowych płatnika,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "dane adresowe: typ adresu (siedziby, zamieszkania, do korespondencji) oraz kod pocztowy, miejscowość, gmina, powiat, województwo, ulica, numer domu, numer lokalu, skrytka pocztowa, a także inne formy kontaktu: numer telefonu, numer faksu, adres poczty elektronicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "dane o biurze rachunkowym: NIP, REGON, nazwa skrócona,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "szczególny status zakładu: status zakładu pracy chronionej/aktywności zawodowej oraz daty otrzymania i utraty tego statusu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Centralny Rejestr Członków Otwartych Funduszy Emerytalnych, o którym mowa w art. 33 ust. 1 pkt5 ustawy, zawiera następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "dane członka funduszu: PESEL, NIP, rodzaj dowodu tożsamości, numer dowodu tożsamości, nazwisko, imię pierwsze i drugie, data urodzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "informacje o członkostwie w otwartym funduszu emerytalnym, zwanym dalej OFE: data i godzina zawarcia umowy z OFE, sposób zawarcia umowy z OFE, data wyrejestrowania z OFE, identyfikator OFE.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Centralny Rejestr Otrzymujących Emerytury z Zakładów Emerytalnych, o którym mowa w art. 33 ust. 1 pkt 6 ustawy, zawiera odpowiednie dane określone w § 3 oraz dane dotyczące świadczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Prowadzony przez Zakład Ubezpieczeń Społecznych na podstawie art. 35 ust. 1 pkt 7 ustawy Centralny Rejestr Członków Rodziny Ubezpieczonych Uprawnionych do Ubezpieczenia Zdrowotnego, który łącznie z rejestrem wymienionym w § 1 służy do współpracy określonej odrębnymi przepisami z Kasami Chorych, zawiera następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "dane identyfikacyjne członka rodziny i przebieg ubezpieczenia: PESEL, rodzaj i numer dokumentu, nazwisko, pierwsze imię, stopień pokrewieństwa z ubezpieczonym, stopień niepełnosprawności, pozostawanie we wspólnym gospodarstwie domowym z osobą ubezpieczoną, pozostawanie na wyłącznym utrzymaniu ubezpieczonego, data uzyskania/utraty uprawnień do ubezpieczenia zdrowotnego przez członka rodziny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "adres zamieszkania członka rodziny: kod pocztowy, miejscowość, gmina, powiat, województwo, ulica, numer domu, numer lokalu, a także inne formy kontaktu: numer telefonu, numer faksu, adres poczty elektronicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "członkostwo w Kasach Chorych: identyfikator Kasy Chorych, data przystąpienia do Kasy, data wystąpienia z Kasy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy i Polityki Socjalnej: L. Komołowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

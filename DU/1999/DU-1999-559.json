@@ -1,0 +1,1154 @@
+{
+ "eli": "DU/1999/559",
+ "title": "Rozporządzenie Ministra Finansów z dnia 31 maja 1999 r. w sprawie szczególnych zasad rachunkowości funduszy emerytalnych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/559/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 maja 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczególnych zasad rachunkowości funduszy emerytalnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 81 ust. 3 pkt 5 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014 oraz z 1999 r. Nr 9, poz. 75) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "szczególne zasady rachunkowości funduszy emerytalnych,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzory bilansu, rachunku zysków i strat, informacji dodatkowej i innych składników sprawozdania finansowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "terminy sporządzania i złożenia do ogłoszenia rocznych sprawozdań finansowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "zakres ogłaszanych rocznych sprawozdań finansowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "termin zatwierdzania rocznego sprawozdania finansowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu pojęcia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawa o funduszach emerytalnych — ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934 oraz z 1998 r. Nr 98, poz. 610, Nr 106, poz. 668 i Nr 162, poz. 1118),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "ustawa o rachunkowości — ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014 oraz z 1999 r. Nr 9, poz. 75),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "rozporządzenie Rady Ministrów — rozporządzenie Rady Ministrów z dnia 23 czerwca 1998 r. w sprawie szczegółowych zasad wyceny aktywów i zobowiązań funduszy emerytalnych (Dz. U. Nr 89, poz. 561),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "powszechne towarzystwo — powszechne towarzystwo emerytalne w rozumieniu art. 8 pkt 8 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "towarzystwo — powszechne towarzystwo oraz pracownicze towarzystwo emerytalne w rozumieniu art. 8 pkt 9 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "otwarty fundusz — otwarty fundusz emerytalny w rozumieniu art. 8 pkt 5 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "fundusz — otwarty fundusz oraz pracowniczy fundusz emerytalny w rozumieniu art. 8 pkt 6 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "członek funduszu — osobę fizyczną, o której mowa w art. 8 pkt 2 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "depozytariusz — podmiot określony w art. 158 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "statut funduszu — statut, o którym mowa w art. 13 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "rejestr członków funduszu — rejestr, o którym mowa w art. 89 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "kapitał funduszu — kapitał utworzony ze:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_12/lit_a",
+       "text": "składek członków funduszu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_12/lit_b",
+       "text": "środków przypadających byłemu małżonkowi członka funduszu, zgodnie z art. 126 i 128 ustawy o funduszach emerytalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_12/lit_c",
+       "text": "środków przypadających małżonkowi członka funduszu, zgodnie z art. 129 ustawy o funduszach emerytalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_12/lit_d",
+       "text": "środków przypadających małżonkowi zmarłego członka funduszu, zgodnie z art. 131 ust. 1 ustawy o funduszach emerytalnych, oraz osobom wskazanym przez zmarłego członka funduszu lub członkom jego najbliższej rodziny, zgodnie z art. 132 ustawy o funduszach emerytalnych,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "kapitał rezerwowy otwartego funduszu — kapitał utworzony ze środków powszechnego towarzystwa, zgodnie z zasadami określonymi w art. 181 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "rynek regulowany — system obrotu papierami wartościowymi, o którym mowa w art. 4 pkt 14 ustawy z dnia 21 sierpnia 1997 r. — Prawo o publicznym obrocie papierami wartościowymi (Dz. U. Nr 118, poz. 754 i Nr 141, poz. 945 oraz z 1998 r. Nr 107, poz. 669 i Nr 113, poz. 715),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "jednostka rozrachunkowa — wartość, o której mowa w art. 99 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "aktywa — aktywa, o których mowa w art. 6 ust. 1 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "wartość aktywów netto — wartość aktywów, ustaloną w sposób, o którym mowa w art. 6 ust. 2 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "wartość aktywów netto na jednostkę rozrachunkową — wartość aktywów netto, podzieloną przez liczbę jednostek rozrachunkowych w dniu wyceny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_2/pkt_19",
+     "text": "składniki portfela inwestycyjnego — wszystkie kategorie lokat, wymienione w art. 141 ust. 1 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_2/pkt_20",
+     "text": "cena nabycia — wartość nabycia składnika aktywów wraz z prowizją maklerską i innymi opłatami, z wyłączeniem opłat dla depozytariusza,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_2/pkt_21",
+     "text": "zrealizowany zysk/strata z inwestycji — różnicę między ceną sprzedaży netto a ceną nabycia danego składnika portfela inwestycyjnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_2/pkt_22",
+     "text": "nie zrealizowany zysk/strata z wyceny składników portfela inwestycyjnego — różnicę między wartością danego składnika portfela inwestycyjnego w dniu wyceny a ceną jego nabycia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_2/pkt_23",
+     "text": "dzień wpłaty — dzień zasilenia rachunku pieniężnego funduszu środkami przekazanymi za członków funduszu, na których rzecz wpłaty bądź transfery są dokonywane,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_2/pkt_24",
+     "text": "dzień wyceny — dzień ustalenia wartości aktywów netto, o którym mowa w art. 168 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_2/pkt_25",
+     "text": "dzień przeliczenia — dzień, o którym mowa w art. 100 ust. 1 i 2 ustawy o funduszach emerytalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_2/pkt_26",
+     "text": "dzień bilansowy — ostatni dzień roku kalendarzo-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "wego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rachunkowość funduszu obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "opis przyjętych zasad rachunkowości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "prowadzenie ksiąg rachunkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wycenę aktywów i zobowiązań oraz ustalanie wyniku finansowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "obliczanie wartości aktywów netto oraz aktywów netto na jednostkę rozrachunkową,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "sporządzanie sprawozdań finansowych i innych informacji na podstawie ksiąg rachunkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "poddawanie sprawozdania finansowego funduszu badaniu przez biegłego rewidenta,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "ogłaszanie sprawozdań finansowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "gromadzenie i przechowywanie dokumentów i danych, w tym w postaci elektronicznej, w zakresie przewidzianym przez przepisy regulujące zasady rachunkowości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "inwentaryzację.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rokiem obrotowym funduszu jest rok kalenda-",
+   "children": [
+    {
+     "type": "text",
+     "text": "rzowy."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Kopię dokumentacji dotyczącej rachunkowości funduszu, o której mowa w art. 10 ustawy o rachunkowości, fundusz przekazuje Urzędowi Nadzoru nad Funduszami Emerytalnymi i depozytariuszowi.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Prowadzenie ksiąg rachunkowych"
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Księgi rachunkowe funduszu prowadzi się na terytorium Rzeczypospolitej Polskiej w języku polskim i w walucie polskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W przypadku gdy towarzystwo zarządza więcej niż jednym funduszem, księgi rachunkowe dla każdego funduszu są prowadzone odrębnie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Księgi rachunkowe funduszu obejmują w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "konta księgi głównej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "konta ksiąg pomocniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "rejestr członków funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "zestawienia analityczne aktywów i zobowiązań,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "zestawienia analityczne rozliczeń międzyokresowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Podstawą ustalenia wartości aktywów netto funduszu na dzień wyceny oraz dzień bilansowy są księgi rachunkowe funduszu prowadzone rzetelnie, bezbłędnie, sprawdzalnie i na bieżąco.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Towarzystwo, działając jako organ funduszu, prowadzi księgi rachunkowe funduszu w taki sposób, aby było możliwe ustalenie wartości aktywów netto na każdy dzień wyceny oraz dzień bilansowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Podstawą zapisów w księgach rachunkowych funduszu są dowody księgowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Każdy dowód księgowy powinien zawierać co najmniej dane określone w art. 21 ustawy o rachunkowości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "W uzasadnionych przypadkach dopuszcza się zastąpienie dowodu księgowego kopią (fotokopią dowodu księgowego, kserokopią dowodu księgowego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Kopia powinna być opatrzona adnotacją „kopia” oraz uwierzytelniona poprzez zamieszczenie klauzuli „za zgodność z oryginałem” i podpis osoby stwierdzającej zgodność. Na kopii należy umieścić datę jej sporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Ujmowanie w księgach rachunkowych operacji dotyczących funduszu"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Wpłaty dokonywane na rzecz członków funduszu są ujmowane w dniu otrzymania na odrębnym rachunku pieniężnym. Środki otrzymane od wpłacającego należne członkom funduszu są przeliczane na jednostki rozrachunkowe, w następnym dniu roboczym (z wyłączeniem sobót) po otrzymaniu wpłaty na rachunek pieniężny, według wartości z dnia wpłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Jednostki rozrachunkowe są podawane z dokładnością do czterech miejsc po przecinku i zaokrąglane na zasadach ogólnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Środki wpłacone, których nie można przyporządkować konkretnym członkom funduszu, po wyjaśnieniu, którego członka funduszu dotyczą, są przeliczane na jednostki rozrachunkowe według ceny z dnia, w którym zostały przyporządkowane. Jeżeli w ciągu 5 dni roboczych od dnia wpłaty środki nie zostaną przyporządkowane konkretnemu członkowi funduszu, są one traktowane jako środki wpłacone za osoby nie będące członkami funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Środki wpłacone za osoby nie będące członkami funduszu są zwracane wpłacającemu w ciągu 5 dni roboczych od dnia wpłaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Zmniejszenie kapitału funduszu jest ujmowane w księgach rachunkowych w dniu następnym po przeliczeniu środków do wypłaty, według wartości jednostki rozrachunkowej obowiązującej w ostatnim dniu wyceny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Przeliczenie, o którym mowa w ust. 1, jest wykonywane nie wcześniej niż 5 dni przed wypłatą środków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Operacje dotyczące transakcji zawartych przez fundusz ujmuje się w księgach rachunkowych w dniu następnym po dniu zawarcia transakcji, po uzyskaniu dowodu księgowego potwierdzającego ich dokonanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Środki pieniężne otrzymane od powszechnego towarzystwa z tytułu wpłat na rachunek rezerwowy są przeliczane na jednostki rozrachunkowe na tych samych zasadach, co środki wpłacane na rzecz członków otwartego funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Do dnia otrzymania wpłaty na rachunek rezerwowy środki należne od powszechnego towarzystwa ujmuje się jako należności od powszechnego towarzystwa oraz wykazuje jako zobowiązanie z tytułu nie przeliczonych jednostek rozrachunkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Nabyte składniki portfela inwestycyjnego ujmuje się w księgach rachunkowych według ceny nabycia.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Składniki portfela inwestycyjnego nabyte nieodpłatnie posiadają cenę nabycia równą zero.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "W przypadku dłużnych papierów wartościowych z naliczanymi odsetkami wartość odsetek ujmuje się w księgach rachunkowych jako należności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Zmianę wartości nominalnej nabytych akcji, nie powodującą zmiany wysokości kapitału akcyjnego emitenta, ujmuje się w zestawieniach analitycznych, w których są dokonywane zmiany liczby posiadanych akcji oraz jednostkowej ceny nabycia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Składniki portfela inwestycyjnego jednakowe bądź uznawane za jednakowe ze względu na rodzaj i emitenta są wyceniane zgodnie z metodą polegającą na przypisaniu sprzedanym składnikom najwyższej ceny nabycia danego składnika portfela inwestycyjnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Przysługujące, zgodnie z uchwałą walnego zgromadzenia emitenta akcji, prawo poboru akcji notowanych na rynku regulowanym ujmuje się w księgach rachunkowych w dniu następnym po dniu, w którym po raz ostatni akcje dające to prawo byty notowane z prawem poboru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Nie wykonane prawo poboru akcji umarza się według ceny nabycia w dniu następnym, po dniu jego wygaśnięcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Należną dywidendę z akcji notowanych na rynku regulowanym ujmuje się w księgach rachunkowych w dniu następnym po dniu, w którym po raz ostatni akcje były notowane na rynku regulowanym tącznie z prawem do dywidendy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Przysługujące, zgodnie z uchwałą walnego zgromadzenia emitenta akcji, prawo poboru akcji nie notowanych na rynkach regulowanych oraz prawo do otrzymania dywidendy od akcji nie notowanych na rynkach regulowanych ujmuje się w księgach rachunkowych w dniu następnym po dniu ustalenia tych praw.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Na dzień wyceny aktywa wyrażone w walutach obcych ujmuje się w księgach rachunkowych po przeliczeniu na walutę polską według obowiązującego w dniu wyceny średniego kursu ogłaszanego dla danej waluty przez Narodowy Bank Polski.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Wartość aktywów funduszu wyrażoną w walutach, dla których Narodowy Bank Polski nie ogłasza średniego kursu, określa się w stosunku do wybranej przez fundusz waluty, dla której średni kurs jest ogłaszany przez Narodowy Bank Polski.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Nie zrealizowane różnice kursowe powstałe w związku z wyceną składników portfela inwestycyjnego zalicza się do nie zrealizowanego zysku/straty z wyceny składników portfela inwestycyjnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Przychody z inwestycji obejmują w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "należne dywidendy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "odpisy dyskonta od dłużnych papierów wartościowych nie notowanych na rynku regulowanym, nabytych poniżej wartości nominalnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_23/pkt_3",
+     "text": "odsetki,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_23/pkt_4",
+     "text": "zrealizowane dodatnie różnice kursowe, związane z wyceną pozycji bilansowych innych niż określone w § 22.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Koszty operacyjne funduszu obejmują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "koszty związane z przechowywaniem aktywów funduszu, stanowiące równowartość wynagrodzenia depozytariusza,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "ustalone w statucie funduszu koszty zarządzania funduszem przez towarzystwo,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_24/pkt_3",
+     "text": "amortyzację premii od dłużnych papierów wartościowych nabytych powyżej wartości nominalnej, nie notowanych na rynku regulowanym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_24/pkt_4",
+     "text": "odsetki od zaciągniętych kredytów i pożyczek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_24/pkt_5",
+     "text": "zrealizowane ujemne różnice kursowe, związane z wyceną pozycji bilansowych innych niż określone w § 22.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Koszty z tytułu wynagrodzenia towarzystwa i opłat dla depozytariusza są ujmowane jako bierne rozliczenia międzyokresowe kosztów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Zestawienie przewidywanych kosztów powinno zawierać pozycje w wysokości wynikającej ze statutu funduszu, ustalone na podstawie stawek okresowych, proporcjonalnie do częstotliwości ustalania wartości aktywów netto w dniach wyceny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Koszty odsetek z tytułu kredytów i pożyczek zaciągniętych przez fundusz są rozliczane w czasie z uwzględnieniem warunków spłaty kredytu lub pożyczki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Na dzień wyceny fundusz wycenia aktywa i zobowiązania funduszu zgodnie z przepisami rozporządzenia Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Sprawozdanie finansowe"
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Sprawozdania finansowe sporządza się na terytorium Rzeczypospolitej Polskiej w języku polskim i w walucie polskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Sprawozdanie finansowe funduszu sporządza się na dzień bilansowy, stosując zasady wyceny aktywów i zobowiązań funduszu, o których mowa w rozporządzeniu Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Na dzień bilansowy ustala się wynik finansowy funduszu, obejmujący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_31/pkt_1",
+     "text": "wynik z inwestycji, stanowiący różnicę między przychodami z inwestycji a kosztami operacyjnymi funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_31/pkt_2",
+     "text": "zrealizowany i nie zrealizowany zysk/stratę z wyceny składników portfela inwestycyjnego,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_31/pkt_3",
+     "text": "przychody z tytułu pokrycia niedoboru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Sprawozdanie finansowe funduszu sporządza się odrębnie od sprawozdania finansowego towarzystwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "W przypadku gdy towarzystwo zarządza więcej niż jednym funduszem, sprawozdanie finansowe sporządza się odrębnie dla każdego funduszu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Sprawozdanie finansowe funduszu sporządza się jako roczne sprawozdanie finansowe, obejmujące dane dotyczące bieżącego i poprzedniego roku obrotowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Sprawozdanie finansowe funduszu obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_34/ust_1/pkt_1",
+       "text": "wstęp,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_34/ust_1/pkt_2",
+       "text": "bilans,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_34/ust_1/pkt_3",
+       "text": "rachunek zysków i strat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_34/ust_1/pkt_4",
+       "text": "informację dodatkową, zawierającą zestawienie zmian w aktywach netto,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_34/ust_1/pkt_5",
+       "text": "zestawienie portfela inwestycyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Wstęp, o którym mowa w ust. 1 pkt 1, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_34/ust_2/pkt_1",
+       "text": "firmę, siedzibę i adres towarzystwa będącego organem funduszu ze wskazaniem rejestru, o którym mowa w art. 14 pkt 3 ustawy o funduszach emerytalnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_34/ust_2/pkt_2",
+       "text": "określenie okresu, za jaki sprawozdanie jest sporządzane,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_34/ust_2/pkt_3",
+       "text": "nazwę funduszu, cel inwestycyjny oraz stosowane ograniczenia inwestycyjne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_34/ust_2/pkt_4",
+       "text": "opis, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_34/ust_2/pkt_4/lit_a",
+         "text": "przyjęte zasady rachunkowości, dotyczące w szczególności ujmowania w księgach rachunkowych operacji dotyczących funduszu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_34/ust_2/pkt_4/lit_b",
+         "text": "przyjętą metodologię wyceny, o której mowa w § 12 rozporządzenia Rady Ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_34/ust_2/pkt_4/lit_c",
+         "text": "wprowadzone zmiany stosowanych zasad rachunkowości, w tym metody ujmowania operacji w księgach rachunkowych, metody wyceny, przy czym zmiany te powinny być opisane w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik finansowy funduszu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_34/ust_3",
+     "text": "Składniki bilansu wykazuje się w kolejności i w sposób określony w załączniku nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_34/ust_4",
+     "text": "Składniki rachunku zysków i strat wykazuje się w kolejności i w sposób określony w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_34/ust_5",
+     "text": "Informacja dodatkowa zawiera co najmniej dane określone w załączniku nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_34/ust_6",
+     "text": "Zestawienie portfela inwestycyjnego zawiera co najmniej dane określone w załączniku nr 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Do sprawozdania finansowego funduszu dołącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_35/pkt_1",
+     "text": "pisemną informację zarządu towarzystwa, skierowaną do członków funduszu, omawiającą w sposób zwięzły wyniki działania funduszu w okresie sprawozdawczym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_35/pkt_2",
+     "text": "oświadczenie depozytariusza o zgodności danych przedstawionych w sprawozdaniu finansowym funduszu ze stanem faktycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Sprawozdanie finansowe funduszu sporządza się w terminie 3 miesięcy od dnia bilansowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Uchwała walnego zgromadzenia akcjonariuszy towarzystwa w sprawie zatwierdzenia sprawozdania finansowego funduszu powinna być podjęta w terminie 4 miesięcy od dnia bilansowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Przed podjęciem uchwały, o której mowa w ust. 2, sprawozdanie finansowe funduszu podlega badaniu przez biegłego rewidenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_36/ust_4",
+     "text": "Do sprawozdania finansowego funduszu dotacza się opinię oraz raport z badania sporządzony przez biegłego rewidenta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Sprawozdanie finansowe funduszu wraz z opinią biegłego rewidenta oraz odpisem uchwały walnego zgromadzenia akcjonariuszy towarzystwa o zatwierdzeniu sprawozdania finansowego podlega ogłoszeniu, o którym mowa w art. 70 ust. 1 ustawy o rachunkowości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Złożenie do ogłoszenia rocznego sprawozdania finansowego funduszu następuje w ciągu 7 dni od dnia jego zatwierdzenia przez walne zgromadzenie akcjonariuszy towarzystwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych na dzień 31 grudnia 1999 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "W terminie 30 dni od dnia wejścia w życie rozporządzenia fundusze emerytalne są obowiązane dostosować rachunkowość do przepisów rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. J. Bauc"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

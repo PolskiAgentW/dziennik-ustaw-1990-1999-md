@@ -1,0 +1,1134 @@
+{
+ "eli": "DU/1999/453",
+ "title": "Rozporządzenie Ministrów Spraw Wewnętrznych i Administracji oraz Rolnictwa i Gospodarki Żywnościowej z dnia 14 kwietnia 1999 r. w sprawie rozgraniczania nieruchomości.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/453/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW SPRAW WEWNĘTRZNYCH I ADMINISTRACJI ORAZ ROLNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 kwietnia 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie rozgraniczania nieruchomości."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 32 ust. 6 ustawy z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741 i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126) zarządza się, co następuje:"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa rodzaje dokumentów stanowiących podstawę ustalania przebiegu granic oraz sposób i tryb wykonywania przez geodetę czynności ustalania przebiegu granic i sporządzania dokumentacji przy rozgraniczaniu nieruchomości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "właściwym organie — rozumie się przez to wójta, burmistrza, prezydenta miasta,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "geodecie — rozumie się przez to geodetę, o którym mowa w art. 31 ust. 1 ustawy z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163 i Nr 43, poz. 241, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775, z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741 i Nr 121, poz. 770 oraz z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "punktach granicznych — rozumie się przez to punkty określające przebieg granicy nieruchomości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "znaku granicznym — rozumie się przez to znak z trwałego materiału umieszczony w punkcie granicznym lub trwały element zagospodarowania terenu znajdujący się w tym punkcie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "tymczasowym utrwaleniu — rozumie się przez to jednoznaczne oznaczenie położenia punktu granicznego w terenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "stabilizacji — rozumie się przez to utrwalenie punktu granicznego przez umieszczenie w nim znaku granicznego lub jednoznaczne oznaczenie jego położenia na istniejącym trwałym elemencie zagospodarowania terenu usytuowanym na granicy nieruchomości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "operacie rozgraniczeniowym — rozumie się przez to zbiór dokumentów postępowania rozgraniczeniowego, składający się z dokumentacji rozgraniczenia nieruchomości i dokumentacji technicznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "ośrodku dokumentacji — rozumie się przez to właściwy miejscowo powiatowy ośrodek dokumentacji geodezyjnej i kartograficznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Rodzaje dokumentów stanowiących podstawę ustalania przebiegu granic"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Podstawę ustalania przebiegu granic nieruchomości stanowią dokumenty:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "stwierdzające stan prawny nieruchomości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "określające położenie punktów granicznych i przebieg granic nieruchomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Dokumentami, o których mowa w § 3 pkt 1, sa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "odpisy z ksiąg wieczystych lub odpisy dokumentów znajdujących się w zbiorze dokumentów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "wypisy aktów notarialnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "prawomocne orzeczenia sądu i ugody sądowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "ostateczne decyzje administracyjne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Dokumentami, o których mowa w § 3 pkt 2, są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "dokumenty geodezyjne zawierające dane liczbowe do ustalenia przebiegu granic:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_1/lit_a",
+         "text": "szkice graniczne, protokoty graniczne, akty ugody,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_1/lit_b",
+         "text": "zarysy pomiarowe z pomiaru granic,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_1/lit_c",
+         "text": "szkice wyznaczenia granic działek wydzielonych w wyniku scalenia, wymiany gruntów lub w wyniku podziału nieruchomości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_1/lit_d",
+         "text": "inne dokumenty pomiarowe, obliczeniowe i opisowe pozwalające na ustalenie przebiegu granic,",
+         "children": [
+          {
+           "type": "text",
+           "text": "2)w razie braku dokumentów, o których mowa w pkt 1, mapy i plany obejmujące granice albo inne elementy pozwalające na odtworzenie lub analizę przebiegu granic, w szczególności:"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_1/lit_a",
+         "text": "mapy jednostkowe nieruchomości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_1/lit_b",
+         "text": "mapy katastralne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_1/lit_c",
+         "text": "mapy scalenia i wymiany gruntów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_1/lit_d",
+         "text": "plany parcelacyjne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_1/lit_e",
+         "text": "mapa ewidencji gruntów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_5/ust_1/pkt_1/lit_f",
+         "text": "mapa zasadnicza.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dokumenty, o których mowa w ust. 1, stanowią podstawę ustalania przebiegu granic nieruchomości, jeżeli zostały przyjęte do państwowego zasobu geodezyjnego i kartograficznego, z uwzględnieniem § 6 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Za podstawę ustalania przebiegu granic nieruchomości mogą służyć uwierzytelnione przez ośrodek dokumentacji kopie, wyrysy, odrysy, wypisy lub odpisy dokumentów przyjętych do państwowego zasobu geodezyjnego i kartograficznego, jeżeli zawierają dane o ich rodzaju, dacie powstania i wykonawcy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Dokumenty nie znajdujące się w państwowym zasobie geodezyjnym i kartograficznym mogą stanowić podstawę ustalania przebiegu granic nieruchomości, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "stanowią całość lub część operatu pomiarowego lub katastralnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "zawierają podpis wykonawcy i datę sporządzenia dokumentu lub istnieje możliwość ustalenia wykonawcy i takiej daty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "można stwierdzić, że zostały one sporządzone w wyniku dokonania pomiarów na gruncie i użyte do opracowania mapy nieruchomości, której przebieg granic jest ustalany, lub nieruchomości bezpośrednio z nią sąsiadującej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "zostały sporządzone przez osoby i organy, których wykaz stanowi załącznik 1 do rozporządzenia.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Dokumenty, o których mowa w ust. 1, lub ich kopie, potwierdzone przez geodetę, podlegają włączeniu do operatu rozgraniczeniowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Jeżeli brak jest dokumentów, o których mowa w §5i6, za podstawę ustalenia przebiegu granic nieruchomości można przyjąć dokumenty określone w §4, jeżeli zawierają dane o przebiegu granicy.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Wykonywanie czynności ustalania przebiegu granic"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W toku prac przygotowawczych geodeta wykonuje następujące czynności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "zgłasza pracę geodezyjną w ośrodku dokumentacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "przeprowadza analizę informacji zawartych w dokumentach uzyskanych z państwowego zasobu geodezyjnego i kartograficznego oraz znajdujących się w księgach wieczystych, a także w dokumentacji uzyskanej od strony,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "sporządza, w razie potrzeby, szkic zawierający informacje o przebiegu granic, uzyskane w wyniku wcześniej wykonywanych pomiarów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "określa termin rozpoczęcia czynności ustalenia przebiegu granic i doręcza stronom wezwania do stawienia się na gruncie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W trakcie ustalania przebiegu granic na gruncie geodeta wykonuje następujące czynności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "sprawdza obecność i ustala tożsamość stron,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "przyjmuje pełnomocnictwa udzielone przez strony,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "przeprowadza wywiad terenowy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Jeżeli nie jest możliwe ustalenie osób uprawnionych do wystąpienia jako strona w postępowaniu rozgraniczeniowym, geodeta odracza wykonanie czynności ustalania przebiegu granic i zawiadamia o tym wiaściwy organ.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Podczas wywiadu terenowego geodeta odszukuje znaki graniczne, a także określa położenie przesuniętych, uszkodzonych lub zniszczonych znaków granicznych oraz punktów granicznych, jeżeli istnieją dokumenty pozwalające na określenie ich położenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Jeżeli przebieg granicy został ustalony na podstawie zebranych dowodów, geodeta wykonuje następujące czynności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "wskazuje stronom przebieg granicy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "stabilizuje punkty graniczne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "sporządza protokół graniczny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_11/pkt_4",
+     "text": "wykonuje pomiar granicy, a także trwałych elementów zagospodarowania terenu mających znaczenie dla określenia jej przebiegu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "W razie gdy ustalenia przebiegu granicy nie można wykonać na podstawie zebranych dowodów, geodeta przyjmuje oświadczenia stron dotyczące przebiegu granicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Jeżeli strony w zgodnych oświadczeniach wskazują przebieg granicy lub strona nie składająca oświadczenia nie kwestionuje jej przebiegu, geodeta wykonuje czynności, o których mowa w § 11 pkt 2—4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "W razie sporu co do przebiegu granicy, geodeta nakłania strony do zawarcia ugody. Podczas negocjacji geodeta przedstawia stronom wszystkie dowody i argumenty za proponowanym przebiegiem granicy, a także informuje, że w razie braku ugody do rozpatrzenia sprawy właściwy jest sąd.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Geodeta sporządza akt ugody, jeżeli doprowadzi do jej zawarcia. Akt ugody należy sporządzić oddzielnie dla każdej linii granicznej, która w całości lub na niektórych odcinkach byta sporna. Obejmuje ona wyłącznie sporne odcinki granicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Treść ugody nie może wykraczać poza przedmiot związany z rozgraniczeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Po sporządzeniu aktu ugody geodeta wykonuje czynności, o których mowa w § 11 pkt 2 i 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Jeżeli przebieg granicy nie może być ustalony na postawie zebranych dowodów lub zgodnego oświadczenia stron, a strony nie zawarty ugody, geodeta:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "wykonuje tymczasowe utrwalenie i pomiar granic:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/pkt_1/lit_a",
+       "text": "wskazanych przez strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_15/pkt_1/lit_b",
+       "text": "określonych na podstawie dokumentów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_15/pkt_1/lit_c",
+       "text": "przebiegających według ostatniego spokojnego stanu posiadania, a w razie braku możliwości jego określenia — zgodnie ze stanem istniejącym na gruncie,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "sporządza protokół graniczny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "opracowuje opinię dotyczącą przebiegu granic.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Dla ustalonych bezspornie punktów granicznych oraz znaków granicznych przesuniętych, uszkodzonych lub zniszczonych, których położenie zostało wznowione, należy wykonać stabilizację w obecności stron.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Punkty graniczne należy utrwalić znakami naziemnymi i podziemnymi. Znaki naziemne wykonuje się z betonu, kamienia naturalnego lub innego trwałego materiału. Jako znaki podziemne mogą być użyte rurki drenarskie, butelki, płytki betonowe lub inne podobne przedmioty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Na terenach o utwardzonej nawierzchni nie jest wymagane umieszczanie znaków podziemnych. Jako znaki naziemne mogą być użyte: rurki, pręty, bolce i inne podobne przedmioty wykonane z trwałego materiału.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Utrwalenie punktów granicznych palami drewnianymi wykonuje się jedynie na terenach grząskich i podmokłych. Pale powinny być zaimpregnowane.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Znaki graniczne umieszcza się w odległości dobrej widoczności z punktu na punkt, w odstępach nie większych niż 200 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "W przypadku granic naturalnych, nieregularnych, znaki graniczne osadza się w głównych punktach załamania granicy lub w ich pobliżu, z podaniem danych pozwalających na wyznaczenie wszystkich punktów granicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Dokumentacja rozgraniczenia nieruchomości i dokumentacja techniczna"
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Dokumentacja rozgraniczenia nieruchomości obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "postanowienie właściwego organu o wszczęciu postępowania rozgraniczeniowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_19/pkt_2",
+     "text": "upoważnienie geodety do przeprowadzenia czynności ustalenia przebiegu granic,",
+     "children": [
+      {
+       "type": "text",
+       "text": "3)zgłoszenie pracy geodezyjnej do ośrodka dokumentacji,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_19/pkt_4",
+     "text": "dowody doręczenia stronom wezwań do stawienia się na gruncie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_19/pkt_5",
+     "text": "pisemne pełnomocnictwa udzielone przez strony,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_19/pkt_6",
+     "text": "dokumenty dotyczące przebiegu granic, wydane przez ośrodek dokumentacji oraz uzyskane z innych źródeł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_19/pkt_7",
+     "text": "protokół graniczny lub akt ugody,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_19/pkt_8",
+     "text": "opinię geodety dotyczącą przebiegu granic, jeżeli ich przebieg nie może być ustalony w postępowaniu administracyjnym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_19/pkt_9",
+     "text": "ostateczną decyzję właściwego organu o rozgraniczeniu nieruchomości lub umorzeniu postępowania rozgraniczeniowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Protokół graniczny powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_20/ust_1/pkt_1",
+       "text": "imię i nazwisko geodety oraz numer jego uprawnień zawodowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_20/ust_1/pkt_2",
+       "text": "numer i datę postanowienia o wszczęciu postępowania rozgraniczeniowego oraz upoważnienia dla geodety,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_20/ust_1/pkt_3",
+       "text": "oznaczenia nieruchomości przez określenie ich położenia, numerów działek ewidencyjnych, numerów ksiąg wieczystych lub zbiorów dokumentów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_20/ust_1/pkt_4",
+       "text": "informacje dotyczące stron i ich pełnomocników,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_20/ust_1/pkt_5",
+       "text": "wykaz i ocenę dokumentów stanowiących podstawę ustalania przebiegu granic,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_20/ust_1/pkt_6",
+       "text": "oświadczenia stron,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_20/ust_1/pkt_7",
+       "text": "wyniki wywiadu terenowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_20/ust_1/pkt_8",
+       "text": "szkic graniczny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_20/ust_1/pkt_9",
+       "text": "opis przebiegu granic,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_20/ust_1/pkt_10",
+       "text": "opis utrwalenia punktów granicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_20/ust_1/pkt_11",
+       "text": "pouczenie strony o możliwości przekazania sprawy sądowi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_20/ust_1/pkt_12",
+       "text": "wzmiankę o odczytaniu dokumentu stronom przed podpisaniem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_20/ust_1/pkt_13",
+       "text": "omówienie skreśleń i poprawek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_20/ust_1/pkt_14",
+       "text": "datę sporządzenia dokumentu oraz podpisy stron i geodety.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Protokół graniczny sporządza się według wzoru stanowiącego załącznik nr 2 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Akt ugody powinien zawierać dane, o których mowa w § 20 ust. 1 pkt 1—4, 8, 10 i 12—14, a ponadto:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "opis przedmiotu sporu z podaniem granic wskazanych przez strony oraz wynikających z dokumentacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "opis wzajemnych ustępstw,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "szczegółowy opis granicy uznanej za obowiązującą po podpisaniu aktu ugody,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_1/pkt_4",
+       "text": "informację, że zawarta ugoda posiada moc ugody sądowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Akt ugody sporządza się według wzoru stanowiącego załącznik nr 3 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Szkic graniczny powinien zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "rozmieszczenie linii i punktów granicznych, oznaczonych zgodnie z opisem znajdującym się w protokole granicznym lub akcie ugody,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "rysunek rzutu poziomego trwałych elementów zagospodarowania terenu mających znaczenie dla określenia przebiegu granicy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_22/pkt_3",
+     "text": "podstawowe miary określające położenie punktów granicznych względem siebie oraz elementów zagospodarowania terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_22/pkt_4",
+     "text": "numery działek i oznaczenie ksiąg wieczystych, w których działki te zostały ujęte, lub zbiorów dokumentów oraz imiona i nazwiska właścicieli rozgraniczanych nieruchomości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_22/pkt_5",
+     "text": "kierunek północy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Opinia sporządzana przez geodetę powinna zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "ocenę prawidłowości przebiegu granic wskazanych przez strony, określonych na podstawie dokumentów, przebiegających według ostatniego spokojnego stanu posiadania lub istniejących na gruncie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "opis proponowanego przez geodetę przebiegu granicy, wraz z uzasadnieniem jej przebiegu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Dokumentacja techniczna zawiera:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "szkice osnowy geodezyjnej i wykazy współrzędnych uzyskane w ośrodku dokumentacji,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "opisy topograficzne punktów osnowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_24/pkt_3",
+     "text": "szkice polowe i dzienniki zawierające dane uzyskane w wyniku bezpośredniego pomiaru granic,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_24/pkt_4",
+     "text": "obliczenia i wykazy współrzędnych punktów granicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_24/pkt_5",
+     "text": "obliczenia powierzchni rozgraniczonych nieruchomości lub obliczenia różnic powierzchni, w wypadku gdy rozgraniczenie dotyczyło niektórych granic nieruchomości, a pozostałe granice nie byty pomierzone na osnowę geodezyjną,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_24/pkt_6",
+     "text": "wykaz zmian gruntowych oraz inne dokumenty uzasadniające wprowadzenie zmian do operatu ewidencji gruntów i budynków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy końcowe"
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Traci moc zarządzenie Ministrów Gospodarki Przestrzennej i Budownictwa oraz Rolnictwa i Gospodarki Żywnościowej z dnia 5 sierpnia 1996 r. w sprawie rozgraniczania nieruchomości (Monitor Polski Nr 50, poz. 469).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: J. Tomaszewski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Gospodarki Żywnościowej: A.K. Balazs"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministrów Spraw Wewnętrznych i Administracji oraz Rolnictwa i Gospodarki Żywnościowej z dnia 14 kwietnia 1999 r. (poz. 453) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ OSÓB I ORGANÓW UPRAWNIONYCH DO SPORZĄDZANIA DOKUMENTÓW MOGĄCYCH STANOWIĆ PODSTAWĘ DO USTALENIA PRZEBIEGU GRANIC NIERUCHOMOŚCI, A NIE ZNAJDUJĄCYCH SIĘ W PAŃSTWOWYM ZASOBIE GEODEZYJNYM I KARTOGRAFICZNYM"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Główny Urząd Pomiarów Kraju i organy mu podlegie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "organy pomiarowe władz ziemskich, które dokonały pomiarów na mocy przepisów o przebudowie ustroju rolnego do 17 maja 1952 r.,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "byłe urzędy katastralne lub dawne organy katastru urzędów skarbowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "organy pomiarowe przedsiębiorstwa „Polskie Koleje Państwowe” dokonujące pomiarów na mocy rozporządzenia Prezydenta Rzeczypospolitej z dnia 25 września 1932 r. o wpisywaniu do ksiąg hipotecznych na rzecz Skarbu Państwa prawa własności nieruchomości państwowych, będących w zarządzie przedsiębiorstwa „Polskie Koleje Państwowe” (Dz. U. Nr 81, poz. 714),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "osoby wymienione w art. 18 8 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 września 1934 r. — Prawo o postępowaniu wywtaszczeniowym (Dz. U. Nr 86, poz. 776 i z 1939 r. Nr 31, poz. 205),",
+     "children": [
+      {
+       "type": "text",
+       "text": "6)organy pomiarowe Ministerstw: Komunikacji, Przemysłu i Handlu, Rolnictwa i Reform Rolnych, Leśnictwa oraz Żeglugi, wykonujące pomiary stosowane i posiadające uprawnienia z mocy przepisów rozporządzenia Prezesa Rady Ministrów z dnia 5 czerwca 1946 r. o uwierzytelnianiu planów i dokumentów mierniczych (Dz. U. Nr 26, poz. 167),"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "mierniczowie górniczy, którzy dokonali pomiarów w zakresic objętym przepisami prawa górniczego (Dz. U. z 1930 r. Nr 85, poz. 654, z 1938 r. Nr 91, poz. 627, z 1946 r. Nr 2, poz. 15 oraz z 1947 r. Nr 24, poz. 93 i Nr 65, poz. 383),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "byłe organy pomiarowe zarządów miejskich działające do dnia 31 sierpnia 1939 r., jeżeli pozostawały wówczas pod kierownictwem mierniczych przysięgłych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "mierniczowie przysięgli, którzy dokonali pomiarów po dniu 24 września 1925 r. — do dnia 17 maja 1952 r.,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "mierniczowie upoważnieni na mocy art. 25 ustawy z dnia 15 lipca 1925 r. o mierniczych przysięgłych (Dz. U. z 1928 r. Nr 46, poz. 454 i z 1932 r. Nr 19, poz. 130) przez Ministra Reform Rolnych do wykonywania prac pomiarowych związanych z przebudową ustroju rolnego, w okresie do dnia 31 grudnia 1930 r.,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "geometrzy przysięgli na obszarze ziem byłego zaboru rosyjskiego w okresie do dnia 31 sierpnia 1915 r. oraz w okresie pomiędzy dniem 1 grudnia 1918 r. a dniem 23 września 1925 r.,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "geometrzy przysięgli na obszarze byłego zaboru pruskiego i geometrzy cywilni, upoważnieni rządowo na obszarze ziem byłego zaboru austriackiego, w okresie do dnia 23 września 1925 r.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

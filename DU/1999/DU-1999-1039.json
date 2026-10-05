@@ -1,0 +1,602 @@
+{
+ "eli": "DU/1999/1039",
+ "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 7 października 1999 r. w sprawie homologacji pojazdów.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/1039/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 października 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie homologacji pojazdów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 68 ust. 13 ustawy z dnia 20 czerwca 1997 r. — Prawo o ruchu drogowym (Dz. U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086 oraz z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa warunki i tryb wydawania lub cofania świadectw homologacji typu pojazdu, zakres i sposób przeprowadzania badań homologacyjnych, kontroli zgodności produkcji lub montażu z warunkami homologacji, wzory dokumentów związanych z homologacją oraz jednostki upoważnione do przeprowadzania badań homologacyjnych i kontroli zgodności produkcji lub montażu z warunkami homologacji. .",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Rozporządzenie dotyczy homologacji typu następujących pojazdów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "pojazdu samochodowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "ciągnika rolniczego,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "motoroweru,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "trolejbusu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "przyczepy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "tramwaju,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wykonanych w jednym lub wielu etapach, oraz wyposażenia i części przeznaczonych do stosowania w tych pojazdach."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przepis ust. 1 dotyczy również instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz sposobu jej montażu przez różne podmioty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "homologacja typu — procedurę, za pomocą której stwierdza się, że typ pojazdu, wyposażenia, części lub sposób montażu instalacji przystosowującej pojazd do zasilania gazem spełnia wymagania techniczne określone w wykazie stanowiącym załącznik nr 4 lub nr 11 do rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "wielostopniowa homologacja typu — procedurę, za pomocą której stwierdza się, że w danym stanie kompletacji (niekompletny lub kompletny) typ pojazdu spetnia wymagania techniczne odpowiednie do jego stanu kompletacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "pojazd podstawowy — pojazd niekompletny, którego numer identyfikacyjny jest zachowywany podczas późniejszych etapów procesu wielostopniowej homologacji typu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "pojazd niekompletny — pojazd, który w celu uzyskania założonych cech użytkowych oraz spełnienia niezbędnych wymagań powinien przejść przynajmniej jeszcze jeden etap kompletacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "pojazd skompletowany — pojazd powstały w trakcie procesu wielostopniowej homologacji typu, spełniający wszystkie obowiązujące wymagania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "typ pojazdu — pojazdy jednej kategorii, które nie różnią się pod względem istotnych cech określonych w załączniku nr 2 do rozporządzenia; typ pojazdu może zawierać warianty oraz wersje,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "wyposażenie — układ lub zespół pojazdu taki, jak np.: hamulce, układ ograniczający emisję spalin, części wnętrza pojazdu lub silnik, które są przedmiotem wymagań przepisów cząstkowych określonych w załączniku nr 4 lub nr 11 do rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "część — urządzenie takie, jak np. lampa kierunkowskazu, będące przedmiotem wymagań przepisów cząstkowych, które może być homologowane niezależnie od pojazdu, o ile przepis cząstkowy określony w załączniku nr 4 lub nr 11 do rozporządzenia umożliwia takie postępowanie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "producent — podmiot, który jest odpowiedzialny za wszystkie aspekty procesu homologacji typu oraz za zapewnianie zgodności produkcji; nie jest przy tym istotne, czy podmiot ten jest bezpośrednio zaangażowany we wszystkie etapy wykonania pojazdu, wyposażenia, części, zespołu lub sposobu montażu instalacji przystosowującej pojazd do zasilania gazem, które podlegają procesowi homologacji; przepisy dotyczące producenta stosuje się także do jego upoważnionego przedstawiciela,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "władza homologacyjna — ministra właściwego do spraw transportu, zwanego dalej ministrem, który jest odpowiedzialny za wszelkie aspekty homologacji typu w kraju i poza jego granicami oraz za nadzorowanie zgodności produkcji z typem homologowanym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "jednostka upowazniona — podmiot wyznaczony przez władzę homologacyjną do przeprowadzania w jej imieniu badań homologacyjnych i kontroli zgodności produkcji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "opis techniczny typu pojazdu, wyposażenia i części — zbiór danych określony:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_12/lit_a",
+       "text": "w załączniku nr 1 do rozporządzenia — dla pojazdów, co do których nie istnieją jeszcze homologacje cząstkowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_12/lit_b",
+       "text": "w załączniku nr 3 do rozporządzenia — dla pojazdów, co do których homologacje cząstkowe zostały już wystawione, lub w odpowiednim przepisie cząstkowym,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "dokumentacja techniczna typu pojazdu, wyposażenia i części — opis techniczny wraz ze wszystkimi sprawozdaniami z badań lub innymi dokumentami, które jednostki upoważnione dodały do opisu technicznego w trakcie wykonywania swoich czynności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_3/pkt_14",
+     "text": "spis treści do dokumentacji technicznej — odpowiednio ponumerowany lub oznakowany dokument, w którym określona jest zawartość dokumentacji technicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pisemny wniosek o wydanie świadectwa homologacji typu pojazdu, z uwzględnieniem wariantu i wersji, producent lub importer składa do ministra. Do wniosku należy dołączyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "podstawowy opis techniczny typu pojazdu według załącznika nr 1 do rozporządzenia lub opis techniczny typu pojazdu według załącznika nr 3 część A do rozporządzenia, sporządzone w języku polskim, oraz świadectwa homologacji (o ile są wymagane) dla przepisów cząstkowych określonych w załączniku nr 4 lub nr 11 do rozporządzenia — w dwóch egzemplarzach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "instrukcję dla użytkownika pojazdu w języku polskim — w dwóch egzemplarzach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "dokumentację techniczną typu pojazdu, wyposażenia i części w odniesieniu do wskazanej homologacji cząstkowej — w jednym egzemplarzu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "katalog części zamiennych — w jednym egzemplarzu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "instrukcję napraw w jednym egzemplarzu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadku homologacji wielostopniowej typu pojazdu do wniosku należy dołączyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "w etapie pierwszym — te fragmenty opisu technicznego oraz świadectwa homologacji, które są zgodne ze stanem kompletacji pojazdu podstawowego,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)w drugim i następnych etapach — te fragmenty opisu technicznego typu pojazdu oraz świadectwa"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "homologacji, które odpowiadają aktualnemu etapowi wykonania, oraz kopie świadectw homologacji dla niekompletnego pojazdu; producent powinien także dostarczyć wyczerpujące informacje dotyczące wprowadzonych przez niego zmian i uzupełnień do niekompletnego pojazdu wraz z potwierdzeniem ich zgodności z warunkami producenta pojazdu niekompletnego podpisanym przez tego producenta lub jego upoważnionego przedstawiciela."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Pisemny wniosek o wydanie świadectwa homologacji typu dla przedmiotów wyposażenia lub części producent lub importer składa do ministra. Do wniosku należy dołączyć dokumenty określone w danym przepisie cząstkowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Pisemny wniosek o wydanie świadectwa homologacji dla instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz sposobu jej montażu producent lub importer składa do ministra. Do wniosku należy dołączyć opis techniczny, określony w załączniku nr 3 część B do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Minister wydaje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "świadectwo homologacji typu pojazdu dla:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_1/lit_a",
+         "text": "pojazdów odpowiadających danym w opisie technicznym i spełniających wymagania wszystkich przepisów cząstkowych określonych w załączniku nr 4 do rozporządzenia dla danej kategorii pojazdów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_1/lit_b",
+         "text": "niektórych pojazdów specjalnych określonych w załączniku nr 2 do rozporządzenia, odpowiadających danym w opisie technicznym i spełniających wymagania wszystkich odpowiednich przepisów cząstkowych określonych w załączniku nr 11 do rozporządzenia,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "świadectwo wielostopniowej homologacji typu pojazdu dla podstawowych, niekompletnych lub skompletowanych pojazdów odpowiadających danym w opisie technicznym i spełniających wymagania wszystkich przepisów cząstkowych określonych w załączniku nr 4 lub nr 11 do rozporządzenia, z uwzględnieniem stanu kompletacji tych pojazdów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "świadectwo homologacji typu przedmiotów wyposażenia lub części pojazdu, odpowiadających danym w opisie technicznym i spełniających wymagania odpowiednich przepisów cząstkowych, określonych w załączniku nr 15 do rozporządzenia; w razie potrzeby wykaz udzielonych świadectw homologacji sporządza się według wzoru określonego w załączniku nr 13 do rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "świadectwo homologacji sposobu montażu insta- — 4 lacji przystosowującej pojazd do zasilania gazem przez dany podmiot dla określonego typu pojazdu; sposób montażu, elementy instalacji oraz emisja zanieczyszczeń powinny odpowiadać wymaganiom przepisu cząstkowego określonego w załączniku nr 4 do rozporządzenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Procedury homologacji typu pojazdu określone są w załącznikach nr 5 i nr 14 do rozporządzenia, a dla przedmiotów wyposażenia lub części — w odpowiednich przepisach cząstkowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli zostanie stwierdzone, że pojazd, wyposażenie, część lub sposób montażu spełniający przepisy ust. 1 stanowi mimo to zagrożenie dla bezpieczeństwa ruchu drogowego, minister odmawia wydania świadectwa homologacji typu i powiadamia o tym wnioskodawcę, uzasadniając przyczynę tej odmowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Instytut Transportu Samochodowego w odniesieniu do pojazdów, o których mowa w § 2 ust. 1 pkt 1—5, a w odniesieniu do tramwajów — Instytut Gospodarki Przestrzennej i Komunalnej, przygotowują dla ministra na podstawie wykonanych badań:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_4/pkt_1",
+       "text": "odpowiednie działy świadectwa homologacji typu pojazdu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_4/pkt_2",
+       "text": "odpowiednie działy świadectwa homologacji sposobu montażu instalacji przystosowującej pojazd do zasilania gazem,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "według wzoru określonego w załączniku nr 6 do rozporządzenia,"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_4/pkt_3",
+       "text": "odpowiednie działy załącznika do świadectwa homologacji typu pojazdu zawierającego wyniki z badań — według wzoru określonego w załączniku nr 8 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Jednostki upoważnione, określone w ust. 2 załącznika nr 15 do rozporządzenia, przygotowują odpowiednie działy świadectwa homologacji typu dla przedmiotu wyposażenia lub części — według wzoru określonego w odpowiednim regulaminie Europejskiej Komisji Gospodarczej ONZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Świadectwa homologacji numeruje się zgodnie z metodą określoną w załączniku nr 7 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_5/ust_7",
+     "text": "Jeżeli przedstawiony do homologacji przedmiot wyposażenia lub część spełnia swoje zadanie tylko w połączeniu z innymi częściami pojazdu, to świadectwo homologacji typu przedmiotu wyposażenia lub części powinno zawierać wszystkie ograniczenia co do ich stosowania; przestrzeganie tych ograniczeń sprawdza się podczas procedury homologacji typu pojazdu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_5/ust_8",
+     "text": "Jednostki, o których mowa w ust. 4, sprawdzają ważność wydanych świadectw homologacji typu pojazdu ze względu na zmiany warunków stanowiących podstawę ich wydania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Producent lub importer, który uzyskał świadectwo homologacji typu pojazdu, sposobu montażu instalacji przystosowującej pojazd do zasilania gazem lub decyzję zwalniającą z obowiązku uzyskania świadectwa homologacji, jest obowiązany wydać do każdego pojazdu wyciąg ze świadectwa homologacji lub odpis decyzji zwalniającej, według wzorów określonych w załączniku nr 9 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Zwolniony jest z obowiązku uzyskania świadectwa homologacji typu pojazdu producent lub importer nowego typu pojazdu wyprodukowanego lub importowanego w liczbie jednej sztuki rocznie; nie dotyczy to tramwajów i trolejbusów.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Decyzja zwalniająca z obowiązku uzyskania świadectwa homologacji typu pojazdu może być wydana, na wniosek producenta lub importera, w odniesieniu do:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "pojazdów z małych serii — po przeprowadzeniu badań homologacyjnych — w maksymalnej liczbie, określonej w załączniku nr 12 część A do rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "pojazdów z końcowej partii produkcji, których homologacja utraciła ważność — do liczby granicznej i na warunkach określonych w załączniku nr 12 część B do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Na wniosek występującego o świadectwo homologacji można, po zasięgnięciu opinii jednostki upoważnionej do badań, uznać równoważność pomiędzy wymaganiami dotyczącymi homologacji typu przedmiotów wyposażenia i części, określonymi w załączniku nr 4 lub nr 11 do rozporządzenia, a wymaganiami ustanowionymi przepisami w innych krajach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Wykaz jednostek upoważnionych do badań homologacyjnych oraz kontroli zgodności produkcji określa załącznik nr 15 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Przed wydaniem świadectwa homologacji władza homologacyjna lub jednostka upoważniona przeprowadza niezbędne działania, określone w załączniku nr 10 do rozporządzenia, w celu sprawdzenia, czy zostały podjęte właściwe środki organizacyjno- -techniczne zapewniające zgodność produkowanych pojazdów, wyposażenia i części z homologowanym typem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W odniesieniu do wydanych świadectw homologacji sprawdza się, czy środki, o których mowa w ust. 1, są w dalszym ciągu właściwe i czy produkowane pojazdy, wyposażenie i części nadal są zgodne z homologowanym typem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Kontrole przeprowadza się zgodnie z przepisami określonymi w załączniku nr 10 do rozporządzenia lub w przepisach cząstkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "W razie stwierdzenia, że pojazd, przedmiot wyposażenia, część lub sposób montażu instalacji przystosowującej pojazd do zasilania gazem posiadający świadectwo homologacji nie jest zgodny z homologowanym typem, podejmuje się niezbędne środki w celu zapewnienia zgodności produkcji; w przypadku ich nieskuteczności cofa się świadectwo homologacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Wydane przed datą wejścia w życie rozporządzenia świadectwa homologacji typu pojazdu oraz upoważnienia do montażu instalacji przystosowującej pojazd do zasilania gazem zachowują swoją ważność do dnia 30 września 2000 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Do dnia 30 czerwca 2000 r.:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "właściciel świadectwa homologacji jest obowiązany przedstawić wykaz świadectw zachowujących ważność zgodnie z niniejszym rozporządzeniem w celu uznania ich, po weryfikacji i niezbędnych uzupełnieniach, za zgodne z niniejszym rozporządzeniem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "podmiot upoważniony do montażu instalacji przystosowującej pojazd do zasilania gazem może złożyć wniosek, o którym mowa w § 4 ust. 4.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Wzór wyciągu ze świadectwa homologacji, o którym mowa w § 11 zarządzenia Ministra Komunikacji z dnia 12 grudnia 1983 r. w sprawie homologacji typu pojazdu (Dziennik Taryf i Zarządzeń Komunikacyjnych Nr 20, poz. 147), może być stosowany do dnia 31 marca 2000 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu i Gospodarki Morskiej: T. Syryjczyk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

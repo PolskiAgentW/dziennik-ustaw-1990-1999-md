@@ -1,0 +1,1965 @@
+{
+ "eli": "DU/1999/1007",
+ "title": "Rozporządzenie Ministra Finansów z dnia 26 października 1999 r. w sprawie szczególnych zasad rachunkowości, w tym również wzorów składników sprawozdań finansowych funduszy powierniczych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/1007/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 października 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczególnych zasad rachunkowości, w tym również wzorów składników sprawozdań finansowych funduszy powierniczych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 81 ust. 2 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014 oraz z 1999 r. Nr 9, poz. 75 i Nr 83, poz. 931) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "ustawie — rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014 oraz z 1999 r. Nr9, poz. 75 i Nr 83, poz. 931),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "towarzystwie — rozumie się przez to spółkę akcyjną z siedzibą na terytorium Rzeczypospolitej Polskiej, zarządzającą funduszami powierniczymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "banku-powierniku — rozumie się przez to bank, któremu towarzystwo powierza aktywa funduszu, obowiązany w szczególności do bezpiecznego przechowywania aktywów funduszu oraz obliczania wartości netto aktywów funduszu zgodnie z prawem i regulaminem funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "funduszu — rozumie się przez to wyodrębnioną finansowo wspólną masę majątkową uczestników, o zmiennej wartości i stałym przeznaczeniu gospodarczym, zarządzaną przez towarzystwo funduszy powierniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "regulaminie funduszu — rozumie się przez to regulamin funduszu, uchwalony przez założycieli towarzystwa lub walne zgromadzenie,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "wartości aktywów netto — rozumie się przez to wartość aktywów funduszu, pomniejszoną o zobowiązania funduszu w dniu wyceny; aktywa netto równe są kwotowo sumie kapitału powierzonego oraz zakumulowanego wyniku działalności operacyjnej netto w dniu wyceny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "dniu wyceny — rozumie się przez to dzień, określony w regulaminie funduszu, w którym ustala się wartości składników majątkowych oraz zobowiązań funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "kapitale powierzonym — rozumie się przez to kapitał utworzony ze środków pieniężnych przyjętych w zamian za zbyte uczestnikom funduszu jednostki uczestnictwa, pomniejszony o kwoty wypłacone z tytułu umorzenia jednostek uczestnictwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "składnikach majątkowych — rozumie się przez to składniki portfela inwestycyjnego, środki pieniężne oraz należności funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "składnikach portfela inwestycyjnego — rozumie się przez to prawa majątkowe, które zgodnie z przepisami prawa mogą być przedmiotem lokat funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "wartości aktywów netto na jednostkę uczestnictwa — rozumie się przez to wartość aktywów netto, podzieloną przez liczbę jednostek uczestnictwa w dniu wyceny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "giełdzie — rozumie się przez to giełdę papierów wartościowych, powstałą i uregulowaną zgodnie z prawem kraju, w którym ta giełda funkcjonuje,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "regulowanym rynku pozagiełdowym — rozumie się przez to rynek, na którym odbywa się regulowany pozagiełdowy wtórny publiczny obrót papierami wartościowymi, powstały i uregulowany zgodnie z prawem kraju, w którym ten obrót ma miejsce,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "zysku/stracie z inwestycji — rozumie się przez to różnicę pomiędzy ceną sprzedaży netto a ceną nabycia danego składnika portfela inwestycyjnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "niezrealizowanym zysku/stracie z inwestycji — rozumie się przez to różnicę pomiędzy wartością danego składnika portfela inwestycyjnego w dniu wyceny a ceną jego nabycia (wzrost/spadek wartości składnika portfela inwestycyjnego),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "kosztach operacyjnych — rozumie się przez to koszty, które zgodnie ze statutem towarzystwa oraz regulaminem funduszu mogą być pokryte z fundu- SZU,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "limitowanych kosztach operacyjnych — rozumie się przez to koszty operacyjne, dla których został określony dopuszczalny ich udział w aktywach netto funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "okresie sprawozdawczym — rozumie się przez to okres objęty sprawozdaniem finansowym fundu- SZU,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "przeglądzie przez biegłego rewidenta — rozumie się przez to czynności, nie stanowiące pełnego badania sprawozdania finansowego, umożliwiające biegłemu rewidentowi uzyskanie wystarczających podstaw do stwierdzenia, czy dostrzega on potrzebę dokonania znaczących zmian w sprawozdaniu finansowym, tak aby byto ono prawidłowe, rzetelne i jasne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rachunkowość funduszu obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "opis przyjętych zasad rachunkowości, w szczególności stosowanych uproszczeń w wyliczaniu rozliczeń międzyokresowych, oraz opis przyjętych algorytmów wyceny, o których mowa w § 29 ust. 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "prowadzenie ksiąg rachunkowych, w tym rejestru uczestników funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wycenę aktywów i pasywów oraz ustalanie wyniku działalności operacyjnej netto,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "obliczanie wartości aktywów netto oraz aktywów netto na jednostkę uczestnictwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "sporządzanie sprawozdań finansowych i innych informacji na podstawie ksiąg rachunkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "poddawanie sprawozdań finansowych badaniu lub przeglądowi przez biegłego rewidenta,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "ogłaszanie sprawozdań finansowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "gromadzenie i przechowywanie dokumentacji wymaganej przepisami prawa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Towarzystwo przekazuje bankowi-powiernikowi dokumentację, w rozumieniu art. 10 ustawy, dotyczącą rachunkowości funduszu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Księgi rachunkowe funduszu prowadzi się w języku polskim, na terytorium Rzeczypospolitej Polskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Księgi rachunkowe funduszu i towarzystwa prowadzi się oddzielnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dla każdego funduszu prowadzi się odrębne księgi rachunkowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Księgi rachunkowe funduszu obejmują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "konta księgi głównej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "konta ksiąg pomocniczych, w tym rejestr uczestników funduszu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "zestawienia analityczne składników majątkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "zestawienia analityczne rozliczeń międzyokresowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "zestawienia obrotów i sald kont księgi głównej oraz ksiąg pomocniczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rejestr uczestników funduszu obejmuje w szczególności system służący do szczegółowej ewidencji kapitału powierzonego, w podziale na poszczególnych uczestników funduszu, z określeniem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "danych osobowych uczestnika,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2)daty i kwoty wpłaty z tytułu nabycia jednostek uczestnictwa,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "daty i kwoty wypłaty z tytułu umorzenia jednostek uczestnictwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "liczby jednostek uczestnictwa posiadanych przez uczestnika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "innych elementów określonych w regulaminie funduszu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Księgi rachunkowe funduszu prowadzi się w sposób zapewniający ustalenie wartości aktywów netto.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Podstawą zapisów w księgach rachunkowych funduszu są dowody księgowe, o których mowa w art. 20 ustawy, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "zewnętrzne obce, stwierdzające dokonanie operacji, otrzymane od kontrahentów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "otrzymane od banku-powiernika, nie stanowiące dowodów zewnętrznych obcych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "dotyczące rozrachunków pomiędzy towarzystwem i funduszem, nie stanowiące dowodów zewnętrznych obcych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "wewnętrzne, w tym noty księgowe, polecenia księgowania, formularze wyliczeniowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_1/pkt_5",
+       "text": "zbiorcze, służące do dokonania łącznych zapisów ze zbioru dokumentów księgowych, które w dowodzie zbiorczym wymienia się pojedynczo,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_1/pkt_6",
+       "text": "korygujące poprzednie zapisy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_9/ust_1/pkt_7",
+       "text": "rozliczeniowe, ujmujące dokonane zapisy według nowych kryteriów klasyfikacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Każdy dowód księgowy powinien zawierać co najmniej dane określone w art. 21 ust. 1 ustawy oraz nazwę funduszu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "W uzasadnionych przypadkach dopuszcza się stosowanie odpisu dowodu księgowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Odpis dowodu księgowego powinien być sporządzony na formularzu właściwym dla danego dowodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Dopuszcza się zastąpienie odpisu obrazem kopii (fotokopia lub kserokopia). i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Odpis (obraz kopii) powinien być opatrzony adnotacją „Odpis” oraz uwierzytelniony przez zamieszczenie uwagi „Za zgodność z oryginałem”, podpisanej przez osobę stwierdzającą zgodność, wraz z datą sporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Operacje dotyczące składników funduszu ujmuje się w księgach rachunkowych w dniu uzyskania dowodu księgowego potwierdzającego dokonanie tych operacji, z jednoczesnym zapewnieniem ich ujęcia we właściwym okresie sprawozdawczym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Nabyte składniki portfela inwestycyjnego ujmuje się w księgach rachunkowych według ceny nabycia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Przyjmuje się, że składniki portfela inwestycyjnego nabyte nieodpłatnie posiadają cenę nabycia równą zeru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "W przypadku dłużnych papierów wartościowych z naliczanymi odsetkami, wartość ustaloną w stosunku do ich wartości nominalnej i wartość skumulowanych odsetek ujmuje się w księgach rachunkowych odrębnie, przy czym odsetki ujmuje się jako należno-",
+     "children": [
+      {
+       "type": "text",
+       "text": "ści."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zmianę wartości nominalnej akcji, nie powodujaca zmiany wysokości kapitału akcyjnego, ujmuje się w zestawieniach analitycznych, gdzie ulega zmianie liczba posiadanych akcji oraz jednostkowa cena nabycia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W przypadku sprzedaży składników portfela inwestycyjnego, rozchód składników portfela wycenia się kolejno po cenach nabycia tych składników portfela, które zostały nabyte po najwyższej cenie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Przysługujące zgodnie z uchwałą walnego zgromadzenia prawa poboru akcji ujmuje się w księgach rachunkowych w dniu następnym po dniu ustalenia tych praw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Nie wykorzystane prawa poboru akcji umarza się według wartości równej zeru, w dniu następnym po dniu wygaśnięcia tych praw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Należną dywidendę ujmuje się w księgach rachunkowych w dniu następnym po dniu ustalenia prawa do dywidendy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Zobowiązania podatkowe ujmuje się w księgach rachunkowych w dniu uzyskania dowodu księgowego potwierdzającego dokonanie operacji, których dotyczą te zobowiązania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Operacje dotyczące składników funduszu ujmuje się w walucie, w której są wyrażone, a także po przeliczeniu na walutę polską po średnim kursie, ogłaszanym dla danej waluty przez Narodowy Bank Polski, obowiązującym na dzień zapisu operacji w księgach rachunkowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Zbycie lub umorzenie jednostek uczestnictwa funduszu ujmuje się w księgach rachunkowych funduszu w dniu uzyskania dowodu księgowego dotyczącego tych operacji, z uwzględnieniem § 11.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "W księgach rachunkowych funduszu ujmuje się wszystkie przychody i koszty związane z działaniem funduszu, w tym dotyczące przyszłych okresów, znane w dniu zapisu w księgach rachunkowych, niezależnie od terminu ich zapłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Dopuszcza się stosowanie uproszczeń w wyliczaniu rozliczeń międzyokresowych, jeśli nie wywiera to istotnego wpływu na rzetelność obliczeń wartości aktywów netto na jednostkę uczestnictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "W księgach rachunkowych funduszu, jako przychody z inwestycji, ujmuje się odsetki naliczone od poniższych składników majątkowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_21/pkt_1",
+     "text": "środków pieniężnych na rachunkach bankowych lub w formie lokaty pieniężnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_21/pkt_2",
+     "text": "papierów wartościowych z naliczanymi odsetkami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Koszty operacyjne funduszu ujmuje się w księgach rachunkowych w wysokości przewidywanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "W przypadku limitowanych kosztów operacyjnych tworzy się rezerwę na przewidywane wydatki. Płatności z tytułu limitowanych kosztów operacyjnych zmniejszają uprzednio utworzoną rezerwę.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Preliminarz kosztów powinien zawierać pozycje w wysokości uzasadnionej, ustalone na podstawie stawek okresowych. Uzgodnienie przewidywanych kosztów z rzeczywiście poniesionymi następuje w okresach co najmniej miesięcznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Koszty odsetek z tytułu kredytów i pożyczek, zaciągniętych przez towarzystwo na wspólny rachunek uczestników funduszu, podlegają rozliczeniu w czasie, przy uwzględnieniu charakteru i czasu spłaty kredytu lub pożyczki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Wyceny składników portfela inwestycyjnego funduszu dokonuje się w dniu wyceny, według wartości rynkowej, z zachowaniem zasady ostrożnej wyceny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Niezrealizowany zysk/strata z inwestycji wpływa na wzrost/spadek niezrealizowanego zysku/straty z inwestycji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Składniki portfela inwestycyjnego notowane na giełdzie lub regulowanym rynku pozagiełdowym wycenia się według ogłoszonej przez rynek główny dla danego składnika portfela ceny rynkowej, rozumianej jako:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_25/ust_1/pkt_1",
+       "text": "kurs zamknięcia z ostatniego notowania w systemie notowań ciągłych lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_25/ust_1/pkt_2",
+       "text": "ostatni kurs ustalony w systemie kursu jednolitego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Przez cenę rynkową dłużnych papierów wartościowych rozumie się cenę ustaloną w stosunku do ich wartości nominalnej; skumulowane odsetki ujmuje się w księgach rachunkowych odrębnie jako należności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Kryterium wyboru giełdy lub regulowanego rynku pozagiełdowego, stanowiących rynek główny, w tym systemu notowań, gdy na danym rynku stosowanych jest kilka sposobów ustalania ceny rynkowej, określa regulamin funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_25/ust_4",
+     "text": "Informacja dodatkowa powinna zawierać opis przyjętego kryterium wyboru rynku głównego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Do czasu rozpoczęcia notowań papiery wartościowe dopuszczone do publicznego obrotu wycenia się według cen nabycia, z uwzględnieniem zmian wartości tych papierów wartościowych, spowodowanych zdarzeniami mającymi wpływ na ich wartość rynkową, z zachowaniem zasady ostrożnej wyceny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "W przypadku nabycia akcji w wykonaniu prawa poboru, wartość akcji powiększa się o wartość wykorzystanych praw poboru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Skumulowane odsetki od dłużnych papierów wartościowych ujmuje się odrębnie, jako odsetki należne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_26/ust_4",
+     "text": "Informacja dodatkowa powinna zawierać opis zdarzeń, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Papiery wartościowe nabyte z dyskontem wycenia się z uwzględnieniem odpisów z tytułu amortyzacji dyskonta, które zalicza się do przychodów z inwestycji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Zagraniczne papiery wartościowe wycenia się w walucie kraju notowania, z zastrzeżeniem ust. 2, a także po przeliczeniu na walutę polską po średnim kursie, ogłaszanym dla danej waluty przez Narodowy Bank Polski, obowiązującym w dniu wyceny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Dłużne papiery wartościowe wycenia się w walucie, w której są wyrażone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Niezrealizowane różnice kursowe ustalone w wyniku przeliczenia, o którym mowa w ust. 1, wpływają na wzrost/spadek niezrealizowanego zysku/straty z inwestycji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Dla składników portfela inwestycyjnego, dla których nie jest możliwe zastosowanie metod wyceny, o których mowa w § 25—27, towarzystwo może stworzyć i wykorzystywać algorytmy wyceny, oparte na metodzie wyceny według wartości rynkowej, z zachowaniem zasady ostrożnej wyceny, oceniane jako najlepsze z punktu widzenia uczestników funduszu, rzetelnie oddające wartość aktywów netto na jednostkę uczestnictwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Algorytmy wyceny, o których mowa w ust. 1, określa regulamin funduszu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Informacja dodatkowa powinna zawierać opis przyjętych algorytmów wyceny oraz uzasadnienie ich zastosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Środki pieniężne oraz należności i zobowiązania wycenia się w walucie, w której są wyrażone, a także po przeliczeniu na walutę polską, zgodnie z § 28 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Na dzień bilansowy przyjmuje się metody wyceny stosowane w dniu wyceny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "W dniu wyceny ustala się wynik działalności operacyjnej netto funduszu, obejmujący:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_1/pkt_1",
+       "text": "wynik z inwestycji netto — stanowiący różnicę pomiędzy przychodami z inwestycji a limitowanymi kosztami operacyjnymi funduszu, pomniejszonymi o ewentualne koszty pokrywane przez towarzystwo,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_1/pkt_2",
+       "text": "zysk/stratę z inwestycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_32/ust_1/pkt_3",
+       "text": "wzrost/spadek niezrealizowanego zysku/straty z inwestycji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Przychody z inwestycji obejmują różnice kursowe powstałe w związku z wyceną środków pieniężnych, należności oraz zobowiązań w walutach obcych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Towarzystwo uzgadnia, w dniu wyceny, salda kont księgi głównej oraz dane zestawień analitycznych funduszu z wyliczeniami wartości aktywów netto funduszu dokonywanymi przez bank-powiernika.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Sprawozdanie finansowe funduszu sporządza się oddzielnie od sprawozdania finansowego towarzystwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Sprawozdanie finansowe dla każdego funduszu sporządza się odrębnie.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Sprawozdania finansowe funduszu sporządza się co najmniej dwa razy w roku, jako:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_35/pkt_1",
+     "text": "półroczne sprawozdania finansowe — obejmujące dane za pierwsze półrocze bieżącego roku obrotowego i poprzedni rok obrotowy, z uwzględnieniem postanowień zawartych w załącznikach nr 1 i 4 do rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_35/pkt_2",
+     "text": "roczne sprawozdania finansowe — obejmujące dane za bieżący i poprzedni rok obrotowy, z uwzględnieniem postanowień zawartych w załącznikach nr 1 i 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Sprawozdanie finansowe funduszu obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_1/pkt_1",
+       "text": "wstęp,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_1/pkt_2",
+       "text": "zestawienie portfela inwestycyjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_1/pkt_3",
+       "text": "bilans,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_36/ust_1/pkt_4",
+       "text": "rachunek wyników działalności operacyjnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_36/ust_1/pkt_5",
+       "text": "informację dodatkową.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Wstęp zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_2/pkt_1",
+       "text": "nazwę (firmę) i siedzibę towarzystwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_2/pkt_2",
+       "text": "nazwę funduszu, ze wskazaniem profilu inwestycyjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_2/pkt_3",
+       "text": "datę i miejsce ostatniej publikacji regulaminu funduszu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_36/ust_2/pkt_4",
+       "text": "wskazanie okresu sprawozdawczego i dnia bilansowego sprawozdania finansowego funduszu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Zestawienie portfela inwestycyjnego zawiera dane określone w załączniku nr 1 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_36/ust_4",
+     "text": "Składniki bilansu wykazuje się w kolejności i w sposób określony w załączniku nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_36/ust_5",
+     "text": "Składniki rachunku wyników działalności operacyjnej wykazuje się w kolejności i w sposób określony w załączniku nr 3 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_36/ust_6",
+     "text": "Informacja dodatkowa, sporządzana z uwzględnieniem przepisów art. 48 ust. 1 ustawy, powinna zawierać do najmniej dane określone w załączniku nr 4 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Do sprawozdania finansowego funduszu dołącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_37/pkt_1",
+     "text": "pismo prezesa zarządu towarzystwa, skierowane do uczestników funduszu, w sposób zwięzły omawiające wyniki działania funduszu w okresie sprawozdawczym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_37/pkt_2",
+     "text": "oświadczenie banku-powiernika o zgodności danych przedstawionych w sprawozdaniu finansowym funduszu ze stanem faktycznym, przewidziane w umowie zawartej przez towarzystwo z bankiem-powiernikiem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Półroczne sprawozdanie finansowe funduszu podlega przeglądowi przez biegłego rewidenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Do półrocznego sprawozdania finansowego dołącza się raport z przeglądu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Roczne sprawozdanie finansowe funduszu podlega badaniu przez biegłego rewidenta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Do rocznego sprawozdania finansowego dołącza się opinię oraz raport z badania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Ogłoszeniu, o którym mowa w art. 70 ust. 2 ustawy, podlegają roczne sprawozdania finansowe funduszu, obejmujące: wstęp, zestawienie portfela inwestycyjnego, bilans i rachunek wyników działalności operacyjnej, wraz z oświadczeniem banku-powiernika i opinią biegłego rewidenta o badanym sprawozdaniu finansowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Złożenie do ogłoszenia, o którym mowa w ust. 1, następuje w terminie do trzech miesięcy od zakończenia roku obrotowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia i ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego sporządzanego za rok obrotowy rozpoczynający się w 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. J. Bauc"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 26 października 1999 r. (poz. 1007) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZESTAWIENIE PORTFELA INWESTYCYJNEGO"
+    },
+    {
+     "type": "text",
+     "text": "Zestawienie portfela inwestycyjnego obejmuje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "szczegółowe zestawienie stanu składników portfela inwestycyjnego funduszu na koniec ostatniego okresu sprawozdawczego, przedstawione według takich kryteriów odpowiednio do profilu inwestycyjnego funduszu, aby uczestnik funduszu byt w stanie ocenić, czy polityka inwestycyjna towarzystwa odpowiada strategii przedstawionej w regulaminie funduszu; składniki portfela inwestycyjnego (według grup rodzajowych) należy wykazać w wartości według cen nabycia oraz w wartości rynkowej, z określeniem procentowego udziału w aktywach netto funduszu, z podziałem co najmniej na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "papiery wartościowe dopuszczone i niedopuszczone do publicznego obrotu,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "papiery wartościowe notowane na giełdzie (ze wskazaniem rynku), znajdujące się w regulowanym obrocie pozagiełdowym i nie notowane,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "w przypadku akcji (praw poboru), ich podział według emitenta z określeniem liczby akcji (praw),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "w przypadku dłużnych papierów wartościowych o terminie wykupu dłuższym niż 1 rok, ich podział według emitenta (grup emitentów), terminu wykupu, warunków oprocentowania i podobnych cech wyróżniających dany rodzaj papieru wartościowego, z określeniem wartości nominalnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_1/lit_e",
+       "text": "w przypadku dłużnych papierów wartościowych o terminie wykupu nie dłuższym niż 1 rok, ich podział według emitenta (grup emitentów), terminu wykupu: do 6 miesięcy i powyżej 6 miesięcy, oraz innych cech wyróżniających dany rodzaj papieru wartościowego, z określeniem wartości nominalnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_1/lit_f",
+       "text": "w przypadku żagranicznych papierów wartościowych, ich podział według wymienionych kryteriów, z określeniem odpowiednio wyżej wskazanych danych;",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "dodatkowo należy przedstawić podział składników portfela inwestycyjnego według innych szczególnych kryteriów, zawartych w regulaminie funduszu, na przykład według działów gospodarki reprezentowanych przez emitentów;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zestawienie zmian w portfelu inwestycyjnym funduszu, zawierające dane o stanie składników portfela inwestycyjnego funduszu, z podziałem według wybranego kryterium, najlepiej charakteryzującego profil inwestycyjny funduszu (przyjętego w bilansie funduszu), uwzględniające ich stan na koniec bieżącego roku obrotowego (półrocza) w porównaniu z ich stanem na koniec poprzedniego roku obrotowego, z określeniem procentowego udziału poszczególnych grup składników portfela w aktywach netto funduszu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "BILANS FUNDUSZU"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Aktywa"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Portfel inwestycyjny”",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Środki pieniężne?",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Należności z tytułu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "sprzedanych/umorzonych papierów wartościowych",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "zbytych jednostek uczestnictwa",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "dywidend",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "odsetek",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "pozostałe",
+       "children": [
+        {
+         "type": "text",
+         "text": "Il. Zobowiązania"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Z tytułu nabytych papierów wartościowych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ztytutu umorzonych jednostek uczestnictwa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Rezerwa na wydatki",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pozostałe lll. Aktywa netto (I-II)",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Kapitał powierzony"
+      },
+      {
+       "type": "text",
+       "text": "V. Zakumulowany wynik działalności operacyjnej netto"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wynik z inwestycji netto",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zakumulowane, nierozdysponowane wyniki z inwestycji netto z lat ubiegłych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zakumulowany zysk/strata z inwestycji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wzrost/Spadek wartości składników portfela inwestycyjnego ponad cenę nabycia",
+     "children": [
+      {
+       "type": "text",
+       "text": ". Kapitał powierzony i zakumulowany wynik działalności operacyjnej netto razem (IV+V)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Liczba jednostek uczestnictwa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wartość aktywów netto na jednostkę uczestnictwa",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "Stan składników portfela inwestycyjnego funduszu należy wykazać z podziałem według kryterium najlepiej charakteryzującego profil inwestycyjny funduszu.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "Środki pieniężne należy wykazać z uwzględnieniem ich struktury. Uwaga: Składniki „Należności” oraz „Zobowiązań” nie wyszczególnione wyżej, o wartości stanowiącej co najmniej 5% sumy odpowiednio „Należności” lub „Zobowiązań”, należy wykazać w odrębnych pozycjach bilansu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "RACHUNEK WYNIKÓW DZIAŁALNOŚCI OPERACYJNEJ"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Przychody z inwestycji"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dywidendy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Odsetki",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Różnice kursowe (saldo)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pozostałe",
+     "children": [
+      {
+       "type": "text",
+       "text": "ll. Limitowane koszty operacyjne"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wynagrodzenie towarzystwa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Opłaty dla banku-powiernika",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Usługi w zakresie rachunkowości, w tym prowadzenie rejestru uczestników",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Usługi wydawnicze, w tym poligraficzne",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Usługi prawne",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Pozostałe",
+     "children": [
+      {
+       "type": "text",
+       "text": "lll. Koszty pokrywane przez towarzystwo"
+      },
+      {
+       "type": "text",
+       "text": "IV. Limitowane koszty operacyjne netto (Il--II)"
+      },
+      {
+       "type": "text",
+       "text": "V. Wynik z inwestycji netto (I-IV)"
+      },
+      {
+       "type": "text",
+       "text": "VI. Zyski/Straty z inwestycji i wyceny razem"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zysk/Strata z inwestycji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wzrost/Spadek niezrealizowanego zysku/straty z inwestycji",
+     "children": [
+      {
+       "type": "text",
+       "text": "VII. Wynik działalności operacyjnej netto (V+VI)"
+      },
+      {
+       "type": "text",
+       "text": "Uwagi: Składniki „Przychodów z inwestycji” oraz „Limitowanych kosztów operacyjnych” nie wyszczególnione powyżej, o wartości stanowiącej co najmniej 5% sumy odpowiednio „Przychodów z inwestycji” lub „Limitowanych kosztów operacyjnych”, należy wykazać w odrębnych pozycjach rachunku wyników działalności operacyjnej. Koszty operacyjne funduszu inne niż „Limitowane koszty operacyjne” należy wykazać w rachunku wyników działalności operacyjnej odpowiednio do tytułu ich poniesienia, w szczególności należy wykazać podatki, opłaty manipulacyjne i prowizje maklerskie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJA DODATKOWA"
+    },
+    {
+     "type": "text",
+     "text": ". Informacja dodatkowa obejmuje w szczególności informacje uzupełniające za bieżący rok obrotowy (półrocze) oraz co najmniej dwa poprzednie lata obrotowe* o:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "zmianach wartości aktywów netto na jednostkę uczestnictwa, z określeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "wartości jednostki uczestnictwa na koniec poprzedniego okresu sprawozdawczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "wartości jednostki uczestnictwa na koniec bieżącego okresu sprawozdawczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "procentowej zmiany wartości jednostki uczestnictwa w okresie sprawozdawczym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "minimalnej i maksymalnej wartości jednostki uczestnictwa w okresie sprawozdawczym, ze wskazaniem daty wyceny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_1/lit_e",
+       "text": "wartości jednostki uczestnictwa według ostatniej wyceny w okresie sprawozdawczym, ze wskazaniem daty wyceny;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zmianach liczby jednostek uczestnictwa, z określeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "zmiany liczby jednostek uczestnictwa w okresie sprawozdawczym, w tym:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_2/lit_i",
+       "text": "liczby zbytych jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "pkt_2/lit_ii",
+       "text": "liczby umorzonych jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "pkt_2/lit_iii",
+       "text": "salda zmian liczby jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "zmiany liczby jednostek uczestnictwa narastająco od początku działalności funduszu, w tym:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_2/lit_i",
+       "text": "liczby zbytych jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "pkt_2/lit_ii",
+       "text": "liczby umorzonych jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "pkt_2/lit_iii",
+       "text": "salda zmian liczby jednostek uczestnictwa;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "zmianach wartości aktywów netto, z określeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "wartości aktywów netto na koniec poprzedniego okresu sprawozdawczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "wyniku działalności operacyjnej netto za okres sprawozdawczy, w tym:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_3/lit_i",
+       "text": "wyniku z inwestycji netto,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "pkt_3/lit_ii",
+       "text": "zysku/straty z inwestycji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "pkt_3/lit_iii",
+       "text": "wzrostu/spadku niezrealizowanego zysku/straty z inwestycji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iv",
+       "path": "pkt_3/lit_iv",
+       "text": "łącznej kwoty wyniku działalności operacyjnej netto,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_3/lit_c",
+       "text": "zmian w kapitale powierzonym w okresie sprawozdawczym, w tym:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_3/lit_i",
+       "text": "z tytułu zbytych jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "pkt_3/lit_ii",
+       "text": "z tytułu umorzonych jednostek uczestnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "pkt_3/lit_iii",
+       "text": "salda zmian wysokości kapitału powierzonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_3/lit_d",
+       "text": "łącznej zmiany wartości aktywów netto,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_3/lit_e",
+       "text": "wartości aktywów netto na koniec okresu sprawozdawczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_3/lit_f",
+       "text": "średniej wartości aktywów netto w okresie sprawozdawczym;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "procentowym udziale w aktywach netto limitowanych kosztów operacyjnych, w tym wynagrodzenia towarzystwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Jeżeli okres, dla jakiego prezentowane są zmiany, nie jest równy 12 miesiącom, to zmiany wyrażone procentowo należy odnieść do okresu 12 miesięcy."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ll. Informacja dodatkowa w części opisowej obejmuje w szczególności:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "podstawowe dane o:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "funduszu oraz rodzinie funduszy, jeśli towarzystwo zarządza wieloma funduszami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "polityce inwestycyjnej towarzystwa, w tym limitach inwestycyjnych, z opisem głównych inwestycji funduszu, koncentracji zaangażowania funduszu w papiery wartościowe poszczególnych emitentów, grup kapitałowych, działów gospodarki, wraz z oceną ryzyka,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "jednostkach obsługujących fundusz, w szczególności: towarzystwie, banku-powierniku, agencie obsługującym uczestników funduszu:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_1/lit_i",
+       "text": "z określeniem prowizji i opłat pobieranych przez te jednostki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "pkt_1/lit_ii",
+       "text": "z opisem powiązań kapitałowych jednostek obsługujących fundusz;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "opis:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "przyjętych zasad rachunkowości w zakresie, w jakim przepisy pozostawiają prawo wyboru, dotyczących w szczególności:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_2/lit_i",
+       "text": "ujmowania w księgach rachunkowych operacji dotyczących składników funduszu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "pkt_2/lit_ii",
+       "text": "wyceny aktywów, w tym stosowanych algorytmów wyceny składników portfela inwestycyjnego, oraz pasywów funduszu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "przyjętego kryterium wyboru rynku głównego, w tym systemu notowań,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "wprowadzonych zmian stosowanych zasad rachunkowości, w tym metod ujmowania operacji w księgach rachunkowych, metod wyceny oraz sposobu sporządzania sprawozdania finansowego, przy czym zmiany te należy opisać w informacji dodatkowej w dwóch kolejnych sprawozdaniach finansowych po ich wprowadzeniu, z wyjaśnieniem przyczyn ich wprowadzenia oraz określeniem ich wpływu na sytuację majątkową, finansową oraz wynik działalności operacyjnej netto funduszu;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dane liczbowe zapewniające porównywalność sprawozdania finansowego za poprzednie lata i bieżący rok obrotowy (półrocze), objęte sprawozdaniem finansowym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "uzupełniające dane o składnikach portfela inwestycyjnego, pozycjach bilansu i rachunku wyników działalności operacyjnej funduszu, w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_4/lit_a",
+       "text": "opis przyjętego w sprawozdaniu finansowym funduszu kryterium podziału składników portfela inwestycyjnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_4/lit_b",
+       "text": "dane o walutowej strukturze aktywów i pasywów, w szczególności o wysokości środków pieniężnych w walutach obcych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_4/lit_c",
+       "text": "informacje o podatkach i opłatach, w tym dotyczące opodatkowania funduszu, opodatkowania dochodów z inwestycji kapitałowych krajowych i zagranicznych, oraz dane dotyczące opłat manipulacyjnych, prowizji maklerskich i innych opłat pokrywanych z funduszu, z określeniem ich wartości;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "informacje o zaciągniętych przez towarzystwo na wspólny rachunek uczestników funduszu kredytach i pożyczkach, z określeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "nazwy i siedziby jednostki udzielającej kredytu (pożyczki),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "kwoty kredytu (pożyczki),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_5/lit_c",
+       "text": "warunków oprocentowania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_5/lit_d",
+       "text": "terminu spłaty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_5/lit_e",
+       "text": "ustanowionych zabezpieczeniach.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,1948 @@
+{
+ "eli": "DU/1999/1188",
+ "title": "Rozporządzenie Ministra Gospodarki z dnia 6 grudnia 1999 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz zasad rozliczeń w obrocie paliwami gazowymi, w tym rozliczeń z indywidualnymi odbiorcami w lokalach.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/1188/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 grudnia 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz zasad rozliczeń w obrocie paliwami gazowymi, w tym rozliczeń z indywidualnymi odbiorcami w lokalach."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126 oraz z 1999 r. Nr 88, poz. 980) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe zasady:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "kształtowania i kalkulacji taryf przez przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania, przesyłania i dystrybucji, obrotu oraz magazynowania paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "rozliczeń w obrocie paliwami gazowymi, w tym rozliczeń z indywidualnymi odbiorcami w lokalach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ustawie — należy przez to rozumieć ustawę z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042, z 1998 r. Nr 94, poz. 594, Nr 106, poz. 668 i Nr 162, poz. 1126 oraz z 1999 r. Nr 88, poz. 980),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "sieci gazowej — należy przez to rozumieć gazociągi wraz ze stacjami gazowymi, układami pomiarowymi i tłoczniami gazu, połączone i współpracujące ze sobą, służące do przesyłania i dystrybucji paliw gazowych, należące do przedsiębiorstwa energetycznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "sieci przesyłowej — należy przez to rozumieć sieć gazową służącą do przesyłania i dystrybucji paliw gazowych o ciśnieniu wyższym niż 0,4 MPa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "sieci rozdzielczej — należy przez to rozumieć sieć gazową stuzaca do przesyłania i dystrybucji paliw gazowych o ciśnieniu do 0,4 MPa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "przyłączu — należy przez to rozumieć odcinek sieci gazowej od gazociągu zasilającego do kurka gt6wnego włącznie, stuzacy do przyłączenia instalacji gazowej znajdującej się na terenie i w obiekcie odbiorcy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "układzie pomiarowym — należy przez to rozumieć gazomierze i inne urządzenia pomiarowe lub rozliczeniowo-pomiarowe, a także układy połączeń między nimi, służące do pomiaru ilości paliw gazowych i dokonywania rozliczeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "grupie taryfowej — należy przez to rozumieć grupę odbiorców pobierających paliwa gazowe z sieci gazowej, sklasyfikowaną ze względu na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_7/lit_a",
+       "text": "przyłączenie do sieci przesyłowej lub rozdzielczej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_7/lit_b",
+       "text": "rodzaj pobieranego paliwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_7/lit_c",
+       "text": "wielkość i charakterystykę odbioru paliwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_7/lit_d",
+       "text": "system rozliczeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_7/lit_e",
+       "text": "niezawodność i ciągłość świadczonych usług i ponoszonych z tego tytułu kosztów,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "charakterystyce odbioru paliwa gazowego — należy przez to rozumieć określone w umowie lub rzeczywiste wielkości charakteryzujące w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_8/lit_a",
+       "text": "roczną ilość odbieranego paliwa i nierównomierność poboru paliwa w czasie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_8/lit_b",
+       "text": "godzinową lub dobową moc,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_8/lit_c",
+       "text": "ciśnienie w miejscu dostarczania paliwa gazowego,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "mocy umownej — należy przez to rozumieć maksymalną godzinową lub dobową możliwość odebrania w danym roku paliwa gazowego, określoną w umowie sprzedaży paliw gazowych, umowie o świadczenie usług przesyłowych lub umowie o magazynowanie gazu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "uzasadnionych kosztach — należy przez to rozumieć koszty określone przez przedsiębiorstwo energetyczne na podstawie przepisów ustawy i niniejszego rozporządzenia, przy zachowaniu należytej staranności zmierzającej do ochrony interesów odbiorców i minimalizacji kosztów, niezbędne do wykonania zobowiązań wynikających z umowy o przyłączenie do sieci gazowej, umowy sprzedaży paliw gazowych lub umowy o świadczenie usług przesyłowych albo umowy o magazynowanie paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "subsydiowaniu skrośnym — należy przez to rozumieć pokrywanie kosztów dotyczących jednego rodzaju prowadzonej działalności gospodarczej lub jednej grupy odbiorców przychodami pochodzącymi z innego rodzaju prowadzonej działalności gospodarczej lub od innej grupy odbiorców,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "pozyskaniu paliw gazowych — należy przez to rozumieé zakup paliw gazowych z importu i źródeł krajowych oraz wydobycie, wytwarzanie i przetwarzanie paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "pojemności czynnej magazynu — należy przez to rozumieć maksymalną ilość gazu możliwą do odebrania w ciągu jednego cyklu pracy magazynu przy zachowaniu bezpieczeństwa pracy magazynu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zasady kształtowania i kalkulacji taryf"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przedsiębiorstwo energetyczne kształtuje taryfę w sposób zapewniający:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "zgodność z założeniami polityki energetycznej państwa, a w szczególności określoną w tych założeniach polityką inwestycyjną i cenową oraz innymi czynnikami wpływającymi na poziom uzasadnionych kosztów stanowiących podstawę do ustalania cen i stawek opłat,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "ochronę interesów odbiorców przed nieuzasadnionym poziomem cen,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "eliminowanie subsydiowania skrośnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przedsiębiorstwo energetyczne kształtuje taryfę odpowiednio do zakresu prowadzonej działalności gospodarczej związanej z zaopatrzeniem w paliwa gazowe, rodzaju odbiorców i ich zapotrzebowania na te paliwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Taryfa powinna, odpowiednio do prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej, określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "poszczególne grupy taryfowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "rodzaje oraz wysokość cen i stawek opłat, a także warunki ich stosowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "bonifikaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "opłaty z tytułu niedotrzymania przez strony warunków umowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "opłaty za nielegalny pobór paliw gazowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przedsiębiorstwo energetyczne jest obowiązane określić zasady uwzględniania przy kalkulacji cen i stawek opłat:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "uzasadnionych kosztów prowadzonej działalności gospodarczej, kosztów modernizacji, rozwoju i ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "kosztów współfinansowania przedsięwzięć i usług zmierzających do zmniejszenia zużycia paliw i energii u odbiorców, stanowiących ekonomiczne uzasadnienie uniknięcia budowy i rozbudowy nowych źródeł energii i sieci oraz przedsięwzięć związanych z rozwojem energetyki niekonwencjonalnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "poprawy efektywności funkcjonowania przedsiębiorstwa energetycznego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przedsiębiorstwo energetyczne jest obowiązane opracować taryfę w sposób umożliwiający zainteresowanym podmiotom określenie na jej podstawie składników opłat za paliwa gazowe i świadczone usługi dla poszczególnych zakresów prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej związanej z zaopatrzeniem odbiorców w paliwa gazowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Określone w taryfie ceny i stawki opłat oraz warunki ich stosowania są kalkulowane przy uwzględnieniu standardów jakościowych, określonych w odrębnych przepisach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania paliw gazowych ustała w taryfie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "ceny za paliwa gazowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "bonifikaty,",
+       "children": [
+        {
+         "type": "text",
+         "text": "3)opłaty za niedotrzymanie standardów jakościowych obsługi odbiorców i warunków umów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji paliw gazowych ustala w taryfie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "ryczałtowe stawki opłat za przyłączenie do sieci przesyłowej lub rozdzielczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "stawki opłat za usługi przesyłowe sieciami przesyłowymi i rozdzielczymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "bonifikaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "opłaty za niedotrzymanie standardów jakościowych obsługi odbiorców i warunków umów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_2/pkt_5",
+       "text": "opłaty za nielegalny pobór paliw gazowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie obrotu paliwami gazowymi ustala w taryfie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "ceny za paliwa gazowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "stawki opłat abonamentowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "bonifikaty,",
+       "children": [
+        {
+         "type": "text",
+         "text": "4)opłaty za niedotrzymanie standardów jakościowych obsługi odbiorców i warunków umów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie magazynowania paliw gazowych ustala w taryfie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "stawki opłat za usługi magazynowania paliw gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "bonifikaty,",
+       "children": [
+        {
+         "type": "text",
+         "text": "3)opłaty za niedotrzymanie standardów jakościowych obsługi odbiorców i warunków umów."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie wytwarzania paliw gazowych kalkuluje ustalone w taryfie ceny za paliwa gazowe na podstawie uzasadnionych kosztów wytwarzania tego paliwa w źródłach własnych i instalacjach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji paliw gazowych kalkuluje ryczałtowe stawki opłat za przyłączenie do sieci przesyłowej lub rozdzielczej, z uwzględnieniem podziału na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "ryczałtowe stawki opłat za budowę przyłącza do sieci przesyłowej lub rozdzielczej, zwane dalej „ryczałtowymi stawkami opłat za przyłącze”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "ryczałtowe stawki opłat za niezbędną do realizacji przyłączenia budowę lub rozbudowę sieci rozdzielczej, zwane dalej „ryczałtowymi stawkami opłat za rozbudowę sieci”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Ryczałtowe stawki opłat za przyłącze kalkuluje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "odrębnie dla sieci przesyłowej i rozdzielczej w zależności od:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_1/lit_a",
+         "text": "średnicy przyłącza,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_1/lit_b",
+         "text": "rodzaju materiałów i technologii wykonania,",
+         "children": [
+          {
+           "type": "text",
+           "text": "2)na podstawie uzasadnionych kosztów budowy przyłącza wynikających z planowanych nakładów"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "na budowę przyłącza, przy zastosowaniu standardowych elementów przyłącza i jego wykonaniu w warunkach standardowych, wyrażone w złotych na jednostkę długości przyłącza."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Do standardowych elementów przyłącza, o których mowa w ust. 1 pkt 2, zalicza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "rurę przewodową, złącze izolacyjne lub połączenia typu polietylen-stal na przyłączu polietylenowym, kurek główny oraz reduktor ciśnienia gazu o przepustowości do 10 m3/h, rury ochronne na skrzyżowaniu z innym uzbrojeniem podziemnym — przy budowie przyłącza w sieci rozdzielczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "rurę przewodową, złącze izolacyjne, dwa układy zaporowo-upustowe, rury ochronne na skrzyżowaniach z innym uzbrojeniem podziemnym — przy budowie przyłącza w sieci przesyłowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Do warunków standardowych, o których mowa w ust. 1 pkt 2, zalicza się wykonanie przytącza w wykopie otwartym, teren bez nawierzchni utwardzonej, grunt kategorii II|—IV oraz wykonywane ręcznie roboty ziemne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Ryczałtowe stawki opłat za budowę lub rozbudowę sieci kalkuluje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "przyjmując, że ustalana na ich podstawie opłata obejmuje tylko niezbędną do realizacji przyłączenia budowę lub rozbudowę sieci rozdzielczej,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "na podstawie uzasadnionych kosztów budowy"
+      },
+      {
+       "type": "text",
+       "text": "— 2 lub rozbudowy sieci rozdzielczej, wynikających z planowanych nakładów na budowę lub rozbudowę tej sieci przy zastosowaniu standardowych elementów sieci i wykonanie budowy lub rozbudowy w warunkach standardowych, wyrażone w złotych na jednostkę długości sieci rozdzielczej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Do standardowych elementów sieci, o których mowa w ust. 1 pkt 2, zalicza się rurę przewodową, armaturę odcinającą, rurę ochronną na skrzyżowaniach z innym uzbrojeniem podziemnym — przy rozbudowie sieci rozdzielczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Do warunków standardowych wykonania budowy lub rozbudowy sieci, o których mowa w ust. 1 pkt 2, zalicza się wykonanie budowy lub rozbudowy sieci w wykopie otwartym przy użyciu rur ochronnych na skrzyżowaniach z innym uzbrojeniem, w terenie bez nawierzchni utwardzonej, gruncie kategorii III-IV oraz wykonywane ręcznie roboty ziemne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "W przypadku gdy realizacja wniosku o przyłączenie wymaga zastosowania innych niż standardowe elementów przyłącza lub sieci rozdzielczej oraz warunków ich realizacji, wysokość opłaty za przyłączenie określa umowa o przyłączenie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "W kalkulacji ryczałtowych stawek opłat za przyłączenie uwzględnia się 60% nakładów, o których mowa w § 10 ust. 1 pkt 2, oraz 10% nakładów, o których mowa w § 11 ust. 1 pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W nakładach, o których mowa w ust. 1, uwzględnia się odpowiednio koszty: prac projektowych, prac geodezyjnych, uzgodnienia dokumentacji, uzyskania pozwolenia na budowę, budowy standardowych elementów przyłącza i sieci, nadzoru budowlanego, robót budowlano-montażowych wraz z niezbędnymi próbami oraz opłaty za zajęcie terenu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Koszty, o których mowa w § 10 ust. 1 pkt 2 i § 11 ust. 1 pkt 2, ustala się na podstawie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "planu rozwoju, o którym mowa w art. 16 ustawy, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "planu zaopatrzenia w paliwa gazowe, o którym mowa w art. 20 ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Przedsiębiorstwo energetyczne ustala wysokość ryczałtowej opłaty za przyłączenie do sieci gazowej na podstawie ustalonych w taryfie ryczałtowych stawek opłat za przyłączenie, w zależności od:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "mocy umownej i stopnia wykorzystania przepustowości sieci, wyrażonego w przedziale od 0 do 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "rodzaju przyłącza i jego długości, wyrażonej w metrach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Stopień wykorzystania przepustowości sieci, o którym mowa w ust. 1 pkt 1, określony w warunkach przyłączenia, jest równy ilorazowi mocy umownej do maksymalnej mocy, jaką można przestać rozbudowywaną siecią do odbiorcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Ryczałtowa opłata za przyłączenie do sieci gazowej stanowi sumę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_3/pkt_1",
+       "text": "ryczałtowej opłaty za budowę przytącza do 5 m do sieci rozdzielczej lub do 30 m do sieci przesyłowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_3/pkt_2",
+       "text": "ryczałtowej opłaty za budowę przyłącza, stanowiącej iloczyn ryczałtowej stawki opłaty za przyłącze i długości przyłącza,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_3/pkt_3",
+       "text": "ryczałtowej opłaty za budowę lub rozbudowę sieci rozdzielczej, stanowiącej iloczyn ryczałtowej stawki opłaty za budowę lub rozbudowę sieci, długości sieci rozdzielczej niezbędnej do budowy lub rozbudowy i współczynnika określającego stopień wykorzystania przepustowości tej sieci.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Ryczałtową opłatę za przyłączenie do sieci rozdzielczej oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Opp = Sp + Sęp X Lp + Spo X Ls X Wo"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "Opp — ryczałtową opłatę za przyłączenie, wyrażoną w złotych,"
+      },
+      {
+       "type": "text",
+       "text": "Sp — ryczałtową opłatę za budowę przyłącza do 5 m, Spp — ryczattowa stawkę opłaty za budowę przytacza standardowego za każdy metr przyłącza powyżej 5 m,"
+      },
+      {
+       "type": "text",
+       "text": "Lp — długość przyłącza powyżej 5 m, wyrażoną w metrach,"
+      },
+      {
+       "type": "text",
+       "text": "Sps — ryczałtową stawkę opłaty za rozbudowę sieci, wyrażoną w złotych za 1 m długości sieci rozdzielczej niezbędnej do budowy lub rozbudo-"
+      },
+      {
+       "type": "text",
+       "text": "wy,"
+      },
+      {
+       "type": "text",
+       "text": "Ls — długość sieci rozdzielczej niezbędnej do budowy lub rozbudowy, wyrażoną w metrach,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ws — współczynnik określający stopień wykorzystania przepustowości sieci."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "Ryczałtową opłatę za przyłączenie do sieci przesyłowej oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Opp — ryczałtową opłatę za przyłączenie, wyrażoną w złotych, Sp — ryczałtową opłatę za budowę przytącza do 30 m,"
+      },
+      {
+       "type": "text",
+       "text": "Spp — ryczattowg stawkę opłaty za budowę przytacza standardowego za każdy metr przyłącza powyżej 30 m, Lp — długość przyłącza powyżej 30 m, wyrażoną w metrach."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Ryczattowa opłata za przyłączenie jest pobierana jednorazowo, z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Przedsiębiorstwo energetyczne może, na wniosek przyłączanego podmiotu, rozłożyć opłatę, o której mowa w ust. 1, na raty. Warunki pobierania opłaty w ratach, w tym pokrywania związanych z tym kosztów, określa umowa o przyłączenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Stawki opłat za usługi przesyłowe kalkuluje się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "oddzielnie dla sieci przesyłowej i rozdzielczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "w sieciach przesyłowych z uwzględnieniem podziału na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_17/pkt_2/lit_a",
+       "text": "dystansowe stawki opłat — dla odbiorców, którzy korzystają z prawa do usług przesyłowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_17/pkt_2/lit_b",
+       "text": "dystansowe lub grupowe stawki opłat — dla odbiorców, którzy nie korzystają z prawa do usług przesyłowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_17/pkt_2/lit_c",
+       "text": "w sieciach rozdzielczych, jako grupowe stawki opłat za usługi przesyłowe.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Stawki opłat za usługi przesyłowe, o których mowa w § 17, kalkuluje się jako stawki opłaty zmiennej i stawki opłaty stałej, na podstawie uzasadnionych kosztów dostarczania paliwa gazowego dla odbiorców lub grup taryfowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Stawki opłaty stałej mogą być różnicowane odpowiednio do charakterystyki odbioru paliwa gazowego i potrzeb jego magazynowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Dla odbiorców przyłączonych do sieci rozdzielczej grupowe stawki opłat za usługi przesyłowe ustala się na podstawie łącznych kosztów, ponoszonych przez przedsiębiorstwo energetyczne w związku z przesyłaniem i dystrybucją paliwa gazowego od źródła gazu do odbiorcy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Stawki opłaty zmiennej za usługi przesyłowe kalkuluje się na podstawie kosztów zmiennych określonych dla danej grupy taryfowej, w szczególności kosztów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "zakupu paliw gazowych w ilości niezbędnej do pokrycia różnicy między ilością paliw gazowych wprowadzoną do sieci gazowej a ilością paliw gazowych pobraną z sieci przez odbiorców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "utrzymania standardów jakościowych dostarczanych paliw gazowych, poprzez zapewnienie niezbędnych rezerw tych paliw i zdolności przesyłowych w źródłach, magazynach i sieciach własnych oraz innych podmiotów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Stawki opłaty stałej za usługi przesyłowe kalkuluje się na podstawie kosztów stałych określonych dla danej grupy taryfowej, w szczególności kosztów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "eksploatacji i odtworzenia przyłączy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "eksploatacji, odtworzenia, modernizacji i rozbudowy sieci gazowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "przesyłania paliw gazowych sieciami gazowymi o innych parametrach i sieciami innych przedsiębiorstw energetycznych prowadzących działalność gospodarczą w zakresie przesyłania i dystrybucji paliw gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "rezerwowania przesyłania paliw gazowych sieciami gazowymi o innych parametrach i sieciami innych przedsiębiorstw, o których mowa w pkt 3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_19/ust_2/pkt_5",
+       "text": "magazynowania paliw gazowych w górotworze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_19/ust_2/pkt_6",
+       "text": "budowy i eksploatacji układów pomiarowych oraz wykorzystania infrastruktury technicznej, koniecznych dla zapewnienia dostarczania paliw gazowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Stawki opłaty zmiennej: dystansowe lub grupowe kalkuluje się na jednostkę paliwa gazowego odbieranego z sieci w miejscu jego dostarczania przez przedsiębiorstwo energetyczne, jako stawki niezależne od odległości przesyłania tego paliwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Stawki opłaty stałej dystansowej kalkuluje się na jednostkę mocy umownej i jednostkę długości sieci służącej do przesyłania paliwa gazowego, od miejsca jego pozyskania do miejsca odbioru tego paliwa przez odbiorcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Stawki opłaty stałej grupowej kalkuluje się na jednostkę mocy umownej, z zastrzeżeniem § 22 pkt 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Stawki opłaty stałej za usługi przesyłowe kalkuluje się na podstawie uzasadnionych kosztów stałych przesyłania i dystrybucji paliwa gazowego, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Stawki opłaty zmiennej za usługi przesyłowe kalkuluje się na podstawie uzasadnionych kosztów zmiennych przesyłania i dystrybucji paliwa gazowego, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Przedsiębiorstwo energetyczne uwzględnia w kalkulacji stawki opłaty zmiennej za usługi przesyłowe część kosztów stałych, w wysokości wynikającej z wymagań określonych w § 33 ust. 1. Wysokość uwzględnianych kosztów może być zróżnicowana dla poszczególnych grup taryfowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Opłatę za usługę przesyłową:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_22/pkt_1",
+     "text": "dla stawek dystansowych oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ozg = Szd X A+ S44 X M, x L"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "O,4 — opłatę za usługę przesyłową, wyrażoną w złotych, S,g — stawkę opłaty zmiennej dystansowej, wyrażoną w złotych za 1 m? przesłanego paliwa gazowego,"
+      },
+      {
+       "type": "text",
+       "text": "Q —ilosé przesłanego paliwa gazowego, wyrażoną w metrach sześciennych,"
+      },
+      {
+       "type": "text",
+       "text": "S„g — stawkę opłaty stałej dystansowej odniesioną do okresu rozliczeniowego, wyrażoną w złotych za jednostkę mocy umownej i jednostkę długości drogi przesyłania paliwa gazowego,"
+      },
+      {
+       "type": "text",
+       "text": "M. — moc umowną, wyrażoną w metrach sześciennych na dobę lub w metrach sześciennych na godzinę,"
+      },
+      {
+       "type": "text",
+       "text": "L — obliczeniową długość drogi przesyłania paliwa gazowego, obliczaną jako najmniejszą możliwą do świadczenia takiej usługi odległość między miejscem pozyskania i miejscem odbioru tego paliwa, liczoną wzdłuż gazociągów przesyłowych określonych na schemacie sieci przesyłowych przedsiębiorstwa energetycznego, wyrażoną w metrach,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_22/pkt_2",
+     "text": "dla stawek grupowych, z zastrzeżeniem pkt 3, oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Og = Sz9 X Q + $.4 X M"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "09 — opłatę za usługę przesyłową, wyrażoną w złotych, | S,, — stawkę opłaty zmiennej grupowej, wyrażoną w złotych za 1 m$ przestanego paliwa gazowego,"
+      },
+      {
+       "type": "text",
+       "text": "Q — ilość przestanego paliwa gazowego, wyrażoną w metrach sześciennych, Ss9 — stawkę opłaty stałej grupowej odniesioną do okresu rozliczeniowego, wyrażoną w złotych za jednostkę mocy umownej,"
+      },
+      {
+       "type": "text",
+       "text": "M, — moc umowną, wyrażoną w metrach sześciennych na dobę lub w metrach sześciennych na godzinę,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_22/pkt_3",
+     "text": "dla stawek grupowych w przypadku odbiorców odbierających paliwa gazowe w ilości do 10 m*/h w przeliczeniu na gaz ziemny wysokometanowy oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ogg = Szy X Q + S,,"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Ogg — opłatę za usługę przesyłową, wyrażoną w złotych,"
+      },
+      {
+       "type": "text",
+       "text": "Szg — stawkę opłaty zmiennej grupowej, wyrażoną w złotych za 1 m? przestanego paliwa gazowego,"
+      },
+      {
+       "type": "text",
+       "text": "Q -—§ilosé przestanego paliwa gazowego, wyrażoną w metrach sześciennych,"
+      },
+      {
+       "type": "text",
+       "text": "Seg — opłatę stata grupową odniesioną do okresu rozliczeniowego dla danej grupy taryfowej, wyrażoną w złotych, obliczaną w zależności od nierównomierności dobowej lub godzinowej przesyłania i odbioru paliwa gazowego w sieci rozdzielczej (N), ustaloną przez przedsiębiorstwo energetyczne — na podstawie średniej charakterystyki odbioru paliwa gazowego dla poszczególnych grup taryfowych, określoną wzorem:"
+      },
+      {
+       "type": "text",
+       "text": "N (dobowa) = (M x 365) : OQ, — dla nierównomierności dobowej lub N (godzinowa) = (M x 8760) : Qp — dla nierównomierności godzinowej, w którym:"
+      },
+      {
+       "type": "text",
+       "text": "M — jednakowa dla całej grupy taryfowej obliczeniowa moc odbioru paliwa gazowego, ustalona na podstawie średniej charakterystyki odbioru tego paliwa dla poszczególnych grup taryfowych, wyrażo-' na w metrach sześciennych na dobę lub w metrach sześciennych na godzinę, Qę — ilość przesłanego paliwa gazowego w roku dla danej grupy taryfowej, wyrażona w metrach sześciennych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji paliw gazowych może ustalić w taryfie stawki opłat i zasady obliczania dodatkowych opłat, pobieranych za dodatkowe usługi lub czynności, wykonywane na dodatkowe zlecenia przyłączonego podmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Dodatkowe opłaty, o których mowa w ust. 1, ustala się za:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_2/pkt_1",
+       "text": "przerwanie i wznowienie dostarczania paliwa gazowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_2/pkt_2",
+       "text": "sprawdzanie prawidłowości wskazań układu pomiarowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji paliw gazowych kalkuluje stawki opłat, o których mowa w ust. 1, napodstawie uzasadnionych kosztów realizacji usług lub czynności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie obrotu paliwami gazowymi kalkuluje ustalane w taryfie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "ceny za paliwa gazowe — na podstawie uzasadnionych kosztów pozyskania paliwa gazowego oraz kosztów własnych związanych z obrotem tym paliwem, wyrażone w złotych za 1 m$ paliwa gazowego,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)stawki opłat abonamentowych — na podstawie uzasadnionych kosztów świadczenia usług, obejmujących w szczególności: odczytywanie wskazań układów pomiarowych, wystawianie faktur, obliczanie i pobieranie należności za dostarczone paliwo gazowe, a także czynności związane z kontrolą układów pomiarowych, dotrzymywania warunków umów i prawidłowości rozliczeń,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_24/ust_1/pkt_3",
+       "text": "bonifikaty i opłaty za niedotrzymanie standardów jakościowych obsługi odbiorców i warunków",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "umów — na podstawie standardów jakościowych, określonych w odrębnych przepisach."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Koszty własne, o których mowa w ust. 1 pkt 1, ustala się na podstawie kosztów prowadzenia działalności gospodarczej w zakresie obrotu paliwami gazowymi, a w szczególności kosztów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "obsługi handlowej związanej z obrotem paliwami gazowymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "finansowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "W przypadku gdy odbiorca, który nie korzysta z prawa do usług przesyłowych, może być zaliczony do więcej niż jednej grupy taryfowej, wówczas ma prawo wyboru jednej z nich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Odbiorca, o którym mowa w ust. 1, może wystąpić do przedsiębiorstwa energetycznego o zmianę grupy taryfowej nie częściej niż raz na 12 miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_25/ust_3",
+     "text": "Grupę taryfową, do której odbiorca został zakwalifikowany, oraz warunki jej zmiany określa umowa sprzedaży paliw gazowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Wyodrębnione w taryfie ceny i stawki opłat dla grup taryfowych mogą być różnicowane z uwzględnieniem podziału roku na okresy czasowe ze względu na uzasadnione koszty dostarczania paliw gazowych w tych okresach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie magazynowania paliw gazowych ustala:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_27/pkt_1",
+     "text": "stawki opłaty zmiennej za usługi magazynowania — na podstawie uzasadnionych kosztów zmiennych, zależnych od ilości paliwa gazowego zatłaczanego do magazynu gazu i odbieranego z tego magazynu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_27/pkt_2",
+     "text": "stawki opłaty stałej za usługi magazynowania — na podstawie uzasadnionych kosztów stałych zależnych od zamówionej pojemności czynnej magazynu i zamawianej mocy gazu odbieranego z magazynu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Opłatę za usługę magazynowania gazu ziemnego oblicza się według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oy = Szy X Vz + Szy x Vo + Sgy X Ve + Soy X My"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Oy — opłatę, wyrażoną w złotych, Sz, — stawkę opłaty zmiennej za zatłoczenie gazu do magazynu, wyrażoną w złotych za 1 m$ gazu zatłoczonego do magazynu,"
+      },
+      {
+       "type": "text",
+       "text": "Vz — ilość gazu zattoczona do magazynu, wyrażoną w metrach sześciennych, S;9 — stawkę opłaty zmiennej za odbiór gazu z magazynu, wyrażoną w złotych za 1 m$ gazu odebranego z magazynu,"
+      },
+      {
+       "type": "text",
+       "text": "Vo ilość gazu odebraną z magazynu, wyrażoną w metrach sześciennych,"
+      },
+      {
+       "type": "text",
+       "text": "Ssy — stawkę opłaty stałej za zamówioną pojemność czynną magazynu w okresie rozliczeniowym, wyrażoną w złotych za 1 m? zamówionej pojemności czynnej magazynu, Sgjy — Stawkę opłaty stałej za zamówioną moc odbioru gazu z magazynu w okresie rozliczeniowym, wyrażoną w złotych za jednostkę mocy umownej odbioru gazu z magazynu,"
+      },
+      {
+       "type": "text",
+       "text": "Ve — zamówioną pojemność czynną magazynu w okresie rozliczeniowym, wyrażoną w metrach sześciennych,"
+      },
+      {
+       "type": "text",
+       "text": "My — zamówioną moc odbioru gazu z magazynu w okresie rozliczeniowym, wyrażoną w metrach sześciennych na dobę lub w metrach sześciennych na godzinę."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Uzasadnione koszty prowadzenia przez przedsiębiorstwo energetyczne działalności gospodarczej w zakresie zaopatrzenia w paliwa gazowe oblicza się dla poszczególnych grup taryfowych na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_29/ust_1/pkt_1",
+       "text": "kosztów pozyskania, magazynowania, przesyłania i dystrybucji oraz obrotu paliwami gazowymi, poniesionych w poprzednim roku obrotowym, przed wprowadzeniem nowej taryfy, wynikających z zatwierdzonych sprawozdań finansowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_29/ust_1/pkt_2",
+       "text": "planowanych średnich rocznych kosztów modernizacji i rozwoju oraz kosztów związanych z realizacją inwestycji w zakresie ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_29/ust_1/pkt_3",
+       "text": "średnich rocznych kosztów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_29/ust_1/pkt_3/lit_a",
+         "text": "współfinansowania przedsięwzięć związanych z rozwojem energetyki niekonwencjonalnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_29/ust_1/pkt_3/lit_b",
+         "text": "współfinansowania przedsięwzięć i usług zmierzających do zmniejszenia zużycia paliw i energii u odbiorców, stanowiących ekonomiczne uzasadnienie uniknięcia budowy nowych źródeł energii i sieci.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Przedsiębiorstwo energetyczne ksztattuje taryfę na podstawie kosztów, o których mowa w ust. 1, w sposób zapewniający ochronę interesów odbiorców przed nieuzasadnionym poziomem cen, w szczególności poprzez dokonywanie zakupów towarów i usług, w tym paliw gazowych, z zachowaniem zasad konkurencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Koszty, o których mowa w ust. 1 pkt 1, ustala się na podstawie ewidencji kosztów, prowadzonej zgodnie z dokumentacją księgową opisującą przyjęte zasady rachunkowości, określone przepisami o rachunkowości, oraz rzeczywistego wykonania w poprzednim roku obrotowym kosztów stałych i kosztów zmiennych poniesionych przez przedsiębiorstwo energetyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_29/ust_4",
+     "text": "Koszty, o których mowa w ust. 1 pkt 2, ustala się na podstawie planu rozwoju, o którym mowa w art. 16 ust. 1 ustawy, jako średnie roczne koszty w okresie objętym planem, wynikające z określonych w tym planie przedsięwzięć, z uwzględnieniem planów zaopatrzenia w paliwa gazowe, o których mowa w art. 20 ustawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_29/ust_5",
+     "text": "Koszty prowadzenia działalności gospodarczej, w tym koszty modernizacji i rozwoju, ochrony środowiska, współfinansowania przedsięwzięć związanych z rozwojem energetyki niekonwencjonalnej, przedsię-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wzięć i usług zmierzających do zmniejszenia zużycia paliw i energii u odbiorców, stanowiących ekonomiczne uzasadnienie uniknięcia budowy nowych źródeł energii i sieci, które są wspólne dla wszystkich lub kilku grup odbiorców, dzieli się na poszczególne grupy odbiorców zgodnie z przyjętą w przedsiębiorstwie energetycznym metodą podziału kosztów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_29/ust_6",
+     "text": "W przypadku przedsiębiorstwa energetycznego prowadzącego różne rodzaje działalności gospodarczej, ponoszone przez to przedsiębiorstwo koszty wspólne dla wszystkich lub kilku rodzajów prowadzonej działalności gospodarczej dzieli się na poszczególne rodzaje prowadzonej działalności gospodarczej, zgodnie z przyjętą w przedsiębiorstwie energetycznym metodą podziału kosztów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_29/ust_7",
+     "text": "Metoda podziału kosztów, o której mowa w ust. 5 i 6, powinna być zgodna z wymogami określonymi w § 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "W celu określenia dopuszczalnych zmian cen i stawek opłat przedsiębiorstwo energetyczne określa cenę wskaźnikową oraz porównywalną cenę wskaźnikową odrębnie dla każdego rodzaju prowadzonej działalności gospodarczej, na którą uzyskało koncesję.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Cenę wskaźnikową, o której mowa w ust. 1, dla prowadzonej działalności gospodarczej w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_30/ust_2/pkt_1",
+       "text": "obrotu paliwami gazowymi — oblicza się jako iloraz rocznych przychodów ze sprzedaży paliwa gazowego, określonych na podstawie cen i stawek opłat obowiązujących w taryfie w danym roku oraz wielkości i struktury sprzedaży w okresie, o którym mowa w § 29 ust. 1 pkt 1, zwanym dalej „rokiem bazowym”, do ilości paliwa gazowego sprzedanego w roku bazowym, z zastrzeżeniem § 32,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_30/ust_2/pkt_2",
+       "text": "przysyłania i dystrybucji paliw gazowych — oblicza się jako iloraz rocznych przychodów za przysyłanie i dystrybucję paliwa gazowego, określonych na podstawie stawek opłat w obowiązującej taryfie w danym roku oraz wielkości i struktury sprzedaży w roku bazowym, do ilości tego paliwa przesłanego siecią w roku bazowym, z zastrzeżeniem 8 32,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "magazynowania paliw gazowych — oblicza się ja- —- 3 ko iloraz przychodów za magazynowanie paliwa gazowego, określonych na podstawie stawek opłat obowiązujących w taryfie w danym roku oraz wielkości i struktury sprzedaży w roku bazowym, do pojemności czynnej magazynów w roku bazowym, z zastrzeżeniem § 32."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Cena wskaźnikowa na dany rok obowiązywania taryfy nie może być wyższa niż porównywalna cena wskaźnikowa obliczona według wzoru:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Con = Cpq_1 X [1 + (RPI - X)/100]"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają: Con — porównywalną cenę wskaźnikową obliczoną na dany rok obowiązywania taryfy,"
+      },
+      {
+       "type": "text",
+       "text": "Cpn-1 — porównywalną cenę wskaźnikową dla roku poprzedzającego dany rok,"
+      },
+      {
+       "type": "text",
+       "text": "RPI — średnioroczny wskaźnik cen towarów i usług konsumpcyjnych w roku poprzedzającym dany rok obowiązywania taryfy, określony w komunikacie Prezesa Głównego Urzędu Statystycznego ogłaszanym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wyrażony w procentach,"
+      },
+      {
+       "type": "text",
+       "text": "X — współczynnik korekcyjny, uwzględniający projektowaną poprawę efektywności funkcjonowania przedsiębiorstwa energetycznego oraz zmianę warunków prowadzenia przez nie działalności gospodarczej, wyrażony w procentach."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "W pierwszym roku obowiązywania taryfy za Cont o którym mowa w ust. 3, przyjmuje się cenę wskaźnikową obliczoną w sposób określony w ust. 2 dla wartości uzyskanych przychodów i wielkości sprzedaży w roku bazowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie przesyłania i dystrybucji paliw gazowych określa, dla każdej grupy taryfowej, średnią cenę sprzedaży.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Średnią cenę sprzedaży, o której mowa w ust. 1, oblicza się jako iloraz rocznych przychodów uzyskanych z przesyłania i dystrybucji paliwa gazowego danej grupie taryfowej, ustalonych na podstawie stawek opłat określonych w taryfie dla danego roku oraz wielkości i struktury sprzedaży w roku bazowym, do ilości paliwa gazowego przesłanego siecią gazową danej grupie taryfowej w roku bazowym, z zastrzeżeniem 8 32.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Wzrost średniej ceny sprzedaży w subsydiowanych grupach taryfowych w danym roku obowiązywania taryfy w stosunku do roku poprzedzającego dany rok nie może być wyższy niż 5 punktów procentowych powyżej wzrostu ceny wskaźnikowej na dany rok dla prowadzonej działalności gospodarczej w zakresie przesyłania i dystrybucji paliwa gazowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "W przychodach, o których mowa w § 30 ust. 2 i § 31 ust. 2, nie uwzględnia się przychodów uzyskanych z opłat:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_32/pkt_1",
+     "text": "dodatkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_32/pkt_2",
+     "text": "za nielegalny pobór paliw gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_32/pkt_3",
+     "text": "za niedotrzymanie warunków umów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Wzrost opłat ponoszonych przez poszczególnych odbiorców za dostarczone im paliwo gazowe w danym roku obowiązywania taryfy w stosunku do roku poprzedzającego dany rok nie może być wyższy niż 12,5 punktów procentowych ponad średnioroczny wskaźnik cen towarów i usług konsumpcyjnych w roku poprzedzającym dany rok, określony w komunikacie Prezesa Głównego Urzędu Statystycznego ogłoszonym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Wysokość opłat ponoszonych przez poszczególnych odbiorców, o których mowa w ust. 1, określa się na podstawie cen i stawek opłat obowiązujących w taryfie w danym roku oraz w roku poprzedzającym dany rok oraz wielkości i struktury sprzedaży w roku poprzedzającym dany rok.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Ustalona przez przedsiębiorstwo energetyczne i zatwierdzona przez Prezesa Urzędu Regulacji Energetyki taryfa oraz współczynnik korekcyjny X, o którym mowa w § 30 ust. 3, obowiązują od roku do 5 lat, z zastrzeżeniem § 43 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "W przypadku nowo tworzonych przedsiębiorstw energetycznych lub podejmowania przez istniejące przedsiębiorstwa nowego rodzaju działalności gospodarczej, w zakresie zaopatrzenia w paliwa gazowe, wysokość ceny wskaźnikowej ustala się na podstawie planowanych przychodów i wielkości sprzedaży lub na podstawie analiz porównawczych z innymi przedsiębiorstwami energetycznymi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "W przypadku nielegalnego pobierania paliwa gazowego przez odbiorcę, przedsiębiorstwo energetyczne pobiera podwyższone opłaty w wysokości dwukrotnych cen i stawek opłat, określonych w taryfie dla danej grupy odbiorców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Podwyższone opłaty, o których mowa w ust. 1, oblicza się dla całego nie objętego przedawnieniem okresu udowodnionego nielegalnego pobierania paliw gazowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "W przypadku gdy paliwa gazowe pobierane są bez zawarcia umowy sprzedaży, za każdą jednostkę tak pobranego paliwa gazowego przedsiębiorstwo energetyczne obciąża pobierającego opłatami za nielegalny pobór w wysokości pięciokrotnych cen i stawek opłat, określonych w taryfie dla odbiorców danej grupy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Opłaty, o których mowa w ust. 1, oblicza się dla całego nie objętego przedawnieniem okresu udowodnionego pobierania paliw gazowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Zasady rozliczeń w obrocie paliwami gazowymi, w tym rozliczeń z indywidualnymi odbiorcami w lokalach"
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie obrotu paliwami gazowymi dokonuje rozliczeń za pobrane paliwa gazowe na podstawie wskazań układu pomiarowego, w okresach rozliczeniowych ustalonych w taryfie lub w umowie sprzedaży paliw gazowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/ust_1/pkt_1",
+       "text": "u indywidualnych odbiorców w lokalach i odbiorców pobierających paliwa gazowe w ilościach do 10 m3%/h w przeliczeniu na gaz ziemny wysokometanowy — w okresach nie dłuższych niż 12 miesięcy, z zastrzeżeniem ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/ust_1/pkt_2",
+       "text": "u odbiorców pobierających paliwa gazowe w ilościach większych od 10 m3/h w przeliczeniu na gaz ziemny wysokometanowy — co miesiąc.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "W przypadku gdy dostarczanie paliwa gazowego odbywa się na podstawie umowy sprzedaży zawartej pomiędzy przedsiębiorstwem energetycznym a właścicielem lub zarządcą budynku działającym na podstawie umowy o zarządzanie budynkiem, podstawą do ustalania wysokości opłat za dostarczane paliwo gazowe, pobieranych przez właściciela lub zarządcę budynku od indywidualnych odbiorców w lokalach, są wskazania układów pomiarowych zainstalowanych w tych lokalach, a w przypadku braku układów pomiarowych — |liczba osób zamieszkujących te lokale.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_38/ust_3",
+     "text": "W okresach, o których mowa w ust. 1 pkt 1i2, mogą być pobierane opłaty za paliwa gazowe w wysokości określonej na podstawie prognozowanego zużycia tych paliw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_38/ust_4",
+     "text": "Jeżeli w wyniku wnoszenia opłat na podstawie prognozowanego zużycia, o którym mowa w ust. 3, powstanie nadpłata lub niedopłata za pobrane paliwo gazowe, przedsiębiorstwo energetyczne jest obowiązane zawiadomić odbiorców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_38/ust_5",
+     "text": "W przypadku powstania nadpłaty lub niedopłaty za pobrane paliwo gazowe:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_38/ust_5/pkt_1",
+       "text": "nadpłata podlega zaliczeniu na poczet płatności ustalonych na najbliższy okres rozliczeniowy, o ile odbiorca w terminie określonym w zawiadomieniu, o którym mowa w ust. 4, nie krótszym niż 7 dni od dnia zawiadomienia o nadpłacie, nie zażąda jej zwrotu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_38/ust_5/pkt_2",
+       "text": "niedopłata jest doliczana do pierwszego rachunku, ustalonego dla najbliższego okresu rozliczeniowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "W przypadku stwierdzenia nieprawidłowości w działaniu układu pomiarowego lub przyjęcia do rozliczeń błędnych odczytów wskazań układu pomiarowego, które spowodowały zawyżenie należności za pobrane paliwo gazowe, przedsiębiorstwo energetyczne jest obowiązane dokonać korekty uprzednio wystawionych rachunków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Korekta, o której mowa w ust. 1, obejmuje cały okres rozliczeniowy lub okres, w którym występowały stwierdzone nieprawidłowości lub błędy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Przedsiębiorstwo energetyczne obniża odbiorcy wysokość opłat za świadczone usługi przesyłowe i usługi magazynowania gazu w sieci przesyłowej lub rozdzielczej proporcjonalnie do wielkości ograniczenia mocy umownej i czasu trwania przerwy lub ograniczenia, a w szczególności w przypadku przerw lub ograniczeń wynikających z:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_40/pkt_1",
+     "text": "awarii, zagrożenia wybuchem lub wybuchu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_40/pkt_2",
+     "text": "zagrożenia pożarem lub pożaru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_40/pkt_3",
+     "text": "prowadzenia prac związanych z usuwaniem awarii,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_40/pkt_4",
+     "text": "wykonywania planowanych prac konserwacyjnych lub remontowych sieci gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_40/pkt_5",
+     "text": "prowadzenia prac związanych z przytaczaniem nowych odbiorców lub prac przyłączeniowych w sieci gazowej należącej do przedsiębiorstwa gazowniczego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Odbiorcy przysługują bonifikaty w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_41/ust_1/pkt_1",
+       "text": "ograniczenia ciśnienia dostarczanego paliwa gazowego poniżej wielkości określonych w umowie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_41/ust_1/pkt_2",
+       "text": "niespełniania przez paliwo gazowe standardów jakościowych określonych w odrębnych przepisach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Przedsiębiorstwo energetyczne jest obowiązane udzielić lub odmówić udzielenia bonifikaty w terminie 30 dni od dnia złożenia wniosku przez odbiorcę; wysokość bonifikaty określa taryfa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "W pierwszej taryfie opracowanej na podstawie niniejszego rozporządzenia przedsiębiorstwo energetyczne do kalkulacji cen i stawek opłat może przyjmować poniesione koszty, o których mowa w § 29 ust. 1 pkt 1, oraz przychody i wielkość sprzedaży z okresu ostatnich 12 miesięcy poprzedzających, nie więcej niż o 2 miesiące, miesiąc złożenia wniosku o zatwierdzenie taryfy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Przedsiębiorstwo energetyczne ustala pierwszą taryfę na okres jednego roku; taryfa ta może obowiązywać do dnia wejścia w życie nowej taryfy, jednak nie dłużej niż 18 miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Wzrost średniej ceny wskaźnikowej ustalonej na podstawie taryfy, o której mowa w ust. 1, w stosunku do średniej ceny ustalonej na podstawie ostatnio obowiązującej taryfy nie może przekraczać 11%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Średnią cenę wskaźnikową, o której mowa w ust. 2, oblicza się jako iloraz przychodów uzyskanych tącznie z prowadzonej przez przedsiębiorstwo energetyczne działalności gospodarczej, na które uzyskało koncesje, do wielkości sprzedanego paliwa gazowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Wzrost opłat ponoszonych przez poszczególnych odbiorców za dostarczone paliwo gazowe, określony zgodnie z § 33, nie może przekroczyć 12,5%.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 44, Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: J. Steinhoff"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

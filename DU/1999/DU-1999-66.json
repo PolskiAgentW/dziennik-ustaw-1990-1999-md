@@ -1,0 +1,914 @@
+{
+ "eli": "DU/1999/66",
+ "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 15 stycznia 1999 r. w sprawie ustalenia zakresu niezbędnych danych gromadzonych przez świadczeniodawców oraz w systemach informatycznych Kas Chorych, a także zakresu i procedury wymiany danych pomiędzy Kasami Chorych oraz Kasami Chorych a świadczeniodawcami, Urzędem Nadzoru Ubezpieczeń Zdrowotnych i Krajowym Związkiem Kas Chorych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/66/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA I OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 stycznia 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia zakresu niezbędnych danych gromadzonych przez świadczeniodawców oraz w systemach informatycznych Kas Chorych, a także zakresu i procedury wymiany danych pomiędzy Kasami Chorych oraz Kasami Chorych a świadczeniodawcami, Urzędem Nadzoru Ubezpieczeń Zdrowotnych i Krajowym Związkiem Kas Chorych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 167 ust. 8 pkt 4 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153 i Nr 75, poz. 468 oraz z 1998 r. Nr 117, poz. 756, Nr 137, poz. 887, Nr 144, poz. 929 i Nr 162, poz. 1116) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Świadczeniodawcy gromadzą następujące dane związane z każdym udzielonym świadczeniem zdrowotnym, zwanym dalej „świadczeniem”:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "charakteryzujące pacjenta, któremu udzielono świadczenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "nazwisko,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "imię (imiona),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "numer ewidencyjny PESEL, jeżeli został nadany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "data urodzenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "płeć;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "związane z Kasą Chorych, do której należy pacjent:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "symbol Kasy Chorych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "numer karty ubezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "numer służący do potwierdzania wykonania świadczenia, uzyskany z karty ubezpieczenia — w przypadku gdy karta jest stosowana do potwierdzania świadczeń;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "charakteryzujące wykonane świadczenie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "kod rodzaju świadczenia,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "b)kod rozpoznania medycznego związanego z udzielonym świadczeniem według międzynarodowej klasyfikacji chorób, urazów i zatruć,"
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "opłata wniesiona przez pacjenta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "dopłata ze strony Kasy Chorych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "charakteryzujące fazę wykonania świadczenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "numer REGON świadczeniodawcy wykonującego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "typ komórki organizacyjnej świadczeniodawcy, w której udzielono świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_4/lit_c",
+       "text": "data początku wykonywania świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_4/lit_d",
+       "text": "data wykonania (końca wykonywania) świadczenia;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": ". Dziennik Ustaw Nr 7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "charakteryzujące fazę zlecenia wykonanego świadczenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "numer REGON świadczeniodawcy zlecającego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "typ komórki organizacyjnej świadczeniodawcy, w której wypisano zlecenie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "numer prawa wykonywania zawodu lekarza zlecającego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_5/lit_d",
+       "text": "data zlecenia. 8 2. Kasy Chorych gromadzą w swoich systemach informatycznych następujące dane:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "dotyczące świadczeniodawców, z którymi zawarto umowy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "numer REGON,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "nazwa świadczeniodawcy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "adres miejsca prowadzenia działalności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "kod terytorialny miejsca prowadzenia działalności według klasyfikacji Głównego Urzędu Statystycznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "nazwa banku świadczeniodawcy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_1/lit_f",
+       "text": "numer konta bankowego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "dotyczące umów zawartych ze świadczeniodawcami:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "identyfikator umowy (ustalany przez Kasę Chorych),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "okres obowiązywania umowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "typy komórek organizacyjnych świadczeniodawcy, w których zgodnie z umową mają być wykonywane świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "typ jednostki kalkulacyjnej będącej podstawą do rozliczania umowy, wybrany dla danego typu komórki organizacyjnej świadczeniodawcy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_2/lit_e",
+       "text": "liczba jednostek kalkulacyjnych określonych w lit. d), ustalona w umowie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_2/lit_f",
+       "text": "cena pojedynczej jednostki kalkulacyjnej określonej w lit. d), ustalona w umowie;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "dotyczące rocznych planów zamawianych świadczeń:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "typy komórek organizacyjnych świadczeniodawców, w których mają być wykonywane świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "typ jednostki kalkulacyjnej wybrany dla każdego typu komórki organizacyjnej, w której mają być wykonywane świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "planowana liczba jednostek kalkulacyjnych określonych w lit. b),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "średnia, planowana cena jednostki kalkulacyjnej określonej w lit. b);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "dotyczące ubezpieczonych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "nazwisko,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "imię (imiona),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_4/lit_c",
+       "text": "numer ewidencyjny PESEL, jeżeli został nadany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_4/lit_d",
+       "text": "numer identyfikacji podatkowej NIP, jeżeli został nadany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_4/lit_e",
+       "text": "rodzaj i numer dowodu tożsamości, jeżeli nie został nadany ani numer PESEL, ani numer NIP,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_4/lit_f",
+       "text": "data urodzenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_4/lit_g",
+       "text": "płeć,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_4/lit_h",
+       "text": "adres zamieszkania, 3",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_4/lit_i",
+       "text": "kod gminy miejsca zamieszkania według klasyfikacji Głównego Urzędu Statystycznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_1/pkt_4/lit_j",
+       "text": "data objęcia ubezpieczeniem zdrowotnym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_1/pkt_4/lit_k",
+       "text": "data ustania członkostwa w Kasie Chorych, |) numer REGON świadczeniodawcy zapewniającego podstawową opiekę zdrowotną;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "dotyczące dokumentów wydanych ubezpieczonym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "numery kart ubezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "data wydania karty ubezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "data unieważnienia karty ubezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_5/lit_d",
+       "text": "numery dokumentów służących do potwierdzania wykonania świadczeń. § 3. Świadczeniodawcy przekazują Kasom Chorych, z którymi mają zawarte umowy, następujące dane dotyczące świadczeń wykonanych na rzecz ubezpieczonych w nich osób:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "dane rozliczeniowe dotyczące umów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "identyfikator umowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "okres rozliczeniowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "typy komórek organizacyjnych świadczeniodawcy, w których zgodnie z umową miały być wykonywane świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "liczba wykonanych jednostek kalkulacyjnych określonych w umowie dla danego typu komórki organizacyjnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "kwota do zapłacenia przez Kasę Chorych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "na wniosek Kasy Chorych dane gromadzone zgodniez 8 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "numer ewidencyjny PESEL pacjenta, jeżeli został nadany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "numer karty ubezpieczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "numer służący do potwierdzania wykonania świadczenia, uzyskany z karty ubezpieczenia — w przypadku gdy karta jest stosowana do potwierdzania świadczeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "kod rodzaju świadczenia,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "e)kod rozpoznania medycznego związanego z udzielonym świadczeniem według międzynarodowej klasyfikacji chorób, urazów i zatruć,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_2/lit_f",
+       "text": "opłata wniesiona przez pacjenta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_2/lit_g",
+       "text": "dopłata ze strony Kasy Chorych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_2/lit_h",
+       "text": "numer REGON świadczeniodawcy wykonującego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_2/lit_i",
+       "text": "typ komórki organizacyjnej świadczeniodawcy, w której wykonano świadczenie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_1/pkt_2/lit_j",
+       "text": "data początku wykonywania świadczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_1/pkt_2/lit_k",
+       "text": "data wykonania (końca wykonywania) świadczenia,",
+       "children": [
+        {
+         "type": "text",
+         "text": "|) numer REGON świadczeniodawcy zlecającego,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_1/pkt_2/lit_m",
+       "text": "typ komórki organizacyjnej świadczeniodawcy zlecającego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_1/pkt_2/lit_n",
+       "text": "numer prawa wykonywania zawodu lekarza zlecającego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_1/pkt_2/lit_o",
+       "text": "data zlecenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Świadczeniodawcy przekazują regionalnej Kasie Chorych, na której obszarze prowadzą działalność, następujące dane — gromadzone zgodnie z § 1 — dotyczące świadczeń wykonanych na rzecz ubezpieczonych w Kasach Chorych, z którymi nie mają zawartej umowy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "symbol Kasy Chorych, w której ubezpieczony jest pacjent;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "numer ewidencyjny PESEL pacjenta, jeżeli został nadany;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "numer karty ubezpieczenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "numer służący do potwierdzania wykonania świadczenia, uzyskany z karty ubezpieczenia — w przypadku gdy karta jest stosowana do potwierdzania świadczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "kod rodzaju świadczenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "kod rozpoznania medycznego związanego z udzielonym świadczeniem według międzynarodowej klasyfikacji chorób, urazów i zatruć;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "opłata wniesiona przez pacjenta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "dopłata ze strony Kasy Chorych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_4/pkt_9",
+     "text": "numer REGON świadczeniodawcy wykonującego;",
+     "children": [
+      {
+       "type": "text",
+       "text": "10)typ komórki organizacyjnej świadczeniodawcy, w której wykonano świadczenie;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_4/pkt_11",
+     "text": "data początku wykonywania świadczenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_4/pkt_12",
+     "text": "data wykonania (końca wykonywania) świadczenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_4/pkt_13",
+     "text": "numer REGON świadczeniodawcy zlecającego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_4/pkt_14",
+     "text": "typ komórki organizacyjnej świadczeniodawcy zlecającego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_4/pkt_15",
+     "text": "numer prawa wykonywania zawodu lekarza zlecającego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_4/pkt_16",
+     "text": "data zlecenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Kasy Chorych przekazują między sobą następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "dotyczące świadczeń wykonanych na rzecz ubezpieczonych w innych Kasach Chorych, otrzymane od świadczeniodawców zgodnie z § 4;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "o Świadczeniodawcach, określone w § 2 pkt 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Kasy Chorych przekazują do Krajowego Związku Kas Chorych oraz Urzędu Nadzoru Ubezpieczeń Zdrowotnych następujące dane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "związane z planowanymi świadczeniami i podpisanymi umowami:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_1/lit_a",
+       "text": "zestawienie planowanych świadczeń na podstawie danych określonych w § 2 pkt 3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_1/lit_b",
+       "text": "liczba świadczeniodawców, z którymi zawarto umowy, dla każdej pozycji występującej w zestawieniu, o którym mowa pod lit. a), z podaniem średniej, minimalnej i maksymalnej ceny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_1/lit_c",
+       "text": "dane dotyczące realizacji ilościowej i wartościowej świadczeń określonych pod lit. a);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "związane z populacją ubezpieczonych i udzielonymi świadczeniami:",
+     "children": [
+      {
+       "type": "text",
+       "text": "a)struktura wiekowa osób ubezpieczonych z uwzględnieniem płci,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_2/lit_b",
+       "text": "liczba osób, którym udzielono świadczeń, w podziale na typy komórek organizacyjnych wykonujących świadczenia, rodzaje świadczeń oraz płeć i strukturę wiekową pacjentów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_2/lit_c",
+       "text": "liczba udzielonych świadczeń w podziale na typy komórek organizacyjnych wykonujących świadczenia, rodzaje świadczeń oraz płeć i strukturę wiekową pacjentów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Wymiana danych pomiędzy poszczególnymi podmiotami odbywa się na dowolnym, uzgodnionym między stronami nośniku informacji, z wyjątkiem danych, o których mowa w § 3 pkt 2, 8 4i 8 5, które są przekazywane w formie elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Procedura wymiany danych między poszczególnymi podmiotami, niezależnie od stosowanego nośnika danych, składa się z następujących faz:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "rejestracji faktu wysłania dokumentu przez podmiot wysyłający;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "przekazania dokumentu z danymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "rejestracji faktu otrzymania dokumentu przez podmiot odbierający;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "potwierdzenia odbioru przez podmiot odbierający.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Podmioty wymieniające dane ustalają organizacyjne i techniczne metody ochrony przekazywanych danych odpowiednie do stopnia zagrożenia związanego z ich zniszczeniem, utratą, dostępem osób nieupoważnionych lub możliwością zmiany przekazywanych danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów § 1, 83 pkt 2, 8 4, 8 5 pkt 1, § 6 pkt 1, które wchodzą w życie z dniem 1 kwietnia 1999 r., oraz § 2 pkt 4i5, 8 6 pkt 2, które wchodzą w życie z dniem 1 czerwca 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia i Opieki Społecznej: W. Maksymowicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

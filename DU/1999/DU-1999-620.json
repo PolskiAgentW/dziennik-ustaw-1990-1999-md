@@ -1,0 +1,541 @@
+{
+ "eli": "DU/1999/620",
+ "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 24 maja 1999 r. zmieniające rozporządzenie w sprawie wzorów dokumentów stwierdzających uprawnienia do kierowania pojazdami.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/620/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ \"z dnia 24 maja 1999 r. zmieniające rozporządzenie w sprawie wzorów dokumentów stwierdzających uprawnienia do kierowania pojazdami. Na podstawie art. 100 pkt 1 ustawy z dnia 20 czerwca 1997 r. — Prawo o ruchu drogowym (Dz. U. Nr98, poz. 602, poz. 668 i Nr 133, poz. 872) zarządza się, co następuje: 8 1. W rozporządzeniu Ministra Transportu i Gospodarki Morskiej z dnia 23 grudnia 1997 r. w sprawie wzorów dokumentów stwierdzających uprawnienia do kierowania pojazdami (Dz. U. z 1998 r. Nr 18, poz. 86)"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "załącznik nr 1 do rozporządzenia otrzymuje brzmienie: „WZÓR KRAJOWEGO PRAWA JAZDY Strona 1",
+   "children": [
+    {
+     "type": "text",
+     "text": "Strona 2"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Opis wzoru krajowego prawa jazdy"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Format karty identyfikacyjnej (układ poziomy) o wymiarze 53,98 x 85,60 mm, promieniu zaokrągleń 3,18 mm i grubości 0,76 mm (+80 um/ —300 um), której inne właściwości fizyczne i chemiczne odpowiadają standardom określonym w normach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "PN-ISO/IEC 7810 : 1997. Karty identyfikacyjne. Charakterystyki fizyczne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "PN-EN ISO/IEC 10373 : 1997. Karty identyfikacyjne. Metody testowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Karta składa się z rdzenia karty i folii laminującej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Barwa tła rdzenia prawa jazdy jest utrzymana w tonacji różowej z wielobarwnymi nadrukami zabezpieczającymi, z zastrzeżeniem ust. 6 pkt 1 lit. d). Poza rdzeń wystaje przezroczysty margines folii laminującej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Barwa tekstu, symboli i znaków graficznych prawa jazdy jest czarna, z zastrzeżeniem ust. 6 pkt 1 lit. b).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Prawo jazdy zawiera elementy zabezpieczające dokument przed podrobieniem.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Prawo jazdy ma dwie strony:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_6/pkt_1",
+     "text": "na pierwszej stronie umieszcza się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_6/pkt_1/lit_a",
+       "text": "w dwóch wierszach — wyrazy o treściach: PERMIS DE CONDUIRE, PRAWO JAZDY, RZECZPOSPOLITA POLSKA,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_6/pkt_1/lit_b",
+       "text": "w lewym górnym rogu — symbol PL wpisany w elipsę o barwie białej na niebieskim tle w kształcie prostokąta o wymiarze 12x20 mm,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_6/pkt_1/lit_c",
+       "text": "następujące cyfry i dane oznaczające: 1 — Nazwisko,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 — Imię,"
+        },
+        {
+         "type": "text",
+         "text": "3 — Data i miejsce urodzenia, 4a — Data wydania prawa jazdy, 4b — Data ważności prawa jazdy (znak „—” oznacza bezterminową ważność prawa jazdy),"
+        },
+        {
+         "type": "text",
+         "text": "4c — Organ wydający (w postaci identyfikatora jednostek podziału terytorialnego kraju),"
+        },
+        {
+         "type": "text",
+         "text": "4d — Nr PESEL,"
+        },
+        {
+         "type": "text",
+         "text": "— Numer prawa jazdy,"
+        },
+        {
+         "type": "text",
+         "text": "— Podpis posiadacza,"
+        },
+        {
+         "type": "text",
+         "text": "— Adres,"
+        },
+        {
+         "type": "text",
+         "text": "— Kategorie, z wyjątkiem tych, których posiadanie jest warunkiem uzyskania następnych,"
+        },
+        {
+         "type": "text",
+         "text": "© © W wo"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_6/pkt_1/lit_d",
+       "text": "pod symbolem, o którym mowa w lit. b) — fotografię,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_6/pkt_2",
+     "text": "na drugiej stronie umieszcza się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_6/pkt_2/lit_a",
+       "text": "tabelę o wymiarze 44 x 51 mm zawierającą 16 wierszy podzielonych, z wyjątkiem ostatniego, na cztery kolumny oznaczone cyframi:",
+       "children": [
+        {
+         "type": "text",
+         "text": "9 — Kategorie,"
+        },
+        {
+         "type": "text",
+         "text": "10 — Data wydania uprawnienia,"
+        },
+        {
+         "type": "text",
+         "text": "11 — Data ważności uprawnienia (znak „—” oznacza bezterminową ważność uprawnienia),"
+        },
+        {
+         "type": "text",
+         "text": "12 — Ograniczenia;"
+        },
+        {
+         "type": "text",
+         "text": "wiersze tabeli mają wymiar 2,75 x 51 mm, a cztery rubryki — wymiary odpowiednio: 2,75 x 17 mm, 2,75 x 10 mm, 2,75 x 10 mm i 2,75 14mm;"
+        },
+        {
+         "type": "text",
+         "text": "w polach kolumny oznaczonej cyfrą 9 umieszcza się literowe oznaczenia kategorii prawa jazdy oraz, z wyjątkiem kategorii T, ustalone dla nich symbole graficzne;"
+        },
+        {
+         "type": "text",
+         "text": "w polach kolumny oznaczonej liczbą 12 umieszcza się liczbowe oznaczenie kodów, które określają następujące ograniczenia w korzystaniu z uprawnień lub informacje dodatkowe:"
+        },
+        {
+         "type": "text",
+         "text": "01 — wymagane używanie szkieł korekcyjnych podczas jazdy,"
+        },
+        {
+         "type": "text",
+         "text": "02 — wymagane używanie aparatu słuchowego podczas jazdy,"
+        },
+        {
+         "type": "text",
+         "text": "03 — wymagane używanie protez narządu ruchu podczas jazdy,"
+        },
+        {
+         "type": "text",
+         "text": "44 — wymagane dostosowanie pojazdu do rodzaju schorzenia,"
+        },
+        {
+         "type": "text",
+         "text": "70 — wymiana prawa jazdy wydanego za granicą,"
+        },
+        {
+         "type": "text",
+         "text": "71 — wtórnik,"
+        },
+        {
+         "type": "text",
+         "text": "101 — wymagane dodatkowe oznakowanie pojazdu,"
+        },
+        {
+         "type": "text",
+         "text": "102 — wymiana uzyskanego przed dniem 1 lipca 1999 r. prawa jazdy kategorii C bez posiadania kategorii B prawa jazdy,"
+        },
+        {
+         "type": "text",
+         "text": "103 — wymiana uzyskanego przed dniem 1 lipca 1999 r. prawa jazdy kategorii D bez posiadania kategorii B prawa jazdy,"
+        },
+        {
+         "type": "text",
+         "text": "104 — wymiana prawa jazdy kategorii M, z ograniczeniem do kierowania tylko pojazdami wolnobieżnymi,"
+        },
+        {
+         "type": "text",
+         "text": "105 — wymiana prawa jazdy kategorii trolejbusowej, z ograniczeniem do kierowania tylko trolejbusami;"
+        },
+        {
+         "type": "text",
+         "text": "w przypadku gdy ograniczenie dotyczy wszystkich posiadanych przez osobę kategorii prawa jazdy, odpowiedni kod umieszcza się wyłącznie w ostatnim wierszu tabeli,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_6/pkt_2/lit_b",
+       "text": "w lewym górnym rogu — dwie ramki ograniczające obszar o wymiarze 7 x 18 mm każda, z których górna oznaczona jest liczbą 13; odstęp pomiędzy dłuższymi bokami tych ramek wynosi 1 mm, a pomiędzy krótszymi",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "bokami ramek a krótszym bokiem tabeli, o której mowa w lit. a) — 5 mm; w dolnej ramce umieszcza się numer druku składający się z jednej litery alfabetu łacińskiego i siedmiu cyfr arabskich,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_6/pkt_2/lit_c",
+       "text": "poniżej ramek, o których mowa w lit. b), dopuszcza się umieszczenie kodu kreskowego zawierającego cechy identyfikujące dokument,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_6/pkt_2/lit_d",
+       "text": "w lewym dolnym rogu — objaśnienie dotyczące rodzaju wypełnianych danych: 1 — Nazwisko, 2 — Imię,",
+       "children": [
+        {
+         "type": "text",
+         "text": "4a — Data wydania prawa jazdy, 4b — Data ważności prawa jazdy, 4c — Organ wydający, 4d — Nr PESEL, 5 — Numer prawa jazdy, 8 — Adres, 9 — Kategorie, 10 — Data wydania uprawnienia, 11 — Data ważności uprawnienia, 12 — Ograniczenia.”;"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_6/pkt_2",
+     "text": "w załączniku nr 2 do rozporządzenia strona 2 okładki otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_6/pkt_3",
+     "text": "załącznik nr 5 do rozporządzenia otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„WZÓR ŚWIADECTWA KWALIFIKACJI",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Strona 1",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ŚWIADECTWO KWALIFIKACJI",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "—",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Strona 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ob",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ip! | | nr i i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "CIE, | UB |",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Opis wzoru świadectwa kwalifikacji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". Format karty identyfikacyjnej (układ poziomy) o wymiarze 53,98 x 85,60 mm, promieniu zaokrągleń 3,18 mm i grubości 0,76 mm (+80 um/ — 300 um), której inne właściwości fizyczne i chemiczne odpowiadają standardom określonym w normach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) PN-ISO/IEC 7810 : 1997. Karty identyfikacyjne. Charakterystyki fizyczne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) PN-EN ISO/IEC 10373 : 1997. Karty identyfikacyjne. Metody testowania. . Karta składa się z rdzenia karty i folii laminującej. „ Barwa tła rdzenia świadectwa kwalifikacji utrzymana jest w tonacji jasnozielonej z wielobarwnymi nadrukami zabezpieczającymi, z zastrzeżeniem ust. 6 pkt 1 lit. c). Poza rdzeń wystaje przezroczysty margines folii laminującej. „Barwa tekstu, symboli i znaków graficznych świadectwa kwalifikacji jest czarna. . Świadectwo kwalifikacji zawiera elementy zabezpieczające dokument przed podrobieniem. . Świadectwo kwalifikacji ma dwie strony:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) na pierwszej stronie umieszcza się: a)w jednym wierszu — wyrazy o treści: ŚWIADECTWO KWALIFIKACJI,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) następujące cyfry i dane oznaczające: 1 — Nazwisko, 2 — Imię, 3 — Data urodzenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4a — Data wydania świadectwa kwalifikacji, 4b — Organ wydający (w postaci identyfikatora jednostek podziału terytorialnego), 4c — Nr PESEL, 5 — Numer świadectwa kwalifikacji, 7 — Podpis posiadacza, 8 — Adres, 9 — Kategorie, z wyjątkiem tych, których posiadanie jest warunkiem uzyskania następnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) w lewym górnym rogu — fotografię,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) na drugiej stronie umieszcza się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) tabelę o wymiarze 44 x 51 mm zawierającą cztery kolumny oznaczone cyframi: 9 — Kategorie, 10 — Data ważności, 11 — Kwalifikacje, 12 — Opis kwalifikacji; w trzech pierwszych kolumnach wiersze tabeli mają wymiar 2,75 x 37 mm i podzielone są, z wyjątkiem ostatniego wiersza, na trzy rubryki o wymiarach odpowiednio: 2,75 x 7 mm, 2,75 x 10 mm i 2,75 x 20 mm; w polach kolumny oznaczonej cyfrą 9 umieszcza się literowe oznaczenia katę-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "gorii prawa jazdy, a w polu kolumny oznaczonej liczbę 12 — o wymiarze 44 x 14 mm — liczbowe oznaczenia kodów kwalifikacji i ich opis:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "501 — Posiadanie prawa jazdy przez okres co najmniej dwóch lat,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "502 — Posiadanie prawa jazdy przez okres co najmniej trzech lat,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "503 — Wykazanie się znajomością topografii miejscowości,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "504 — Ukończenie kursu dokształcającego w zakresie przewozu materiałów niebezpiecznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "505 — Poddanie się kontrolnym badaniom lekarskim,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "506 — Poddanie się badaniu psychologicznemu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "600 — Poddanie się kontrolnym badaniom lekarskim i badaniu psychologicznemu przez kierującego tramwajem;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w przypadku gdy kwalifikacje dotyczą wszystkich posiadanych przez osobę kategorii prawa jazdy, odpowiedni kod umieszcza się wyłącznie w ostatnim wierszu tabeli. Wtórnik świadectwa kwalifikacji oznacza się kodem — 71, a posiadanie prawa jazdy przez okres co najmniej 1 roku przez kierujących pojazdami Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji i Straży Granicznej kodem — 500,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) w lewym górnym rogu — ramkę ograniczającą obszar o wymiarze 7 x 18 mm; odstęp pomiędzy krótszym bokiem ramki a krótszym bokiem tabeli, o której mowa w lit. a), wynosi 5 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) w ramce, o której mowa w lit. b) — numer druku, składający się z jednej litery alfabetu łacińskiego i siedmiu cyfr arabskich,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) poniżej ramki, o której mowa w lit. b), dopuszcza się umieszczenie kodu kreskowego zawierającego cechy identyfikujące dokument,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) w lewym dolnym rogu — objaśnienie dotyczące rodzaju wypełnianych danych:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 — Nazwisko,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 — Imię,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 — Data urodzenia, 4a — Data wydania świadectwa kwalifikacji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4b — Organ wydający,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4c — Nr PESEL,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5 — Numer świadectwa kwalifikacji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8 — Adres,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9 — Kategorie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10 — Data ważności,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11 — Kwalifikacje,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12 — Opis kwalifikacji.”",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu i Gospodarki Morskiej: T. Syryjczyk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

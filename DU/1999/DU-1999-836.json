@@ -1,0 +1,2310 @@
+{
+ "eli": "DU/1999/836",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 sierpnia 1999 r. w sprawie warunków technicznych użytkowania budynków mieszkalnych.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/836/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 sierpnia 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków technicznych użytkowania budynków mieszkalnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111 poz. 726, z 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 oraz z 1999 r. Nr 41, poz. 412, Nr 49, poz. 483 i Nr 62, poz. 682) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa warunki techniczne użytkowania budynków mieszkalnych, wraz ze związanymi z nimi instalacjami i urządzeniami technicznymi, zwanych dalej „budynkami”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie określa warunki, które mają zapewnić:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "utrzymanie stanu technicznego budynku na poziomie zapewniającym bezpieczeństwo ludzi i mienia w okresie jego użytkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "ochronę zdrowia i życia ludzi w pomieszczeniach budynku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "utrzymanie wymaganego stanu estetycznego budynku, a w przypadku wpisania budynku do rejestru zabytków — zachowanie jego wartości podlegających ochronie konserwatorskiej,",
+     "children": [
+      {
+       "type": "text",
+       "text": "4)zgodne z przeznaczeniem użytkowanie budynku i znajdujących się w nim pomieszczeń oraz urządzeń związanych z budynkiem, a w szczególności warunki w zakresie zaopatrzenia w wodę, gaz, energię cieplną, energię elektryczną, ochronę przeciwpożarową, oraz odprowadzania ścieków i usuwania odpadów stałych,"
+      },
+      {
+       "type": "text",
+       "text": "możliwość racjonalizacji zużycia wody i nośników — 5 energii zgodnie z wymaganiami użytkowników lokali, lecz w sposób nie naruszający interesów osób trzecich i nie powodujący pogorszenia właściwości użytkowych i technicznych budynku i związanych z nim urządzeń,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "racjonalne wykorzystanie energii,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "ochronę uzasadnionych interesów osób trzecich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "lokal — wydzieloną trwałymi ścianami w obrębie budynku izbę lub zespół izb, wraz z innymi pomieszczeniami przeznaczonymi na stały pobyt ludzi, lub też budynek mieszkalny, w którym znajduje się tylko jeden lokal mieszkalny, jeżeli taki dom lub lokal posiada odrębne wejście z zewnątrz budynku lub z klatki schodowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "naprawa główna — remont polegający na wymianie co najmniej jednego elementu budynku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "naprawa bieżąca — okresowy remont elementów budynku, który ma na celu zapobieganie skutkom zużycia tych elementów i utrzymanie budynku we właściwym stanie technicznym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "konserwacja — wykonywanie robót mających na celu utrzymanie sprawności technicznej elementów budynku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "dokumentacja użytkowania — dokumentację odbioru budynku wraz z książką obiektu budowlanego, kopiami imiennych przydziałów lokali, protokołami zdawczo-odbiorczymi lokali, umowami najmu lokali, protokołami pomiaru powierzchni użytkowej lokali, dokumentacją eksploatacyjną wraz protokołami okresowych kontroli stanu technicznego, opiniami technicznymi i ekspertyzami dotyczącymi budynku, dokumentację eksploatacyjną, w tym również metrykę instalacji piorunochronnej, a także dokumentację powykonawczą robót budowlanych i remontów wraz z protokołami odbioru tych robót,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "właściciel budynku — właściciela, a także zarządzającego lub dzierżawcę budynku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "użytkownik lokalu — osoby fizyczne albo osoby prawne lub jednostki organizacyjne nie posiadające osobowości prawnej, faktycznie użytkujące ten lokal,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "instalacja ciepłej wody użytkowej — układ przewodów wody ciepłej w budynku wraz z armaturą i wyposażeniem, mający początek w miejscu połączenia przewodu z zaworem odcinającym tę instalację od węzła cieplnego lub przyłącza i koniec w punktach czerpalnych ciepłej wody; instalacją tą jest również miejscowa instalacja ciepłej wody użytkowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "instalacja wodociągowa — układ przewodów wody zimnej w budynku wraz z armaturą i wyposażeniem, mający początek w miejscu połączenia przewodu z zaworem odcinającym tę instalację od wodomierza umieszczonego na przyłączu wodociągowym, a zakończenie w punktach czerpalnych wody zimnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "instalacja kanalizacyjna — układ przewodów kanalizacyjnych w budynku wraz z armaturą i wyposażeniem, mający początek w miejscu połączenia przewodów z przyborami kanalizacyjnymi w pomieszczeniach, a zakończenie na wlotach poziomych przewodów kanalizacyjnych do pierwszych od strony budynku studzienek umieszczonych na zewnątrz budynku,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "instalacja centralnego ogrzewania — układ przewodów centralnego ogrzewania w budynku wraz z armaturą i wyposażeniem, mający początek w miejscu połączenia przewodu z zaworem odcinającym tę instalację od węzła cieplnego lub przytacza, a zakończenie na grzejnikach,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "instalacja gazowa — układ przewodów gazowych — 13 w budynku wraz z armaturą, wyposażeniem i urządzeniami gazowymi, mający początek w miejscu połączenia przewodu z kurkiem głównym gazowym odcinającym tę instalację od przyłącza, a zakończenie na urządzeniach gazowych wraz z tymi urządzeniami,"
+    },
+    {
+     "type": "text",
+     "text": "instalacja gazu płynnego — układ przewodów ga- — 14 z owych z armaturą, wyposażeniem i urządzeniami gazowymi, zasilany ze źródła gazu płynnego, mający początek w miejscu połączenia przewodu gazowego z kurkiem głównym gazowym, a zakończenie na urządzeniach gazowych, wraz z tymi urządzeniami; w przypadku instalacji gazu płynnego zasilanej z pojedynczej butli gazowej początkiem instalacji jest miejsce połączenia reduktora z króćcem zaworu na butli,"
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_3/pkt_15",
+     "text": "instalacja zbiornikowa gazu płynnego — zespół urządzeń, na który składa się bateria butli lub zbiornik albo grupa zbiorników z armaturą i osprzętem oraz przyłącze gazowe z kurkiem głównym gazowym, instalacja elektryczna — układ przewodów i kabli — 16 w budynku wraz ze sprzętem i osprzętem elektroinstalacyjnym, urządzeniami, aparaturą rozdzielczą i sterowniczą, układem pomiarowo-rozliczeniowym, urządzeniami zabezpieczającymi i ochronnymi oraz uziemieniami, mający początek na zaciskach wyjściowych wewnętrznych linii zasilających w złączu i koniec na gniazdach wtyczkowych, wypustach oświetleniowych i zainstalowanych na stałe odbiornikach zasilanych energią elektryczną,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_3/pkt_17",
+     "text": "instalacja piorunochronna — zespół elementów konstrukcyjnych budynku i elementów zainstalowanych na budynku, odpowiednio połączonych, wykorzystywanych do ochrony odgromowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_3/pkt_18",
+     "text": "przewody dymowe — przewody wraz z ich wyposażeniem, służące do odprowadzania dymu z palenisk opalanych paliwem stałym do kanałów dymowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_3/pkt_19",
+     "text": "przewody spalinowe — przewody wraz z ich wyposażeniem, służące do odprowadzania spalin z palenisk opalanych paliwem gazowym lub olejowym do kanałów spalinowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_3/pkt_20",
+     "text": "kanały dymowe — kanały wykonane w ścianach budynku lub przybudowane do tych ścian, wraz z ich wyposażeniem, służące do odprowadzania dymu ponad dach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_3/pkt_21",
+     "text": "kanały spalinowe — kanały wykonane w ścianach budynku lub przybudowane do tych ścian, wraz z ich wyposażeniem, służące do odprowadzania spalin ponad dach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_3/pkt_22",
+     "text": "kanały wentylacyjne — kanały wykonane w ścianach budynku lub przybudowane do tych ścian, wraz z ich wyposażeniem, służące do odprowadzania zanieczyszczonego powietrza z pomieszczeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_3/pkt_23",
+     "text": "ustawa — ustawę z dnia 7 lipca 1994 r. — Prawo budowlane (Dz. U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726, z 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 oraz z 1999 r. Nr 41, poz. 412, Nr 49, poz. 483 i Nr 62, poz. 682).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Kontrole okresowe budynku"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W celu właściwego użytkowania budynku należy przeprowadzać kontrole okresowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Kontrole, o których mowa w ust. 1, powinny być przeprowadzane w porze wiosennej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Osoba przeprowadzająca kontrolę okresową budynku powinna przed jej rozpoczęciem zapoznać się z protokołami z poprzednich kontroli, z protokołami odbioru robót remontowych wykonanych w budynku w okresie od poprzedniej kontroli, zgłoszeniami użytkowników lokali dotyczącymi usterek, wad, uszkodzeń lub zniszczeń elementów budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Protokoły sporządzane w wyniku kontroli okresowych powinny zawierać określenie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "stanu technicznego elementów budynku objętych kontrolą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "rozmiarów zużycia lub uszkodzenia elementów, o których mowa w pkt 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_4/pkt_3",
+       "text": "zakresu robót remontowych i kolejności ich wykonywania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_4/pkt_4",
+       "text": "metod i środków użytkowania elementów budynku narażonych na szkodliwe działanie wpływów atmosferycznych i niszczące działanie innych czynników,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_4/pkt_5",
+       "text": "zakresu nie wykonanych robót remontowych zaleconych do realizacji w protokołach z poprzednich kontroli okresowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Do protokotów, o których mowa w ust. 4, w razie potrzeby należy dotaczyé dokumentację graficzną wykonaną w toku kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Niezależnie od kontroli okresowych, o których mowa w ust. 1, właściciel budynku może przeprowadzać przeglądy robocze mające na celu określenie stanu przygotowania budynku, urządzeń i instalacji do użytkowania w okresie zimowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 1 lit. a) ustawy, podlegają elementy budynku narażone na szkodliwe wpływy atmosferyczne i niszczące działania czynników występujących podczas użytkowania, których uszkodzenia mogą powodować zagrożenie dla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "bezpieczeństwa osób,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "konstrukcji budynku.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W toku kontroli, o której mowa w ust. 1, szczegółowym sprawdzeniem należy objąć stan techniczny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "zewnętrznych warstw przegród zewnętrznych (warstwa fakturowa), elementów ścian zewnętrznych (attyki, filary, gzymsy), balustrad, loggii i balkonów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "urządzeń zamocowanych do ścian i dachu budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "elementów odwodnienia budynku oraz obróbek blacharskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "pokryć dachowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "instalacji centralnego ogrzewania i ciepłej wody użytkowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "urządzeń stanowiących zabezpieczenie przeciwpożarowe budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_2/pkt_7",
+       "text": "elementów instalacji kanalizacyjnej odprowadzających ścieki z budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_2/pkt_8",
+       "text": "przejść przyłączy instalacyjnych przez ściany budynku.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Zakresem okresowej kontroli, o której mowa w art. 62 ust. 1 pkt 2 ustawy, należy objąć również sprawdzenie stanu sprawności technicznej i wartości użytkowej elementów budynku, o których mowa w § 5, oraz wszystkie pozostałe elementy budynku, a także estetykę budynku i jego otoczenia.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Remont budynku"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Dane zawarte w protokołach kontroli, o których mowa w § 4, powinny stanowić podstawę do sporządzenia zestawienia robót remontowych budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Zestawienie, o którym mowa w ust. 1, powinno zawierać podział robót na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "roboty konserwacyjne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "naprawy bieżące,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "naprawy główne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Zestawienie napraw bieżących i głównych stanowi podstawę do sporządzenia planu robót remontowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Plan robót remontowych powinien być sporządzony z zachowaniem pierwszeństwa dla robót mających na celu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "eliminację zagrożenia bezpieczeństwa użytkowników lokali i osób trzecich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "zabezpieczenie przeciwpożarowe budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_4/pkt_3",
+       "text": "spełnienie wymagań ochrony środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_4/pkt_4",
+       "text": "zachowanie zapobiegawczego charakteru remontu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Przy remontach budynku należy zapewnić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "realizację robót w kolejności wynikającej z opracowanego planu remontów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "bezpieczeństwo użytkowników i osób trzecich w trakcie prowadzenia robót,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "stosowanie rozwiązań technicznych, materiałowych i technologicznych ograniczających uciążliwość użytkowania lokali oraz podnoszących walory użytkowe lokali.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Wszelkie zmiany w stosunku do istniejących rozwiązań, dokonywane w związku z wykonywaniem robót remontowych, nie powinny powodować pogorszenia stanu technicznego i właściwości użytkowych elementów budynku oraz naruszać interesów użytkowników lokali lub osób trzecich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Ogólne warunki użytkowania budynku"
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Dokumentacja użytkowania budynku powinna być systematycznie gromadzona i przechowywana przez okres istnienia budynku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Pomieszczenia w budynku przeznaczone do wspólnego użytkowania oraz elementy i urządzenia stanowiące wyposażenie budynku użytkowane intensywnie lub narażone na uszkodzenia powinny być objęte przeglądami co najmniej dwa razy w roku oraz poddawane odpowiedniej konserwacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Częstotliwość przeglądów, o których mowa w ust. 1, powinna być ustalona przez właściciela budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Zakres robót konserwacyjnych, o których mowa w ust. 1, powinien być ustalany na podstawie wyników przeglądów oraz potrzeb zgłoszonych przez użytkowników lokali.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Pomieszczenia oraz urządzenia przeznaczone do wspólnego użytkowania mieszkańców powinny być utrzymywane w stanie technicznym, higienicznosanitarnym i estetycznym zapewniającym właściwe spełnianie założonych funkcji przez cały okres uzytkowania budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Naprawa uszkodzeń w budynku, powstałych z winy osoby korzystającej z lokalu znajdującego się w tym budynku, obciąża użytkownika tego lokalu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Pomieszczenia techniczne w budynku, piwnice, strychy oraz inne pomieszczenia, nie przewidziane do użytkowania przez osoby trzecie, powinny być zabezpieczone przed dostępem tych osób.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Warunki i sposób użytkowania urządzeń technicznych i instalacji oraz wyroby użyte do ich napraw i konserwacji nie mogą powodować pogorszenia właściwości użytkowych czynnika dostarczanego za pomocą tych urządzeń i instalacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Parametry techniczne i użytkowe czynnika dostarczanego za pomocą urządzeń technicznych i instalacji do lokali oraz do pomieszczeń przeznaczonych do wspólnego użytkowania powinny być zgodne z wartościami tych parametrów określonymi w odrębnych przepisach i w odpowiednich projektach tych urządzeń i instalacji.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Budynki powinny być użytkowane przy zapewnieniu bezpieczeństwa pożarowego zgodnie z zasadami określonymi w przepisach szczególnych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Użytkowanie lokali"
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Lokal powinien być użytkowany w sposób zapewniający:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "zachowanie wymogów bezpieczeństwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "utrzymanie wymaganego stanu technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_15/pkt_3",
+     "text": "utrzymanie stanu higienicznosanitarnego określonego odrębnymi przepisami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_15/pkt_4",
+     "text": "prawidłowe funkcjonowanie wspólnych instalacji i urządzeń znajdujących się w tym lokalu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Sposób użytkowania instalacji i urządzeń stanowiących wyposażenie lokalu powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "być zgodny z założeniami projektu oraz z instrukcjami użytkowania tych instalacji i urządzeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "zapewniać ochronę elementów budynku i jego wyposażenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "W czasie użytkowania instalacji i urządzeń należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "zapewniać ich ochronę przed uszkodzeniem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "wykonywać zabiegi konserwacyjne i naprawy przewidziane instrukcją użytkowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_16/ust_2/pkt_3",
+       "text": "likwidować przecieki z instalacji, w zakresie obciążającym użytkownika lokalu, niezwłocznie po ich pojawieniu się,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_16/ust_2/pkt_4",
+       "text": "dokonywać napraw i wymian uszkodzonych lub zużytych elementów instalacji i wyposażenia lokalu w zakresie obciążającym użytkownika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_16/ust_2/pkt_5",
+       "text": "informować właściciela budynku o wszelkich uszkodzeniach instalacji, których naprawa należy do jego obowiązków.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "W przypadku wystąpienia uszkodzeń lub zakłóceń w funkcjonowaniu instalacji i urządzeń należy niezwłocznie wstrzymać ich eksploatację, jeżeli dalsze ich użytkowanie może spowodować zagrożenie bezpieczeństwa osób lub mienia albo skażenie środowiska.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Sposób użytkowania instalacji gazowej przez użytkownika lokalu powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "być zgodny z założeniami projektu tej instalacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "eliminować możliwość wydzielania się tlenku węgla z urządzeń gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_1/pkt_3",
+       "text": "zapewniać bezpieczeństwo użytkowników lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_1/pkt_4",
+       "text": "zapewniać bezpieczeństwo oraz ochronę interesów użytkowników innych lokali korzystających z tej instalacji oraz osób trzecich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "W czasie użytkowania instalacji gazowej użytkownik lokalu powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "udostępniać lokal właścicielowi budynku lub dostawcy gazu dla wykonywania ich obowiązków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "przestrzegać zasady bezpieczeństwa jej użytkowania oraz niezwłocznie informować zarządcę budynku w razie stwierdzenia nieprawidłowości w jej funkcjonowaniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "zapewniać pełną sprawność techniczną i użytkową urządzeń gazowych stanowiących wyposażenie lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_2/pkt_4",
+       "text": "w przypadku wystąpienia objawów świadczących o zagrożeniu bezpieczeństwa osób lub mienia — zaprzestać użytkowania instalacji gazowej, podjąć właściwe działania zaradcze i niezwłocznie poinformować właściwe służby oraz właściciela budynku o wystąpieniu zagrożenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_17/ust_2/pkt_5",
+       "text": "zapewniać ochronę instalacji i urządzeń gazowych przed uszkodzeniem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_17/ust_2/pkt_6",
+       "text": "utrzymywać znajdujące się w lokalu elementy instalacji gazowej, urządzeń spalinowych i wentylacyjnych oraz urządzenia gazowe w należytym stanie technicznym i użytkowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_17/ust_2/pkt_7",
+       "text": "zapewnić wykonanie niezbędnych czynności konserwacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_17/ust_2/pkt_8",
+       "text": "informować właściciela budynku o wszelkich uszkodzeniach instalacji gazowej oraz o niewłaściwym funkcjonowaniu przewodów i kanałów wentylacyjnych i spalinowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_17/ust_2/pkt_9",
+       "text": "udostępniać lokal w celu przeprowadzenia przez odpowiednie służby kontroli instalacji i urządzeń gazowych, przewodów i kanałów spalinowych, wentylacyjnych, a także innych instalacji i urządzeń, oraz ściśle wykonywać zalecenia pokontrolne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Naprawa i konserwacja urządzenia gazowego może być powierzona wyłącznie osobom posiadającym świadectwa kwalifikacyjne określone w odrębnych przepisach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Instalacje i urządzenia gazowe po ich naprawie, przeróbce lub wymianie nie mogą być użytkowane bez poddania ich próbie szczelności, o której mowa w § 45.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Sposób użytkowania instalacji elektrycznej w lokalu powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "być zgodny z założeniami projektu tej instalacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "zapewniać bezpieczeństwo jej użytkowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "zapewniać bezpieczeństwo oraz ochronę interesów użytkowników innych lokali korzystających z tej instalacji oraz osób trzecich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "W czasie użytkowania instalacji elektrycznej w lokalu użytkownik lokalu powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "udostępniać lokal dla wykonania obowiązków obciążających właściciela budynku oraz dostawcę energii elektrycznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "przestrzegać zasady bezpieczeństwa użytkowania energii elektrycznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "w przypadku stwierdzenia nieprawidłowości funkcjonowania instalacji i urządzeń elektrycznych w pomieszczeniach przeznaczonych do wspólnego użytkowania mieszkańców — niezwłocznie informować właściciela budynku,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_2/pkt_4",
+       "text": "utrzymywać właściwy stan techniczny instalacji i urządzeń elektrycznych w lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_18/ust_2/pkt_5",
+       "text": "utrzymywać właściwe warunki użytkowania urządzeń do pomiaru zużycia energii elektrycznej oraz niezwłocznie informować dostawcę energii elektrycznej o ich uszkodzeniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_18/ust_2/pkt_6",
+       "text": "w przypadku wystąpienia objawów świadczących o zagrożeniu ze strony instalacji elektrycznej — zaprzestać jej użytkowania, podjąć właściwe działania zaradcze oraz bezzwłocznie poinformować właściwe służby oraz właściciela o wystąpieniu zagrożenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_18/ust_2/pkt_7",
+       "text": "zapewniać ochronę instalacji elektrycznej przed jej przeciążeniem i uszkodzeniem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_18/ust_2/pkt_8",
+       "text": "informować właściciela budynku o wszelkich uszkodzeniach instalacji elektrycznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_18/ust_2/pkt_9",
+       "text": "udostępniać lokal w celu przeprowadzania kontroli i badania instalacji elektrycznej przez odpowiednie służby oraz ściśle wykonywać zalecenia pokontrol-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "ne."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Naprawa i konserwacja instalacji i odbiorników zasilanych energią elektryczną może być powierzona wyłącznie osobom posiadającym świadectwa kwalifikacyjne określone w odrębnych przepisach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Sposób użytkowania przewodów i kanałów dymowych, spalinowych oraz wentylacyjnych powinien:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "być zgodny z założeniami projektu tych przewodów i kanałów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "uniemożliwiać ograniczenie lub utratę ich drożności i szczelności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_1/pkt_3",
+       "text": "zapewniać bezpieczeństwo użytkowników lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_1/pkt_4",
+       "text": "zapewniać bezpieczeństwo oraz ochronę interesów użytkowników innych lokali, do których przylegają te przewody i kanały.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Użytkownik lokalu wyposażonego w przewody i kanały dymowe lub spalinowe oraz wentylacyjne jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "zapewniać ich sprawność techniczną i użytkową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "w przypadku wystąpienia objawów świadczących o zagrożeniu bezpieczeństwa osób lub mienia — zaniechać użytkowania instalacji gazowej i podjąć stosowne działania zaradcze oraz poinformować właściwe służby i właściciela o wystąpieniu zagrożenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "systematycznie wykonywać czynności konserwacyjne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "informować właściciela budynku o niewłaściwym funkcjonowaniu urządzeń spalinowych, dymowych lub wentylacyjnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Użytkownik lokalu korzystający z przewodów i kanałów dymowych lub spalinowych oraz wentylacyjnych może powierzać naprawę i konserwację tych urządzeń wyłącznie osobom posiadającym świadectwa kwalifikacyjne określone w odrębnych przepisach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Po przeróbce lub wymianie przewody i kanały dymowe lub spalinowe oraz wentylacyjne należy poddać kontroli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Wszelkie zmiany instalacji w lokalu dokonywane w czasie jego użytkowania wymagają pisemnej zgody właściciela budynku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "W robotach remontowych wykonywanych w lokalu należy stosować wyroby dopuszczone do obrotu i stosowania w budownictwie oraz zapewniać właściwe funkcjonowanie znajdujących się w nim wspólnych instalacji lub urządzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W czasie wykonywania robót remontowych w lokalu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_2/pkt_1",
+       "text": "zapewnić bezpieczeństwo użytkowników innych lokali i osób trzecich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_2/pkt_2",
+       "text": "stosować rozwiązania eliminujące możliwość skażenia środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_2/pkt_3",
+       "text": "stosować rozwiązania i technologie podnoszące walory użytkowe lokalu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_2/pkt_4",
+       "text": "ograniczyć do niezbędnego minimum uciążliwość związaną z realizacją robót remontowych dla użytkowników pozostałych lokali oraz dla osób trzecich.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Użytkowanie instalacji i urządzeń wentylacyjnych"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Instalacje i urządzenia wentylacyjne powinny w okresie ich użytkowania zapewniać możliwość skutecznej wymiany powietrza w pomieszczeniach zgodnie z warunkami założonymi w projekcie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Instalacje i urządzenia, o których mowa w ust. 1, w okresie ich użytkowania powinny być utrzymywane w stanie technicznym zapewniającym sprawność i niezawodność funkcjonowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "W okresie użytkowania instalacji i urządzeń, o których mowa w § 22 ust. 1, należy zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_23/pkt_1",
+     "text": "pełną drożność i szczelność przewodów i urządzeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "utrzymanie pełnego wymaganego przekroju kratek wentylacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_23/pkt_3",
+     "text": "realizację wymaganych robót konserwacyjnych i remontowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_23/pkt_4",
+     "text": "realizację zaleceń pokontrolnych wydawanych przez upoważnione organy kontroli i nadzoru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_23/pkt_5",
+     "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego instalacji i urządzeń wentylacyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Wprowadzanie jakiejkolwiek zmiany w instalacji i urządzeniach wentylacyjnych w lokalu wymaga wcześniejszego uzyskania zgody właściciela budynku.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Użytkowanie kanałów i przewodów spalinowych oraz dymowych"
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Kanały i przewody spalinowe w okresie ich użytkowania powinny zapewniać możliwość odprowadzania spalin powstałych w procesie spalania paliw, zgodnie z założonymi warunkami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Kanały i przewody dymowe powinny w okresie ich użytkowania zapewniać możliwość odprowadzania dymu powstałego w procesie spalania paliw stałych, zgodnie z założonymi warunkami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Kanały i przewody spalinowe oraz dymowe w budynku powinny być utrzymywane w stanie technicznym zapewniającym skuteczne i niezawodne ich funkcjonowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "W okresie użytkowania kanałów i przewodów, o których mowa w ust. 1, należy zapewniać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_2/pkt_1",
+       "text": "ich drożność oraz szczelność,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_2/pkt_2",
+       "text": "realizację planu remontów przez osoby posiadające kwalifikacje, o których mowa w art. 62 ust. 6 ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_26/ust_2/pkt_3",
+       "text": "nadzór nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzór nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_26/ust_2/pkt_4",
+       "text": "realizację zaleceń pokontrolnych wydawanych przez upoważnione organy kontroli i nadzoru,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_26/ust_2/pkt_5",
+       "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego tych kanałów i przewodów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Wprowadzanie jakichkolwiek zmian w kanałach i przewodach spalinowych lub dymowych w lokalu wymaga wcześniejszego uzyskania zgody właściciela budynku.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Użytkowanie instalacji ciepłej wody użytkowej"
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Instalacja ciepłej wody użytkowej powinna, w okresie jej użytkowania, zapewniać możliwość dostarczania wody, o temperaturze określonej odrębnymi przepisami, do punktów czerpalnych, zgodnie z warunkami jej użytkowania założonymi w projekcie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "W okresie użytkowania instalacji ciepłej wody użytkowej należy zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "drożność instalacji i urządzeń, zgodnie z założeniami projektu tej instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "utrzymywanie wymaganej temperatury wody ciepłej dostarczanej do lokali, określonej odrębnymi przepisami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_29/pkt_3",
+     "text": "realizację planu napraw i wymian oraz robót konserwacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_29/pkt_4",
+     "text": "nadzór nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzór nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_29/pkt_5",
+     "text": "realizację zaleceń pokontrolnych wydawanych przez upoważnione organy kontroli i nadzoru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_29/pkt_6",
+     "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego tej instalacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "W przypadku gdy instalacja ciepłej wody użytkowej została wyposażona w wodomierze służące do rozliczeń zużycia tej wody w lokalach, właściciel tych urządzeń powinien zapewniać okresową ich legalizację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Okresy ważności cechy legalizacyjnej określają odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "Użytkowanie instalacji wodociągowej"
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Instalacja wodociągowa powinna w okresie jej użytkowania zapewniać możliwość dostarczania wody do wszystkich punktów czerpalnych w budynku, zgodnie z warunkami jej użytkowania założonymi w projekcie tej instalacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "W okresie użytkowania instalacji wodociągowej należy zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_32/pkt_1",
+     "text": "drożność instalacji i urządzeń, zgodnie z założeniami projektu tej instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_32/pkt_2",
+     "text": "realizację planu napraw i wymian oraz robót konserwacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_32/pkt_3",
+     "text": "nadzór nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzór nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_32/pkt_4",
+     "text": "realizację zaleceń pokontrolnych wydawanych przez upoważnione organy kontroli i nadzoru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_32/pkt_5",
+     "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego tej instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_32/pkt_6",
+     "text": "utrzymanie wymaganego stanu technicznego urządzeń hydroforowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "W przypadku gdy instalacja wodociągowa została wyposażona w wodomierze do rozliczeń zużycia wody w lokalach, właściciel tych urządzeń powinien zapewniać okresową ich legalizację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Okresy ważności cechy legalizacyjnej określają odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 10",
+   "text": "Użytkowanie instalacji kanalizacyjnej"
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Instalacja kanalizacyjna powinna w okresie jej użytkowania być utrzymywana w pełnej sprawności technicznej zapewniającej możliwość odprowadzania ścieków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Jakość ścieków odprowadzanych instalacją kanalizacyjną powinna odpowiadać wymaganiom określonym przepisami szczególnymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "W okresie użytkowania instalacji kanalizacyjnej należy zapewniać:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_35/pkt_1",
+     "text": "ochronę przed wprowadzeniem do instalacji ścieków zawierających substancje, które mogą spowodować uszkodzenie instalacji i sieci kanalizacyjnej lub substancje wymagające neutralizacji przed wprowadzeniem ich do tej instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_35/pkt_2",
+     "text": "ochronę przed wydostawaniem się ścieków na zewnątrz instalacji i pełną jej drożność,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_35/pkt_3",
+     "text": "realizację planu napraw i wymian oraz robót konserwacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_35/pkt_4",
+     "text": "nadzór nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzór nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_35/pkt_5",
+     "text": "realizację zaleceń pokontrolnych wydawanych przez upoważnione organy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_35/pkt_6",
+     "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego tej instalacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 11",
+   "text": "Użytkowanie wewnętrznych urządzeń do usuwania odpadów i nieczystości stałych"
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Wewnętrzne urządzenia do usuwania odpadów i nieczystości stałych powinny w okresie ich użytkowania zapewniać możliwość usuwania odpadów i nieczystości stałych, których jakość i wymiary odpowiadają wymaganiom określonym w instrukcji użytkowania tych urządzeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Wewnętrzne urządzenia, o których mowa w § 36, oraz pomieszczenia, w których one się znajdują, należy utrzymywać w stanie technicznym i higienicznosanitarnym zapewniającym ich pełną sprawność techniczną i przydatność do użytkowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "W okresie użytkowania urządzeń, o których mowa w § 36, należy zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_38/pkt_1",
+     "text": "drożność urządzeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_38/pkt_2",
+     "text": "utrzymanie wymaganego stanu technicznego i higienicznosanitarnego urządzeń i pomieszczeń, w których one się znajdują,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_38/pkt_3",
+     "text": "przestrzeganie instrukcji użytkowania tych urządzeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_38/pkt_4",
+     "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego tych urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 12",
+   "text": "Użytkowanie instalacji i urządzeń centralnego ogrzewania"
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Instalacja i urządzenia centralnego ogrzewania w okresie ich użytkowania powinny być utrzymywane w stanie technicznym zapewniającym we wszystkich ogrzewanych pomieszczeniach właściwe temperatury określone Polską Normą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "W przypadku gdy instalacja i urządzenia nie spełniają warunku, o którym mowa w ust. 1, należy określić przyczyny zakłóceń oraz podjąć działania usprawniające ich funkcjonowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "W przypadku gdy przyczyną zakłóceń, o których mowa w ust. 2, są produkty korozji lub substancje pochodzące ze związków zawartych w wodzie instalacyjnej osadzone na wewnętrznych powierzchniach instalacji i urządzeń, przed podjęciem decyzji w sprawie usprawnienia ich funkcjonowania należy opracować ekspertyzę zawierającą analizę celowości i opłacalności oraz określenie sposobu usunięcia osadów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "W okresie użytkowania instalacji i urządzeń centralnego ogrzewania należy zapewniać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_40/pkt_1",
+     "text": "drożność instalacji i urządzeń, zgodnie z założeniami projektu tej instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_40/pkt_2",
+     "text": "utrzymywanie wymaganego stanu technicznego instalacji i urządzeń oraz właściwe warunki ich użytkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_40/pkt_3",
+     "text": "realizację planu napraw i wymian oraz robót konserwacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_40/pkt_4",
+     "text": "nadzór nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzór nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_40/pkt_5",
+     "text": "realizację zaleceń pokontrolnych wydawanych przez upoważnione organy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_40/pkt_6",
+     "text": "w razie uzasadnionej potrzeby — kontrolę stanu technicznego tej instalacji i urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "W przypadku gdy instalacja centralnego ogrzewania została wyposażona w urządzenia służące do pomiaru i rozliczeń zużycia ciepła w lokalach, właściciel tych urządzeń powinien zapewniać okresową ich legalizację lub wymianę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "W przypadku uszkodzenia urządzeń służących do indywidualnego rozliczenia kosztów ogrzewania lub urządzenia do pomiaru zużycia ciepła — należy niezwłocznie poinformować jednostkę prowadzącą rozliczenia kosztów ciepła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "Okresy ważności cechy legalizacyjnej określają odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Wprowadzenie jakichkolwiek zmian instalacji i urządzeń centralnego ogrzewania w lokalu wymaga wcześniejszego uzyskania zgody właściciela budynku.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 13",
+   "text": "Użytkowanie instalacji i urządzeń gazowych"
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Instalacja gazowa powinna w okresie jej użytkowania zapewniać możliwość bezpiecznego korzystania z urządzeń gazowych, zgodnego z warunkami założonymi w projekcie tej instalacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 44, 1. W przypadku:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_43/pkt_1",
+     "text": "wykonania nowej instalacji gazowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_43/pkt_2",
+     "text": "jej przebudowy lub remontu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_43/pkt_3",
+     "text": "wyłączenia jej z użytkowania na okres dłuższy niż 6 miesięcy — należy przed przekazaniem jej do użytkowania przeprowadzić główną próbę szczelności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Główną próbę szczelności przeprowadza się odrębnie dla części instalacji przed gazomierzami oraz odrębnie dla pozostałej części instalacji z pominięciem gazomierzy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Główną próbę szczelności przeprowadza się na instalacji nie posiadającej zabezpieczenia antykorozyjnego, po jej oczyszczeniu, zaślepieniu końcówek, otwarciu kurków i odłączeniu odbiorników gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Manometr użyty do przeprowadzenia głównej próby szczelności powinien spełniać wymagania klasy 0,6 i posiadać świadectwo legalizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_43/ust_5",
+     "text": "Zakres pomiarowy manometru powinien wynosić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_5/pkt_1",
+       "text": "0—0,06 MPa w przypadku ciśnienia próbnego wynoszącego 0,05 MPa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_5/pkt_2",
+       "text": "0—0,16 MPa w przypadku ciśnienia próbnego wynoszącego 0,1 MPa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_43/ust_6",
+     "text": "Ciśnienie czynnika próbnego w czasie przeprowadzania głównej próby szczelności powinno wynosić 0,05 MPa. Dla instalacji lub jej części znajdującej się w pomieszczeniu mieszkalnym lub w pomieszczeniu zagrożonym wybuchem ciśnienie czynnika próbnego powinno wynosić 0,1 MPa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_43/ust_7",
+     "text": "Wynik głównej próby szczelności uznaje się za pozytywny, jeżeli w czasie 30 minut od ustabilizowania się ciśnienia czynnika próbnego nie nastąpi spadek ciśnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_43/ust_8",
+     "text": "Z przeprowadzenia głównej próby szczelności sporządza się protokół, który powinien być podpisany przez właściciela budynku oraz wykonawcę instalacji gazowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "W przypadku gdy instalacja gazowa nie została napełniona gazem w okresie 6 miesięcy od daty przeprowadzenia głównej próby szczelności — próbę tę należy przeprowadzić ponownie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Do obowiązków właściciela budynku w zakresie utrzymania właściwego stanu technicznego instalacji gazowej należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_46/pkt_1",
+     "text": "zapewnienie nadzoru nad wykonywaniem głównej próby szczelności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_46/pkt_2",
+     "text": "zapewnienie nadzoru nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzoru nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_46/pkt_3",
+     "text": "w przypadku stwierdzenia w toku kontroli okresowej występowania zagrożenia bezpieczeństwa użytkowników — wyłączenie z użytkowania instalacji lub jej części,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_46/pkt_4",
+     "text": "występowanie do dostawcy gazu w przypadku konieczności jej napełnienia gazem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_46/pkt_5",
+     "text": "zapewnienie realizacji zaleceń pokontrolnych wydawanych przez upoważnione organy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_46/pkt_6",
+     "text": "w przypadku wystąpienia ryzyka zagrożenia bezpieczeństwa użytkowników lokali — przeprowadzenie kontroli stanu technicznego instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_46/pkt_7",
+     "text": "zawiadamianie dostawcy gazu w każdym przypadku stwierdzenia uszkodzenia szafki, w której umieszczono kurek główny gazowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Stan technicznej sprawności instalacji gazowej w budynku powinien być kontrolowany równocześnie z kontrolą stanu technicznego przewodów i kanałów wentylacyjnych oraz spalinowych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 14",
+   "text": "Użytkowanie instalacji gazowej zasilanej gazem płynnym"
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Instalacja gazowa zasilana gazem płynnym, w której długość nieelastycznego przewodu z rury stalowej przekracza 2,0 m, powinna być, po jej wymianie lub remoncie, poddana głównej próbie szczelności, o której mowa w § 44.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Instalacja gazowa zasilana z butli gazowej, w której długość przewodu nieelastycznego z rury stalowej nie przekracza 2,0 m, powinna być, po jej wymianie lub remoncie, poddana sprawdzeniu szczelności pod ciśnieniem roboczym gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_48/ust_3",
+     "text": "Sprawdzenie, o którym mowa w ust. 2, powinno być wykonywane niezwłocznie po każdej wymianie butli gazowej oraz po wymianie przewodu, o którym mowa w § 49.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_48/ust_4",
+     "text": "Sprawdzenie szczelności przy wymianie butli gazowej przeprowadza użytkownik instalacji, zgodnie z instrukcją otrzymaną od rozprowadzającego butle, lub przedstawiciel dostawcy gazu, w przypadku gdy z użytkownikiem lokalu została zawarta umowa o dostarczanie gazu w butlach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "W przypadku stosowania przewodu elastycznego do połączenia pojedynczego urządzenia gazowego z reduktorem ciśnienia gazu na butli, przewód taki powinien mieć oznaczoną graniczną datę użytkowania. Jeżeli termin użytkowania uptynat, przewód należy wymienić na nowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "W przypadku zasilania instalacji gazu płynnego z baterii butli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_50/ust_1/pkt_1",
+       "text": "ilość butli w baterii nie może być większa niż 10 sztuk,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_50/ust_1/pkt_2",
+       "text": "na króćcu przyłączeniowym każdej butli należy zamontować zawór — ogranicznik nadmiernego wypływu,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_50/ust_1/pkt_3",
+       "text": "baterię należy ustawiać przy ścianie nie posiadającej otworów do wysokości co najmniej 2 m; odległość baterii mierzona w rzucie poziomym powinna wynosić co najmniej 2 m od krawędzi najbliższych otworów okiennych i drzwiowych oraz od studzienek kanalizacyjnych, otworów wentylacyjnych, urządzeń i instalacji elektrycznych, źródeł ciepta i materiałów łatwo palnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_50/ust_1/pkt_4",
+       "text": "butle należy ustawiać na podłożu gwarantującym stabilność, nie iskrzącym, niepalnym, zaworami do góry oraz zabezpieczyć je przed przewróceniem się,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_50/ust_1/pkt_5",
+       "text": "po każdej wymianie butli w baterii należy sprawdzić szczelność połączeń zgodnie z warunkami określonymi w instrukcji użytkowania tej baterii,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_50/ust_1/pkt_6",
+       "text": "miejsce ustawienia butli powinno być oznakowane i zabezpieczone przed dostępem osób trzecich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Sprawdzenie, o którym mowa w ust. 1 pkt 5, przeprowadza użytkownik instalacji gazu płynnego lub przedstawiciel dostawcy gazu, jeżeli wynika to z umowy o dostarczanie gazu płynnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "Instalacja gazu płynnego zasilana ze zbiornika lub grupy zbiorników może być użytkowana, jeżeli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_51/pkt_1",
+     "text": "po jej wykonaniu lub remoncie dokonano odbioru technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_51/pkt_2",
+     "text": "wykonano główną próbę szczelności przytącza według zasad określonych w § 44,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_51/pkt_3",
+     "text": "zbiornik został zarejestrowany we właściwym terenowo urzędzie dozoru technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 15",
+   "text": "Użytkowanie instalacji elektrycznej"
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "Instalacja elektryczna powinna w okresie jej użytkowania zapewniać możliwość bezpiecznego korzystania z odbiorników energii elektrycznej, zgodnego z ich przeznaczeniem i warunkami założonymi w projekcie tej instalacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "Właściciel budynku jest obowiązany do dokonywania okresowych kontroli stanu sprawności technicznej urządzeń i instalacji elektrycznych w budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Stan sprawności technicznej urządzeń i instalacji elektrycznych w budynku powinien być kontrolowany tak, aby zapewnione byto właściwe ich funkcjonowanie, w tym sprawność połączeń, osprzętu, sprzętu, zabezpieczeń i środków ochrony od porażeń, uziemień oraz oporności izolacji przewodów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "Instalacja elektryczna w budynku nie może być użytkowana, jeżeli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_54/pkt_1",
+     "text": "nie dokonano prób końcowych i jej ostatecznego odbioru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_54/pkt_2",
+     "text": "nie zainstalowano urządzeń do pomiaru zużycia energii elektrycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Do obowiązków właściciela budynku w zakresie właściwego utrzymania stanu technicznego instalacji elektrycznej należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_55/pkt_1",
+     "text": "zapewnienie realizacji napraw i wymian przez osoby posiadające kwalifikacje zawodowe wymagane przy świadczeniu usług oraz wykonywaniu napraw lub dozoru nad eksploatacją urządzeń i instalacji elektrycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_55/pkt_2",
+     "text": "zapewnienie nadzoru nad realizacją robót konserwacyjnych, napraw i wymian oraz nadzoru nad wykonawstwem usług związanych z realizacją zaleceń wynikających z okresowych kontroli w lokalach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_55/pkt_3",
+     "text": "zapewnienie realizacji zaleceń pokontrolnych wydawanych przez upoważnione organy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_55/pkt_4",
+     "text": "w razie zagrożenia dla zdrowia lub życia użytkowników, dla środowiska lub mienia — przeprowadzenie kontroli jej stanu technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_55/pkt_5",
+     "text": "odłączenie z użytkowania instalacji elektrycznej w lokalach, w których w wyniku kontroli stwierdzono występowanie zagrożeń, o których mowa w pkt 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 16",
+   "text": "Użytkowanie instalacji piorunochronnej"
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Obowiązek zapewnienia właściwego stanu technicznego instalacji piorunochronnej i ochrony wewnętrznej budynku obciąża właściciela budynku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Do obowiązków właściciela budynku w zakresie utrzymania właściwego stanu technicznego instalacji piorunochronnej należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_57/pkt_1",
+     "text": "badanie tej instalacji w szczególności w zakresie stanu sprawności połączeń, osprzętu, zabezpieczeń od korozji oraz uziemienia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_57/pkt_2",
+     "text": "zapewnienie realizacji napraw i wymian przez osoby posiadające kwalifikacje zawodowe wymagane przy świadczeniu usług oraz wykonywaniu napraw lub dozoru nad eksploatacją urządzeń i instalacji elektrycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_57/pkt_3",
+     "text": "zapewnienie nadzoru nad realizacją robót konserwacyjnych, napraw i wymian,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_57/pkt_4",
+     "text": "zapewnienie realizacji zaleceń pokontrolnych wydawanych przez upoważnione organy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_57/pkt_5",
+     "text": "w razie zagrożenia życia lub zdrowia użytkowników albo środowiska lub mienia — przeprowadzenie kontroli stanu technicznego tej instalacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 17",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: J. Tomaszewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

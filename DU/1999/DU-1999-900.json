@@ -1,0 +1,93 @@
+{
+ "eli": "DU/1999/900",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 września 1999 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i formy audytu energetycznego oraz algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego, a także wzorów kart audytu energetycznego.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/900/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 września 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie szczegółowego zakresu i formy audytu energetycznego oraz algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego, a także wzorów kart audytu energetycznego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ust. 4 pkt 1 ustawy z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. Nr 162, poz. 1121) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 1999 r. w sprawie szczegółowego zakresu i formy audytu energetycznego oraz algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego, a także wzorów kart audytu energetycznego (Dz. U. Nr 46, poz. 459), wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w załączniku nr 1 w części 3 w pkt 1.1. po pierwszym zdaniu dodaje się zdanie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Wartość optymalnego oporu cieplnego przegrody zewnętrznej po termomodernizacji nie może być mniejsza niż:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dla ścian zewnętrznych (stykających się z powietrzem zewnętrznym) — 4,00 (m2-K)/W,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dla stropodachów i stropów pod nie ogrzewanymi poddaszami lub nad przejazdami — 4,50 (m?-K)/W,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) dla stropów nad piwnicami nie ogrzewanymi i zamkniętymi przestrzeniami podpodłogowymi — 2,00 (m*.K)/W.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku nr 2 w części 3 w pkt 2 wzór na obliczanie kosztów zmiennych wytwarzania ciepła w lokalnym źródle ciepła otrzymuje postać:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sd-u,,, (Sd-Sd"
+      },
+      {
+       "type": "text",
+       "text": "r"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych i Administracji: w z. B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

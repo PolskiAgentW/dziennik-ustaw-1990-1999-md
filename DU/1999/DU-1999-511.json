@@ -1,0 +1,1873 @@
+{
+ "eli": "DU/1999/511",
+ "title": "Rozporządzenie Ministra Finansów z dnia 25 maja 1999 r. w sprawie zasad rachunkowości i planu kont dla prowadzenia ewidencji podatków i opłat dla organów podatkowych jednostek samorządu terytorialnego.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/511/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 maja 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad rachunkowości i planu kont dla prowadzenia ewidencji podatków i opłat dla organów podatkowych jednostek samorządu terytorialnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 1 pkt 3 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. Nr 155, poz. 1014 oraz z 1999 r. Nr 38, poz. 360 i Nr 49, poz. 485) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie ustala zasady rachunkowości i plan kont dla prowadzenia ewidencji podatków i opłat realizowanych przez przewodniczącego zarządu jednostki samorządu terytorialnego jako organu podatkowego. Żasady rachunkowości i plan kont dla prowadzenia ewidencji podatków i niepodatkowych należności budżetowych przez urzędy skarbowe określają odrębne przepisy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zasady rachunkowości dotyczące podatków i opłat w jednostkach samorządu terytorialnego obejmują prowadzenie ewidencji księgowej należnych i pobranych podatków i opłat (przypisy, odpisy, wpłaty, zwroty) oraz kontrolę terminowej realizacji zobowiązań i likwidację nadpłat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Jednostki samorządu terytorialnego mogą stosować do rozliczeń wpłat podatków i opłat zasady określone przez zarządy jednostek samorządu terytorialnego, z uwzględnieniem przepisów niniejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Określenia użyte w rozporządzeniu oznaczają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "„urząd” — urząd jednostki samorządu terytorialnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "„inkasent” — osobę fizyczną, osobę prawną lub jednostkę organizacyjną nie mającą osobowości prawnej, zobowiązaną do pobrania podatku lub opłaty i wpłacenia ich we właściwym terminie do kasy urzędu lub na właściwy rachunek bankowy urzędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "„kasjer” — pracownika, któremu powierzono prowadzenie kasy urzędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "„księgowy” — pracownika referatu rachunkowości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "„należność główna” — określoną należność podatkową albo opłatę, podlegające zapłaceniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "„należności uboczne” — odsetki za zwłokę, opłatę prolongacyjną i koszty upomnień,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "„odpis” — kwotę zmniejszającą zobowiązanie podatkowe albo kwotę należną podatnikowi, ustaloną w wyniku dokonanego przez urząd rozliczenia stanu konta podatnika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "„Ordynacja podatkowa” — ustawę z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. Nr 137, poz. 926, Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668 oraz z 1999 r. Nr 11, poz. 95),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": ", opłaty” — należności inne niż podatki, realizowane przez jednostkę samorządu terytorialnego, do których stosuje się przepisy Ordynacji podatkowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_1/pkt_10",
+       "text": "„podatki i opłaty” — podatki, opłaty i inne należności budżetu, do których ustalania lub określania uprawniony jest przewodniczący zarządu jednostki samorządu terytorialnego, zgodnie z art. 14 ust. 1 pkt 3 ustawy z dnia 26 listopada 1998 r. o finansach publicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_1/pkt_11",
+       "text": "„przypis” — zobowiązanie podatkowe stanowiące obciążenie konta podatnika na podstawie decyzji administracyjnej, decyzji wydanej w wyniku kontroli albo dowodów wpłat, np. odsetki za zwłokę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_1/pkt_12",
+       "text": "„referat rachunkowości” — komórkę organizacyjną w urzędzie prowadzącą rachunkowość podatków i opłat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_1/pkt_13",
+       "text": "„zobowiązanie pieniężne” — zobowiązanie określone w rozporządzeniu Ministra Finansów z dnia 10 września 1996 r. w sprawie łącznego zobowiązania pieniężnego (Dz. U. Nr 112, poz. 539).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przepisy rozporządzenia dotyczące:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "podatników — stosuje się odpowiednio do inkasentów, a także do następców prawnych, określonych w art. 93—106 Ordynacji podatkowej, i osób trzecich, określonych w art. 107—118 Ordynacji podatkowej; jeżeli jednak w treści przepisu rozróżnia się podatników i inkasentów, to przepisy dotyczące podatników odnoszą się również do następców prawnych i osób trzecich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "podatków — stosuje się odpowiednio do opłat.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zadaniem referatu rachunkowości w zakresie poboru podatków i opłat jest:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "prowadzenie w księgach rachunkowych prawidłowej ewidencji przypisów, odpisów, wpłat, zwrotów i zaliczeń nadpłat z tytułu podatków i opłat,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "kontrola terminowej wpłaty należności przez podatników i inkasentów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "terminowe podejmowanie czynności zmierzających do zastosowania środków egzekucyjnych, takich jak upomnienia, tytuły wykonawcze,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "zwracanie i zaliczanie nadpłat,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "przeprowadzanie rozliczenia rachunkowo-kasowego inkasentów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "sporządzanie sprawozdań,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "prowadzenie operacji kasowych i uzgadnianie obrotów kasy związanych z przyjmowaniem wpłat gotówką i z dokonywaniem zwrotów podatnikom za pośrednictwem kasy urzędu oraz terminowe wypłacanie gotówki z kasy na rachunek bankowy urzędu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "ustalenie na podstawie ewidencji księgowej danych potrzebnych do wydawania zaświadczeń o wysokości zaległości podatkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Do udokumentowania przypisów i odpisów służą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "rejestry przypisów i odpisów, do których są dołączone dokumenty źródłowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "decyzje,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "dowody zrealizowanych wpłat nie przypisanych, a należnych od podatników, w tym wpłat odsetek za zwłokę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "polecenia księgowania ujmujące przypisy należności zakwalifikowanych jako zobowiązania przedawnione,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "postanowienia o dokonaniu potrącenia z urzędu albo inne dokumenty stwierdzające dokonanie potrącenia, o którym mowa w art. 65 Ordynacji podatkowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "dokumenty stwierdzające obciążenie rachunku bankowego podatnika z tytułu zapłaty podatku w przypadku, gdy podatnik dokonał zapłaty podatku poleceniem przelewu do banku, który obciążył rachunek bankowy podatnika, ale nie przekazał środków na rachunek bankowy urzędu, przypisujące bankowi zobowiązanie w wysokości zapłaty dokonanej przez podatnika, w związku z art. 60 8 1 pkt 2 Ordynacji podatkowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Do udokumentowania wpłat służą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "kwitariusze przychodowe K 103, jeżeli wpłata jest dokonana w kasie urzędu lub u inkasenta, z wyjątkiem wpłat w zakresie zobowiązania pieniężnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "pokwitowania z kontokwitariusza zobowiązania pieniężnego, jeżeli wpłata jest dokonana u inkasenta w zakresie zobowiązania pieniężnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "pokwitowania z kwitariuszy przychodowych KP, jeżeli dotyczą wpłat opłaty targowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "dokumenty wpłaty, załączone do wyciągu bankowego, jeżeli wpłaty dokonywane są za pośrednictwem banku lub poczty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_2/pkt_5",
+       "text": "dowody przerachowań (postanowienia o zaliczeniu wpłaty na poczet zaległości podatkowych), w przypadku gdy wpłata została dokonana na inny rodzaj podatku niż podatek, w którym występuje zobowiązanie podatkowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_2/pkt_6",
+       "text": "inne dowody wpłaty, zatwierdzone do stosowania przez zarząd jednostki samorządu terytorialnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Do udokumentowania zapłaty w formie niepieniężnej służą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "postanowienia o dokonaniu z urzędu potrącenia, o którym mowa w art. 65 8 1 Ordynacji podatkowej, lub inne dokumenty stwierdzające dokonanie takiego potrącenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "umowy lub inne dokumenty określające dzień przeniesienia własności rzeczy lub praw majątkowych na rzecz jednostki samorządu terytorialnego, o którym mowa w art. 66 8 4 Ordynacji podatkowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "dokumenty stwierdzające obciążenie rachunku bankowego podatnika z tytułu zapłaty podatku w przypadku banku, który nie przekazał zadysponowanych środków na rachunek urzędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Do udokumentowania zwrotu służą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "dowody wypłat KW, jeżeli wypłaty dokonywane są w kasie urzędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "dokumenty zwrotu, załączone do wyciągu bankowego, jeżeli zwroty dokonywane są za pośrednictwem banku lub poczty.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Kwit wpłaty z kwitariusza przychodowego powinien zawierać dane umożliwiające identyfikację dokumentu wpłaty, podatnika, podatku, wysokości kwoty wpłaty i jej przeznaczenia, takie jak:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "niepowtarzalny identyfikator dokumentu (np. rodzaj dokumentu, seria i numer),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "określenie podatnika:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "nazwisko i imię (nazwa),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "adres (siedziba),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_2/lit_c",
+         "text": "Numer identyfikacji podatkowej (NIP),",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "rodzaj należności głównej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "okres, którego dotyczy wpłata z tytułu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_4/lit_a",
+         "text": "należności zalegtej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_4/lit_b",
+         "text": "należności bieżącej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_4/lit_c",
+         "text": "odsetek za zwłokę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_4/lit_d",
+         "text": "opłaty prolongacyjnej, jeśli jest stosowana w jednostce samorządu terytorialnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_4/lit_e",
+         "text": "kosztu upomnienia,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "kwota wpłaty ogółem cyframi i słownie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "kwota wpłaty cyframi z tytułu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_6/lit_a",
+         "text": "należności zalegtej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_6/lit_b",
+         "text": "należności bieżącej,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_6/lit_c",
+         "text": "odsetek za zwłokę,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_6/lit_d",
+         "text": "opłaty prolongacyjnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_1/pkt_6/lit_e",
+         "text": "kosztów upomnień,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_1/pkt_7",
+       "text": "data wpłaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_1/pkt_8",
+       "text": "odcisk pieczęci urzędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_1/pkt_9",
+       "text": "własnoręczny podpis kasjera.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Data wpłaty, o której mowa w ust. 1 pkt 7, jest jednocześnie datą dokumentu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Kwitariusze przychodowe i kontokwitariusze zobowiązania pieniężnego są drukami ścisłego zarachowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Ewidencję druków ścisłego zarachowania prowadzi się w księdze druków (formularz K-210). W księdze tej ujmuje się również przychód i rozchód druków płatnych wydanych kasjerowi lub innemu pracownikowi, upoważnionemu do ich odrębnej sprzedaży.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Kasjera lub innego upoważnionego pracownika rozlicza się z druków przekazanych mu do sprzedaży.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Przewodniczący zarządu jednostki samorządu terytorialnego może przyjąć inne niż wymienione w ust. 2 urządzenie ewidencyjne służące do ewidencji i kontroli druków ścisłego zarachowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W urzędzie wpłaty od podatników i inkasentów przyjmuje kasjer.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Dla każdego rodzaju podatku lub innej należności wypełnia się oddzielny kwit wpłaty K 103, co najmniej w dwóch egzemplarzach. Oryginał kwitu otrzymuje wpłacający.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Kwity kasowe stanowiące dowody wpłaty powinny być przy księgowaniu sprawdzone z punktu widzenia prawidłowości zakwalifikowania wpłaty, w szczególności w zakresie rodzaju podatku lub naliczenia odsetek za zwłokę. W przypadku niemożności zaliczenia dokonanej wpłaty na właściwą należność księgowy księguje wpłatę jako wpływy do wyjaśnienia i wyjaśnia tytuł wpłaty.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Księgi rachunkowe i plan kont"
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Ewidencja podatków i opłat jest integralną częścią ewidencji księgowej urzędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Księgi rachunkowe obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "dziennik,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "konta księgi głównej (ewidencji syntetycznej), w której obowiązuje ujęcie każdej operacji zgodnie z zasadą podwójnego zapisu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "konta ksiąg pomocniczych (ewidencji analitycznej).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Dziennik służy do zapisywania w porządku chronologicznym, dzień po dniu, danych o operacjach gospodarczych. Żapisy w dzienniku muszą być kolejno numerowane, a sumy zapisów (obroty) — liczone w sposób ciągły w skali roku. Jeżeli stosuje się podział na dzienniki częściowe, grupujące operacje według rodzajów podatków, to należy sporządzać zestawienie obrotów tych dzienników za każdy miesiąc.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Konta księgi głównej (ewidencji syntetycznej) obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_4/pkt_1",
+       "text": "konto 011 — Środki trwałe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_4/pkt_2",
+       "text": "konto 101 — Kasa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_4/pkt_3",
+       "text": "konto 130 — Rachunek bankowy urzędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_4/pkt_4",
+       "text": "konto 140 — Krótkoterminowe papiery wartościowe i inne środki pieniężne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_4/pkt_5",
+       "text": "konto 221 — Należności z tytułu dochodów budżetowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_4/pkt_6",
+       "text": "konto 750 — Przychody i koszty finansowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Konta ksiąg pomocniczych (ewidencji analitycz-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "nej",
+       "path": "par_9/ust_5/lit_nej",
+       "text": "obejmują:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_5/pkt_1",
+       "text": "prowadzone w urzędzie konta służące do rozrachunków:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_5/pkt_1/lit_a",
+         "text": "z podatnikami — z tytułu podatków i opłat,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_5/pkt_1/lit_b",
+         "text": "z osobami trzecimi, o których mowa w § 2 ust. 2 pkt 1 — z tytułu odpowiedzialności solidarnej z podatnikami z tytułu podatków i opłat,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/ust_5/pkt_1/lit_c",
+         "text": "z inkasentami — z tytułu poboru podatków i opłat od podatników,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_9/ust_5/pkt_1/lit_d",
+         "text": "z jednostkami budżetowymi — z tytułu potrącenia kwoty z wzajemnej, bezspornej i wymagalnej wierzytelności podatnika wobec jednostki samorządu terytorialnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_9/ust_5/pkt_1/lit_e",
+         "text": "z bankami — z tytułu nieprzekazania wpłat dokonanych przez podatników przelewem do banku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_9/ust_5/pkt_1/lit_f",
+         "text": "konta zbiorcze zobowiązania pieniężnego wsi — z tytułu zobowiązania pieniężnego,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_5/pkt_2",
+       "text": "konta podatników zobowiązania pieniężnego, prowadzone w kontokwitariuszu zobowiązania pieniężnego, jako ewidencja szczegółowa w podziale na podatników.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "Konta określone w ust. 5 pkt 1 prowadzi się w następujący sposób:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_6/pkt_1",
+       "text": "dla każdego podatnika, osoby trzeciej i inkasenta prowadzi się odrębne konto w każdym podatku, płaconym przez niego bezpośrednio do kasy urzędu lub na rachunek bankowy urzędu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_6/pkt_2",
+       "text": "dla każdej jednostki budżetowej i banku prowadzi się odrębne konto w każdym podatku, w związku z którym ta jednostka budżetowa lub bank stał się dłużnikiem jednostki samorządu terytorialnego,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_6/pkt_3",
+       "text": "dla każdej wsi prowadzi się odrębne konto zbiorcze zobowiązania pieniężnego wsi, służące do ewidencji rozrachunków z inkasentem zobowiązania pieniężnego w tej wsi oraz do zbiorczej kontroli realizacji zobowiązania pieniężnego przez wieś.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_9/ust_7",
+     "text": "Na kontach określonych w ust. 5 pkt 2 prowadzi się ewidencję rozrachunków z podatnikami z tytułu zobowiązania pieniężnego wpłacanego do rąk inkasenta zobowiązania pieniężnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_9/ust_8",
+     "text": "Na kontach ksiąg pomocniczych ewidencję księgową prowadzi się z uwzględnieniem podziałek klasyfikacji budżetowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Konto 101 — Kasa służy do ewidencji gotówki, którą podatnicy regulują swoje zobowiązania w kasie urzędu, oraz gotówki wpłaconej przez inkasentów do kasy urzędu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "na stronie Wn konta księguje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_1/lit_a",
+       "text": "wpływ gotówki z tytułu podatków i opłat — w korespondencji ze stroną Ma konta 221 — Należności z tytułu dochodów budżetowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_1/lit_b",
+       "text": "wpływ gotówki z banku do kasy z przeznaczeniem na zwrot nadpłat oraz ich oprocentowania — w korespondencji ze stroną Ma konta 130 — Rachunek bankowy urzędu,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "na stronie Ma konta księguje się rozchód gotówki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_2/lit_a",
+       "text": "przekazanie środków pieniężnych na rachunek bankowy —w korespondencji ze stroną Wn konta 140 — Krótkoterminowe papiery wartościowe i inne środki pieniężne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_2/lit_b",
+       "text": "zwroty nadpłat oraz ich oprocentowania z kasy podatnikom — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Konto 130 — Rachunek bankowy urzędu służy do ewidencji gromadzonych przez urząd wpływów budżetowych i zwrotów z tytułu podatków i opłat:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "na stronie Wn konta księguje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_11/pkt_1/lit_a",
+       "text": "wszelkie wpływy z tytułu podatków i opłat, wpłacone na rachunek bankowy — w korespondencji ze stroną Ma konta 221 — Należności z tytułu dochodów budżetowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_11/pkt_1/lit_b",
+       "text": "wpłaty środków pieniężnych w drodze — w korespondencji ze stroną Ma konta 140 — Krótkoterminowe papiery wartościowe i inne środki pieniężne,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "na stronie Ma konta księguje się rozchody środków pieniężnych zgromadzonych na tym koncie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_11/pkt_2/lit_a",
+       "text": "pobrane z banku do kasy środki pieniężne przeznaczone na zwrot nadpłat podatnikom — w korespondencji ze stroną Wn konta 101 — Kasa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_11/pkt_2/lit_b",
+       "text": "zwroty nadpłat oraz ich oprocentowania za pośrednictwem banku — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_11/pkt_2/lit_c",
+       "text": "zwroty podatnikom za pośrednictwem banku wpłat będących kwotami nienależnymi — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Konto 140 — Krótkoterminowe papiery wartościowe i inne środki pieniężne służy do ewidencji środków pieniężnych znajdujących się między kasą urzędu a jego rachunkiem bankowym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "na stronie Wn konta księguje się wypłaty z kasy na rachunek bankowy — w korespondencji ze stroną Ma konta 101 — Kasa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "na stronie Ma konta księguje się wpływ środków pieniężnych w drodze na rachunek bankowy, pod datą wyciągu bankowego — w korespondencji ze stroną Wn konta 130 — Rachunek bankowy urzędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Konto 221 — Należności z tytułu dochodów budżetowych służy do ewidencji rozrachunków:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "z podatnikami z tytułu należnych i wpłacanych przez nich podatków i opłat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "z osobami trzecimi, o których mowa w § 2 ust. 2 pkt 1, z tytułu odpowiedzialności solidarnej z podatnikami z tytułu podatków i opłat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "z inkasentami z tytułu pobieranych przez nich podatków i opłat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "z jednostkami budżetowymi z tytułu potrącenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_1/pkt_5",
+       "text": "z bankami z tytułu nie przekazanych wpłat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_13/ust_1/pkt_6",
+       "text": "wsi z tytułu zbiorczego zobowiązania pieniężnego wsi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_13/ust_1/pkt_7",
+       "text": "wpływów do wyjaśnienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Ewidencję na koncie prowadzi się następująco:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "na stronie Wn konta księguje się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_2/pkt_1/lit_a",
+         "text": "przypisy należności — w korespondencji ze stroną Ma konta 750 — Przychody i koszty finanso-",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "we,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_2/pkt_1/lit_b",
+         "text": "naliczone odsetki za zwłokę i inne należności uboczne w kwocie wpłaconej — na podstawie dokumentu wpłaty — w korespondencji ze stroną Ma konta 750 — Przychody i koszty finanso-",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "we,"
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_13/ust_2/pkt_1/lit_c",
+         "text": "zwroty nadpłat — w korespondencji ze stroną Ma konta 130 — Rachunek bankowy urzędu, jeśli zwrot następuje na rachunek bankowy podatnika, albo konta 101 — Kasa, jeśli zwrot następuje bezpośrednio z kasy urzędu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_13/ust_2/pkt_1/lit_d",
+         "text": "wypłaty należnego podatnikom oprocentowania za nieterminowy zwrot nadpłaty; zapisu dokonuje się na podstawie dokumentu wypłaty — w korespondencji ze stroną Ma konta 130 — Rachunek bankowy urzędu, jeśli zwrot następuje na rachunek bankowy podatnika, albo konta 101 — Kasa, jeśli zwrot następuje bezpośrednio z kasy urzędu,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "na stronie Ma konta księguje się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_2/pkt_2/lit_a",
+         "text": "odpisy należności — w korespondencji ze stroną Wn konta 750 — Przychody i koszty finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_2/pkt_2/lit_b",
+         "text": "odpisy z tytułu należnego podatnikowi oprocentowania za nieterminowy zwrot nadpłaty — w korespondencji ze stroną Wn konta 750 — Przychody i koszty finansowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_13/ust_2/pkt_2/lit_c",
+         "text": "wpłaty dokonane przelewem albo za pośrednictwem poczty — w korespondencji ze stroną Wn konta 130 — Rachunek bankowy urzędu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_13/ust_2/pkt_2/lit_d",
+         "text": "wpłaty dokonane do kasy urzędu — w korespondencji ze stroną Wn konta 101 — Kasa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_13/ust_2/pkt_2/lit_e",
+         "text": "zapłatę dokonaną przez przeniesienie własności rzeczy lub praw majątkowych na rzecz jednostki samorządu terytorialnego, o którym mowa w art. 66 § 1 pkt 2 Ordynacji podatkowej — w korespondencji ze stroną Wn konta 011 — Srodki trwałe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_13/ust_2/pkt_2/lit_f",
+         "text": "zapłatę dokonaną przez potrącenie, o którym mowa w art. 65 8 1 Ordynacji podatkowej — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_13/ust_2/pkt_2/lit_g",
+         "text": "zapłatę dokonaną za pośrednictwem banku, który obciążył rachunek bankowy podatnika z tytułu zapłaty podatku, ale nie przekazał tych środków na rachunek bankowy urzędu — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Jeżeli podatnicy są obowiązani okresowo wpłacać zaliczki na poczet należności bez wezwania urzędu, zaliczki powinny być zaksięgowane również jako przypisy w kwotach wpłat dokonanych za poszczególne okresy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Do konta 221 prowadzi się konta pomocnicze dla podmiotów, określonych w ust. 1, z podziałem na dłużników, według podziałek klasyfikacji budżetowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Konto zamyka się dwoma saldami. Saldo Wn oznacza przypisane, a nie zrealizowane podatki i opłaty. Saldo Ma oznacza wpłacone, a nie przypisane podatki i opłaty — to jest nadpłaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Konto 011 — Środki trwałe służy do ewidencji zwiększenia wartości środków trwałych z tytułu zapłaty podatku dokonanej w formie niepieniężnej. Na stronie Wn konta księguje się zapłatę podatku dokonaną przez przeniesienie własności rzeczy lub praw majątkowych na rzecz jednostki samorządu terytorialnego, o którym mowa w art. 66 § 1 pkt 2 Ordynacji podatkowej — w korespondencji ze stroną Ma konta 221 — Należności z tytułu dochodów budżetowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Konto zamyka się saldem Wn oznaczającym zwiększenie wartości środków trwałych z tytułu zapłaty podatku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Konto 750 — Przychody i koszty finansowe służy do ewidencji przychodów budżetowych z tytułu podatków i opłat:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "na stronie Wn konta księguje się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_1/lit_a",
+         "text": "odpisy z tytułu podatków i opłat — w korespondencji ze stroną Ma konta 221 — Należności z tytułu dochodów budżetowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_1/lit_b",
+         "text": "należne podatnikowi oprocentowanie za nieterminowy zwrot nadpłaty — w korespondencji ze stroną Ma konta 221 — Należności z tytułu dochodów budżetowych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "na stronie Ma konta księguje się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_15/ust_1/pkt_2/lit_a",
+         "text": "przypisy z tytułu podatków i opłat — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_15/ust_1/pkt_2/lit_b",
+         "text": "naliczone odsetki za zwłokę i inne należności uboczne w kwocie wpłaconej — na podstawie dokumentu wpłaty — w korespondencji ze stroną Wn konta 221 — Należności z tytułu dochodów budżetowych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Konto zamyka się saldem Ma, które oznacza należny przychód z tytułu przypisanych podatków i opłat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Księgowań dotyczących rozrachunków z poszczególnymi podatnikami z tytułu należnych i wpłacanych przez nich podatków i opłat dokonuje się na kontach pomocniczych prowadzonych do konta 221 — Należności z tytułu dochodów budżetowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "na stronie Wn konta księguje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/pkt_1/lit_a",
+       "text": "przypisy należności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/pkt_1/lit_b",
+       "text": "naliczone odsetki za zwłokę i inne należności uboczne w kwocie wpłaconej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_16/pkt_1/lit_c",
+       "text": "zwrot nadpłaty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_16/pkt_1/lit_d",
+       "text": "wypłatę należnego podatnikowi oprocentowania za nieterminowy zwrot nadpłaty,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "na stronie Ma konta księguje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/pkt_2/lit_a",
+       "text": "odpisy należności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/pkt_2/lit_b",
+       "text": "odpisy z tytułu należnego podatnikowi oprocentowania za nieterminowy zwrot nadpłaty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_16/pkt_2/lit_c",
+       "text": "wpłaty dokonane na rachunek bankowy urzędu za pośrednictwem banku lub poczty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_16/pkt_2/lit_d",
+       "text": "wpłaty dokonane do kasy urzędu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_16/pkt_2/lit_e",
+       "text": "wygaśnięcie zobowiązania podatkowego przez przeniesienie własności rzeczy lub praw majątkowych, o którym mowa w art. 66 8 1 pkt 2 Ordynacji podatkowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_16/pkt_2/lit_f",
+       "text": "zapłatę dokonaną przez potrącenie, o którym mowa w art. 65 § 1 Ordynacji podatkowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_16/pkt_2/lit_g",
+       "text": "zapłatę dokonaną za pośrednictwem banku, który obciążył rachunek bankowy podatnika z tytułu zapłaty podatku, ale nie przekazał tych środków na rachunek bankowy urzędu.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Księgowań dotyczących rozrachunków z poszczególnymi osobami trzecimi z tytułu odpowiedzialności solidarnej z podatnikami z tytułu podatków i opłat dokonuje się na kontach pomocniczych prowadzonych do konta 221 — Należności z tytułu dochodów budżetowych zgodnie z zasadami, o których mowa w § 16, dotyczącymi wpłat, zwrotów i wygaśnięcia zobowiązania podatkowego. Księgowań na koncie osoby trzeciej dokonuje się z uwzględnieniem stanu konta podatnika, z którym osoba trzecia odpowiada solidarnie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Księgowań dotyczących rozrachunków z poszczególnymi inkasentami z tytułu pobieranych przez nich podatków i opłat dokonuje się na kontach pomocniczych prowadzonych do konta 221 — Należności z tytułu dochodów budżetowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_18/pkt_1",
+     "text": "na stronie Wn konta księguje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_18/pkt_1/lit_a",
+       "text": "przypisy należności do pobrania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_18/pkt_1/lit_b",
+       "text": "naliczone odsetki za zwłokę i inne należności uboczne w kwocie wpłaconej,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_18/pkt_2",
+     "text": "na stronie Ma konta księguje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_18/pkt_2/lit_a",
+       "text": "wpłaty kwot pobranych dokonane na rachunek bankowy urzędu za pośrednictwem banku lub poczty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_18/pkt_2/lit_b",
+       "text": "wpłaty kwot pobranych dokonane do kasy urzędu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Księgowań dotyczących rozrachunków należności od poszczególnych jednostek budżetowych z tytułu potrącenia dokonuje się na kontach pomocniczych prowadzonych do konta 221 — Należności z tytułu dochodów budżetowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "na stronie Wn konta księguje się przypis jednostce budżetowej w wysokości zapłaty dokonanej przez podatnika przez potrącenie, o którym mowa w art. 65 Ordynacji podatkowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_19/pkt_2",
+     "text": "na stronie Ma konta księguje się wpłaty jednostek budżetowych z tytułu należności przypisanych w wyniku dokonania przez podatnika zapłaty należności podatkowej przez potrącenie, o którym mowa w art. 65 Ordynacji podatkowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Księgowań dotyczących rozrachunków należności od poszczególnych banków z tytułu nie przekazanych wpłat dokonuje się na kontach pomocniczych prowadzonych do konta 221 — Należności z tytułu dochodów budżetowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "na stronie Wn konta księguje się przypis bankowi w wysokości zapłaty dokonanej przez podatnika poleceniem przelewu do banku, który obciążył rachunek bankowy podatnika, ale nie przekazał środków na rachunek bankowy urzędu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "na stronie Ma konta księguje się wpłaty banku z tytułu należności przypisanych w wyniku dokonania przez podatnika zapłaty należności podatkowej poleceniem przelewu, w sytuacji gdy bank obciążył rachunek bankowy podatnika, ale nie przekazał środków na rachunek bankowy urzędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Pomocnicze konto zbiorcze zobowiązania pieniężnego wsi jest zakładane na każdy rok podatkowy dla każdej wsi oddzielnie i służy do kontroli inkasa dokonywanego przez inkasenta przy użyciu kontokwitariusza oraz do zbiorczej kontroli realizacji zobowiązania pieniężnego przez wieś.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Konto, o którym mowa w ust. 1, jest prowadzone w urzędzie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Na koncie, o którym mowa w ust. 1, i w dzienniku księguje się wszystkie obroty dotyczące danej miejscowości: przypisy, odpisy, wpłaty dokonywane do rąk inkasenta, zwroty oraz salda — na podstawie zapisów na kontach podatników prowadzonych w kontokwitariuszu — oraz wpłaty dokonywane bezpośrednio do kasy urzędu lub na rachunek bankowy urzędu. W osobnych rubrykach księguje się wpłaty wnoszone przez inkasenta i osobno pozostałe wpłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Przypisy rocznych wymiarów zobowiązania pieniężnego księguje się w kwotach łącznych na podstawie rejestru wymiarowego i rejestru przypisów i odpisów. Pozostałe przypisy i odpisy wynikające z decyzji administracyjnych lub wykazów zbiorczych księguje się nie rzadziej niż raz w miesiącu, w sumach łącznych kwot ustalonych w rejestrze przypisów i odpi-",
+     "children": [
+      {
+       "type": "text",
+       "text": "sów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_21/ust_5",
+     "text": "Wpłaty inkasenta księguje się na podstawie wykazu wpłat i kopii wydanych mu pokwitowań wpłat do kasy z kwitariusza przychodowego K 103 lub dowodów wpłat na rachunek bankowy urzędu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pozostałe:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_5/pkt_1",
+       "text": "wpłaty — księguje się na podstawie dowodów wpłat do kasy (kopii pokwitowań) lub bankowych dowodów wpłaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_5/pkt_2",
+       "text": "zwroty — księguje się na podstawie dowodów wypłat z kasy (kopii pokwitowań) lub bankowych dowodów wypłaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_5/pkt_3",
+       "text": "przerachowania — księguje się na podstawie księgowych dowodów wewnętrznych (not księgowych).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Do szczegółowej ewidencji rozrachunków z podatnikami z tytułu zobowiązania pieniężnego stuza konta podatników prowadzone w kontokwitariuszu zobowiązania pieniężnego lub w jego odpowiedniku w przypadku pracy przy użyciu komputera.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Kontokwitariusze zobowiązania pieniężnego są zakładane dla każdej wsi oddzielnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Kontokwitariusz zobowiązania pieniężnego zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_3/pkt_1",
+       "text": "konta podatników, na których ewidencjonowane są przez urząd zobowiązania bieżące, zaległości i odpisy,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_3/pkt_2",
+       "text": "kwitariusz zawierający blankiety pokwitowań służących do udokumentowania wpłat dokonywanych przez podatników.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_22/ust_4",
+     "text": "W kontokwitariuszu zakłada się konta podatników, którym dokonano wymiaru zobowiązania pieniężnego za rok bieżący, oraz podatników, którzy posiadają jedynie zaległości lub nadpłaty z lat ubiegłych. W ciągu roku konta nowych podatników zakłada się na końcu ostatniego kontokwitariusza założonego dla danej wsi, zawierającego nie zapisane arkusze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_22/ust_5",
+     "text": "Jeżeli podatnikom nie wymierza się zobowiązania pieniężnego za lata bieżące, a posiadają oni zaległości z lat poprzednich, na poczet których nie dokonują wpłat inkasentowi, można dla nich nie zakładać kont w kontokwitariuszu. Ewidencję operacji z tytułu tych zaległości prowadzi się na kontach podatkowych prowadzonych w referacie rachunkowości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_22/ust_6",
+     "text": "Wymiar zobowiązania pieniężnego na rok podatkowy przypisuje się na kontach podatników w kwotach rocznych przed rozpoczęciem roku podatkowego. Dokonane w ciągu roku podatkowego wymiary, ulgi i odpisy z innych tytułów księguje się na rzadziej niż raz w miesiącu, w kwotach wynikających z dokumentacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_22/ust_7",
+     "text": "Przy zakładaniu konta podatnika zapisuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_7/pkt_1",
+       "text": "kwotę zaległości z poprzedniego roku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_7/pkt_2",
+       "text": "kwotę nadpłaty z poprzedniego roku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_7/pkt_3",
+       "text": "kwotę przypisu (wymiaru) na rok bieżący,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_22/ust_7/pkt_4",
+       "text": "wysokość rat kwartalnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Przy ustalaniu wysokości poszczególnych rat od pierwszej i ewentualnie następnych rat odejmuje się kwotę nadpłaty początkowej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_22/ust_8",
+     "text": "Na koncie podatnika w rubryce „Uwagi” księgowy wpisuje aktualne w bieżącym roku adnotacje pochodzące z roku ubiegłego, a w szczególności o rozłożeniu na raty zapłaty podatku lub zaległości podatkowej wraz z odsetkami za zwłokę albo odroczeniu płatności podatku. Ponadto księgowy w odpowiednich rubrykach wpisuje daty wysłanych w ubiegłych latach upomnień oraz adnotacji o wystawionych tytułach wykonawczych, jeżeli objęte nimi zaległości nie zostały zlikwidowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Jeżeli ewidencja podatków i opłat jest prowadzona techniką inną niż ręczna, należy zachować zasady określone w niniejszym rozporządzeniu i zapewnić wydruk określonych w nim dokumentów, formularzy i zestawień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Jeżeli księgi rachunkowe prowadzone są za pomocą komputera, to:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_2/pkt_1",
+       "text": "dowody źródłowe mogą mieć postać dokumentów papierowych lub zapisów elektronicznych; w tym drugim przypadku muszą być zabezpieczone przed zniekształceniem lub usunięciem pierwotnej treści operacji gospodarczej, której dotyczą, i być opatrzone unikalnym identyfikatorem źródła pochodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_2/pkt_2",
+       "text": "zapisy w księgach rachunkowych mogą nastąpić za pośrednictwem klawiatury komputerowej, urządzeń czytających dokumenty papierowe, urządzeń transmisji danych lub elektronicznych nośników danych, pod warunkiem że podczas rejestracji operacji gospodarczej uzyskują one trwale czytelną postać odpowiadającą treści dowodu księgowego i możliwe jest stwierdzenie źródła pochodzenia każdego zapisu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_2/pkt_3",
+       "text": "zapisy mogą być przenoszone między zbiorami danych, składającymi się na księgi rachunkowe prowadzone na komputerowych nośnikach danych, pod warunkiem że możliwe jest stwierdzenie źródła pochodzenia zapisów w zbiorach, w których ich dokonano pierwotnie, a odpowiedni program zapewni zachowanie ich poprawności i kompletności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_2/pkt_4",
+       "text": "zamiast kontokwitariusza można stosować rozwiązania, które zapewniają:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_23/ust_2/pkt_4/lit_a",
+         "text": "prowadzenie kont podatników zobowiązania pieniężnego w komputerowej bazie danych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_23/ust_2/pkt_4/lit_b",
+         "text": "automatyczne wystawianie decyzji na zobowiązanie pieniężne (nakazu płatniczego), dla każdego podatnika oddzielnie, które następnie są dostarczane podatnikom,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_23/ust_2/pkt_4/lit_c",
+         "text": "automatyczny wydruk kwitariuszy przychodowych z imiennie wypełnionymi pokwitowaniami wpłaty K 103, z których następnie inkasenci wydają podatnikom pokwitowania po dokonaniu przez nich wpłaty na ręce inkasenta.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Rozliczanie poborców jednostki samorządu terytorialnego"
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Jeżeli na mocy odrębnych przepisów dana jednostka samorządu terytorialnego jest uprawniona do przeprowadzania egzekucji, to rozliczanie poborcy jednostki samorządu terytorialnego dokonywane jest okresowo, nie rzadziej niż raz na dwa tygodnie, przy rozliczaniu służby i przy zdawaniu przez niego zużytych kwitariuszy K 103.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Rozliczanie polega na kontroli kwitariuszy prowadzonych przez poborcę oraz dotyczących ich dowodów wpłat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Po zakończeniu kontroli i ewentualnego postępowania, wynikającego z kontroli, dokumenty złożone przez poborcę podlegają przechowaniu w urzędzie, z wyjątkiem kwitariuszy niecałkowicie wykorzystanych, które zwraca się poborcy; jednakże dotyczące ich dowody wpłat zatrzymuje się w urzędzie i wykorzystuje przy kontroli kwitariusza, gdy zostanie zwrócony po całkowitym wykorzystaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Osoba kontrolująca poborcę stwierdza występowanie zgodności adnotacji o wpłacie w tytułach wyko-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nawczych z kopią pokwitowania wystawionego przez poborcę oraz stwierdza całkowitą likwidację wymienionych tytułów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_24/ust_5",
+     "text": "Jeżeli w wyniku kontroli ustalony zostanie niedobór gotówki, poborca obowiązany jest pokryć go możliwie bezzwłocznie, wpłacając odpowiednią kwotę do kasy urzędu lub na właściwy rachunek bankowy. W razie niemożności bezzwłocznego pokrycia niedoboru przez poborcę obciąża się go za niedobór.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_24/ust_6",
+     "text": "Jeżeli poborca przestał pełnić funkcję poborcy, niezwłocznie dokonuje się szczegółowego rozliczenia go z przekazanych mu kwitariuszy oraz wpłat pobranych przez niego i wpłaconych do kasy urzędu lub na rachunek bankowy urzędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepis końcowy"
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. J. Bauc"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

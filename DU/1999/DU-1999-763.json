@@ -1,0 +1,1577 @@
+{
+ "eli": "DU/1999/763",
+ "title": "Rozporządzenie Rady Ministrów z dnia 27 lipca 1999 r. w sprawie sposobu i metodologii prowadzenia i aktualizacji rejestru podmiotów gospodarki narodowej, w tym wzorów wniosków, ankiet i zaświadczeń, oraz szczegółowych warunków i trybu współdziałania służb statystyki publicznej z innymi organami prowadzącymi urzędowe rejestry i systemy informacyjne administracji publicznej.",
+ "converter": "eli2md 0.6.37",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/763/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 lipca 1999 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu i metodologii prowadzenia i aktualizacji rejestru podmiotów gospodarki narodowej, w tym wzorów wniosków, ankiet i zaświadczeń, oraz szczegółowych warunków i trybu współdziałania służb statystyki publicznej z innymi organami prowadzącymi urzędowe rejestry i systemy informacyjne administracji publicznej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Krajowy rejestr urzędowy podmiotów gospodarki narodowej, zwany dalej „rejestrem podmiotów”, obejmujący:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "osoby prawne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "jednostki organizacyjne nie mające osobowości prawnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "osoby fizyczne prowadzące działalność gospodarczą",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "oraz ich jednostki lokalne, jest prowadzony przez Prezesa Głównego Urzędu Statystycznego w sposób zinformatyzowany i nosi skróconą nazwę REGON."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W rejestrze podmiotów za osobę fizyczną prowadzącą działalność gospodarczą uznaje się osobę, której działalność jest wpisana do ewidencji działalności gospodarczej lub na której prowadzenie została udzielona koncesja albo zezwolenie, oraz inną osobę prowadzącą działalność na własny rachunek w celu osiągnięcia zysku, w tym jako uboczne zajęcie zarobkowe nie podlegające wpisowi do ewidencji działalności gospodarczej, a także osobę prowadzącą indywidualne gospodarstwo rolne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przy określaniu jednostki lokalnej podmiotów, o których mowa w § 1 pkt 1—3, przyjmuje się, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "zakłady zlokalizowane pod tym samym adresem są odrębnymi jednostkami lokalnymi, jeżeli samodzielnie sporządzają bilans,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "objęte odrębną rejestracją prawną organizacyjne części podmiotów są jednostkami lokalnymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "jednostki prowadzące działalność w zakresie transportu są jednostkami lokalnymi według miejsc, z których są wydawane polecenia lub w których jest organizowana praca,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "jednostki prowadzące działalność w zakresie budownictwa są jednostkami lokalnymi według miejsc, w których są przyjmowane zlecenia na wykonawstwo robót budowlanych i pomocniczych albo są wykonywane prace zarządu, albo jest prowadzona organizacja pracy budowlanej i pomocniczej; place budów (miejsca realizacji poszczególnych budów) nie są jednostkami lokalnymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "sprzedaż obwoźna, obnośna oraz punkt sprzedaży detalicznej bez stałej lokalizacji, jak również prowadzenie usług wyłącznie u klienta jest jedną jednostką lokalną w miejscu zamieszkania osoby fizycznej, miejscu siedziby osoby prawnej lub jednostki organizacyjnej nie mającej osobowości prawnej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Główny Urząd Statystyczny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "organizuje prowadzenie rejestru podmiotów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "opracowuje standardy klasyfikacyjne niezbędne do kodowania i oznaczania podmiotów wpisanych do rejestru podmiotów oraz opisu ich cech,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "prowadzi bazę danych zawierającą zbiór ogólnokrajowy podmiotów wpisanych do rejestru podmiotów i zarządza systemem informatycznym tworzenia i aktualizacji rejestru podmiotów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "ustala formy wymiany informacji w uzgodnieniu z organami rejestrowymi i ewidencyjnymi, a także innymi organami prowadzącymi rejestry i ewidencje lub systemy informacyjne administracji publicznej zawierające dane o poszczególnych podmiotach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "udostępnia organom administracji publicznej prowadzącym inne urzędowe rejestry i systemy informacyjne administracji publicznej informacje o podmiotach wpisanych do rejestru podmiotów, w szczególności o ich numerach identyfikacyjnych oraz kodach cech opisujących podmiot, w uzgodnionym zakresie niezbędnym do wykonywania statutowych zadań tych organów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "udostępnia na indywidualne zamówienia wyciągi z rejestru podmiotów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "wydaje okresowo katalogi wybranych grup podmiotów wpisanych do rejestru podmiotów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Urzędy statystyczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "udostępniają druki wniosków i przyjmują wnioski o wpis do rejestru podmiotów lub o zmianę cech objętych wpisem oraz wnioski o skreślenie podmiotu z rejestru podmiotów od podmiotów mających siedzibę lub miejsce zamieszkania w województwie, na którego terenie działają,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "dokonują wprowadzenia informacji zawartych we wnioskach, o których mowa w pkt 1, do bazy danych, o której mowa w ust. 1 pkt3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "wydają podmiotom wpisanym do rejestru podmiotów zaświadczenia o nadanych im i ich jednostkom lokalnym numerach identyfikacyjnych REGON,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "przekazują organom rejestrowym i ewidencyjnym informację o numerach identyfikacyjnych REGON nadanych podmiotom mającym siedzibę na terenie danego województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "współdziałają z organami prowadzącymi urzędowe rejestry i ewidencje oraz z innymi organami prowadzącymi systemy informacyjne administracji publicznej w województwie, na którego terenie działają, w celu aktualizacji rejestru podmiotów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "udostępniają, na indywidualne zamówienia, wyciągi z rejestru podmiotów o podmiotach mających siedzibę na terenie danego województwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "gromadzą i przechowują wnioski o wpis do rejestru podmiotów lub o zmianę cech objętych wpisem oraz wnioski o skreślenie podmiotu z rejestru podmiotów wraz z załączoną do wniosków dokumentacją.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Sposób i metodologia prowadzenia i aktualizacji rejestru podmiotów"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Wpis do rejestru podmiotów następuje na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "wniosku składanego przez podmioty, o których mowaw 8 1 pkt 1—3, z zastrzeżeniem ust. 2, na formularzu RG-1 „Wniosek o wpis do krajowego rejestru urzędowego podmiotów gospodarki narodowej lub o zmianę cech objętych wpisem”, według wzoru stanowiącego załącznik nr 1 do rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "wykazów indywidualnych gospodarstw i dziatek rolnych, przekazywanych przez urzędy gmin urzędom statystycznym, zgodnie z ustawą z dnia 11 maja 1994 r. o zadaniach zleconych gminie, zwiążą-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "nych z organizacją i prowadzeniem spisów rolnych (Dz. U. Nr 67, poz. 288)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Wpis do rejestru podmiotów jednostki lokalnej następuje na podstawie wniosku złożonego na formularzu RG-1, o którym mowa w ust. 1 pkt 1, przez osobę prawną, jednostkę organizacyjną nie mającą osobowości prawnej lub osobę fizyczną prowadzącą działalność gospodarczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wniosek na formularzu RG-1, o którym mowa w ust. 1 pkt 1, składają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "podmioty, o których mowa w § 1 pkt 1 i 2— w urzędzie statystycznym (lub jego oddziale) działającym w województwie, na którego terenie podmiot ma siedzibę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "osoby fizyczne prowadzące działalność gospodarczą — w urzędzie statystycznym (lub jego oddziale) działającym w województwie, na którego terenie osoba fizyczna ma miejsce zamieszkania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Do wniosku dotącza się wypis, wyciąg z rejestru lub zaświadczenie potwierdzające powstanie podmiotu lub podjęcie działalności albo zmianę cech objętych wpisem do rejestru podmiotów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Główny Urząd Statystyczny przekazuje urzędom gmin corocznie, w terminie do dnia 15 kwietnia, wykaz indywidualnych gospodarstw rolnych i działek rolnych z terenu gminy, zawierający następujące informacje ujęte w rejestrze podmiotów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "numer identyfikacyjny REGON osoby fizycznej prowadzącej indywidualne gospodarstwo rolne lub działkę rolną,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "nazwisko i imiona (pierwsze i drugie), identyfikator systemu ewidencji ludności PESEL oraz adres zamieszkania osoby fizycznej prowadzącej indywidualne gospodarstwo rolne lub działkę rolną,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_4/pkt_3",
+       "text": "rodzaj przeważającej działalności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_4/pkt_4",
+       "text": "daty: rozpoczęcia, zawieszenia i wznowienia działalności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_4/pkt_5",
+       "text": "numer identyfikujący indywidualne gospodarstwo rolne lub działkę rolną w dokumentacji gminy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_4/pkt_6",
+       "text": "liczbę pracujących,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_4/pkt_7",
+       "text": "powierzchnię ogólną i użytków rolnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Wykaz, o którym mowa w ust. 4, urzędy gmin korygują, nanosząc zmiany, i zwracają urzędom statystycznym (lub ich oddziałom) działającym w województwie, na którego terenie znajduje się gmina, w terminie do dnia 15 maja każdego roku; skorygowane w wykazach dane urząd statystyczny wprowadza do rejestru podmiotów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Do rejestru podmiotów są wprowadzane następujące informacje o osobach prawnych, jednostkach organizacyjnych nie mających osobowości prawnej i osobach fizycznych prowadzących działalność gospodarczą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "nazwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "nazwisko i imiona (pierwsze i drugie) oraz identyfikator systemu ewidencji ludności PESEL osoby fizycznej prowadzącej działalność gospodarczą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "adres zawierający odpowiednio następujące informacje: województwo, powiat, gmina, kod pocztowy i miejscowość poczty, miejscowość, ulica, numer nieruchomości, numer lokalu, opis nietypowego miejsca lokalizacji, skrytka pocztowa:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_3/lit_a",
+         "text": "siedziby,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_3/lit_b",
+         "text": "miejsca zamieszkania osoby fizycznej prowadzącej działalność gospodarczą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_3/lit_c",
+         "text": "miejsca, do którego należy kierować korespondencję oraz dodatkowo numer telefonu i faksu siedziby podmiotu,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "forma prawna:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_4/lit_a",
+         "text": "podstawowa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_4/lit_b",
+         "text": "szczególna,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "forma własności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "wykonywana działalność:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_6/lit_a",
+         "text": "wykaz rodzajów działalności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_6/lit_b",
+         "text": "rodzaj przeważającej działalności,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_1/pkt_7",
+       "text": "daty: powstania podmiotu, rozpoczęcia działalności, zawieszenia i wznowienia działalności, zakończenia działalności, skreślenia z rejestru lub ewidencji, wpisu oraz skreślenia z rejestru podmiotów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_1/pkt_8",
+       "text": "rejestracja:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_8/lit_a",
+         "text": "nazwa organu rejestrowego lub ewidencyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_8/lit_b",
+         "text": "rodzaj rejestru lub ewidencji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_8/lit_c",
+         "text": "numer nadany przez organ rejestrowy lub ewidencyjny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_1/pkt_8/lit_d",
+         "text": "data wpisu do rejestru lub ewidencji,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_1/pkt_9",
+       "text": "liczba pracujących, w tym zatrudnionych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_5/ust_1/pkt_10",
+       "text": "powierzchnia ogólna gospodarstwa rolnego i użytków rolnych,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zakodowane według obowiązujących standardów klasyfikacyjnych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W odniesieniu do jednostek lokalnych, do rejestru podmiotów są wprowadzane informacje określone w ust. 1 pkt 1 i pkt 3 lit. a) oraz pkt 6—10.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Podmiotom wpisanym do rejestru podmiotów jest nadawany niepowtarzalny numer identyfikacyjny REGON. Numer identyfikacyjny podmiotu skreślonego z rejestru podmiotów jest przechowywany w zbiorze historycznym i nie jest wykorzystywany do identyfikacji innego podmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Numer identyfikacyjny REGON podmiotów, o których mowa w § 1 pkt 1—3, składa się z dziewięciu cyfr, które nie mogą mieć ukrytego lub jawnego charakteru znaczącego, określającego pewne cechy podmiotu, przy czym osiem pierwszych cyfr stanowi liczbę porządkową, a dziewiąta — cyfrę kontrolną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Numer identyfikacyjny REGON, o którym mowa w ust. 2, pozostaje nie zmieniony w czasie istnienia",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "podmiotu i nie przechodzi na następcę prawnego. Zmiany cech podmiotu objętych wpisem do rejestru podmiotów nie powodują nadania nowego numeru identyfikacyjnego, z zastrzeżeniem ust. 4."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Zmiana szczególnej formy prawnej podmiotu powoduje skreślenie go z rejestru podmiotów oraz ponowny wpis do rejestru podmiotów z nadaniem nowego numeru identyfikacyjnego REGON, z zastrzeżeniem ust. 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Nie powoduje nadania nowego numeru identyfikacyjnego REGON:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_5/pkt_1",
+       "text": "przekształcenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_5/pkt_1/lit_a",
+         "text": "przedsiębiorstwa państwowego w jednoosobową spółkę Skarbu Państwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_5/pkt_1/lit_b",
+         "text": "spółki akcyjnej w spółkę z ograniczoną odpowiedzialnością i odwrotnie,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_5/pkt_2",
+       "text": "likwidacja i ponowne podjęcie działalności gospodarczej przez osobę fizyczną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Numer identyfikacyjny REGON jednostki lokalnej składa się z czternastu cyfr, przy czym dziewięć pierwszych cyfr stanowi numer identyfikacyjny REGON osoby prawnej, jednostki organizacyjnej nie mającej osobowości prawnej lub osoby fizycznej prowadzącej działalność gospodarczą, cztery kolejne cyfry są liczbą porządkową przypisaną jednostce lokalnej, a czternasta cyfra jest cyfrą kontrolną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Nazwę podmiotu podlegającego wpisowi do rejestru podmiotów ustala się na podstawie aktu potwierdzającego powstanie lub podjęcie działalności przez podmiot, a w przypadkach gdy nie jest to możliwe, przyjmuje się nazwę podaną przez podmiot we wniosku złożonym na formularzu RG-1, o którym mowa w § 4 ust. 1 pkt 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Za adres siedziby osoby prawnej oraz jednostki organizacyjnej nie mającej osobowości prawnej przyjmuje się adres siedziby organu zarządzającego, a w przypadku osoby fizycznej prowadzącej działalność gospodarczą — wskazany przez osobę adres prowadzenia działalności gospodarczej, a w razie braku takiego wskazania — miejsce zamieszkania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Forma prawna jest określana dla podmiotów, o których mowa w § 1 pkt 1—3, i kodowana odpowiednio jako podstawowa forma prawna do określenia, czy podmiot jest osobą prawną (kod 1), jednostką organizacyjną nie mającą osobowości prawnej (kod 2), czy osobą fizyczną prowadzącą działalność gospodarczą (kod 9), oraz jako szczególna forma prawna dla określenia, czy podmiot jest zaklasyfikowany do jednej z niżej wymienionych grup:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "organy władzy, administracji rządowej (kod 01),",
+     "children": [
+      {
+       "type": "text",
+       "text": "2)organy kontroli państwowej i ochrony prawa (kod 02),"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "wspólnoty samorządowe (kod 03),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "sądy i trybunały (kod 06),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "Skarb Państwa (kod 09),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "spółki akcyjne (kod 16),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_8/pkt_7",
+     "text": "spółki z ograniczoną odpowiedzialnością (kod 17),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_8/pkt_8",
+     "text": "spółki jawne (kod 18),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_8/pkt_9",
+     "text": "spółki cywilne (kod 19),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_8/pkt_10",
+     "text": "spółki komandytowe (kod 20),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_8/pkt_11",
+     "text": "spółki przewidziane przepisami innych ustaw niż Kodeks handlowy i Kodeks cywilny lub formy prawne, do których stosuje się przepisy o spółkach (kod 23),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_8/pkt_12",
+     "text": "przedsiębiorstwa państwowe (kod 24),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_8/pkt_13",
+     "text": "państwowe jednostki organizacyjne (kod 28),",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "jednostki organizacyjne"
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_8/pkt_14",
+     "text": "gminne samorządowe (kod 29),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_8/pkt_15",
+     "text": "powiatowe samorządowe jednostki organizacyjne (kod 30),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_8/pkt_16",
+     "text": "wojewódzkie samorządowe jednostki organizacyjne (kod 31),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_8/pkt_17",
+     "text": "spółdzielnie (kod 40),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_8/pkt_18",
+     "text": "fundacje (kod 48),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_8/pkt_19",
+     "text": "fundusze (kod 49),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_8/pkt_20",
+     "text": "Kościół Katolicki (kod 50),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_8/pkt_21",
+     "text": "inne kościoły i związki wyznaniowe (kod 51),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_8/pkt_22",
+     "text": "stowarzyszenia (kod 55),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_8/pkt_23",
+     "text": "organizacje społeczne oddzielnie nie wymienione (kod 60),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_8/pkt_24",
+     "text": "partie polityczne (kod 70),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_8/pkt_25",
+     "text": "związki zawodowe (kod 72),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_8/pkt_26",
+     "text": "organizacje pracodawców (kod 73),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "par_8/pkt_27",
+     "text": "samorząd gospodarczy i zawodowy (kod 76),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "par_8/pkt_28",
+     "text": "przedstawicielstwa przedsiębiorstw zagranicznych (kod 80),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "par_8/pkt_29",
+     "text": "wspólnoty mieszkaniowe (kod 85),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "par_8/pkt_30",
+     "text": "bez szczególnej formy prawnej (kod 99).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Forma własności jest określana na podstawie procentowego udziału własności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "Skarbu Państwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "państwowych osób prawnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_9/pkt_3",
+     "text": "jednostek samorządu terytorialnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_9/pkt_4",
+     "text": "krajowych osób fizycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_9/pkt_5",
+     "text": "pozostałych krajowych jednostek prywatnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_9/pkt_6",
+     "text": "osób zagranicznych",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w ogólnej wartości kapitału."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Wykonywana działalność, w tym rodzaj przeważającej działalności, jest kodowana według Polskiej Klasyfikacji Działalności (PKD).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Rodzaj przeważającej działalności jest ustalany odpowiednio:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "dla osób prawnych i jednostek organizacyjnych nie mających osobowości prawnej, których celem jest",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "osiąganie zysku, osób fizycznych prowadzących działalność gospodarczą oraz zakładów działalności gospodarczej: stowarzyszeń, organizacji społecznych, fundacji, związków zawodowych, kościołów — na podstawie procentowego udziału poszczególnych rodzajów działalności w ogólnej wartości przychodów ze sprzedaży lub, jeżeli nie jest możliwe zastosowanie tego miernika, na podstawie udziału pracujących, wykonujących poszczególne rodzaje działalności, w ogólnej liczbie pracujących,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "dla jednostek i zakładów budżetowych, fundacji, związków zawodowych, stowarzyszeń, organizacji społecznych, kościołów i związków wyznaniowych, z wyłączeniem zakładów działalności gospodarczej, o których mowa w pkt 1 — na podstawie określonego w statucie rodzaju działalności, dla której zostały powołane,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_2/pkt_3",
+       "text": "dla jednostek lokalnych — odpowiednio na podstawie jednego z mierników wymienionych w pkt 1i 2.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Za daty wpisywane w rejestrze podmiotów przyjmuje się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "datę powstania podmiotu — datę wpisu do rejestru lub ewidencji w organie rejestrowym lub ewidencyjnym albo datę powołania lub rozpoczęcia działalności w przypadku podmiotu nie podlegającego wpisowi do rejestru lub ewidencji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "datę rozpoczęcia działalności — datę dokonania pierwszej czynności w zakresie działalności, dla której prowadzenia podmiot powstał lub został powołany,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "datę zawieszenia działalności — datę, z którą ustaje na czas określony działalność podmiotu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_11/pkt_4",
+     "text": "datę wznowienia działalności — datę, od której została podjęta przez podmiot działalność uprzednio zawieszona,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_11/pkt_5",
+     "text": "datę zakończenia działalności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_11/pkt_5/lit_a",
+       "text": "datę skreślenia z rejestru lub ewidencji — dla podmiotów podlegających wpisowi do rejestru lub ewidencji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_11/pkt_5/lit_b",
+       "text": "datę podaną w akcie likwidującym podmiot — dla podmiotów nie podlegających wpisowi do rejestru lub ewidencji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_11/pkt_5/lit_c",
+       "text": "datę podaną przez podmiot we wniosku o skreślenie z rejestru podmiotów — w pozostałych przypadkach.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Udokumentowaniem wpisu do rejestru podmiotów oraz wprowadzenia zmian cech objętych wpisem jest wydane przez urząd statystyczny zaświadczenie o numerze identyfikacyjnym REGON, według wzoru stanowiącego odpowiednio załączniki nr 2—4 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Zaświadczenie, o którym mowa w ust. 1, jest przesyłane podmiotowi pocztą, niezwłocznie po dokonaniu wpisu w rejestrze podmiotów, nie później niż w terminie 14 dni od dnia wpływu do urzędu statystycznego wniosku, o którym mowa w § 4 ust. 1 pkt 1 i w ust. 2, albo wydawane bezpośrednio podmiotowi, z zastrzeżeniem ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Osoba prowadząca indywidualne gospodarstwo rolne otrzymuje, na jej pisemne zgłoszenie, zaświadczenie o nadanym numerze identyfikacyjnym REGON, według wzoru stanowiącego załącznik nr 5 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Skreślenie z rejestru podmiotów następuje na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "informacji przekazywanych urzędom statystycznym przez organy prowadzące urzędowe rejestry i ewidencje, w których dokonano skreślenia podmiotu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "skreślenia w wykazach indywidualnych gospodarstw rolnych i dziatek rolnych, o których mowa w § 4 ust. 1 pkt 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "przepisów, z których wynika likwidacja podmiotu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "wniosku podmiotu wpisanego do rejestru podmiotów, składanego na formularzu RG-2 „Wniosek o skreślenie podmiotu z krajowego rejestru urzędowego podmiotów gospodarki narodowej”, według wzoru stanowiącego załącznik nr 6 do rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W przypadkach określonych w ust. 1 pkt 4 przepisy § 4 ust. 3 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Zaświadczenie o skreśleniu z rejestru podmiotów jest wydawane na wniosek osoby zgłaszającej skreślenie, według wzoru stanowiącego załącznik nr 7 do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Aktualizacja rejestru podmiotów jest dokonywana przez służby statystyki publicznej na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_1/pkt_1",
+       "text": "wniosków na formularzach RG-1 i RG-2, składanych przez podmioty określone w § 1 pkt 1—3 zgodnie z przepisami § 4.i 13,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_1/pkt_2",
+       "text": "podanych przez urzędy gmin informacji w wykazach indywidualnych gospodarstw i dziatek rolnych, o których mowa w § 4 ust.5,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_1/pkt_3",
+       "text": "informacji o dokonanych zmianach wpisu do rejestru lub ewidencji uzyskanych w trybie określonym w rozdziale 3 od organów prowadzących urzędowe rejestry i ewidencje,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_14/ust_1/pkt_4",
+       "text": "ankiety aktualizacyjnej, o której mowa w ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Podmioty, o których mowa w § 1 pkt 1—3, są obowiązane do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "skorygowania zapisów nadrukowanych na ankiecie aktualizacyjnej, którą stanowi wniosek RG-1, wypełniony przez Główny Urząd Statystyczny i przekazany do skorygowania tym podmiotom,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "przekazania skorygowanej ankiety do właściwego urzędu statystycznego w ciągu 14 dni od dnia jej otrzymania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Prezes Głównego Urzędu Statystycznego podaje w komunikatach ogłaszanych w Dzienniku Urzędowym",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rzeczypospolitej Polskiej „Monitor Polski” termin przekazania ankiety aktualizacyjnej, o której mowa w ust. 2."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Po dokonaniu aktualizacji rejestru podmiotów, o której mowa w ust. 1, urzędy statystyczne wysyłają do podmiotów nowe zaświadczenia na wzorach, o których mowa w § 12 ust. 1, wyłącznie w przypadku zmian wpisu cech objętych treścią zaświadczenia; przepis",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 12 ust. 2 i 3 stosuje się odpowiednio."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Integralną częścią rejestru podmiotów są złożone przez podmiot wnioski i dokumenty załączone do wniosku na formularzach RG-1 i RG-2 (wypis z rejestru sądowego, kopie: decyzji i zaświadczeń, umów, statutów, regulaminów) oraz wykazy, informacje i ankiety, o których mowa w § 14.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Warunki i tryb współdziałania służb statystyki publicznej z innymi organami prowadzącymi urzędowe rejestry i systemy informacyjne administracji publicznej"
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Służby statystyki publicznej, z zastrzeżeniem ust. 2, udostępniają nieodpłatnie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_1/pkt_1",
+       "text": "organom prowadzącym inne urzędowe rejestry i systemy informacyjne administracji publicznej wykazy podmiotów wpisanych do rejestru podmiotów wraz z nadanym im numerem identyfikacyjnym REGON i zakodowanym opisem informacji objętej rejestrem okresowo, w zakresie, terminie i formach uzgodnionych, nie częściej niż raz w roku; w wyjątkowych sytuacjach Prezes Głównego Urzędu Statystycznego podejmuje decyzje o terminie, stosownie do zapotrzebowania organu wnioskującego udostępnienie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_1/pkt_2",
+       "text": "organom administracji rządowej oraz innym instytucjom rządowym, organom samorządu terytorialnego, Najwyższej lzbie Kontroli, Narodowemu Bankowi Polskiemu, Państwowej Inspekcji Pracy oraz Generalnemu Inspektorowi Ochrony Danych Osobowych, na ich pisemny wniosek, wyciągi z rejestru podmiotów — w terminie uzgodnionym, nie przekraczającym 30 dni od dnia wpływu wniosku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Urzędy statystyczne udostępniają wykazy i wyciągi, o których mowa w ust. 1, zawierające informacje o podmiotach, o których mowa w § 1 pkt 1—3, mających odpowiednio siedzibę lub miejsce zamieszkania na terenie województwa, w którym działa dany urząd statystyczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Zakres udostępnianych danych z rejestru podmiotów w przypadkach, o których mowa w ust. 1i2, ustala się zgodnie z art. 44 ust. 2 i 3 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632 i Nr 106, poz. 668).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Prezes Głównego Urzędu Statystycznego przekazuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "do Centralnej Informacji Krajowego Rejestru Sądowego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_17/ust_1/pkt_1/lit_a",
+         "text": "jednorazowo, w terminie i według stanu wskazanego przez Ministra Sprawiedliwości, bazę danych rejestru podmiotów obejmującą informacje podane w § 5 ust. 1 pkt 1—8, wraz z nadanymi podmiotom numerami identyfikacyjnymi REGON,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_17/ust_1/pkt_1/lit_b",
+         "text": "w kolejnych latach, w terminie do dnia 28 lutego, bazę danych rejestru podmiotów obejmującą informacje określone w lit. a), według stanu na dzień 31 grudnia roku poprzedniego,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "do centralnej informacji o zastawach rejestrowych — zmiany w bazie danych rejestru podmiotów, w terminie i według stanu na uzgodniony dzień.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Minister Sprawiedliwości przekazuje Prezesowi Głównego Urzędu Statystycznego informacje zgromadzone w Centralnej Informacji Krajowego Rejestru Sądowego o podmiotach wpisanych do Krajowego Rejestru Sądowego — raz w roku, w terminie do dnia 15 października, według stanu na dzień 30 września danego roku w zakresie uzgodnionym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Pierwsze przekazanie informacji, o których mowa w ust. 2, nastąpi w roku następnym po utworzeniu bazy danych Centralnej Informacji Krajowego Rejestru Sądowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Przy przekazywaniu informacji, o których mowa w ust. 2, Centralna Informacja Krajowego Rejestru Sądowego podaje numer identyfikacyjny REGON.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Prezes Głównego Urzędu Statystycznego przekazuje Ministrowi Finansów na potrzeby Krajowej Ewidencji Podatników, raz w roku, w terminie do dnia 15 stycznia, bazę danych rejestru podmiotów obejmujaca informacje podane w § 5 ust. 1 pkt 1—8, wraz z nadanym numerem identyfikacyjnym REGON, według stanu na dzień 31 grudnia roku poprzedniego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Minister Finansów przekazuje Prezesowi Głównego Urzędu Statystycznego, raz w roku, w terminie do dnia 15 października, według stanu na dzień 30 września danego roku, informacje — według uzgodnionego zakresu — objęte rejestrem podmiotów, zgromadzone w Krajowej Ewidencji Podatników; przepisy 8 17 ust. 3 i 4 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Prezes Głównego Urzędu Statystycznego przekazuje Prezesowi Zakładu Ubezpieczeń Społecznych na potrzeby kompleksowego systemu informatycznego Zakładu Ubezpieczeń Społecznych, w tym dla Centralnego Rejestru Płatników Składek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "jednorazowo, wyciąg danych z rejestru podmiotów w terminie, zakresie i formie oraz według stanu na uzgodniony dzień,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "raz w roku, w terminie do dnia 28 lutego, w zakresie i trybie uzgodnionym, wyciąg danych z rejestru podmiotów, według stanu na dzień 31 grudnia roku poprzedniego,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_1/pkt_3",
+       "text": "informacje o zmianach w stosunku do poprzednio pobranych danych, nie rzadziej niż raz na kwartał, w trybie i formie uzgodnionej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Prezes Zakładu Ubezpieczeń Społecznych przekazuje Prezesowi Głównego Urzędu Statystycznego, raz w roku, informacje o liczbie pracujących dla podmiotów ujętych w zasobach kompleksowego systemu informatycznego Zakładu Ubezpieczeń Społecznych, w terminie do dnia 15 października, według stanu w dniu 30 września danego roku; przepisy 8 17 ust. 4 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Pierwsze przekazanie danych, o których mowa w ust. 2, nastąpi w roku 2000.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Do dnia 31 grudnia 1999 r. rodzaj działalności podmiotów wpisywanych do rejestru podmiotów koduje się i opisuje według Polskiej Klasyfikacji Działalności (PKD) i Europejskiej Klasyfikacji Działalności (EKD).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Wydane przed dniem wejścia w życie rozporządzenia zaświadczenia o nadanym numerze identyfikacyjnym REGON osobom prawnym i jednostkom organizacyjnym nie mającym osobowości prawnej oraz ich jednostkom lokalnym zachowują aktualność do dnia ich wymiany, nie dłużej niż do dnia 31 grudnia 2001 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Osoby prawne i jednostki organizacyjne nie mające osobowości prawnej, w których skład w dniu wejścia w życie rozporządzenia wchodzą jednostki lokalne nie wpisane do rejestru podmiotów, złożą wnioski o wpis tych jednostek nie później niż w terminie do dnia 30 czerwca 2000 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Urzędy statystyczne dokonają wpisu podmiotów, o których mowa w ust. 2, i wydadzą zaświadczenia o nadanym numerze identyfikacyjnym REGON na wzorach, o których mowa w § 12 ust. 1, nie później niż w terminie do dnia 31 grudnia 2000 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Wydane przed dniem wejścia w życie rozporządzenia zaświadczenia o nadanym numerze identyfikacyjnym REGON osobom fizycznym prowadzącym działalność gospodarczą zachowują aktualność do dnia ich wymiany, nie dłużej niż do dnia 31 grudnia 2001 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Osobom fizycznym prowadzącym działalność gospodarczą posiadającym w dniu wejścia w życie rozporządzenia więcej niż jeden numer identyfikacyjny zostaje zachowany jeden spośród tych numerów, a pozostałe dziewieciocyfrowe numery identyfikacyjne REGON zastępuje się numerami identyfikacyjnymi REGON jednostek lokalnych, stosownie do przepisów",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 6 ust. 6."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Urzędy statystyczne dokonają zmiany w identyfikacji osób fizycznych prowadzących działalność gospodarczą, o których mowa w ust. 2, i wydadzą zaświadczenia o nadanym numerze identyfikacyjnym REGON na wzorze, o którym mowa w § 12 ust. 1, nie później niż w terminie do dnia 31 grudnia 2000 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_22/ust_4",
+     "text": "Po otrzymaniu zaświadczeń, o których mowa w ust. 3, osoby fizyczne prowadzące działalność gospodarczą złożą wnioski o wpis lub skreślenie w rejestrze podmiotów jednostek lokalnych, w urzędzie statystycznym działającym na terenie województwa, w którym mają miejsce zamieszkania, nie później niż do dnia 31 marca 2001 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_22/ust_5",
+     "text": "Osoby fizyczne prowadzące działalność gospodarczą, posiadające jednostki lokalne nie wpisane do rejestru podmiotów w dniu wejścia w życie rozporządzenia, złożą wnioski o wpis jednostek lokalnych w urzędzie statystycznym działającym w województwie, na którego terenie mają miejsce zamieszkania, nie później niż do dnia 30 czerwca 2001 r., jeżeli prowadzą działalność w dwóch lub więcej miejscach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_22/ust_6",
+     "text": "Urzędy statystyczne dokonają wpisu podmiotów, o których mowa w ust. 4 i5, oraz wydadzą zaświadczenia o nadanym numerze identyfikacyjnym REGON według wzoru, o którym mowa w § 12 ust. 1, nie później niż do dnia 31 grudnia 2001 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Do czasu utworzenia Centralnej Informacji Krajowego Rejestru Sądowego sądy rejestrowe oraz organy administracji publicznej, prowadzące odpowiednio: rejestry sądowe, rejestry zakładów opieki zdrowotnej oraz ewidencję działalności gospodarczej, przekazują informacje o podmiotach do urzędów statystycznych, w terminach i w zakresie uzgodnionych z urzędem statystycznym działającym na terenie województwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Do czasu utworzenia Krajowej Ewidencji Podatników wymiana danych między Prezesem Głównego Urzędu Statystycznego a Ministrem Finansów w zakresie zbiorów rejestru podmiotów następuje na uzgodnionych zasadach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Buzek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
