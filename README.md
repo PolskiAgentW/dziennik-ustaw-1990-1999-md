@@ -53,7 +53,7 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 10:32 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 19:12 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -68,11 +68,11 @@ Stan na 2026-10-05 10:32 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 1998 | 1126 | 1126 | 0 |
 | 1999 | 1127 | 1127 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 7117, razem 28650 z 29140 stron. Tekst z OCR (oznaczony) ma 28318 z nich w 7117 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 7117, razem 28651 z 29140 stron. Tekst z OCR (oznaczony) ma 28319 z nich w 7117 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 46.
 
 Rodzaje aktów: Rozporządzenie 6303, Oświadczenie rządowe 362, Umowa międzynarodowa 182, Uchwała 91, Konwencja 87, Protokół 24, Traktat 20, Porozumienie 20, Zarządzenie 15, Układ 8, Statut 3, Ustawa 1, Postanowienie 1.
-Wersje konwertera: eli2md 0.6.37 (7117).
+Wersje konwertera: eli2md 0.6.37 (6430), eli2md 0.6.38 (687).
 <!-- stats:end -->
 
 ## Akty obowiązujące
@@ -82,6 +82,12 @@ jest w front matter każdego pliku (`status_pl`) i w kolumnie `legal_status` w P
 go nie ma). Wybór w klonie repozytorium: `grep -l '^status_pl: "obowiązujący"' DU/*/*.md`. Status nie jest
 aktualizowany po konwersji. Teksty są w brzmieniu ogłoszonym w Dzienniku Ustaw, bez późniejszych zmian (tekst
 jednolity, jeśli go ogłoszono, jest osobną pozycją Dziennika Ustaw).
+
+## Zmiana 2026-10-05 (wieczór)
+
+Lata 1995 i 1997 przeliczone eli2md 0.6.38. Dwa akty miały w 0.6.37 tylko tytuł i podpis: DU/1995/44 i DU/1997/6.
+Teraz mają pełny tekst (868 i 1 696 słów). Porównanie 0.6.37 i 0.6.38 na wszystkich 7 117 aktach zbioru: inne akty
+się nie zmieniły. Pozostałe lata zostają w 0.6.37, bo wynik 0.6.38 jest dla nich taki sam.
 
 ## Zmiana 2026-10-05
 
@@ -156,6 +162,11 @@ i łamy są czytane we właściwej kolejności. Próba jest mała: odsetka błę
 - Umowy międzynarodowe, konwencje i podobne akty numerują jednostki „Artykuł N” w osobnym wierszu. Konwerter ich nie
   rozpoznaje: zostają akapitami, a w JSON nie ma węzłów `art`. Dotyczy 297 aktów (wiersz „Artykuł N”, żadnego nagłówka
   artykułu), w tym 250 z 692 obowiązujących (stan 2026-10-05).
+- PDF części aktów w API ELI nie zawiera ich pierwszych stron: zaczyna się później, a początek aktu (numer, tytuł,
+  pierwsze przepisy) jest tylko w PDF poprzedniej pozycji. W zbiorze te akty nie mają początku. Sprawdzone po numerach
+  stron w nagłówkach (strona, na której akt się zaczyna, jest wcześniejsza niż pierwsza strona jego PDF): 21 aktów
+  (1990/233, 1990/289, 1993/303, 1993/316, 1993/371, 1994/353, 1994/606, 1994/622, 1994/629, 1994/696, 1994/697, 1994/765, 1994/787, 1996/158, 1996/161, 1996/165, 1997/145, 1997/1018, 1998/139, 1998/260, 1999/1161). Np. DU/1998/139 zaczyna się na str. 851, jego PDF na str. 852;
+  DU/1994/697 zaczyna się na str. 2430, a jego PDF to tylko str. 2481. Lista może nie być pełna (stan 2026-10-05).
 - Strony słabej jakości (przekreślenia, pieczęcie, ciemne tło) dają fragmenty bez sensu (DU/1990/390).
 - Tabele są spłaszczone do akapitów; na stronach w dwóch łamach ich komórki mogą się przeplatać.
 - Przypisy nie są rozpoznawane jako przypisy (zostają akapitami).

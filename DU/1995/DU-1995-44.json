@@ -1,9 +1,189 @@
 {
  "eli": "DU/1995/44",
  "title": "Rozporządzenie Ministra Finansów z dnia 30 stycznia 1995 r. zmieniające rozporządzenie w sprawie prowadzenia podatkowej księgi przychodów i rozchodów.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.38",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/44/text.pdf",
  "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 stycznia 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie prowadzenia podatkowej księgi przychodów i rozchodów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 38 pkt 2—4 ustawy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. z 1993 r. Nr 108, poz. 486 i Nr 134, poz. 646 oraz z 1995 r. Nr 5, poz. 25) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Finansów z dnia 15 grudnia 1992 r. w sprawie prowadzenia podatkowej księgi przychodów i rozchodów (Dz. U. Nr99, poz. 496, z 1993r. Nr 59, poz. 274 i Nr 131, poz. 624 oraz z 1994 r. Nr 140, poz.",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "788",
+     "path": "par_1/pkt_788",
+     "text": "wprowadza się następujące zmiany:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w§ 21a:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 4 wyrazy „31 stycznia” zastępuje się wyrazami „„20 lutego”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "ust. 5 otrzymuje brzmienie: „B. W 1995 r. podatnik może rozpocząć zapisy w ewidencji, o której mowa w § 7 ust. 1 pkt 2, od dnia złożenia zawiadomienia o prowadzeniu księgi. Przychody za okres sprzed dnia rozpoczęcia zapisów powinny być wpisane do ewidencji w łącznej kwocie:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "za okres od dnia 1 stycznia 1995 r. do dnia złożenia zawiadomienia, jeżeli zawiadomienie zostało złożone w styczniu 1995 r.,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "odrębnie za styczeń 1995 r. i odrębnie za okres od dnia 1 lutego 1995 r. do dnia złożenia zawiadomienia, jeżeli ziwiadomienie zostało złożone w lutym 1995 r.;"
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "—"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po § 21a dodaje się § 21b w brzmieniu: 8 „§21b. 1. Podatnicy, którzy w 1995 r.; zgodnie z odrębnymi przepisami, zrzekli się.epodatkowania w formie ryczałtu od przychódów osób fizycznych, w terminie do dnia 20 tutego 1995 r. obowiązani są: si",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "na dzień zrzeczenia zaprowadzić księgę, a w razie obowiązku prowadzenia ewidencji sprzedaży, o której mowa w § 7 ust. 1 pkt 2 — również tę ewidencję, sporządzić spis z natury towarów handlowych, materiałów i surowców, półwyrobów, wyrobów gotowych, produkcji w toku i wycenić poszczególne składniki według cen zakupu lub nabycia, za okres do dnia zaprowadzenia księgi",
+     "children": [
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "~— wykazać odrębnie przychody i odrębnie wydatki (koszty) w poszczególnych kolumnach księgi w łącznych kwotach:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "za okres od dnia 1 stycznia 1995 r. do dnia zaprowadzenia księgi, jeżeli zrzeczenie nastąpiło w styczniu 1995 r., odrębnie za styczeń 1995 r. i odrębnie b",
+       "children": [
+        {
+         "type": "text",
+         "text": "— za okres od dnia 1 lutego 1995 r. do dnia zaprowadzenia księgi, jeżeli zrzeczenie nastąpiło w lutym 1995 r.,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "przy dokonywaniu wpisów w księdze za okresy, o których mowa pod lit. a) i b), w kolumnie 10 księgi wykazać: — wartość zakupów towarów handlowych, materiałów i surowców, dokonanych od dnia 1 stycznia 1995 r. do dnia zaprowadzenia księgi, — powiększyć kwotę zakupów o wartość towarów handlowych, materiałów i surowców pochodzących z zapasów sprzed dnia 1 stycznia 1995 r. wycenionych według cen zakupu lub nabycia, zużytych w tych okresach do sprzedanej produkcji, usług lub sprzedanych towarów handlowych, — pomniejszyć o wartość zakupionych w tych okresach, a nie sprzedanych towarów handlowych, materiałów i surowców zużytych do produkcji lub usług w toku, które zostały wykazane w spisie z natury, o którym mowa w pkt 1,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "przychody ze sprzedaży nie udokumentowanej fakturami, rachunkami (rachunkami uproszczonymi) sprzed zaprowadzenia ewidencji sprzedaży powinny być wykazane w tej ewidencji w łącznej kwocie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "odrębnie za okres od dnia 1 stycznia 1995 r. do dnia zaprowadzenia ewidencji, jeżeli została ona zaprowadzona w styczniu 1995 r., odrębnie za styczeń 1995 r. i odrębnie b",
+       "children": [
+        {
+         "type": "text",
+         "text": "— za okres od dnia 1 lutego 1995 r. do dnia zaprowadzenia ewidencji, jeżeli zaprowadzenie jej nastąpiło w lutym 1995 r."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przepisy ust. 1 nie mają zastosowania do podatników, którzy przed dniem ogłoszenia rozporządzenia zrzekli się opodatkowania w formie ryczałtu, dokonali spisu z natury na dzień 1 stycznia 1995 r. lub na dzień zrzeczenia oraz zaprowadzili księgę, w której zaewidencjonowali przychody i wydatki (koszty) na podstawie dowodów księgowych. ';",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "w objaśnieniach do podatkowej księgi przychodów i rozchodów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_3/lit_a",
+         "text": "w ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „w dniu poniesienia wydatków (kosztów); w wypadku zakupu towarów — niezwłocznie po otrzymaniu towarów, najpóźniej przed przekazaniem do magazynu, przerobu lub sprzedaży. '';",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_3/lit_b",
+         "text": "w ust. 13 w drugim zdaniu kropkę zastępuje się przecinkiem i dodaje się wyrazy „w dniu uzyskania przychodów.\"",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
   {
    "type": "signature",
    "text": "Minister Finansów: wz. K. Kalicki"
