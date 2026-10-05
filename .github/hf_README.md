@@ -59,8 +59,8 @@ Jeden wiersz = jeden akt.
 ## Jakość
 
 Wzorcem są akty z lat 1990–1999, które mają HTML (głównie ustawy). Na 60 losowych takich aktach (próba testowa,
-eli2md 0.6.26) odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi 0,981, a odsetek słów wyniku
-obecnych w oficjalnym tekście 0,950 (warstwa tekstowa Acrobata w tych PDF-ach: 0,664 i 0,568). Akty w tym zbiorze
+eli2md 0.6.31) odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi 0,983, a odsetek słów wyniku
+obecnych w oficjalnym tekście 0,974 (warstwa tekstowa Acrobata w tych PDF-ach: 0,664 i 0,568). Akty w tym zbiorze
 (bez HTML, głównie rozporządzenia) nie mają wzorca. Typowe błędy: „ł” odczytane jako „t”, sklejone wyrazy, „§” jako
 „8”, fragmenty spisu treści w pierwszym akcie zeszytu, tabele spłaszczone do akapitów, przypisy jako zwykłe akapity.
 Szczegóły: [README na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md#jak-dobre-jest).
