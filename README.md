@@ -16,7 +16,7 @@ W latach 1990–1999 Dziennik Ustaw ma 8 441 aktów. API ELI Sejmu (`api.sejm.go
 [dziennik-ustaw-md](https://github.com/PolskiAgentW/dziennik-ustaw-md) (od 2012 r., aktualizowany codziennie).
 
 PDF-y z tych lat to zeskanowane strony całych zeszytów: dwa łamy, kilka aktów na jednej stronie. Większość ma
-niewidoczną warstwę tekstu z OCR programu Adobe Acrobat (czcionka „HiddenHorzOCR”; w latach 1990–1992 ma ją 1290 z 1315 PDF-ów), część nie ma żadnej. Warstwa
+niewidoczną warstwę tekstu z OCR programu Adobe Acrobat (czcionka „HiddenHorzOCR”; w latach 1990–1998 ma ją 5 690 z 5 990 PDF-ów tego zbioru, wg `pdffonts`), część nie ma żadnej. Warstwa
 Acrobata przestawia wyrazy między wierszami i ma własne błędy, więc konwerter
 [eli2md](https://github.com/PolskiAgentW/eli2md) (od wersji 0.6.26) jej nie używa: czyta każdą stronę tesseractem,
 układa wiersze w kolejności łamów, wycina akt spośród sąsiednich na tych samych stronach i rozpoznaje jednostki
@@ -24,13 +24,13 @@ układa wiersze w kolejności łamów, wycina akt spośród sąsiednich na tych 
 
 Na 60 losowych aktach z lat 1990–1999, które mają też oficjalny HTML (próba testowa, niewidziana przy pisaniu
 konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi: z warstwy Acrobata
-(eli2md 0.6.25) 0,664, z OCR eli2md 0.6.31 0,983
+(eli2md 0.6.25) 0,664, z OCR eli2md 0.6.34 0,983
 ([pomiar](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999)).
 
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 04:41 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 07:02 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -47,7 +47,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 4864, razem 18374 z 187
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 24.
 
 Rodzaje aktów: Rozporządzenie 4179, Oświadczenie rządowe 294, Umowa międzynarodowa 148, Uchwała 91, Konwencja 68, Protokół 23, Traktat 19, Porozumienie 17, Zarządzenie 15, Układ 8, Statut 1, Ustawa 1.
-Wersje konwertera: eli2md 0.6.31 (4864).
+Wersje konwertera: eli2md 0.6.31 (4431), eli2md 0.6.34 (433).
 <!-- stats:end -->
 
 ## Zawartość
@@ -68,7 +68,7 @@ Wersje konwertera: eli2md 0.6.31 (4864).
 ## Jak dobre jest
 
 Wzorcem są akty z lat 1990–1999, które mają HTML w API ELI (głównie ustawy, obwieszczenia i orzeczenia). Wynik
-eli2md 0.6.31 (`eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunkcji):
+eli2md 0.6.34 (taki sam jak 0.6.31; `eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunkcji):
 
 | próba | treść R | treść P | aktów z R < 0,90 | załączniki R |
 |---|---:|---:|---:|---:|
@@ -78,7 +78,7 @@ eli2md 0.6.31 (`eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunk
 R = odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności, P = odsetek słów wyniku obecnych
 w oficjalnym tekście. Dla porównania warstwa Acrobata (0.6.25) na tych samych aktach: R 0,664 i 0,670, P 0,568
 i 0,616. Akty w tym zbiorze (bez HTML, w większości rozporządzenia) nie mają wzorca; zakładam, że wynik jest podobny,
-ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpisy „0.6.26”–„0.6.31”)
+ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpisy „0.6.26”–„0.6.34”)
 i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999).
 
 ## Znane usterki
@@ -87,8 +87,11 @@ i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/s
   w których brakuje jednego albo dwóch znaków diakrytycznych albo „ł” odczytano jako „t”/„l” („ogtoszenia” →
   „ogłoszenia”), oddziela jednoliterowe przyimki („Wrozporządzeniu”) i poprawia „§” na początku akapitu i po
   przyimku („w § 1”); słowa, dla których poprawka nie jest jednoznaczna, zostają z błędem.
-- Gdy OCR nie odczyta numeru pozycji następnego aktu jako osobnego akapitu przed jego rodzajem, akt ma na końcu
-  początek następnego aktu z ostatniej wspólnej strony.
+- Akt może zawierać fragment sąsiedniego aktu z tych samych stron, gdy OCR nie odczyta numeru pozycji, a podpis
+  ani nagłówek z datą nie wyznaczą granicy (np. dwa akty tego samego organu z tego samego dnia o prawie tym samym
+  temacie, DU/1993/299). Miara zgrubna: akty z co najmniej dwoma nagłówkami rodzaju aktu wersalikami (część to akty
+  poprawne, np. z aktem w załączniku). W wersji 0.6.31 było ich 60 (lata 1990–1998), w 0.6.34 z tych 60 zostało 10
+  ([lista i skrypt](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999)).
 - Pierwszy akt zeszytu stoi na stronie ze spisem treści. Gdy jest krótki, do jego tekstu trafiają fragmenty spisu
   (numery stron) i kolejność akapitów bywa zła (DU/1999/728).
 - Strony słabej jakości (przekreślenia, pieczęcie, ciemne tło) dają fragmenty bez sensu (DU/1990/390).
