@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/454",
  "title": "Konwencja nr 147 dotycząca minimalnych norm na statkach handlowych, przyjęta w Genewie dnia 29 października 1976 r.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/454/text.pdf",
  "body": [
   {
@@ -750,14 +750,11 @@
     {
      "type": "text",
      "text": "Teksty angielski i francuski niniejszej konwencji są jednakowo wiarygodne."
-    }
-   ]
-  }
- ],
- "annexes": [
-  {
-   "heading": "ZAŁĄCZNIK",
-   "body": [
+    },
+    {
+     "type": "text",
+     "text": "ZAŁĄCZNIK"
+    },
     {
      "type": "text",
      "text": "Konwencja nr 138 dotycząca najniższego wieku, z 1973 r., lub"
@@ -821,177 +818,178 @@
     {
      "type": "text",
      "text": "(b)as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Article 12"
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "ust_2",
-     "text": "This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.",
+     "type": "text",
+     "text": "The English and French versions of the text of this Convention are equally authoritative."
+    },
+    {
+     "type": "text",
+     "text": "APPENDIX"
+    },
+    {
+     "type": "text",
+     "text": "Minimum Age Convention, 1973 (No. 138), or"
+    },
+    {
+     "type": "text",
+     "text": "Minimum Age (Sea) Convention (Revised), 1936 (No. 58), or"
+    },
+    {
+     "type": "text",
+     "text": "Minimum Age (Sea) Convention, 1920 (No. 7);"
+    },
+    {
+     "type": "text",
+     "text": "Shipowners' Liability (Sick and Injured Seamen) Convention, 1936 (No. 55), or"
+    },
+    {
+     "type": "text",
+     "text": "Sickness Insurance (Sea) Convention, 1936 (No. 56), or"
+    },
+    {
+     "type": "text",
+     "text": "Medical Care and Sickness Benefits Convention, 1969 (No. 130);"
+    },
+    {
+     "type": "text",
+     "text": "Medical Examination (Seafarers) Convention, 1946 (No. 73);"
+    },
+    {
+     "type": "text",
+     "text": "Prevention of Accidents (Seafarers) Convention, 1970 (No. 134) (Articles 4 and 7);"
+    },
+    {
+     "type": "text",
+     "text": "Accommodation of Crews Convention (Revised), 1949 (No. 92);"
+    },
+    {
+     "type": "text",
+     "text": "Food and Catering (Ships’ Crews) Convention, 1946 (No. 68) (Article 5);"
+    },
+    {
+     "type": "text",
+     "text": "Officers’ Competency Certificates Convention, 1936 (No. 53) (Articles 3 and 4)!;"
+    },
+    {
+     "type": "text",
+     "text": "Seamen's Articles of Agreement Convention, 1926 (No. 22);"
+    },
+    {
+     "type": "text",
+     "text": "Repatriation of Seamen Convention, 1926 (No. 23);"
+    },
+    {
+     "type": "text",
+     "text": "Freedom of Association and Protection ofthe Right to Organise Conventiion, 1948 (No. 87);"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "\"9951 —"
+    },
+    {
+     "type": "text",
+     "text": "Konwencja nr 98 dotycząca prawa organizowania się i rokowań zbiorowych, z 1949 r."
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "W przypadku gdy ścisłe przestrzeganie odpowiednich postanowień Konwencji dotyczącej świadectw kwalifikacji zawodowych oficerów, z 1936 r., naruszałoby systemy lub procedury wydawania świadectw kwalifikacyjnych, ustanowione przez państwo, będzie stosowana zasada rzeczywistej równoważności w celu uniknięcia konfliktu z układami ustanowionymi przez to państwo w tym zakresie.",
      "children": [
       {
        "type": "text",
-       "text": "Article 12"
+       "text": "Powyższy tekst jest autentycznym tekstem Konwencji przyjętej należycie przez Konferencję Ogólną międzynarodowej Organizacji Pracy na jej sześćdziesiątej drugiej sesji, która odbyła się w Genewie i zostaia ogtoszona za zamkniętą dnia dwudziestego dziewiątego października 1976 r."
       },
       {
        "type": "text",
-       "text": "The English and French versions of the text of this Convention are equally authoritative."
-      },
-      {
-       "type": "text",
-       "text": "APPENDIX"
-      },
-      {
-       "type": "text",
-       "text": "Minimum Age Convention, 1973 (No. 138), or"
-      },
-      {
-       "type": "text",
-       "text": "Minimum Age (Sea) Convention (Revised), 1936 (No. 58), or"
-      },
-      {
-       "type": "text",
-       "text": "Minimum Age (Sea) Convention, 1920 (No. 7);"
-      },
-      {
-       "type": "text",
-       "text": "Shipowners' Liability (Sick and Injured Seamen) Convention, 1936 (No. 55), or"
-      },
-      {
-       "type": "text",
-       "text": "Sickness Insurance (Sea) Convention, 1936 (No. 56), or"
-      },
-      {
-       "type": "text",
-       "text": "Medical Care and Sickness Benefits Convention, 1969 (No. 130);"
-      },
-      {
-       "type": "text",
-       "text": "Medical Examination (Seafarers) Convention, 1946 (No. 73);"
-      },
-      {
-       "type": "text",
-       "text": "Prevention of Accidents (Seafarers) Convention, 1970 (No. 134) (Articles 4 and 7);"
-      },
-      {
-       "type": "text",
-       "text": "Accommodation of Crews Convention (Revised), 1949 (No. 92);"
-      },
-      {
-       "type": "text",
-       "text": "Food and Catering (Ships’ Crews) Convention, 1946 (No. 68) (Article 5);"
-      },
-      {
-       "type": "text",
-       "text": "Officers’ Competency Certificates Convention, 1936 (No. 53) (Articles 3 and 4)!;"
-      },
-      {
-       "type": "text",
-       "text": "Seamen's Articles of Agreement Convention, 1926 (No. 22);"
-      },
-      {
-       "type": "text",
-       "text": "Repatriation of Seamen Convention, 1926 (No. 23);"
-      },
-      {
-       "type": "text",
-       "text": "Freedom of Association and Protection ofthe Right to Organise Conventiion, 1948 (No. 87);"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "\"9951 —"
-      },
-      {
-       "type": "text",
-       "text": "Konwencja nr 98 dotycząca prawa organizowania się i rokowań zbiorowych, z 1949 r."
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_2/pkt_1",
-       "text": "W przypadku gdy ścisłe przestrzeganie odpowiednich postanowień Konwencji dotyczącej świadectw kwalifikacji zawodowych oficerów, z 1936 r., naruszałoby systemy lub procedury wydawania świadectw kwalifikacyjnych, ustanowione przez państwo, będzie stosowana zasada rzeczywistej równoważności w celu uniknięcia konfliktu z układami ustanowionymi przez to państwo w tym zakresie.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Powyższy tekst jest autentycznym tekstem Konwencji przyjętej należycie przez Konferencję Ogólną międzynarodowej Organizacji Pracy na jej sześćdziesiątej drugiej sesji, która odbyła się w Genewie i zostaia ogtoszona za zamkniętą dnia dwudziestego dziewiątego października 1976 r."
-        },
-        {
-         "type": "text",
-         "text": "Na dowód czego dnia jedenastego listopada 1976 r. złożyli swe podpisy:"
-        }
-       ]
+       "text": "Na dowód czego dnia jedenastego listopada 1976 r. złożyli swe podpisy:"
       }
      ]
-    },
-    {
-     "type": "signature",
-     "text": "Przewodniczący Konferencji: M. Hareide"
-    },
-    {
-     "type": "text",
-     "text": "Dyrektor Generalny Międzynarodowego Biura Pracy: F. Blanchard"
-    },
-    {
-     "type": "text",
-     "text": "Right to Organise and Collective Bargaining Convention, 1949 (No. 98)."
-    },
-    {
-     "type": "text",
-     "text": "Tln cases where the established licensing system or certification structure of a State would be prejudiced by problems arising from strict adherence to the relevant standards of the Officers’ Competency Certificates Convention, 1936, the principle of substantial equivalence shall be applied so that there will be no conflict with that State’s established arrangements for certification."
-    },
-    {
-     "type": "text",
-     "text": "The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Sixtysecond Session which was held at Geneva and declared closed the twenty-ninth day of October 1976."
-    },
-    {
-     "type": "text",
-     "text": "In faith whereof we have appended our signatures this eleventh day of November 1976."
-    },
-    {
-     "type": "text",
-     "text": "The President of the Conference: M. Hereide"
-    },
-    {
-     "type": "text",
-     "text": "Director-General of the International Labour Office: F. Blanchard"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, ze:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 29 marca 1995 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wafesa L.S."
-    },
-    {
-     "type": "signature",
-     "text": "Minister Spraw Zagranicznych: W. Bartoszewski"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Konferencji: M. Hareide"
+  },
+  {
+   "type": "text",
+   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy: F. Blanchard"
+  },
+  {
+   "type": "text",
+   "text": "Right to Organise and Collective Bargaining Convention, 1949 (No. 98)."
+  },
+  {
+   "type": "text",
+   "text": "Tln cases where the established licensing system or certification structure of a State would be prejudiced by problems arising from strict adherence to the relevant standards of the Officers’ Competency Certificates Convention, 1936, the principle of substantial equivalence shall be applied so that there will be no conflict with that State’s established arrangements for certification."
+  },
+  {
+   "type": "text",
+   "text": "The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Sixtysecond Session which was held at Geneva and declared closed the twenty-ninth day of October 1976."
+  },
+  {
+   "type": "text",
+   "text": "In faith whereof we have appended our signatures this eleventh day of November 1976."
+  },
+  {
+   "type": "text",
+   "text": "The President of the Conference: M. Hereide"
+  },
+  {
+   "type": "text",
+   "text": "Director-General of the International Labour Office: F. Blanchard"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, ze:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 29 marca 1995 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wafesa L.S."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Zagranicznych: W. Bartoszewski"
   }
  ],
+ "annexes": [],
  "footnotes": {}
 }

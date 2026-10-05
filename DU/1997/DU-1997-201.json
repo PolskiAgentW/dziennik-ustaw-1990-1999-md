@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/201",
  "title": "Traktat z Nairobi w sprawie ochrony symbolu olimpijskiego, przyjęty w Nairobi w dniu 26 września 1981 r.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/201/text.pdf",
  "body": [
   {
@@ -581,14 +581,11 @@
     {
      "type": "text",
      "text": "(iv) każdym wypowiedzeniu na podstawie artykułu 7."
-    }
-   ]
-  }
- ],
- "annexes": [
-  {
-   "heading": "Załącznik",
-   "body": [
+    },
+    {
+     "type": "text",
+     "text": "Załącznik"
+    },
     {
      "type": "text",
      "text": "Symbol olimpijski składa się z pięciu przeplatających się kot: białego, żółtego, czarnego, zielonego i czerwonego, ułożonych w takim porządku od strony lewej do prawej. Składa się z kół olimpijskich jako takich, niezależnie od tego, czy przedstawione są w jednym kolorze, czy też w kilku różnych kolorach."
@@ -644,13 +641,14 @@
     {
      "type": "text",
      "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski L.S."
-    },
-    {
-     "type": "signature",
-     "text": "Minister Spraw Zagranicznych: D. Rosati"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Zagranicznych: D. Rosati"
   }
  ],
+ "annexes": [],
  "footnotes": {}
 }

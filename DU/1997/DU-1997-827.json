@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/827",
  "title": "Umowa między Rzecząpospolitą Polską a Republiką Słowacką o małym ruchu granicznym, sporządzona w Zakopanem dnia 6 grudnia 1996 r.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/827/text.pdf",
  "body": [
   {
@@ -391,22 +391,18 @@
     {
      "type": "text",
      "text": "Załączniki do Umowy między Rzecząpospolitą Polską a Republiką Słowacką o małym ruchu granicznym"
-    }
-   ]
-  }
- ],
- "annexes": [
-  {
-   "heading": "Załącznik nr 1",
-   "body": [
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1"
+    },
     {
      "type": "text",
      "text": "WCHODZĄCYCH W OBSZAR PASA MAŁEGO RUCHU GRANICZNEGO"
     },
     {
-     "type": "heading",
-     "label": "I.",
-     "text": "Rzeczypospolitej Polskiej"
+     "type": "text",
+     "text": "I. Rzeczypospolitej Polskiej"
     },
     {
      "type": "text",
@@ -679,672 +675,672 @@
     {
      "type": "text",
      "text": "Il. Republiki Słowackiej"
-    },
-    {
-     "type": "ust",
-     "num": "11",
-     "path": "ust_11",
-     "text": "12. 13. 14. 15. 16. 17. 18. 19. 20.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Beloveża Bobrov Bobrovćek Bobrovec BodruZal Bogliarka Brestov nad Laborcom Breza Breznicka Brezovica"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": ". Brezovka . Bukovce . Bystrą . Cernina . Chmel'nica . Chmel'ova . Chotca . Cigel'ka . Cigla . Dlhoń . Dobroslava . Dolny Vadićov . Dubova . Dunajov . Certizné . Forbasy . Fri¢ka . Gaboltov . Gerlachov . Gerlachov . Gribov . Haźlin . Habovka . Habura . Hajtovka . Haligovce . Hanigovce . Havaj . Havka . Havranec . Hervatov . Hladovka . Hniezdne : Horny Vadićov . Hostovice . Hrabovcik . Hrabovec . Hrabske . Hranicné . Hromos . Hruśtin . Hunkovce . Hutka . Huty . Hybe . Jakubany . Jakubovany . Jalova . Jalovec . Jamnik . Jarabina . Jedlinka . Jezersko . Jurkova Vol'a . Kalinov . Kalna Roztoka . Kamenica . Kamienka . Kapisova"
-      },
-      {
-       "type": "text",
-       "text": ". Kećkovce . Klin . Klubina . Kożuchówce . Kolaćkov . Kolbasov . Komarov . Konska . Korejovce . Krasna Luka . Krasno nad Kysucou . Krasny Bród . Krajné Cierno . Krajna Bystra . Krajna Pol'ana . Krajna Portbka . Kremna . Krize . Krive . Krivany . Kruzl’ova . Krusetnica . Krusinec . Kruzlov . Kurimka . Kurov . Kvaćany . Kyjov . Kysucky Lieskovec . Kysucké Nové Mesto . Luéka . Lackova . Ladomirova . Lechnica . Legnava . Lenartov . Lendak . Lesnica . Liesek . Lipany . Lipova . Liptovské Beharovce . Liptovsky Hradok . Liptovska Kokava . Liptovské MatiaSovce . Liptovsky Ondrej . Liptovsky Peter . Liptovska Sielnica . Liptovsky Trnovec . Litmanova . Livov . Livovska Huta . Lodno . Lokca 134. 135. 136. 137. 138."
-      },
-      {
-       "type": "text",
-       "text": "Lomna Lomnióka Lućivna Lukov Lutise"
-      },
-      {
-       "type": "note",
-       "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "139",
-     "path": "ust_139",
-     "text": "Lysica 198. Parihuzovce 140. Mutne 199. Pavlova Ves 141. Majere 200. Petrova 142. Makovce 201. Pichne 143. Male Borove 202. Plavec 144. Mala Frankova 203. Plavnica 145. Maly Lipnik 204. Podbanske 146. Mala Pol'ana 205. Podhorany 147. Malcov 206. Podolinec 148. MatiaSovce 207. Poprad 149. Matysova 208. Potoky 150. Medvedie 209. Povina 151. Medzilaborce 210. Pribylina 152. Mengusovce 211. Prikra 153. Mikova 212. Prislop 154. MikulaSova 213. Pstrina 155. Milpos 214. Puste Pole 156. Mirol'a 215. Rabca 157. Mlynica 216. Rabcice 158. nad Popradom 217. Radóstka Mniśek 159. Mokroluh 218. Radvan nad Laborcom 160. Namestovo 219. Rakova 161. Nechvalova Polianka 220. Rel'ov 162. Nizna 221. Regetovka 163. Niina Jablonka 222. Richvald 164. Niina Jedl'ova 223. Roskovce 165. Nizny Komarnik 224. Rokytov 166. Nizny Mirosov 225. Rokytovce 167. Nizny Orlik 226. Rovne 168. Nizna Pisana 227. Roztoky 169. Nizna Polianka 228. Runina 170. Nizne Rubibachy 229. Rusky Potok 171. Nizny Twarozec 230. Ruska Vol'a nad Popradom 172. Nova L'ubovri'a 231. Ruska Volova 173. Nova Bystrica 232. Sihelne 174. Nova Lesna 233. Skalite 175. Nova Polianka 234. Slovenska Ves 176. Nova Sedlica 235. Smilno 177. Novo!' 236. Smrecany 178.0scadnica 237.Snakov 179.01'savka 238. Snina 180.0l'sinkov 239. Spisske Hanusovce 181.01'sov 240. Spisska Stara Ves 182.0brucne 241. Staskov 183.0chodnica 242. Staskovce 184.0lejnikov 243. Stakcin 185.0ndavka 244. Stakcinska Roztoka 186. Oravsky Biely Potok 245. Stara L'ubovrla 187. Oravska Jasenica 246. Stara Bystrica 188. Oravska Lesna 247. Stara Lesna 189. Oravska Polhora 248. Stary Smokovec 190. Oravske Vesele 249. Starina 191.0rlov 250. Stebnicka Huta 192.0rtut'ova 251. Stebnik 193.0sadne 252. Strarlany 194. Osturlla 253. Sucha Hora 195. Pcoline 254.Sukov 196. Palota 255. Sulin 197. Papin 256. Sverzov",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "257",
-     "path": "ust_257",
-     "text": "Svetlice",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "258",
-     "path": "ust_258",
-     "text": "Svidnićka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "259",
-     "path": "ust_259",
-     "text": "Svidnik",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "260",
-     "path": "ust_260",
-     "text": "Svit",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "261",
-     "path": "ust_261",
-     "text": "Svrćinovec",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "262",
-     "path": "ust_262",
-     "text": "Śaśova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "263",
-     "path": "ust_263",
-     "text": "Śariś skć Cierne",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "264",
-     "path": "ust_264",
-     "text": "Śariś skć Dravce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "265",
-     "path": "ust_265",
-     "text": "Śariś skć Jastrabie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "266",
-     "path": "ust_266",
-     "text": "Tarnov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "267",
-     "path": "ust_267",
-     "text": "Tatranska Javorina",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "268",
-     "path": "ust_268",
-     "text": "Tatranska Kotlina",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "269",
-     "path": "ust_269",
-     "text": "Tatranska Lomnica",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "270",
-     "path": "ust_270",
-     "text": "Tatranskć Matliare",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "271",
-     "path": "ust_271",
-     "text": "Terchova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "272",
-     "path": "ust_272",
-     "text": "Topol'a",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "273",
-     "path": "ust_273",
-     "text": "Topore 274, Trstena",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "275",
-     "path": "ust_275",
-     "text": "Trstenć",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "276",
-     "path": "ust_276",
-     "text": "Tvrdośin",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "277",
-     "path": "ust_277",
-     "text": "Ulić",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "278",
-     "path": "ust_278",
-     "text": "Ulićskć Krive",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "279",
-     "path": "ust_279",
-     "text": "Vyborna",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "280",
-     "path": "ust_280",
-     "text": "Vychodna",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "281",
-     "path": "ust_281",
-     "text": "Vapenik",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "282",
-     "path": "ust_282",
-     "text": "Vyrava",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "283",
-     "path": "ust_283",
-     "text": "Vażec",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "284",
-     "path": "ust_284",
-     "text": "Vagrinec",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "285",
-     "path": "ust_285",
-     "text": "Valentovce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "286",
-     "path": "ust_286",
-     "text": "Varadka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "287",
-     "path": "ust_287",
-     "text": "Vasil'ov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "288",
-     "path": "ust_288",
-     "text": "Vavrećka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "289",
-     "path": "ust_289",
-     "text": "Varvis ovo",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "290",
-     "path": "ust_290",
-     "text": "Vel'ka Frankova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "291",
-     "path": "ust_291",
-     "text": "Vel’ka Lesna",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "292",
-     "path": "ust_292",
-     "text": "Vel'ky Lipnik",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "293",
-     "path": "ust_293",
-     "text": "Vel'ky Slavkov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "294",
-     "path": "ust_294",
-     "text": "Vel'krop",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "295",
-     "path": "ust_295",
-     "text": "Verechovce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "296",
-     "path": "ust_296",
-     "text": "Veterna Poruba",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "297",
-     "path": "ust_297",
-     "text": "Vislanka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "298",
-     "path": "ust_298",
-     "text": "Vislava",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "299",
-     "path": "ust_299",
-     "text": "Vitanova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "300",
-     "path": "ust_300",
-     "text": "Vladića",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "301",
-     "path": "ust_301",
-     "text": "Vojnany",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "302",
-     "path": "ust_302",
-     "text": "Volica",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "303",
-     "path": "ust_303",
-     "text": "VySkovce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "304",
-     "path": "ust_304",
-     "text": "Vysna Jablonka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "305",
-     "path": "ust_305",
-     "text": "VySna Jedl’ova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "306",
-     "path": "ust_306",
-     "text": "Vyśny Komarnik",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "307",
-     "path": "ust_307",
-     "text": "Vyśny MiroSov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "308",
-     "path": "ust_308",
-     "text": "Vyśny Orlik",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "309",
-     "path": "ust_309",
-     "text": "Vyśna Pisana",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "310",
-     "path": "ust_310",
-     "text": "VySna Polianka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "311",
-     "path": "ust_311",
-     "text": "Vyśnć Ruzbachy",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "312",
-     "path": "ust_312",
-     "text": "Vyśny Tvarożec",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "313",
-     "path": "ust_313",
-     "text": "Zabiedovo",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "314",
-     "path": "ust_314",
-     "text": "Zakamenné",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "315",
-     "path": "ust_315",
-     "text": "Zakopćie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "316",
-     "path": "ust_316",
-     "text": "Zalesie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "317",
-     "path": "ust_317",
-     "text": "Zazriva",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "318",
-     "path": "ust_318",
-     "text": "Zbój",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "319",
-     "path": "ust_319",
-     "text": "Zbojné",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "320",
-     "path": "ust_320",
-     "text": "Zborov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "321",
-     "path": "ust_321",
-     "text": "Zborov nad Bystricou",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "322",
-     "path": "ust_322",
-     "text": "Zbudska Bela",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "323",
-     "path": "ust_323",
-     "text": "Zlatć",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "324",
-     "path": "ust_324",
-     "text": "Zuberec",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "325",
-     "path": "ust_325",
-     "text": "Zubrohlava",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "326",
-     "path": "ust_326",
-     "text": "Cadca",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "327",
-     "path": "ust_327",
-     "text": "Nagov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "328",
-     "path": "ust_328",
-     "text": "Sambron",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "329",
-     "path": "ust_329",
-     "text": "'Tapeśovo",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "330",
-     "path": "ust_330",
-     "text": "Sarbov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "331",
-     "path": "ust_331",
-     "text": "Z diar",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "332",
-     "path": "ust_332",
-     "text": "Udol",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "333",
-     "path": "ust_333",
-     "text": "Semetkovce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "334",
-     "path": "ust_334",
-     "text": "Cerveny Klaśtor",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "335",
-     "path": "ust_335",
-     "text": "Ziar",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "336",
-     "path": "ust_336",
-     "text": "Cierne",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "337",
-     "path": "ust_337",
-     "text": "Cimhova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "338",
-     "path": "ust_338",
-     "text": "Circ",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "339",
-     "path": "ust_339",
-     "text": "Stóla",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "340",
-     "path": "ust_340",
-     "text": "Śtrba",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "341",
-     "path": "ust_341",
-     "text": "L'ubotin",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "342",
-     "path": "ust_342",
-     "text": "Cukalovce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "343",
-     "path": "ust_343",
-     "text": "L'utina",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "344",
-     "path": "ust_344",
-     "text": "Cabalovce",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "345",
-     "path": "ust_345",
-     "text": "Cabiny",
-     "children": []
     }
    ]
   },
   {
-   "heading": "Załącznik nr 2",
-   "body": [
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "12. 13. 14. 15. 16. 17. 18. 19. 20.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Beloveża Bobrov Bobrovćek Bobrovec BodruZal Bogliarka Brestov nad Laborcom Breza Breznicka Brezovica"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": ". Brezovka . Bukovce . Bystrą . Cernina . Chmel'nica . Chmel'ova . Chotca . Cigel'ka . Cigla . Dlhoń . Dobroslava . Dolny Vadićov . Dubova . Dunajov . Certizné . Forbasy . Fri¢ka . Gaboltov . Gerlachov . Gerlachov . Gribov . Haźlin . Habovka . Habura . Hajtovka . Haligovce . Hanigovce . Havaj . Havka . Havranec . Hervatov . Hladovka . Hniezdne : Horny Vadićov . Hostovice . Hrabovcik . Hrabovec . Hrabske . Hranicné . Hromos . Hruśtin . Hunkovce . Hutka . Huty . Hybe . Jakubany . Jakubovany . Jalova . Jalovec . Jamnik . Jarabina . Jedlinka . Jezersko . Jurkova Vol'a . Kalinov . Kalna Roztoka . Kamenica . Kamienka . Kapisova"
+    },
+    {
+     "type": "text",
+     "text": ". Kećkovce . Klin . Klubina . Kożuchówce . Kolaćkov . Kolbasov . Komarov . Konska . Korejovce . Krasna Luka . Krasno nad Kysucou . Krasny Bród . Krajné Cierno . Krajna Bystra . Krajna Pol'ana . Krajna Portbka . Kremna . Krize . Krive . Krivany . Kruzl’ova . Krusetnica . Krusinec . Kruzlov . Kurimka . Kurov . Kvaćany . Kyjov . Kysucky Lieskovec . Kysucké Nové Mesto . Luéka . Lackova . Ladomirova . Lechnica . Legnava . Lenartov . Lendak . Lesnica . Liesek . Lipany . Lipova . Liptovské Beharovce . Liptovsky Hradok . Liptovska Kokava . Liptovské MatiaSovce . Liptovsky Ondrej . Liptovsky Peter . Liptovska Sielnica . Liptovsky Trnovec . Litmanova . Livov . Livovska Huta . Lodno . Lokca 134. 135. 136. 137. 138."
+    },
+    {
+     "type": "text",
+     "text": "Lomna Lomnióka Lućivna Lukov Lutise"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "139",
+   "path": "ust_139",
+   "text": "Lysica 198. Parihuzovce 140. Mutne 199. Pavlova Ves 141. Majere 200. Petrova 142. Makovce 201. Pichne 143. Male Borove 202. Plavec 144. Mala Frankova 203. Plavnica 145. Maly Lipnik 204. Podbanske 146. Mala Pol'ana 205. Podhorany 147. Malcov 206. Podolinec 148. MatiaSovce 207. Poprad 149. Matysova 208. Potoky 150. Medvedie 209. Povina 151. Medzilaborce 210. Pribylina 152. Mengusovce 211. Prikra 153. Mikova 212. Prislop 154. MikulaSova 213. Pstrina 155. Milpos 214. Puste Pole 156. Mirol'a 215. Rabca 157. Mlynica 216. Rabcice 158. nad Popradom 217. Radóstka Mniśek 159. Mokroluh 218. Radvan nad Laborcom 160. Namestovo 219. Rakova 161. Nechvalova Polianka 220. Rel'ov 162. Nizna 221. Regetovka 163. Niina Jablonka 222. Richvald 164. Niina Jedl'ova 223. Roskovce 165. Nizny Komarnik 224. Rokytov 166. Nizny Mirosov 225. Rokytovce 167. Nizny Orlik 226. Rovne 168. Nizna Pisana 227. Roztoky 169. Nizna Polianka 228. Runina 170. Nizne Rubibachy 229. Rusky Potok 171. Nizny Twarozec 230. Ruska Vol'a nad Popradom 172. Nova L'ubovri'a 231. Ruska Volova 173. Nova Bystrica 232. Sihelne 174. Nova Lesna 233. Skalite 175. Nova Polianka 234. Slovenska Ves 176. Nova Sedlica 235. Smilno 177. Novo!' 236. Smrecany 178.0scadnica 237.Snakov 179.01'savka 238. Snina 180.0l'sinkov 239. Spisske Hanusovce 181.01'sov 240. Spisska Stara Ves 182.0brucne 241. Staskov 183.0chodnica 242. Staskovce 184.0lejnikov 243. Stakcin 185.0ndavka 244. Stakcinska Roztoka 186. Oravsky Biely Potok 245. Stara L'ubovrla 187. Oravska Jasenica 246. Stara Bystrica 188. Oravska Lesna 247. Stara Lesna 189. Oravska Polhora 248. Stary Smokovec 190. Oravske Vesele 249. Starina 191.0rlov 250. Stebnicka Huta 192.0rtut'ova 251. Stebnik 193.0sadne 252. Strarlany 194. Osturlla 253. Sucha Hora 195. Pcoline 254.Sukov 196. Palota 255. Sulin 197. Papin 256. Sverzov",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "257",
+   "path": "ust_257",
+   "text": "Svetlice",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "258",
+   "path": "ust_258",
+   "text": "Svidnićka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "259",
+   "path": "ust_259",
+   "text": "Svidnik",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "260",
+   "path": "ust_260",
+   "text": "Svit",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "261",
+   "path": "ust_261",
+   "text": "Svrćinovec",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "262",
+   "path": "ust_262",
+   "text": "Śaśova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "263",
+   "path": "ust_263",
+   "text": "Śariś skć Cierne",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "264",
+   "path": "ust_264",
+   "text": "Śariś skć Dravce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "265",
+   "path": "ust_265",
+   "text": "Śariś skć Jastrabie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "266",
+   "path": "ust_266",
+   "text": "Tarnov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "267",
+   "path": "ust_267",
+   "text": "Tatranska Javorina",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "268",
+   "path": "ust_268",
+   "text": "Tatranska Kotlina",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "269",
+   "path": "ust_269",
+   "text": "Tatranska Lomnica",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "270",
+   "path": "ust_270",
+   "text": "Tatranskć Matliare",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "271",
+   "path": "ust_271",
+   "text": "Terchova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "272",
+   "path": "ust_272",
+   "text": "Topol'a",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "273",
+   "path": "ust_273",
+   "text": "Topore 274, Trstena",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "275",
+   "path": "ust_275",
+   "text": "Trstenć",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "276",
+   "path": "ust_276",
+   "text": "Tvrdośin",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "277",
+   "path": "ust_277",
+   "text": "Ulić",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "278",
+   "path": "ust_278",
+   "text": "Ulićskć Krive",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "279",
+   "path": "ust_279",
+   "text": "Vyborna",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "280",
+   "path": "ust_280",
+   "text": "Vychodna",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "281",
+   "path": "ust_281",
+   "text": "Vapenik",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "282",
+   "path": "ust_282",
+   "text": "Vyrava",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "283",
+   "path": "ust_283",
+   "text": "Vażec",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "284",
+   "path": "ust_284",
+   "text": "Vagrinec",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "285",
+   "path": "ust_285",
+   "text": "Valentovce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "286",
+   "path": "ust_286",
+   "text": "Varadka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "287",
+   "path": "ust_287",
+   "text": "Vasil'ov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "288",
+   "path": "ust_288",
+   "text": "Vavrećka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "289",
+   "path": "ust_289",
+   "text": "Varvis ovo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "290",
+   "path": "ust_290",
+   "text": "Vel'ka Frankova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "291",
+   "path": "ust_291",
+   "text": "Vel’ka Lesna",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "292",
+   "path": "ust_292",
+   "text": "Vel'ky Lipnik",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "293",
+   "path": "ust_293",
+   "text": "Vel'ky Slavkov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "294",
+   "path": "ust_294",
+   "text": "Vel'krop",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "295",
+   "path": "ust_295",
+   "text": "Verechovce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "296",
+   "path": "ust_296",
+   "text": "Veterna Poruba",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "297",
+   "path": "ust_297",
+   "text": "Vislanka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "298",
+   "path": "ust_298",
+   "text": "Vislava",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "299",
+   "path": "ust_299",
+   "text": "Vitanova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "300",
+   "path": "ust_300",
+   "text": "Vladića",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "301",
+   "path": "ust_301",
+   "text": "Vojnany",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "302",
+   "path": "ust_302",
+   "text": "Volica",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "303",
+   "path": "ust_303",
+   "text": "VySkovce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "304",
+   "path": "ust_304",
+   "text": "Vysna Jablonka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "305",
+   "path": "ust_305",
+   "text": "VySna Jedl’ova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "306",
+   "path": "ust_306",
+   "text": "Vyśny Komarnik",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "307",
+   "path": "ust_307",
+   "text": "Vyśny MiroSov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "308",
+   "path": "ust_308",
+   "text": "Vyśny Orlik",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "309",
+   "path": "ust_309",
+   "text": "Vyśna Pisana",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "310",
+   "path": "ust_310",
+   "text": "VySna Polianka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "311",
+   "path": "ust_311",
+   "text": "Vyśnć Ruzbachy",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "312",
+   "path": "ust_312",
+   "text": "Vyśny Tvarożec",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "313",
+   "path": "ust_313",
+   "text": "Zabiedovo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "314",
+   "path": "ust_314",
+   "text": "Zakamenné",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "315",
+   "path": "ust_315",
+   "text": "Zakopćie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "316",
+   "path": "ust_316",
+   "text": "Zalesie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "317",
+   "path": "ust_317",
+   "text": "Zazriva",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "318",
+   "path": "ust_318",
+   "text": "Zbój",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "319",
+   "path": "ust_319",
+   "text": "Zbojné",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "320",
+   "path": "ust_320",
+   "text": "Zborov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "321",
+   "path": "ust_321",
+   "text": "Zborov nad Bystricou",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "322",
+   "path": "ust_322",
+   "text": "Zbudska Bela",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "323",
+   "path": "ust_323",
+   "text": "Zlatć",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "324",
+   "path": "ust_324",
+   "text": "Zuberec",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "325",
+   "path": "ust_325",
+   "text": "Zubrohlava",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "326",
+   "path": "ust_326",
+   "text": "Cadca",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "327",
+   "path": "ust_327",
+   "text": "Nagov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "328",
+   "path": "ust_328",
+   "text": "Sambron",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "329",
+   "path": "ust_329",
+   "text": "'Tapeśovo",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "330",
+   "path": "ust_330",
+   "text": "Sarbov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "331",
+   "path": "ust_331",
+   "text": "Z diar",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "332",
+   "path": "ust_332",
+   "text": "Udol",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "333",
+   "path": "ust_333",
+   "text": "Semetkovce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "334",
+   "path": "ust_334",
+   "text": "Cerveny Klaśtor",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "335",
+   "path": "ust_335",
+   "text": "Ziar",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "336",
+   "path": "ust_336",
+   "text": "Cierne",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "337",
+   "path": "ust_337",
+   "text": "Cimhova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "338",
+   "path": "ust_338",
+   "text": "Circ",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "339",
+   "path": "ust_339",
+   "text": "Stóla",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "340",
+   "path": "ust_340",
+   "text": "Śtrba",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "341",
+   "path": "ust_341",
+   "text": "L'ubotin",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "342",
+   "path": "ust_342",
+   "text": "Cukalovce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "343",
+   "path": "ust_343",
+   "text": "L'utina",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "344",
+   "path": "ust_344",
+   "text": "Cabalovce",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "345",
+   "path": "ust_345",
+   "text": "Cabiny",
+   "children": [
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
     {
      "type": "text",
      "text": "WYKAZ PRZEJŚĆ GRANICZNYCH PRZEZNACZONYCH WYŁĄCZNIE DLA MAŁEGO RUCHU GRANICZNEGO"
@@ -1364,79 +1360,80 @@
     {
      "type": "text",
      "text": ". Wierchomla Wielka — Kaće . Piwowarówka — Pil'hov"
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "ust_8",
-     "text": "Sromowce Wyżne — Cerveny Klaśtor",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "9",
-     "path": "ust_9",
-     "text": "Kacwin — Vel'ka Frankova",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "10",
-     "path": "ust_10",
-     "text": "Jurgów — Podspady",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "11",
-     "path": "ust_11",
-     "text": "Winiarczykówka — Bobrov",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "12",
-     "path": "ust_12",
-     "text": "Ujsoły — Novot'",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "13",
-     "path": "ust_13",
-     "text": "Przegibek — Vychylovka",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "14",
-     "path": "ust_14",
-     "text": "Rycerka — Nova Bystrica",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 7 maja 1997 r."
-      },
-      {
-       "type": "text",
-       "text": "LS."
-      }
-     ]
-    },
-    {
-     "type": "signature",
-     "text": "Minister Spraw Zagranicznych: D. Rosati"
-    },
-    {
-     "type": "signature",
-     "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
     }
    ]
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Sromowce Wyżne — Cerveny Klaśtor",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Kacwin — Vel'ka Frankova",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Jurgów — Podspady",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "Winiarczykówka — Bobrov",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "Ujsoły — Novot'",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "Przegibek — Vychylovka",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "14",
+   "path": "ust_14",
+   "text": "Rycerka — Nova Bystrica",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 7 maja 1997 r."
+    },
+    {
+     "type": "text",
+     "text": "LS."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Zagranicznych: D. Rosati"
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski"
   }
  ],
+ "annexes": [],
  "footnotes": {}
 }
