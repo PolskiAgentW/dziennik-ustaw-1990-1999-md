@@ -1,0 +1,577 @@
+{
+ "eli": "DU/1993/302",
+ "title": "Rozporządzenie Ministra Łączności z dnia 31 maja 1993 r. w sprawie określenia systemów telekomunikacyjnych, zakładanych i używanych na terytorium Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/302/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ŁĄCZNOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 maja 1993 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia systemów telekomunikacyjnych, zakładanych i używanych na terytorium Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 1 ustawy z dnia 23 listopada 1990 r. o łączności (Dz. U. Nr 86, poz. 504, z 1991 r. Nr 69, poz. 293 i Nr 105, poz. 451 oraz z 1993 r. Nr 7, poz. 34) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Na terytorium Rzeczypospolitej Polskiej w sieci telefonicznej stacjonarnej użytku publicznego oraz innych sieciach telefonicznych przekraczających obszar województwa, na których zakładanie i używanie wymagane jest zezwolenie Ministra Łączności, mogą być zakładane i używane wyłącznie cyfrowe systemy komutacyjne, których produkcja została uruchomiona w Polsce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Systemy, o których mowa w ust. 1, powinny charakteryzować się cechami:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "sterowaniem programowanym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "możliwością wyposażenia w moduły sieci cyfrowej z integracją usług (Integrated Service Digital Network ISDN) i moduły systemu sygnalizacji CCITT nr 7 (CCITT —— International Telegraph and Telephone Consultative Committee — Międzynarodowy Doradczy Komitet Telegraficzny i Telefoniczny), możliwością stosowania w sieci telekomunikacyjnej 3",
+       "children": [
+        {
+         "type": "text",
+         "text": "~~ w płaszczyznach od międzynarodowej do miejscowej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W sieci telefonicznej stacjonarnej użytku publicznego mogą być zakładane i używane trzy systemy komutacyjne spośród systemów o cechach podanych w ust. 1 i 2, używanych w sieci krajowej i co do których przygotowania do uruchomienia produkcji w kraju zostały rozpoczęte przed dniem 30 listopada 1992 r., dostarczanych przez trzech producentów wyłonionych w procesie prywatyzacji kapitałowej wybranych państwowych zakładów przemysłu teleelektronicznego i teletechnicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Do dnia 31 grudnia 1996 r., poza systemami określonymi w ust. 3, w obszarach działania nadrzędnych telefonicznych central analogowych dopuszcza się zakładanie systemów komutacyjnych o pojemności do 1000 linii abonenckich, opracowanych i produkowanych w kraju, nie spełniających warunków określonych w ust. 2 pkt 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Na terytorium Rzeczypospolitej Polskiej w sieci telekomunikacyjnej użytku publicznego oraz innych sieciach telekomunikacyjnych przekraczających obszar województwa, na których zakładanie i używanie wymagane jest zezwolenie Ministra Łączności, w połączeniach międzycentralowych mogą być zakładane i używane wyłącznie następujące systemy teletransmisyjne, których produkcja została uruchomiona w Polsce:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "||| ses DQ Dziennik Ustaw Nr 63 —"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "cyfrowe systemy kablowe według hierarchii plezjochronicznej o dopełnianiu dodatnim, zawierające pełny zestaw krotnic oraz urządzeń traktów liniowych o przepływnościach 2048, 8448, 34368, 139264 kbit/s (standardowe prędkości transmisji danych cyfrowych) zrealizowanych według jednolitej konstrukcji umożliwiającej różną kompletację urządzeń w tym samym stojaku teletransmisyjnym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "cyfrowe systemy kablowe według hierarchii synchroni- ~ cznej zawierające pełny zestaw krotnic oraz urządzeń traktów liniowych o przepływnościach 2048, 155520 i 622080 kbit/s (standardowe prędkości transmisji danych cyfrowych) zrealizowanych według jednolitej koncepcji i konstrukcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "cyfrowe systemy radioliniowe zawierające pełny zestaw urządzeń o przepływności 2048, 8448, 34368 kbit/s oraz 139264 kbit/s i/lub 155520 kbit/s pracujących w zakresach częstotliwości przeznaczonych dla tego celu w kraju i zrealizowanych według jednolitej koncepcji i konstrukcji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Systemy, o których mowa w ust. 1, powinny być wyposażone w punkty styku do współpracy z systemem scentralizowanego nadzoru sieci cyfrowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Systemy, o których mowa w ust. 1 i 2, powinny być stosowane na kablach światłowodowych. Urządzenia o przepływności 2048 kbit/s mogą być również stosowane na kablach metalowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Systemy teletransmisyjne, o których mowa w ust. 1, mogą być dostarczane na polski rynek sprzętu telekomunikacyjnego wyłącznie przez dostawców, o których mowa w §1 ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Do dnia 31 grudnia 1996 r. dopuszcza się zakładanie w sieci telekomunikacyjnej użytku publicznego cyfrowych systemów teletransmisyjnych, opracowanych i produkowanych w kraju, nie zawierających pełnego zestawu urządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Za uruchomienie produkcji systemów, o których mowa w§1 i§ 2, uznaje się istnienie producenta tego systemu w Polsce, dysponującego pełną dokumentacją techniczną i gwarantującego obsługę serwisową, przy czym w całkowitym koszcie produkcji sprzętu dostarczonego przez danego producenta w skali roku udział produkcji krajowej nie powinien być mniejszy niż 50%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Udział produkcji krajowej, jakość transferu technologii oraz zachowanie na polskim rynku sprzętu telekomunikacyjnego, w tym poziom cen, podlega kontroli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Po zatwierdzeniu ostatecznej wersji bilansu producenta urządzeń kontrolę przeprowadza:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "corocznie — producent urządzeń we własnym zakresie i przedstawia wyniki Ministrowi Łączności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "po pierwszych trzech latach — niezależna jednostka na zlecenie Ministra Łączności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Zasady obliczania udziału produkcji krajowej określa załącznik nr 1, a ocenę jakościową transferu technologii — załącznik nr 2 do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "W przypadku gdy przeprowadzona kontrola, o której mowa w ust. 3 pkt 2, wykaże nieprzestrzeganie przez producentów sprzętu telekomunikacyjnego warunków ustalonych w ust. 2, Minister Łączności ogranicza tym producentom urządzeń dostęp do polskiego rynku. Producentom urządzeń spełniającym warunki przedłuża się prawo dostępu do polskiego rynku sprzętu telekomunikacyjnego o dalsze trzy lata.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Zakładane na terytorium Rzeczypospolitej Polskiej w sieci telekomunikacyjnej miejscowej magistralnej i rozdzielczej kable telekomunikacyjne metalowe symetryczne i światłowodowe powinny być wzdłużnie uszczelniane (wypełnione żelem).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Dopuszcza się wykorzystywanie kabli produkcji krajowej nie wypełnianych żelem do prac konserwacyjno-remontowych dotychczas eksploatowanych kabli z kontrolą ciśnieniową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Ograniczenia określone w § 1—3 nie dotyczą inwestycji rozpoczętych lub kontraktów zawartych przed wejś-. ciem w życie niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Urządzenia telekomunikacyjne będące w eksploatacji w dniu wejścia w życie niniejszego rozporządzenia i nie spełniające warunków określonych w § 1—4 mogą być używane do czasu technicznego zużycia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Rozbudowa eksploatowanych obiektów sieci telefonicznej użytku publicznego, wyposażonych w urządzenia wchodzące w skład systemów dopuszczonych do stosowania przed wejściem w życie ograniczeń wprowadzonych niniejszym rozporządzeniem, dozwolona jest wyłącznie za zezwoleniem Ministra Łączności i w następujących przypadkach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "tego samego typu sprzętem produkcji krajowej — w odniesieniu do systemów analogowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "tego samego typu sprzętem zarówno produkcji krajowej, jak iz importu —w odniesieniu do systemów cyfrowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Rozbudowa sieci telekomunikacyjnej w danym roku kalendarzowym, prowadzona na podstawie zezwolenia, o którym mowa w ust. 2, nie może przekroczyć swoim zakresem rzeczowym 10% całkowitej ilości sprzętu telekomunikacyjnego wprowadzonego do sieci użytku publicznego w roku poprzednim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Traci moc rozporządzenie Ministra Łączności z dnia 23 października 1991 r. w sprawie określenia systemów telekomunikacyjnych, zakładanych i używanych na terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 431).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Łączności: wz. 7. Depczyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Łączności z dnia 31 maja 1993 r. (poz. 302) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "ZASADY OBLICZANIA UDZIAŁU PRODUKCJI KRAJOWEJ"
+    },
+    {
+     "type": "text",
+     "text": "Podstawa obliczeń (mianownik)"
+    },
+    {
+     "type": "text",
+     "text": "Podstawą obliczania udziału produkcji krajowej jest całkowity koszt produkcji sprzedanych central i urządzeń teletransmisyjnych oraz elementów i podzespołów. Całkowity koszt produkcji obejmuje: — koszt wytworzenia sprzedanych towarów, — koszty ogólnego zarządu (ogólnozakładowe) i koszty sprzedaży, — koszty handlowe, — wartość sprzedanych towarów w cenie zakupu (nabycia),"
+    },
+    {
+     "type": "text",
+     "text": "wykazane w rachunku wyników, sporządzonym zgodnie z rozporządzeniem Ministra Finansów z dnia 15 stycznia 1991 r. w sprawie zasad prowadzenia rachunkowości (Dz. U. Nr 10, poz. 35, Nr 124, poz. 554, z 1992 r. Nr 96, poz. 476 oraz z 1993 r. Nr 46, poz. 208)."
+    },
+    {
+     "type": "text",
+     "text": ". Udział produkcji krajowej (licznik)"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Następujące elementy będą zaliczone na poczet udziału produkcji krajowej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "całkowity koszt produkcji sprzedanych central i urządzeń teletransmisyjnych oraz elementów i podzespołów, pomniejszony o koszty elementów i usług pochodzących z importu (łącznie z cłem i podatkiem od importu lub innymi opłatami), związanych z produkcją central i urządzeń teletransmisyjnych oraz elementów i podzespołów,",
+       "children": [
+        {
+         "type": "text",
+         "text": "— amortyzacja zapłaty gotówkowej netto (za 80% b akcji), wpłaconej Ministerstwu Przekształceń Własnościowych przez producentów central i urządzeń teletransmisyjnych biorących udział w procesie prywatyzacji przedsiębiorstw przemysłu teleelektronicznego,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "wartość rocznego eksportu central i urządzeń teletransmisyjnych oraz elementów i podzespołów, pomniejszona o koszty elementów i usług związanych z ich produkcją.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Do udziału produkcji krajowej nie zalicza się tej części dostaw od poddostawców krajowych dostawcy sprzętu telekomunikacyjnego, która pochodzi z importu. Dostawca sprzętu telekomunikacyjnego jest zobowiązany przedstawić dane w tym zakresie.",
+     "children": [
+      {
+       "type": "text",
+       "text": ". Obliczanie udziału produkcji krajowej"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Dla lat 1993—1997",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "odsetek udziału produkcji krajowej jest ilorazem udziału produkcji krajowej, określonego jako suma elementów wymienionych w pkt. Il.1a, II.1b i II.1c, podzielona przez całkowity koszt produkcji określony w pkt I, razy 100."
+    },
+    {
+     "type": "text",
+     "text": "Dopuszczalny poziom, do którego można zaliczyć sumę amortyzacji zapłaty gotówkowej (Il.1b) oraz wartości rocznego eksportu pomniejszonego o koszty (Il.1c), wynosić będzie:"
+    },
+    {
+     "type": "text",
+     "text": "— w 1993 r. — 12%,"
+    },
+    {
+     "type": "text",
+     "text": "— w 1994 r. — 10%,"
+    },
+    {
+     "type": "text",
+     "text": "— w 1995 r. — 8%, — w 1996 r. — 6%, — w 1997 r. — 3%"
+    },
+    {
+     "type": "text",
+     "text": "w stosunku do całkowitego kosztu produkcji sprzedanych towarów określonego w pkt I."
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "— Dla lat 1998 i kolejnych odsetek udziału produkcji krajowej jest ilorazem udziału produkcji krajowej, określonego w pkt II.1a, i całkowitego kosztu produkcji określonego w pkt I, razy 100."
+    },
+    {
+     "type": "text",
+     "text": "FORMULARZ DO OBLICZANIA UDZIAŁU PRODUKCJI KRAJOWEJ"
+    },
+    {
+     "type": "text",
+     "text": "koszty produkcji sprzedanych central i urządzeń teletransmisyjnych, elementów Krajowy koszt produkcji i podzespołów — koszty elementów i usług pochodzących z importu (według wartości celnej + cło + podatki) = koszty krajowe"
+    },
+    {
+     "type": "text",
+     "text": "przychody ze sprzedaży central i urządzeń teletransmisyjnych na eksport Eksport produkcji krajowej — całkowite koszty sprzedaży central i urządzeń teletransmisyjnych na eksport = zysk brutto ze sprzedaży eksportowej"
+    },
+    {
+     "type": "text",
+     "text": "amortyzacja zapłaty gotówkowej Zapłata gotówkowa"
+    },
+    {
+     "type": "text",
+     "text": "Udział produkcji krajowej = (B+ C+ D)/A"
+    },
+    {
+     "type": "text",
+     "text": "dła informacji: sprawozdanie F 02, własna sprawozdawczość, kontrakt prywatyzacyjny."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "OZI COW POWI, mei Za o cw"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "OCENA JAKOŚCIOWA TRANSFERU TECHNOLOGII"
+    },
+    {
+     "type": "text",
+     "text": "Poziom zatrudnienia Zagraniczni producenci sprzętu telekomunikacyjnego zobowiązani są do przedstawienia corocznego raportu o stanie zatrudnienia według podanego niżej wzoru. W raporcie tym pracownicy podzieleni są na cztery kategorie: — Montaż — pracownicy zatrudnieni pośrednio i bezpośrednio w produkcji — Inzynieria — _ pracownicy badawczo-rozwojowi i programiści — Instalacja — pracownicy pracujący przy instalacji sprzętu poza zakładem, pracownicy świadczący usługi poza zakładem — Dyrekcja, sprzedaż i administracja — inne stanowiska, nie związane z produkcją i usługami. Tabela 1 Liczba pracowników Liczba pracowników Kategoria (bieżący rok)"
+    },
+    {
+     "type": "text",
+     "text": "Inżynieria Instalacja Administracja Sprzedaż Ogólne"
+    },
+    {
+     "type": "text",
+     "text": "Nakłady podlegające amortyzacji Restrukturyzacja zakładu"
+    },
+    {
+     "type": "text",
+     "text": "(ubiegły rok)"
+    },
+    {
+     "type": "text",
+     "text": "Zagraniczny producent sprzętu telekomunikacyjnego jest obowiązany poinformować o całkowitej wielkości inwestycji netto, tzn. uwzględniając odsprzedane elementy przedsiębiorstwa, związane z restrukturyzacją jego zakładów w Polsce. Wydatki podlegające amortyzacji obejmują: budynki i budowie, inwestycje infrastrukturalne, jak wodnokanalizacyjne, energetyczne, związane z ochroną środowiska, oraz reorganizację produkcji i innych działów. Krótki opis głównych przedsięwzięć reorganizacyjnych i restrukturyzacyjnych stanowić będzie załącznik. Wymagane jest również wskazanie zakupów dokonanych w Polsce. Wszystkie wielkości dotyczą wartości księgowych brutto. Tabela 2"
+    },
+    {
+     "type": "text",
+     "text": "Streszczenie planu Catkowita wartość . ; restrukturyzacji inwestycji"
+    },
+    {
+     "type": "text",
+     "text": "2.2. Urządzenia produkcyjne"
+    },
+    {
+     "type": "text",
+     "text": "Całkowita wartość . Wartosé dostaw środków Inwestycja od polskich odsprzedanych przedsiębiorstw"
+    },
+    {
+     "type": "text",
+     "text": "Zagraniczny producent sprzętu telekomunikacyjnego złoży sprawozdanie z inwestycji netto z uwzględnieniem sprzedaży zbędnego sprzętu w jego zakładzie w Polsce w przedstawionej liście; lista ta rozbita będzie według funkcji, jak w punkcie 1. Jest on również zobowiązany do przedstawienia listy zakupów sprzętu w Polsce, w rozbiciu na kategorie. Wszystkie wielkości dotyczą wartości księgowanych brutto."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 3"
+    },
+    {
+     "type": "text",
+     "text": "Całkowita wartość Wartość dostaw Kategoria Całkowita wartość inwestycji środków Inwestycja od polskich odsprzedanych przedsiębiorstw Montaż (maszyny, urządzenia do automatycznego testowania) Inżynieria (urządzenia do programowania)"
+    },
+    {
+     "type": "text",
+     "text": "Instalacja (urządzenia do testowania w terenie) Administracja Sprzedaż Ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Nakłady nie podlegające amortyzacji 3.1. Szkolenie Polskie zakłady zagranicznych producentów sprzętu telekomunikacyjnego powinny dostarczać rokrocznie poniższy raport na temat wydatków ponoszonych na szkolenie w rozbiciu na kategorie według wzoru podanego w punkcie 1. Szkolenie z reguły obejmuje programy techniczne, z zakresu organizacji i zarządzania oraz poprawy jakości. Wszystkie wydatki na szkolenie mają być ujawnione w sprawozdaniu, tzn. wynagrodzenia dla wykładowców z firmy, wykładowców spoza firmy, materiały, pomniejszone o wartość nieproduktywnego czasu osób szkolonych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela 4"
+      },
+      {
+       "type": "text",
+       "text": ": . Liczba na kategorie ri"
+      },
+      {
+       "type": "text",
+       "text": "Koszty szkolenia 3 na kategorie inżynierowie pozostali inżynierowie pozostali Montaż"
+      },
+      {
+       "type": "text",
+       "text": "Inżynieria"
+      },
+      {
+       "type": "text",
+       "text": "Administracja Sprzedaż Ogólne"
+      },
+      {
+       "type": "text",
+       "text": "Inżynieria specyficzna dla klienta (kraju) 3.2, Polskie zakłady zagranicznych producentów sprzętu telekomunikacyjnego powinny dostarczać rokrocznie poniższy raport dotyczący pięciu podstawowych programów inżynieryjnych specyficznych dla klienta/kraju — inżynieria szczegółowa — opracowanych w Polsce. Programy mają być podane według malejącej wartości poniesionych nakładów na koniec danego roku, liczonych od początku programu. Programy mogące w przyszłości dawać wpływy z eksportu powinny być podkreślone."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 5"
+      },
+      {
+       "type": "text",
+       "text": "Skumulowane Nazwa Opis projektu wydatki na projektu koniec roku"
+      },
+      {
+       "type": "text",
+       "text": "Wydatki Przewidywany Przewidywana w bieżącym termin roczna wartość roku uruchomienia eksportu"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "3.3. Zakupy miejscowe"
+      },
+      {
+       "type": "text",
+       "text": "Polskie zakłady zagranicznych producentów sprzętu telekomunikacyjnego powinny dostarczać rokrocznie poniższy raport dotyczący zakupów materiałowych od polskich przedsiębiorstw dla celów bezpośrednio i pośrednio związanych z produkcją. Materiały bezpośrednio związane z produkcją — to takie, które zostają włączone do wyrobu końcowego w procesie montażu, jak np. półprzewodniki i obudowy w przypadku central telefonicznych. Inne, jak narzędzia, materiały biurowe itd., są pośrednio związane z produkcją. Raport dotyczący zakupów miejscowych obejmuje pięciu głównych dostawców według malejącej wartości zakupów w danym roku. Będzie on również zawierać wykaz komponentów, części i usług zakupionych w każdym z powyższych polskich przedsiębiorstw."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa Lokalizacja polskiego dostawcy polskiego dostawcy"
+      },
+      {
+       "type": "text",
+       "text": "Zakupione ~ Całkowita wartość towary/usługi zakupów"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

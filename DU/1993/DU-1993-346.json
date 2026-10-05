@@ -1,0 +1,3453 @@
+{
+ "eli": "DU/1993/346",
+ "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 6 lipca 1993 r. w sprawie bezpieczeństwa i higieny pracy w portach morskich i śródlądowych.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/346/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 lipca 1993 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bezpieczeństwa i higieny pracy w portach morskich i śródlądowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 208 § 3 Kodeksu pracy zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "PRZEPISY WSTĘPNE"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przepisy bezpieczeństwa i higieny pracy pracowników zatrudnionych przy przeładunkach portowych, obsłudze przeładunkowych urządzeń technicznych, przy obsłudze magazynów i placów składowych, a także przy cumowaniu statków w portach morskich i śródlądowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wymagania bezpieczeństwa i higieny pracy odnoszące się do obiektów portowych, jak nabrzeża, magazyny, place składowe oraz przeładunkowych urządzeń technicznych, z wyjątkiem urządzeń podlegających dozorowi technicznemu w zakresie rozwiązań określonych przepisami dozoru technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Sprawy bezpieczeństwa i higieny pracy oraz postępowania z materiałami niebezpiecznymi, niezależnie od postanowień niniejszego rozporządzenia, regulują odrębne przepisy w sprawie transportu morskiego materiałów niebezpiecznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "brygada przeładunkowa — zespół pracowników portowych, którego zadanie polega na wykonywaniu prac wymienionych w pkt 11; brygada przeładunkowa nie powinna składać się z więcej niż 20 osób,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "DOR— dopuszczalne obciążenie robocze (ang. LWS),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "dozór techniczny — sprawowanie kontroli nad urządzeniami technicznymi przez organy dozoru technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "materiały niebezpieczne — materiały, których podział na klasy i kategorie oraz zasady postępowania z nimi regulują przepisy w sprawie transportu morskiego materiałów niebezpiecznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "nadzór techniczny — zakładową służbę sprawującą kontrolę nad przeładunkowymi urządzeniami technicznymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "obwiązywanie ładunku — układ, przy którym zawiesie tworzy wokół ładunku zaciskającą się, zamkniętą pętlę powstałą na skutek przewleczenia cięgna (lub cięgien przy zawiesiu bez końca) w dowolnym miejscu jego długości,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "organy dozoru technicznego — Urząd Dozoru Technicznego oraz inne organy specjalistycznego dozoru technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "podzespół roboczy — grupę obejmującą pracowników przeładunkowych wchodzących w skład zespołu roboczego, zatrudnionych na wyodrębnionym stanowisku pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "pomocniczy sprzęt magazynowo-placowy — narzędzia stosowane przy pracach sztauerskich i przygotowawczych do przeładunku w magazynach, na placach składowych, w ładowniach statków i środkach transportu lądowego; do pomocniczego sprzętu magazynowo-placowego zalicza się: łomy i haki ręczne, stoły, płyty, mostki ładunkowe, podstawki magazynowe, przekładki paletowe, słupki i belki do składowania tarcicy, stojaki, tace do ważenia towarów workowanych, kliny zastawcze i zabezpieczające, wózki ręczne, siatki zabezpieczające i ochronne, uchwyty, kleszcze, drabinki wagonowe i kontenerowe itp.,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "pomocniczy sprzęt przeładunkowy — zespoły, które nie stanowią stałego wyposażenia urządzeń dźwignicowych i sprzętu zmechanizowanego i są elementami pośrednimi pomiędzy ładunkiem a hakiem dźwignicy; do pomocniczego sprzętu przeładunkowego zalicza się: zawiesia, chwytnie kontenerowe i specjalne, pasy i siatki ładunkowe, belki nośne (trawersy), palety, tace ładunkowe itp., przeładunek portowy — czynności związane bezpośred- 11) nio z przeładunkiem towarów na statkach morskich i żeglugi śródlądowej oraz wszelkiego rodzaju innych środkach transportu wodnego i lądowego; w ramach określenia mieszczą się również czynności związane z wykonywaniem prac manipulacyjnych, składowaniem, wydawaniem, układaniem i przenoszeniem ładunków w magazynach i na placach składowych w celu dalszego przewozu,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "sztauer — pracownika portowego wykwalifikowanego w zakresie przemieszczania, układania, manipulowania i zabezpieczenia towarów drobnicowych i drewna na statkach, środkach transportu lądowego i składach portowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "trymer — pracownika portowego wykwalifikowanego w zakresie prawidłowego rozmieszczania sypkich ładunków masowych w ładowniach statków, wagonach i zasobniach, ,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_3/pkt_14",
+     "text": "urządzenia przeładunkowe — urządzenia i mechanizmy służące do przeładunków portowych; w skład tych urządzeń wchodzą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_14/lit_a",
+       "text": "urządzenia dźwignicowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_14/lit_b",
+       "text": "sprzęt zmechanizowany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_14/lit_c",
+       "text": "inne urządzenia przeładunkowo-składowe (np. taśmowce, zwałowarko-ładowarki, wywrotnice wagonowe),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_3/pkt_14/lit_d",
+       "text": "pomocniczy sprzęt przeładunkowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_3/pkt_14/lit_e",
+       "text": "pomocniczy sprzęt magazynowo-placowy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_3/pkt_15",
+     "text": "zawiesia — pomocniczy sprzęt przeładunkowy dźwignic hakowych używany w procesach przeładunkowych aż do momentu wycofania z użytku na skutek uszkodzeń mechanicznych lub naturalnego zużycia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_3/pkt_16",
+     "text": "zawiesia jednokrotnego stosowania — integralną część opakowania ładunku w procesach przeładunkowo- -transportowych w relacji nadawca-odbiorca, po których następuje wycofanie jej z użytku niezależnie od stanu technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_3/pkt_17",
+     "text": "zespół roboczy — grupę pracowników przeładunkowych brygady zatrudnionych na wydzielonym odcinku pracy, niezbędnych do wykonania określonych zadań, zależnych od technologii przeładunku i wyposażenia stanowiska pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "WYMAGANIA OGÓLNE"
+  },
+  {
+   "type": "text",
+   "text": "Kwalifikacje i obowiązki pracowników"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Pracownik zatrudniony przy pracach określonych w§ 1 pkt 1 powinien posiadać kwalifikacje przewidziane we właściwym taryfikatorze kwalifikacyjnym oraz spełniać wymagania ustalone w rozporządzeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przy pracach określonych w § 1 pkt 1 może być zatrudniony wyłącznie pracownik, który ukończył 18 lat życia, uzyskał opinię o braku przeciwwskazań lekarskich do wykonywania tych prac oraz wykazał się znajomością zasad i przepisów bezpieczeństwa i higieny pracy obowiązujących przy ich wykonywaniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Prace wymagające uprawnień mogą wykonywać osoby posiadające odpowiednie zaświadczenie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Brygadzistą przeładunkowym może być pracownik z co najmniej dwuletnią praktyką przy przeładunkach portowych, przeszkolony w zakresie procesów przeładunkowych, przepisów ogólnych i szczegółowych bezpieczeństwa i higieny pracy, obowiązujących przy przeładunku portowym, posiadający wymagane uprawnienia i kwalifikacje przewidziane w taryfikatorze kwalifikacyjnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Brygadzista przeładunkowy organizuje, kieruje i nadzoruje przebieg prac przeładunkowych, składowych i manipulacyjnych, zgodnie z obowiązującymi przepisami bezpieczeństwa i higieny pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Jeden brygadzista przeładunkowy może kierować i nadzorować pracę kilku przeładunkowych zespołów roboczych przy przeładunku w relacjach pozaburtowych lub pracach manipulacyjnych pod warunkiem, że liczba zatrudnionych w tych zespołach nie przekracza 19 osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Przy przeładunku w relacjach burtowych ładunków jednorodnych o tej samej technologii pracy jeden brygadzista przeładunkowy może kierować i nadzorować pracę wszystkich przeładunkowych podzespołów roboczych zatrudnionych na jednym statku, a jednocześnie inny brygadzista przeładunkowy — wszystkich przeładunkowych podzespołów roboczych zatrudnionych na lądzie, niezależnie od liczby osób zatrudnionych w przeładunkowych podzespołach roboczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Przy pracach o dużym stopniu utrudnienia i zagrożenia bezpieczeństwa pracy, jak np. przeładunek za pomocą dwóch żurawi sprzężonych, przeładunek materiałów niebezpiecznych klas 1, 3, 6—8, pojazdów mechanicznych na kołach lub gąsienicach, wielkogabarytowych elementów konstrukcji przemysłowych itp., brygadzista przeładunkowy powinien kierować i nadzorować tylko jednym przeładunkowym zespołem roboczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Decyzję o obowiązku kierowania i nadzorowania przez brygadzistę przeładunkowego tylko jednym przeładunkowym zespołem roboczym podejmuje bezpośredni przełożony brygadzisty przeładunkowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Starszym brygadzistą przeładunkowym może być brygadzista przeładunkowy, który przez co najmniej dwa lata kierował brygadą przeładunkową i został przeszkolony w zakresie znajomości instrukcji pracy zarówno podległych, jak i współpracujących z nim pracowników.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Dźwignicowi i operatorzy urządzeń przeładunkowych podlegających organom dozoru technicznego powinni posiadać uprawnienia do pracy na wyżej wymienionych urządzeniach, wydane przez te organy, natomiast operatorzy urządzeń przeładunkowych będących pod nadzorem — odpowiednie pozwolenia wydane przez jednostki, w których są zatrudnieni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Pracownicy obsługujący przyciągarki, przepychacze wagonowe, kierownicy ciągników dokonujący przetaczania wagonów, jak również manewrowi powinni być przeszkoleni i poddani egzaminom sprawdzającym w zakresie przepisów dotyczących manewrowania, obowiązujących w przedsiębiorstwie Polskie Koleje Państwowe. .",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sprawy porządkowo-organizacyjne"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Przy stałych starowiskach pracy wymienionych w§1 pkt 1 powinny być wywieszone wyciągi z obowiązujących przepisów bezpieczeństwa i higieny pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Dla stanowisk pracy związanych z organizacją, nadzorem technicznym i wykonywaniem prac przeładunkowych zakłady pracy wydadzą szezegółowe instrukcje pracy określające obowiązki i odpowieazialność pracowników zatrudnionych na tych stanowiskach, z uwzględnieniem przepisów i zasad bezpieczeństwa i higieny pracy obowiązujących na danym stanowisku pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "W odniesieniu do prac przeładunkowych o złożonej technologii lub stwarzających znaczne zagrożenia dla luczi, urządzeń i sprzętu, zakłady pracy opracują szczegółowe instrukcje wykonywania tych prac.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Przejścia i miejsca niebezpieczne należy oznaczyć w sposób widoczny o każdej porze. Dostęp do tych miejsc należy uniemożliwić osobom niezatrudnionym za pomocą barier, ogrodzeń, zagród lub innych odpowiednich środków.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Tabliczki znamionowe, napisy ostrzegawcze, objaśniające itp. oraz aktualne cechy atestacji powinny być utrzymane w stanie czystym i czytelnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Napisy ostrzegawcze i informacyjne powinny być podane w języku polskim i angielskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Zakład pracy powinien zapewnić pracownikom możliwość korzystania z szatni, jadalni, urządzeń higienicznosanitarnych, palarni, pomieszczeń do ogrzewania się pracowników itp. Pomieszczenia te i urządzenia powinny spełniać wymagania określone w obowiązujących przepisach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Ustępy oraz pomieszczenia do ogrzewania się pracowników powinny znajdować się możliwie blisko stanowisk pracy. W przypadku braku możliwości zapewnienia urządzeń stacjonarnych, należy przewidzieć urządzenia przewoźne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Szatnie, umywalnie, pomieszczenia natrysków i jada- Inie powinny znajdować się możliwie w centralnym punkcie danego rejonu portu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Dla pracowników, których odzież robocza ulega zamoczeniu, sposób przechowywania odzieży i wyposażenie szatni powinny zapewnić wysuszenie odzieży przed następnym jej użyciem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Kierownictwo statku powinno wydzielić jeden ustęp dla potrzeb pracowników zatrudnionych przy przeładunku. Nie dotyczy to przypadków, gdy ze względu na techniczne wyposażenie statku i warunki miejscowe portu użytkowanie ustępów w czasie postoju statku w porcie jest zabronione.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Operatorów żurawi należy każdorazowo powiadamiać o przekroczeniu dopuszczalnej granicy siły wiatru, w trybie ustalonym dla danego portu, w celu przerwania prac przeładunkowych i zabezpieczenia żurawi zgodnie z obowiązującymi przepisami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Personel obsługi placów i magazynów składowych oraz brygadziści przeładunkowi zatrudnieni na terenie składowisk powinni być wyposażeni w latarki bateryjne lub akumulatorowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Naterenie portu powinny być urządzone punkty pierwszej pomocy medycznej, wyposażone w apteczki podręczne, obsługiwane przez pracowników przeszkolonych - w udzielaniu pierwszej pomocy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Punkty pierwszej pomocy powinny być rozmieszczone we wszystkizh magazynach oraz jak najbliżej miejsc przeładunkowych. Purikty te powinny być oznakowane w sposób widoczny oraz „powinny posiadać informacje o telefonach pogotowia ratuni owego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Wyposażenie apteczek pierwszej pomocy powinno być dostosowane m.in. do zagrożeń występujących na danym terenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Jeżeli przeładunek odbywa się w odległości powyżej 500 m od najbliższego punktu pierwszej pomocy medycznej, w miejscu pracy powinna znajdować się przenośna apteczka pierwszej pomocy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Na nąbrzzżach portowych powinny znajdować się nosze ratunkowe lub inne urządzenia dostosowane do wynoszenia poszkodowanych z ładowni przy użyciu urządzeń dźwignicowych. Miejsca składowania noszy powinny być łatwo dostępne i oznakowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Jeżeli w razie wypadku publiczne środki transportu sanitarnego nie mogą zapewnić szybkiego przewozu chorych, to zakład pracy powinien zapewnić odpowiednie środki transportu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nabrzeża, pomosty, pirsy, mola, falochrony, drogi i place składowe"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Na nabrzeżach przeznaczonych do przeładunku drobnicy i drewna nawierzchnia powinna być zrównana z górną powierzchnią szyn kolejowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Na nabrzeżach przeznaczonych do przeładunku ładunków masowych o poziomie nawierzchni w stosunku do górnej powierzchni szyn kolejowych decyduje użytkownik.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Szerokość dróg powinna być dostosowana do używanych środków przeładunkowo-transportowych i do stopnia nasilenia ruchu drogowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Przejścia dla pieszych powinny być w miarę możliwości tak rozplanowane, aby były jak najrzadziej skrzyżowane z drogami komunikacji kolejowej i drogowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Chodniki powinny być oddzielone od jezdni krawężnikami i w miarę możliwości pasem zieleni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Szerokość chodnika powinna wynosić co najmniej 1,2 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Wzdłuż nabrzeży i pomostów należy pozostawić wolne przejście, tworzące tzw. ścieżkę cumowniczą, o szerokości nie mniejszej niż 1,2 m licząc od krawędzi nabrzeża lub pomostu. Za wolne przejście uważa się równe płaszczyzny między krawędziami nabrzeża lub pomostów a urządzeniami. Na ścieżce cumowniczej mogą się znajdować tylko urządzenia cumownicze, urządzenia do wyjścia z basenu na nabrzeże i kryte wnęki służące do podłączenia energii elektrycznej, telefonów itp. Pokrywy wnęk, ich zawiasy oraz uchwyty służące do podnoszenia pokryw nie mogą wystawać ponad powierzchnię ścieżki cumowniczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Zaleca się, aby obiekty hydrotechniczne, jak nabrzeża, pirsy, mola, pomosty itp., po których przy ścianie odwodnej odbywa się ruch pojazdów, były wyposażone od strony odwodnej w stałe lub rozbieralne krawężniki o wysokości nie mniejszej niż 0,15 m z przerwami w rejonie usytuowania urządzeń cumowniczych i w miejscach wjazdu na statki. Konstrukcja krawężników powinna zapewnić odpływ wód opadowych oraz wód z topniejącego lodu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Urządzeniacumownicze na nabrzeżach powinny być usytuowane tak, aby nie przeszkadzały ruchom żurawi i aby między tymi urządzeniami a skrajnią żurawi pozostawała odległość nie mniejsza niż 0,25 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Urządzenia cumownicze, których wytrzymałość jest zapewniona tylko w pewnym sektorze, powinny mieć trwałe i widoczne oznakowanie kierunków, w których dopuszcza się zakładanie cum.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Nabrzeża, pomosty, pirsy i falochrony powinny być zaopatrzone w drabinki, rozmieszczone w odstępach nie większych niż 50 m. Drabinki powinny:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_1/pkt_1",
+       "text": "być o odpowiedniej wytrzymałości, umieszczone we wnęce tak, aby nie wystawały poza odwodną ścianę nabrzeża,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_1/pkt_2",
+       "text": "sięgać 0,5 m poniżej ustalonego, najniższego stanu wody w danym akwenie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_23/ust_1/pkt_3",
+       "text": "posiadać w górnej części uchwyty, poręcze lub inne urządzenie umożliwiające bezpieczne i wygodne wejścia i zejścia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_23/ust_1/pkt_4",
+       "text": "posiadać szerokość użyteczną nie mniejszą niż 0,3 m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_23/ust_1/pkt_5",
+       "text": "posiadać szczeble w odległości od 0,28 m do 0,35 m,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_23/ust_1/pkt_6",
+       "text": "być montowane tak, aby szczeble drabinek znajdowały się co najmniej 0,15 m od ścian lub innych równoległych powierzchni znajdujących się za drabinką,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_23/ust_1/pkt_7",
+       "text": "być tak skonstruowane, aby były odporne na zniszczenie przez krę lodową dociskaną przez statki; dopuszcza się wykonanie dolnej części drabinki z łańcucha ze szczeblami sztywnymi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Naobiektach tymczasowych dopuszcza się stosowanie drabinek linowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Nabrzeża powinny być zaopatrzone w zaczepy umożliwiające przywiązanie siatki zabezpieczającej ludzi idących po trapie lub przenoszony ładunek przed wpadnięciem do wody. Zaczepy powinny być tak umieszczone, aby nie powodowały zagrożenia w komunikacji pieszej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_23/ust_4",
+     "text": "Na nabrzeżach zabrania się zakładania pierścieni cumowniczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Obiekty hydrotechniczne w miejscach zejść do jednostek pływających powinny być zaopatrzone w poręcze; w miejscach uskoków należy zainstalować barierki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Na placach miejsca do składowania ładunków powinny być oznakowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Miejsca wyznaczone i oznakowane na składowanie ładunków powinny być zaopatrzone w tablice z podaniem dopuszczalnego obciążenia na metr kwadratowy powierzchni składowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Jeżeli w bramach portowych występuje jednocześnie ruch pieszy, drogowy i kolejowy, to bramy te powinny mieć oddzielne pasma dla poszczególnych rodzajów ruchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Dla pojazdów mechanicznych i rowerów powinny być wyznaczone oznakowane parkingi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Magazyny"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Budynki przeznaczone do składowania ładunków powinny być wykonane z materiałów ognioodpornych lub materiałów ogniotrwałych, jeżeli rodzaj składowanych ładunków tego wymaga.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Szerokość ramp powinna być dostosowana do rodzajów stosowanych środków transportowych, gabarytów przemieszczanych ładunków oraz rodzajów prac prowadzonych na rampach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Rampy powinny mieć wejścia rozmieszczone w odległościach nie większych niż 50 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Jeżeli wzdłuż ramp instalowane są gniazda wtykowe sieci elektrycznej, to napięcie w sieci powinno być bezpieczne, zgodnie z obowiązującymi przepisami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Wymiary bram powinny być dostosowane do środków transportowych używanych w magazynach oraz do wymiarów transportowanych ładunków, przy czym wysokość bramy nie powinna być mniejsza niż 3,5 m, a szerokość 3 m.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Bramy otwierane na boki powinny być wyposażone w zaczepy umożliwiające zamocowanie ich w położeniu otwartym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Bramy rozsuwane powinny mieć ograniczniki położeń krańcowych, zabezpieczenie przed wypadnięciem z prowadnic oraz być wyposażone w uchwyty do rąk tak skonstruowane, aby przy rozsuwaniu niemożliwe było przyciśnięcie dłoni do krawędzi otworu bramy. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Bramy podnoszone powinny być wyposażone w urządzenia zabezpieczające je przed samoczynnym opadnięciem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "Przeciwwagi bram powinny być osłonięte na całej długości przemieszczania się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_30/ust_5",
+     "text": "Bramy zamykane za pomocą urządzeń mechanicznych powinny posiadać sygnalizację ostrzegawczą. Sygnalizacja powinna być uruchamiana automatycznie z chwilą otwierania lub zamykania bramy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Szerokość dróg w magazynach przy ruchu jednokierunkowym powinna być o co najmniej 0,9 m większa od szerokości załadowanego środka transportu, a przy ruchu dwukierunkowym — o co najmniej 1,2 m większa od podwójnej szerokości załadowanego środka transportu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Szerokość drogi dojazdowej z rampy lub nabrzeża powinna być równa przynajmniej szerokości bramy magazy-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Przy stosowaniu środków transportu ręcznego szerokości dróg ustalone w ust. 1 mogą być zmniejszone o 0,3 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Magazyny powinny posiadać wentylację naturalną. Jeżeli ze względu na składowane ładunki i wydzielane przez nie czynniki szkodliwe wentylacja naturalna jest niedostateczna, powinna być przewidziana odpowiednia wentylacja mechaniczna.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "W magazynach-chłodniach powinna być założona w pomieszczeniach chłodzonych instalacja sygnalizująca zamknięcie człowieka wewnątrz pomieszczenia. Włącznik urządzenia sygnalizującego powinien być oznaczony stale świecącym się punktem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Oświetlenie i urządzenia elektryczne"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Drogi, nabrzeża, magazyny, pomosty, urządzenia cumownicze, dojścia do statków, miejsca pracy na otwartym terenie, w ładowniach, wagonach oraz innych pomieszczeniach zamkniętych, w których odbywa się przeładunek i składowanie ładunków, powinny być oświetlone według obowiązujących norm i przepisów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Punkty świetlne powinny być rozmieszczone w taki sposób, aby nie utrudniały rozpoznania świateł oznakowania nawigacyjnego w porcie i na statkach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "W magazynach powinny być zainstalowane wyłączniki światła w poszczególnych pomieszczeniach lub rejonach oraz centralne wyłączniki całej instalacji oświetleniowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_37/ust_1",
+     "text": "Stałe i przenośne oświetlenie ładowni statków powinno być zasilane z sieci statkowej. Jeżeli statek w czasie przeładunku nie posiada własnych źródeł zasilania instalacji oświetleniowej, to pobieranie energii ze źródła zewnętrznego powinno być przeprowadzone za pośrednictwem statkowego przyłącza zasilania. Na statkach z instalacją elektryczną małej mocy dopuszcza się podłączenie kabla, zasilającego sieć statku z zewnętrznego źródła energii elektrycznej, bezpośrednio do rozdzielnicy głównej. Przyłącza te powinny spełniać wymagania przepisów instytucji klasyfikacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_37/ust_2",
+     "text": "Dopuszcza się zasilanie przenośnych lamp oświetleniowych bezpośrednio z sieci lądowej, o ile jest ona zasilana napięciem bezpiecznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "W przenośnych urządzeniach technicznych, czasowo eksploatowanych na statku, a zasilanych z lądu prądem elektrycznym o napięciu powyżej bezpiecznego, należy za-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "stosować, odpowiednio do rodzaju lądowej sieci zasilającej, uziemienie ochronne (do stalowej konstrukcji kadłuba statku), zerowanie, separację napięcia lub obniżenie napięcia do wartości bezpiecznej."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "URZĄDZENIA PRZEŁADUNKOWE"
+  },
+  {
+   "type": "text",
+   "text": "Wymagania ogólne"
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Urządzenia przeładunkowe podlegające organom dozoru technicznego powinny być projektowane, wytwarzane, eksploatowane i naprawiane według obowiązujących przepisów dozoru technicznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Haki i urządzenia chwytne dźwignic powinny odpowiadać wymaganiom norm przedmiotowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Wykonywanie przez organy dozoru technicznego czynności dozorowych nie zwalnia użytkowników i jednostek naprawiających urządzenia przeładunkowe od odpowiedzialności za ich odpowiednią jakość, zgodną z normami i przepisami dozoru technicznego, a także za dbałość o ich właściwą eksploatację i naprawę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Zakłady pracy eksploatujące urządzenia przeładunkowe nie objęte dozorem powinny zorganizować we własnym zakresie nadzór techniczny oraz wydać instrukcje dotyczące prowadzenia ewidencji, kontroli, sprawdzania wytrzymałości i warunków obsługi tych urządzeń.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Liczba pracowników konieczna do obsługi urządzenia przeładunkowego powinna być określona w instrukcji obsługi danego urządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "Urządzenia przeładunkowe powinny mieć ustalone dopuszczalne obciążenie robocze, nośność lub dopuszczalny zakres ich stosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Urządzenia przeładunkowe będące pod nadzorem technicznym, z wyjątkiem narzędzi stosowanych w przeładunku, powinny posiadać świadectwo wydane przez wytwórcę oraz aktualną cechę atestacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Kontrola bieżąca haków i innych urządzeń chwytnych pod względem ich zużycia i ustalenia przydatności do dalszej pracy powinna być przeprowadzona przed rozpoczęciem każdej zmiany roboczej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pojazdy silnikowe"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_47/ust_1",
+     "text": "Stanowisko operatora wózka silnikowego powinno być wyposażone w osłonę chroniącą operatora przed urazami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_47/ust_2",
+     "text": "Wózki silnikowe używane jako ciągniki powinny być wyposażone w sprzęgi zabezpieczone przed samoczynnym odłączeniem się przyczepy od ciągnika podczas jazdy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_47/ust_3",
+     "text": "Wózki silnikowe stosowane do prac przeładunkowych w ładowniach statków i w magazynach wielopoziomowych (z balkonami) powinny posiadać — obok standardowego wyposażenia — dodatkowe uchwyty służące do przemieszczania wózków za pomocą urządzeń dźwignicowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_47/ust_4",
+     "text": "Wózki silnikowe na oponach powinny posiadać oznakowanie nominalnego ciśnienia w oponach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "Pojazdy używane do przewozu kontenerów powinny być tak skonstruowane i wyposażone, by przewożone kontenery mogły być oparte na narożach i mocowane do pojazdu za pomocą urządzeń zaczepowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przenośniki grawitacyjne"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "Prędkość końcowa ładunku w miejscach odbioru dla przenośników prostych i spiralnych przy odbiorze ręcznym nie powinna przekraczać 0,75 m/s.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Przenośniki proste typu otwartego (ześlizgi) do drobnicy powinny być zaopatrzone po obu stronach w prowadnice takiej wysokości, aby zapobiegały wypadaniu ładunków podczas ich ruchu. Wysokość prowadnic nie może być mniejsza niż 0,4 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Powierzchnia ślizgów oraz obrzeża przenośnika prostego do transportu bawełny i podobnych ładunków łatwo zapalnych powinny być wyłożone materiałem nieiskrzącym (np. drewnem), a główki gwoździ lub inne części metalowe, jeżeli są z materiału iskrzącego, powinny być zakryte materiałem nieiskrzącym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_50/ust_3",
+     "text": "Miejsca odbioru ładunków z przenośnika powinny być wyposażone w urządzenia zatrzymujące ładunek w celu zabezpieczenia pracowników przed uderzeniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "Otwarte przenośniki spiralne, przeznaczone do drobnicy, powinny być wyposażone w obrzeża zabezpieczające ładunek przed wypadnięciem. Wysokość obrzeża powinna wynosić co najmniej 2/3 wysokości największej jednostki przesuwanego ładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "Odstęp między osiami rolek w przenośnikach rolkowych powinien być taki, aby najkrótsza jednostka przesuwanego ładunku spoczywała co najmniej na trzech rolkach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przenośniki mechaniczne"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "Włączniki napędu przenośników, których elementy nośne są niewidoczne ze stanowiska sterowania, powinny być sprzężone z instalacją sygnalizacji dźwiękowej i świetlnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Sygnalizacja powinna być dobrze słyszalna, szczególnie na odcinku niewidocznym ze stanowiska sterowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_53/ust_3",
+     "text": "Sygnalizacja powinna się włączyć co najmniej 20 sekund przed włączeniem napędu urządzenia nośnego i wyłączyć się po włączeniu napędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Napęd przenośnika skośnego powinien być wyposażony w hamulec działający automatycznie z chwilą zaniku napięcia oraz wykluczający włączenie się napędu po przywróceniu zasilania. Powtórne uruchomienie przenośnika powinno nastąpić tylko z zerowego położenia sterowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "System sterowania powinien zapewnić natychmiastowe zatrzymanie przenośnika w dowolnym położeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_54/ust_3",
+     "text": "Przenośniki stałe, niezależnie od wymagania ust. 1, powinny mieć wyłączniki awaryjne umieszczone w łatwo dostępnych i dobrze oświetlonych miejscach, w odstępach nie przekraczających 25 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "Jeżeli przenośnik składa się z dwóch lub więcej członów, to wyłączenie napędu jednego z członów powinno automatycznie wyłączyć napędy członów poprzedzających.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Stałe stanowiska pracy przenośnika ładunków masowych powinny być zabezpieczone przed opadami atmosferycznymi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Miejsca przekazu ładunku z jednego przenośnika na drugi powinny być osłonięte.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "Przejścia komunikacyjne wzdłuż przenośników powinny mieć szerokość co najmniej 1,0 m.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "Gniazda wtykowe, przeznaczone do wtyków kabli zasilających silniki elektryczne przenośników przewoźnych, powinny być jednego typu i posiadać automatycznie zamykające się osłony.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "Złącza końców taśmy przenośników powinny być obustronnie gładkie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "Przenośniki taśmowe, przeznaczone do ładunków sypkich, powinny być wyposażone w urządzenia do czyszczenia taśmy z pozostałości ładunku.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przyciągarki"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_62/ust_1",
+     "text": "Przyciągarki z liną nawijaną na bęben powinny być wyposażone w hamulec i urządzenia zabezpieczające przed przeciążeniem oraz w czerwone światło ostrzegawcze czynne od zmroku do świtu i w porze złej widoczności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_62/ust_2",
+     "text": "Bębny linowe przyciągarek powinny być zaopatrzone w obustronne tarcze zapobiegające spadaniu liny z bębna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_62/ust_3",
+     "text": "Stanowisko operatora powinno posiadać zabezpieczenie przed możliwością doznania urazu przez urwany uchwyt wagonu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "Przyciągarki z liną obiegową bez końca powinny być zaopatrzone w wyłączniki awaryjne rozmieszczone w odstępach nie przekraczających 50 m i usytuowane wzdłuż odcinka torów, obok którego biegnie lina, w miejscach łatwo dostępnych, a w porze nocnej dobrze oświetlonych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "64",
+   "path": "par_64",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_64/ust_1",
+     "text": "Prędkość przetaczania wagonów przyciągarkami nie powinna przekraczać 5 km/h.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_64/ust_2",
+     "text": "Dozwolona liczba przetaczanych wagonów powinna być określona w instrukcji obsługi przyciągarki, z uwzględnieniem warunków terenowych oraz pracy w porze letniej i zimowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "65",
+   "path": "par_65",
+   "text": "Liny przyciągarek wykazujące zużycie lub uszkodzenia określone w § 78 ust. 1 powinny być wymienione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "Podczas pracy przyciągarek zabrania się przebywania i przechodzenia w zasięgu pracujących lin.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "Zabrania się przeciągania liny przyciągarki wagonowej przez drogi komunikacyjne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "68",
+   "path": "par_68",
+   "text": "W portach morskich na nabrzeżach typowo drobnicowych | strefy przeładunkowej zabrania się instalowania przyciągarek wagonowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pomocniczy sprzęt przeładunkowy i magazynowo-placowy"
+    },
+    {
+     "type": "text",
+     "text": "Wymagania ogólne"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "69",
+   "path": "par_69",
+   "text": "Pomocniczy sprzęt przeładunkowy i magazynowo-placowy (w dalszej części nazywany sprzętem) powinien być bezpieczny dla obsługi, niezawodny w użyciu, czynić zadość wymaganiom wytrzymałościowym, mieć jak najmniejszą masę, pozwalać na szybkie i dogodne uchwycenie i zwolnienie ładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "70",
+   "path": "par_70",
+   "text": "Zabrania się używania sprzętu nieatestowanego, nie odpowiadającego normom przedmiotowym lub dokumentacji technicznej oraz nie oznakowanego w sposób wyraźny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "71",
+   "path": "par_71",
+   "text": "Materiały i elementy użyte do wyrobu sprzętu powinny spełniać wymagania norm i zachowywać swoje właściwości fizyczno-mechaniczne w temperaturze od 253° do 323°K (—20° do 50°C).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "72",
+   "path": "par_72",
+   "text": "Liny, łańcuchy, pasy, taśmy i wszystkie inne elementy nośne, jak np.: ogniwa łącznikowe, haki, uchwyty itp. powinny być wykonane z materiałów atestowanych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "73",
+   "path": "par_73",
+   "text": "Liny stalowe sprzętu powinny mieć wytrzymałość na rozrywanie od 1400 do 1800 MPa (140 do 160 kG/mm?).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "74",
+   "path": "par_74",
+   "text": "Minimalne wartości współczynników bezpieczeństwa dla lin i łańcuchów sprzętu powinny być przyjmowane według tablicy stanowiącej załącznik do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "75",
+   "path": "par_75",
+   "text": "Ogniwa łącznikowe sprzętu powinny być zamykane za pomocą zgrzewania, spawania, specjalnych śrub bądź innych elementów łączących, przeznaczonych do tego celu i wykonanych zgodnie z wymaganiami norm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "76",
+   "path": "par_76",
+   "text": "Zaplatanie kausz, uch i pętli sprzętu należy wykonać przez przeplatanie splotek liny lub stosowanie tulejek zaciskowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "77",
+   "path": "par_77",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_77/ust_1",
+     "text": "Sprzęt będący w eksploatacji, z wyjątkiem narzędzi stosowanych w przeładunku, powinien być poddawany kontroli bieżącej i kontroli okresowej. Narzędzia stosowane przy pracach przeładunkowych podlegają kontroli bieżącej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_77/ust_2",
+     "text": "Kontrola bieżąca powinna polegać na oględzinach sprzętu przed przystąpieniem do pracy, przed rozpoczęciem każdej zmiany i w czasie jego użytkowania. Zadaniem kontroli jest sprawdzenie, czy poszczególne elementy sprzętu nie doznały niebezpiecznych dla dalszej jego pracy uszkodzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_77/ust_3",
+     "text": "Kontrola okresowa sprzętu, przeprowadzana przez pracowników nadzoru technicznego, powinna polegać na szczegółowym przeglądzie, określeniu stopnia zużycia oraz przydatności do dalszego użytkowania. Kontrola okresowa powinna być przeprowadzana co najmniej raz na trzy miesiące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "78",
+   "path": "par_78",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_78/ust_1",
+     "text": "Sprzęt powinien być natychmiast wycofany z eksploatacji, gdy ma pęknięcia, trwałe odkształcenia lub widoczne zużycia, które spowodowały zmniejszenie pierwotnej grubości lub średnicy powyżej 10% nominalnej wielkości w dowolnym miejscu oraz gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_78/ust_1/pkt_1",
+       "text": "liny stalowe:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_78/ust_1/pkt_1/lit_a",
+         "text": "na odcinku liny równym 8 jej średnicom liczba widocznych pęknięć wynosi 10% lub więcej całkowitej liczby drutów w linie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_78/ust_1/pkt_1/lit_b",
+         "text": "wykazują oznaki silnego zużycia, przerdzewienia, zerwania splotek lub inne uszkodzenia,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_78/ust_1/pkt_2",
+       "text": "liny z włókien naturalnych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_78/ust_1/pkt_2/lit_a",
+         "text": "mają zerwane lub rozkręcone sploty, przecięcia, postrzępienia czy oznaki butwienia lub wyraźne przewężenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_78/ust_1/pkt_2/lit_b",
+         "text": "mają wydłużone cięgna o więcej niż 10% w stosunku do pierwotnej długości,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_78/ust_1/pkt_3",
+       "text": "liny i taśmy z włókien syntetycznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_78/ust_1/pkt_3/lit_a",
+         "text": "nastąpiło przerwanie przędzy taśmy lub pętli pasów przy obrzeżach spowodowane uszkodzeniem mechanicznym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_78/ust_1/pkt_3/lit_b",
+         "text": "nastąpiło zerwanie splotów liny, przecięcie, rozkręcenie splotów bądź wyraźne przewężenie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_78/ust_1/pkt_3/lit_c",
+         "text": "nastąpiło uszkodzenie mechaniczne lub przetopienie przędzy na minimum 10% szerokości taśmy lub średnicy liny,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_78/ust_1/pkt_4",
+       "text": "łańcuchy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_78/ust_1/pkt_4/lit_a",
+         "text": "zużycie pręta ogniwa przekracza 20% pierwotnej jego średnicy,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_78/ust_1/pkt_4/lit_b",
+         "text": "ogniwa uległy deformacji lub wykazują inne widoczne uszkodzenia,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_78/ust_1/pkt_5",
+       "text": "bloki:",
+       "children": [
+        {
+         "type": "text",
+         "text": "mają niewyraźne cechy, pęknięte lub nie obracające się krążki, okaleczone krawędzie, zgięte lub wytarte osie."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_78/ust_2",
+     "text": "Sprzęt wycofany z eksploatacji nie powinien być przechowywany razem ze sprzętem zdatnym do użytku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_78/ust_3",
+     "text": "Do przechowywania wycofanych zawiesi powinno być w magazynie wydzielone pomieszczenie zamykane na klucz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "79",
+   "path": "par_79",
+   "text": "Sprzęt, o ile normy przedmiotowe nie stanowią inaczej, powinien być badany pod próbnym obciążeniem statycznym zgodnie z instrukcją technologiczną w następujących przypadkach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_79/pkt_1",
+     "text": "po wykonaniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_79/pkt_2",
+     "text": "przed wprowadzeniem do eksploatacji nowych elementów sprzętu, o ile nie zostało stwierdzone w zaświadczeniu producenta, że były badane po wykonaniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_79/pkt_3",
+     "text": "po każdej naprawie lub przeróbce,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_79/pkt_4",
+     "text": "po wyżarzeniu okresowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "80",
+   "path": "par_80",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_80/ust_1",
+     "text": "Badania sprzętu powinny być wykonane przez jednostki organizacyjne posiadające odpowiednie wyposażenie i wykwalifikowanych pracowników, które po stwierdzeniu, że badany sprzęt lub jego elementy nie uległy uszkodzeniu w czasie prób, wykonują na nim trwałe i wyraźne oznaczenie dopuszczalnego obciążenia roboczego, o ile uległo ono zmianie, oraz daty wykonania badań. Jednostki te, w oparciu o posiadane uprawnienia, mają obowiązek wystawienia zaświadczeń o wykonanych badaniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_80/ust_2",
+     "text": "Sprzęt złożony z elementów, które posiadają ważne zaświadczenie o wykonanych badaniach, nie musi być poddany badaniom.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "81",
+   "path": "par_81",
+   "text": "Łańcuchy, pierścienie, haki, ogniwa łącznikowe i krętliki sprzętu, o ile normy nie stanowią inaczej, powinny być odpowiednio wyżarzone (wyżarzenie odprężające) w następujących przypadkach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_81/pkt_1",
+     "text": "przed wprowadzeniem do eksploatacji nowych elementów sprzętu, jeżeli nie zostało stwierdzone w zaświadczeniach producenta, że były wyżarzone bądź nie wyrażono przeciwwskazań wyżarzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_81/pkt_2",
+     "text": "po naprawie lub przeróbce,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_81/pkt_3",
+     "text": "jeżeli producent zalecił wyżarzanie okresowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "82",
+   "path": "par_82",
+   "text": "Eksploatowany sprzęt lub jego elementy wykonane ze stali zgrzewnej, niezależnie od wymagań § 81, podlegają okresowemu wyżarzaniu co 12 miesięcy, o ile producent nie zalecił inaczej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "83",
+   "path": "par_83",
+   "text": "Sprzęt po zakończeniu pracy, jeżeli nie jest przekazywany następnej zmianie, powinien być natychmiast oddany do magazynu w celu sprawdzenia jego dalszej przydatności do bezpiecznej pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "84",
+   "path": "par_84",
+   "text": "W magazanie sprzętu powinny być prowadzone oddzielne kartoteki dla każdego rodzaju sprzętu, w których powinny być odnotowywane informacje dotyczące przeglądów, badań i konserwacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "85",
+   "path": "par_85",
+   "text": "Karty katologowe pomocniczego sprzętu przeładunkowego powinny określać również m.in. warunki przechowywania i konserwacji tego sprzętu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "86",
+   "path": "par_86",
+   "text": "Sprzęt, którego masa przekracza 50 kg, powinien mieć wybitą cechę podającą jego masę.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zawiesia"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "87",
+   "path": "par_87",
+   "text": "Ucha i pętle zawiesi lin z włókien naturalnych © i syntetycznych powinny być zaplatane. Dla lin z włókien syntetycznych dopuszcza się, w uzgodnieniu z zamawiającym, inne wykonanie łączeń lin, np. przy użyciu specjalnych złączek metalowych lub z tworzyw sztucznych zaciskanych mechanicznie lub spajanych termicznie z liną, dające trwałe połączenie liny i wytrzymałość nie mniejszą od łączeń zaplatanych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "88",
+   "path": "par_88",
+   "text": "Zawiesia wielocięgnowe powinny być wykonane z zawiesi jednocięgnowych. Cięgna parami powinny być uchwycone ogniwami łączącymi pośrednimi, a ogniwa pośrednie uchwycone wspólnym ogniwem zbiorczym. W przypadku nieparzystej liczby cięgien w zawiesiu dopuszcza się łączenie trzech cięgien jednym ogniwem zbiorczym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "89",
+   "path": "par_89",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_89/ust_1",
+     "text": "Jeżeli warunki eksploatacyjne na to pozwalają, można stosować łączenie cięgien zawiesia z hakiem i pierścieniami za pomocą rozłącznych szakli i ogniw lub innych równorzędnych łączników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_89/ust_2",
+     "text": "Zabrania się przedłużania zawiesi wykonanych z lin lewoskrętnych zawiesiami z lin prawoskrętnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "90",
+   "path": "par_90",
+   "text": "Cecha zawiesi jednociegnowych i pętlowych wykonanych z lin lub łańcuchów powinna zawierać dwa określenia DOR odnoszące się do sposobu użytkowania zawiesia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_90/pkt_1",
+     "text": "do zawieszania lub podtrzymywania ładunku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_90/pkt_2",
+     "text": "do zawieszania ładunku przy jednoczesnymn jego obwiązaniu. |",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "91",
+   "path": "par_91",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_91/ust_1",
+     "text": "Dopuszczalne obciążenie robocze zawiesi dwu- i wielocięgnowych w zależności od kąta wierzchołkowego « mierzonego po przekątnej między cięgnami, po naprężeniu zawiesia, podlega obniżeniu: przy kącie O°<a< 45° — o 10% DOR 45°<a< 90° — o 30% DOR 90°<a<120° — o 50% DOR",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_91/ust_2",
+     "text": "Zabrania się przekraczania kata wierzchotkowego ponad 120°.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "92",
+   "path": "par_92",
+   "text": "Przy określeniu DOR zawiesia wielocięgnowego należy przyjąć, że w zawiesiu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_92/pkt_1",
+     "text": "dwucięgnowym — pracują dwa cięgna przy równomiernym obciążeniu zawiesia; jeżeli unos przemieszczany jest ukośnie, to przyjmuje się tylko jedno cięgno jako nośne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_92/pkt_2",
+     "text": "trzycięgnowym iczterocięgnowym — pracują trzy cięgna,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_92/pkt_3",
+     "text": "o obwodzie zamkniętym — pracują dwa cięgna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "93",
+   "path": "par_93",
+   "text": "Przy użyciu dwóch zawiesi o obwodzie zamkniętym, gdy układ cięgien nie zapewnia równomiernego obciążenia, łączne obciążenie nie powinno przekraczać wielkości DOR jednego zawiesia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "94",
+   "path": "par_94",
+   "text": "W zawiesiach łańcuchowych pracujących w warunkach, w których temperatura otoczenia znacznie odbiega od przeciętnej, zaleca się obniżenie wartości obciążenia roboczego o 50% przy temperaturach poniżej 253°K (—20°C) oraz 25% przy temperaturach od 253° do 263°K (—20° do —10°C).",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "95",
+   "path": "par_95",
+   "text": "W magazynach sprzętu pomocniczego, w dobrze widocznych miejscach, powinny być umieszczone tablice wskazujące dopuszczalne obciążenie zawiesi z lin, pasów i łańcuchów w zależności od:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_95/pkt_1",
+     "text": "sposobu zawieszenia ładunku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_95/pkt_2",
+     "text": "kątów rozwarcia lub odchylenia cięgien od pionu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_95/pkt_3",
+     "text": "temperatury otoczenia, znacznie odbiegającej od przeciętnej dla zawiesi wykonanych ze stali niskowęglowej (np. łańcuchów).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zaleca się wywieszanie tablic również na nabrzeżach drobnicowych w pobliżu miejsc używania sprzętu pomocniczego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "96",
+   "path": "par_96",
+   "text": "Gardziele haków współpracujących z zawiesiami pasowymi powinny mieć szerokość odpowiadającą szerokości pasów, a ich obrzeża powinny być zaokrąglone.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "97",
+   "path": "par_97",
+   "text": "Zabrania się skracania zawiesia przez robienie węzłów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Mostki, pomosty, płyty, palety i tace ładunkowe"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "98",
+   "path": "par_98",
+   "text": "Mostki i płyty służące do łączenia wagonu z rampą lub wagonu z wagonem powinny być zaopatrzone w zaczepy lub inne urządzenia zabezpieczające przed nieumyślnym przesunięciem, a ich powierzchnia robocza powinna utrudniać poślizg.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "99",
+   "path": "par_99",
+   "text": "Pomosty, stojaki, kozły i inne urządzenia powinny mieć na widocznym miejscu trwałe i wyraźne oznakowanie dopuszczalnego obciążenia roboczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "100",
+   "path": "par_100",
+   "text": "Jeżeli górna powierzchnia pomostów znajduje się powyżej 1,0 m ponad ziemią (podłogą), to na bocznych krawędziach pomostu zaleca się osadzenie składanych barier.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "101",
+   "path": "par_101",
+   "text": "Pomosty przejezdne powinny być wyposażone w urządzenia hamulcowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "102",
+   "path": "par_102",
+   "text": "Pomosty przejezdne i płyty przeznaczone do budowy pomostów i stołów ładunkowych powinny mieć urządzenia do sprzęgania, umożliwiające skuteczne ich łączenie obok lub wzdłuż siebie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "103",
+   "path": "par_103",
+   "text": "Dolne powierzchnie drewnianych tac ładunkowych powinny być wzmocnione oraz zakończone uchami lub innymi elementami do zawieszenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "104",
+   "path": "par_104",
+   "text": "Do przeładunku ładunków w balonach oraz ładunków niebezpiecznych kl. 1 i 7 kat. O i A powinny być stosowane palety i tace ładunkowe ze ścianami bocznymi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Chwytniki elektromagnetyczne"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "105",
+   "path": "par_105",
+   "text": "Stosowanie chwytników elektromagnetycznych do przeładunku na statek lub ze statku jest zabronione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "106",
+   "path": "par_106",
+   "text": "Chwytniki elektromagnetyczne mogą być stosowane do innych prac niż wymienione w § 105, jeśli napięcie ich zasilania nie zmienia się w zakresie większym niż + 10%.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "107",
+   "path": "par_107",
+   "text": "Chwytnik elektromagnetyczny powinien być zabezpieczony przed zawilgoceniem wnętrza.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "108",
+   "path": "par_108",
+   "text": "Hak, na którym wisi chwytnik elektromagnetyczny, powinien być zabezpieczony przed obracaniem się oraz posiadać urządzenie zabezpieczające przed spadnięciem chwytnika.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bloki sztauerskie otwierane"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "109",
+   "path": "par_109",
+   "text": "Masa bloków przenoszonych ręcznie nie powinna przekraczać 50 kg.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "110",
+   "path": "par_110",
+   "text": "Zamknięcie otwieranej części metalowego jarzma bloku powinno być zabezpieczone w taki sposób, aby nie mogło ono otwierać się samoczynnie podczas pracy i aby liny nie dostawały się między krążek a jarzmo.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "111",
+   "path": "par_111",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_111/ust_1",
+     "text": "Bloki używane w ładowni statków powinny być mocowane w wyznaczonych miejscach, za pomocą sworzniowych ogniw łącznikowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_111/ust_2",
+     "text": "Mocowanie bloków na rozpornicach jest niedopuszczalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_111/ust_3",
+     "text": "Jeżeli wręgi nie są wyposażone w urządzenia do mocowania bloków, to bloki powinny być mocowane przy użyciu uchwytów wykonanych specjalnie do tego celu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_111/ust_4",
+     "text": "Wiercenie otworów we wręgach lub przyspawanie do konstrukcji statków urządzeń zastępczych do mocowania bloków, bez zgody kierownictwa statku, jest zabronione.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "DOJŚCIE PRACOWNIKÓW NA STATEK"
+  },
+  {
+   "type": "par",
+   "num": "112",
+   "path": "par_112",
+   "text": "Komunikacja między lądem a statkiem lub między statkami powinna odbywać się wyłącznie przy użyciu przeznaczonych do tego celu urządzeń komunikacyjnych jak: trapy zaburtowe, rampy, schody, kładki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "113",
+   "path": "par_113",
+   "text": "Jeżeli urządzenia komunikacyjne nie odpowiadają obowiązującym przepisom, to ruch pieszy pomiędzy lądem a statkiem powinien być zabroniony.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "114",
+   "path": "par_114",
+   "text": "Na statkach typu ro-ro, jeżeli dojście pracowników ma odbywać się przez pomost (rampę), to na pomoście powinien być wyznaczony ciąg dla ruchu pieszego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "115",
+   "path": "par_115",
+   "text": "Liczba osób jednocześnie przebywających na urządzeniach komunikacyjnych nie powinna przekraczać dopuszczalnej liczby uwidocznionej napisem na tych urządzeniach. Na drabinie może znajdować się tylko jedna osoba.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "116",
+   "path": "par_116",
+   "text": "Zabrania się przenoszenia i przetaczania ładunków po trapie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "117",
+   "path": "par_117",
+   "text": "Schody, trapy, kładki i rampy powinny być zabezpieczone na całej długości po obu bokach barierami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "118",
+   "path": "par_118",
+   "text": "Urządzenia komunikacyjne należy dostosowywać bieżąco do zmiany zanurzenia statku oraz do stanu wody w basenie portowym, przy czym odległość nabrzeża od stopnia lub szczebla nie powinna wynosić więcej niż 0,4 m.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "119",
+   "path": "par_119",
+   "text": "W przypadkach gdy istnieje możliwość upadku z urządzeń komunikacyjnych do wody, powinna być rozpięta siatka zabezpieczająca przed takim upadkiem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "120",
+   "path": "par_120",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_120/ust_1",
+     "text": "Statki używane do przewozu pracowników do i z miejsca pracy powinny być dostosowane do tego celu i posiadać dokumenty potwierdzające możliwość przewozu pracowników, wydane przez właściwe władze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_120/ust_2",
+     "text": "Na pokładzie statku przewożącego pracowników powinna być umieszczona w miejscu widocznym tablica informująca o dopuszczalnej liczbie przewożonych osób.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "121",
+   "path": "par_121",
+   "text": "Jeżeli kładka jest oparta o nadburcie statku lub drabina pilotowa jest zawieszona na nadburciu, to przy nadburciu, od strony pokładu statku, powinny być ustawione schody z barierami zapewniające wygodne i bezpieczne zejście na pokład.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "122",
+   "path": "par_122",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_122/ust_1",
+     "text": "W razie braku możliwości użycia stałych trapów lub kładek do komunikacji między statkami, należy",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "A ="
+      },
+      {
+       "type": "text",
+       "text": "podjąć decyzję o zastosowaniu ik: krzpłeczneja środka komunikacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_122/ust_2",
+     "text": "Jeżeli okrętowa drabina ‘pilotowa służy do stałej komunikacji miedzy statkami na morzu, to pod drabing należy rozpiąć siatkę ochronną. Siatka powinna być rozpięta pośrodku drabiny i mieć szerokość nie mniejszą niż 2,5 m. Długość siatki powinna mieć odpowiedni zapas uwzględniający przechyły statku powstałe na skutek falowania. Brygadzista przeładunkowy powinien sprawdzić mocowanie drabiny pilotowej przed wejściem na statek pozostałych członków brygady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_122/ust_3",
+     "text": "W miejscu mocowania okrętowej drabiny pilotowej na pokładzie bądź na nadburciu statku powinien być zapewniony dogodny uchwyt do rąk.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_122/ust_4",
+     "text": "Przy korzystaniu z okrętowej drabiny pilotowej należy stosować pas lub szelki bezpieczeństwa z linką asekuracyjną. Brygadzista przeładunkowy lub doświadczony pracownik wyznaczony przez brygadzistę powinien obserwować i asekurować pracowników brygady w czasie korzystania z drabiny pilotowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_122/ust_5",
+     "text": "Na okrętowej drabinie pilotowej, w czasie wchodzenia lub schodzenia, może znajdować się tylko jedna osoba, przy czym nie może ona mieć w rękach żadnych przedmiotów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "123",
+   "path": "par_123",
+   "text": "Przenośne, sztywne drabiny mogą służyć tylko jako wyjścia awaryjne. Drabiny powinny odpowiadać wymaganiom obowiązujących norm.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "124",
+   "path": "par_124",
+   "text": "Pomocniczy sprzęt przeładunkowy powinien być dostarczony na statek za pomocą lądowych lub statkowych urządzeń dźwignicowych albo ręcznie za pomocą liny. Przenoszenie pomocniczego sprzętu przeładunkowego przez robotników po urządzeniach komunikacyjnych jest zabro-",
+   "children": [
+    {
+     "type": "text",
+     "text": "nione."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "PRACE PRZYGOTOWAWCZE NA STATKU"
+  },
+  {
+   "type": "text",
+   "text": "Otwieranie i zamykanie luków oraz statkowe urządzenia dźwignicowe"
+  },
+  {
+   "type": "par",
+   "num": "125",
+   "path": "par_125",
+   "text": "Przedstawiciel zakładu pracy prowadzącego przeładunek portowy odbiera od kapitana statku lub wyznaczonego przez niego oficera statkowe urządzenia dźwignicowe oraz stanowiska pracy przygotowane do przeładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "126",
+   "path": "par_126",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_126/ust_1",
+     "text": "W czasie otwierania i zamykania luku ładowni oraz w czasie wyjmowania, przemieszczania i zakładania rozpornic wykonywanie jakichkolwiek prac i przebywanie ludzi w świetle luku ładowni jest zabronione. Nie zatrudnieni chwilowo robotnicy powinni: dian się poza rejonem prowadzonych prac.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_126/ust_2",
+     "text": "Przy kierowaniu rozpornicami podczas ich przemieszczania należy posługiwać się linkami pomocniczymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "127",
+   "path": "par_127",
+   "text": "Otwieranie i zamykanie luków ładowni oraz wyjmowanie i zakładanie rozpornic lukowych powinno być wykonywane za pomocą urządzeń statkowych. W przypadku użycia do tych prac urządzeń portowych powinien być zapewniony nadzór również ze strony statku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "128",
+   "path": "par_128",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_128/ust_1",
+     "text": "Przed rozpoczęciem prac przeładunkowych w ładowniach statków wszystkie rozpornice powinny być usunięte, z wyjątkiem przypadków, gdy rozmiar luku ładowni pozwala na prowadzenie prac w sposób nie stwarzający zagrożenia uderzenia ładunkiem o rozpornice pozostałe w luku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_128/ust_2",
+     "text": "Przed przystąpieniem do prac przeładunkowych w ładowniach z pozostawionymi rozpornicami brygadzista przeładunkowy ma obowiązek sprawdzić zamocowanie rozpornic.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_128/ust_3",
+     "text": "O uszkodzonych rozpornicach i pokrywach lukowych należy niezwłocznie zawiadomić oficera statku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "129",
+   "path": "par_129",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_129/ust_1",
+     "text": "Wyjęte pokrywy lukowe, rozpornice i brezenty powinny być ułożone w takich miejscach, aby nie utrudniały dostępu do drabin prowadzących do ładowni, a przy przenoszeniu ładunków — nie mogły się obsunąć albo być zrzucone za burtę lub do ładowni statku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_129/ust_2",
+     "text": "Zabrania się układania pokryw lukowych i rozpornic obok wzdłużnych zrębnic i wzdłuż burty, z której odbywa się przeładunek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_129/ust_3",
+     "text": "Wzdłuż zrębnicy luku powinno pozostać wolne przejście o szerokości co najmniej 1,0 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_129/ust_4",
+     "text": "Jeżeli konstrukcja statku uniemożliwia spełnienie wymagania ust. 3, to pokrywy lukowe i rozpornice należy układać w innym miejscu, nawet poza statkiem, pozostawiając między zrębnicą luku a burtą statku wolne przejście.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "130",
+   "path": "par_130",
+   "text": "W czasie podnoszenia lub opuszczania podnoszonych pokryw lukowych zabrania się przebywania osób postronnych na pokładzie wzdłuż całej długości luku oraz pomiędzy poprzeczną zrębnicą luku a urządzeniem podnoszącym pokrywę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "131",
+   "path": "par_131",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_131/ust_1",
+     "text": "Dopuszczalne obciążenie robocze sprzężonych statkowych urządzeń dźwignicowych powinno być ustalone na podstawie dokumentów statku, określających warunki pracy urządzeniami sprzężonymi. W razie braku takich dokumentów masa przenoszonego ładunku nie powinna przekraczać 40% dopuszczalnego obciążenia roboczego jednego urządzenia dźwignicowego, a wytrzymałość prefendrów powinna być co najmniej równa wytrzymałości renerów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_131/ust_2",
+     "text": "Kąt rozwarcia renerów przy pracy sprzężonej nie powinien przekraczać 120°.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_131/ust_3",
+     "text": "Renery powinny być połączone za pomocą osobnego pierścienia lub łącznika trójkątnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "132",
+   "path": "par_132",
+   "text": "Ustawienie barki przy burcie statku powinno być uprzednio uzgodnione z kapitanem statku. Zabrania się ustawiania barek między dwoma statkami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zabezpieczenie luków ładowni"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "133",
+   "path": "par_133",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_133/ust_1",
+     "text": "Jeżeli zrębnice luków ładowni są niższe od 0,75 m, a odległość od nich do dna ładowni lub górnej powierzchni ładunku przekracza 1,5 m, to po zdjęciu pokryw powinny być założone stałe lub składane bariery ochronne o wysokości co najmniej 0,9 m albo zastosowane inne środki zabezpieczające. Wymaganie to dotyczy również luków na międzypokładach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_133/ust_2",
+     "text": "Zabezpieczenie luków ładowni i międzypokładów wymagane w ust. 1 powinno pozostawać do czasu zakończenia przeładunku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_133/ust_3",
+     "text": "Inne otwory na pokładzie lub międzypokładzie, które mogą stanowić niebezpieczeństwo dla robotników przeładunkowych, powinny być zabezpieczone. Jeżeli otwory są ogrodzone barierami, to ich wysokość powinna wynosić co najmniej 0,9 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "134",
+   "path": "par_134",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_134/ust_1",
+     "text": "Przy równoczesnym przeładunku prowadzonym na międzypokładach i dnie ładowni odkryta część luku międzypokładu powinna być zabezpieczona zgodnie z wymaganiami § 133 ust. 1.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_134/ust_2",
+     "text": "Otwarte luki międzypokładów powinny być zabezpieczone stałymi lub składanymi barierami, bez względu na to czy odbywa się na nich przeładunek, czy też nie. Do barier, pokryw lukowych i ich zabezpieczeń powinien być zapewniony dostęp.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "135",
+   "path": "par_135",
+   "text": "Dojścia na międzypokłady, na których nie odbywa się przeładunek, powinny być zamknięte lub posiadać oświetlone tablice zakazu wchodzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "136",
+   "path": "par_136",
+   "text": "Na czas przerwy w pracach przeładunkowych zabrania się przykrywania luków ładowni brezentami, jeżeli nie są założone wszystkie pokrywy lub deski lukowe. Nie wymaga się zakładania pokryw lub desek, gdy luk jest zakryty brezentem zawieszonym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "137",
+   "path": "par_137",
+   "text": "Jeżeli w czasie przeładunku są zdjęte bariery burtowe, to na czas przerw w pracy należy je założyć lub zabezpieczyć te miejsca do wysokości relingu za pomocą liny, łańcucha lub w inny skuteczny sposób.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zejście do ładowni statku"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "138",
+   "path": "par_138",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_138/ust_1",
+     "text": "Zejście do ładowni statku powinno odbywać się za pomocą stałych, wbudowanych drabin lub innych urządzeń komunikacyjnych, przeznaczonych do tego celu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_138/ust_2",
+     "text": "Jeżeli technologia przeładunku statku nie zezwala na korzystanie ze stałych urządzeń komunikacyjnych ładowni lub ładownie nie są wyposażone w stałe urządzenia komunikacyjne, można stosować przenośne, sztywne drabiny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_138/ust_3",
+     "text": "Pracownikom zabrania się wchodzenia na nie oświetlone pokłady i do nie oświetlonych ładowni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "139",
+   "path": "par_139",
+   "text": "Dojście do drabiny ładowni powinno być podczas pracy stale dostępne, a jego szerokość nie powinna być mniejsza niż 0,5 m.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "140",
+   "path": "par_140",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_140/ust_1",
+     "text": "Wejście do ładowni lub innych pomieszczeń zawierających materiały mogące wydzielać pary lub gazy niebezpieczne dla zdrowia jest dozwolone dopiero po uzyskaniu opinii właściwego rzeczoznawcy i zastosowaniu środków bezpieczeństwa określonych w opinii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_140/ust_2",
+     "text": "Jeżeli w ładowni statku były przewożone ładunki wytwarzające nieprzyjemną woń, to przed wejściem pracowników do ładowni przykre zapachy powinny być usunięte.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_140/ust_3",
+     "text": "Wejście pracowników na statek, na którym była przeprowadzona fumigacja, może nastąpić po przeprowadzeniu badań i uzyskaniu wyników wskazujących na brak zagrożenia dla zdrowia i życia oraz po otrzymaniu na piśmie zezwolenia od właśćiwego państwowego inspektora sanitarnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "141",
+   "path": "par_141",
+   "text": "Zabrania się wchodzenia do ładowni chłodzonej, która nie posiada możliwości otwarcia od wewnątrz.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "PRZEŁADUNEK"
+  },
+  {
+   "type": "text",
+   "text": "Wymagania ogólne"
+  },
+  {
+   "type": "par",
+   "num": "142",
+   "path": "par_142",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_142/ust_1",
+     "text": "Zabrania się pracownikom portowym obsługiwania niesprawnych statkowych urządzeń dźwignicowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_142/ust_2",
+     "text": "Brygadzista przeładunkowy powinien przerwać prace przeładunkowe w przypadku prowadzenia na statku równocześnie z przeładunkiem innych prac powodujących nadmierny hałas, zaoliwienie itp. lub jeżeli występuje zalodzenie, zaśnieżenie albo inne zagrożenia życia lub zdrowia pracowników portowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "143",
+   "path": "par_143",
+   "text": "Jeżeli lukowy. nie ma możliwości stałej obserwacji przenoszonego ładunku i ładunek mógłby być niewidoczny dla dźwignicowego lub operatora urządzeń dźwignicowych, to powinien być wyznaczony dodatkowy, drugi lukowy. ,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "144",
+   "path": "par_144",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_144/ust_1",
+     "text": "Zabrania się pracownikom przebywania w wagonach podczas opuszczania i podnoszenia unosów drewna, stali profilowej, rur bądź innych ładunków zajmujących ponad połowę długości podłogi wagonu oraz podczas opuszczania i podnoszenia chwytaków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_144/ust_2",
+     "text": "Wejście i zejście pracowników z wagonów i innych środków transportu powinno odbywać się po drabinach lub innych urządzeniach specjalnie przystosowanych do tego celu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "145",
+   "path": "par_145",
+   "text": "Zabrania się wykonywania prac przeładunkowych i pomogpiczych (jak np. przenoszenie i opróżnianie pojemników i chwytaków, wyciąganie żurawiem zawiesi, siatek itp.) w obrębie ładowni, do której wchodzą lub z której wychodzą robotnicy po drabinie usytuowanej w świetle luku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "146",
+   "path": "par_146",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_146/ust_1",
+     "text": "Jeżeliładunek ma być przenoszony przez dwa żurawie, to powinna być opracowana instrukcja określająca warunki pracy. Jeżeli masa ładunku przekracza dopuszczalny udźwig jednego z nich, to należy zastosować trawers.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_146/ust_2",
+     "text": "Dopuszczalna jest praca dwóch żurawi bez zastosowania trawersu przy przenoszeniu ładunku długowymiarowego o odpowiedniej sztywności,.którego masa nie przekracza 1,5-krotnego dopuszczalnego udźwigu jednego żurawia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_146/ust_3",
+     "text": "Przygotowanie dźwignic do pracy zespołowej oraz przebieg przeładunku powinny się odbywać pod kierunkiem i nadzorem osoby wyznaczonej przez kierownictwo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "147",
+   "path": "par_147",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_147/ust_1",
+     "text": "Ładunki o masie ponad 100 ton powinny być podnoszone za pomocą uszaków, haków płytowych lub dwurożnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_147/ust_2",
+     "text": "Na haku dwurożnym ładunek należy tak zawieszać, aby obydwa rogi były jednakowo obciążone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "148",
+   "path": "par_148",
+   "text": "Przy pracach przeładunkowych za pomocą chwytników elektromagnetycznych (z zastrzeżeniem, o którym mowa w § 105) obowiązują w szczególności następujące zasady:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_148/pkt_1",
+     "text": "przebywanie w strefie działania urządzenia przeładunkowego jest wzbronione; dojście do tej strefy powinno być należycie zabezpieczone,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_148/pkt_2",
+     "text": "zasilanie elektromagnesu powinno być włączone dopiero po opuszczeniu chwytnika na ładunek, który ma być podnoszony, ..... po włączeniu napięcia: ruch podnoszenia może być",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_148/pkt_3",
+     "text": "rozpoczęty dopiero.po'upływie kilku sekund; w przypadku przeładunku złomu — po upływie przynajmniej 10 sekund, oo chwytnik magnetyczny nie powinien byé rzucany, lecz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_148/pkt_4",
+     "text": "ostrożnie opuszczony na ładunek, w czasie przemieszczania ładunku nie wolno nim ude-",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_148/pkt_5",
+     "text": "rzać, ' poszczególne partie blach podnoszonych ze stosu po-",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_148/pkt_6",
+     "text": "winny być rozdzielone odpowiednimi przekładkami, w czasie przerw w pracy należy wyłączyć zasilanie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_148/pkt_7",
+     "text": "chwytnika, a chwytnik nie powinien spoczywać bezpośrednio na ziemi, lecz powinien być położony na specjalnych podkładkach, 8) przy przenoszeniu przedmiotów długich należy stosować kilka chwytników.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "149",
+   "path": "par_149",
+   "text": "Zabrania się pozostawiania pojazdów silnikowych z uruchomionym silnikiem bez nadzoru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "150",
+   "path": "par_150",
+   "text": "Jeżeli ładunek jest przenoszony przez dwa wózki widłowe pracujące jednocześnie, żaden z wózków nie powinien być obciążony więcej niż 3/4 własnego dopuszczalnego obciążenia. Wózki powinny mieć jednakowy udźwig.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "151",
+   "path": "par_151",
+   "text": "Wózek widłowy na postoju nie powinien tarasować przejść i powinien mieć zaciągnięty hamulec oraz widły ustawione w dolnym położeniu. Wózki o napędzie spalinowym powinny mieć wyłączony silnik, a wózki o napędzie elektrycznym — sterownik ustawiony w położeniu zerowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "152",
+   "path": "par_152",
+   "text": "Chwytaki przeznaczone do przeładunku towarów pylących powinny być, w miarę możliwości, wyposażone w urządzenia ograniczające pylenie w czasie przenoszenia ładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "153",
+   "path": "par_153",
+   "text": "Zabrania się wykonywania prac przeładunkowych na statkach, barkach, wagonach oraz innych środkach transportu lądowego w czasie ich ruchu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "154",
+   "path": "par_154",
+   "text": "Kontenery powinny być ustawione wyłącznie na narożach, zarówno dolnych, jak i górnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przeładunek drewna i drobnicy"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "155",
+   "path": "par_155",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_155/ust_1",
+     "text": "Jeżeli długość unosu w położeniu poziomym oraz długość luku na to pozwalają, to przeładunek może być prowadzony jednocześnie przy użyciu dwóch urządzeń dźwignicowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_155/ust_2",
+     "text": "Przy równoczesnej pracy dwóch urządzeń dźwignicowych przy jednym luku (nie sprzężonych) — do każdego urządzenia powinien być wyznaczony oddzielny lukowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "156",
+   "path": "par_156",
+   "text": "Zabrania się szacunkowego określania masy ładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "157",
+   "path": "par_157",
+   "text": "Przy przeładunku ładunków długowymiarowych lub wielkogabarytowych należy stosować linki do ręcznego kierowania ładunkiem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "158",
+   "path": "par_158",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_158/ust_1",
+     "text": "Ładunki na paletach i tacach ładunkowych powinny być zabezpieczone przed upadkiem oraz nie powinny być układane wyżej niż 1,5 m, a ładunki przestrzenne — wyżej niż 2 m. Beczki stojące na paletach lub tacach ładunkowych powinny być opasane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_158/ust_2",
+     "text": "Uformowane jednostki ładunkowe powinny być zabezpieczone przed zmianą kształtu i wymiarów, wysunięciem lub wypadnięciem ładunku w czasie transportu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_158/ust_3",
+     "text": "Jednostka ładunkowa nie powinna przewyższać ramy lub nadstawki albo palety skrzyniowej o więcej niż 0,5 m lub 1/3 gabarytu opakowania górnej warstwy ładunku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_158/ust_4",
+     "text": "Zaczepianie haków zawiesi czterocięgnowych za ucha palet lub tac ładunkowych powinno być dokonywane w taki sposób, aby rogi haków znajdowały się na zewnątrz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_158/ust_5",
+     "text": "Zabrania się przemieszczania uformowanej jednostki ładunkowej na palecie lub tacy ładunkowej przez przesuwanie jej po podłożu (ciągnięcie, pchanie itp.) oraz za pomocą dźwigni, łomów itp.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_158/ust_6",
+     "text": "Przed przeładunkiem gotowych jednostek przeładunkowych uformowanych u producenta i wyposażonych w zawiesia jednokrotnego stosowania, na których brak wyraźnego oznaczenia DOR, przeładowca powinien żądać okazania świadectwa określającego DOR dla całej partii zastosowanych zawiesi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "159",
+   "path": "par_159",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_159/ust_1",
+     "text": "Do przeładunku beczek zabrania się używania uchwytów nie przewleczonych, a zwisających na końcach dwóch odcinków łańcucha.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_159/ust_2",
+     "text": "Dopuszcza się przeładunek beczek za pomocą uchwytów zaczepianych za obrzeża, o ile są one dostosowane do tego celu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "160",
+   "path": "par_160",
+   "text": "Przy przeładunku w relacjach burtowych zabronione jest zaczepianie uchwytów, haków i zawiesi do części lub elementów ładunku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "161",
+   "path": "par_161",
+   "text": "Liny, taśmy i pasy zawiesi nie powinny bezpośrednio stykać się z „ostrymi obrzeżami ładunku. W celu zapobieżenia ich uszkodzeniu należy stosować odpowiednie podkładki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "162",
+   "path": "par_162",
+   "text": "Zaciąganie pętli zawiesi na ładunkach zawieszonych nie powinno być dokonywane ręcznie, lecz przy użyciu odpowiednich narzędzi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "163",
+   "path": "par_163",
+   "text": "Przy przeładunku materiałów niebezpiecznych klasy 1 dopuszczalne obciążenie robocze urządzeń dźwignicowych, sprzętu mechanicznego oraz pomocniczego sprzętu przeładunkowego i magazynowo-placowego powinno być obniżone o 50%.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "164",
+   "path": "par_164",
+   "text": "Przy przemieszczaniu ładunków dłużycowych obowiązuje zasada obwiązywania wiązki zawiesiami w miejscach stanowiących krotność 1/4 jej długości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "165",
+   "path": "par_165",
+   "text": "Wyładunek towarów drobnicowych w jednolitych opakowaniach, jak: beczki, worki, kartony, skrzynie, bele itp., powinien być dokonywany równomiernie warstwamii. Zabronione jest pozostawianie nie zabezpieczonych „Ścian” o wysokości większej od 1,5 m.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "166",
+   "path": "par_166",
+   "text": "Wyciąganie zawiesi bezpośrednio spod ładunku jest zabronione. Dla umożliwienia swobodnego wyciągania zawiesi spod ładunku powinny być stosowane podkładki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "167",
+   "path": "par_167",
+   "text": "Zabrania się pracować zawiesiami o splątanych cięgnach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "168",
+   "path": "par_168",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_168/ust_1",
+     "text": "Zabrania się wyciągania i podciągania jednostek ładunkowych spoza światła luku lądowymi urządzeniami dźwignicowymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_168/ust_2",
+     "text": "Przemieszczanie jednostek ładunkowych do światła luku lub odwrotnie może być dokonywane za pomocą statkowych urządzeń dźwignicowych pod warunkiem zastosowania bloków, wielokrążków itp. urządzeń w taki sposób, aby liny tych urządzeń nie o;gierały o konstrukcję statku lub ładunek. |",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "169",
+   "path": "par_169",
+   "text": "Piętrzenie i rozpiętrzanie ładunków w ładowniach statków powinno odbywać się w taki sposób, aby podczas wprowadzania lub wyprowadzania ładunku z ładowni robotnicy mogli oddalić się na bezpieczną odległość lub w bezpieczne miejsce.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "170",
+   "path": "par_170",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_170/ust_1",
+     "text": "Jeżeli po załadunku międzypokładu przewiduje się odkrywanie jego luku, to ładunek należy składać w odległości nie mniejszej niż 0,6 m od obrzeża luku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_170/ust_2",
+     "text": "W razie konieczności przejściowego składania ciężkich ładunków na pokrywach lukowych, należy uzyskać nato zgodę oficera statku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_170/ust_3",
+     "text": "Jeżeli ładunek jest piętrzony wzdłuż burt otwartego pokładu statku lub zrębnic otwartych luków ładowni, to powinny być założone bariery lub zastosowane inne zabezpieczenia chroniące ludzi i ładunek przed wypadnięciem za burtę statku lub wpadnięciem do ładowni.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "171",
+   "path": "par_171",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_171/ust_1",
+     "text": "Pracownicy zatrudnieni przy piętrzeniu i rozpiętrzaniu ładunków na wysokości powinni być zabezpieczeni przed upadkiem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_171/ust_2",
+     "text": "Jeżeli podczas piętrzenia i rozpiętrzania ładunku zachodzi możliwość jego upadku lub rozsunięcia się stosu, należy stosować zabezpieczenia w postaci podpór, siatek itp. chroniących pracowników przed urazami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_171/ust_3",
+     "text": "Wchodzenie na stos i schodzenie ze stosu powinno odbywać się za pomocą odpowiedniej drabiny lub innego urządzenia dostosowanego do tego celu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "172",
+   "path": "par_172",
+   "text": "Zabronione jest ustawianie ładunku na widłach wózka podnośnikowego bezpośrednio za pomocą urządzenia dźwignicowego. Ładunki powinny być uprzednio ustawione na podkładkach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przeładunek ładunków masowych"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "173",
+   "path": "par_173",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_173/ust_1",
+     "text": "Przeładunek ładunków sypkich powinien odbywać się przy zastosowaniu urządzeń pneumatycznych lub innych urządzeń w sposób ograniczający rozprzestrzenianie się pyłu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_173/ust_2",
+     "text": "Do czasu wprowadzenia urządzeń określonych w ust. 1 przeładunek może być dokonywany za pomocą innych urządzeń, przy czym pracowników należy wyposażyć w odpowiednią odzież roboczą i środki ochrony indywidualnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_173/ust_3",
+     "text": "Jeżeli warunki pracy wymagają przechodzenia pracowników po miałkich zwałach węgla, rudy lub innych ładunków masowych, to przechodzenie powinno odbywać się po kładkach o odpowiedniej długości oraz o szerokości wynoszą - cej co najmniej 0,3 m. Kładki powinny mieć poprzeczne listwy rozmieszczone w odstępach nie większych niż 0,4 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_173/ust_4",
+     "text": "Trymerzy nie mogą pracować ani przebywać w tej części ładowni, w której pracuje mechaniczny sprzęt trymerski lub chwytaki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "174",
+   "path": "par_174",
+   "text": "Wagony kryte z ładunkiem pylącym podczas przeładunku powinny być oświetlone przy użyciu oświetlenia elektrycznego, dostosowanego do występującego zagrożenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przeładunek na statkach specjalistycznych"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "175",
+   "path": "par_175",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_175/ust_1",
+     "text": "Plan załadunku i rozładunku statku powinien być przygotowany i uzgodniony ze wszystkimi zainteresowanymi przed rozpoczęciem operacji przeładunkowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_175/ust_2",
+     "text": "W czasie przeładunku należy prowadzić kontrolę i regulację ruchu pojazdów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "176",
+   "path": "par_176",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_176/ust_1",
+     "text": "Pochylenie pomostów (ramp), po których odbywa się przeładunek kołowy, nie powinno przekraczać 10%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_176/ust_2",
+     "text": "Jeżeli w trakcie przeładunku poziomego występuje zmiana pochylenia pomostu, to powinien być zastosowany odpowiedni łącznik lub pływający ponton zapobiegający przekroczeniu pochylenia określonego w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "177",
+   "path": "par_177",
+   "text": "Pomosty o dwukierunkowym ruchu oraz pomosty podwójne powinny mieć wyraźnie zaznaczony kierunek ruchu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "178",
+   "path": "par_178",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_178/ust_1",
+     "text": "Manewrowanie pojazdami i naczepami w ładowni statku powinno odbywać się pod kierunkiem wyznaczonej osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_178/ust_2",
+     "text": "W ładowniach statku mogą znajdować się tylko osoby zatrudnione przy przeładunku, a w kabinie pojazdu — tylko operator.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "179",
+   "path": "par_179",
+   "text": "Stałe elementy konstrukcyjne na statku, stwarzające niebezpieczeństwo dla pojazdów lub możliwość blokady pojazdu, powinny być odpowiednio oznakowane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "180",
+   "path": "par_180",
+   "text": "W czasie przeładunku pokłady statku powinny być utrzymywane w czystości. Pozostałości drewna sztauerskiego, liny, sprzęt do mocowania ładunku oraz inne elementy wyposażenia i materiały powinny być usuwane bieżąco.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "181",
+   "path": "par_181",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_181/ust_1",
+     "text": "Podczas przeładunku kontenerów przez żurawie i wozy kontenerowe na lub z pojazdu transportującego, kierowca (operator) pojazdu powinien wyjść z kabiny na bezpieczną odległość. Nie dotyczy to kontenerowych suwnic placowych, kolejowych i nabrzeżnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_181/ust_2",
+     "text": "Sprzęganie i rozprzęganie naroży kontenera na pojeździe kontenerowym, wymagające indywidualnej obsługi, powinno odbywać się przed lub po zakończeniu manipulacji przeładunkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "182",
+   "path": "par_182",
+   "text": "Zabrania się przesuwania i przeciągania kontenerów po innych kontenerach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "183",
+   "path": "par_183",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_183/ust_1",
+     "text": "Na dach kontenera można wchodzić wyłącznie po specjalnych urządzeniach przeznaczonych do tego celu, jak np. schody jezdniowe, stałe platformy lub odpowiednie drabiny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_183/ust_2",
+     "text": "Drabiny powinny być wyposażone w zaczepy górne, stopki ograniczające poślizg i poręcze w górnej części, umożliwiające bezpieczne przejście na dach kontenera.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "184",
+   "path": "par_184",
+   "text": "Osoby znajdujące się na górnej powierzchni kontenera powinny być zabezpieczone przed upadkiem z wysokości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "185",
+   "path": "par_185",
+   "text": "W ładowniach statków powinny być zapewnione bezpieczne przejścia z drabiny prowadzącej do ładowni na podesty lub bezpośrednio na górną powierzchnię kontenera.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "PRACE RÓŻNE"
+  },
+  {
+   "type": "text",
+   "text": "Cumowanie statków"
+  },
+  {
+   "type": "par",
+   "num": "186",
+   "path": "par_186",
+   "text": "Miejsce cumowania statku powinno być wyznaczone i odpowiednio przygotowane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "187",
+   "path": "par_187",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_187/ust_1",
+     "text": "Jednostka pływająca dowożąca cumy powinna być odpowiednio przystosowana do tego celu i posiadać ważne dla niej dokumenty wystawione przez właściwy urząd.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_187/ust_2",
+     "text": "Jeżeli lina cumownicza jest wydawana z jednostki pływającej, zabrania się osobom nie zatrudnionym przebywania w tych częściach łodzi, w których ułożone są zwoje liny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_187/ust_3",
+     "text": "Koniec liny cumowniczej w jednostce pływającej powinien być umocowany w sposób umożliwiający szybkie i łatwe zwolnienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "188",
+   "path": "par_188",
+   "text": "Podczas odbijania i dobijania statku do nabrzeża zabrania się przechodzenia i przebywania osobom postronnym na nabrzeżu w promieniu 30 m od punktów cumowania w portach morskich, a w promieniu 15 m w portach śródlądowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Czyszczenie ładowni statków"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "189",
+   "path": "par_189",
+   "text": "W przypadku czyszczenia ładowni przy użyciu środków chemicznych należy przestrzegać instrukcji dotyczącej stosowanego środka.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "SKŁADOWANIE ŁADUNKÓW"
+  },
+  {
+   "type": "par",
+   "num": "190",
+   "path": "par_190",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_190/ust_1",
+     "text": "Ładunki, które nie mogą być układane bezpośrednio na podłodze, powinny być składowane na podkładkach o dostatecznej wytrzymałości. Podkładki nie mogą uszkodzić ładunku lub opakowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_190/ust_2",
+     "text": "Górna powierzchnia podkładek powinna być pozio-",
+     "children": [
+      {
+       "type": "text",
+       "text": "ma."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "191",
+   "path": "par_191",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_191/ust_1",
+     "text": "Składowanie drobnicy powinno odbywać się przez układanie jej w stosy, oddzielnie dla każdego rodzaju ładunku i opakowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_191/ust_2",
+     "text": "Układanie stosów mieszanych jest zabronione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_191/ust_3",
+     "text": "Odległość między stosami ładunków powinna wynosić co najmniej 0,2 m. Odległość między rzędami stosów (polami składowymi) i rzędami stosów a ścianami powinna wynosić co najmniej 1 m, jeżeli przepisy przeciwpożarowe i potrzeby eksploatacyjno-składowe nie wymagają większej odległości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_191/ust_4",
+     "text": "Pola składowe powinny być oznaczone wyraźnymi pasami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "192",
+   "path": "par_192",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_192/ust_1",
+     "text": "Sposób składowania ładunków, które ze względu na swój kształt nie dadzą się układać w stosy (zawory, kształtki itp.), powinien być w każdym poszczególnym przypadku ustalony przez kierownika magazynu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_192/ust_2",
+     "text": "Poszczególne człony stosów, układane z ładunków workowanych nie spaletyzowanych, poczynając od 2 m wzwyż, powinny być wiązane. Człony te nie powinny zawierać więcej niż 6 warstw. Wiązanie powinno być wykonane za pomocą desek, tkaniny itp. materiałów. Zakładki z desek łączonych powinny wynosić co najmniej 0,75 m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "194",
+   "path": "par_194",
+   "text": "Stosy, które wykazują wybrzuszenie, odchylenie od pionu, deformację lub uszkodzenie opakowań, powinny być bezzwłocznie przestawione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "195",
+   "path": "par_195",
+   "text": "Zabrania się składowania ładunków na rampach magazynowych, jeżeli mogłoby to zagrażać bezpieczeństwu przejazdu sprzętu zmechanizowanego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "PRZEPISY KOŃCOWE"
+  },
+  {
+   "type": "par",
+   "num": "196",
+   "path": "par_196",
+   "text": "Sprawy bezpieczeństwa i higieny pracy w portach morskich i śródlądowych nie objęte przepisami rozporządzenia, a w szczególności związane z obsługą przenośników, żurawi, kolei, wózków jezdniowych z napędem silnikowym — regulują odrębne przepisy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "197",
+   "path": "par_197",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_197/ust_1",
+     "text": "Traci moc rozporządzenie Ministra Żeglugi z dnia 6 września 1967 r. w sprawie bezpieczeństwa i higieny pracy w portach morskich i śródlądowych (Dz.U. Nr 39, poz. 200 i z 1972r. Nr 7, poz. 41), z zastrzeżeniem ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_197/ust_2",
+     "text": "W odniesieniu do obiektów i urządzeń, o których mowa w § 1 pkt 2, znajdujących się w eksploatacji w dniu wejścia w życie rozporządzenia, stosuje się przepisy dotych-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_197/ust_2",
+     "text": "Składowane ładunki powinny być zabezpieczone czasowe, do czasu przebudowy lub modernizacji tych obiekprzed obsunięciem i przewróceniem się przez wiązanie, łów i urządzeń. podklinowanie, podkładki itp. albo powinny być układane w odpowiednich przegrodach lub na regałach. §198. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. §193. 1. Stosów nie wolno opierać o przegrody i konstrukcje nośne magazynów. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu i Gospodarki Morskiej: Z. Jaworski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Transportu i Gospodarki Morskiej z dnia 6 lipca 1993 r. (poz. 346)",
+   "body": [
+    {
+     "type": "text",
+     "text": "MINIMALNE WARTOŚCI WSPÓŁCZYNNIKÓW BEZPIECZEŃSTWA DLA LIN I ŁAŃCUCHÓW POMOCNICZEGO SPRZĘTU PRZEŁADUNKOWEGO I MAGAZYNOWO-PLACOWEGO"
+    },
+    {
+     "type": "text",
+     "text": "Sprzęt wielokrotnego stosowania Sprzęt jednokrotnego stosowania"
+    },
+    {
+     "type": "text",
+     "text": "do zawieszania ładunku do zawieszania lub poddo zawieszania ładunku do zawieszania lub podprzy jednoczesnym trzymywania ładunku przy jednoczesnym trzymywania ładunku = obwiązywaniu jego obwiązywaniu [Joon 220] DOR> 20 t |DOR<20 t [DOR>20t |DOR<20 i |DOR=20+ | DOR<20 i |DOR>20+ Wykonany z włókien syntetycznych"
+    },
+    {
+     "type": "text",
+     "text": "Wykonany z lin lub włókien naturalnych"
+    },
+    {
+     "type": "text",
+     "text": "Wykonany z lin stalowych:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "o końcówkach zaplatanych",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "o końcówkach zaeye ||| 0] ciskanych",
+     "children": [
+      {
+       "type": "text",
+       "text": "* DOR — dopuszczalne obciążenie robocze (LWS)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

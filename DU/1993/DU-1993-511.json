@@ -1,0 +1,621 @@
+{
+ "eli": "DU/1993/511",
+ "title": "Rozporządzenie Ministra Finansów z dnia 19 listopada 1993 r. zmieniające rozporządzenie w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące, oraz warunków stosowania tych kas przez podatników.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/511/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "lit",
+   "num": "h",
+   "path": "lit_h",
+   "text": "Opera i Operetka w Krakowie, Re mn OŚ nA c Ea God oczka AA c e Ea O w c dE a c Kc CO ka a",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "i",
+   "path": "lit_i",
+   "text": "Państwowa Filharmonia im. Henryka Wieniawskiego w Lublinie,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "i",
+   "path": "lit_i",
+   "text": "Filharmonia im. Artura Rubinsteina w Łodzi,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "k",
+   "path": "lit_k",
+   "text": "Państwowa Filharmonia im. Feliksa Nowowiejskiego w Olsztynie, I) Państwowa Filharmonia im. Józefa Elsnera w Opolu, ł) Państwowa Filharmonia w Poznaniu,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "m",
+   "path": "lit_m",
+   "text": "Państwowa Filharmonia im. Artura Malawskiego w Rzeszowie,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "n",
+   "path": "lit_n",
+   "text": "Państwowa Filharmonia im. Mieczysława Karłowicza w Szczecinie,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "o",
+   "path": "lit_o",
+   "text": "Opera i Operetka w Szczecinie,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "p",
+   "path": "lit_p",
+   "text": "Państwowa Filharmonia we Wrocławiu,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "q",
+   "path": "lit_q",
+   "text": "Państwowa Opera we Wrocławiu,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "r",
+   "path": "lit_r",
+   "text": "Filharmonia Zielonogórska w Zielonej Górze;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "biblioteki:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "Wojewódzka Biblioteka Publiczna w Białymstoku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "Wojewódzka Biblioteka Publiczna w Bielsku-Białej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "Wojewódzka Biblioteka Publiczna w Bydgoszczy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "Wojewódzka Biblioteka Publiczna w Częstochowie, ć) Wojewódzka Biblioteka Publiczna w Elblągu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_4/lit_d",
+     "text": "Wojewódzka Biblioteka Publiczna w Gdańsku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_4/lit_e",
+     "text": "Wojewódzka Biblioteka Publiczna w Gorzowie Wielkopolskim, ę) Wojewódzka Biblioteka Publiczna w Kaliszu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_4/lit_f",
+     "text": "Wojewódzka Biblioteka Publiczna w Katowicach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_4/lit_g",
+     "text": "Wojewódzka Biblioteka Publiczna w Kielcach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_4/lit_h",
+     "text": "Wojewódzka Biblioteka Publiczna w Koszalinie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "pkt_4/lit_i",
+     "text": "Wojewódzka Biblioteka Publiczna w Krakowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "pkt_4/lit_j",
+     "text": "Wojewódzka Biblioteka Publiczna w Legnicy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "pkt_4/lit_k",
+     "text": "Wojewódzka Biblioteka Publiczna w Lublinie, |) Wojewódzka Biblioteka Publiczna w Łodzi, ł) Wojewódzka Biblioteka Publiczna w Olsztynie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "pkt_4/lit_m",
+     "text": "Wojewódzka Biblioteka Publiczna w Opolu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "pkt_4/lit_n",
+     "text": "Wojewódzka Biblioteka Publiczna w Płocku, ń) Wojewódzka Biblioteka Publiczna w Poznaniu,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "0",
+   "path": "pkt_0",
+   "text": "Woiewódzka Biblioteka Publiczna w Radomiu,",
+   "children": [
+    {
+     "type": "lit",
+     "num": "p",
+     "path": "pkt_0/lit_p",
+     "text": "Wojewódzka Biblioteka Publiczna w Rzeszowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "q",
+     "path": "pkt_0/lit_q",
+     "text": "Wojewódzka Biblioteka Publiczna w Słupsku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "r",
+     "path": "pkt_0/lit_r",
+     "text": "Wojewódzka Bibiioteka Publiczna w Szczecinie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "s",
+     "path": "pkt_0/lit_s",
+     "text": "Wejewódzka Biblioteka Publiczna w Tarnowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "t",
+     "path": "pkt_0/lit_t",
+     "text": "Wojewódzka Biblioteka Publiczna w Toruniu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "u",
+     "path": "pkt_0/lit_u",
+     "text": "Wojewódzka Biblioteka Pubiiczna w Wałbrzychu, : sia :",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "v",
+     "path": "pkt_0/lit_v",
+     "text": "Wojewódzka Biblioteka Publiczna we Włocławku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "w",
+     "path": "pkt_0/lit_w",
+     "text": "Wojewódzka Biblioteka Publiczna we Wrocławiu, : Biblioteka Publi Ziel : Gó",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "x",
+     "path": "pkt_0/lit_x",
+     "text": "Wojewódzka Biblioteka Publiczna w Ziełonej Górze,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "y",
+     "path": "pkt_0/lit_y",
+     "text": "Biblioteka Śląska w Katowicach;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "ośrodki i centra kultury:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_5/lit_a",
+     "text": "Wojewódzki Ośrodek Animacji Kultury w Białyms-",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "Wojewódzki Ośrodek Kultury w Bielsku-Białej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_5/lit_c",
+     "text": "Wojewódzki Ośrodek Kultury w Bydgoszczy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_5/lit_d",
+     "text": "Wojewódzki Ośrodek Kultury w Częstochowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_5/lit_e",
+     "text": "Elbląski Ośrodek Kultury,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_5/lit_f",
+     "text": "Nadbałtyckie Centrum Kultury w Gdańsku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_5/lit_g",
+     "text": "Wojewódzki Dom Kultury w Gorzowie Wielkopolskim. sj P",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_5/lit_h",
+     "text": "Centrum Kultury i Sztuki w Kaliszu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "pkt_5/lit_i",
+     "text": "Centrum Dziedzictwa Kulturowego Górnego Śląska w Katowicach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "pkt_5/lit_j",
+     "text": "Centrum Edukacji Teatralnej w Gdańsku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "pkt_5/lit_k",
+     "text": "Wojewódzki Dom Kultury w Kielcach,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Cricoteka w Krakowie, ł) Wojewódzki Ośrodek Kuitury w Krakowie,",
+   "children": [
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "pkt_1/lit_m",
+     "text": "Centrum Sztuki — Teatr Dramatyczny w Legnicy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "pkt_1/lit_n",
+     "text": "Wojewódzki Dom Kultury w Lublinie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "o",
+     "path": "pkt_1/lit_o",
+     "text": "Ośrodek Praktyk Teatralnych „Gardzienice” w Lublinie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "p",
+     "path": "pkt_1/lit_p",
+     "text": "Łódzki Dom Kultury,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "q",
+     "path": "pkt_1/lit_q",
+     "text": "Regionalny Ośrodek Kultury w Olsztynie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "r",
+     "path": "pkt_1/lit_r",
+     "text": "Centrum Francusko-Poiskie w Olsztynie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "s",
+     "path": "pkt_1/lit_s",
+     "text": "Wojewódzki Dom Kultury w Płocku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "t",
+     "path": "pkt_1/lit_t",
+     "text": "Wojewódzki Dom Kultury w Rzeszowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "u",
+     "path": "pkt_1/lit_u",
+     "text": "Wojewódzki Ośrodek Kultury w Tarnowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "v",
+     "path": "pkt_1/lit_v",
+     "text": "Wojewódzki Dom Kultury w Toruniu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "w",
+     "path": "pkt_1/lit_w",
+     "text": "Wojewódzki Ośrodek Kultury w Wałbrzychu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "x",
+     "path": "pkt_1/lit_x",
+     "text": "Wojewódzki Dom Kultury we Włocławku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "y",
+     "path": "pkt_1/lit_y",
+     "text": "Ośrodek Kultury i Sztuki we Wrocławiu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "z",
+     "path": "pkt_1/lit_z",
+     "text": "Ośrodek Badań Twórczości Jerzego Grotowskiego we Wrocławiu;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "inne:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_6/lit_a",
+     "text": "Górnośląski Park Etnograficzny w Chorzowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_6/lit_b",
+     "text": "Górnośląska Macierz Kuitury w Katowicach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_6/lit_c",
+     "text": "Teatr Ewy Demarczyk w Krakowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_6/lit_d",
+     "text": "Państwowa Galeria Sztuki w Legnicy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_6/lit_e",
+     "text": "Biuro Wystaw Artystycznych w Słupsku — Ustka,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_6/lit_f",
+     "text": "Zamek Książąt Pomorskich w Szczecinie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_6/lit_g",
+     "text": "Biuro Dokumentacji Zabytków w Szczecinie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_6/lit_h",
+     "text": "Centrum Paderewskiego w Tarnowie — Kąśna Dolna,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "pkt_6/lit_i",
+     "text": "Ośrodek Folkloru w Zielonej Górze,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "pkt_6/lit_j",
+     "text": "Wojewódzki Ośrodek Sztuk Widowiskowych w Zielonej Górze.” §2. 1. Porozumienia zawarte przed dniem wejścia w życie rozporządzenia wymagają odpowiedniego dostosowania do przepisów tego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Wojewodowie niezwłocznie podejmą działania, aby gostosowanie porozumień nastąpiło nie później niż w ciągu 14 dni od dnia wejścia w życie rozporządzenia. _ 83. Rozporządzenie wchodzi w życie z dniem ogłosze- \"5 toku, 511 Prezes Rady Ministrów: W. Paw/ak ROZPORZĄDZENIE MINISTRA FINANSÓW",
+   "children": [
+    {
+     "type": "text",
+     "text": "z dnia 19 listopada 1993 r. zmieniające rozporządzenie w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące, oraz warunków stosowania tych kas przez podatników."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 29 ust. 4 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz.U. Nr 11, poz. 50 i Nr 28, poz. 127) zarządza wa się, co następuje:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Finansów z dnia 12 maja 1993 r. w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące, oraz warunków stosowania tych kas przez podatników (Dz. U. Nr 39, poz. 178 i Nr 91, poz. 422) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w§3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "pkt 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "73) pamięć fiskalna kasy musi być oznaczona wewnętrznym unikatowym numerem niedostępnym dla użytkownika i serwisu; numer unikatowy nadaje Minister Finansów,\"",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) pkt 8 otrzymuje brzmienie: „„8) kasa musi być oznaczona znakiem bezpieczeństwa określonym w odrębnych przepisach. ”,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) skreśla się pkt 9,",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 7 otrzymuje brzmienie: „8 7. 1. Producenci krajowi i importerzy kas rejestrujących, o których mowa w rozporządzeniu, muszą legitymować się pozytywną opinią Ministra Finansów dotyczącą programu pracy kasy lub systemu kasowego, kwalifikującą kasy do obrotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Podatnicy obowiązani do stosowania kas rejestrujących mogą stosować wyłącznie kasy posiadające znak bezpieczeństwa i pozytywną opinię, o której mowa w ust. 1.”",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: M. Borowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
