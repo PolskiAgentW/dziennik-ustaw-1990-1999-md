@@ -1,0 +1,2023 @@
+{
+ "eli": "DU/1994/791",
+ "title": "Rozporządzenie Ministra Finansów z dnia 29 grudnia 1994 r. w sprawie szczegółowych zasad rachunkowości ubezpieczycieli.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/791/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad rachunkowości ubezpieczycieli."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 81 ust. 3 pkt 1 ustawy z dnia 19 listopada 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie określa szczegółowe zasady rachunkowości ubezpieczycieli, w tym również tworzenia rezerw techniczno-ubezpieczeniowych, oraz sporządzania informacji dodatkowej i innych składników sprawozdań finansowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "„cedenci” — innych ubezpieczycieli, którym ubezpieczyciel udziela ochrony reasekuracyjnej (cedenci i retrocedenci);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "„reasekuratorzy” — innych ubezpieczycieli udzielających ubezpieczycielowi ochrony reasekuracyjnej (reasekuratorzy i retrocesjonariusze);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "„roszczenie regresowe’’ — roszczenie wobec osób trzecich odpowiedzialnych za szkody;",
+     "children": [
+      {
+       "type": "text",
+       "text": "4) „składki brutto”, „odszkodowania i świadczenia brutto', „inne przychody brutto”, „inne koszty brutto”, „rezerwy techniczno-ubezpieczeniowe brutto” — odpowiednio składki, odszkodowania i świadczenia, inne przychody, inne koszty, rezerwy techniczno-ubezpieczeniowe przed uwzględnieniem udziału reasekuratorów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) „składki na udziale własnym”, „odszkodowania i świadczenia na udziale własnym”, „inne przychody na udziale własnym”, „inne koszty techniczne na udziale własnym”, „rezerwy techniczno-ubezpieczeniowe na udziale własnym” — odpowiednio składki, odszkodowania i świadczenia, inne przychody, inne koszty techniczne, rezerwy techniczno-ubezpieczeniowe po uwzględnieniu udziału reasekuratorów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) „składka przypisana brutto” — kwoty składek brutto należne z tytułu zawartych w okresie sprawozdawczym umów ubezpieczenia, bez względu na okres odpowiedzialności wynikający z tych umów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) „składka zarobiona” — składka przypisana brutto przypadająca na okres sprawozdawczy, skorygowana o zmiany stanu rezerwy składek;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) „okres sprawozdawczy” — okres objęty sprawozdaniem finansowym ubezpieczyciela;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) „koszty akwizycji” — bezpośrednie koszty zawarcia ubezpieczeń i inkasa składek;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) „grupa” — grupa klasyfikacyjna ubezpieczeń według załącznika do ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. Nr 59, poz. 344, z 1993 r. Nr 5, poz. 21 i Nr 44, poz. 201 oraz z 1994 r. Nr 4, poz.17 i Nr 121, poz. 591);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) „lokata” — sposób inwestowania funduszu ubezpieczeniowego, określony w rozdziale 6 ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. Nr 59, poz. 344, z 1993 r. Nr5, poz. 21 i Nr44, poz. 201 oraz z 1994 r. Nr 4, poz. 17 i Nr 121, poz. 591);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) „współczynnik szkodowości” — stosunek odszkodowań i świadczeń, z uwzględnieniem zmiany stanu rezerwy na nie wypłacone odszkodowania i świadczenia do składki zarobionej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) „kierownik jednostki” — organ jedno- lub wieloosobowy (zarząd), który zgodnie z obowiązującymi przepisami prawa lub statutem uprawniony jest do zarządzania ubezpieczycielem;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) „ustawa” — ustawa z dnia 19 listopada 1994 r. o rachunkowości (Dz. U. Nr 121, poz. 591).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przepisy rozporządzenia dotyczące rachunkowości w zakresie ubezpieczeń na życie (grup działu I). stosuje się również do ubezpieczeń ujętych w grupach 1, 2, 10, 11, 12 lub 13 działu Il, z uwzględnieniem istniejących różnic wynikających z istoty tych u;bezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku gdy z umów ubezpieczenia zaliczanych do działu II powstaną świadczenia płatne okresowo w formie rent, rezerwę na skapitalizowaną wartość rent ustala się przy zastosowaniu metody aktuarialnej w trysie przewidzianym dla ubezpieczeń życiowych (grup działu l), zgodnie z § 12.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 4. Kierownik jednostki ustala jednolite zasady rachunkowości, które mają być stosowane przez ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rezerwy techniczno-ubezpieczeniowe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 5. Rezerwy techniczno-ubezpieczeniowe obejmują następujące rodzaje rezerw:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) rezerwę składek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) rezerwę na pokrycie ryzyka niewygasłego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) rezerwy na nie wypłacone odszkodowania i świadczenia, w tym rezerwę na skapitalizowaną wartość rent,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) rezerwy na wyrównanie szkodowości (ryzyka),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) rezerwę ubezpieczeń na życie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) rezerwy ubezpieczeń na życie, jeżeli ryzyko lokaty ponosi ubezpieczający,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) rezerwy na premie i rabaty dla ubezpieczonych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) pozostałe rezerwy techniczno-ubezpieczeniowe przewidziane w statucie ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 6. Rezerwy techniczno-ubezpieczeniowe tworzy się stosując metody:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) indywidualną — polegającą na ocenie lub oszacoywaniu pojedynczej szkody lub wypadku zgłoszonych ubezpieczycielowi i przez niego zarejestrowanych albo ustalaną odrębnie dla każdej umowy ubezpieczenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) ryczałtową — polegającą na ustalaniu rezerwy zbiorczo dla całego portfela ubezpieczeń lub jego części, jako procentu zbioru składki lub wartości wypłaconych odszkodowań i świadczeń, jeżeli uzyskane przy jej użyciu wyniki będą zbliżone do wyników uzyskanych przy użyciu metody indywidualnej,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "3) aktuarialną — polegającą na ustalaniu rezerwy przy 2. Rezerwa na wyrównanie szkodowości (ryzyka) twozastosowaniu metod matematyki i statystyki ubezpieczeniowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rezerwę składek tworzy się jako część składki przypisanej brutto, przypadającej na przyszłe okresy sprawozdawcze, proporcjonalnie do okresu, na jaki składka jest przypisana, w części przekraczającej ostatni dzień okresu sprawozdawczego lub w relacji do stopnia ryzyka przewidywanego w następnych okresach sprawozdawczych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwę składek ustala się metodą indywidualną, w odniesieniu do każdej umowy oddzielnie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W rodzajach ubezpieczeń, w których występuje masowość zawieranych umów ubezpieczenia i mało zróźnicowana wysokość składki dla poszczególnych umów, a także brak istotnych zmian w rozkładzie czasowym zawieranych umów, rezerwy składek można ustalać metodą ryczałtową.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 8.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rezerwę na pokrycie ryzyka niewygasłego tworzy się oddzielnie, jako uzupełnienie rezerwy składek, na pokrycie odszkodowań, świadczeń i kosztów, jakie mogą wyniknąć z przyszłych szkód i wypadków w odniesieniu do umów ubezpieczenia, które nie wygasają z ostatnim dniem okresu sprawozdawczego. Rezerwa na pokrycie ryzyka niewygasłego stanowi różnicę pomiędzy przewidywaną wartością przyszłych odszkodowań, świadczeń i kosztów, które mogą wyniknąć z przyszłych zdarzeń w odniesieniu do umów ubezpieczenia, któe nie wygasają z końcem okresu sprawozdawczego, a wielkością rezerwy składek oraz ewentualnych składek, które w dalszym ciągu mogą być przypisane z tytułu tych umów i dotyczą tego samego okresu ubezpieczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwę na pokrycie ryzyka niewygasłego ustala się metodą aktuarialną lub ryczałtową dla poszczególnych grup ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rezerwę na nie wypłacone odszkodowania i świadczenia tworzy się w wysokości odpowiadającej ustalonej lub przewidywanej wielkości przyszłych wypłat odszkodowań i świadczeń związanych z zaszłymi szkodami, powiększonej o koszty likwidacji szkód. W szczególności dotyczy to szkód, które:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zostały zgłoszone ubezpieczycielowi i dla których zostały ustalone odszkodowania i świadczenia bądź gdy posiadane informacje pozwalają na ocenę wysokości odszkodowań i świadczeń,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) zostały zgłoszone ubezpieczycielowi, gdy posiadane informacje nie pozwalają na ocenę wysokości odszkodowań i świadczeń,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) zaszły w okresie sprawozdaw-szym, lecz nie zostały jeszcze zgłoszone ubezpieczycielowi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwy na nie wypłacone odszkodowania i świadczenia ustala się metodą indywidualną, aktuarialną lub ryczałtową.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 p Metodę ryczałtową można stosować w rodzajach ubezpieczeń, w których występuje masowość szkód oraz mało zróżnicowana wysokość odszkodowań i świadczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Część rezerwy, która dotyczy kosztów likwidacji szkód, powinna być utworzona odrębnie dla każdej grupy ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 10.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rezerwę na wyrównanie szkodowości (ryzyka) tworzy się w wysokości mającej zapewnić wyrównanie wahań współczynnika szkodowości w przyszłości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "rzona jest dla grup ubezpieczeń, z wyjątkiem rezerwy dla grupy 14 działu II, w których występują lub mogą wystąpić istotne wahania współczynnika szkodowości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rezerwę na wyrównanie szkodowości (ryzyka) tworzy się na ostatni dzień roku obrotowego. Rezerwę koryguje się w takiej wysokości, aby współczynnik szkodowości dla bieżącego roku obrotowego — po uwzględnieniu tej korekty — był równy średniemu współczynnikowi szkodowości w danych grupach ubezpieczeń w ostatnich 5 latach obrotowych, obliczanego bez uwzględnienia korekt rezerwy na wyrównanie szkodowości, z wyłączeniem bieżącego roku. Wielkość zmniejszenia rezerwy nie może przekroczyć jej aktualnej wysokości, a wielkość zwiększenia rezerwy nie może przekroczyć 5% składki na udziale własnym w tych grupach. Wielkość rezerwy na wyrównanie szkodowości nie może ponadto przekroczyć 30% wypłat odszkodowań na udziale własnym w bieżącym roku obrotowym w danych grupach ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W kalkulacji współczynnika szkodowości uwzględnia się koszty likwidacji szkód. W przypadku tej rezerwy nie ustala się udziału reasekuratora, chyba że umowy reasekuracyjne przewidują inaczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W przypadku prowadzenia ubezpieczeń w grupie 14 działu Il, ubezpieczyciel jest obowiązany do tworzenia rezerwy na wyrównanie szkodowości przeznaczonej na pokrycie ujemnego wyniku technicznego osiągniętego w tej grupie ubezpieczeń w roku obrotowym lub na wyrównanie wyższego niż przeciętny współczynnika szkodowości w tej grupie w roku obrotowym, przed uwzględnieniem zmiany stanu rezerw na wyrównanie szkodowości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwę tworzy się według jednej z metod przedstawionych w załączniku nr 5, ustalonej przez kierownika jednostki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wyboru metody tworzenia rezerwy należy dokonać w oparciu o dostępne w jednostce zasoby informacji statystycznych, z tym że ubezpieczyciele prowadzący ubezpieczenia w grupie 14 działu Il przez okres krótszy niż 5 lat obrotowych tworzą rezerwę, o której mowa w ust. 1 — metodą nr 1 lub nr 2, przedstawioną w załączniku nr 5, z zastosowaniem odpowiednio średnich narastających stosownie do okresu prowadzenia tych ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 12.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rezerwę ubezpieczeń na życie tworzy się w wysokości ustalonej metodą aktuarialną (prospektywną lub retrospektywną), z uwzględnieniem kosztów obsługi umów i kosztów związanych z wypłatą odszkodowań i świadczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku ubezpieczeń na życie kwota rezerwy na nie wypłacone odszkodowania i świadczenia powinna być równa kwocie należnej ubezpieczonym, uprawnionym lub uposażonym, powiększonej o inne koszty związane z wypłatą świadczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rezerwy ubezpieczeń na życie tworzy się indywidua- Inie dla każdej umowy ubezpieczenia. Rezerwy mogą być ustalone sumarycznie dla określonych grup umów ubezpieczenia, pod warunkiem że dają one w przybliżeniu ten sam rezultat, co metoda indywidualna.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Co najmniej raz na 5 lat ubezpieczyciel jest obowiązany ustalić wielkość rezerwy ubezpieczeń na życie metodą indywidualną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 13. Rezerwy ubezpieczeń na życie, jeżeli ryzyko lokaty ponosi ubezpieczający, tworzy się w wysokości wartości",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "lokaty dokonanej zgodnie z postanowieniami zawartej umowy ubezpieczenia na życie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 14. Rezerwy na premie i rabaty dla ubezpieczonych tworzy się w wysokości kwot, o które powiększane są przyszłe świadczenia lub pomniejszane przyszłe składki, zgodnie z umową ubezpieczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 15. Przy ustalaniu wysokości rezerw otrzymywane w trakcie kalkulacji rezerw wartości ujemne pomija się.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 16. Obliczenia rezerw ubezpieczeń na życie mogą być dokonywane jedynie przez aktuariusza.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 17. Przyjęte zasady tworzenia i metody ustalania rezerw techniczno-ubezpieczeniowych powinny być stosowane w sposób ciągły, tzn. niedopuszczalne są nieuzasadnione zmiany zasad i metod.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 18. W umowach ubezpieczenia zawieranych w walutach obcych lub zawierających klauzulę waloryzacyjną w odniesieniu do waluty obcej wysokość rezerwy ustala się w złotych według kursu średniego ustalonego przez Prezesa Narodowego Banku Polskiego na dzień sporządzenia sprawozdania finansowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie finansowe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 19.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Techniczny rachunek ubezpieczeń na życie oraz techniczny rachunek ubezpieczeń majątkowych i osobowych jest sporządzany dla grup ubezpieczeń bezpośrednich.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Techniczny rachunek ubezpieczeń w zakresie reasekuracji czynnej sporządza się łącznie dla wszystkich grup ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 20. Integralną część sprawozdania finansowego stanowi informacja dodatkowa do sprawozdania finansowego, sporządzana zgodnie z załącznikiem nr 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§21.1. Objaśnienia do bilansu ubezpieczycieli, stanowiącego załącznik nr 3 do ustawy, zostały przedstawione w załączniku nr 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Objaśnienia do technicznego rachunku ubezpieczeń majątkowych i osobowych, stanowiącego załącznik nr 6/1 do ustawy, do technicznego rachunku ubezpieczeń na życie stanowiącego załącznik nr 6/2 do ustawy, do ogólnego rachunku zysków i strat ubezpieczyciela, stanowiącego załącznik nr 6/3 do ustawy zostały przedstawione w załączniku nr 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Objaśnienia do sprawozdania z przepływu środków pieniężnych dla ubezpieczycieli, stanowiącego załącznik nr 10 do ustawy, zostały przedstawione w załączniku nr 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Dokumentacja ubezpieczeń i koszty akwizycji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 22.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W działalności ubezpieczeniowej w zakresie ubezpieczeń bezpośrednich składki dokumentowane są kopiami polis lub innych dokumentów potwierdzających zawarcie umowy ubezpieczenia, a także aneksami do zawieranych umów ubezpieczenia zawierającymi obliczenie składki, zwanymi dalej „dokumentami ubezpieczeniowymi”', określającymi co najmniej: strony stosunku ubezpieczeniowego, zakres odpowiedzialności ubezpieczyciela, okres ubezpieczenia, wysokość sumy ubezpieczenia lub gwarancyjnej oraz wysokość należnej składki. Zestawienia zbiorcze dokumentów ubezpieczeniowych mogą mieć zastosowanie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w przypadku gdy dokument ubezpieczenia wydawany jest z chwilą opłacenia całej składki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w rozliczeniach z pośrednikami ubezpieczeniowymi — w odniesieniu do każdego pośrednika oddzielnie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w rozliczeniach z ubezpieczającymi z tytułu ubezpieczeń objętych umowami generalnymi — w odniesieniu do każdego ubezpieczającego oddzielnie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zestawienia zbiorcze dokumentów ubezpieczenia sporządza się według grup i rodzajów ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 23. Jeżeli przewiduje to plan kont:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w ubezpieczeniach majątkowych i osobowych koszty akwizycji w części przypadającej na przyszłe lata obrotowe od składek pobranych za więcej niż jeden rok obrotowy, zgodnie z indywidualnymi umowami, podlegają rozliczeniu w czasie, za jaki zapłacono składkę; rozliczeń tych dokonuje się według zasad obowiązujących dla rezerwy składek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w ubezpieczeniach na życie koszty akwizycji podlegają rozliczeniu w czasie wyłącznie przy zastosowaniu metod aktuarialnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 24. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1995 r.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. K. Kalicki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finansów z dnia 29 grudnia 1994 r. (poz. 791) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "OBJAŚNIENIA DO BILANSU"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W pozycji B.l aktywów — „nieruchomości” należy wykazać w następujących przekrojach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "grunty/budynki i budowle/inwestycje budowlane, w tym zaliczki na poczet inwestycji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "nieruchomości dla działalności własnej (pozostałe nieruchomości).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W pozycji B.III aktywów — „inne lokaty finansowe” należy osobno wykazywać papiery wartościowe emitowane i gwarantowane przez Skarb Państwa i Narodowy Bank Polski.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W przypadku powierzenia kapitałów ubezpieczyciela innym podmiotom do wspólnego inwestowania, kapitały te podlegają wyodrębnieniu w bilansie jako udziały we wspólnych przedsięwzięciach lokacyjnych. W przypadku gdy podmiot administrujący i gospodarujący wspólnym kapitałem inwestycyjnym jest jednostką zależną lub stowarzyszoną, udziały takie wyodrębnia się jako lokaty w jednostkach zależnych lub stowarzyszonych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W pozycji B.III.4 aktywów — „pożyczki hipoteczne” należy wykazać pożyczki hipoteczne, zabezpieczone dodatkowo polisami.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W pozycji B.III.5 aktywów — „pozostałe pożyczki” należy wykazać pożyczki dla ubezpieczonych, których głównym zabezpieczeniem jest polisa. Osobno należy też przedstawić kwotę pożyczek dla ubezpieczonych, nie zabezpieczonych polisami, jeśli jest ona istotna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W pozycji B.IV aktywów — „należności depozytowe od cedentów” należy wykazać zgodnie z zawartymi umowami reasekuracyjnymi w podziale na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "należności depozytowe w walucie polskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_1/lit_a",
+         "text": "od jednostek zależnych/stowarzyszonych będących cedentami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "pozostałe,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "należności depozytowe w walutach obcych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_2/lit_a",
+         "text": "od jednostek zależnych/stowarzyszonych będących cedentami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_2/lit_b",
+         "text": "pozostałe. Gwarancje gotówkowe, zdeponowane na rzecz cedentów, pozostające własnością reasekuratora, wykazywane są w bilansie reasekuratora w oddzielnej pozycji lokat bankowych. Należności depozytowe nie mogą być łączone z innymi pozycjami ani kompensowane z zobowiązaniami.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W przypadku ubezpieczeń na życie związanych z funduszem inwestycyjnym, gdy umowy ubezpieczenia przewidują, iż ryzyko lokaty ponosi ubezpieczający, odpowiednie lokaty kapitałowe wykazywane są w odrębnej pozycji bilansu (pozycja C aktywów). W przypadku umów ubezpieczenia na życie, nawiązujących w sposób bezpośredni do określonych lokat według cen sprzedaży rynkowych lub bieżących, ubezpieczyciele wykazują te lokaty według cen sprzedaży netto ustalonych na dzień bilansowy. Różnicę między ceną sprzedaży składników lokat a ceną ich nabycia lub kosztem wytworzenia uwzględnia się odpowiednio w rezerwach techniczno-ubezpieczeniowych ubezpieczeń na życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W pozycji D aktywów — „należności i roszczenia” wykazuje się należności w podziale na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_8/lit_a",
+       "text": "należności od jednostek zależnych/stowarzyszonych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_8/lit_b",
+       "text": "należności od jednostek powiązanych z ubezpieczycielem udziałami partycypacyjnymi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_8/lit_c",
+       "text": "pozostałe należności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "W pozycji D.III.2 aktywów — „pozostałe należności i roszczenia” wykazuje się oddzielnie należności powstałe w związku z czynnościami komisarza awaryjnego, wykonywanymi na zlecenie innych ubezpieczycieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Wszystkie pozycje należności i zobowiązań wobec jednostek dominujących, zależnych, stowarzyszonych oraz jednostek, w których ubezpieczyciel posiada udziały, należy wykazać oddzielnie w ramach poszczególnych kategorii jednostek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Salda rozrachunków z tytułu koasekuracji ujmuje się łącznie z rozrachunkami z tytułu ubezpieczeń bezpośrednich, dokonując stosownego wyodrębnienia w informacji dodatkowej do sprawozdania finansowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "W pozycji E.ll.3 aktywów — „inne środki pieniężne (weksle, czeki obce itp.)'\" należy wykazać środki pieniężne w drodze, oznaczające środki pomiędzy kasą a własnym rachunkiem bankowym ubezpieczyciela albo pomiędzy dwoma własnymi rachunkami bankowymi, czeki obce przekazywane do realizacji przez bank do czasu uznania z tego tytułu rachunku bankowego ubezpieczyciela lub weksle.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "W pozycji F.l aktywów — „zarachowane odsetki i czynsze” wykazuje się odsetki i czynsze naliczone na dzień bilansowy, które nie są zapadalne lub należne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "W pozycji F.ll aktywów — „inne rozliczenia międzyokresowe” wykazuje się koszty akwizycji, w części przypadającej na przyszłe okresy sprawozdawcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "W pozycji B pasywów — „zobowiązania podporządkowane” należy osobno wykazać ogólną wartość zobowiązań zabezpieczonych na majątku ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "W pozycji C.I pasywów — „rezerwa składek i rezerwa na pokrycie ryzyka niewygasłego” należy osobno wykazać rezerwę na ryzyka niewygasłe, jeśli jej wartość jest znacząca.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "W pozycji C.V pasywów — „rezerwy na wyrównanie szkodowości (ryzyka)” wykazuje się rezerwy na wyrównanie szkodowości (mające na celu zabezpieczenie przed większymi wahaniami wskaźnika szkodowości w przyszłych latach obrotowych).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "W pozycji C.VI pasywów — „pozostałe rezerwy techniczno-ubezpieczeniowe” wykazuje się pozostałe rezerwy nie ujęte w poprzednich pozycjach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "W pozycji D pasywów — „rezerwy techniczno- -ubezpieczeniowe dla ubezpieczeń na życie, jeżeli ryzyko lokaty ponosi ubezpieczający” wykazuje się rezerwy techniczno-ubezpieczeniowe utworzone w celu pokrycia zobowiązań wynikających z umów ubezpieczenia na życie, których wartość jest określona w odniesieniu do wartości lokat, których ryzyko ponosi ubezpieczający. Inne dodatkowe rezerwy techniczno-ubezpieczeniowe dla ubezpieczeń na życie, utworzone w celu pokrycia ryzyka śmierci, kosztów operacyjnych oraz innych rodzajów ryzyka (takiego jak premie płatne w terminie zapadalności lub gwarantowane kwoty stanowiące ekwiwalent za zrzeczenie się przez ubezpieczonego praw wynikających z umowy ubezpieczenia) będą wykazywane w pozycji C.Il pasywów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "W pozycji E.2 pasywów — „inne rezerwy” wykazuje się wszelkie inne rezerwy nie objęte poprzednimi pozycjami, włączywszy przewidziane statutem fundusze prewencyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "W pozycji Fpasywów — „zobowiązania depozytowe wobec reasekuratoréw”’ w bilansie ubezpieczyciela będącego cedentem wykazuje się zobowiązania depozytowe zatrzymane zgodnie z zawartymi umowami reasekuracyjnymi. W informacjach uzupełniających depozyty te wykazuje się z podziałem na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_21/pkt_1",
+       "text": "zobowiązania depozytowe w walucie polskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_21/pkt_1/lit_a",
+         "text": "wobec jednostek zależnych będących reasekuratorami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_21/pkt_1/lit_b",
+         "text": "pozostałe.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_21/pkt_2",
+       "text": "zobowiązania depozytowe w walutach obcych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_21/pkt_2/lit_a",
+         "text": "wobec jednostek zależnych będących reasekuratora-",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mi,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_21/pkt_2/lit_b",
+         "text": "pozostałe. Gwarancje gotówkowe zdeponowane przez reasekuratora, pozostające własnością reasekuratora, podlegają ewidencji w księgach cedenta na koncie pozabilansowym i wykazywane są w pozycji „gwarancje” w objaśnieniach do bilansu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "W pozycji G pasywów — „pozostałe zobowiązania i fundusze specjalne”, z wyjątkiem pozycji G.VI pasywów — „fundusze specjalne”, zobowiązania wykazuje się w podziale na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_22/pkt_1",
+       "text": "zobowiązania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_22/pkt_1/lit_a",
+         "text": "od jednostek zależnych/stowarzyszonych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_22/pkt_1/lit_b",
+         "text": "od jednostek powiązanych z ubezpieczycielem udziałami partycypacyjnymi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_22/pkt_1/lit_c",
+         "text": "pozostałe,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_22/pkt_2",
+       "text": "zobowiązania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_22/pkt_2/lit_a",
+         "text": "w walucie polskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_22/pkt_2/lit_b",
+         "text": "w walutach obcych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "W pozycji G.V.2 pasywów — „pozostałe zobowiązania” wykazuje się zobowiązania powstałe w związku z czynnościami komisarza awaryjnego, wykonywanymi na zlecenie innych ubezpieczycieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "W pozycji G.VI pasywów — „fundusze specjalne” wykazuje się wszelkie fundusze dla pracowników, tworzone zarówno na mocy przepisów prawa, jak i na mocy uchwał walnego zgromadzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Rezerwy techniczno-ubezpieczeniowe (pozycja C pasywów), rezerwy techniczno-ubezpieczeniowe dla ubezpieczeń na życie, jeżeli ryzyko lokaty ponosi ubezpieczający (pozycja D pasywów), pozostałe rezerwy (pozycja E pasywów), zobowiązania depozytowe wobec reasekuratorów (pozycja F pasywów) oraz zobowiązania z tytułu reasekuracji (pozycja G.I| pasywów) wykazuje się z wyszczególnieniem waluty, w której rezerwa lub zobowiązanie jest ustalane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "OBJAŚNIENIA DO TECHNICZNYCH RACHUNKÓW UBEZPIECZEŃ ORAZ OGÓLNEGO RACHUNKU ZYSKÓW I STRAT UBEZPIECZYCIELA"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "We wszystkich pozycjach technicznych rachunków ubezpieczeń oraz ogólnego rachunku zysków i strat muszą być przedstawione kwoty porównawcze za poprzedni okres sprawozdawczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Składki przypisane brutto, ujęte w technicznym rachunku ubezpieczeń w pozycji 1.1 (załączniki nr 6/1 lub 6/2 do ustawy), obejmują kwoty należne w trakcie okresu sprawozdawczego z tytułu zawartych umów ubezpieczenia, bez względu na to, czy kwoty takie mogą się odnosić do całości lub części następnego okresu sprawozdawczego. W tej pozycji należy uwzględniać między innymi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(i) składki jednorazowe, łącznie ze składkami na renty dożywotnie, w zakresie ubezpieczeń na życie, składki jednorazowe, wynikające z rezerw premie i rabaty, jeśli wynika to z umów ubezpieczenia,"
+      },
+      {
+       "type": "text",
+       "text": "(ii) dodatkowe składki w przypadku płatności półrocznych, kwartalnych lub miesięcznych oraz dodatkowych płatności ze strony posiadaczy polis na wydatki poniesione przez ubezpieczyciela,"
+      },
+      {
+       "type": "text",
+       "text": "(iii) w przypadku koasekuracji, część całkowitej składki przypadającą dla ubezpieczyciela,"
+      },
+      {
+       "type": "text",
+       "text": "(iv) składki reasekuracyjne z reasekuracji czynnej, wynikłe z cedowania i retrocedowania ubezpieczenia po odliczeniu portfela kwot podjętych przez cedenta i retrocedenta oraz storn technicznych."
+      },
+      {
+       "type": "text",
+       "text": "Składki wykazuje się łącznie ze wszystkimi dodatkami i uzupełnieniami za okresy zaległe, po potrąceniu storn, zwrotów, upustów, wszelkich zniżek i bonifikat. W kwotach składek przypisanych brutto nie uwzględnia się kwot podatków i opłat obciążających składki."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Pozycja 1.2 technicznego rachunku ubezpieczeń (załączniki nr 6/1 lub 6/2 do ustawy) obejmuje składki reasekuracyjne przypadające na udział reasekuratorów ze zbioru składek ujętego w pozycji 1.1 technicznego rachunku ubezpieczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Pozycja 1.3 technicznego rachunku ubezpieczeń (załączniki nr 6/1 lub 6/2 do ustawy) obejmuje różnice pomiędzy stanem rezerwy składek i rezerwy na pokrycie ryzyka niewygasłego na koniec okresu sprawozdawczego a stanem na początek okresu w ujęciu na udziale własnym, z uwzględnieniem zmian stanu rezerw wynikających z reasekuracji czynnej. W pozycji tej ujmuje się zmianę stanu rezerw ujętych w pozycji C.lI pasywów bilansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ubezpieczyciel prowadzący ubezpieczenia w dziale ubezpieczeń na życie wykazuje przychody z lokat funduszu ubezpieczeniowego w rozumieniu ustawy o działalności ubezpieczeniowej wraz z lokatami ubezpieczeń związanych z funduszem inwestycyjnym (gdy stosownie do umów ubezpieczenia ryzyko lokaty ponosi ubezpieczający) w technicznym rachunku ubezpieczeń (pozycji II w załączniku nr 6/2 do ustawy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W przypadku łącznego inwestowania (lokowania) środków własnych ubezpieczyciela i środków funduszu ubezpieczeniowego oraz braku rozgraniczenia tych lokat, ubezpieczyciel może dokonać rozliczenia przychodów z lokat na część techniczną (ujmowaną w technicznym rachunku ubezpieczeń) i część ogólną (ujmowaną w ogólnym rachunku zysków i strat).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W przypadku łącznego inwestowania (lokowania) środków własnych ubezpieczyciela i środków funduszu ubezpieczeniowego oraz braku rozgraniczenia tych lokat, gdy całość tych przychodów jest wykazana w technicznym rachunku ubezpieczeń, przychody z lokat środków własnych ubezpieczyciela w części zarachowanej na dobro ogólnego rachunku zysków i strat należy wykazać jako koszt w pozycji XII (załącznik nr 6/2 do ustawy) oraz jako przychód w pozycji III ogólnego rachunku zysków i strat (załącznik nr 6/3 do ustawy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Odszkodowania i świadczenia wypłacone w okresie sprawozdawczym w ujęciu brutto (pozycja III.1 w załączniku nr 6/1 do ustawy lub V.1 w załączniku nr 6/2 do ustawy) obejmują wszelkie wypłaty i obciążenia (rozliczenia w kompensacie z należnościami) dokonywane w okresie sprawozdawczym z tytułu odszkodowań i świadczeń za szkody i wypadki powstałe w okresie sprawozdawczym i w okresach ubiegłych (w tym również świadczenia rentowe i wykupy w ubezpieczeniach na życie), łącznie z wszelkimi bezpośrednimi i pośrednimi kosztami likwidacji szkód i windykacji regresów, zmniejszone o zwroty, regresy i wszelkie odzyski (w tym również odzyski ze sprzedaży pozostałości po szkodach). Koszty likwidacji szkód i windykacji regresów obejmują również koszty postępowania spornego. Pozycja obejmuje również odszkodowania z tytułu koasekuracji, w części przypadającej na udział ubezpieczyciela, oraz rozliczone przez cedentów odszkodowania z tytułu reasekuracji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Odszkodowania i świadczenia przypadające na udział reasekuratorów w ramach reasekuracji biernej wykazuje się w pozycji III.1.b (załącznik nr 6/1 do ustawy) lub w pozycji V.1.b (załącznik nr 6/2 do ustawy) technicznego rachunku ubezpieczeń.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "W pozycji III.2.b (załącznik nr 6/1 do ustawy) lub w pozycji V.2.b (załącznik nr 6/2 do ustawy) technicznego rachunku ubezpieczeń wykazuje się różnicę pomiędzy stanem na koniec okresu sprawozdawczego a stanem na początek okresu sprawozdawczego rezerw na nie wypłacone odszkodowania i świadczenia na udziale własnym oraz skapitalizowaną wartość zapadłych świadczeń rentowych w pozycji C.IlI pasywów bilansu, z uwzględnieniem zmian stanu rezerw wynikających z rozliczeń reasekuracji czynnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "W pozycji V (załącznik nr 6/1 do ustawy) lub w pozycji VII (załącznik nr 6/2 do ustawy) technicznego rachunku ubezpieczeń wykazuje się premie, rabaty, wypłacane lub zaliczane osobom ubezpieczonym, uprawnionym lub uposażonym zgodnie z umową ubezpieczenia. W tej pozycji wykazuje się również kwoty zaliczone do wypłaty w okresie sprawozdawczym, wypłacone lub przypadające do wypłaty na rzecz ubezpieczonego, uprawnionego lub uposażonego, włączając w to kwoty wykorzystane do zwiększenia rezerw techniczno-ubezpieczeniowych lub wykorzystane do zmniejszenia przyszłych składek, w wysokości nadwyżek lub zysku, z całej działalności ubezpieczeniowej lub jej części, przeznaczonego do podziału, po odliczeniu kwot przewidzianych do wypłaty w okresie poprzedzającym, które nie są już wymagane. Rabaty (bonifikaty) obejmują ulgi lub częściowy zwrot składek przyznany na podstawie wcześniejszych doświadczeń indywidualnych umów ubezpieczenia. Wielkość premii i rabatów (bonifikat) należy ujmować osobno, jeśli są to wartości znaczące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Koszty akwizycji obejmują wszelkie koszty bezpośrednie związane z pozyskaniem i zawarciem ubezpieczenia oraz inkasem składki (jak prowizje agencyjne i brokerskie, koszty badań lekarskich oraz koszty ekspertyz i atestów przy ocenie ryzyka itp.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Koszty akwizycji wykazuje się w technicznym rachunku ubezpieczeń w pozycji VI.1 (załącznik nr 6/1 do ustawy) lub w pozycji VIII.1 (załącznik nr 6/2 do ustawy), z uwzględnieniem kosztów akwizycji rozliczanych w czasie. Pozycja ta obejmuje również prowizje reasekuracyjne i udziały w zyskach płacone cedentom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Koszty administracyjne wykazane w technicznym rachunku ubezpieczeń w pozycji VI.2 (załącznik nr 6/1 do ustawy) lub w pozycji VIII.2 (załącznik nr 6/2 do ustawy) obejmują wszelkie koszty zarządu i administracji oraz wszelkie koszty o charakterze ogólnym dotyczące działalności ubezpieczeniowej i reasekuracyjnej, jak: koszty utrzymania biur, koszty pocztowe i telekomunikacyjne, koszty usług obcych (transportowych, remontowych itp.), koszty zużycia energii, wyposażenia i materiałów, amortyzacja środków trwałych i wartości niematerialnych i prawnych, wynagrodzenia pracowników z tytułu umowy o pracę wraz z narzutami, koszty podróży służbowych oraz koszty reklamy iip., po wydzieleniu kosztów związanych z likwidacją szkód i windykacją regresów oraz z utrzymaniem i prowadzeniem administracji nieruchomości. Część kosztów administracyjnych może być zaliczona według zasad określonych w planie kont w ciężar odszkodowań i świadczeń jako pośrednie koszty likwidacji szkód i uzyskania regresów oraz w ciężar kosztów utrzymania nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "W przypadku sporządzania technicznych rachunków ubezpieczeń dla poszczególnych grup lub rodzajów ubezpieczeń koszty administracyjne podlegają odpowiedniemu rozliczeniu według zasad określonych w planie kont.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Otrzymane prowizje reasekuracyjne oraz udziały w zyskach reasekuratorów wykazuje się — jako wielkość ujemną — w technicznym rachunku ubezpieczeń w pozycji VI.3 (załącznik nr 6/1 do ustawy) lub w pozycji VIII.3 (załącznik nr 6/2 do ustawy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Pozycja „pozostałe koszty techniczne na udziale własnym” w technicznym rachunku ubezpieczeń (pozycja VII w załączniku nr 6/1 do ustawy lub pozycja XI w załączniku nr 6/2 do ustawy) obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_17/pkt_1",
+       "text": "należne wpłaty na Ubezpieczeniowy Fundusz Gwarancyjny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_17/pkt_2",
+       "text": "należne wpłaty na Fundusz Ochrony Ubezpieczonych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_17/pkt_3",
+       "text": "należne wpłaty na koszty nadzoru nad działalnością ubezpieczeniową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_17/pkt_4",
+       "text": "należne wpłaty członkowskie dla Izby Ubezpieczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_17/pkt_5",
+       "text": "odpisy na fundusz prewencyjny bądź koszty prowadzenia działalności prewencyjnej, jeżeli ubezpieczyciel nie tworzy funduszu prewencyjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_17/pkt_6",
+       "text": "należne wpłaty dla Komendanta Głównego Państwowej Straży Pożarnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_17/pkt_7",
+       "text": "inne koszty techniczne na udziale własnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Pozostałe przychody operacyjne ujęte w pozycji V ogólnego rachunku zysków i strat ubezpieczyciela (załącznik nr 6/3 do ustawy) obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_18/pkt_1",
+       "text": "przychody z innych operacji finansowych (pomniejszone o koszt tych operacji),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_18/pkt_2",
+       "text": "przychody z tytułu wykonywanych czynności komisarza awaryjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_18/pkt_3",
+       "text": "inne przychody.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZAKRES INFORMACJI DODATKOWEJ DO SPRAWOZDANIA FINANSOWEGO"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W informacji dodatkowej należy przedstawić zasady rachunkowości przyjęte dla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "uznawania przychodów ze składek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "obciążenia kosztami odszkodowań i świadczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "ustalania i techniki rozliczenia przychodów z lokat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "rozliczania kosztów akwizycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "wyceny lokat (osobno dla każdej znaczącej pozycji lokat, jeśli są odmienne),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "tworzenia rezerw techniczno-ubezpieczeniowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "innych znaczących pozycji sprawozdania finansowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przedstawiając powyższe zasady należy uwzględnić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "zastosowane metody wyceny (np. amortyzacji, walut obcych) aktywów i pasywów oraz innych przychodów i kosztów w zakresie, w jakim ustawa pozostawia jednostce prawo wyboru,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "dokonane w okresie sprawozdawczym zmiany zasad rachunkowości i wyceny, wraz z uzasadnieniem, jeżeli miało to istotny wpływ na sprawozdanie finansowe, wykazując ich przyczyny i spowodowaną tymi zmianami różnicę w wyniku finansowym,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "dokonane w stosunku do poprzedniego okresu sprawozdawczego zmiany sposobu sporządzania sprawozdania finansowego, wraz z uzasadnieniem i skutkami finansowymi w postaci zmian w sytuacji majątkowej i finansowej oraz rentowności jednostki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W informacji dodatkowej do technicznego rachunku ubezpieczeń należy wykazać dane dotyczące składek, a w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "w ubezpieczeniach na życie wyszczególnieniu podlegają składki brutto przypisane w rozbiciu na ubezpieczenia bezpośrednie oraz pośrednie, ze wskazaniem: — składek indywidualnych, — składek ubezpieczeń grupowych, — składek okresowych, — składek jednorazowych, — składek z umów ubezpieczenia bezpremiowych, — składek z umów ubezpieczenia premiowych, — składek z umów ubezpieczenia, jeżeli ryzyko lokaty ponosi ubezpieczający,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "w ubezpieczeniach majątkowych i osobowych wyszczególnieniu podlegają: — składki brutto przypisane, — składki brutto zarobione,",
+       "children": [
+        {
+         "type": "text",
+         "text": "— kwota odszkodowań brutto, — salda rozliczeń z tytułu reasekuracji, — koszty działalności."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Powyższe dane powinny być przedstawione z uwzględnieniem podziału na ubezpieczenia bezpośrednie i pośrednie według następujących klas rachunkowych: — następstwa wypadków i choroba (grupa 1 i 2) — komunikacyjne — odpowiedzialność cywilna (grupa 10) — komunikacyjne pozostałe (grupa 3) — morskie, lotnicze i transportowe (grupy 4, 5, 6, 7) — od ognia i innych szkód majątkowych (grupy 8, 9) — odpowiedzialność cywilna (grupy 11, 12, 13) — kredyt i gwarancje (grupy 14, 15) — ochrona prawna (grupa 17) — świadczenie pomocy (grupa 18) — pozostałe (grupa 16).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Według powyższych klas rachunkowych należy wyodrębnić także koszty likwidacji szkód w dziale pozostałych ubezpieczeń majątkowych i osobowych oraz koszty związane z wypłatą świadczeń w dziale ubezpieczeń na życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W informacji dodatkowej należy wykazywać całkowitą kwotę prowizji z ubezpieczeń bezpośrednich, zaliczoną do technicznego rachunku ubezpieczeń za okres sprawozdawczy. Wymóg ten ma zastosowanie do każdego rodzaju prowizji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Jako informację uzupełniającą należy wyszczególnić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "kwoty składek otrzymanych z obowiązkowych ubezpieczeń OC według grup ubezpieczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "kwoty składek ubezpieczeniowych (z ubezpieczeń bezpośrednich i z reasekuracji czynnej) otrzymane z zagranicy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "kwoty składek reasekuracyjnych przekazane za granicę.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W informacji dodatkowej dotyczącej technicznego rachunku ubezpieczeń, w przypadku łącznego inwestowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "(lokowania) środków własnych ubezpieczyciela i środków funduszu ubezpieczeniowego oraz braku rozgraniczenia tych lokat, należy przedstawić metodę rozliczenia przychodów z lokat na część techniczną (ujmowaną w technicznym rachunku ubezpieczeń) i część ogólną (ujmowaną w ogólnym rachunku zysków i strat)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "W informacji dodatkowej dotyczącej poszczególnych pozycji ogólnego rachunku zysków i strat dodatkowo należy przedstawić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "koszty i straty nie uznawane przez przepisy podatkowe za koszty uzyskania przychodów (wartość dodatnia),",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przychody, które zgodnie z przepisami podatkowymi nie"
+      },
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "— są zaliczone do podstawy opodatkowania (wartość ujemna),"
+      },
+      {
+       "type": "text",
+       "text": "inne zmiany podstawy opodatkowania przewidziane"
+      },
+      {
+       "type": "text",
+       "text": "3 — w przepisach podatkowych (wartość dodatnia lub ujemna),"
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_9/pkt_4",
+       "text": "ogółem podstawę opodatkowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "W informacji dodatkowej do bilansu w odniesieniu do lokat należy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_10/lit_a",
+       "text": "w przypadku gdy lokaty wykazywane są w bilansie według ceny nabycia, należy podać również ich wartość bieżącą, a w przypadku gdy lokaty wykazywane są według bieżącej wartości — podać również cenę ich nabycia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_10/lit_b",
+       "text": "wskazać metodę, według której określona została bieżąca wartość nieruchomości wraz z podaniem roku obrachunkowego, w którym dokonano wyceny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_10/lit_c",
+       "text": "przedstawić lokaty w podziale na lokaty długoterminowe (powyżej 1 roku) i krótkoterminowe (do 1 roku włącznie),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_10/lit_d",
+       "text": "wykazać zmiany stanu lokat (zwiększenia i zmniejszę-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nią) w okresie sprawozdawczym."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "W informacji dodatkowej do bilansu podlegają wykazaniu następujące dane dotyczące należności i zobowiązań: z",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_11/lit_a",
+       "text": "dane ostanie rezerw innych niż techniczno-ubezpieczeniowe według celu ich utworzenia, o ich zwiększeniu, wykorzystaniu lub rozwiązaniu oraz stanie na koniec okresu sprawozdawczego, ze wskazaniem tych, które korygują stan należności, podział należności i zobowiązań według pozycji bilansu",
+       "children": [
+        {
+         "type": "text",
+         "text": "— b o pozostałym na dzień bilansowy przewidywanym umową okresie spłaty: — do 1 roku (włącznie), — powyżej 1 roku do 5 lat (włącznie), — ponad 5 lat. Dodatkowo należy przedstawić rozliczenie sald rozrachunków według podziału na walutę polską i waluty obce."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "W informacji dodatkowej do bilansu podlegają wykazaniu następujące informacje dotyczące innych składników majątku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_12/lit_a",
+       "text": "szczegółowy zakres zmian wartości grup rodzajowych środków trwałych, wartości niematerialnych i prawnych oraz lokat, zawierający stan tych aktywów na początek okresu sprawozdawczego, zwiększenia z tytułu: przeceny, inwestycji, przemieszczeń wewnętrznych, zmniejszenia oraz stan na koniec okresu sprawozdawczego, a dla majątku amortyzowanego — podobne przedstawienie stanów i tytułów zmian dotychczasowej amortyzacji (umorzenia),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_12/lit_b",
+       "text": "wartość gruntów w użytkowaniu wieczystym,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_12/lit_c",
+       "text": "wartość nie amortyzowanych przez jednostkę środków trwałych, używanych na podstawie umów najmu, dzierżawy i innych umów, zobowiązania wobec budżetu państwa lub gminy z tytud) łu uzyskania prawa własności budynków i budowli, wykaz czynnych i biernych rozliczeń międzyokresowych e) oraz przychodów przyszłych okresów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "W informacji dodatkowej do bilansu podlegają wykazaniu następujące dane dotyczące kapitałów własnych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "dane o strukturze własności kapitału podstawowego 1) oraz liczbie i wartości nominalnej subskrybowanych akcji, z wyszczególnieniem akcji uprzywilejowanych,"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_13/pkt_2",
+       "text": "stan na początku roku, zwiększenia i wykorzystania oraz stan końcowy kapitałów (funduszów) zapasowych i rezerwowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_13/pkt_3",
+       "text": "propozycje podziału zysku lub pokrycia straty za rok obrotowy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "W informacji dodatkowej do bilansu należy osobno wykazać wartość udzielonych gwarancji i poręczeń, w tym także wekslowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "W informacji dodatkowej do bilansu w odniesieniu do rezerw techniczno-ubezpieczeniowych: należy odrębnie wykazać rezerwę na ryzyka niewygasłe, a) niezależnie od jej wysokości, b) w rezerwie na nie wypłacone odszkodowania i świadczenia w wypadku, gdy różnica pomiędzy: — utworzoną rezerwą na początku okresu sprawozdawczego dla pokrycia szkód powstałych w poprzednich okresach sprawozdawczych a — płatnościami dokonanymi w ciągu okresu sprawozdawczego z tytułu szkód poniesionych w poprzednich okresach sprawozdawczych oraz rezerwą pozostałą na koniec okresu sprawozdawczego na potrzeby takich nie zlikwidowanych szkód jest znacząca, należy ją wykazać w podziale na grupy ubezpieczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "W przypadku gdy wielkości i kwoty są istotne (znaczące liczby lub konsekwencje dla ubezpieczyciela), należy podać również:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_16/pkt_1",
+       "text": "wysokość i wyjaśnienie przyczyn nie planowanych odpisów amortyzacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_16/pkt_2",
+       "text": "wysokość odpisów aktualizujących wartości zapasów, o których mowa w art. 35 ust. 3 ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_16/pkt_3",
+       "text": "informacje o przychodach, kosztach i wynikach działalności zaniechanej w roku obrotowym lub przewidzianej do zaprzestania w roku następnym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_16/pkt_4",
+       "text": "rozliczenie głównych pozycji powodujących różnicę między podstawą opodatkowania podatkiem dochodowym od osób prawnych a wynikiem finansowym (zysk, strata) brutto,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_16/pkt_5",
+       "text": "dane o kosztach administracyjnych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_16/pkt_5/lit_a",
+         "text": "zużyciu materiałów i energii,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_16/pkt_5/lit_b",
+         "text": "usługach obcych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_16/pkt_5/lit_c",
+         "text": "wynagrodzeniach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_16/pkt_5/lit_d",
+         "text": "obciążeniach wynagrodzeń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_16/pkt_5/lit_e",
+         "text": "świadczeniach na rzecz pracowników,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_16/pkt_5/lit_f",
+         "text": "amortyzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_16/pkt_5/lit_g",
+         "text": "innych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_16/pkt_6",
+       "text": "koszt wytworzenia inwestycji rozpoczętych i środków trwałych, informacje o zyskach i stratach nadzwyczajnych, z podziałem na losowe i pozostałe, podatek dochodowy od wyniku na operacjach nadzwyczajnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_16/pkt_9",
+       "text": "przyszłe zobowiązania z tytułu podatku dochodowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "W informacji dodatkowej dotyczącej poszczególnych pozycji sprawozdania z przepływu środków pieniężnych należy przedstawić strukturę środków pieniężnych według stanu na początek i koniec okresu sprawozdaw-",
+     "children": [
+      {
+       "type": "text",
+       "text": "cze go."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Informacja dodatkowa dotycząca poszczególnych pozycji sprawozdania grupy kapitałowej powinna zawierać: nazwę i siedzibę jednostki dominującej, sporządzającej 1) skonsolidowane sprawozdanie finansowe,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_18/pkt_2",
+       "text": "wykaz spółek (nazwa, siedziba), w których jednostka posiada co najmniej 20% udziałów lub akcji; wykaz ten powinien zawierać także informacje o procencie udziałów lub akcji i informację o udziale w zarządzaniu oraz o zysku lub stracie tych spółek za ostatni okres sprawozdawczy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_18/pkt_3",
+       "text": "dane liczbowe dotyczące spółek powiązanych kapitałowo z jednostką o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_18/pkt_3/lit_a",
+         "text": "trwałych lokatach finansowych w tych spółkach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_18/pkt_3/lit_b",
+         "text": "wzajemnych należnościach i zobowiązaniach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_18/pkt_3/lit_c",
+         "text": "kosztach i przychodach z wzajemnych transakcji oraz inne, niezbędne do sporządzenia skonsolidowanego sprawozdania finansowego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "W informacji dodatkowej dotyczącej poszczególnych pozycji sprawozdania grupy kapitałowej należy przedstawić informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_19/pkt_1",
+       "text": "wspólnych przedsięwzięciach, które nie podlegają konsolidacji metodą pełną lub praw własności, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_19/pkt_1/lit_a",
+         "text": "nazwie, zakresie działalności wspólnego przedsięwzięcia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_19/pkt_1/lit_b",
+         "text": "procentowym udziale, wartościach niematerialnych i prawnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_19/pkt_1/lit_c",
+         "text": "częściach wspólnie posiadanych rzeczowych składników majątku trwałego, wartościach niematerialnych i prawnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_19/pkt_1/lit_d",
+         "text": "zobowiązaniach zaciągniętych na potrzeby przedsięwzięcia lub zakupu rzeczowych składników majątku trwałego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_19/pkt_1/lit_e",
+         "text": "części zobowiązań wspólnie zaciągniętych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_19/pkt_1/lit_f",
+         "text": "dochodach otrzymanych ze wspólnego przedsięwzięcia i kosztach związanych z nimi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_19/pkt_1/lit_g",
+         "text": "zobowiązaniach warunkowych i inwestycyjnych dotyczących wspólnego przedsięwzięcia, 2) wynagrodzeniach, łącznie z wynagrodzeniem z zysku, wypłaconych członkom zarządu i organów nadzorczych spółek kapitałowych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_19/pkt_3",
+       "text": "pożyczkach udzielonych członkom zarządu i organów nadzorczych spółek kapitałowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_19/pkt_4",
+       "text": "transakcjach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_19/pkt_4/lit_a",
+         "text": "z członkami zarządu i organów nadzorczych spółki, ich małżonkami, krewnymi lub powinowatymi w linii prostej do drugiego stopnia lub osobami związanymi z nimi stosunkiem przysposobienia, opieki lub kurateli,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "z jednostkami, w których osoby wymienione pod lit. a) b) są znaczącymi udziałowcami (akcjonariuszami) lub wspólnikami,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_19/pkt_5",
+       "text": "transakcjach ze spółkami powiązanymi kapitałowo, które nie są objęte skonsolidowanym sprawozdaniem finansowym.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "W informacji dodatkowej należy ponadto przedstawić:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_20/lit_a",
+       "text": "informacje o znaczących zdarzeniach, jakie nastąpiły po dniu bilansowym, nie uwzględnione w bilansie oraz rachunku zysków i strat,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_20/lit_b",
+       "text": "informacje o znaczących zdarzeniach dotyczących lat ubiegłych, ujętych w sprawozdaniu finansowym roku obrotowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_20/lit_c",
+       "text": "informacje o zobowiązaniach warunkowych (wykaz zobowiązań zabezpieczonych na majątku jednostki, ze wskazaniem ich rodzaju, w tym również udzielone przez jednostkę gwarancje i poręczenia, także wekslowe),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_20/lit_d",
+       "text": "informacje o zobowiązaniach kapitałowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Informacja dodatkowa powinna zapewniać porównywalność informacji finansowych zawartych w sprawozdaniu za rok obrotowy z informacjami zawartymi w sprawozdaniu finansowym za poprzedni rok obrotowy. Informacje finansowe powinny być przedstawione z zachowaniem porządku wyznaczonego numeracją rzymską, stosownie do kolejności prezentacji według poszczególnych części sprawozdania finansowego (techniczny rachunek ubezpieczeń — ogólny rachunek zysków i strat — bilans — sprawozdanie z przepływów środków pieniężnych — sprawozdanie grupy kapitałowej — inne).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wszelkie dodatkowe informacje, nie wynikające lub nie związane w sposób bezpośredni z wymienionymi wyżej sprawozdaniami, powinny być przedstawione w części końcowej informacji."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "OBJAŚNIENIA DO SPRAWOZDANIA Z PRZEPŁYWU ŚRODKÓW PIENIĘŻNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Sprawozdanie odzwierciedla zasadnicze strumienie przepływów pieniężnych w jednostce. „Wpływy” oznaczają kwoty otrzymane przez ubezpieczyciela w okresie sprawozdawczym, ,,wydatki’’ oznaczają kwoty wypłacone przez ubezpieczyciela w okresie sprawozdawczym, a w szczególności:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wpływy z tytułu składek netto oznaczają wszelkie wpływy z tytułu ubezpieczeń pośrednich i bezpośrednich po potrąceniu kwot wypłaconych prowizji dla agentów i pośredników ubezpieczeniowych oraz w przypadku prowadzenia reasekuracji czynnej — po potrąceniu przekazanych cedentom w okresie sprawozdawczym prowizji i udziałów w zyskach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "składki zapłacone z tytułu reasekuracji netto są to kwoty przekazane reasekuratorom przez ubezpieczyciela będącego cedentem — po potrąceniu kwot otrzymanych w okresie sprawozdawczym prowizji i udziałów w zyskach reasekuratora,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wpływy z emisji akcji oznaczają kwoty uzyskane netto — po potrąceniu kosztów emisji; towarzystwa ubezpieczeń wzajemnych wykazują wpłaty na poczet udziałów w kapitale zakładowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "METODY TWORZENIA REZERWY NA WYRÓWNANIE SZKODOWOŚCI W UBEZPIECZENIACH GRUPY 14 DZIAŁU II"
+    },
+    {
+     "type": "text",
+     "text": "Metoda nr 1"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ubezpieczyciel jest obowiązany utworzyć rezerwę na wyrównanie szkodowości dla ryzyk z grupy 14. Rezerwa ta jest przeznaczona na pokrycie ujemnego wyniku technicznego w grupie 14 w danym roku obrotowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Powyższą rezerwę zwiększa się w każdym roku obrotowym o 75% dodatniego wyniku technicznego w grupie 14, nie więcej jednak niż o wielkość równą 12% składki przypisanej na udziale własnym w grupie 14, aż do osiągnięcia wielkości 150% największego zbioru składki na udziale własnym w grupie 14 w ciągu roku obrotowego w ostatnich 5 latach obrotowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Metoda 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ubezpieczyciel jest obowiązany utworzyć rezerwę na wyrównanie szkodowości dla ryzyk z grupy 14. Jest ona przeznaczona na pokrycie ujemnego wyniku technicznego w grupie 14 w danym roku obrotowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Minimalna wielkość powyższej rezerwy wynosi 134% średniego zbioru składki na udziale własnym z ubezpieczeń bezpośrednich i pośrednich w grupie 14 w ciągu roku obrotowego w ostatnich 5 latach obrotowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Powyższą rezerwę zwiększa się w każdym roku obrotowym o 75% dodatniego wyniku technicznego w grupie 14, aż do osiągnięcia wielkości minimalnej opisanej w ust. 2.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Metoda nr 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ubezpieczyciel jest obowiązany utworzyć rezerwę na wyrównanie szkodowości dla ryzyk z grupy 14. Jest ona przeznaczona na pokrycie wyższego niż przeciętny współczynnika szkodowości w grupie 14 w danym roku obrotowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Powyższą rezerwę zwiększa się w każdym roku obrotowym, w którym współczynnik szkodowości jest mniejszy od średniego współczynnika szkodowości w okresie odniesienia, o kwotę równą iloczynowi składki zarobionej w danym roku w grupie 14 przez różnicę między średnim współczynnikiem szkodowości w okresie odniesienia oraz współczynnikiem szkodowości w danym roku, aż do osiągnięcia wymaganej wielkości tej rezerwy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wymagana wielkość rezerwy na wyrównanie szkodowości równa jest iloczynowi sześciokrotności standardowego odchylenia z próby współczynnika szkodowości w kolejnych latach obrotowych okresu odniesienia przez kwotę składki zarobionej w danym roku w grupie 14.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Powyższą rezerwę zmniejsza się w każdym roku obrotowym, w którym współczynnik szkodowości jest większy od średniego współczynnika szkodowości w okresie odniesienia, o kwotę równą iloczynowi składki zarobionej w danym roku w grupie 14 przez różnicę między współczynnikiem szkodowości w danym roku oraz średnim współczynnikiem szkodowości w okresie odniesienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Niezależnie od przebiegu szkodowości oraz przed uwzględnieniem korekty rezerwy na wyrównanie szkodowości w danym roku, rezerwę zwiększa się w każdym roku obrotowym o 3,5% wymaganej wielkości tej rezerwy, aż do osiągnięcia wymaganej wielkości tej rezerwy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Okres odniesienia wynosi nie mniej niż 15 lat oraz nie więcej niż 30 lat. Rezerwy na wyrównanie szkodowości dla ryzyk grupy 14 nie tworzy się, jeśli w każdym roku w okresie odniesienia ubezpieczyciel nie wykazał ujemnego wyniku technicznego w grupie 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Wymagana wielkość rezerwy na wyrównanie szkodowości oraz kwoty jej zmniejszeń powinny być zredukowane, jeśli z analizy średniego współczynnika szkodowości i współczynnika kosztów w okresie odniesienia wynika, że w składce skalkulowany jest narzut bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wszystkie obliczenia odnoszą się do wpływów i kosztów na udziale własnym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Metoda nr 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ubezpieczyciel ma obowiązek utworzyć rezerwę na wyrównanie szkodowości dla ryzyk grupy 14. Jest ona przeznaczona na pokrycie wyższego niż przeciętny współczynnika szkodowości w grupie 14 w danym roku obrotowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Powyższą rezerwę zwiększa się w każdym roku obrotowym, w którym współczynnik szkodowości jest mniejszy od średniego współczynnika szkodowości w okresie odniesienia, o kwotę równą iloczynowi składki zarobionej w danym roku w grupie 14 przez różnicę między średnim współczynnikiem szkodowości w okresie odniesienia oraz współczynnikiem szkodowości w danym roku, aż do osiągnięcia wymaganej wielkości tej rezerwy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Maksymalna wymagana wielkość rezerwy na wyrównanie szkodowości równa jest iloczynowi sześciokrotności standardowego odchylenia z próby współczynnika szkodowości w okresie odniesienia przez kwotę składki zarobionej w danym roku w grupie 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Powyższą rezerwę zmniejsza się w każdym roku obrotowym, w którym współczynnik szkodowości jest większy od średniego współczynnika szkodowości w kolejnych latach obrotowych okresu odniesienia, o kwotę równą iloczynowi składki zarobionej w danym roku w grupie 14 przez różnicę między współczynnikiem szkodowości w danym roku oraz średnim współczynnikiem szkodowości w okresie odniesienia, aż do osiągnięcia minimalnej wymaganej wielkości tej rezerwy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Minimalna wymagana wielkość rezerwy na wyrównanie szkodowości równa jest iloczynowi trzykrotności standardowego odchylenia z próby współczynnika szkodowości w kolejnych latach obrotowych okresu odniesienia przez kwotę składki zarobionej w danym roku w grupie 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Okres odniesienia wynosi nie mniej niż 15 lat oraz nie więcej niż 30 lat. Rezerwy na wyrównanie szkodowości dla ryzyk grupy 14 nie tworzy się, jeśli w każdym roku w okresie odniesienia ubezpieczyciel nie wykazał ujemnego wyniku technicznego w grupie 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Obie wymagane wielkości, maksymalna i minimalna, rezerwy na wyrównanie szkodowości oraz kwoty jej zmniejszeń powinny być zredukowane, jeśli z analizy średnigo współczynnika szkodowości i współczynnika kosztów w Okresie odniesienia wynika, że w składce skalkulowany jest narzut bezpieczeństwa oraz że współczynnik narzutu bezpieczeństwa jest równy co najmniej półtorakrotności standardowego odchylenia z próby współczynnika szkodowości w kolejnych latach obrotowych okresu odniesienia. Wymienione wielkości powinny być zredukowane poprzez pomnożenie ich przez iloraz półtorakrotności standardowego odchylenia z próby współczynnika szkodowości w kolejnych latach obrotowych okresu odniesienia i współczynnika narzutu bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wszystkie obliczenia odnoszą się do wpływów i kosztów na udziale własnym.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

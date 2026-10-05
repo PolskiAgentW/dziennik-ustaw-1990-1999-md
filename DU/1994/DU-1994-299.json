@@ -1,0 +1,182 @@
+{
+ "eli": "DU/1994/299",
+ "title": "Rozporządzenie Rady Ministrów z dnia 14 czerwca 1994 r. w sprawie sposobu ustalania ceny progu, ceny zagranicznej i stawki opłaty wyrównawczej na towary rolne i spożywcze.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/299/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 czerwca 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu ustalania ceny progu, ceny zagranicznej i stawki opłaty wyrównawczej na towary rolne i spożywcze."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 3 ustawy z dnia 4 lutego 1994 r. o opłacie wyrównawczej od niektórych towarów rolnych i spożywczych przywożonych z zagranicy (Dz. U. Nr 43, poz."
+  },
+  {
+   "type": "pkt",
+   "num": "160",
+   "path": "pkt_160",
+   "text": "zarządza się, co następuje:",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Cena progu towaru rolnego i spożywczego jest ustalana na podstawie interwencyjnej ceny produktu rolnego, stosowanej przez Agencję Rynku Rolnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Cenę progu towaru rolnego i spożywczego, dla którego nie jest stosowana przez Agencję Rynku Rolnego cena interwencyjna, ustala się na podstawie informacji o cenach notowanych i udostępnianych przez Główny Urząd Statystyczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W razie braku notowań cen towarów rolnych lub spożywczych przez Główny Urząd Statystyczny, cenę progu ustala się na podstawie informacji o cenach, podawanych przez Państwową Inspekcję Skupu i Przetwórstwa Artykułów Rolnych lub inne instytucje państwowe stosujące zasady metodyczne statystyki cen przyjęte przez Główny Urząd Statystyczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "W informacjach o cenach, udostępnianych przez jednostki, o których mowa w ust. 2 i 3, podaje się:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_4/pkt_1",
+       "text": "średnie ceny skupu dla towarów rolnych, obserwowane z częstotliwością siedmiodniową — obliczane jako Średnie ważone ceny dnia ilością sprzedanych towarów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_4/pkt_2",
+       "text": "średnie ceny, łącznie z należnym podatkiem od towarów i usług, uzyskiwane przez producentów towarów spożywczych w okresie czternastodniowym — obliczane jako średnie ważone ceny ilością sprzedanych produktów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Cena progu może być zmieniona, jeżeli średnie ceny skupu lub średnie ceny uzyskiwane przez producentów uległy zmianom o więcej niż 5% w okresie co najmniej 7 dni w stosunku do ich poziomu przyjętego za podstawę ustalania ceny progu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Cena zagraniczna towaru rolnego i spożywczego jest ustalana na podstawie analizy zagranicznych notowań giełdowych oraz analizy faktur towarów przywożonych z krajów, z których pochodzą największe dostawy importowanego towaru, a ich suma stanowi ponad 50% importu objętego analizą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Podstawą ustalania ceny zagranicznej według notowań giełdowych są dane co najmniej z jednej giełdy europejskiej lub o średnich cenach dostępnych z kilku giełd, których analizę notowań prowadzi Instytut Koniunktur i Cen Handlu Zagranicznego, na podstawie notowań Reutera lub innych agencji informacyjnych. Do ceny ustalanej na podstawie analizy zagranicznych notowań giełdowych dolicza się koszty ubezpieczenia i transportu towaru do granicy, wynikające z szacunkowej stawki procentowej w stosunku do tej ceny, z uwzględnieniem stawek stosowanych w transporcie międzynarodowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Podstawą ustalania ceny zagranicznej według analizy faktur są wyniki dokonywanego przez Instytut Koniunktur i Cen Handlu Zagranicznego badania danych z faktur, zapisanych w Jednolitych dokumentach administracyjnych SAD, według nomenklatury obowiązującej w Taryfie celnej importowej, zarejestrowanych w Systemie Informacyjnym SAD, prowadzonym przez Centrum Informatyki Handlu Zagranicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Cena zagraniczna, o której mowa w ust. 3, wraz z kosztami transportu i ubezpieczenia towaru do granicy Polski, jest obliczana dla danego towaru jako iloraz kategorii „Wartość statystyczna” do „Masa netto” lub „Ilość”” w okresie, o którym mowa w §4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Jeżeli cena towaru ustalona na podstawie zagranicznych notowań giełdowych jest co najmniej o 10% wyższa od przeciętnej ceny ustalonej na podstawie analizy faktur lub gdy brak jest zagranicznych notowań giełdowych, cena zagraniczna jest ustalana na podstawie analizy faktur towarów przywożonych z zagranicy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Cenę zagraniczną towaru ustala się z częstotliwością nie dłuższą niż trzydziestodniowa, na podstawie danych z okresu co najmniej 7 dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Cena zagraniczna towaru może być zmieniona, jeżeli podstawa jej wyliczania z poprzedniego okresu, wymieniona w § 3, uległa zmianie o więcej niż 2%.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Stawkę opłaty wyrównawczej na towary rolne i spożywcze ustala się jako dodatnią różnicę między ceną progu a ceną zagraniczną powiększoną o cło według stawek celnych podstawowych, a w razie ich braku — według stawek celnych autonomicznych, oraz o podatki i opłaty, jakie obciążają towary przywożone z zagranicy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: W. Pawlak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

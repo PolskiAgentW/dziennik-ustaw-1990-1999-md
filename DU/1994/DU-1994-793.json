@@ -1,0 +1,1088 @@
+{
+ "eli": "DU/1994/793",
+ "title": "Rozporządzenie Ministra Gospodarki Przestrzennej i Budownictwa z dnia 30 grudnia 1994 r. w sprawie metod i podstaw sporządzania kosztorysu inwestorskiego.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/793/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI PRZESTRZENNEJ I BUDOWNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 grudnia 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie metod i podstaw sporządzania kosztorysu inwestorskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 35 ust. 3 ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz. U. Nr 76, poz. 344 i Nr 130, poz. 645) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wartość kosztorysowa robót — szacunkową wartość robót budowlanych wynikającą z kosztorysu inwestorskiego,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 dokumentacja projektowa — wymagany odrębnymi — przepisami projekt budowlany lub opis zawierający określenie rodzaju, zakresu i sposobu wykonywania robót,"
+      },
+      {
+       "type": "text",
+       "text": "założenia wyjściowe do kosztorysowania — dane tech- 3"
+      },
+      {
+       "type": "text",
+       "text": "— niczne, technologiczne i organizacyjne nie określone w dokumentacji projektowej, a mające wpływ na wysokość wartości kosztorysowej,"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "— przedmiar robót — opis robót budowlanych w kolejności technologicznej ich wykonania, z podaniem ilości jednostek przedmiarowych robót wynikających z dokumentacji projektowej oraz podstaw do ustalenia cen jednostkowych robót lub nakładów rzeczowych (nr katalogu, tablicy i kolumny)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Kosztorys inwestorski opracowuje się metodą kalkulacji uproszczonej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W wypadku braku podstaw do określenia cen jednostkowych robót, kosztorys inwestorski opracowuje się metodą kalkulacji szczegółowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Kalkulacja uproszczona polega na obliczeniu wartości kosztorysowej robót objętych przedmiarem robót jako sumy iloczynów ilości jednostek przedmiarowych robót i ich cen jednostkowych, z uwzględnieniem podatku od towarów i usług, według formuły:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wk = = (i * Cj) + Pv"
+    },
+    {
+     "type": "text",
+     "text": "gdzie: Wk — wartość kosztorysowa robót i — ilość jednostek przedmiarowych robót Cj — cena jednostkowa robót Pv — podatek od towarów i usług (VAT)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Kalkulacja szczegółowa polega na określeniu wartości kosztorysowej robót przez obliczenie dla pozycji objętych przedmiarem robót wartości poszczególnych jednostkowych nakładów rzeczowych (kosztów bezpośrednich), doliczeniu narzutów, przemnożeniu tych wartości przez ilości jednostek przedmiarowych robót w obiekcie lub jego elemencie oraz doliczeniu podatku od towarów i usług, według formuły:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wk = Z (n*c + Kp, + Z,) * i + Pv"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: Wk — wartość kosztorysowa robót n — jednostkowe nakłady rzeczowe (robocizny—n,, materiattw—n,,, pracy sprzętu—n,)"
+      },
+      {
+       "type": "text",
+       "text": "[o — ceny czynników produkcji (stawki robocizny—C,, ceny materiałów—C,,, ceny pracy sprzętu—C,) n * c — koszty bezpośrednie jednostki przedmiarowej robót, obliczone według wzoru: n*c = (n,*C, + n,, *C„+ n,*C,) Kp, — koszty pośrednie na jednostkę przedmiarową robót Z, — zysk kalkulacyjny na jednostkę przedmiarową robót i — ilość jednostek przedmiarowych robót Pv — podatek od towarów i usług (VAT)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Koszty pośrednie ustala się za pomocą wskaźnika kosztów pośrednich, według formuły:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kp, = Wkp * (R, + S,)/100%"
+      },
+      {
+       "type": "text",
+       "text": "gdzie: Kp, — koszty pośrednie na jednostkę przedmiarową robót Wkp — wskaźnik narzutu kosztów pośrednich w % R, — wartość kosztorysowa robocizny na jednostkę przedmiarową robót S, — wartość kosztorysowa pracy sprzętu na jednostkę przedmiarową robót."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Zysk kalkulacyjny oblicza się za pomocą wskaźnika narzutu zysku, według formuły:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Z, = Wz * (R, + M, + 8, + Kp,)/100% gdzie: Z, — zysk kalkulacyjny na jednostkę przedmiarową robót Wz — wskaźnik narzutu zysku w % R, — wartość kosztorysowa robocizny na jednostkę przedmiarową robót M, — wartość kosztorysowa materiałów na jednostkę przedmiarową robót S, — wartość kosztorysowa pracy sprzętu na jednostkę przedmiarową robót Kp, — koszty pośrednie na jednostkę przedmiarową robót."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Podstawy sporządzania kosztorysu inwestorskiego stanowią:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "dokumentacja projektowa,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 — przedmiar robót,"
+        },
+        {
+         "type": "text",
+         "text": "3"
+        },
+        {
+         "type": "text",
+         "text": "— założenia wyjściowe do kosztorysowania,"
+        },
+        {
+         "type": "text",
+         "text": "ceny jednostkowe robót — dla kalkulacji uproszczonej, 4"
+        },
+        {
+         "type": "text",
+         "text": "~~"
+        },
+        {
+         "type": "text",
+         "text": "jednostkowe nakłady rzeczowe — dla kalkulacji szczeol"
+        },
+        {
+         "type": "text",
+         "text": "— gółowej,"
+        },
+        {
+         "type": "text",
+         "text": "stawki i ceny czynników produkcji (robocizny, materia- 2 łów, pracy sprzętu) oraz wskaźnik narzutu kosztów pośrednich i zysku kalkulacyjnego — dla kalkulacji szczegółowej."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "średnie robocizny, materiałów, pracy sprzętu, koszty pośrednie oraz zysk."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przy ustalaniu cen jednostkowych robót należy stosować:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "średnie ceny jednostkowe robót ustalone na podstawie badań i analiz rynkowych, ogłaszane co kwartał w informatorach Ministerstwa Gospodarki Przestrzennej i Budownictwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "kalkulacje szczegółowe, według zasad określonych w § 4 rozporządzenia, w wypadku braku odpowiednich cen w informatorach wymienionych w pkt 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przy ustalaniu jednostkowych nakładów rzeczowych należy stosować:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_4/pkt_1",
+       "text": "nakłady określone w katalogach scalonych nakładów rzeczowych (KSNR), wydawanych przez Ministra Gospodarki Przestrzennej i Budownictwa na podstawie odrębnych przepisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_4/pkt_2",
+       "text": "nakłady określone w katalogach nakładów rzeczowych (KNR), wydawanych przez Ministra Gospodarki Przestrzennej i Budownictwa na podstawie odrębnych przepisów, w wypadku nieustalenia nakładów w katalogach, o których mowa w pkt 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_4/pkt_3",
+       "text": "metodę interpolacji i ekstrapolacji, przy wykorzystywaniu odpowiednich wielkości podanych w katalogach, o których mowa w pkt 1 i 2, w wypadku braku określenia w nich jednostkowych nakładów rzeczowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_4/pkt_4",
+       "text": "analizę indywidualną w wypadku niemożliwości ustalenia nakładów w oparciu o podstawy wymienione w pkt 1—3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Przy ustalaniu stawek i cen czynników produkcji należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_5/pkt_1",
+       "text": "przyjmować wielkości ogłaszane kwartalnie w informatorach Ministerstwa Gospodarki Przestrzennej i Budownictwa o średnich cenach czynników produkcji budowlanej, ustalanych na podstawie badań i analiz rynkowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_5/pkt_2",
+       "text": "korzystać z cenników producentów materiałów lub central handlowych oraz cenników usługodawców, baz sprzętowo-transportowych, z doliczeniem kosztów zakupu, według kalkulacji indywidualnej, w wypadku braku cen w wymienionych w pkt 1 informatorach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_5/ust_6",
+     "text": "Przy ustalaniu wskaźników narzutów kosztów po- RANICH należy przyjmować wielkości określone w załączniku nr 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_5/ust_7",
+     "text": "Wskaźnik narzutu zysku, o którym mowa w § 4 ust. 3, ustala się w wysokości 5% w odniesieniu do wszystkich rodzajów robót budowlanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Wartość kosztorysowa materiałów w kalkulacji szczegółowej oraz koszty bezpośrednie materiałów w cenie jednostkowej robót nie obejmują materiałów, konstrukcji, Wy OHO, maszyn i urządzeń, wymienionych w załączniku nr 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Ceny materiałów oraz pracy sprzętu, określane w informatorach lub ustalane indywidualnie, są cenami netto i nie zawierają podatku od towarów i usług (VAT). Ceny materiałów podaje się łącznie z kosztami zakupu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kosztorys inwestorski obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "stronę tytułową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "ogólną charakterystykę obiektu lub robót,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "przedmiar robót,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "kalkulację uproszczoną lub szczegółową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "tabelę wartości elementów scalonych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "załączniki:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_1/pkt_6/lit_a",
+         "text": "założenia wyjściowe do kosztorysowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_1/pkt_6/lit_b",
+         "text": "analizy i kalkulacje dotyczące indywidualnego ustalania nakładów rzeczowych oraz cen jednostkowych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Strona tytułowa zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "nazwę obiektu lub robót z podaniem lokalizacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "firmę i adres zamawiającego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "firmę i adres jednostki oraz imiona i nazwiska, z określeniem funkcji osób opracowujących kosztorys, a także ich podpisy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "wartość kosztorysową robót,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_2/pkt_5",
+       "text": "datę opracowania kosztorysu inwestorskiego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Ogólna charakterystyka obiektu lub robót zawiera krótki opis techniczny wraz z istotnymi parametrami, które określają jego wielkość.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Tabelę wartości elementów scalonych sporządza się w postaci sumarycznego zestawienia wartości robót określonych przedmiarem robót, łącznie z narzutami kosztów pośrednich i zysku, odniesionych do elementu obiektu lub zbiorczych rodzajów robót.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1995 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Przestrzennej i Budownictwa: B. Blida"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Gospodarki Przestrzennej i Budownictwa z dnia 30 grudnia 1994 r. (poz. 793) Załącznik nr 1 WYKAZ WSKAŹNIKÓW KOSZTÓW POŚREDNICH",
+   "body": [
+    {
+     "type": "text",
+     "text": "Wskaźniki Wyszczególnienie"
+    },
+    {
+     "type": "text",
+     "text": "Budownictwo"
+    },
+    {
+     "type": "text",
+     "text": "Przygotowanie terenu pod budowę kosztów pośrednich w %"
+    },
+    {
+     "type": "text",
+     "text": "Rozbiórka i burzenie budynków; roboty ziemne Wykopy i wiercenia próbne Wznoszenie kompletnych budowli lub ich części, inżynieria lądowa i wodna"
+    },
+    {
+     "type": "text",
+     "text": "Budownictwo ogólne i inżynieria lądowa: — roboty ogólnobudowlane w budynkach mieszkalnych, użytku publicznego produkcyjno-usługowych, przemysłowych i składowych"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "— montaż obiektów budowlanych z elementów prefabrykowanych — budowa obiektów inżynierii lądowej: mostów i wiaduktów, tuneli i przejść podziemnych, rurociągów przesyłowych i miejskiej sieci rurociągowej, miejskiej sieci kablowej, linii energetycznych i telekomunikacyjnych (napowietrznych i podziemnych) Wykonywanie pokryć i wiązań dachowych Budowa autostrad, dróg, lotnisk i obiektów sportowych Budowa obiektów inżynierii wodnej Specjalistyczne prace budowlane"
+    },
+    {
+     "type": "text",
+     "text": "Wykonywanie instalacji budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Wykonywanie instalacji elektrycznych Budowlane prace izolacyjne Wykonywanie instalacji hydraulicznych: zakładanie instalacji urządzeń hydraulicznych, sanitarnych, klimatyzacyjnych i chłodniczych Wykonywanie pozostałych instalacji budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Budowlane prace wykończeniowe"
+    },
+    {
+     "type": "text",
+     "text": "Tynkowanie Zakładanie stolarki budowlanej Pokrywanie podłóg i ścian Malowanie i szklenie Pozostałe budowlane prace wykończeniowe"
+    },
+    {
+     "type": "text",
+     "text": "Wynajem sprzętu budowlanego i burzącego wraz z obsługą"
+    },
+    {
+     "type": "text",
+     "text": "* EKD — Europejska klasyfikacja działalności wprowadzona zarządzeniem nr 83 Prezesa GUS z dnia 31 grudnia 1990 r."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ WYROBÓW, MASZYN, URZĄDZEŃ, KONSTRUKCJI I MATERIAŁÓW, KTÓRYCH WARTOŚCI NIE UWZGLĘDNIA SIĘ W KOSZTORYSACH INWESTORSKICH"
+    },
+    {
+     "type": "text",
+     "text": "Gałąź 06 — Wyroby przemysłu metalowego"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości nie uwzględnia się w kosztorysach robót budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Symbol ,"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby odlewni (łącznie z armaturą) Piasek żeliwny"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości uwzględnia się w kosztorysach robót budowlanych, stanowiące wyjątki z branż, podbranż i grup wyrobów wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "Symbol ,"
+    },
+    {
+     "type": "text",
+     "text": "0614 Wyroby odlewnicze żeliwne, z wyjątkiem wymienionych w kol. 3 Armatura metalowa przemysłowa | ex 0615 Armatura metalowa przemysłowa o średnicy powyżej 600 mm, armatura do automatycznej regulacji oraz armatura o napędzie mechanicznym"
+    },
+    {
+     "type": "text",
+     "text": "Konstrukcje metalowe o średnicy do 600 mm"
+    },
+    {
+     "type": "text",
+     "text": "Armatura metalowa sanitarna i sieci domowej Osprzęt centralnego ogrzewania z metali nieżelaznych"
+    },
+    {
+     "type": "text",
+     "text": "0621 Konstrukcje mostowe i budowlane stalowe 0622 Konstrukcje stalowe stanowiące część urządzenia (bez mechanizmów i osprzętu) | ex 0623-1 Konstrukcje zbiornikowe stalowe do- | ex 0623-1 Konstrukcje zbiornikowe stalowe dostarczane w całości starczane w elementach"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Zbiorniki cystern metalowe dostarczane w całości"
+    },
+    {
+     "type": "text",
+     "text": "ex 0626-29 Zbiorniki aluminiowe dostarczane w całości"
+    },
+    {
+     "type": "text",
+     "text": "Es Jem [oo| Wyroby metalowe przemysłowe"
+    },
+    {
+     "type": "text",
+     "text": "Siatki i sita druciane ex 0623-2"
+    },
+    {
+     "type": "text",
+     "text": "0624"
+    },
+    {
+     "type": "text",
+     "text": "ex 0625"
+    },
+    {
+     "type": "text",
+     "text": "0626-1"
+    },
+    {
+     "type": "text",
+     "text": "ex 0626-21"
+    },
+    {
+     "type": "text",
+     "text": "ex 0626-29"
+    },
+    {
+     "type": "text",
+     "text": "0626-3 0627"
+    },
+    {
+     "type": "text",
+     "text": "ex 0629"
+    },
+    {
+     "type": "text",
+     "text": "0651-16"
+    },
+    {
+     "type": "text",
+     "text": "0651-19 0651-2 0651-3"
+    },
+    {
+     "type": "text",
+     "text": "0651-4 0651-5"
+    },
+    {
+     "type": "text",
+     "text": "0651-6 0651-94 0651-999 0652-4 0652-5 0653 0654-1 0654-2 0654-3 0654-4"
+    },
+    {
+     "type": "text",
+     "text": "0656-18"
+    },
+    {
+     "type": "text",
+     "text": "0656-321"
+    },
+    {
+     "type": "text",
+     "text": "0656-43 0656-5"
+    },
+    {
+     "type": "text",
+     "text": "0656-7"
+    },
+    {
+     "type": "text",
+     "text": "0657-117 0657-118 0658-21 0658-9"
+    },
+    {
+     "type": "text",
+     "text": "Zbiorniki cystern metalowe dostarczane w elementach Elementy i segmenty budowlane aluminiowe Elementy i segmenty budowlane stalowe (ślusarka budowlana) Konstrukcje nośne budowlane aluminiowe Baseny aluminiowe dostarczane w elementach Zbiorniki aluminiowe dostarczane w elementach Konstrukcje mostowe aluminiowe Konstrukcje stalowe lekkie do wyposażenia obiektów inwentarskich Konstrukcje metalowe pozostałe, w tym wieże stalowe dla silników wiatrowych"
+    },
+    {
+     "type": "text",
+     "text": "Sploty i linki do konstrukcji sprężonych Liny z drutów stalowych pozostałe Siatki druciane Gwoździe wszelkie (bez podkowiaków) Drut kolczasty Elektrody metalowe do spawania, w tym rdzenie do produkcji elektrod Zawleczki z drutu Podpórki do radiatorów Wyroby z drutu pozostałe inne Łańcuchy gospodarskie Części do łańcuchów gospodarskich Śruby i elementy złączne Okucia budowlane zamykające Okucia budowlane łączące Okucia budowlane zabezpieczające Okucia budowlane uchwytowo-osłonowe Rury i kolanka z blachy ocynkowane piecowe Grzejniki z blachy do centralnego ogrzewania (grzejniki blaszane, konwektorowe) Rury i kolanka z blachy nie pokryte Wyroby przemysłowe z blachy emaliowane Wyroby przemysłowe z blachy stalowej nierdzewnej Szafki hydrantowe Zawory hydrantowe Brudowniki do basenów metalowe Części do brudowników"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "0659-197 Słupołazy"
+    },
+    {
+     "type": "text",
+     "text": "067 Wyroby metalowe powszechnego użytku"
+    },
+    {
+     "type": "text",
+     "text": "0658-23 Umywalki szpitalne metalowe 0658-91 Części do umywalek szpitalnych metalowych 0659-1 Okucia do sprzętu teletechnicznego, z wyjątkiem wymienionego w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "ex 0672-11 Kuchnie gazowe (montowane na 12 stałe) 0672-21 Piece grzewcze gazowe 0672-22 Piece stałopalne 0672-23 Piece uniwersalne 0672-29 Piece grzewcze pozostałe 0672-291 Piece grzewcze gazowe łazienkowe 0672-292 Ogrzewacze gazowe wody (termy) 0675-31 Bramki metalowe do gier sportowych 0675-32 Stojaki metalowe do koszykówki 0675-33 Słupki metalowe do siatkówki i tenisa ziemnego 0679-2 Zespoły i części sprzętu do gotowania i ogrzewania nieelektrycznego"
+    },
+    {
+     "type": "text",
+     "text": "Gałąź 07 — Maszyny i urządzenia — część I"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości nie uwzględnia się w kosztorysach robót budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości uwzględnia się w kosztorysach robót budowlanych, stanowiące wyjątki z branż, podbranż i grup wyrobów wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "1] 2] 080000] a | 6] Maszyny i urządzenia energetyczne"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia górnicze do wzbogacania paliw i kopalin oraz koksownicze"
+    },
+    {
+     "type": "text",
+     "text": "0711-51 Kotły grzewcze żeliwne ex 0718 Reaktory jądrowe 0719-123 Ruszty stałe płaskie 0719-124 Ruszty stałe pochyłe 0719-165 Elementy instalacji olejowych i gazowych 0719-166 Elementy przewodów blaszanych 0719-167 Elementy instalacji do przygotowania wody kotłowej 0719-169 Elementy instalacji pozostałych 0719-17 Elementy konstrukcji nośnych kotłów, schodów, pomostów, opancerzenia, izolacji i obmurowań"
+    },
+    {
+     "type": "text",
+     "text": "ex 0725-7 Maszty wydobywcze odwiertów"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia hutnicze i odlewnicze"
+    },
+    {
+     "type": "text",
+     "text": "78 | 074 Obrabiarki oraz maszyny i urządzenia do obróbki metali"
+    },
+    {
+     "type": "text",
+     "text": "79 | 075 Aparaty, maszyny i urządzenia do procesów chemicznych i przetwórstwa produktów chemicznych"
+    },
+    {
+     "type": "text",
+     "text": "076 Maszyny i urządzenia do przerobu minerałów i produkcji materiałów budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "81 | 077 Maszyny i urządzenia dla przemysłu lekkiego"
+    },
+    {
+     "type": "text",
+     "text": "82 | 078 Maszyny i urządzenia dla przemysłu spożywczego"
+    },
+    {
+     "type": "text",
+     "text": "83 | 079 Maszyny i urządzenia dla pozostałych gałęzi przemysłu ex 0731-23 Ruszty stałe do spieku (urządzenia aglomerowni) 0732 Maszyny i urządzenia wielkopiecowe ex 0739-2 Oprawy dyszownic, otworów spustowych i chłodnic pancerza 0739-2 Chłodnice gazu, pasa dysz, spadku i szybu 0739-2 Ramy kotwiczne do pieców martenowskich"
+    },
+    {
+     "type": "text",
+     "text": "Wymienniki ciepła o średnicy powyżej"
+    },
+    {
+     "type": "text",
+     "text": "Gałąź 08 — Maszyny i urządzenia — część II"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości nie uwzględnia się w kosztorysach robót budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości uwzględnia się w kosztorysach robót budowlanych, stanowiące wyjątki z branż, podbranż i grup wyrobów wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "[1] 20] 8 | 4] BO Maszyny i urządzenia do robót budowlanych drogowych i melioracyjnych Maszyny, urządzenia i narzędzia rolnicze dla gospodarki leśnej"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia dla handlu i innych działów gospodarki narodowej"
+    },
+    {
+     "type": "text",
+     "text": "Dostarczane w elementach i wymagające montażu na budowie: konstrukcje wsporcze, pomocnicze, zabezpieczające oraz części urządzeń technologicznych, armatury i rurociągów, przewodów transportujących, komory i aparaty dozujące itp. dla: — obiektów mechanizacji hodowli bydła, — instalacji i mechanizacji prac hodowlanych i podwórzowych w gospodarstwach chłopskich"
+    },
+    {
+     "type": "text",
+     "text": "ex 0842—11 Zamknięcie przelewowe stałe — konstrukcje wrót śluzowych i jazów"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia dźwigowo- -transportowe Dźwignice |"
+    },
+    {
+     "type": "text",
+     "text": "Dźwignice II"
+    },
+    {
+     "type": "text",
+     "text": "Maszyny i urządzenia ogólnego przeznaczenia pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Dostarczane w zespołach lub elementach i wymagające montażu na budowie: — - jezdnie podsuwnicowe i poddźwigowe, estakady, — konstrukcje mostów przeładunkowych (bez mechanizmów) Konstrukcje stalowe szybów dźwigów elektrycznych pionowych w budynkach o konstrukcji stalowej Konstrukcje stalowe galerii dla przenośników (transporterów) oraz płaszcze przenośników ślimakowych Konstrukcje stalowe: — wsporcze schodów ruchomych, — wywrotnic, — kolejek linowych"
+    },
+    {
+     "type": "text",
+     "text": "0871-221 Pompy skrzydełkowe 0871-211 Pompy tłokowe 0874-6 Zespoły i elementy pomocnicze urządzeń techniki powietrza"
+    },
+    {
+     "type": "text",
+     "text": "Gałąź 09 — Wyroby przemysłu precyzyjnego"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości nie uwzględnia się w kosztorysach robót budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Symbol"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości uwzględnia się w kosztorysach robót budowlanych, stanowiące wyjątki z branż, podbranż i grup wyrobów wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "Symbol"
+    },
+    {
+     "type": "text",
+     "text": "11] 2] 8] 4] OB | 091 Urządzenia do automatycznej regulacji i sterowania"
+    },
+    {
+     "type": "text",
+     "text": "103 | 092 Systemy komputerowe i urządzenia elektronicznej techniki komputerowej (ETO)"
+    },
+    {
+     "type": "text",
+     "text": "104 | 093 Maszyny i urządzenia organizacyjnotechnicznych środków pracy biurowej"
+    },
+    {
+     "type": "text",
+     "text": "Aparatura pomiarowa oraz urządzenia laboratoryjne (z wyjątkiem optycznych i optyczno-mechanicznych)"
+    },
+    {
+     "type": "text",
+     "text": "107 | 0941-44 Liczniki elektryczne strat"
+    },
+    {
+     "type": "text",
+     "text": "108 | 0941-45 Liczniki elektryczne specjalne 109 | 0941-46 Liczniki elektryczne impulsów"
+    },
+    {
+     "type": "text",
+     "text": "Stojaki, konstrukcje pod aparaturę, obudowy, skrzynki aparaturowe Wyposażenie i osprzęt blokowego systemu elektrycznego regulacji ciągłej Elementy blokowego systemu elektrycznego regulacji ciągłej — pozostałe Przekaźniki energetyczne i do automatyki przemysłowej"
+    },
+    {
+     "type": "text",
+     "text": "ex 0941-1 Przyrządy pomiarowe elektryczne wskazówkowe 0941-4 Liczniki elektryczne — z wyjątkiem wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "Rejestratory elektryczne bez automatyki (łącznie z wyskalowanymi w jednostkach nieelektrycznych)"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "121 | 095 Aparatura pomiarowa i naukowo-badawcza optyczna i optyczno-mechaniczna"
+    },
+    {
+     "type": "text",
+     "text": "122 Przyrządy i wyroby optyczne i optyczno-mechaniczne"
+    },
+    {
+     "type": "text",
+     "text": "123 | 097 Narzędzia, przyrządy, aparaty i urządzenia medyczne oraz weterynaryjne"
+    },
+    {
+     "type": "text",
+     "text": "Przyrządy elektryczne do pomiarów napięcia prądu Przyrządy elektryczne do pomiaru mocy i energii Mierniki częstotliwości pracujące na zasadzie ładowania kondensatora 0942-42 Mierniki częstotliwości rezonansowe i absorbcyjne 0942-93 Stabilizatory elektroniczne ex 0942-99 Przyrządy pomocnicze elektronicznej aparatury pomiarowej pozostałe 0943-71 Wodomierze 0943-79 Wyposażenie specjalne i sprzęt do przepływomierzy i poziomowskazów Przyrządy do pomiaru ciśnienia Przyrządy do pomiaru temperatury"
+    },
+    {
+     "type": "text",
+     "text": "Gałąź 10 — Środki transportu"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości nie uwzględnia się w kosztorysach robót budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Symbol"
+    },
+    {
+     "type": "text",
+     "text": "na Em EE"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości uwzględnia się w kosztorysach robót budowlanych, stanowiące wyjątki z branż, podbranż i grup wyrobów wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "Symbol"
+    },
+    {
+     "type": "text",
+     "text": "aa o cza zp"
+    },
+    {
+     "type": "text",
+     "text": "Gałąź 11 — Wyroby przemysłu elektrotechnicznego i elektronicznego"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości nie uwzględnia się w kosztorysach robót budowlanych"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa wyrobów"
+    },
+    {
+     "type": "text",
+     "text": "125 | 111 Maszyny i urządzenia elektroenergetyczne 126"
+    },
+    {
+     "type": "text",
+     "text": "127"
+    },
+    {
+     "type": "text",
+     "text": "128"
+    },
+    {
+     "type": "text",
+     "text": "129 130 131"
+    },
+    {
+     "type": "text",
+     "text": "132"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby, których wartości uwzględnia się w kosztorysach robót budowlanych, stanowiące wyjątki z branż, podbranż i grup wyrobów wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "S Nazwa wyrobu"
+    },
+    {
+     "type": "text",
+     "text": "1113-42 Przekształtniki półprzewodnikowe o mocy do 5 kW 1113-43 Przekształtniki półprzewodnikowe o mocy powyżej 5 kW 1114-1 Urządzenia rozdzielcze prefabrykowane wysokiego napięcia 1114-2 Łączniki wysokiego napięcia 1114-3 Przekładniki wysokiego napięcia 1114-7 Aparaty i urządzenia pomocnicze wysokiego napięcia 1115 Aparatura rozdzielcza łączeniowa i zabezpieczająca niskiego napięcia"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "a <Q OO 133"
+    },
+    {
+     "type": "text",
+     "text": "134 | 1128-5 Kable telefoniczne dalekosiężne symetryczne 135 | 1128-6 Kable telefoniczne dalekosiężne współosiowe"
+    },
+    {
+     "type": "text",
+     "text": "113 Wyroby elektrotechniczne osobno nie wymienione"
+    },
+    {
+     "type": "text",
+     "text": "Projektory oświetleniowe"
+    },
+    {
+     "type": "text",
+     "text": "Wyroby przemysłu elektronicznego i teletechnicznego"
+    },
+    {
+     "type": "text",
+     "text": "112 Kable i przewody z wyjątkiem wymienionych w kol. 3"
+    },
+    {
+     "type": "text",
+     "text": "1131 Sprzęt instalacyjny 1132-3 Urządzenia bezpieczeństwa ruchu ulicznego i drogowego 1133 Oprawy oświetleniowe i pomocniczy sprzęt oświetleniowy ex 1133-51 Projektory oświetleniowe zewnętrzne ogólnego zastosowania (nieprzenośne) ex 1133-52 Projektory oświetleniowe wewnętrzne ogólnego zastosowania (nieprzenośne) ex 1136-11 Kuchnie elektryczne (montowane na stałe) ex 1136-32 Piece elektryczne akumulacyjne (montowane na stałe) 1136-6 Urządzenia elektryczne grzejne do podgrzewania wody"
+    },
+    {
+     "type": "text",
+     "text": "1153-5"
+    },
+    {
+     "type": "text",
+     "text": "Anteny i osprzęt antenowy Źródła światła elektryczne i ich eleex 1154 menty (montowane w urządzeniach uwzględnianych w kosztorysie) Przyrządy półprzewodnikowe"
+    },
+    {
+     "type": "text",
+     "text": "1156"
+    },
+    {
+     "type": "text",
+     "text": "Objaśnienia"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wykaz wyrobów opracowano na podstawie IV wydania Systematycznego wykazu wyrobów SWW z 1990 r. wraz z uzupełnieniami (jednolity tekst uzupełnień nr 1, 2, 3 i 4 do wydania IV SWW — Warszawa 1994 r.). . W kolumnach 2 i 3 wykazu podano symbole i nazwy wyrobów wg SWW, których wartości nie uwzględnia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "B © DN w kosztorysach inwestorskich. . W kolumnach 4 i 5 wykazu podano symbole i nazwy wyrobów stanowiących wyjątki w branżach, podbranzach i grupach wyrobów wymienionych w kolumnie 3 wykazu, których wartość uwzględnia się w kosztorysach. . W kolumnie 5 wykazu podano także nazwy niektórych wyrobów bez symboli SWW, których wartość uwzględnia się w kosztorysach."
+      },
+      {
+       "type": "text",
+       "text": "794 ="
+      },
+      {
+       "type": "text",
+       "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI PRZESTRZENNEJ I BUDOWNICTWA"
+      },
+      {
+       "type": "text",
+       "text": "z dnia 30 grudnia 1994 r."
+      },
+      {
+       "type": "text",
+       "text": "w sprawie ustalenia wartości robót budowlanych, co do których konieczne jest zabezpieczenie należytego wykonania umowy, oraz form tego zabezpieczenia."
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie art. 75 ust. 3 ustawy z dnia 10 czerwca §2. 1. Wysokość zabezpieczenia zależy od ustalonej 1994 r. o zamówieniach publicznych (Dz. U. Nr 76, poz. 344 w umowie wartości robót budowlanych. i Nr 130, poz. 645) zarządza się, co następuje:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Jeżeli wartość robót nie przekracza równowartości \" . : ' . kwoty 200000 ECU, wysokość zabezpieczenia ustala się $ is \"he Zamawiający jest zobowiązany do żądania od w granicach 5% — 10% ich wartości. wykonawcy zabezpieczenia należytego wykonania umowy,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Jeżeli wartość robót jest wyższa od równowartości jeżeli przewidywana wartość robót budowlanych będących kwoty 200000 ECU, wysokość zabezpieczenia ustala się przedmiotem zamówienia publicznego przekracza równo- w granicach 3% — 5% las wartości. wartość kwoty 20000 ECU. i : i :",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Zabezpieczenie należytego wykonania umowy",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Wartość robót budowlanych, o których mowa w może być wnoszone w: ust. 1, określa się na podstawie kosztorysu inwestorskiego.",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_2/pkt_1",
+         "text": "gwarancjach bankowych,",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,230 @@
+{
+ "eli": "DU/1994/410",
+ "title": "Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 29 lipca 1994 r. w sprawie zakresu i sposobu prowadzenia ewidencji zasobów złóż kopalin.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/410/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OCHRONY ŚRODOWISKA, ZASOBÓW NATURALNYCH | LEŚNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 lipca 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zakresu i sposobu prowadzenia ewidencji zasobów złóż kopalin."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 50 ust. 1 pkt 5 ustawy z dnia 4 lutego 1994 r. — Prawo geologiczne i górnicze (Dz. U. Nr 27, poz."
+  },
+  {
+   "type": "pkt",
+   "num": "96",
+   "path": "pkt_96",
+   "text": "zarządza się, co następuje:",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Obowiązek prowadzenia ewidencji zasobów złóż kopalin stałych, gazu ziemnego, ropy naftowej i wód leczniczych spoczywa na przedsiębiorcy wydobywającym te kopaliny ze złoża.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Ewidencja zasobów jest prowadzona na podstawie dokumentacji geologicznej i projektu zagospodarowania złoża.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Prowadzenie ewidencji zasobów złoża kopaliny polega na ustalaniu zmian w zasobach, których przyczyną powstania jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "dokładniejsze rozpoznanie złoża,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "eksploatacja złoża i straty spowodowane eksploatacją złoża,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "zmiana granic lub podział złoża,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "przeklasyfikowanie geologicznych zasobów bilansowych do pozabilansowych, zasobów przemysłowych do nieprzemysłowych bądź zasobów nieprzemysłowych do przemysłowych lub do strat.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W złożach wielopokładowych zmiany wynikające z dokładniejszego rozpoznania wprowadza się tylko w pokładach eksploatowanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Jeżeli zmiany w okresie sprawozdawczym przekraczają 50% wielkości rocznego wydobycia, przeklasyfikowania, o którym mowa w § 2 ust. 2 pkt 4, dokonuje przedsiębiorca po uzyskaniu pisemnej zgody właściwego organu koncesyjnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Corocznie w terminie do dnia 31 marca przedsiębiorca przedstawia zmiany zasobów złoża w operacie ewidencyjnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Operat ewidencyjny sporządza się na podstawie obmiaru wyrobisk (dla kopalin gazowych i płynnych na — podstawie pomiarów wydajności odwiertów) i dołącza do posiadanego egzemplarza zatwierdzonej dokumentacji geologicznej i zatwierdzonego projektu zagospodarowania złoża, według stanu zasobów złoża na dzień 31 grudnia danego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Obmiaru złóż kopalin pospolitych dokonuje się co 3 lata, a corocznie w operacie ewidencyjnym należy określić stan zasobów, wielkość wydobycia i strat jako wielkości szacunkowe, pozostawiając szczegółowe ich ustalenie do czasu dokonania ścisłego pomiaru stanu wyrobisk.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Organ koncesyjny może zobowiązać przedsiębiorcę do wykonania obmiaru wyrobisk w innym terminie w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "zrzeczenia się koncesji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "wyczerpania zasobów złoża,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_4/pkt_3",
+       "text": "naruszenia przepisów o ochronie środowiska.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Operat ewidencyjny powinien zawierać:",
+   "children": [
+    {
+     "type": "text",
+     "text": "zaktualizowane zestawienie tabelaryczne zasobów zło- — 1 ża,"
+    },
+    {
+     "type": "text",
+     "text": "kopię mapy złoża z naniesionymi zmianami w blokach"
+    },
+    {
+     "type": "text",
+     "text": "2 — obliczeniowych, stwierdzonymi w okresie sprawozdaw-"
+    },
+    {
+     "type": "text",
+     "text": "czym,"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "część opisową, zawierającą uzasadnienie powstałych zmian w zasobach, ich kwalifikacji oraz strat,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "odpis pisemnej zgody na przeklasyfikowanie zasobów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Operat ewidencyjny sporządza się z zachowaniem numeracji i oznaczeń poszczególnych parcel lub bloków obliczeniowych, których użyto w zatwierdzonej dokumentacji geologicznej i projekcie zagospodarowania złoża.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Sporządzanie przez przedsiębiorcę zbiorczego zestawienia zasobów geologicznych i przemysłowych określają przepisy o resortowych badaniach statystycznych dotyczących ochrony środowiska, gospodarki wodnej i geologii.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem 2 września 1994 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa: S. Żelichowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
