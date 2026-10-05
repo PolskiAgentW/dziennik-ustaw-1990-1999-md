@@ -8,6 +8,17 @@ and converted to Markdown and a JSON tree of units (art./§/ust./pkt/lit.).*
 > **Nieoficjalne.** Teksty powstają przez automatyczny OCR skanów, więc zawierają błędy odczytu.
 > Wiążący jest PDF w Dzienniku Ustaw (link `source_pdf` w każdym pliku).
 
+<!-- zbiory:start -->
+**Wszystkie zbiory** (ten sam format plików, konwerter [eli2md](https://github.com/PolskiAgentW/eli2md)). Akty, które API ELI
+podaje w HTML (np. większość Dziennika Ustaw 2012–2024), nie są tu powielane.
+
+| lata | Dziennik Ustaw | Monitor Polski |
+|---|---|---|
+| od 2012 | [GitHub](https://github.com/PolskiAgentW/dziennik-ustaw-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-md): od 2025 r. wszystkie, wcześniej 98 aktów bez HTML; codziennie | [GitHub](https://github.com/PolskiAgentW/monitor-polski-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/monitor-polski-md): wszystkie z PDF (API nie ma HTML); codziennie |
+| 2000–2011 | [GitHub](https://github.com/PolskiAgentW/dziennik-ustaw-2000-2011-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-2000-2011-md): akty bez HTML w API | [GitHub](https://github.com/PolskiAgentW/monitor-polski-2000-2011-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/monitor-polski-2000-2011-md): wszystkie z PDF |
+| 1990–1999 | [GitHub](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md) · [HF](https://huggingface.co/datasets/PolskiAgentW/dziennik-ustaw-1990-1999-md): akty bez HTML w API (OCR skanów) | brak |
+<!-- zbiory:end -->
+
 ## Dlaczego
 
 W latach 1990–1999 Dziennik Ustaw ma 8 441 aktów. API ELI Sejmu (`api.sejm.gov.pl/eli`) podaje tekst HTML dla
@@ -16,7 +27,7 @@ W latach 1990–1999 Dziennik Ustaw ma 8 441 aktów. API ELI Sejmu (`api.sejm.go
 [dziennik-ustaw-md](https://github.com/PolskiAgentW/dziennik-ustaw-md) (od 2012 r., aktualizowany codziennie).
 
 PDF-y z tych lat to zeskanowane strony całych zeszytów: dwa łamy, kilka aktów na jednej stronie. Większość ma
-niewidoczną warstwę tekstu z OCR programu Adobe Acrobat (czcionka „HiddenHorzOCR”; w latach 1990–1998 ma ją 5 690 z 5 990 PDF-ów tego zbioru, wg `pdffonts`), część nie ma żadnej. Warstwa
+niewidoczną warstwę tekstu z OCR programu Adobe Acrobat (czcionka „HiddenHorzOCR”; w latach 1990–1999 ma ją 6 817 z 7 117 PDF-ów tego zbioru, wg `pdffonts`), część nie ma żadnej. Warstwa
 Acrobata przestawia wyrazy między wierszami i ma własne błędy, więc konwerter
 [eli2md](https://github.com/PolskiAgentW/eli2md) (od wersji 0.6.26) jej nie używa: czyta każdą stronę tesseractem,
 układa wiersze w kolejności łamów, wycina akt spośród sąsiednich na tych samych stronach i rozpoznaje jednostki
@@ -24,13 +35,13 @@ układa wiersze w kolejności łamów, wycina akt spośród sąsiednich na tych 
 
 Na 60 losowych aktach z lat 1990–1999, które mają też oficjalny HTML (próba testowa, niewidziana przy pisaniu
 konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności wynosi: z warstwy Acrobata
-(eli2md 0.6.25) 0,664, z OCR eli2md 0.6.34 0,983
+(eli2md 0.6.25) 0,664, z OCR eli2md 0.6.37 0,983
 ([pomiar](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999)).
 
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 07:03 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 10:20 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -47,8 +58,25 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 4864, razem 18364 z 187
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 24.
 
 Rodzaje aktów: Rozporządzenie 4179, Oświadczenie rządowe 294, Umowa międzynarodowa 148, Uchwała 91, Konwencja 68, Protokół 23, Traktat 19, Porozumienie 17, Zarządzenie 15, Układ 8, Statut 1, Ustawa 1.
-Wersje konwertera: eli2md 0.6.34 (4864).
+Wersje konwertera: eli2md 0.6.34 (4431), eli2md 0.6.37 (433).
 <!-- stats:end -->
+
+## Akty obowiązujące
+
+Według API ELI (pole `status`, odczyt z 2026-10-05) status „obowiązujący” ma 692 z 7 117 aktów tego zbioru. Status
+jest w front matter każdego pliku (`status_pl`) i w kolumnie `legal_status` w Parquet na Hugging Face (`index.csv`
+go nie ma). Wybór w klonie repozytorium: `grep -l '^status_pl: "obowiązujący"' DU/*/*.md`. Status nie jest
+aktualizowany po konwersji. Teksty są w brzmieniu ogłoszonym w Dzienniku Ustaw, bez późniejszych zmian (tekst
+jednolity, jeśli go ogłoszono, jest osobną pozycją Dziennika Ustaw).
+
+## Zmiana 2026-10-05
+
+Dodane lata 1998 (1 126 aktów) i 1999 (1 127). Lata 1990–1997 przeliczone eli2md 0.6.37 (było 0.6.34). Porównanie
+słów każdego aktu z poprzednią wersją: w 37 aktach doszedł tekst (razem 3 334 słowa; usuniętych słów najwyżej
+1/10 dodanych), m.in. prawa kolumna ostatniego aktu zeszytu, którą 0.6.34 obcinało razem z kolofonem (DU/1996/84:
+sentencja uchwały Trybunału Konstytucyjnego). W 16 aktach 25 nagłówków „Załącznik…” jest teraz zwykłym akapitem, tekst bez zmian:
+załączniki umów międzynarodowych ogłaszanych w akcie, załącznik cytowany w akcie zmieniającym, załącznik innego aktu
+z tych samych stron oraz DU/1995/229 (zob. „Znane usterki”). Innych zmian słów nie ma.
 
 ## Zawartość
 
@@ -68,7 +96,7 @@ Wersje konwertera: eli2md 0.6.34 (4864).
 ## Jak dobre jest
 
 Wzorcem są akty z lat 1990–1999, które mają HTML w API ELI (głównie ustawy, obwieszczenia i orzeczenia). Wynik
-eli2md 0.6.34 (taki sam jak 0.6.31; `eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunkcji):
+eli2md 0.6.37 (na tych próbach taki sam jak 0.6.31, 0.6.34 i 0.6.36; `eval/evaluate.py --ocr`, słowa bez wielkości liter i interpunkcji):
 
 | próba | treść R | treść P | aktów z R < 0,90 | załączniki R |
 |---|---:|---:|---:|---:|
@@ -78,7 +106,7 @@ eli2md 0.6.34 (taki sam jak 0.6.31; `eval/evaluate.py --ocr`, słowa bez wielko�
 R = odsetek słów oficjalnego tekstu odczytanych we właściwej kolejności, P = odsetek słów wyniku obecnych
 w oficjalnym tekście. Dla porównania warstwa Acrobata (0.6.25) na tych samych aktach: R 0,664 i 0,670, P 0,568
 i 0,616. Akty w tym zbiorze (bez HTML, w większości rozporządzenia) nie mają wzorca; zakładam, że wynik jest podobny,
-ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpisy „0.6.26”–„0.6.34”)
+ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpisy „0.6.26”–„0.6.37”)
 i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999).
 
 ## Znane usterki
@@ -94,6 +122,11 @@ i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/s
   ([lista i skrypt](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999)).
 - Pierwszy akt zeszytu stoi na stronie ze spisem treści. Gdy jest krótki, do jego tekstu trafiają fragmenty spisu
   (numery stron) i kolejność akapitów bywa zła (DU/1999/728).
+- Nagłówki załączników, które OCR odczytał przed podpisem aktu, są od 0.6.36 zwykłymi akapitami, nie `## Załącznik`
+  (tekst zostaje). Dotyczy to głównie załączników umów międzynarodowych ogłaszanych w akcie, ale też DU/1995/229,
+  gdzie OCR ułożył strony w złej kolejności.
+- W tekście 122 aktów jest fragment stopki zeszytu („Egzemplarze bieżące i z lat ubiegłych…”, adres sprzedaży),
+  nie zawsze na końcu.
 - Strony słabej jakości (przekreślenia, pieczęcie, ciemne tło) dają fragmenty bez sensu (DU/1990/390).
 - Tabele są spłaszczone do akapitów; na stronach w dwóch łamach ich komórki mogą się przeplatać.
 - Przypisy nie są rozpoznawane jako przypisy (zostają akapitami).

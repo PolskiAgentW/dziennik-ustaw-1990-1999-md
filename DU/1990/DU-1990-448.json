@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/448",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 17 października 1990 r. w sprawie stanowisk pracy oraz zasad wynagradzania pracowników szkół wyższych nie będących nauczycielami akademickimi.",
- "converter": "eli2md 0.6.34",
+ "converter": "eli2md 0.6.37",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/448/text.pdf",
  "body": [
   {
@@ -840,74 +840,74 @@
      "num": "4",
      "path": "par_16/ust_4",
      "text": "Kwota wynagrodzenia zryczałtowanego powinna być ustalona w oparciu o stosowane stawki wynikające z kategorii osobistego zaszeregowania kierowcy.",
-     "children": []
-    }
-   ]
-  }
- ],
- "annexes": [
-  {
-   "heading": "Załącznik nr 1 TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO",
-   "body": [
-    {
-     "type": "text",
-     "text": "Kategoria . Miesięczna stawka w złotych zaszeregowania 1 2 300.000— 400.000 aren Il 345.000— 436.000 390.000— 482.000 436.000— 529.000"
-    },
-    {
-     "type": "text",
-     "text": "529.000— 623.000"
-    },
-    {
-     "type": "text",
-     "text": "576.200— 670.000 623.000— 720.000 670.000— 770.000 X 720.000— 820.000 XI 770.000— 870.000 XII 820.000— 920.000 XIII 870.000— 972.000 920.000—1.024.000 _— = 1.024.000—1.135.000 972.000—1.077.000"
-    },
-    {
-     "type": "text",
-     "text": "1.077.000—1.195.000 1.135.000—1.260.000"
-    },
-    {
-     "type": "text",
-     "text": "1.200.000—1.350.000"
-    },
-    {
-     "type": "text",
-     "text": "Uwaga: Minister Edukacji Narodowej może przyznać dyrektorowi administracyjnemu zatrudnionemu w uczelni, w której liczba pracowników i studentów przekracza łącznie 13000 osób, wynagrodzenie zasadnicze wyższe od maksymalnej stawki określonej w tabeli według kategorii XIX, w wysokości jednak nie wyższej niż 1 500000 zł. Rektor uczelni, w której dyrektorowi administracyjnemu zostanie przyznane wynagrodzenie wyższe od maksymalnej stawki określonej w tabeli, może przyznać kwestorowi wynagrodzenie zasadnicze według XIX kategorii."
-    },
-    {
-     "type": "par",
-     "num": "17",
-     "path": "par_17",
-     "text": "",
      "children": [
       {
-       "type": "ust",
-       "num": "1",
-       "path": "par_17/ust_1",
-       "text": "Za każdą godzinę pracy wykonywanej w porze nocnej pracownikowi przysługuje dodatek w wysokości 20% godzinowej stawki wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania.",
-       "children": []
+       "type": "text",
+       "text": "Załącznik nr 1 TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO"
       },
       {
-       "type": "ust",
-       "num": "2",
-       "path": "par_17/ust_2",
-       "text": "Za każdą godzinę pracy na drugiej zmianie przysługuje pracownikowi dodatek w wysokości 10% godzinowej stawki wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania.",
-       "children": []
+       "type": "text",
+       "text": "Kategoria . Miesięczna stawka w złotych zaszeregowania 1 2 300.000— 400.000 aren Il 345.000— 436.000 390.000— 482.000 436.000— 529.000"
+      },
+      {
+       "type": "text",
+       "text": "529.000— 623.000"
+      },
+      {
+       "type": "text",
+       "text": "576.200— 670.000 623.000— 720.000 670.000— 770.000 X 720.000— 820.000 XI 770.000— 870.000 XII 820.000— 920.000 XIII 870.000— 972.000 920.000—1.024.000 _— = 1.024.000—1.135.000 972.000—1.077.000"
+      },
+      {
+       "type": "text",
+       "text": "1.077.000—1.195.000 1.135.000—1.260.000"
+      },
+      {
+       "type": "text",
+       "text": "1.200.000—1.350.000"
+      },
+      {
+       "type": "text",
+       "text": "Uwaga: Minister Edukacji Narodowej może przyznać dyrektorowi administracyjnemu zatrudnionemu w uczelni, w której liczba pracowników i studentów przekracza łącznie 13000 osób, wynagrodzenie zasadnicze wyższe od maksymalnej stawki określonej w tabeli według kategorii XIX, w wysokości jednak nie wyższej niż 1 500000 zł. Rektor uczelni, w której dyrektorowi administracyjnemu zostanie przyznane wynagrodzenie wyższe od maksymalnej stawki określonej w tabeli, może przyznać kwestorowi wynagrodzenie zasadnicze według XIX kategorii."
       }
      ]
-    },
-    {
-     "type": "par",
-     "num": "18",
-     "path": "par_18",
-     "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 października 1990 r.",
-     "children": []
-    },
-    {
-     "type": "signature",
-     "text": "Minister Edukacji Narodowej: w z. W. Kulerski"
     }
    ]
   },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Za każdą godzinę pracy wykonywanej w porze nocnej pracownikowi przysługuje dodatek w wysokości 20% godzinowej stawki wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Za każdą godzinę pracy na drugiej zmianie przysługuje pracownikowi dodatek w wysokości 10% godzinowej stawki wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 października 1990 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Edukacji Narodowej: w z. W. Kulerski"
+  }
+ ],
+ "annexes": [
   {
    "heading": "Załączniki do rozporządzenia Ministra Edukacji Narodowej z dnia 17 października 1990 r. (poz. 448). Załącznik nr 2 TABELA MIESIĘCZNYCH STAWEK DODATKU FUNKCYJNEGO",
    "body": [
