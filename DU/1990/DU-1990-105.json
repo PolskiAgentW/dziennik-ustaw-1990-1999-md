@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/105",
  "title": "Rozporządzenie Rady Ministrów z dnia 15 marca 1990 r. zmieniające rozporządzenie w sprawie świadectw pracy i opinii.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/105/text.pdf",
  "body": [
   {
@@ -77,13 +77,12 @@
      "type": "text",
      "text": "§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
      "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki",
-     "quoted": true
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

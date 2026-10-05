@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/400",
  "title": "Rozporządzenie Rady Ministrów z dnia 25 września 1990 r. zmieniające rozporządzenie w sprawie właściwości miejscowej organów podatkowych w sprawach niektórych zobowiązań podatkowych.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/400/text.pdf",
  "body": [
   {
@@ -135,14 +135,13 @@
      "num": "2",
      "path": "par_2/ust_2",
      "text": "Osoby prawne, o których mowa w § 1 pkt 3, kontynuujące w 1990 r. działalność gospodarczą, które wpłacały podatek obrotowy do urzędu skarbowego według miejsca wykonywania działalności przez oddział (filię) lub zakład, określonego w zezwoleniu, wpłacają podatek obrotowy do końca roku podatkowego 1990 nadal do tych urzędów skarbowych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

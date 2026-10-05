@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/209",
  "title": "Rozporządzenie Rady Ministrów z dnia 28 maja 1990 r. zmieniające rozporządzenie w sprawie niektórych praw i obowiązków pracowników skierowanych do pracy za granicą w celu realizacji budownictwa eksportowego i usług związanych z eksportem.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/209/text.pdf",
  "body": [
   {
@@ -68,15 +68,14 @@
        "type": "text",
        "text": "§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
        "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Prezes Rady Ministrów: 7. Mazowiecki",
-       "quoted": true
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

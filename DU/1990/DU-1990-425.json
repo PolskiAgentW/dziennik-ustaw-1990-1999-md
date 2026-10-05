@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/425",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 października 1990 r. w sprawie systemu wynagradzania pracowników Agencji Rynku Rolnego.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/425/text.pdf",
  "body": [
   {
@@ -363,12 +363,11 @@
    "num": "14",
    "path": "par_14",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia „z mocą od dnia 21 czerwca 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

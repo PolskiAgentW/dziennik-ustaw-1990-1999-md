@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/475",
  "title": "Oświadczenie rządowe z dnia 28 września 1990 r. w sprawie przystąpienia Rzeczypospolitej Polskiej do Aktu paryskiego Konwencji berneńskiej o ochronie dzieł literackich i artystycznych, sporządzonego w Paryżu dnia 24 lipca 1971 r.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/475/text.pdf",
  "body": [
   {
@@ -199,64 +199,6 @@
   {
    "type": "signature",
    "text": "Minister Spraw Zagranicznych: w z. J. Makarczyk"
-  },
-  {
-   "type": "text",
-   "text": "476"
-  },
-  {
-   "type": "text",
-   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
-  },
-  {
-   "type": "text",
-   "text": "z dnia 14 listopada 1990 r."
-  },
-  {
-   "type": "text",
-   "text": "w sprawie szczegółowego zakresu działania Ministra Przekształceń Witasnosciowycu."
-  },
-  {
-   "type": "text",
-   "text": "Na podstawie art. 4 ust. 1 ustawy z dnia 13 lipca 1990 r. o utworzeniu urzędu Ministra Przekształceń Własnościowych (Dz. U. Nr 51, poz. 299) zarządza się, co następuje:"
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_1/ust_1",
-     "text": "Do zakresu działania Ministra Przekształceń Własnościowych należy:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "par_1/ust_1/pkt_1",
-       "text": "w zakresie opracowywania założeń polityki państwa w dziedzinie prywatyzacji oraz współpracy kapitałowej z zagranicą:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "par_1/ust_1/pkt_1/lit_a",
-         "text": "opracowywanie we współdziałaniu z innymi naczelnymi (centralnymi) organami administracji państwowej projektów podstawowych kierunków prywatyzacji oraz przeznaczenia środków uzyskanych przez Skarb Państwa z prywatyzacji,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "par_1/ust_1/pkt_1/lit_b",
-         "text": "występowanie do Rady Ministrów w sprawie określenia rodzajów przedsiębiorstw państwowych o szczególnym znaczeniu dla gospodarki państwa, których prywatyzacja będzie wymagać zgody Rady Ministrów,",
-         "children": []
-        }
-       ]
-      }
-     ]
-    }
-   ]
   }
  ],
  "annexes": [],

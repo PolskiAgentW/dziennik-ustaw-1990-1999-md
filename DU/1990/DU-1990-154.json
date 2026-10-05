@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/154",
  "title": "Rozporządzenie Rady Ministrów z dnia 9 kwietnia 1990 r. w sprawie zakresu, zasad i trybu udzielania kredytobiorcom pomocy ze środków budżetowych w 1990 r. w spłacie części należnego bankom oprocentowania od kredytów udzielonych po dniu 31 grudnia 1989 r.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/154/text.pdf",
  "body": [
   {
@@ -262,12 +262,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/469",
  "title": "Rozporządzenie Rady Ministrów z dnia 10 listopada 1990 r. w sprawie przekazywania na potrzeby obrony państwa środków transportowych, narzędzi, maszyn i urządzeń przez osoby fizyczne i niektóre osoby prawne oraz odszkodowań w tych sprawach.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/469/text.pdf",
  "body": [
   {
@@ -782,12 +782,11 @@
    "num": "23",
    "path": "par_23",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1991 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

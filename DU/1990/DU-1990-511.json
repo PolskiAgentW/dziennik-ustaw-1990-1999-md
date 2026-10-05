@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/511",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 grudnia 1990 r. zmieniające rozporządzenie w sprawie opłat za gospodarcze korzystanie ze środowiska i wprowadzanie w nim zmian.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/511/text.pdf",
  "body": [
   {
@@ -87,12 +87,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1991 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/280",
  "title": "Rozporządzenie Rady Ministrów z dnia 24 lipca 1990 r. w sprawie ustanowienia w 1990 r. czasowego ograniczenia przywozu niektórych towarów.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/280/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 sierpnia 1990 roku.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [
@@ -90,154 +89,6 @@
     {
      "type": "text",
      "text": "*) Pozycja oznaczona kodem H.S. 2208.90 nie obejmuje następujących napojów alkoholowych: wódek otrzymywanych przez destylację wina i winogron lub wytłoków z winigron, whisky, rumów, ginu i jałowcówek."
-    },
-    {
-     "type": "text",
-     "text": "281"
-    },
-    {
-     "type": "text",
-     "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 4 lipca 1990 r."
-    },
-    {
-     "type": "text",
-     "text": "w sprawie opłat za czynności egzekucyjne oraz sposobu przeprowadzania publicznej licytacji i trybu postępowania przy przechowywaniu i egzekucyjnej sprzedaży niektórych rodzajów ruchomości."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 63 i 106 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. Nr 24, poz. 151, z 1975r. Nr 16, poz. 91, z 1982r. Nr 30, poz. 210i Nr 45, poz. 289 oraz z 1990r. Nr 21, poz. 126 i Nr 34, poz. 198) zarządza się, co następuje:"
-    },
-    {
-     "type": "heading",
-     "label": "Rozdział 1",
-     "text": "Opłaty za czynności egzekucyjne w egzekucji należności pieniężnych"
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "",
-     "children": [
-      {
-       "type": "ust",
-       "num": "1",
-       "path": "par_1/ust_1",
-       "text": "Opłaty za czynności egzekucyjne dokonane w celu wyegzekwowania należności pieniężnych od zobowiązanych wynoszą:",
-       "children": [
-        {
-         "type": "pkt",
-         "num": "1",
-         "path": "par_1/ust_1/pkt_1",
-         "text": "za pobranie pieniędzy na miejscu u zobowiązanego przez poborcę skarbowego lub innego upoważnionego pracownika — 5% od kwoty pobranej należności, nie mniej jednak niż 3.000 zł,",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "za zajęcie świadczeń z ubezpieczenia społecznego"
-        },
-        {
-         "type": "text",
-         "text": "2"
-        },
-        {
-         "type": "text",
-         "text": "— — 4% od kwoty egzekwowanej należności, nie mniej jednak niż 1.500 zł,"
-        },
-        {
-         "type": "text",
-         "text": "3 za zajęcie wynagrodzenia za prace — 4% egzekwowanej"
-        },
-        {
-         "type": "text",
-         "text": "— należności, nie mniej jednak, niż 3.000 zł,"
-        },
-        {
-         "type": "text",
-         "text": "za zajęcie innych niż wymienione w pkt 2 i 3 wierzytel-"
-        },
-        {
-         "type": "text",
-         "text": "4"
-        },
-        {
-         "type": "text",
-         "text": "— ności pieniężnych lub innych praw majątkowych — 5% od kwoty egzekwowanej należności, nie mniej jednak niż 5.000 zł,"
-        },
-        {
-         "type": "text",
-         "text": "5"
-        },
-        {
-         "type": "text",
-         "text": "— za zajęcie ruchomości — 6% od kwoty egzekwowanej należności, nie mniej jednak niż 8.000 zł,"
-        },
-        {
-         "type": "pkt",
-         "num": "6",
-         "path": "par_1/ust_1/pkt_6",
-         "text": "za odebranie zajętych ruchomości od zobowiązanego — 5% od kwoty wartości szacunkowej tych ruchomości, nie mniej jednak niż 8.000 zł,",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "za ogłoszenie licytacji zajętych ruchomości lub za czy- Z"
-        },
-        {
-         "type": "text",
-         "text": "— ności przygotowawcze do sprzedaży egzekucyjnej w inny sposób — 8.000 zł,"
-        },
-        {
-         "type": "pkt",
-         "num": "8",
-         "path": "par_1/ust_1/pkt_8",
-         "text": "za przeprowadzenie licytacji lub dokonanie sprzedaży egzekucyjnej w inny sposób — 5% od kwoty uzysku ze sprzedaży, nie mniej jednak niż 8.000 zł,",
-         "children": []
-        },
-        {
-         "type": "pkt",
-         "num": "9",
-         "path": "par_1/ust_1/pkt_9",
-         "text": "za spisanie protokołu o udaremnieniu przez zobowiązanego przeprowadzenia egzekucji z zajętych ruchomości przez ich usunięcie, zbycie lub uszkodzenie — 10% od wartości szacunkowej tych ruchomości, nie mniej jednak niż 16.000 zł,",
-         "children": []
-        },
-        {
-         "type": "text",
-         "text": "za wezwanie pomocy Policji — 16.000 zł,"
-        },
-        {
-         "type": "text",
-         "text": "10)"
-        },
-        {
-         "type": "text",
-         "text": "za spisanie na miejscu u zobowiązanego protokołu 11) stwierdzającego stan majątkowy zobowiązanego — 5% od kwoty egzekwowanej należności, nie mniej jednak niż 1.000 zł, a nie więcej niż 3.000 zł,"
-        },
-        {
-         "type": "text",
-         "text": "za wystąpienie do komornika sądowego o przeprowa-"
-        },
-        {
-         "type": "text",
-         "text": "12"
-        },
-        {
-         "type": "text",
-         "text": "— dzenie w trybie sądowym egzekucji z nieruchomości zobowiązanego — 40.000 zł."
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "2",
-       "path": "par_1/ust_2",
-       "text": "Z tytułu zwrotu wydatków za wszystkie czynności manipulacyjne związane ze stosowaniem środków egzekucyjnych pobiera się opłatę manipulacyjną. Opłata wynosi 1% od kwoty egzekwowanych należności objętych każdym tytułem wykonawczym, nie mniej jednak niż 1.500 zł.",
-       "children": []
-      }
-     ]
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/242",
  "title": "Rozporządzenie Rady Ministrów z dnia 28 czerwca 1990 r. w sprawie ustalenia wysokości współczynników korygujących wskaźniki wzrostu cen.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/242/text.pdf",
  "body": [
   {
@@ -63,24 +63,23 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 lipca 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    },
-    {
-     "type": "text",
-     "text": "Do P.T. Prenumeratorów"
-    },
-    {
-     "type": "text",
-     "text": "Wydział Wydawnictw URM uprzejmie informuje, że posiada na składzie wydawnictwo pt. „Konwencja o znakach i sygnałach drogowych”, sporządzona w Wiedniu w dniu 8 listopada 1968 r., ratyfikowana przez Polskę w dniu 1 czeawca 1984 r. (Dziennik Ustaw z 1988 r. Nr 5, poz. 42 i 46). Cena 1 egzemplarza wynosi 21.700,— zł. Wszyscy zainteresowani tym wydawnictwem proszeni są o dokonanie wpłaty na konto bankowe Wydziału Wydawnictw w Narodowym Banku Polskim Oddział Okręgowy Warszawa nr 1052-3157-139.11. Nakład wydawnictwa jest ograniczony."
-    },
-    {
-     "type": "text",
-     "text": "Opłata za prenumeratę w 1990 r. wynosi: Dziennika Ustaw 97 750 zł; Monitora Polskiego 54 400 zł."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
+  },
+  {
+   "type": "text",
+   "text": "Do P.T. Prenumeratorów"
+  },
+  {
+   "type": "text",
+   "text": "Wydział Wydawnictw URM uprzejmie informuje, że posiada na składzie wydawnictwo pt. „Konwencja o znakach i sygnałach drogowych”, sporządzona w Wiedniu w dniu 8 listopada 1968 r., ratyfikowana przez Polskę w dniu 1 czeawca 1984 r. (Dziennik Ustaw z 1988 r. Nr 5, poz. 42 i 46). Cena 1 egzemplarza wynosi 21.700,— zł. Wszyscy zainteresowani tym wydawnictwem proszeni są o dokonanie wpłaty na konto bankowe Wydziału Wydawnictw w Narodowym Banku Polskim Oddział Okręgowy Warszawa nr 1052-3157-139.11. Nakład wydawnictwa jest ograniczony."
+  },
+  {
+   "type": "text",
+   "text": "Opłata za prenumeratę w 1990 r. wynosi: Dziennika Ustaw 97 750 zł; Monitora Polskiego 54 400 zł."
   }
  ],
  "annexes": [],

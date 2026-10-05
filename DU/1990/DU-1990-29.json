@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/29",
  "title": "Rozporządzenie Rady Ministrów z dnia 29 stycznia 1990 r. w sprawie obowiązkowej składki zakładów pracy na Fundusz Pracy.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/29/text.pdf",
  "body": [
   {
@@ -29,12 +29,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

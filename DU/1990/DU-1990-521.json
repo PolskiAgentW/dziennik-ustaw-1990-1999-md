@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/521",
  "title": "Rozporządzenie Rady Ministrów z dnia 13 grudnia 1990 r. zmieniające rozporządzenie w sprawie dozoru technicznego.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/521/text.pdf",
  "body": [
   {
@@ -142,12 +142,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

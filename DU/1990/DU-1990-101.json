@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/101",
  "title": "Zarządzenie Prezesa Rady Ministrów z dnia 19 marca 1990 r. w sprawie zarządzenia wyborów do rad gmin.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/101/text.pdf",
  "body": [
   {
@@ -50,12 +50,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

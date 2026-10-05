@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/3",
  "title": "Rozporządzenie Rady Ministrów z dnia 31 grudnia 1989 r. w sprawie ustalenia wysokości współczynników korygujących oraz określenia przeciętnego miesięcznego wynagrodzenia stanowiącego podstawę ustalenia normy wynagrodzeń u podatników, którzy podjęli działalność po dniu 30 września 1989 r.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/3/text.pdf",
  "body": [
   {
@@ -71,14 +71,13 @@
      "num": "2",
      "path": "par_1/ust_2",
      "text": "Współczynniki korygujące na następne miesiące 1990 r. zostaną ustalone odrębnie. § 2. Kwotę przeciętnego miesięcznego wynagrodzenia stanowiącego podstawę ustalenia normy wynagrodzeń przez urzędy skarbowe dla podatników, którzy podjęli działalność po dniu 30 września 1989 r., określa się w wysokości 580 tys. zł. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1990 r.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

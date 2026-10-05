@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/113",
  "title": "Rozporządzenie Rady Ministrów z dnia 5 marca 1990 r. w sprawie zmiany stawek ceł na niektóre towary przywożone z zagranicy.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/113/text.pdf",
  "body": [
   {
@@ -64,8 +64,12 @@
    "type": "par",
    "num": "2",
    "path": "par_2",
-   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: 7. Mazowiecki",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

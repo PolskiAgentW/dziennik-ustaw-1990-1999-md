@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/30",
  "title": "Rozporządzenie Ministra Finansów z dnia 26 stycznia 1990 r. w sprawie taryfy za ubezpieczenia ustawowe komunikacyjne pojazdów mechanicznych zaopatrzonych w polskie tablice rejestracyjne dyplomatyczne i cudzoziemskie oraz zagraniczne tablice rejestracyjne.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/30/text.pdf",
  "body": [
   {
@@ -261,28 +261,7 @@
      "num": "2",
      "path": "ust_2",
      "text": "W przypadku opłaty składki w innej obcej walucie, uznawanej przez NBP za wymienialną, przeliczenie składki wyrażonej w USD na walutę, w jakiej opłacana jest składka, następuje według kursów walut obcych ustalonych przez NBP.",
-     "children": [
-      {
-       "type": "text",
-       "text": "31"
-      },
-      {
-       "type": "text",
-       "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 stycznia 1990 r. zmieniające rozporządzenie w sprawie taryf składek za ubezpieczenia ustawowe komunikacyjne w ruchu zagranicznym pojazdów mechanicznych zaopatrzonych w polskie tablice rejestracyjne zwyczajne. Na podstawie art. 8 ustawy z dnia 20 września 1984 r. o ubezpieczeniach majątkowych i osobowych (Dz. U. Nr45, poz. 242 i z 1989 r. Nr 30, poz. 160) zarządza się, CO następuje:"
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "W rozporządzeniu Ministra Finansów z dnia",
-     "children": [
-      {
-       "type": "text",
-       "text": "23 czerwca 1989 r. w sprawie taryf składek za ubezpieczenia ustawowe komunikacyjne w ruchu zagranicznym pojazdów mechanicznych zaopatrzonych w polskie tablice rejestracyjne zwyczajne (Dz. U. Nr 41, poz. 227) wprowadza się następujące zmiany:"
-      }
-     ]
+     "children": []
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/262",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 lipca 1990 r. w sprawie ustanowienia czasowego ograniczenia przywozu niektórych towarów.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/262/text.pdf",
  "body": [
   {
@@ -65,20 +65,19 @@
    "num": "4",
    "path": "par_4",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Lp. Kod H.S. 1 2207.10"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Lp. Kod H.S. 1 2207.10"
   }
  ],
  "annexes": [

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/523",
  "title": "Rozporządzenie Rady Ministrów z dnia 19 grudnia 1990 r. w sprawie określenia współczynnika korekty dla zwiększenia normy wypłat nagród i premii z zysku bilansowego za 1990 r.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/523/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia i ma zastosowanie do ustalenia normy wypłat nagród i premii z zysku bilansowego za 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

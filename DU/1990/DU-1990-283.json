@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/283",
  "title": "Rozporządzenie Rady Ministrów z dnia 9 lipca 1990 r. w sprawie wynagradzania pracowników samorządowych w 1990 r.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/283/text.pdf",
  "body": [
   {
@@ -455,12 +455,11 @@
    "num": "19",
    "path": "par_19",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 27 maja 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

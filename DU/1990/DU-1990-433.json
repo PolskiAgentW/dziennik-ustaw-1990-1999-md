@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/433",
  "title": "Rozporządzenie Rady Ministrów z dnia 19 października 1990 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników urzędów państwowych.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/433/text.pdf",
  "body": [
   {
@@ -31,18 +31,17 @@
      "num": "139",
      "path": "par_1/pkt_139",
      "text": "w § 5 dodaje się ust. 3 w brzmieniu: „„3. Dodatek, o którym mowa w ust. 1, może być podwyższany w szczególnie uzasadnionych wypadkach.” § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 października 1990 r.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Prezes Rady Ministrów: 7. Mazowiec"
-      },
-      {
-       "type": "text",
-       "text": "4"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiec"
+  },
+  {
+   "type": "text",
+   "text": "4"
   }
  ],
  "annexes": [],

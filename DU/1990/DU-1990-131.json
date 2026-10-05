@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/131",
  "title": "Rozporządzenie Rady Ministrów z dnia 31 marca 1990 r. zmieniające rozporządzenie w sprawie urządzeń zaopatrzenia w wodę i urządzeń kanalizacyjnych oraz opłat za wodę i wprowadzanie ścieków.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/131/text.pdf",
  "body": [
   {
@@ -49,12 +49,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

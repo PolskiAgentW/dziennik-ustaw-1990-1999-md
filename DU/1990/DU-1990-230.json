@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/230",
  "title": "Rozporządzenie Rady Ministrów z dnia 5 czerwca 1990 r. w sprawie zasad i trybu przejęcia przez wojewodów list kandydatów zarejestrowanych w związkach spółdzielni mieszkaniowych, a także obsługi i kierowania kandydatów do spółdzielni mieszkaniowych.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/230/text.pdf",
  "body": [
   {
@@ -138,12 +138,11 @@
    "num": "6",
    "path": "par_6",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

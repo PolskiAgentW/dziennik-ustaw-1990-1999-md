@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/1",
  "title": "Rozporządzenie Rady Ministrów z dnia 30 grudnia 1989 r. w sprawie określenia wysokości odsetek ustawowych za styczeń 1990 r.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/1/text.pdf",
  "body": [
   {
@@ -28,12 +28,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Wysokość odsetek za następne miesiące 1990 r. będzie ustalona odrębnie. §3.R F heist w ycie = dniem 1 stycz: nią on joke SACRĘ ae SENG Alla 1 SE",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

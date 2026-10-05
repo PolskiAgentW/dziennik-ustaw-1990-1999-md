@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/494",
  "title": "Rozporządzenie Rady Ministrów z dnia 1 grudnia 1990 r. w sprawie wynagrodzeń prokuratorów oraz asesorów i aplikantów prokuratury.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/494/text.pdf",
  "body": [
   {
@@ -203,12 +203,11 @@
    "num": "11",
    "path": "par_11",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 listopada 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/9",
  "title": "Rozporządzenie Rady Ministrów z dnia 6 stycznia 1990 r. w sprawie nagród za szczególne osiągnięcia w dziedzinie nauki i postępu technicznego oraz stypendiów na rozwiązywanie zadań badawczych i wdrożeniowych.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/9/text.pdf",
  "body": [
   {
@@ -583,12 +583,11 @@
    "num": "18",
    "path": "par_18",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. § 16. Jeżeli zadanie zostanie wykonane przed ustalonym terminem i dysponent stwierdzi osiągnięcie celu, uzys-",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

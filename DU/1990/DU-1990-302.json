@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/302",
  "title": "Rozporządzenie Rady Ministrów z dnia 23 lipca 1990 r. w sprawie ustanowienia czasowego ograniczenia wywozu niektórych towarów.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/302/text.pdf",
  "body": [
   {
@@ -50,8 +50,12 @@
    "type": "par",
    "num": "2",
    "path": "par_2",
-   "text": "Rozporządzenie wchodzi w życie z dniem 1 października 1990 r. Prezes Rady Ministrów: 7. Mazowiecki",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 października 1990 r.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

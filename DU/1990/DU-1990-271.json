@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/271",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 lipca 1990 r. w sprawie warunków jakim powinno odpowiadać zgłoszenie zamiaru łączenia, przekształcenia lub utworzenia podmiotów gospodarczych.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/271/text.pdf",
  "body": [
   {
@@ -171,57 +171,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 154 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 11 lipca 1990 r."
-    },
-    {
-     "type": "text",
-     "text": "zmieniające rozporządzenie w sprawie upoważnienia organów administracji państwowej do określenia zasad opracowywania norm kosztorysowych i ich wydawania oraz ustalania niektórych cen urzędowych."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 18 ust. 2 pkt 1 ustawy z dnia 26 lutego 1982 r. o cenach (Dz. U. z 1988r. Nr 27, poz. 195iz 1990r. Nr 34, poz. 198) zarządza się, co następuje:"
-    }
-   ]
+   "children": []
   },
   {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "W § 2 rozporządzenia Rady Ministrów z dnia 16 marca 1989 r. w sprawie upoważnienia organów administracji państwowej do określania zasad opracowywania norm kosztorysowych i ich wydawania oraz ustalania niektórych cen urzędowych (Dz. U. Nr 16, poz. 86) po pkt 6 dodaje się pkt 7 w brzmieniu:",
-   "children": [
-    {
-     "type": "text",
-     "text": "7) Ministra Przemysłu do ustalania urzędowych cen na energię elektryczną w obrocie pomiędzy przedsiębiorstwami wytwórczymi energetyki zawodowej, jednostką zamującą się przesyłem i obrotem energią elektryczną oraz przedsiębiorstwami rozdziału i dostawy energii elektrycznej.”’.",
-     "quoted": true
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "Rozporzączenie wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

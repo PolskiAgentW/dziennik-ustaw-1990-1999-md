@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/243",
  "title": "Rozporządzenie Rady Ministrów z dnia 25 czerwca 1990 r. zmieniające rozporządzenie w sprawie opłat za szczególne korzystanie z wód i urządzeń wodnych.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/243/text.pdf",
  "body": [
   {
@@ -215,12 +215,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 lipca 1990 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

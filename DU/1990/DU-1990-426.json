@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/426",
  "title": "Rozporządzenie Rady Ministrów z dnia 17 października 1990 r. zmieniające rozporządzenie w sprawie ławników izb morskich.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/426/text.pdf",
  "body": [
   {
@@ -41,8 +41,12 @@
    "type": "par",
    "num": "2",
    "path": "par_2",
-   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: 7. Mazowiecki",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],

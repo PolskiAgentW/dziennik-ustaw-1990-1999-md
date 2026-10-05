@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/409",
  "title": "Rozporządzenie Rady Ministrów z dnia 17 września 1990 r. w sprawie trybu legitymowania, zatrzymywania osób, dokonywania kontroli osobistej oraz przeglądania bagaży i sprawdzania ładunku przez policjantów.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/409/text.pdf",
  "body": [
   {
@@ -650,8 +650,12 @@
    "type": "par",
    "num": "22",
    "path": "par_22",
-   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. . Prezes Rady Ministrów: 7. Mazowiecki",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. .",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [
@@ -757,29 +761,6 @@
       {
        "type": "text",
        "text": "(podpis osoby kontrolowanej, właściciela, przedstawiciela przewoźnika lub spedytora) *’"
-      },
-      {
-       "type": "text",
-       "text": "410"
-      },
-      {
-       "type": "text",
-       "text": "ROZPORZĄDZENIE RADY MINISTRÓW z dnia 17 września 1990 r. w sprawie określenia przypadków oraz warunków i sposobów użycia przez policjantów środków przymusu bezpośredniego. Na podstawie art. 16 ust. 4 ustawy z dnia 6 kwietnia ."
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "",
-     "children": [
-      {
-       "type": "ust",
-       "num": "1",
-       "path": "par_1/ust_1",
-       "text": "Policjant może stosować środki przymusu bez- 1990 r. o Policji (Dz. U. Nr 30, poz. 179) zarządza się, co pośredniego z zachowaniem zasad określonych w art. 16 ust. następuje: 1—3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Nr 30, poz. 179).",
-       "children": []
       }
      ]
     }

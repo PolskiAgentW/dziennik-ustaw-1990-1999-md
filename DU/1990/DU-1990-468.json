@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/468",
  "title": "Rozporządzenie Rady Ministrów z dnia 9 listopada 1990 r. w sprawie ustanowienia wolnego obszaru celnego w Cieszynie.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/468/text.pdf",
  "body": [
   {
@@ -65,12 +65,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia i ma zastosowanie na obszarze odgraniczonym zgodnie z przepisami § 2 oraz objętym dozorem i kontrolą celną.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1990/50",
  "title": "Rozporządzenie Rady Ministrów z dnia 5 lutego 1990 r. w sprawie rozciągnięcie przepisów ustawy o pracownikach urzędów państwowych na pracowników Kancelarii Senatu.",
- "converter": "eli2md 0.6.29",
+ "converter": "eli2md 0.6.31",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1990/50/text.pdf",
  "body": [
   {
@@ -20,8 +20,12 @@
    "type": "par",
    "num": "2",
    "path": "par_2",
-   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 lipca 1989 r. Prezes Rady Ministrów: 7. Mazowiecki",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 lipca 1989 r.",
    "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],
