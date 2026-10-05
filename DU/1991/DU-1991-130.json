@@ -1,0 +1,411 @@
+{
+ "eli": "DU/1991/130",
+ "title": "Rozporządzenie Ministra Łączności z dnia 18 marca 1991 r. w sprawie wymagań technicznych i eksploatacyjnych dla urządzeń, linii i sieci telekomunikacyjnych oraz warunków ich współpracy z siecią telekomunikacyjną użytku publicznego.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1991/130/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ŁĄCZNOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 marca 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wymagań technicznych i eksploatacyjnych dla urządzeń, linii i sieci telekomunikacyjnych oraz warunków ich współpracy z siecią telekomunikacyjną użytku publicznego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 pkt 2 i 3 ustawy z dnia 23 listopada 1990 r. o łączności (Dz. U. Nr 86, poz. 504) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zakładana i używana na terytorium Rzeczypospolitej Polskiej sieć radiokomunikacji ruchomej lądowej, pracująca w paśmie częstotliwości 450 MHz, powinna odpowiadać wymaganiom technicznym i eksploatacyjnym oraz warunkom współpracy z siecią telekomunikacyjną użytku publicznego, określonym w załączniku do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Łączności: J. S/ezak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Łąeae z dnia 18 marca 1991 r. (poz. 130)",
+   "body": [
+    {
+     "type": "text",
+     "text": "PODSTAWOWE WYMAGANIA TECHNICZNE I EKSPLOATACYJNE DLA SIECI RADIOKOMUNIKACJI RUCHOMEJ LĄDOWEJ O STRUKTURZE KOMÓRKOWEJ, ZAKŁADANEJ I EKSPLOATOWANEJ NA TERYTORIUM RZECZYPOS- POLITEJ POLSKIEJ W PASMIE CZĘSTOTLIWOŚCI 450 MHz, ORAZ WARUNKÓW JEJ WSPÓŁPRACY Z SIECIĄ TELEKOMUNIKACYJNĄ UŻYTKU PUBLICZNEGO"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Przedmiot wymagań"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wymagania dotyczą sieci analogowej radiokomunikacji ruchomej lądowej o strukturze komórkowej, zakładanej i eksploatowanej w Polsce w pasmie częstotliwości 450 MHz, zwanej dalej „siecią komórkową”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Sieć komórkową tworzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "automatyczne centrale radiotelefoniczne, zwane dalej „ACR”, sterowane programowo, sprawujące kontrolę nad sieciami radiowymi w poszczególnych regionach lub nad całą siecią w kraju, zapewniające powiązanie sieci komórkowej z publiczną siecią telefoniczną poprzez automatyczną centralę międzymiastową, zwaną dalej „ACMM”, lub centralę miejscową; ACR realizują także zaliczanie rozmów przychodzących do sieci i z niej wychodzących;",
+       "children": [
+        {
+         "type": "text",
+         "text": "2"
+        },
+        {
+         "type": "text",
+         "text": "— stacje bazowe, zwane dalej „SB”, przeznaczone do obsługi poszczególnych komórek, złożone z odpowiedniej liczby nadajników i odbiorników radiowych, wyposażone w urządzenia sterujące i zarządzające wykorzystaniem kanałów w komórce, współpracujące z ACR w procesie identyfikacji i lokalizacji stacji ruchomych;"
+        },
+        {
+         "type": "text",
+         "text": "3"
+        },
+        {
+         "type": "text",
+         "text": "— linie łącznikowe pomiędzy SB i ACR oraz pomiędzy ACR iACMM (lub centralami miejscowymi), wykonywane za pomocą kabli miedzianych, światłowodów lub mikrofalowych linii radiowych;"
+        },
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "text",
+         "text": "— radiotelefoniczne stacje abonenckie, zwane dalej „SR” — ruchome, poruszające się po obszarze objętym zasięgiem obsługi sieci komórkowej, lub stacjonarne, ogólnie dostępne, rozmieszczone wzdłuż dróg krajowych."
+        },
+        {
+         "type": "text",
+         "text": "ll. Określenie systemu i wyposażenia sieci komórkowej"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W sieci komórkowej stosowany jest system NMT 450 (Nordic Mobile Telephone), wersja z odstępem międzykanałowym równym 25 kHz, z możliwością stosowania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "kanałów połówkowych z odstępem międzykanałowym równym 12,5 kHz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "kompandorów w torze akustycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "udoskonalonego systemu automatyki, odpowiadającego systemowi NMT 900, włącznie z systemem potwierdzenia identyfikacji stacji abonenckiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Dla sieci komórkowej przeznacza się następujące zakresy częstotliwości: 452,500—457,000 MHz oraz 462,500—467,000 MHz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Dla każdego kanału na częstotliwości wyższej pracuje nadajnik stacji bazowej, a na częstotliwości niższej — nadajnik stacji ruchomej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Każda stacja ruchoma powinna być przystosowana do pracy we wszystkich kanałach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Sumaryczny czas zajętości wszystkich przewidzianych dla sieci komórkowej kanałów radiowych, rozmównych lub sygnalizacyjnych nie może przekraczać 3 minut w ciągu jednej godziny największego ruchu, na obszarze obsługiwanym przez jedną stację bazową, przy natężeniu ruchu równym co najmniej 2 Erl/km?.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W przypadku stosowania linii radiowych jako linii łącznikowych w sieci komórkowej, dopuszcza się wykorzystywanie w nich następujących zakresów częstotliwości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "w szerokim zakresie zastosowań: 8, 11, 13, 18 GHz,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "w indywidualnych przypadkach: 4, 6 GHz. Kanały częstotliwościowe dla transmisji (analogowej lub cyfrowej) rozmieszcza się zgodnie z zaleceniami Międzynarodowego Doradczego Komitetu Radiokomunikacyjnego, zwanego dalej „CCIR”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Wyposażenie sieci komórkowej powinno zapewniać co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "połączenie w celu nawiązania rozmowy inicjowanej przez stację ruchomą, skierowanej do użytkownika publicznej sieci telefonicznej, znajdującego się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_9/pkt_1/lit_a",
+         "text": "na obszarze sieci lokalnej (w tym połączenia do służb ratujących życie i mienie ludzkie),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_9/pkt_1/lit_b",
+         "text": "na dowolnym obszarze kraju,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_9/pkt_1/lit_c",
+         "text": "na obszarze dowolnego innego kraju,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "użytkownika publicznej sieci telefonicznej polskiej lub innego kraju (stacjonarnej lub ruchomej) ze stacją ruchomą znajdującą się na obszarze jej macierzystej ACR,"
+          },
+          {
+           "type": "text",
+           "text": "połączenie w celu nawiązania rozmowy inicjowanej 3"
+          },
+          {
+           "type": "text",
+           "text": "— przez użytkownika publicznej sieci telefonicznej lub stację ruchomą ze stacją ruchomą znajdującą się na. obszarze działania innej ACR niż jej macierzysta,"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_9/pkt_4",
+       "text": "połączenie w celu nawiązania rozmowy inicjowanej przez — użytkownika publicznej sieci telefonicznej, skierowanej do innego użytkownika tej sieci, ale wykonanej na zlecenie wywoływanej stacji ruchomej (rozmowa przeadresowana),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "połączenia w celu transmisji sygnałów służbowych — niezbędnych do pracy sieci komórkowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "W przypadku gdy abonent ruchomy przemieszcza się między strefami obsługiwanymi przez różne ACR, w tym wzdłuż dróg krajowych, sieć komórkowa powinna zapewnić możliwość realizacji wszystkich połączeń wymienionych w ust. 9 bez przerywania rozmowy (roaming).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ill. Warunki współpracy sieci komórkowej z publiczną siecią telefoniczną"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Współpraca sieci komórkowej z publiczną siecią telefoniczną odbywa się przez styk ACR—ACMM lub ACR—centrala miejscowa. W sieci komórkowej mogą być wykorzystywane wydzielone linie łącznikowe pomiędzy różnymi ACR i pomiędzy każdą ACR i podległymi jej SB.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Centrale radiowe ACR dołącza się do automatycznych central międzymiastowych ACMM (lub do central miejscowych) — cyfrowych lub analogowych, elektromagnetycznych ze sterowaniem programowanym SPC z przejściem dwutorowym — za pośrednictwem jednokierunkowych wiązek wyjściowych i przyjściowych pracujących w systemie PCM 30, z wykorzystaniem sygnalizacji liniowej R2 lub systemu sygnalizacji nr 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "W ruchu wychodzącym z ACR należy przewidzieć możliwość pełnego lub częściowego tandemowania połączeń przez współpracujące centrale ACMM. Przy częściowym tandemie centrala ACMM powinna przyjmować tylko część cyfr numeru żądanego abonenta, niezbędną w procesie realizacji połączenia dla określenia kierunku (ewentualnie taryfy), a następne cyfry, gdy dalej występuje też sygnalizacja rejestrowa R2, powinny być wymieniane (po zestawieniu pola przez centralę ACMM) między wyjściową centralą ACR a kolejną centralą w łańcuchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "W ruchu przychodzącym do ACR współpracujące centrale powinny pracować w częściowym tandemie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Centrala ACR powinna zapewniać możliwość dołączenia do niej traktu cyfrowego PCM 30 poprzez standardowy punkt styku zgodny z zaleceniami Niebieskiej Księgi G 703.6 Międzynarodowego Doradczego Komitetu Telegraficznego i Telefonicznego, zwanego dalej „CCITT” (dla przepływności binarnej 2048 kbit/s).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Centrala ACR współpracująca z centralą ACMM (lub tranzytową) poprzez łącza cyfrowe powinna zapewniać stosowanie systemu sygnalizacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_16/pkt_1",
+       "text": "liniowej R2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_16/pkt_2",
+       "text": "rejestrowej R2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_16/pkt_3",
+       "text": "nr 7 CCITT, w przypadku gdy współpracująca z ACR centrala ACMM jest wyposażona w ten system sygnalizacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Centrale ACR powinny wytwarzać następujące sygnały tonowe o częstotliwości 425 + 25 Hz, przesyłane w kierunku do ACMM lub centrali miejscowej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_17/pkt_1",
+       "text": "zwrotny sygnał wywołania, nadawany w następującym rytmie: emisja 1000 ms + 10%, cisza 4000 ms + 10%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_17/pkt_2",
+       "text": "sygnał marszrutowania (w czasie oczekiwania na zestawienie połączenia) nadawany w następującym rytmie: emisja 50 ms + 10%, cisza ms + 10%.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poziomy mocy wyżej wymienionych sygnałów, mierzone na wyjściu centrali, powinny wynosić: — 10 dBmO + 5 dB na rezystancji 800 omów."
+        },
+        {
+         "type": "text",
+         "text": "IV. Numeracja abonentów ruchomych w sieci telefonicznej"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Centrala ACR powinna być dostosowana do nadawania następujących długości numerów telefonicznych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_18/pkt_1",
+       "text": "krajowych, w postaci 4...8 cyfr zakończonych znakiem „koniec wybierania\" (1-15),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_18/pkt_2",
+       "text": "międzynarodowych w postaci „0” plus 6...12 cyfr zakończonych znakiem „koniec wybierania” (I-15),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_18/pkt_3",
+       "text": "dostępu do abonenckich usług specjalnych — przez 3 lub 4 cyfry w postaci „9XY” lub „96XY” zakończone znakiem „koniec wybierania” (1-15).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Krajowy numer stacji ruchomej sieci komórkowej powinien mieć postać: „90X,X,X;X,X,X5', gdzie „90” oznacza wskaźnik sieci komórkowej, natomiast „X,X,X,X,X:X5\" — numer krajowej stacji ruchomej w danej centrali ACR.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Stacja ruchoma sieci komórkowej podczas realizacji dowolnego połączenia wybiera pełny numer krajowy. Informacja ta jest uzupełniana znakiem „koniec wybierania\" (1-15) i przekazywana do ACMM.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -30,17 +30,18 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 00:29 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 04:41 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
 | 1990 | 433 | 433 | 0 |
+| 1991 | 421 | 421 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 433, razem 1209 z 1384 stron. Tekst z OCR (oznaczony) ma 1204 z nich w 433 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 1.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 854, razem 2575 z 2758 stron. Tekst z OCR (oznaczony) ma 2560 z nich w 854 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 3.
 
-Rodzaje aktów: Rozporządzenie 388, Oświadczenie rządowe 19, Umowa międzynarodowa 12, Uchwała 7, Konwencja 4, Zarządzenie 3.
-Wersje konwertera: eli2md 0.6.31 (433).
+Rodzaje aktów: Rozporządzenie 776, Oświadczenie rządowe 30, Umowa międzynarodowa 18, Uchwała 17, Konwencja 7, Zarządzenie 4, Układ 1, Protokół 1.
+Wersje konwertera: eli2md 0.6.31 (854).
 <!-- stats:end -->
 
 ## Zawartość

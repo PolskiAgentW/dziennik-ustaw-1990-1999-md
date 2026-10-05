@@ -1,0 +1,4595 @@
+{
+ "eli": "DU/1991/23",
+ "title": "Rozporządzenie Ministra Finansów z dnia 27 grudnia 1990 r. w sprawie zasad rachunkowości ubezpieczeniowej i sprawozdawczości finansowej oraz zasad obliczania wyniku finansowego ubezpieczycieli.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1991/23/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 grudnia 1990 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad rachunkowości ubezpieczeniowej i sprawozdawczości finansowej oraz zasad obliczania wyniku finansowego ubezpieczycieli."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 58 pkt 1 oraz art. 59 ust. 2 ustawy z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. Nr 59, poz. 344) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy rozporządzenia dotyczą ubezpieczycieli działających w formie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "spółek akcyjnych, w tym spółek z udziałem kapitału zagranicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "towarzystw ubezpieczeń wzajemnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "głównych przedstawicieli ubezpieczycieli zagranicznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8)"
+      },
+      {
+       "type": "text",
+       "text": "„rezerwa składek” — przeniesienie na przyszłe lata części składek przypisanych w roku obrotowym za okresy ubezpieczenia, które nie wygasają z końcem bieżącego roku obrotowego, „konto syntetyczne ' — urządzenie do ewidencji księgo- 9",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— wej operacji gospodarczych, zgodnie z zasadą podwójnego księgowania, tak aby zapewnione było bilansowanie się danych ujętych na wszystkich kontach syntetycznych prowadzonych przez ubezpieczyciela; za konta syntetyczne uważa się również konta pozabilansowe; na kontach pozabilansowych można prowadzić ewidencję, dokonując zapisów jednostronnych bez zachowania zasady podwójnego księgowania,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "„konto analityczne” — urządzenie do szczegółowej",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "„ustawa” — ustawę z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej (Dz. U. Nr 59, poz. 344),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "„przedsiębiorstwa zależne” — podmioty gospodarcze zależne od ubezpieczyciela lub od których ubezpieczyciel jest ewidencji księgowej danych podlegających ewidencji na kontach syntetycznych w taki sposób, aby co najmniej łączna suma ich stanów była zgodna z danymi ewidencjonowanymi na koncie syntetycznym, „księgi rachunkowe '': 11 zależny; zależność określa pakiet akcji, udziałów lub wkładów uprawniający do więcej niż 25% liczby głosów, przywiązanych do wszystkich akcji, udziałów lub wkładów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "„reasekuratorzy” — innych ubezpieczycieli udzielających ubezpieczycielowi ochrony reasekuracyjnej (reasekuratorzy i retrocesjonariusze),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "„cedenci” — innych ubezpieczycieli, którym ubezpieczyciel udziela ochrony reasekuracyjnej (cedenci i retrocedenci), :",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "„regres” — uregulowane należności od osób trzecich odpowiedzialnych za szkody, „składki brutto”, „odszkodowania i świadczenia brut- 6",
+     "children": [
+      {
+       "type": "text",
+       "text": "— to”, „inne przychody” lub „koszty techniczne brutto”, „rezerwy techniczno-ubezpieczeniowe brutto” — odpowiednio przychód, koszt lub rezerwę przed z mniej - szeniem o udział reasekuratorów,"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_5/lit_a",
+       "text": "wszystkie służące do ewidencji działalności ubezpieczyciela konta syntetyczne i analityczne, niezależnie od metody ich prowadzenia (pierwotna ewidencja na kontach syntetycznych, wtórna na kontach analitycznych lub odwrotnie), a także niezależnie od przyjętej techniki ich prowadzenia (luźne karty, księgi oprawne, urządzenia służące do magnetycznego zapisu itp.), w których ewidencję sporządza się pismem ręcznym lub maszynowym albo też w których zapisy są rezultatem ewidencji i przetwarzania danych za pomocą komputerów lub innych maszyn i urządzeń technicznych do przetwarzania danych, zestawienia sald kont syntetycznych oraz sald kont b",
+       "children": [
+        {
+         "type": "text",
+         "text": "— analitycznych, sporządzane w sposób zapewniający ich trwałość,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "„Składki na udziale własnym”, „odszkodowanie i świąd-",
+     "children": [
+      {
+       "type": "text",
+       "text": "7"
+      },
+      {
+       "type": "text",
+       "text": "— czenia na udziale własnym”, „inne przychody” lub „koszty techniczne na udziale własnym” „rezerwy techniczno-ubezpieczeniowe na udziale własnym” — odpowiednio przychód, koszt lub rezerwę po zmniejszeniu o udział reasekuratorów,"
+      },
+      {
+       "type": "text",
+       "text": "„Sprawozdanie finansowe ubezpieczyciela” — bilans, techniczny rachunek ubezpieczeń oraz ogólny rachunek wyników (zysków i strat) wraz z określonymi w rozporządzeniu danymi uzupełniającymi, objaśnieniami i załącznikami, sporządzone na podstawie ksiąg rachunkowych ubezpieczyciela,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Lziennik Ustaw Nr 6 ="
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "„rachunkowość ubezpieczyciela” — jego księgi rachunkowe, inwentaryzację weryfikującą stan jego aktywów i pasywów, wycenę aktywów i pasywów, rachunek kosztów oraz sprawozdanie finansowe sporządzone na podstawie ksiąg rachunkowych, „rok obrotowy” — okres od dnia 1 stycznia, ewentualnie — innego dnia, jeżeli ubezpieczyciel rozpoczął później działalność niż od początku roku, do dnia 31 grudnia lub dnia zakończenia działalności; gdy ubezpieczyciel rozpoczął działalność w drugiej połowie roku obrotowego, można za rok obrotowy przyjąć okres od dnia rozpoczęcia działalności do dnia 31 grudnia następnego roku,",
+     "children": [
+      {
+       "type": "text",
+       "text": "„okres sprawozdawczy” — miesiące roku obrotowego, „Środki pieniężne” — gotówkę, bony pieniężne, pieniądze ulokowane na rachunkach bankowych, weksle i czeki obce oraz nabyte w celu odsprzedaży papiery wartościowe, niezależnie od ich rodzaju (obligacje, akcje itp.), —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„rzeczowe składniki majątku” — trwałe rzeczowe składniki majątku, do którego zalicza się środki trwałe i wyposażenie, oraz rzeczowe składniki majątku obrotowego, jak materiały, „Środki trwałe” — grunty, budynki, budowle, maszyny — i środki transportu, urządzenia techniczne i inne środki długotrwałego użytkowania określone w odrębnych przepisach jako środki trwałe, „nieruchomości”' — grunty (place), budynki i budowle, „wyposażenie — zużywające się stopniowo rzeczowe składniki majątku trwałego, nie zaliczone odrębnymi przepisami do środków trwałych, —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„składniki majątku trwałego” — środki trwałe, wyposażenie, wartości niematerialne i prawne oraz finansowe składniki majątku trwałego, jak udziały, akcje, długoterminowe papiery wartościowe, udzielone długoterminowe pożyczki oraz inne finansowe składniki majątku trwałego; do długoterminowych papierów wartościowych, pożyczek itp. zalicza się te z nich, które uznane zostały za lokaty, —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„wartości niematerialne i prawne” — inne niż rzeczowe „składniki majątku trwałego określone w odrębnych przepisach, w tym także nabyte oprogramowanie komputerów, wartość firmy, koszty zgromadzenia kapitału oraz organizacji przy założeniu lub późniejszym rozszerzaniu ubezpieczyciela, — —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„materiały — materiały podstawowe i pomocnicze, opakowania, paliwo, części zamienne i odpadki, „koszty administracji\" — koszty utrzymania zarządu ubezpieczyciela oraz obsługi ubezpieczyciela jako całości, z wyłączeniem odsetek od kredytów i pożyczek, \"=\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„cena zakupu” — cenę, jaką nabywca płaci za zakupione składniki majątku, „cena nabycia” — cenę zakupu powiększoną o koszty zakupu nabytego składnika majątku, „cena ewidencyjna\" — cenę przyjętą do ewidencji wartościowej rzeczowego składnika majątku; ceną ewidencyjną może być cena rzeczywista lub cena różna od ceny rzeczywistej, „cena sprzedaży na dzień zamknięcia ksiąg rachunkowych ' — także przeciętną cenę sprzedaży w miesiącu, na który przypada ten dzień, jeżeli ceny ulegały istotnym zmianom, a przeciętna cena sprzedaży w tym miesiącu jest niższa od ceny na dzień zamknięcia ksiąg rachunkowych, — „cena sprzedaży netto — cenę sprzedaży na dzień zamknięcia ksiąg rachunkowych zmniejszoną o należny podatek obrotowy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "—",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„fundusze i rezerwy specjalne” — zobowiązania wobec nie określonych wierzycieli, powstałe przez zaliczenie ich równowartości do kosztów, strat nadzwyczajnych lub wyniku finansowego z przeznaczeniem na określone cele, si Poz. 23",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "31) „roszczenia — należności nie uznane przez dłużników ubezpieczyciela,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "32) „kierownik” — osobę, która zarządza działalnością ubezpieczyciela, wieloosobowy organ lub wyłoniony z niego zespół osób, które zgodnie z obowiązującymi przepisami lub statutem uprawnione są do zarządzania, a także — jeżeli odrębne przepisy tak stanowią — osobę, która stoi na czele organu upoważnionego do kierowania ubezpieczycielem,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "33) „zweryfikowane sprawozdanie finansowe\" — sprawozdanie, które uzyskało stwierdzenie zweryfikowania przez niezależnego biegłego lub inną jednostkę do tego uprawnioną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele obowiązani są prowadzić rachunkowość zgodnie z przepisami rozporządzenia i innymi przepisami prawa, dającą rzetelny i jasny obraz ich stanu i sytuacji finansowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zadaniem rachunkowości ubezpieczyciela jest bieżąca rejestracja operacji gospodarczych w sposób prawidłowy, kompletny i systematyczny, to jest przy zachowaniu następujących zasad:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zapewniona ma być kompletność ujęcia wszystkich operacji gospodarczych zarówno w porządku chronologicznym, jak i systematycznym, operacje gospodarcze należy ujmować według okresów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— sprawozdawczych, których dotyczą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) zapewnione zostanie pełne, zgodne z prawdą materialną oddanie istotnej, formalnej i materialnej treści operacji gospodarczych, niezależnie od formy ich przedstawienia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wartość poszczególnych składników aktywów i pasywów, przychodów i kosztów ich uzyskania, jak też zysków i strat nadzwyczajnych ustalana będzie odrębnie; nie można kompensować ze sobą wartości różnych co do rodzaju aktywów i pasywów, przychodów i kosztów ich uzyskania oraz zysków i strat nadzwyczajnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) wyodrębnione będą dane o decydującym znaczeniu; dane o mniejszym znaczeniu mogą być ujmowane łącznie, tak aby nie utrudniały poznania stanu i sytuacji finansowej ubezpieczyciela,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "przy ustalaniu wartości aktywów i pasywów oraz wyso-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— kości wyniku finansowego należy stosować ceny zakupu lub nabycia przy zachowaniu zasady ostrożnej wyceny; w szczególności należy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) wycenić rzeczowe składniki majątku trwałego i obrotowego w cenach zakupu lub nabycia nie wyższych od możliwych do uzyskania za nie cen sprzedaży netto, z zastrzeżeniem przepisu § 24,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) ująć w księgach rachunkowych przypadające na dany rok obrotowy zmniejszenia wartości na skutek umorzenia wszystkich stopniowo zużywających się składników majątku trwałego ubezpieczyciela, niezależnie od wyniku finansowego, jaki osiągnął w danym roku obrotowym, uwzględniać, niezależnie od daty ich zapłaty, wszyst-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— c kie osiągnięte i przypadające na rzecz ubezpieczyciela lub obciążające go za dany rok obrotowy: = PYCNOWY oraz koszty uzyskania tych przychów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— straty i osiągnięte zyski nadzwyczajne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dla zapewnienia współmierności przychodów i kosztów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— własnych ich osiągnięcia oraz realnej wysokości wyniku finansowego ubezpieczyciela wyodrębnione będą i zaliczone do aktywów lub pasywów koszty i przychody przyszłych okresów, a także tworzone będą rezerwy w wysokości przewidywanego ryzyka,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) przyjmować się będzie, że działalność ubezpieczyciela będzie kontynuowana, z wyjątkiem przypadków określonych w § 17 ust. 1 pkt 2—4.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "i przedstawiania ich rezultatów w sprawozdaniu finansowym, zwłaszcza zaś sposób ustalenia wartości aktywów i pasywów, a także wyniku finansowego, nie mogą być zmieniane w ciągu kolejnych lat, chyba że jest to uzasadnione ważnymi przyczynami i następuje od początku roku obrotowego. W przypadku zmiany zasad ustalania wartości aktywów i pasywów należy w sprawozdaniu finansowym sporządzonym na koniec roku obrotowego, w którym dokonano zmiany, zamieścić wyjaśnienie, na czym polega zmiana, uzasadnić jej dokonanie i podać jej wpływ na roczny wynik finansowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Wartość aktywów i pasywów, ustalona według przepisów rozporządzenia, ulega zmianie, gdy odrębne przepisy przewidują ich przeszacowanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W sprawach nie uregulowanych przepisami rozporządzenia stosować należy zasady określone przez naukę rachunkowości oraz utrwalone przez powszechną praktykę i zwyczaje.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Księgi rachunkowe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Księgi rachunkowe powinny być prowadzone w sposób ustalony w zakładowym planie kont.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zapisy w księgach rachunkowych prowadzi się w języku polskim.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Zapisy w księgach rachunkowych prowadzi się w walucie polskiej na podstawie prawidłowych i rzetelnych dowodów, a w przypadku rozliczeń w walutach obcych — również w tych walutach. Dopuszcza się prowadzenie ksiąg rachunkowych w pełnych złotych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Księgi rachunkowe prowadzi się i przechowuje w siedzibie ubezpieczyciela lub jego jednostkach samodzielnie bilansujących. Kierownik może zezwolić, aby księgi rachunkowe były przejściowo przechowywane poza siedzibą ubezpieczyciela, jeżeli ich prowadzenie zostało powierzone fizycznej lub prawnej osobie świadczącej usługi w zakresie prowadzenia lub weryfikacji ksiąg rachunkowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Obowiązek ewidencji operacji gospodarczych w porządku chronologicznym uważa się za spełniony, jeżeli:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) operacje gospodarcze ujmuje się bieżąco w księgach rachunkowych w kolejności dat ich dokonania, a co najmniej z podziałem na poszczególne okresy sprawozdawcze, stan, przychody i rozchody w kolejnych dniach gotówki 2 — (złotych polskich i poszczególnych walut obcych) obejmuje się bieżąco prowadzonym raportem kasowym, za poszczególne dni lub części okresu sprawozdawczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "istnieje możliwość stwierdzenia zachowania porządku",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— chronologicznego przy prowadzeniu ksiąg rachunkowych przez powiązanie zapisów księgowych z dowodami księgowymi, na których podstawie zostały dokonane.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dopuszcza się zastąpienie analitycznej ewidencji ilościowej materiałów analityczną ewidencją wartościową.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Obowiązek ewidencji operacji gospodarczych w porządku systematycznym uważa się za spełniony, jeżeli ustala się w odpowiednich przekrojach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) stan środków pieniężnych i środków rzeczowych, należności, roszczeń i innych składników majątku ubezpieczyciela, zobowiązań, kredytów, funduszy (kapitałów) zasadniczych, rezerw techniczno-ubezpieczeniowych oraz innych rezerw i funduszy specjalnych i ich zmian doprowadzonych do zgodności ze stanem rzeczywistym, ustalonym w drodze inwentaryzacji, przy czym poszczególne zagraniczne środki pieniężne oraz wszelkiego rodzaju należności, roszczenia i zobowiązania płatne w walucie obcej obejmuje się ewidencją umożliwiającą ustalenie ich wartości w walucie obcej oraz w walucie polskiej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wysokość poniesionych kosztów, osiągniętych przychodów, strat i zysków nadzwyczajnych oraz innych elementów wyniku finansowego, inne dane niż określone w pkt 1 i 2, niezbędne do",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— przedstawienia rzetelnego i jasnego obrazu stanu i sytuacji finansowej ubezpieczyciela opinii publicznej, zwłaszcza jego właścicielom, organom statystyki państwowej itp., a także dane do wszelkich rozliczeń finansowych ze Skarbem Państwa, budżetami i instytucjami oraz kontrahentami ubezpieczyciela (osobami prawnymi lub fizycznymi, w tym także jego pracownikami) oraz do sporządzania sprawozdania finansowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Ewidencja operacji gospodarczych w porządku chronologicznym i systematycznym może być prowadzona łącznie bez wyodrębniania urządzeń służących wyłącznie do ewidencji w porządku chronologicznym (dziennik).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zakładowy plan kont powinien zawierać:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wykaz kont syntetycznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) zasady tworzenia i prowadzenia kont analitycznych do określonych kont syntetycznych (podanie kryterium, według którego dane konta syntetycznego mają być dzielone przy ujmowaniu ich na kontach analitycznych, oraz wskazanie, do ewidencji jakich danych mają służyć konta analityczne — wartościowych, ilościowo-wartościowych, ilościowych),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "określenie materiałów, których wartość podlega zaliczę-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— niu do kosztów bezpośrednio po zakupie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "określenie zasad rozliczania odchyleń od cen ewidencyj-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— nych pozostałych materiałów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "określenie sposobu ustalania umorzenia wyposażenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— którego wartość po wydaniu do użytkowania ma być wykazywana w sprawozdaniu finansowym ubezpieczyciela, oraz wskazanie rodzajów wyposażenia, które mogą być w całości zaliczone do kosztów po wydaniu do użytkowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ubezpieczyciele są obowiązani tak ustalić swe zakładowe plany kont, aby sporządzane sprawozdanie finansowe, określone w rozporządzeniu, w sposób rzetelny i jasny przedstawiało ich stan i sytuację finansową.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W zakładowych planach kont ubezpieczyciele obowiązani są uwzględniać zmiany w obowiązujących je przepisach o gospodarce finansowej i zasadach opodatkowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Kierownik może ustalić, że zakładowym planem kont jest wzorcowy plan kont, opracowany przez specjalistyczny zespół z zakresu organizacji rachunkowości ubezpieczeniowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Podstawą zapisu w księgach rachunkowych jest dokument (dowód księgowy):",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) stwierdzający fakt dokonania operacji gospodarczej zgodnie z jej rzeczywistym przebiegiem i zawierający — jeżeli treść dowodu nie została inaczej określona w przepisach wynikających z właściwych ustaw (np. czeki, weksle itp.) — co najmniej:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) określenie wystawcy i wskazanie stron (nazwy i adresy) uczestniczących w operacji gospodarczej, której dowód dotyczy; w dowodach wystawionych przez ubezpieczyciela dla potrzeb wewnętrznych określenie wystawcy oraz nazw i adresów stron może być zastąpione nazwami lub symbolami komórek organizacyjnych ubezpieczyciela,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "datę wystawienia dowodu oraz datę lub okres doko-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— b nania operacji gospodarczej, której dowód dotyczy, z tym że jeżeli data dokonania operacji gospodarczej odpowiada dacie wystawienia dowodu, wystarczy podanie jednej daty,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "przedmiot operacji gospodarczej i jego wartość oraz — c ilościowe określenie, jeżeli przedmiot operacji jest wymierny w jednostkach naturalnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) własnoręczne podpisy osób odpowiedzialnych za prawidłowe dokonanie operacji gospodarczej i jej",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "prawidłowe udokumentowanie, z tym że jeżeli dowód księgowy nie wyraża przejęcia lub przekazania odpowiedzialności materialnej, podpisy mogą być zastąpione danymi umożliwiającymi identyfikację tych osób, sprawdzony pod względem merytorycznym i formalno- 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— -rachunkowym i na dowód sprawdzenia podpisany przez osoby do tego upoważnione; można nie dokonywać kontroli rachunkowej dowodów własnych, w któr,ch treści zawarte są rezultaty obliczeń dokonanych i wypisanych przez przystosowane do tego maszyny; fakt sprawdzenia dowodu powinien być uwidoczniony w jego treści, oznaczony numerem lub w inny sposób umożliwiający.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 — powiązanie dowodu z zapisami księgowymi dokonanymi na jego podstawie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dowód księgowy powinien być sporządzony w języku polskim. Może on być sporządzony w języku obcym, jeżeli dotyczy operacji gospodarczej z kontrahentem zagranicznym. Treść dowodu powinna być pełna i zrozumiała; dopuszczalne jest stosowanie skrótów ogólnie przyjętych. Jeżeli w dowodzie księgowym podane jest wartościowe określenie operacji gospodarczej tylko w walucie obcej, ubezpieczyciel posiadający ten dowód jest obowiązany przeliczyć walutę obcą na złote po obowiązującym w dniu dokonania operacji gospodarczej kursie, ustalonym przez Prezesa Narodowego Banku Polskiego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Błędy w dowodach księgowych poprawiać można wyłącznie przez skreślenie niewłaściwie napisanego tekstu lub liczby w sposób pozwalający odczytać tekst lub liczbę pierwotną i wpisanie tekstu lub liczby właściwej. Poprawka tekstu lub liczby w dowodzie księgowym powinna być zaopatrzona w podpis lub skrót podpisu osoby upoważnionej. Zasady te stosuje się wyłącznie do dowodów księgowych, dla których nie istnieje ustalony odrębnymi przepisami zakaz dokonywania jakichkolwiek poprawek, natomiast nie stosuje się ich do dowodów obcych, które mogą być poprawiane jedynie przez wystawienie i przesłanie kontrahentowi dowodu korygującego. Dowody własne zewnętrzne, przesłane uprzednio kontrahentowi, mogą być poprawione tylko przez wystawienie dowodu korygującego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Podpisy na dowodach księgowych składa się odręcznie, z wyjątkiem przypadków wymienionych w ust. 1 pkt 1 lit.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) oraz z wyjątkiem polis, na których podpisy mogą być odtwarzane mechanicznie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Jeżeli określone operacje gospodarcze są udokumentowane dwoma lub więcej dowodami albo egzemplarzami tego samego dowodu, kierownik ustali na stałe, który z dowodów (egzemplarzy dowodu) ma stanowić podstawę zapisów w księgach rachunkowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W zakresie ubezpieczeń bezpośrednich składki dokumentowane są kopiami umów ubezpieczenia, polis lub innych dokumentów potwierdzających zawarcie umowy ubezpieczenia, zwanych dalej „dokumentami ubezpieczenia”, a określających co najmniej: strony stosunku ubezpieczeniowego, zakres odpowiedzialności ubezpieczyciela, okres ubezpieczenia, wysokość sumy ubezpieczenia lub gwarancyjnej oraz wysokość należnej składki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 8.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciel dokonujący księgowania dowodu jest właściwy do wystawienia dowodów księgowych dla udokumentowania:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zewnętrznych operacji gospodarczych, to jest operacji, w których uczestniczą ubezpieczyciel i jego kontrahenci, jeżeli operacje te polegają na świadczeniu usług ubezpieczeniowych, sprzedaży lub przekazaniu kontrahentom składników majątku i świadczeniu innych usług,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zewnętrznych operacji gospodarczych związanych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— z udzieleniem ubezpieczycielowi przez reasekuratorów ochrony finansowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) świadczeń na rzecz Skarbu Państwa, opłat na rzecz budżetów lub instytucji oraz innych kontrahentów, przekazywanych przez ubezpieczyciela z mocy prawa (np.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podatki), wynikających z umów (np. wnoszone udziały) lub o charakterze świadczeń dobrowolnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wewnętrznych operacji gospodarczych polegających na tworzeniu i rozwiązywaniu rezerw techniczno-ubezpieczeniowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) wewnętrznych operacji gospodarczych, w których uczestniczą tylko komórki organizacyjne ubezpieczyciela, poniesionych kosztów nie wynikających ze świadczeń",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6 — kontrahentów, ustalenia powstałych strat lub osiągniętych zysków, potwierdzenia ilości i wartości otrzymywanych od kontrahentów składników majątku, robót i usług lub innych świadczeń, jak też powierzenia składników majątku pracownikom ubezpieczyciela lub innym osobom.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Dowody wymienione w pkt 1, 2 i 3 nazywa się dowodami własnymi zewnętrznymi, a dowody wymienione w pkt 4, 5 i 6 — dowodami własnymi wewnętrznymi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kontrahenci ubezpieczyciela dokonującego księgowania (także jego pracownicy, jeżeli są stroną w dokonanej operacji gospodarczej) są właściwi do wystawiania dowodów księgowych dla udokumentowania operacji gospodarczych polegających na sprzedaży lub przekazaniu ubezpieczycielowi składników majątku, wykonaniu zleconych robót, usług i innych czynności oraz świadczeń umownych lub określonych przepisami. Kontrahenci będący cedentami są właściwi do wystawiania dowodów określających przychody i koszty przypadające na udział ubezpieczyciela dokonującego księgowania w zakresie ubezpieczeń pośrednich (reasekuracji czynnej). Dowody wystawione przez kontrahentów ubezpieczyciela dokonującego ich księgowania nazywa się dowodami obcymi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Dowody wymienione w ust. 1 pkt 1 oraz w ust. 2 mogą być zastąpione dowodami wystawionymi wspólnie przez ubezpieczyciela dokonującego ich księgowania i jego kontrahenta (np. protokoły zdawczo-odbiorcze).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Ubezpieczyciel dokonujący księgowania jest właściwy do wystawiania dowodów własnych wewnętrznych dla udokumentowania operacji gospodarczych, dla których wymagane są dowody obce, jeżeli jest to niezbędne dla zapewnienia kompletności zapisów księgowych, a dowód obcy nie wpłynął w terminie umożliwiającym sporządzenie sprawozdania finansowego za dany okres sprawozdawczy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Jako dowody właściwe do udokumentowania diet pracowników i innych ich należności za czas podróży służbowych mogą być użyte przez ubezpieczycieli dokumenty . wystawione przez ich pracowników. Dokumenty te powinny zawierać: datę dokonania operacji gospodarczej, miejsce i datę wystawienia dokumentu oraz podpis osoby, która bezpośrednio dokonała wydatku. W dowodach tych należy także podać cel dokonania wydatku obciążającego ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W dowodach własnych wewnętrznych, zawierających ilościowe określenie operacji gospodarczych, może być pominięta wartość przedmiotu operacji, jeżeli zostanie podana w zestawieniach dowodów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Stwierdzone w dowodach nieprawidłowości merytoryczne powinny być uwidocznione w dowodzie lub w załączniku do dowodu wskazanym w treści dowodu i podpisane przez osoby obowiązane do sprawdzenia dowodu. Nieprawidłowości formalno-rachunkowe powinny być skorygowane w sposób ustalony dla poprawienia błędów w dowodach księgowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Za dowody księgowe uważa się również:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zestawienia dowodów księgowych sporządzane dla zaksięgowania ich zbiorczym zapisem,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) polecenia księgowania, sporządzone dla ujęcia operacji gospodarczej w księgach rachunkowych ubezpieczyciela,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) noty księgowe, sporządzone dla skorygowania operacji gospodarczej wynikającej z dowodu obcego, przekazywane kontrahentom ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "2. Zestawienia zbiorcze dokumentów ubezpieczenia mogą mieć zastosowanie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w przypadku gdy dowód ubezpieczenia wydawany jest z chwilą opłacenia całej składki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w rozliczeniach z pośrednikami ubezpieczeniowymi — w odniesieniu do każdego pośrednika oddzielnie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w rozliczeniach z ubezpieczającymi z tytułu ubezpieczeń objętych umowami generalnymi — w odniesieniu do każdego ubezpieczającego oddzielnie. Zestawienia zbiorcze dokumentów ubezpieczenia sporządza się według rodzajów ubezpieczeń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Dodowodów, o których mowa w ust. 1 i 2, stosuje się przepisy § 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 10. Księgi rachunkowe, prowadzone w formie papierowych zestawień ewidencyjnych (księgi wiązane, prowadzone na luźnych kartach, powstające w formie zestawień liczbowych jako rezultat przetwarzania danych ręcznego lub przy zastosowaniu urządzeń technicznych), powinny być:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) trwale oznaczone nazwą ubezpieczyciela, którego dotyczą (każda księga wiązana, każda luźna karta kontowa, każde zestawienie liczbowe itp.), oraz nazwą danego urządzenia ewidencyjnego (konta), opatrzone datą ich założenia i zakończenia w sposób",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— ustalony dla dokonywania zapisów księgowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 wpisane do bieżąco aktualizowanego wykazu prowa-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— dzonych przez ubezpieczyciela rodzajów urządzeń księgowych składających się na księgi rachunkowe ubezpieczyciela (kartotek, kont analitycznych lub syntetycznych, rejestrów, zestawień liczbowych itp.), chyba że one takiego wykazu są objęte zakładowym planem ont,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) utrzymane w ustalonej kolejności i starannie przechowywane w odpowiednich urządzeniach ułatwiających ich odszukanie i chroniących przed zagubieniem lub zniszczeniem.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 11. Przy prowadzeniu ksiąg rachunkowych w całości lub częściowo za pomocą komputera należy zapewnić pełną sprawdzalność zgodności stosowanych procedur i wyników przetwarzania na komputerze z dokumentacją systemu przetwarzania i dowodami księgowymi przez:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) skompletowanie dokumentacji systemu przetwarzania danych, dającej pełny wgląd w budowę i przebieg stosowanego sposobu przetwarzania (programy); zmiany procedur należy w dokumentacji tak oznaczyć, aby możliwe było wyraźne rozgraniczenie okresów stosowania poszczególnych wersji procedury,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) zapewnienie możliwości sporządzania na każde żądanie papierowych zestawień ewidencyjnych napisanych językiem wymaganym przy prowadzeniu ksiąg rachunkowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 ustalenie osób, które zleciły dokonanie poszczególnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— zapisów księgowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wydrukowanie wszystkich danych, będących przedmio-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— tem przetwarzania, w porządku chronologicznym (dziennik) i sald kont syntetycznych — w języku powszechnie zrozumiałym — co najmniej na koniec każdego roku obrotowego, a sald kont analitycznych — na dzień przeprowadzenia inwentaryzacji oraz na dzień zamknięcia ksiąg rachunkowych; zapisy księgowe, dokonywane automatycznie, stosownie do rozwiązań systemowych, powinny być odpowiednio wyróżnione,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— przechowywanie magnetycznych nośników informacji, do czasu wydruku zawartych na nich danych, w sposób chroniący przed zatarciem lub zniekształceniem tych danych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "prowadzenie bieżąco uzupełnianego wykazu zbiorów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— stanowiących księgi rachunkowe, przechowywanych na taśmach magnetycznych, dyskach itp., z określeniem ich identyfikatorów i zawartości, rodzaju nośnika oraz częstotliwości ich aktualizacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 12.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dokonywany w księgach rachunkowych zapis księgowy powinien być staranny, czytelny i trwały i zawierać co najmniej:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) datę dokonania operacji gospodarczej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) określenie rodzaju i numeru dowodu księgowego, na którego podstawie dokonano zapisu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) treść zapisu, przy czym dopuszczalne jest stosowanie ogólnie przyjętych skrótów, a innych skrótów — pod warunkiem ustalenia ich wykazu w zakładowym planie kont ubezpieczyciela,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) sumę zapisu wynikającą z dowodu księgowego. Zapis księgowy może nie obejmować treści oraz określenia rodzaju dowodu, jeżeli wynikają one z układu ksiąg rachunkowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Błędny zapis może być poprawiony przez:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) skreślenie błędnej treści lub liczby i wpisanie treści lub liczby w sposób określony w § 7 ust. 3; ten sposób poprawiania nie może być stosowany, gdy księgi rachunkowe prowadzone są za pomocą komputera,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wniesienie zapisu korygującego (storno); może być on dokonywany tylko liczbami dodatnimi lub tylko liczbami ujemnymi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 13.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zapisy w księgach rachunkowych uważa się za dokonywane bieżąco, jeżeli:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wszystkie operacje gospodarcze za dany okres sprawozdawczy zostaną ujęte w księgach rachunkowych w czasie zapewniającym terminowe sporządzanie sprawozdania finansowego za ten okres,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 zapisy w raporcie kasowym dokonywane są w dniu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— przeprowadzenia operacji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zapisy w ilościowej ewidencji rzeczowych składników",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— majątku dokonywane są nie później niż dnia następnego po dniu przeprowadzenia operacji gospodarczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zapisy w księgach rachunkowych uważa się za kompletne, jeżeli wszystkie operacje gospodarcze, dokonane w danym okresie sprawozdawczym, zostały ujęte w księgach rachunkowych tego okresu, niezależnie od daty sporządzenia dokumentu stwierdzającego dokonanie operacji gospodarczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Dla zapewnienia kompletności zapisów księgowych operacje gospodarcze o charakterze ciągłym należy dzielić co najmniej na okresy sprawozdawcze i wynikającą z tego podziału część operacji gospodarczej ujmować w księgach rachunkowych pod datą dnia kończącego każdy okres sprawozdawczy. Dotyczy to odpowiednio operacji gospodarczych księgowanych na podstawie zestawień dowodów księgowych. Gdy dla zapewnienia kompletności zapisów księgowych dokonano ich na podstawie dowodów własnych wewnętrznych, ewentualne różnice, jakie powstaną po otrzymaniu w późniejszym terminie dotyczących tych zapisów dowodów obcych, powinny być zaksięgowane i rozliczone nie później niż w okresie sprawozdawczym, w którym otrzymano odpowiednie dowody obce.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zapisy księgowe nie wyrażające zmian w stanie aktywów lub pasywów ubezpieczyciela mogą być dokonywane bez wystawienia dowodów księgowych, jeżeli ich kwoty i sposób dokonania wynikają z automatycznie realizowanego programu przetwarzania danych za pomocą komputera, a w treści zapisu zostanie to podane.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 14.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Salda poszczególnych kont syntetycznych wykazuje się w zestawieniu sald, zawierającym co najmniej:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) określenie roku obrotowego, którego zestawienie doły-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "czy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) symbole lub nazwy kont syntetycznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) salda poszczególnych kont syntetycznych na dzień otwarcia ksiąg rachunkowych, na koniec okresu sprawozdawczego lub na dzień zamknięcia ksiąg rachunkowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) sumę sald wykazanych w zestawieniu sald.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "2. Salda poszczególnych kont analitycznych na dzień przeprowadzenia inwentaryzacji oraz na dzień kończący rok obrotowy wykazuje się w zestawieniu sald kont analitycznych lub na odpowiednio oznaczonych taśmach papieru sporządzonych za pomocą maszyn do przetwarzania danych lub w zestawieniach liczbowych umożliwiających w sposób sprawdzalny ustalenie zgodności ich sum z zestawieniem sald kont syntetycznych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 15.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele otwierają swoje księgi rachunkowe na dzień:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) rozpoczynający każdy rok obrotowy — w przypadku kontynuowania działalności, lub na dzień, od którego ubezpieczyciel obowiązany jest prowadzić księgi rachunkowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "rozpoczęcia działalności w przypadku nowo powstałych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— ubezpieczycieli oraz podziału lub łączenia ubezpieczycieli istniejących,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zmiany swej formy prawnej, przewidzianej przepisami",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— lub umową stron,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "otwarcia likwidacji, ustalony w zarządzeniu o likwidacji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— lub na dzień otwarcia likwidacji dokonywanej z własnej inicjatywy ubezpieczyciela albo na dzień postawienia w stan upadłości, ustalony przez właściwy sąd, według stanu aktywów i pasywów wynikającego z zamknięć ksiąg rachunkowych, o których mowa w § 17 ust. 1 pkt 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ubezpieczyciele kontynuujący działalność otwierają swe księgi rachunkowe według stanu aktywów i pasywów wynikającego z zamknięcia ksiąg na koniec poprzedniego roku obrotowego. Ubezpieczyciele otwierają swe księgi rachunkowe nie później niż przed upływem 14 dni od dnia wymienionego w ust. 1 pkt 1—4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Ubezpieczyciele postawieni w stan likwidacji lub upadłości otwierają swe księgi rachunkowe na podstawie bilansu sporządzonego na dzień poprzedzający rozpoczęcie likwidacji lub postawienie w stan upadłości. Obowiązani są oni wykazać składniki majątku według cen sprzedaży możliwych do uzyskania za nie, zaliczając różnice z tego tytułu do strat lub zysków nadzwyczajnych pod datą dnia rozpoczynającego okres likwidacji lub stanu upadłości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 16.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele sq obowiązani prowadzié odrębnie księgi rachunkowe dla każdego roku obrotowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ubezpieczyciele prowadzący księgi rachunkowe w formie ksiąg wiązanych lub luźnych kart mogą nie zakładać odrębnych kont analitycznych dla każdego roku obrotowego, pod warunkiem że zapisy księgowe dokonywane po zamknięciu ksiąg rachunkowych (w nowym roku) będą wyraźnie oddzielone od zapisów księgowych uprzednio dokonanych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli w wyniku zweryfikowania sprawozdania finansowego stanowiącego podstawę otwarcia ksiąg rachunkowych ulegnie zmianie stan początkowy aktywów i pasywów, wprowadzone do ksiąg rachunkowych stany początkowe należy skorygować w terminie 14 dni od daty zweryfikowania sprawozdania finansowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 17.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele zamykają swe księgi rachunkowe na:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) koniec każdego roku obrotowego — w przypadku dalszego prowadzenia działalności,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dzień poprzedzający dzień otwarcia likwidacji lub ogłoszenia upadłości,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) dzień zakończenia likwidacji ubezpieczyciela lub postępowania upadłościowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) dzień poprzedzający dzień zmiany ich formy prawnej — w przypadkach, o których mowa w § 15 ust. 1 pkt 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli między dniem rozpoczęcia likwidacji lub wszczęcia postępowania upadłościowego a dniem ich zakończenia przypada koniec roku obrotowego, ubezpieczyciel, który znajduje się w stanie likwidacji lub w stosunku do którego toczy się postępowanie upadłościowe, zamyka księgi także na ostatni dzień roku obrotowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "= Poz. 23",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Ubezpieczyciele zamykają swe księgi rachunkowe w terminie 14 dni od daty zweryfikowania sprawozdania finansowego sporządzonego na koniec roku obrotowego — w przypadku wymienionym w ust. 1 pkt 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Inwentaryzacja",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 18.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wykazany w księgach rachunkowych stan aktywów i pasywów ubezpieczyciela należy zweryfikować w drodze inwentaryzacji. Inwentaryzacja polega na:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przeprowadzeniu spisu z natury krajowych i zagranicznych środków pieniężnych oraz rzeczowych składników majątku, ich wycenie i ustaleniu wartości spisanych z natury składników majątku,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 uzyskaniu od kontrahentów pisemnej informacji o stanie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— środków pieniężnych ubezpieczyciela na rachunkach bankowych, zaciągniętych kredytów bankowych oraz należności i zobowiązań, w tym także o stanie powierzonych im własnych składników majątku, sprawdzeniu stanu niedostępnych w czasie przeprowa-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— dzonej w terminie określonym przepisami rozporządzenia inwentaryzacji rzeczowych składników majątku lub stanu innych aktywów i pasywów, które nie mogą być potwierdzone przez kontrahentów — przez porównanie danych wynikających z ksiąg rachunkowych z odpowiednimi dokumentami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Inwentaryzacją należy objąć również składniki majątku ujęte wyłącznie w ewidencji ilościowej, na kontach pozabilansowych, a także stanowiące własność innych podmiotów gospodarczych. Inwentaryzacje tę należy przeprowadzić stosując odpowiednio przepisy ust. 1",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Ubezpieczyciele, których dotyczą przepisy § 1 7 ust. 1 pkt 2 i 4, przeprowadzają inwentaryzację wszystkich aktywów i pasywów na dzień wymieniony w tych przepisach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Inwentaryzacje aktywów i pasywów ubezpieczycieli innych niż określeni w ust. 3 przeprowadza się co najmniej raz w każdym roku obrotowym, stosując następujące zasady:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) inwentaryzacja środków pieniężnych oraz rzeczowych składników majątku nie objętych bieżącą ewidencją, o których mowa w § 6 ust. 1 pkt 3, ma być dokonana na ostatni dzień każdego roku obrotowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) kierownik może ustalić, że inwentaryzacja będzie doko-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "nywana:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) środków trwałych i wyposażenia w użytkowaniu — nie rzadziej niż raz na 5 lat,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) materiałów — nie rzadziej niż raz na 2 lata, jeśli są objęte ewidencją ilościowo-wartościową,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) różnice stwierdzone między stanem aktywów i pasywów wynikającym z ksiąg rachunkowych a ich stanem ustalonym w drodze inwentaryzacji należy ująć i rozliczyć w księgach rachunkowych roku obrotowego, na który przypadł termin inwentaryzacji. Nie rozliczane do końca roku obrotowego niedobory stanowią roszczenie ubezpieczyciela. W uzasadnionych przypadkach można kompensować niedobory i nadwyżki rzeczowych składników majątku obrotowego powierzonego określonej osobie, ujawnione podczas tego samego spisu z natury i w podobnych składnikach majątku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 19.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wyniki spisu z natury ujmuje się na arkuszach (kartach) spisu z natury, do których stosuje się odpowiednio przepisy § 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Należy zapewnić powiązanie danych o ilości i wartości składników majątkowych ustalonych w drodze spisu z natury z danymi o ilości i wartości tych składników zawartymi w uzgodnionych księgach rachunkowych, a jeżeli składniki nie są objęte ewidencją ilościową — z danymi o ich wartości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 20.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Można przeprowadzić w sposób uproszczony spis z natury książek, czasopism i innych druków wchodzących w skład biblioteki zakładowej ubezpieczyciela —",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "przez wyrywkowe porównanie zapisów w księdze inwentarzowej biblioteki ze stanem rzeczywistym i z kartami książek lub kartami czytelników; dokonanie uproszczonej inwentaryzacji powinno być potwierdzone podpisami osób przeprowadzających porównanie pod informacją wpisaną do księgi inwentarzowej o dacie i zakresie inwentaryzacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przy spisie z natury środków trwałych oraz wyposażenia, a także innych składników majątku — jeżeli uzasadniają to warunki ich przechowywania lub pomiaru — można posługiwać się danymi kont analitycznych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 21.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Za stan rzeczywisty inwentaryzowanych środków pieniężnych na rachunkach bankowych i kredytów bankowych przyjąć należy uzgodniony z właściwym bankiem ich stan na koniec okresu sprawozdawczego, wynikający z dowodów bankowych (wyciągi z rachunków), niezależnie od daty, na jakie zostały sporządzone.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Za stan rzeczywisty należności i zobowiązań z kontrahentami prowadzącymi księgi rachunkowe przyjąć należy stan ustalony w drodze pisemnego potwierdzenia salda. Kopia pisemnej informacji o stanie salda, wysłanej do kontrahenta, po upływie 30 dni od udowodnionej daty jej wysłania może być uznana za milczące potwierdzenie salda przez kontrahenta.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Nie wymaga pisemnego uzgodnienia wynikający z ksiąg rachunkowych ubezpieczyciela stan:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) należności i zobowiązań wobec osób fizycznych, jeżeli nie są one podmiotami gospodarczymi, oraz należności i zobowiązań uregulowanych do dnia sporządzenia sprawozdania finansowego oraz objętych powództwem sądowym lub postępowaniem egzekucyjnym,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) należności i zobowiązań nie przekraczających wartości dolnej granicy zaliczenia rzeczowych składników majątku do środków trwałych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) należności i roszczeń z tytułu niedoborów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Jeżeli saldo należności lub zobowiązań nie wykazuje zmian w ciągu sześciu miesięcy i nie przekracza kwoty równej dwóm procentom dolnej granicy zaliczenia rzeczowych składników majątku do środków trwałych, to może być na podstawie pisemnej decyzji kierownika odpisane na koniec roku obrotowego na straty lub zyski nadzwyczajne. Nie dotyczy to należności z tytułu składek ubezpieczeniowych, należności i zobowiązań dotyczących rozliczeń z budżetem i Zakładem Ubezpieczeń Społecznych oraz zobowiązań wobec pracowników.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 22. Sprawdzenie prawidłowości stanu ewidencyjnego, o którym mowa w § 18 ust. 1 pkt 3, obejmuje ustalenie stanu tych aktywów i pasywów, których inwentaryzacja nie jest przeprowadzana według zasad określonych przepisami §19—21.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalanie wartości aktywów i pasywów oraz wyniku finansowego",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 23.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Krajowe środki pieniężne i kredyty bankowe oraz pożyczki, z wyłączeniem nabytych papierów wartościowych, wykazuje się w księgach rachunkowych w wartości nominalnej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Nabyte papiery wartościowe będące lokatą środków pieniężnych ubezpieczyciela oraz udziały w obcych podmiotach gospodarczych w walucie polskiej wykazuje się w księgach rachunkowych według cen nabycia, z zastrzeżeniem § 24 ust. 2. Jeżeli w dniu kończącym rok obrotowy ceny nabycia są wyższe od cen sprzedaży papierów wartościowych możliwych do uzyskania (np. według notowań giełdowych), wartość papierów wartościowych ustala się według cen sprzedaży ustalonych na dzień kończący rok obrotowy. Różnice z tego tytułu zalicza się do kosztów działalności lokacyjnej..",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli zgodnie z umową środki otrzymane jako pełna należność z tytułu przyznanego kredytu lub pożyczki są mniejsze od sumy kredytu, jaka podlegać będzie spłacie, różnice wykazuje się w księgach rachunkowych jako koszty przyszłych okresów i odpisuje w równych ratach w ciągu okresu, na jaki zaciągnięto kredyt lub pożyczkę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zobowiązania wynikające z własnych papierów wartościowych i weksli w walucie polskiej, wydanych innym podmiotom gospodarczym lub osobom fizycznym, ustala się w ich wartości nominalnej. Jeżeli wartość nominalna papierów wartościowych jest różna od uzyskanych za nie środków, różnicę zalicza się do przychodów z tytułu operacji finansowych lub ich kosztów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Środki pieniężne, kredyty bankowe i pożyczki w walutach obcych, z wyłączeniem papierów wartościowych, wykazuje się w księgach rachunkowych w wartości nominalnej, przeliczonej na złote polskie według średniego kursu danej waluty obcej, ustalonego przez Prezesa Narodowego Banku Polskiego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Jeżeli w dniu kończącym rok obrotowy średni kurs walut obcych różni się od kursu przyjętego przy ustalaniu wartości środków pieniężnych, kredytów ba nkowych i pożyczek stosownie do przepisu ust. 5, wartość stanu środków pieniężnych, kredytów bankowych i pożyczek ustala się według średniego kursu ustalonego przez Prezesa Narodowego Banku Polskiego na dzień kończący rok obrotowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Nabyte papiery wartościowe będące lokatą środków pieniężnych oraz udziały w obcych podmiotach gospodarczych w walutach obcych wykazuje się w księgach rachunkowych według ceny nabycia przeliczonej na złote polskie w sposób ustalony w ust. 5. Wartość papierów wartościowych i udziałów w walutach obcych w dniu kończącym rok obrotowy nie może być wyższa od wartości, jaka byłaby ustalona według cen ich sprzedaży (np. według notowań giełdowych) po przeliczeniu na złote polskie według obowiązującego w tym dniu średniego kursu ustalonego przez Prezesa Narodowego Banku Polskiego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Zobowiązania wynikające z własnych papierów wartościowych i weksli w walutach obcych, wydanych innym podmiotom gospodarczym lub osobom fizycznym, ustala się w ich wartości nominalnej przeliczonej na złote polskie po średnim kursie ustalonym przez Prezesa Narodowego Banku Polskiego. Przepis ust. 6 ma odpowiednie zastosowanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Dodatnie różnice kursowe powstałe na skutek stosowania różnej wysokości kursów dla obliczenia wpływów i rozchodów określonych środków pieniężnych lub zaciągania i spłaty kredytu bankowego i pożyczek w walutach obcych, jak też w związku z zastosowaniem kursu obowiązującego w dniu kończącym rok obrotowy, zalicza się do przychodów z tytułu operacji finansowych, a ujemne różnice kursowe — do kosztów tych operacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Lokaty ubezpieczyciel wycenia według zasad § 24. 1. określonych w § 23 ust. 1, 2,5, 6i 7, z wyjątkiem przypadków określonych w ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku umów dbęzpieczenia na życie, nawiązujących w sposób bezpośredni do określonych lokat według cen sprzedaży rynkowych lub bieżących, lokaty te ujmuje się w aktywach bilansu ubezpieczyciela według cen sprzedaży ustalonych na dzień kończący rok obrotowy. Różnice między ceną sprzedaży składników lokat a ceną ich nabycia lub kosztem wytworzenia uwzględnia się odpowiednio w rezerwach technicznych ubezpieczeń na życie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W załączniku do bilansu ubezpieczyciel wykazuje lokaty zarówno według cen nabycia lub kosztu wytworzenia, jak i według cen sprzedaży.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Cena sprzedaży w odniesieniu do nieruchomości oznacza cenę możliwą do uzyskania w ramach prywatnych umów kupna-sprzedaży, według szacunku biegłego, przeprowadzanego nie rzadziej niż co 5 lat.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "5. Cenę sprzedaży nieruchomości położonych za granicą lub zagranicznych udziałów, akcji i papierów wartościowych określają notowania giełdowe w kraju, w którym znajduje się nieruchomość lub emitowano papiery wartościowe, chyba że notowane są na polskich giełdach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W przypadku braku odnośnych notowań giełdowych lub braku możliwości w inny wiarygodny sposób ustalenia ceny możliwej do uzyskania na rynku, za cenę sprzedaży przyjmuje się cenę nabycia lub koszt wytworzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Jeżeli określony składnik lokat został sprzedany lub znajduje się w trakcie sprzedaży między dniem, na który sporządza się zamknięcie ksiąg rachunkowych, a dniem jego rzeczywistego sporządzenia, składnik ten wycenia się według uzyskanej lub przewidywanej ceny sprzedaży.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Przez cenę sprzedaży terminowych papierów wartościowych (np. obligacji) i pożyczek rozumie się kwotę, jaką ubezpieczyciel otrzyma w terminie wykupu lub spłaty pożyczki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 25.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Należności i roszczenia oraz zobowiązania wykazuje się w księgach rachunkowych według wartości ustalonej przy ich powstaniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Należności i roszczenia oraz zobowiązania w walutach obcych wykazuje się w księgach rachunkowych według zasady ustalonej w § 23 ust. 5 i ust. 6. Różnice kursowe' dotyczące należności, zobowiązań i roszczeń należy ustalić nie później niż na dzień wygaśnięcia należności, zobowiązania lub roszczenia w walutach obcych na skutek zapłaty, przedawnienia lub umorzenia, a także na dzień kończący rok obrotowy. Różnice te zalicza się do przychodów z operacji finansowych lub kosztów tych operacji. Ta część dodatnich różnic, która wynika z ustaleń na dzień kończący rok ob- PONY, podlega zaliczeniu do przychodów przyszłych okresów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Roszczenie z tytułu niedoboru ustala się według wartości ewidencyjnej składnika majątku stanowiącego niedobór, powiększonej o utracone korzyści, jednak nie mniejszej od aktualnej detalicznej ceny sprzedaży majątku stanowiącego niedobór. Kwotę roszczenia z tytułu niedoboru używanego składnika majątku ustala się uwzględniając stopień jego dotychczasowego zużycia, a jeżeli nie da się go ustalić — stosownie do przypuszczalnego stopnia zużycia składnika majątku stanowiącego niedobór. Różnicę między wartością roszczenia a ceną nabycia składnika majątku stanowiącego niedobór zalicza się do przychodów przyszłych okresów lub odpowiedniej rezerwy, jeżeli taka jest tworzona.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do aktywów nie zalicza się należności i roszczeń przedawnionych oraz umorzonych, a także należności i roszczeń nieściągalnych, do pasywów zaś — zobowiązań przedawnionych lub umorzonych. Zalicza się je do strat lub zysków nadzwyczajnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 26.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zakupione materiały wykazuje się w księgach rachunkowych według rzeczywistych cen ich nabycia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Składniki majątku wymienione w ust. 1 można wykazywać w księgach rachunkowych również w rzeczywistych cenach zakupu, jeżeli zakładowy plan kont ubezpieczyciela przewiduje odpisanie w całości kosztów ich zakupu w okresie sprawozdawczym, w którym koszty te poniesiono.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Składniki majątku wymienione w ust. 1 mogą być wykazywane w księgach rachunkowych w cenach ewidencyjnych, jeżeli w księgach tych zostaną ujęte odchylenia między cenami ewidencyjnymi a rzeczywistymi cenami nabycia lub zakupu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Składniki majątku wymienione w ust. 1, nabyte, lecz jeszcze nie dostarczone (materiały w drodze) lub nie zafakturowane, wycenia się przy zastosowaniu cen, o których mowa w ust. 1 lub 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Składniki majątku wymienione w ust. 1, z wyjątkiem objętych wyłącznie ewidencją wartościową, wykazuje się w księgach rachunkowych na dzień kończący rok obrotowy w wartości nie wyższej od wynikającej z ich cen sprzedaży netto, gdy ich cena nabycia lub zakupu były wyższe od ceny sprzedaży netto. Powstałą z tego tytułu różnicę zalicza się do strat nadzwyczajnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 27. Pozostałości po szkodach i odpadki użytkowe (składniki majątku, które w toku działalności utraciły swoją pierwotną wartość użytkową) wykazuje się w księgach rachunkowych według cen sprzedaży netto. W razie braku cen sprzedaży netto, pozostałości po szkodach i odpadki użytkowe wycenia się według wartości wynikającej z oszacowania uwzględniającego ich przydatność do dalszego wykorzystania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 28.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wartość rozpoczętych inwestycji ustala się w wysokości kosztów poniesionych na nabycie lub wytworzenie środków trwałych, wyposażenia oraz wartości niematerialnych i prawnych, które powstały w wyniku prowadzenia inwestycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do kosztów inwestycji zalicza się w szczególności koszty:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) nabycia gruntów i składników majątku trwałego oraz koszty ich budowy lub montażu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) napraw i remontów dokonanych przed przekazaniem środka trwałego do użytkowania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) dokumentacji projektowej inwestycji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) badań geologicznych, geofizycznych oraz pomiarów geodezyjnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) przygotowania terenu pod budowę,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) robót niezbędnych dla realizacji własnej inwestycji, wykonanych w środkach trwałych należących do innych osób prawnych lub fizycznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) założenia zieleni,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) nadzoru autorskiego, inwestorskiego i generalnego wykonawcy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) prób montażowych, jeżeli należność za te czynności nie jest uwzględniona w cenie robót,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) ubezpieczeń majątkowych budowanych środków trwałych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Koszty inwestycji zwiększającej wartość powstałych w ich wyniku składników majątku wymienionych w ust. 1 na dzień oddania ich do użytku zalicza się do aktywów ubezpieczyciela nie później niż do dnia zakończenia zadania inwestycyjnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Koszty inwestycji, które zostały poniesione na nabycie lub wytworzenie składników majątku podlegających przekazaniu na rzecz innych podmiotów gospodarczych lub które nie dały zamierzonego efektu gospodarczego, podlegają odpisaniu zgodnie z przepisami § 39 nie później niż do końca roku obrotowego, w którym nastąpiło przekazanie lub stwierdzono, że inwestycja nie dała efektu gospodarczego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 29.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wartość początkową środków trwałych i wyposażenia ujmuje się w księgach rachunkowych w wysokości ceny nabycia lub kosztów poniesionych na ich wytworzenie, przebudowę, rozbudowę lub modernizację, z zastrzeżeniem przepisów § 24.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wartość początkową środków trwałych i wyposażenia zmniejsza ich umorzenie. Umorzenie ujmuje się w księgach rachunkowych odrębnie od ich wartości początkowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Nie umorzona wartość początkowa środków trwałych i wyposażenia może być jednorazowo zaliczona do strat nadzwyczajnych, gdy środki te utraciły przydatność gospodarczą.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 30.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wyposażenie z chwilą wydania do użytkowania podlega umarzaniu przez odpisywanie jego wartości początkowej według metody wybranej przez kierownika. Metody te mogą polegać na:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) odpisywaniu części wartości wyposażenia w kolejnych okresach sprawozdawczych w równych ratach, propor-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "cjonalnie do przewidywanego czasu użytkowania lub rozmiarów działalności, której służy, nie dłużej jednak niż przez 5 lat,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "odpisaniu pełnej wartości wyposażenia pod datą róż-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— poczęcia jego użytkowania i zaliczeniu jej do kosztów przyszłych okresów, a następnie rozliczeniu na poszczegó- Inę okresy sprawozdawcze przez okres nie dłuższy niż 5 lat, odpisaniu pełnej wartości wyposażenia pod datą wyda- 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— nią go do użytkowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Umorzenie wyposażenia obciążającego fundusze specjalnego przeznaczenia odpisuje się w całości w dniu rozpoczęcia jego użytkowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 31.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wartości niematerialne i prawne oraz inne wartości trwałe wykazuje się w księgach rachunkowych według cen ich nabycia lub poniesionych na nie kosztów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wartości niematerialne i prawne zmniejsza ich umorzenie. Umorzenie wartości niematerialnych i prawnych ujmuje się odrębnie w księgach rachunkowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Do wartości niematerialnych i prawnych zalicza się wartość firmy równą różnicy między ceną zapłaconą sprzedawcy za firmę a niższą od niej wartością firmy wynikającą z ksiąg rachunkowych na dzień dokonania sprzedaży. Wartość firmy zmniejszają odpisy umorzeniowe obciążające koszty ubezpieczyciela, dokonywane w równych ratach przez okres nie dłuższy niż 5 lat po roku obrotowym, w którym nabyto firmę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Koszty zgromadzenia kapitału oraz organizacji przy założeniu lub późniejszym rozszerzaniu ubezpieczyciela, a także uzyskane we własnym zakresie prawa majątkowe zaliczane do wartości niematerialnych i prawnych wykazuje się w księgach rachunkowych w wysokości kosztów rzeczywiście poniesionych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 32.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele dokonują międzyokresowych rozliczeń kosztów, jeżeli określone koszty odnoszą się do szeregu okresów sprawozdawczych lub dotyczą innego okresu aniżeli okres, w którym je poniesiono.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Koszty przyszłych okresów (czynne rozliczenia międzyokresowe) ustala się w wysokości kosztów przypadających na następne okresy sprawozdawcze; okres ich rozliczenia, z wyjątkiem rozliczenia kosztów akwizycji, nie może przekraczać 5 lat i powinien być uzasadniony charakterem rozliczanych kosztów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rozliczane w czasie, jeżeli przewiduje to zakładowy plan kont ubezpieczyciela, koszty akwizycji (bezpośrednie koszty zawarcia ubezpieczeń i inkasa składek określone w załączniku nr 8 rozdział 2 ust. 14) w części przypadającej na przyszłe lata obrotowe od składek pobranych za wieloletnie okresy ubezpieczenia zgodnie z indywidualnymi umowami ustala się według zasad obowiązujących dla rezerwy składek (§ 33 ust. 3).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W ubezpieczeniach na życie koszty akwizycji podlegające zaliczeniu do kosztów przyszłych okresów ustalane są według zasad matematyki ubezpieczeniowej i stanowią element rachunku aktuarialnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Rezerwy na koszty przyszłych okresów (bierne rozliczenia międzyokresowe) ustala się w ich przewidywanej wysokości, przypadającej na bieżący okres sprawozdawczy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Na koniec roku obrotowego mogą być zaliczone do pasywów rezerwy na imiennie określone wydatki, jakie trzeba będzie ponieść w następnym roku obrotowym z tytułu kosztów, które w całości lub w części zgodnie z przepisami prawa lub zwyczajem handlowym przypadają na bieżący rok obrotowy. Rezerwy te, nie wykorzystane zgodnie z przewidywaniem, podlegają odpisaniu na zyski nadzwyczajne w roku obrotowym następującym po ich utworzeniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 33.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rezerwy techniczno-ubezpieczeniowe ustala się, z zastrzeżeniem przepisów § 34, raz do roku według stanu na koniec roku obrotowego w wysokości, która powinna zapewnić pełne pokrycie wszelkich bieżących i przyszłych zobowiązań, jakie mogą wyniknąć z zawartych umów ubezpieczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwy techniczno-ubezpieczeniowe ustała się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) metodą indywidualną,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) z zastosowaniem metody ryczałtowej — zbiorczo dla całego portfela ubezpieczeń lub jego części,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przy zastosowaniu metod matematyki i statystyki ubezpieczeniowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rezerwę składek metodą indywidualną ustala się — w Odniesieniu do każdej umowy oddzielnie — jako część składki ubezpieczeniowej przypadającej na przyszłe lata obrotowe, proporcjonalnie do umownego okresu ubezpieczenia, w części przekraczającej ostatni dzień (31 grudnia) roku obrotowego lub w relacji do stopnia ryzyka przewidywanego w latach następnych. W przypadku statystycznego potwierdzenia, że wielkość rezerwy składek, obliczona metodą indywidualną, jest w określonych rodzajach ryzyk niewystarczająca na pokrycie zobowiązań, ubezpieczyciel może ustalić uzupełniającą rezerwę składek odpowiednio do przebiegu ryzyka. Kierownik ustala rodzaje ubezpieczeń, w których ma zastosowanie metoda ryczałtowa obliczania rezerwy składek. Metoda ryczałtowa może mieć zastosowanie pod warunkiem uzyskania rezultatów przybliżonych jak przy zastosowaniu metody indywidualnej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Rezerwę na ryzyka niewygasłe ustala się oddzielnie — jako uzupełnienie do rezerwy składek — na pokrycie przyszłych szkód i wypadków, jakie mogą powstać z zawartych umów ubezpieczenia, które nie wygasają z dniem 31 grudnia roku obrotowego. Rezerwa na ryzyka niewygasłe stanowi różnicę pomiędzy przewidywaną wartością przyszłych odszkodowań, świadczeń i kosztów wynikających z umów, które nie wygasły z końcem roku, a wielkością rezerwy składek oraz ewentualnych składek, które w dalszym ciągu mogą być przypisane z tytułu tych umów, i dotyczących tego samego okresu ubezpieczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Rezerwy na nie wypłacone odszkodowania i świadczenia za szkody i wypadki powstałe w roku obrotowym lub w latach poprzednich, które:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— zostały zgłoszone ubezpieczycielowi i dla których zostały ustalone odszkodowania i świadczenia, bądź gdy posiadane informacje pozwalają na ocenę wysokości odszkodowań i świadczeń,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— zostały zgłoszone ubezpieczycielowi, gdy posiadane informacje nie pozwalają na ocenę wysokości odszkodowań i świadczeń,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— nie zostały jeszcze zgłoszone ubezpieczycielowi mogą być ustalone według metody:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) indywidualnej, polegającej na ocenie lub szacunku pojedynczych szkód lub wypadków zgłoszonych ubezpieczycielowi i zarejestrowanych przez niego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "uproszczonej, polegającej na przemnożeniu liczby zgło-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— szonych nie uregulowanych szkód i wypadków przez ustaloną statystycznie średnią wysokość odszkodowania lub świadczenia za rok, półrocze lub ostatni kwartał roku obrotowego, w zależności od rodzaju ryzyka i poziomu inflacji; metoda ta może mieć zastosowanie w określonych przez kierownika rodzajach ubezpieczeń, które charakteryzują się masowymi szkodami (wypadkami) o stosunkowo niewielkim zróżnicowaniu wysokości odszkodowań i świadczeń,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— ryczałtowej, polegającej na ustaleniu przez kierownika wysokości procentowej rezerwy w stosunku do zbioru opa dla poszczególnych rodzajów ubezpieczeń lub ryzy",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "aktuarialnej, opartej na prawdopodobieństwie szkód",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— i wypadków, jakie mogą powstać z umów roku obrotowego; rezerwa ta stanowi różnicę pomiędzy oczekiwaną wartością odszkodowań i świadczeń a kwotą odszkodowań i świadczeń wypłaconych za szkody i wypadki powstałe z umów danego roku obrotowego.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "asi",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W przypadku gdy z umów ubezpieczeń wypadkowych i odpowiedzialności cywilnej lub z innych umów nie zaliczanych do ubezpieczeń na życie powstaną świadczenia płatne okresowo w formie rent, skapitalizowaną wartość zapadłych świadczeń rentowych ustala się przy zastosowaniu metod matematyki ubezpieczeniowej w trybie przewidzianym w ust. 8 dla ubezpieczeń życiowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Ubezpieczyciel może utworzyć specjalną rezerwę techniczną na nie wypłacone bieżące i przyszłe odszkodowania i świadczenia z umów dotyczących okresów ubezpieczenia, które rozpoczynają swój bieg w danym roku obrotowym (z tzw. „ex'u roku bieżącego '), jeżeli przewiduje to statut ubezpieczyciela. Utworzenie tej rezerwy specjalnej zastępuje rezerwy, o których mowa w ust. 4 i 5. Rezerwa ta stanowi nadwyżkę zebranych składek dotyczących danego roku obrotowego (z ex'u roku bieżącego) nad dotyczącymi tego samego roku obrotowego wypłaconymi odszkodowaniami i świadczeniami oraz kosztami działalności ubezpieczeniowej. W roku następnym po roku obrotowym rezerwę specjalną utworzoną w roku ubiegłym zwiększają przypisane składki za rok poprzedni (dotyczące ex'u roku poprzedniego) i zmniejszają wypłacone odszkodowania i świadczenia z umów, które rozpoczęły swój bieg w roku poprzednim, i odpowiadające im koszty działalności. W drugim roku po roku obrotowym rezerwa specjalna, ustalona dwa lata temu (dla ex'u sprzed 2 lat), zastępowana jest rezerwą na nie wypłacone odszkodowania i świadczenia z umów sprzed dwóch lat (z ex'u sprzed 2 lat), ustaloną metodą indywidualną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Rezerwy z ubezpieczeń życiowych mogą być ustalane zarówno indywidualnie dla każdego ubezpieczonego, jak i sumarycznie dla określonych grup ubezpieczonych z zastosowaniem metod matematyki ubezpieczeniowej. Obliczenia rezerw technicznych ubezpieczeń na życie mogą być dokonywane jedynie przez aktuariusza.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. W ubezpieczeniach zawieranych w walutach obcych rezerwy techniczno-ubezpieczeniowe ustalane są również w tych walutach w przeliczeniu na walutę polską według kursu średniego ustalonego przez Prezesa Narodowego Banku Polskiego na dzień sporządzenia sprawozdania finansowego i podlegają wyodrębnieniu w załączniku do bilansu (załącznik nr 6).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 34.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W ciągu roku ubezpieczyciel może tworzyć rezerwę na koszty (w tym na odszkodowania i utworzenie rezerw technicznych), które nie zostały jeszcze poniesione, a które powinny obciążać zebraną dotychczas składkę i zostaną poniesione do końca roku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwa, o której mowa w ust. 1, może być tworzona najwyżej do wysokości nadwyżki zebranych składek i innych przychodów technicznych nad odszkodowaniami i innymi kosztami technicznymi i ogólnymi — w ujęciu na udziale własnym ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Do bilansu, pod datą ostatniego dnia roku obrotowego, rezerwa na koszty, utworzona zgodnie z przepisami ust. 1 i 2, w całości podlega wyksięgowaniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 35.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Fundusze i kapitały wykazuje się w księgach rachunkowych z podziałem na ich rodzaje w wysokości ustalonej zgodnie z postanowieniami statutu ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W aktywach bilansu jako odrębną pozycję ujmuje się należność z tytułu zaliczonej do kapitału wartości udziałów lub akcji nie wpłaconych przez udziałowców lub akcjonariuszy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Fundusze specjalne wykazuje się w księgach rachunkowych w wysokości ustalonej statutem lub przepisami o tworzeniu i wykorzystywaniu tych funduszy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 36. Przychody przyszłych okresów wykazuje się w księgach rachunkowych w wysokości:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) pobranych wpłat lub zarachowanych od kontrahentów należności za usługi, które zostaną wykonane w następnych okresach sprawozdawczych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) kwoty podwyższającej wartość roszczenia, a także należnych odsetek za zwłokę z tytułu regulacji należności, jeżeli nie są one objęte tworzoną przez ubezpieczyciela rezerwą.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przychody przyszłych okresów zwiększają przychody ze sprzedaży lub zyski nadzwyczajne nie później niż do końca okresu sprawozdawczego, którego dotyczą.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 37. Wartość rzeczowych składników majątku, która uległa obniżeniu na skutek uszkodzenia, zepsucia lub innych powodów, ustala się w drodze oszacowania ceny ich sprzedaży; nie dotyczy to środków trwałych i wyposażenia. Kwoty odpowiadające nie zawinionemu obniżeniu wartości rzeczowych składników majątku zalicza się do kosztów lub strat nadzwyczajnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 38.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Za przychód uważa się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) składki z tytułu ubezpieczeń bezpośrednich i reasekuracji czynnej (niezależnie od tego, czy zostały zapłacone), skorygowane o należne dodatki i dopłaty oraz o storna techniczne, zwroty, rabaty, bonifikaty i inne upusty, z uwzględnieniem różnicy rezerwy składek według stanu na koniec i na początek roku obrotowego oraz zmniejszone o składki należne reasekuratorom za ten sam okres sprawozdawczy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "kwoty należne z tytułu operacji finansowych, jak np.:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "—",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) przychody ze sprzedaży papierów wartościowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) dywidendy i odsetki od pożyczek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) dyskonto przy zakupie weksli, czeków obcych i papierów wartościowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) odsetki od terminowych wkładów bankowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) dodatnie różnice kursowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przychody z nieruchomości,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) pozostałe przychody, w tym m.in. odsetki bankowe od środków na rachunkach bieżących, odsetki od depozytów reasekuracyjnych i inne przychody techniczne oraz przychody z tytułu sprzedaży materiałów, likwidacji środków trwałych i inwestycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do kosztów uzyskania przychodu zalicza się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wypłacone odszkodowania i świadczenia ubezpieczeniowe za szkody i wypadki objęte ubezpieczeniem, łącznie z kosztami ich likwidacji, skorygowane o wszelkie zwroty, regresy i odzyski po szkodach, z uwzględnieniem różnicy rezerwy na nie wypłacone odszkodowania i świadczenia według stanu na koniec i na początek roku oraz zmniejszone o udziały reasekuratorów w tych odszkodowaniach i świadczeniach,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przyrost rezerw techniczno-ubezpieczeniowych określonych statutem ubezpieczyciela, z wyjątkiem rezerwy składek i rezerw na nie wypłacone odszkodowania i świadczenia, uwzględnionych w ust. 1 pkt 1 i w ust. 2 pkt 1, zmniejszony o udział reasekuratorów w tych rezerwach; zmniejszenie rezerw techniczno-ubezpieczeniowych na udziale własnym ubezpieczyciela stanowi zmniejszenie kosztów uzyskania przychodów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "całość poniesionych w roku obrotowym kosztów ad-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— ministracyjnych oraz innych kosztów technicznych i rozliczonych kosztów akwizycji po uwzględnieniu otrzymanych prowizji reasekuracyjnych i udziału w zyskach reasekuratorów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "koszty operacji finansowych, jak np.: 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— a). wartość zakupu sprzedanych papierów wartościowych, ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) odsetki od obligacji, kredytów i pożyczek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) dyskonto przy sprzedaży weksli, czeków obcych i papierów wartościowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) ujemne różnice kursowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pozostałe koszty osiągnięcia przychodów, w tym odsetki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— od depozytów reasekuracyjnych, a także wartość w cenach zakupu lub nabycia sprzedanych materiałów, wartość początkową sprzedanych środków trwałych pomniejszoną o ich umorzenie itp.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "§ 39. Stratami i zyskami nadzwyczajnymi wpływającymi na wynik finansowy ubezpieczyciela lub stanowiącymi zmiany stanu funduszy specjalnych, których dotyczą, są",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) pieniężne skutki zdarzeń losowych w zakresie gospodarki własnej ubezpieczyciela po uwzględnieniu kosztów usuwania szkód oraz przyznanych odszkodowań,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wynikające z gospodarki ubezpieczyciela:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) pij zaniechanych remontów, inwestycji, robót Itp., nie obciążające kosztów nie zawinione niedobory b",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— i szkody oraz nadwyżki środków pieniężnych i rzeczowych składników majątku, przedawnione, odpisane lub umorzone roszczenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— c należności i zobowiązania lub wpływy z tytułu roszczeń i należności uprzednio odpisanych, wszelkie kary, grzywny i odszkodowania, w tym d",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— także kary liczone w formie odsetek od określonej w przepisach lub umowie kwoty oraz związane z nimi koszty postępowania spornego, z wyjątkiem kosztów postępowania spornego poniesionych przy likwidacji szkód i windykacji regresów, wyniki obniżenia wartości oraz przeszacowania rze-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— e czowych składników majątku obrotowego, jeżeli stosownie do innych przepisów nie obciążają kosztów lub nie podlegają zaliczeniu do zmian kapitałów lub funduszy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "f) koszty inwestycji przekazanych nieodpłatnie na rzecz innych podmiotów gospodarczych lub koszty inwestycji, które nie dały efektu gospodarczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "g) otrzymane lub przekazane dary, ofiary oraz składki na rzecz organizacji społecznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "h) utworzenie i rozwiązanie rezerwy określonej w § 40 oraz niewykorzystanie rezerwy określonej w § 32 ust. 6,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i) inne zmiany stanu aktywów i pasywów wywołane zdarzeniami odbiegającymi od normalnej działalności ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 40.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele tworzą w ciężar strat nadzwyczajnych rezerwę na roszczenia i należności od dłużników postawionych w stan upadłości, nie później niż w dniu kończącym okres sprawozdawczy, w którym skierowano wniosek do masy upadłości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rezerwę na należności i roszczenia od dłużników postawionych w stan upadłości tworzy się w wysokości należności (lub roszczenia) określonej we wniosku i zwiększa o wyłożone przez ubezpieczyciela koszty postępowania upadłościowego oraz należne mu odsetki za nieterminową regulację jego roszczeń i należności. Zwiększenie rezerwy z tytułu wyłożonych kosztów postępowania upadłościowego i odsetek zalicza się do należności i roszczeń ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rezerwę, o której mowa w ust. 1 i 2, zmniejsza się o kwotę:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zapłaconych roszczeń i należności — przez zaliczenie jej do zysków nadzwyczajnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) roszczeń i należności uznanych za nieuzasadnione, umorzonych, przedawnionych lub uznanych za nieściągalne — przez zmniejszenie roszczeń i należności. Zmniejszenie rezerwy powinno nastąpić nie później niż w dniu kończącym rok obrotowy, w którym wymienione zdarzenia miały miejsce.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Ubezpieczyciele tworzą w ciężar strat nadzwyczajnych rezerwy na przewidywane straty. Rezerwy takie mogą być tworzone, jeżeli informacja o stracie wynika z właściwego dowodu lub jeżeli jej przewidywanie zostanie wiarygodnie uzasadnione. Rezerwy takie tworzy się także wtedy, gdy wiadomość o stracie uzyskano między dniem, na który sporządza się zamknięcie ksiąg rachunkowych, a dniem jego rzeczywistego sporządzenia. Do rozwiązania rezerw stosuje się odpowiednio przepis ust. 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ", 5. Przepisy ust. 1—4 nie mają zastosowania do roszczeń i należności finansowanych ze środków funduszy specjalnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie finansowe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 41.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele sporządzają na dzień zamknięcia ksiąg rachunkowych sprawozdanie finansowe obejmujące:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) bilans, wraz z danymi uzupełniającymi, według wzoru określonego w załączniku nr 1",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) techniczny rachunek ne re według wzoru określonego w załącznikach nr 2 i 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) ogólny rachunek wyników, wraz z danymi uzupełniającymi, według wzoru określonego w załączniku nr 4,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wykaz lokat kapitałowych według wzoru określonego w załączniku nr 5,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) zestawienie rezerw techniczno-ubezpieczeniowych według wzoru określonego w załączniku nr 6,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) rozliczenie środków własnych i obcych według wzoru określonego w załączniku nr 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ubezpieczyciele obowiązani są dołączyć do sprawozdania finansowego pisemne sprawozdanie z działalności, przedstawiające zwięzłe informacje o:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) sytuacji gospodarczej i finansowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przebiegu ubezpieczeń i szkodowości oraz o kształtowaniu się kosztów w relacji do składki w roku obrotowym w przekroju grup ubezpieczeń i w porównaniu z dwoma poprzednimi latami, wielkości i rodzajach kapitałów własnych i rezerw tech- 3 — M0 = UDRZBECZKIAW oraz ich pokryciu w lokatach,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "możlwościach płatniczych w odniesieniu do wymaga-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— nego marginesu wypłacalności, przewidywanych kierunkach rozwoju i sytuacji kad-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— rowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Sorawozdanie finansowe i załączona do niego informacja z działalności powinny być sporządzone rzetelnie, jasno przedstawiając obraz i stan sytuacji finansowej ubezpieczyciela.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Ubezpieczyciele przekazują zweryfikowane sprawozdanie finansowe Ministrowi Finansów i właściwemu dla ich siedziby urzędowi skarbowemu nie później niż 90 dnia, a ubezpieczyciele posiadający wyodrębnione placówki uprawnione do samodzielnego sporządzania sprawozdań finansowych lub prowadzący zagraniczną działalność ubezpieczeniową (bezpośrednią lub pośrednią) — nie później niż 180 dnia po dniu, na jaki ma być dokonane zamknięcie ksiąg rachunkowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 42.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele, w których skład wchodzą wyodrębnione placówki uprawnione do samodzielnego prowadzenia tsiąg rachunkowych i sporządzania sprawozdań finansowych, obowiązani są sporządzić:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) odiębne sprawozdanie finansowe dla każdej samodzielnie bilansującej placówki, w tym także dla jednostki centralnej (macierzystej),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) zborcze sprawozdanie finansowe będące sumą sprawozdań finansowych wszystkich placówek ubezpieczycieli.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jednostkowe bilanse placówek ubezpieczycieli zorganizowanych na zasadzie samodzielności bilansowej oraz bilans ednostki centralnej (macierzystej) obejmują ponadto:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w aktywach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) środki wydzielone,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) rozrachunki wewnątrzzakładowe, cj wewnętrzne rozliczenia wyniku finansowego, w pasywach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— ai fundusze (kapitały) wydzielone",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) rozrachunki wewnątrzzakładowe, ci wewnętrzne rozliczenia wyniku finansowego.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "3. W zbiorczym sprawozdaniu finansowym ubezpieczyciela nie ujmuje się — przez wyłączenie odpowiednio z aktywów i pasywów placówek wchodzących w jego skład:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) środków i funduszy (kapitałów) wydzielonych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wzajemnych należności i zobowiązań wewnątrzzakładowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) wewnętrznych rozliczeń wyniku finansowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 43.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ubezpieczyciele sporządzają sprawozdania finansowe w sposób i ze szczegółowością podaną w załącznikach nr 1—7 według objaśnień stanowiących załącznik nr 8 do rozporządzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Małe towarzystwa ubezpieczeń wzajemnych w rozumieniu przepisów art. 27 ustawy mogą sporządzać bilans uproszczony, przez podawanie w nim tylko danych dotyczących pozycji oznaczonych w załączniku do rozporządzenia literami i cyframi rzymskimi, oraz uproszczony rachunek wyników (techniczny rachunek ubezpieczeń i ogólny rachunek wyników łącznie) ograniczający się do pozycji oznaczonych w załącznikach do rozporządzenia cyframi arabskimi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 6",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przechowywanie dowodów księgowych, dokumentów inwentaryzacyjnych, ksiąg rachunkowych i sprawozdań finansowych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 44.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Księgi rachunkowe oraz dowody, na których podstawie dokonywane są w nich zapisy, powinny być przechowywane w siedzibie ubezpieczyciela lub jego samodzielnie bilansujących placówek organizacyjnych. Mogą one przejściowo znajdować się w innej jednostce, której powierzono prowadzenie ksiąg rachunkowych. Ubezgieczyciele mają obowiązek zawiadomić właściwy terytorialnie urząd skarbowy o przejściowym przekazaniu ksiąg rachunkowych i dowodów księgowych poza ich siedzibę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Pozakończeniu księgowań dotyczących okiesu sprawozdawczego wszelkie dowody księgowe i ich zestawienia, które stanowiły podstawę księgowań, oraz dokumenty inwentaryzacyjne należy układać w porządku i kolejności dostosowanych do sposobu prowadzenia ksiąg rechunkowych i przechowywać w sposób zapewniający ich nienaruszalność i łatwe odszukanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Po zakończeniu księgowań dotyczących minionego roku obrotowego księgi rachunkowe należy przechowywać w siedzibie ubezpieczyciela lub w jego placówkach samodzielnie bilansujących w sposób określony w ust. 2. Księgi wiązane lub konta, które zgodnie z § 16 ust. 2 zostaną wykorzystane w latach następnych, wyłącza się z prcwadzonych dla minionego roku obrotowego ksiąg rachunkowych i rozpoczyna ich przechowywanie po całkowitym zapisaniu i zakończeniu roku obrotowego, którego dotyczyły ostatnie dokonane w nich zapisy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do przechowywania sprawozdań finansowych stosuje się odpowiednio przepis ust. 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Dowody księgowe, dokumenty inwentaryzacyjne, księgi rachunkowe i sprawozdania finansowe, upoządkowane i podzielone na odpowiednie zbiory, zwań» dalej zbiorami dokumentacji księgowej, oznacza się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) nazwą ubezpieczyciela, do którego należą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) znakiem wskazującym rodzaj grupy tematycznej zbioru (np. dowody księgowe, dokumenty inwentary:acyjne itd.),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) symbolem kwalifikacyjnym akt (kategoria A lubB):",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) symbol A oznacza materiały archiwalne przecnowywane trwale,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) symbol B, wraz z oznaczoną cyfrą arabską liczbą lat przechowywania, oznacza dokumentację niearchiwalną, którą po upływie czasu przechowywania przekazuje się na makulaturę,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) określeniem roku obrotowego i miesiąca, którego dotyczy grupa tematyczna zbioru,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) pierwszym i ostatnim numerem dowodów księgowych, dokumentów inwentaryzacyjnych, kart ksiąg rachunkowych itp. lub innym oznaczeniem części zbioru dokumentacji księgowej, pozwalającym stwierdzić jego kompletność.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Ubezpieczyciele, którzy ulegają przekształceniu, zakończyli likwidację lub postępowanie upadłościowe, zawiadomią właściwy dla ich siedziby urząd skarbowy o miejscu przechowywania zbiorów dokumentacji księgowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Zbiory dokumentacji księgowej ubezpieczyciela za zgodą kierownika mogą być udostępnione osobie trzeciej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Wydanie dowodów, dokumentów itp. ze zbiorów dokumentacji księgowej może nastąpić wyłącznie za pisemną zgodą kierownika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Archiwa państwowe przejmują od ubezpieczycieli tę część dokumentacji księgowej, która stanowi materiały archiwalne trwale przechowywane według zasad określonych w odrębnych przepisach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 45.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dowody, dokumenty itp., o których mowa w § 44 ust. 5, należące do kategorii B przechowuje się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) listy płac lub karty wynagrodzeń albo inne dowody, na których podstawie następuje obliczenie podstawy wymiaru emerytur i rent — przez okres ustalony w przepisach określających zasady wymiaru emerytur lub rent,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wszelkie inne dowody księgowe, dokumenty inwentaryzacyjne, księgi rachunkowe, sprawozdania finansowe za okresy nie kończące roku oraz inne akta — 5 lat.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Okresy przechowywania ustalone w ust. 1 oblicza się od początku roku następującego po roku obrotowym, którego dane akta księgowe dotyczą, z tym jednak że dowody księgowe dotyczące wieloletnich inwestycji, kredytów i pożyczek, umów ubezpieczenia i reasekuracji, kontraktów handlowych, spraw skierowanych na drogę postępowania sądowego, będące przedmiotem dochodzeń w sprawach karnych itp. należy przechowywać również po upływie wyznaczonych terminów do końca roku następującego po roku obrotowym, w którym objęte nimi inwestycje, roszczenia i rozrachunki, kredyty i pożyczki, kontrakty lub sprawy zostaną ostatecznie zakończone, spłacone, rozliczone lub przedawnione.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Sprawozdania finansowe są aktami kategorii A przeznaczonymi do trwałego przechowywania, z tym że trwałemu przechowywaniu podlegają te formularze rocznych sprawozdań finansowych, w których uwzględnione zostały rezultaty ich weryfikacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zbiory dokumentacji księgowej, w tym także przechowywane w formie nośników magnetycznych, taśm filmowych itp,, powinny być magazynowane w sposób chroniący je przed uszkodzeniem lub zniszczeniem. Należy zapewnić odpowiednie środki techniczne i programowe ochrony przed zniszczeniem danych zbiorów oraz dostęp do ich treści w okresie przechowywania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Przepisy § 44 oraz ust. 4 stosuje się odpowiednio do taśm magnetycznych, dysków itp., posiadanych w związku lub w wyniku prowadzenia ksiąg rachunkowych za pomocą komputerów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 7",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy końcowe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 46.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zastosowane metody wyceny aktywów i pasywów, w tym również zastosowane metody obliczania rezerw techniczno-ubezpieczeniowych, powinny być omówione w objaśnieniach do bilansu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zagadnienia, które wymagają omówienia w objaśnieniach do bilansu, mogą być ujęte w treści pisemnego sprawozdania ubezpieczyciela bądź w formie przypisów do poszczególnych pozycji sprawozdania finansowego.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "3. Techniczny rachunek ubezpieczeń oraz ogólny rachunek wyników sporządza się zbiorczo dla całokształtu * działalności ubezpieczyciela (dla wszystkich rodzajów ubezpieczeń łącznie) za rok obrotowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Ubezpieczyciel może sporządzać techniczny rachunek ubezpieczeń z podziałem na ubezpieczenia bezpośrednie i pośrednie, a w tych ramach — na rodzaje lub grupy ubezpieczeń niezależnie od zbiorczego technicznego rachunku ubezpieczeń, o którym mowa w ust. 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W załączniku do sprawozdania finansowego ujmuje się rozliczenie środków własnych ubezpieczyciela w rozumieniu art. 45 ustawy, stanowiących pokrycie marginesu wypłacalności (załącznik nr 7).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Kierownik ustala, które z pozostawionych przepisami rozporządzenia do wyboru zasad prowadzenia rachunkowości mają być, jako wyłącznie obowiązujące, stosowane trwale i jednolicie przez ubezpieczyciela i wszystkie jego placówki, jednostki i komórki organizacyjne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 47. Na wniosek zainteresowanych ubezpieczycieli lub .lzby Ubezpieczeń Minister Finansów może zezwolić na",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "NAZWA | ADRES UBEZPIECZYCIELA | zastosowanie rozwiązań szczególnych w prowadzonej przez nich rachunkowości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 48. Ubezpieczyciele, którzy zgodnie z § 105 zarządzenia Ministra Finansów z dnia 16 listopada 1983 r. w sprawie ogólnych zasad prowadzenia rachunkowości przez jednostki gospodarki uspołecznionej (Monitor Polski Nr 40, poz. 233, z 1986 r. Nr 35, poz. 270 iz 1988r. Nr 15, poz. 129) utworzyli rezerwy na pokrycie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) roszczeń pieniężnych i należności z tytułu niedoborów środków pieniężnych oraz rzeczowych składników majątku obrotowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) rosżczeń spornych w stosunku do odbiorców i dostawców z tytułu dostaw, robót i usług, rozwiązują te rezerwy stopniowo według zasad określonych w tym rozporządzeniu, nie później jednak niż do dnia 31 grudnia 1993 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 49. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1991 r.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: w z. A. Podsiadło"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Ministra Finasów z dnia 27 grudnia 1990 r. (poz. 23) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "ADRESAT:"
+    },
+    {
+     "type": "text",
+     "text": "BILANS > sporządzony na dzień NR STATYSTYCZNY R REGON 31 grudnia 199.... r."
+    },
+    {
+     "type": "text",
+     "text": "Poz. AKTYWA początek | koniec roku roku EM 4 A. HRA ZMNIEJSZAJĄCE KAPITAŁY WŁASNE"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Należne wpłaty na poczet kapitału B. WARTOŚCI NIEMATERIALNE | PRAW-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Koszty organizacji i rozwoju ubezpieczyciela",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wartość firmy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Inne wartości niematerialne i prawne C. | LOKATY |. | Lokaty w walucie polskiej . Nieruchomości oo W Oo BR WH . Pożyczki hipoteczne . Papiery wartościowe gwarantowane przez państwo . Obligacje przedsiębiorstw krajowych . Akcje notowane na giełdach . Krajowe akcje nie notowane na giełdach , . Terminowe wkłady pieniężne w bankach . Pożyczki pod zastaw polis . Udziały we wspólnych przedsięwzięciach lokacyjnych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Inne lokaty Il. | Lokaty w walutach obcych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Terminowe wkłady dewizowe w bankach krajowych „ Terminowe wkłady pieniężne w banzo u AO NW kach zagranicznych . Akcje i udziały w walutach obcych . Papiery wartościowe w walutach obcych . Udziały we wspólnych przedsięwzięciach lokacyjnych . Inne lokaty w walutach obcych ależności depozytowe od cedentów w złotych",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stan na"
+      },
+      {
+       "type": "text",
+       "text": "PASYWA początek | koniec roku roku"
+      },
+      {
+       "type": "text",
+       "text": "6 7 | 8"
+      },
+      {
+       "type": "text",
+       "text": "KAPITAŁY | FUNDUSZE WŁASNE"
+      },
+      {
+       "type": "text",
+       "text": "Kapitał akcyjny lub zakładowy"
+      },
+      {
+       "type": "text",
+       "text": "Kapitał ze sprzedaży własnych akcji powyżej ich wartości nominalnej"
+      },
+      {
+       "type": "text",
+       "text": "Zmiany kapitału na skutek przeszacowania aktywów lub pasywów"
+      },
+      {
+       "type": "text",
+       "text": "Kapitały i fundusze zapasowe lub rezerwowe"
+      },
+      {
+       "type": "text",
+       "text": "Nie rozliczony wynik finansowy z lat ubiegłych"
+      },
+      {
+       "type": "text",
+       "text": "FUNDUSZE | REZERWY TECHNICZNE"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rezerwa składek i rezerwy na pokrycie ryzyk niewygasłych",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "rezerwy brutto (+)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "udział reasekuratorów (—)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Rezerwy ubezpieczeń życiowych",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "rezerwy brutto (+)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "udział reasekuratorów (—)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Rezerwy na nie wypłacone odszkodowania i świadczenia",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "rezerwy brutto (+)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "udział reasekuratorów (—)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Rezerwa na dywidendy i udziały w zyskach na rzecz ubezpieczonych",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_4/lit_a",
+       "text": "rezerwy brutto (+)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "udział reasekuratorów (—)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Rezerwy na wyrównanie szkodowości (ryzyka)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Pozostałe rezerwy techniczne",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_6/lit_a",
+       "text": "rezerwy brutto (+)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_6/lit_b",
+       "text": "udział reasekuratorów (—)",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "LOKATY FUNDUSZÓW UBEZPIECZEŃ FUNDUSZE SPECJALNEGO PRZE- ŻYCIOWYCH Z UMÓW ZWIĄZANYCH ZNACZENIA Z RYZYKIEM INWESTYCYJNYM 1. Zakładowy fundusz socjalny NALEŻNOŚCI I ROSZCZENIA 2. Zakładowy fundusz mieszkaniowy : z : 7 3. Inne fundusze załogi oe zk UbezpEczeŃ Doza 4. Pozostałe fundusze specjalne"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Należności od ubezpieczijących ZOBOWIĄZANIA DEPOZYTOWE WO-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Należności od pośredników ubezpie- BĘC REASEKURATORÓW czeniowych ZOBOWIĄZANIA",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Inne należności ubezpieczeniowe Zobowiązania z tytułu ubezpieczeń bez- Należności z tytułu reasekuracji pośrednich Inne należności i roszczenia ; F F ;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Należności od budżetu i ae zna wanes: Uapiaczają",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pozostałe należności i roszczenia „ Zobowiązania wobec pośredników INNE RZECZOWE | FINANSOWE ubezpieczeniowych SKŁADNIKI MAJĄTKU . Inne zobowiązania ubezpieczeniowe Rzeczowe składniki majątku Zobowiązania z tytułu reasekuracji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Urządzenia techniczne, maszyny, śro- Inne zobowiązania dki transportu i inne wyposażenie 1. Pożyczki otrzymane",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Inwestycje rozpoczęte 2. Kredyty bankowe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zapasy 3. Zobowiązania wobec budżetu Środki pieniężne w obrocie 4. Pozostałe zobowiązania . Krajowe środki pieniężne w kasie i na rachunkach bankowych . Inne krajowe środki pieniężne . Zagraniczne środki pieniężne w kasie i na rachunkach bankowych . Inne zagraniczne środki pieniężne",
+     "children": [
+      {
+       "type": "text",
+       "text": "PRZEDPŁATY | ROZLICZENIA MIĘ- ROZLICZENIA MIĘDZYOKRESOWE DZYOKRESOWE I POZOSTAŁE PASYWA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zarachowane czynsze, tenuty i odse- 1. Przychody przyszłych okresów tki 2. Rozliczenia międzyokresowe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Koszty akwizycji rozliczane w czasie 3. Inne rezerwy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Inne rozliczenia międzyokresowe WYNIK FINANSOWY WYNIK FINANSOWY Zysk netto roku obrotowego Strata netto roku obrotowego",
+     "children": [
+      {
+       "type": "text",
+       "text": "(miejscowość) (podpisy)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "NAZWA | ADRES UBEZPIECZYCIELA TECHNICZNY ADRESAT: RACHUNEK UBEZPIECZEŃ za okres NR STATYSTYCZNY (dla ubezpieczycieli nie prowadzących REGON ubezpieczeń na życie)"
+    },
+    {
+     "type": "text",
+     "text": "w złotych"
+    },
+    {
+     "type": "text",
+     "text": "Sumy Sumy Sum WYSZCZEGÓLNIENIE przejściowe przekciowe | odólne"
+    },
+    {
+     "type": "text",
+     "text": "Składki"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "składki brutto przypisane w roku obrotowym",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "udział reasekuratorów w składce",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "zmiany stanu rezerw składek na udziale własnym",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "składki na udziale własnym za rok obrotowy (a—b+c) Inne przychody techniczne na udziale własnym Przychody z lokat ;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= BĘ - Poz. 23"
+      },
+      {
+       "type": "text",
+       "text": "Odszkodowania i świadczenia"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "odszkodowania i świadczenia wypłacone w roku obrotowym | — odszkodowania i świadczenia wypłacone II — udział reasekuratorów w odszkodowaniach i świadczeniach wypłaconych II! — odszkodowania i świadczenia wypłacone na udziale własnym ubezpieczyciela (Il)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zmiany stanu rezerw na nie wypłacone odszkodowania i świadczenia na udziale własnym",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "odszkodowania i świadczenia na udziale własnym (a+b) Zmiany stanu innych rezerw techniczno-ubezpieczeniowych na udziale własnym Dywidendy i udziały w zyskach na rzecz ubezpieczonych na udziale własnym łącznie ze zmianą stanu rezerwy Koszty działalności ubezpieczeniowej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "koszty akwizycji",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "koszty administracyjne",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "otrzymane prowizje reasekuracyjne i udziały w zyskach reasekuratora",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "rozliczone w czasie koszty akwizycji",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "koszty działalności ubezpieczeniowej na udziale własnym (a+b—c+d) Inne koszty techniczne na udziale własnym Wynik techniczny (1+2+3—4+5—6—7—8) Zmiany stanu rezerw na wyrównanie szkodowości (ryzyka) na udziale własnym ubezpieczyciela",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "zmiany stanu rezerw przewidzianych statutem ubezpieczyciela",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zmiany stanu rezerw nie przewidzianych statutem",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "łączne zmiany stanu rezerw (+a+b) WYNIK TECHNICZNY DO PRZENIESIENIA DO OGÓLNEGO RACHUNKU WYNIKÓW",
+     "children": [
+      {
+       "type": "text",
+       "text": "(miejscowość) (podpisy)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "NAZWA | ADRES UBEZPIECZYCIELA TECHNICZNY : ADRESAT: RACHUNEK UBEZPIECZEŃ za okres NR STATYSTYCZNY (dla ubezpieczycieli prowadzących REGON ubezpieczenia na życie)"
+    },
+    {
+     "type": "text",
+     "text": "Sumy Sumy WYSZCZEGÓLNIENIE panów przejtetówe 2 a © JEŻ KJ Składki"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "składki brutto przypisane w roku obrotowym",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "udział reasekuratorów w składce",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "zmiany stanu rezerw składek na udziale własnym ubezpieczyciela",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "składki na udziale własnym za rok obrotowy (a—b+c) Przychody z lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "przychody ze wspólnych przedsięwzięć lokacyjnych — przychody od przedsiębiorstw zależnych — pozostałe przychody",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "przychody z lokat bezpośrednich — przychody z nieruchomości — przychody od przedsiębiorstw zależnych — pozostałe przychody",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "wynik dodatni z tytułu rewaloryzacji lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "wynik dodatni z tytułu sprzedaży lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "razem przychody z lokat (a+b+c+d) Zarachowane nie zainkasowane przychody z lokat Inne przychody techniczne Razem przychody techniczne (1+2+3+4) Świadczenia",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "świadczenia wypłacone w roku obrotowym | — świadczenia wypłacone II — udział reasekuratorów w świadczeniach wypłaconych II! — świadczenia wypłacone na udziale własnym (I—Il)",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zmiany stanu rezerw na nie wypłacone świadczenia na udziale własnym",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "świadczenia na udziale własnym obciążające rok obrotowy (a +b)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Zmiany stanu innych rezerw technicznych na udziale własnym"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "matematyczne rezerwy ubezpieczeń na życie",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "pozostałe rezerwy techniczne",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "razem zmiana innych rezerw technicznych (+a+b) Dywidendy i udziały w zyskach na rzecz ubezpieczonych na udziale własnym łącznie ze zmianą stanu rezerwy na dywidendy i udziały w zyskach Koszty działalności ubezpieczeniowej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "koszty akwizycji",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "koszty administracyjne",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "otrzymane prowizje reasekuracyjne i udziały w zyskach reasekuratora",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "rozliczone w czasie koszty akwizycji",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "razem koszty działalności ubezpieczeniowej na udziale własnym (a+b—c+d) Koszty działalności lokacyjnej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "koszty utrzymania nieruchomości",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "inne koszty działalności lokacyjnej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "wynik ujemny z tytułu rewaloryzacji lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "wynik ujemny z tytułu sprzedaży lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "razem koszty działalności lokacyjnej (a+b—c—d) Zarachowane straty na lokatach Inne koszty techniczne na udziale własnym Przeniesienie przychodów z lokat w części zarachowanej na przychody ogólnego rachunku wyników WYNIK TECHNICZNY DO PRZENIESIENIA DO OGÓLNEGO RACHUNKU WYNIKÓW (5—6+7—-8—9—10—11—12—13)",
+     "children": [
+      {
+       "type": "text",
+       "text": "(miejscowość) (podpisy)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "NAZWA I ADRES UBEZPIECZYCIELA ADRESAT: OGÓLNY RACHUNEK WYNIKÓW"
+    },
+    {
+     "type": "text",
+     "text": "NR STATYSTYCZNY (dla wszystkich ubezpieczycieli)"
+    },
+    {
+     "type": "text",
+     "text": "w złotych Sumy Sumy Suró WYSZCZEGÓLNIENIE przejściowe | przejściowe oaól Y | [I gó ne | 3 | 4 | 5 |"
+    },
+    {
+     "type": "text",
+     "text": "Wynik techniczny z rachunku ubezpieczeń pozażyciowych lub Wynik techniczny z rachunku ubezpieczeń na życie Przychody z lokat"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "przychody ze wspólnych przedsięwzięć lokacyjnych — przychody od przedsiębiorstw zależnych — pozostałe przychody",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "przychody z lokat bezpośrednich — przychody z nieruchomości — przychody od przedsiębiorstw zależnych — pozostałe przychody",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "wynik dodatni z tytułu rewaloryzacji lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "wynik dodatni z tytułu sprzedaży lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "razem przychody z lokat (a+b+c+d) Zarachowane nie zainkasowane przychody z lokat Przeniesienie przychodów z lokat w części nie zaliczonej na przychody technicznego rachunku ubezpieczeń Koszty działalności lokacyjnej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "koszty utrzymania nieruchomości",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "inne koszty działalności lokacyjnej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "wynik ujemny z tytułu rewaloryzacji lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "wynik ujemny z tytułu sprzedaży lokat",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "razem koszty działalności lokacyjnej (a+b+c+d) Zarachowane straty na lokatach Przeniesienie przychodów z lokat w części zarachowanej na przychody technicznego rachunku ubezpieczeń",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Inne przychody Inne koszty Zysk/strata na działalności gospodarczej (+1 -+2+3+4—5—6—7+8—9) Zyski nadzwyczajne Straty nadzwyczajne Zysk/strata brutto (+10+11—12) Obowiązkowe zmniejszenia zysku lub zwiększenia straty"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "podatek dochodowy",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "inne obowiązkowe odpisy z zysku lub zwiększenia straty",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "razem obowiązkowe zmniejszenia zysku lub zwiększenia straty ZYSK/STRATA NETTO ROKU OBROTOWEGO",
+     "children": [
+      {
+       "type": "text",
+       "text": "DANE UZUPEŁNIAJĄCE"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wynik finansowy przed opodatkowaniem (zysk +, strata ) aaaaaa aannkkaa eee eee",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "koszty i straty nie uznawane przez przepisy podatkowe za koszty uzyskania przychodów (+) hans uceceteuuceuuness",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przychody, które zgodnie z przepisami podatkowymi są zaliczone do nie podlegających wliczeniu do podstawy opodatkowania (—) , pede bandon bb ene eens",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "inne zmiany podstawy opodatkowania przewidziane w przepisach podatkowych (+ lub =), hance euceeerecueeeree",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "ogółem podstawa opodatkowania (£1+2—3+4) 9000000 inne znane",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "zmiany metod wyceny bilansowej w roku obrotowym, które spowodowały zmianę wyniku finansowego (określenie rodzaju i kwoty zmiany: zwiększenie — liczba dodatnia, zmniejszenie — liczba ujemna) lk ee cece aaa ence eee",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "składki z obowiązkowych ubezpieczeń OC:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "wpłaty na Ubezpieczeniowy Fundusz Gwarancyjny ee aaa aaa aaa aaa naka ać",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "wpłaty na Fundusz Ochrony Ubezpieczonych nent e teense ene",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "wpłaty na pokrycie kosztów nadzoru vee eeeees",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "wpłaty na pokrycie kosztów lzby Ubezpieczeń nce naka aaa ać",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "składki ubezpieczeniowe (z ubezpieczeń bezpośrednich i z reasekuracji czynnej) otrzymane z zagranicy iw. ee aaa ee ee eee eee",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "składki reasekuracyjne (z tytułu reasekuracji biernej i retrocesji) przekazane zagranicę Lana a aka AA",
+     "children": [
+      {
+       "type": "text",
+       "text": "(miejscowość) padpisy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "NAZWA I ADRES UBEZPIECZYCIELA ADRESAT: WYKAZ LOKAT KAPITAŁOWYCH na dzień"
+    },
+    {
+     "type": "text",
+     "text": "NR STATYSTYCZNY REGON"
+    },
+    {
+     "type": "text",
+     "text": "w tysiącach złotych"
+    },
+    {
+     "type": "text",
+     "text": "Papiery"
+    },
+    {
+     "type": "text",
+     "text": "(depozygwaran- |nie gwatowane |rantowaprzez | ne przez"
+    },
+    {
+     "type": "text",
+     "text": "A. Lokaty w walucie polskiej wg cen nabycia (kosztu wytworzenia) (+) * Lokaty funduszów ubezpieczeń na życie z umów związanych z ryzykiem inwestycyjnym (1+2) . lokaty o stałym oprocentowaniu"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "w _ przedsiębiorstwach zależnych",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "pozostałe „lokaty o zmiennych dochodach",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "w przedsiębiorstwach zależnych",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "pozostałe",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ". Pozostałe"
+      },
+      {
+       "type": "text",
+       "text": ". lokaty o stałym opro-"
+      },
+      {
+       "type": "text",
+       "text": "„ Lokaty w walutach ob-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". lokaty o stałym opro-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„lokaty o zmiennych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". Pozostałe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". lokaty o stałym opro-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„lokaty o zmiennych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". Lokaty w walucie pol-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". Pozostałe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". Lokaty w walutach ob-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". Pozostałe lokaty w walucie polskiej (1+2)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "centowaniu ,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w przedsiębiorstwach zależnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pozostałe | lokaty o zmiennych dochodach :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w - przedsiębiorstwach zależnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pozostałe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "cych wg cen nabycia (1+11)** Lokaty funduszów ubezpieczeń na życie z umów związanych z ryzykiem inwestycyjnym (1+2)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "centowaniu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w _przedsiębiorstwach zależnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pozostałe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dochodach",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w przedsiębiorstwach zależnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pozostałe lokaty w walutach obcych (1+2)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "centowaniu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w przedsiębiorstwach zależnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pozostałe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dochodach |",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w przedsiębiorstwach zależnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pozostałe",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w tym lokaty na okres: — do jednego roku — od 1 do 3 lat — powyżej trzech lat w tym lokaty w: usD GBP DEM CHF",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "innych walutach",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "skiej wg cen sprzedaży (1-11) Lokaty funduszów ubezpieczeń na życie z umów związanych z ryzykiem inwestycyjnym",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "cych wg cen sprzedaży (1+11) Lokaty funduszów ubezpieczeń na życie z umów związanych z ryzykiem inwestycyjnym",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(miejscowość)",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "NAZWA | ADRES UBEZPIECZYCIELA ADRESAT: ZESTAWIENIE REZERW TECHNICZNO- -UBEZPIECZENIOWYCH na dzień ...."
+    },
+    {
+     "type": "text",
+     "text": "NR STATYSTYCZNY REGON"
+    },
+    {
+     "type": "text",
+     "text": "w tysiącach złotych"
+    },
+    {
+     "type": "text",
+     "text": "Rezerwa na nie wypłacone Rezerwa | Rezerwa Rezerwy Skąpiła- Rezerwa odszkodowania i świadczę- | 7 Oana Rezerwy |matemania z ex'u wartość |równanie|dy katas- ję: ag wibo lane 3 i endy many pt z | szkodo- |troficzne i udziały | piecże- | rezerwy ubezpie- niach składek w zysżyciowych | 1 [2 [8 | « | 6 | e | z fos |] s | mo | m | 12 | A. Rezerwy techniczne — brutto"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rezerwy ustalane metodą indywidualną",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Rezerwy ustalane w % składki",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Rezerwy tworzone w trybie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "§33 ust. 5 pkt 2 rozporządzenia",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "§ 33 ust. 7 rozporządzenia",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Rezerwy ustalone metodami matematyki ubezpieczeniowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. Udział reasekuratorów w rezerwach"
+      },
+      {
+       "type": "text",
+       "text": "C. Rezerwy na udział własny ubezpieczyciela (A—B) w tym:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rezerwy ustalane w walutach obcych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "rezerwy brutto",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "udział reasekuratorów",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "rezerwy na udział własny _ ubezpieczyciela (a—b)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Rezerwy ustalane w walucie polskiej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "rezerwy brutto",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "udział reasekuratorów",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "rezerwy na udział własny ubezpieczyciela (a—b)",
+       "children": [
+        {
+         "type": "text",
+         "text": "Utworzone rezerwy nie przewidziane statutem ubezpieczyciela wymagają omówienia poniżej z uwzględnieniem podziału na rezerwy tworzone w ciężar kosztów bądź tworzone z zysku po jego opodatkowaniu."
+        },
+        {
+         "type": "text",
+         "text": "Uwaga Rozbicie rezerw szkodowych w kol. 4, 5 i 6 według lat ubezpieczeniowych, w których umowy ubezpieczenia rozpoczynają swój bieg (według tzw. ex'ów), dotyczy wyłącznie rezerw tworzonych w trybie § 33 ust. 7 rozporządzenia. We wszystkich innych przypadkach całość rezerw na nie wypłacone odszkodowania i świadczenia może być wykazana w kol. 4."
+        },
+        {
+         "type": "text",
+         "text": "(miejscowość) (podpisy)"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "NAZWA | ADRES UBEZPIECZYCIELA"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "ADRESAT: ROZLICZENIE ŚRODKÓW WŁASNYCH I OBCYCH NR STATYSTYCZNY REGON na dzień"
+    },
+    {
+     "type": "text",
+     "text": "ŚRODKI"
+    },
+    {
+     "type": "text",
+     "text": "Środki własne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rzeczowe składniki majątku (poz. F.I aktywów)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Nadwyżka przeniesiona z poz. Il 10.a. (plus) Niedobór przeniesiony z poz. II 10.b. (minus)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Nadwyżka przeniesiona z poz. III 5.a. (plus) Niedobór przeniesiony z poz. III 5.b. (minus) RAZEM I (1+2+3+4)",
+     "children": [
+      {
+       "type": "text",
+       "text": "Lokaty Nieruchomości (poz. C.l.1 aktywów) Akcje notowane na giełdach (poz. C.1.5 i C.I1.3 aktywów) Akcje i udziały w spółkach nie notowane na giełdach (poz. C.I.6 aktywów) Terminowe wkłady w bankach (poz. C.1.7 oraz C.11.1 i 2 aktywów) Obligacje i inne papiery wartościowe (poz. C.1.3 i 4 oraz C.I1.4 aktywów) Udziały we wspólnych przedsięwzięciach lokacyjnych (poz. C.1.9 i C.Il.5 aktywów) Pożyczki i inne lokaty (poz. C.1.2, C.1.8, C.1.10 i C.II.6 aktywów) Lokaty funduszów ubezpieczeń życiowych (poz. D aktywów) . Razem (1+2+3+4+54+6+ 7 +8) „ Nadwyżka lokat nad funduszami ubezpieczeniowymi (wielkość ujemna) . Niedobór lokat na pokrycie funduszów ubezpieczeniowych (wielkość dodatnia) RAZEM II (9+10)"
+      },
+      {
+       "type": "text",
+       "text": "Środki obce Należności depozytowe od cedentów (poz. C.III. aktywów) Należności i roszczenia (poz. E aktywów) Środki pieniężne w obrocie (poz. F.II aktywów) . Razem (1+2+3) . Nadwyżka środków nad zobowiązaniami (wielkość ujemna) Niedobór środków na pokrycie zobowiązań (wielkość dodatnia) RAZEM III (4+5) w złotych"
+      },
+      {
+       "type": "text",
+       "text": "KAPITAŁY I FUNDUSZE"
+      },
+      {
+       "type": "text",
+       "text": "Kapitały i fundusze własne —\" Kapitały i fundusze własne (poz. A pasywów) te fee cede eed © WN"
+      },
+      {
+       "type": "text",
+       "text": "Aktywa zmniejszające kapitały własne (poz. A.1 aktywów, wielkość ujemna) |.......|....... Przedpłaty i rozliczenia międzyokresowe czynne (poz. G. aktywów, wielkość ujemna) ee ee R"
+      },
+      {
+       "type": "text",
+       "text": "Wartości niematerialne i prawne (poz. B aktywów, wielkość ujemna) si. se ue ee Rozliczenia międzyokresowe bierne i inne rezerwy (poz. G. pasywów, wiel - kość dodatnia) |M....aakasiaa. Wynik finansowy netto (poz. H.1 aktywów, strata —, poz. H.1 pasywów, zysk+) 000 ive ee 7."
+      },
+      {
+       "type": "text",
+       "text": "Zysk netto rozdysponowany na: fundusze i rezerwy techniczne (wiela. kośćujemna) ee eee ee ed b."
+      },
+      {
+       "type": "text",
+       "text": "dywidendy i inne fundusze specjalne i obce (wielkość ujemna) i. ee eee eee eee een RAZEM | (1—2—3—4+4+5+6—7) |......J......J......."
+      },
+      {
+       "type": "text",
+       "text": "Fundusz ubezpieczeniowy Fundusze i rezerwy techniczne (poz. C. pasywów) Część zysku przeznaczona na fundusze i rezerwy techniczne (wielkość dodatnia, przeniesienie z pozycji |. 7.a rozliczenia) RAZEM II (1+2)"
+      },
+      {
+       "type": "text",
+       "text": "Zobowiązania - Fundusze specjalnego przeznaczenia (poz. D pasywów) Zobowiązania depozytowe wobec reasekuratorów (poz. E pasywów) Pozostałe zobowiązania (poz. B+F pasywów) Część zysku przeznaczona na dywidendy i inne fundusze obce (wielkość dodatnia, przeniesienie z pozycji |.7.b) RAZEM III (1+2+3+4)"
+      },
+      {
+       "type": "text",
+       "text": "som | | | [| estes P|"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ". RAZEM I m NAW ND . 50% należnych wpłat na poczet kapitału . 50% nie zainkasowanych od ubezpieczonych dopłat w towarzystwach ubezpieczeń wzajemnych . Różnica pomiędzy ceną sprzedaży lokat a ich wartością bilansową* . Różnica pomiędzy wartością bilansową rezerw techniczno-ubezpieczeniowych a wielkością \"ustaloną według metody indywidualnej*? . OGÓŁEM (1+2+3+4+5)"
+      },
+      {
+       "type": "text",
+       "text": "*) Wymaga zgody Ministra Finansów"
+      },
+      {
+       "type": "text",
+       "text": "(miejscowość) (podpisy)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "OBJAŚNIENIA DO BILANSU I RACHUNKU STRAT I ZYSKÓW"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Bilans"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W przypadku gdy kapitał akcyjny lub kapitał zakładowy w towarzystwach ubezpieczeń wzajemnych nie został w pełni opłacony, różnicę pomiędzy wysokością kapitału zadeklarowanego i wykazanego w pasywach bilansu (w poz. A.l.) a sumą faktycznie uiszczoną (w gotówce bądź w formie aportu) wykazuje się w pozycji A.1. aktywów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Koszty organizacji i zgromadzenia kapitału, poniesione przy założeniu lub późniejszym rozszerzaniu ubezpieczyciela, w przypadku ich rozliczania w czasie, wykazuje się w aktywach bilansu w pozycji B.1, przy czym umorzenie tych kosztów (metodą pośrednią) nie może przekraczać pięciu lat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W pozycji B.2 aktywów wykazuje się wartość firmy według zasad określonych w § 31 ust. 3 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Środki trwałe, wyposażenie oraz wartości niemateria- Inę i prawne podlegające amortyzacji ewidencjonowanej odrębnie, tj. metodą pośrednią, w księgach rachunkowych (pozycje w aktywach odpowiednio: C.1.1, F.l.1 i B.3) wykazywane są w bilansach ubezpieczycieli według wartości netto po potrąceniu umorzenia. Wielkości dotychczasowego ae wykazywane są w danych uzupełniających do i lansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W przypadku ubezpieczeń na życie związanych z funduszem inwestycyjnym, gdy umowy ubezpieczenia przewidują, iż ryzyko inwestycyjne ponosi ubezpieczony — odpowiednie lokaty kapitałowe wykazywane są w odrębnej pozycji w bilansie ubezpieczyciela (pozycja w aktywach D.), jako że dochody z tych lokat rozliczane są z ubezpo yti i nie wpływają na wyniki finansowe ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W przypadku powierzenia kapitałów ubezpieczyciela innym podmiotom do wspólnego inwestowania, kapitały te podlegają wyodrębnieniu w bilansie i w załączniku do bilansu (załącznik nr 5) jako udziały we wspólnych przedsięwzięciach lokacyjnych. W razie gdy podmiot administrujący i gospodarujący wspólnym kapitałem inwestycyjnym jest przedsiębiorstwem zależnym, udziały takie w załączniku do bilansu wyodrębnia się jako lokaty w przedsiębiorstwach zależnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W pozycji aktywów C.III wykazuje się depozyty zatrzymywane przez kontrahentów ubezpieczyciela będących cedentami zgodnie z zawartymi umowami reasekuracyjnymi. W danych uzupełniających do bilansu depozyty te wykazuje się z podziałem na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "należności depozytowe 'w walucie polskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_7/pkt_1/lit_a",
+         "text": "od przedsiębiorstw zależnych będących cedentami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_7/pkt_1/lit_b",
+         "text": "pozostałe,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "należności depozytowe w walutach obcych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_7/pkt_2/lit_a",
+         "text": "należności depozytowe od przedsiębiorstw zależnych będących cedentami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_7/pkt_2/lit_b",
+         "text": "pozostałe należności depozytowe. Należności depozytowe nie mogą być łączone z innymi pozycjami ani też w żadnym przypadku nie mogą być kompensowane z zobowiązaniami. Gwarancje gotówkowe, zdeponowane na rzecz kontrahentów będących cedentami, które pozostają własnością ubezpieczyciela będącego reasekuratorem, wykazywane są w bilansie reasekuratora w odpowiedniej pozycji lokat bankowych.",
+         "children": [
+          {
+           "type": "text",
+           "text": "; 8. Wykazane w pozycjach E.l do Ill aktywów należności ujmuje się w danych uzupełniających do bilansu z podziałem"
+          },
+          {
+           "type": "text",
+           "text": "na:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "należności w walucie polskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_7/pkt_1/lit_a",
+         "text": "od przedsiębiorstw zależnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_7/pkt_1/lit_b",
+         "text": "pozostałe,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "należności w walutach obcych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_7/pkt_2/lit_a",
+         "text": "od przedsiębiorstw zależnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_7/pkt_2/lit_b",
+         "text": "pozostałe.",
+         "children": [
+          {
+           "type": "text",
+           "text": "_ 9, Należności powstałe w związku z czynnościami komisarza awaryjnego lub pośrednika wykonywanymi przez ubezpieczyciela zgodnie z umowami bądź na zlecenie innych ubezpieczycieli, ujmuje się w pozycji E.III.2 aktywów bilansu i wykazuje w danych uzupełniających do bilansu."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Pozycje F.Il.2 i 4 aktywów obejmują sumy pieniężne w drodze, czeki obce, akredytywy i inne środki pieniężne nie ujęte w poprzednich pozycjach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Jako sumy pieniężne w drodze występować mogą jedynie środki pomiędzy kasą a własnym rachunkiem bankowym ubezpieczyciela albo pomiędzy dwoma własnymi rachunkami bankowymi bądź czeki obce przekazywane do realizacji przez bank do czasu uznania z tego tytułu rachunku bankowego ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "W pozycji G.1 aktywów wykazuje się nie zrealizowane (nie otrzymane w gotówce) przychody z lokat przypadające za okres do końca roku obrotowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Koszty akwizycji (bezpośrednie koszty zawarcia ubezpieczeń i inkasa składek), w części przypadającej na przyszłe lata obrotowe, od składek pobranych za wieloletnie okresy ubezpieczenia wykazuje się w pozycji G.2 aktywów. W przypadku powstania negatywnego, ujemnego wyniku w rezultacie zastosowania metody Zillmera przy obliczaniu matematycznej rezerwy składek, wynik ten wykazuje się łącznie z kosztami akwizycji w pozycji G.2 aktywów, z obowiązkiem wyodrębnienia tej kwoty w danych uzupełniających do bilansu. Jeżeli obliczane oddzielnie od rezerw technicznych, ujęte w aktywach koszty akwizycji w ubezpieczeniach na życie przekraczają wysokość ustalonej rezerwy matematycznej, różnicę należy wykazać w danych uzupełniających do bilansu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "W pozycji A.l pasywów wykazuje się kapitał akcyjny lub kapitał zakładowy w towarzystwach ubezpieczeń wzajemnych w pełnej wysokości określonej statutem bez względu na zaczywisa wysokość wpłat dokonanych na poczet kapitału.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Wpływy za akcje lub tytułem udziałów w wysokości przekraczającej ich nominalną wartość (agio) zalicza się na kapitał zapasowy (rezerwowy) i wykazuje w pozycji A.ll pasywów, do czasu ich wykorzystania zgodnie z uchwałami walnego zgromadzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\" 16. Zmiany wynikające z przeszacowania aktywów lub pasywów (przyrost wartości aktywów — wielkość dodatnia, zmniejszenie wartości aktywów — wielkość ujemna, przyrost wartości pasywów — wielkość ujemna, zmniejszenie wartości. pasywów — wielkość dodatnia) w przypadku odnośnej decyzji władz zarachowuje się na kapitał własny i wykazuje (narastająco co roku) w pozycji A.lII pasywów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Określone statutem kapitały i fundusze zapasowe lub rezerwowe tworzone z zysku do podziału wykazuje się w pozycji A.IV pasywów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Nie rozliczony zysk z lat poprzednich (wartość dodatnia) lub nie pokryta strata z roku ubiegłego (wartość ujemna) wykazuje się w pozycji A.V pasywów.",
+     "children": [
+      {
+       "type": "text",
+       "text": ". 19. Rezerwy techniczno-ubezpieczeniowe, o których mowa w art. 50 ustawy, ujmuje się w pozycjach C.1 do C.6 pasywów. w wielkości przypadającej na udział własny ubezweg or z jednoczesnym wykazaniem kwot brutto (warodatnia) i kwot przypadających na udział reasekuratow (wartość ujemna)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Rezęrwa składek (poz. C.1) zawiera tę część składek przypisanych: w roku obrotowym, która dotyczy okresów ubezpieczenia przypadających w całości lub części na przyszłe lata obrotowe. Ustalane odrębnie rezerwy na ryzyka niewygasłe et mn je się łącznie z rezerwą składek w pozycji 1 pasywów. \"'21. Ustalane według zasad matematyki ubezpieczeniowej rezerwy techniczne ubezpieczeń na życie wykazuje się w pozycji C.2 pasywów. Rezerwy te obejmują również skapitalizowaną wartość z ubezpieczeń rent oraz rezerwę na dywidendy i udziały w zyskach z umów przewidujących udziały ibezpieczonych w dywidendach i zyskach ubezpieczyciela. Negatywne wyniki powstałe przy obliczaniu matematycznej rezerwy składek w rezultacie zastosowania metody Zillmera wykazuje się w pozycji G.2 aktywów, stosownie do ustaleń ust. 13.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\" 22. W pozycji C.3 pasywów wykazuje się rezerwę na nie wypłacone odszkodowania i świadczenia — łącznie z przewidywanymi kosztami likwidacji — za wszystkie szkody, które powstały w okresie do końca roku obrotowego, lecz nie zostały w tym czasie wypłacone, po uwzględnieniu przewidywanych zwrotów i regresów. Pozycja ta obejmuje również rezerwę na te szkody, które powstały przed zakończeniem roku obrotowego, lecz nie zostały jeszcze zgłoszone ubezpięczycielowi i nie zostały przez niego zarejestrowane. Pozycja ta obejmuje również obliczoną według zasad matematyki ubezpieczeniowej skapitalizowańą wartość zapadłych świadczeń rentowych w przypadku zaistnienia powtarzających się świadczeń (rent) z ubezpieczeń wypadkowych i odpowiedzialności cywilnej lub innych ubezpieczeń o podobnym charakterze nie zaliczanych do grupy ubezpieczeń na życie. Skapitalizowana wartość rent podlega wyodrębnieniu w załączniku do bilansu (załącznik nr 6). W razie zastosowania — przy ystalaniu rezerwy na nie wypłacone odszkodowania i świadczenia — metod uproszczonych lub ryczałtowych, kwoty ustalońe tymi metodami powinny być ujęte w dahych uzupełniających do bilansu wraz z jednoczesnym opisem zastosowanej metody."
+      },
+      {
+       "type": "text",
+       "text": "23.:W: pozycji C.4 pasywów wykazuje się rezerwę na dywidendy i udziały w zyskach z umów ubezpieczeń innych niż na życie. Zasady określone w ust. 21 obowiązują tu odpowiednio."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "W pozycji C.5 pasywów wykazuje się rezerwy na wyrównanie ryzyka lub szkodowości (mające na celu zabezpieczenie przed większymi wahaniami wskaźnika szkodowości w przyszłych latach obrotowych), w tym również rezerwy specjalne na ryzyka wyjątkowe, jak ryzyka atomowe, farmaceutyczne itp. szkody katastroficzne, jeżeli te rezerwy są przewidziane w statucie ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "W pozycji C.6 wykazuje się inne rezerwy nie ujęte w poprzednich pozycjach lub tworzone doraźnie rezerwy wymienione w ust. 24, jeżeli nie są przewidziane statutem ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "W pozycji D.1, 2 i 3 pasywów ujmuje się wszelkie fundusze dla załogi, tworzone zarówno na mocy przepisów ogólnie obowiązujących, jak i na mocy uchwał walnego zgromadzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "W pozycji D.4 ujmuje się wszelkie inne fundusze tworzone przez ubezpieczycieli, a nie objęte poprzednimi pozycjami. Tworzone przez ubezpieczycieli w ciężar kosztów lub z zysku do podziału, przewidziane statutem fundusze prewencyjne ujmuje się również w pozycji D.4 pasywów z obowiązkiem jednoczesnego wykazania tych funduszy w danych uzupełniających do bilansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "W bilansie ubezpieczyciela będącego cedentem depozyty zatrzymane reasekuratorom zgodnie z zawartymi umowami reasekuracyjnymi wykazywane są w pozycji E, pasywów. W danych uzupełniających do bilansu depozyty te wykazuje się z podziałem na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_28/pkt_1",
+       "text": "zobowiązania depozytowe w walucie polskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_28/pkt_1/lit_a",
+         "text": "zobowiązania depozytowe wobec przedsiębiorstw zależnych będących reasekuratorami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_28/pkt_1/lit_b",
+         "text": "pozostałe zobowiązania depozytowe,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_28/pkt_2",
+       "text": "zobowiązania depozytowe w walutach obcych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_28/pkt_2/lit_a",
+         "text": "zobowiązania depozytowe wobec przedsiębiorstw zależnych będących reasekuratorami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_28/pkt_2/lit_b",
+         "text": "pozostałe zobowiązania depozytowe.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "Gwarancje gotówkowe zdeponowane przez reasekuratora, pozostające własnością reasekuratora, podlegają ewidencji w księgach cedenta na koncie pozabilansowym i wykazywane są w danych uzupełniających do bilansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Ujęte w pozycjach F.l do F.IIl zobowiązania wykazuje się w danych uzupełniających z podziałem na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_30/pkt_1",
+       "text": "zobowiązania w walucie polskiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_30/pkt_1/lit_a",
+         "text": "zobowiązania wobec przedsiębiorstw zależnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_30/pkt_1/lit_b",
+         "text": "pozostałe zobowiązania.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_30/pkt_2",
+       "text": "zobowiązania w walutach obcych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_30/pkt_2/lit_a",
+         "text": "zobowiązania wobec przedsiębiorstw zależnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_30/pkt_2/lit_b",
+         "text": "pozostałe zobowiązania.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Zobowiązania powstałe w związku z czynnościami komisarza awaryjnego lub pośrednika wykonywanymi przez ubezpieczyciela zgodnie z umowami bądź na zlecenie innych ubezpieczycieli ujmuje się w pozycji F.II|.4 pasywów i wykazuje w danych uzupełniających do bilansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "W pozycji G.1 pasywów ujmuje się przychody przyszłych okresów, ustalane stosownie do przepisów § 25 ust. 2 i § 36 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "W pozycji G.2. pasywów ujmuje się rezerwę na koszty przyszłych okresów, stosownie do przepisów § 32 ust. 5 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "34",
+     "path": "ust_34",
+     "text": "Inne rezerwy, które nie mogą być ujęte w poprzednich pozycjach, wykazuje się w pozycji G.3 pasywów z obowiązkiem ich wyodrębnienia w danych uzupełniających do bilansu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "35",
+     "path": "ust_35",
+     "text": "Pozycja B pasywów jest zarezerwowana dla wierzytelności uznanych w postępowaniu likwidacyjnym lub upadłościowym ubezpieczyciela za nie uprzywilejowane.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Rachunki wyników"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Składki brutto, ujęte w technicznym rachunku ubezpieczeń (załącznik nr 2 poz. 1a i załącznik nr 3 poz. 1a), obejmują należne składki przypisane w roku obrotowym, łącznie ze wszystkimi dodatkami i uzupełnieniami za okresy zaległe, po potrąceniu storn, zwrotów, upustów i wszelkich zniżek i bonifikat. W przypadku koasekuracji ryzyk każdy współubezpieczyciel ujmuje w tej pozycji składki w części przypadającoj na jego udział (po wyłączeniu składek przypadających na udział innych współubezpieczycieli w kraju i za granicą). Pozycja ta obejmuje również składki z reasekuracji czynnej, rozliczone przez cedentów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pozycja 1b technicznego rachunku ubezpieczeń (załączniki nr 2 i nr 3) obejmuje składki reasekuracyjne przypadające na udział reasekuratorów ze zbioru składek ujętego w pozycji 1a.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Pozycja 1c technicznego rachunku ubezpieczeń (załączniki nr 2 i 3) obejmuje różnice pomiędzy stanem rezerw składek i na ryzyka nie wygasłe na koniec roku a stanem na początek roku obrotowego w ujęciu na udział własny (po zmniejszeniu o rezerwy przypadające na udział reasekuratorów). W pozycji tej ujmuje się zmianę stanu rezerw ujętych w (wg C.1 pasywów bilansu ubezpieczyciela (załącznik nr 7",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Przychody z lokat funduszu ubezpieczeniowego w rozumieniu ustawy wykazywane sq w technicznym rachunku ubezpieczeń (poz. 3 w załączniku nr 2 i poz. 2 w załączniku nr 3) jedynie w przypadku, gdy przychody te kalkulowane są w składce, powodując jej obniżenie, bądź gdy formuły matematyczne rezerw techniczno-ubezpieczeniowych przewidują dyskontowanie przychodów z lokat oraz w przypadku ubezpieczeń związanych z funduszem inwestycyjnym, gdy stosownie do umów ubezpieczenia ryzyko inwestycyjne (z tytułu lokat) ponosi ubezpie-",
+     "children": [
+      {
+       "type": "text",
+       "text": "czony."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W przypadku łącznego inwestowania (lokowania) środków własnych ubezpieczyciela i środków funduszu ubezpieczeniowego (w rozumieniu ustawy) i braku rozgraniczenia tych lokat, ubezpieczyciel może dokonać rozliczenia przychodów z lokat na część techniczną (ujmowaną w technicznym rachunku ubezpieczeń) i część ogólną (ujmowaną w ogólnym rachunku wyników) z zastrzeżeniem przepisu ust. 4. Podstawy i metody takiego rozliczenia powinny być omówione w danych uzupełniających lub w objaśnieniach do bilansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Ubezpieczyciel prowadzący różne ubezpieczenia poza życiowymi całość przychodów z lokat może ująć w ogólnym rachunku wyników (poz. 2 załącznika nr 4), a część zarachowaną na dobro przychodów technicznych — ująć jako przychód w pozycji 3 technicznego rachunku ubezpieczeń (załącznik nr 2) oraz jako koszt w pozycji 7 ogólnego rachunku wyników (załącznik nr 4).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ubezpieczyciel prowadzący ubezpieczenia na życie może całość przychodów z lokat ująć w technicznym rachunku ubezpieczeń w pozycji 2 (załącznik nr 3), a część zarachowaną na dobro przychodów ogólnych ująć jako przychód w pozycji 4 ogólnego rachunku wyników (załącznik nr 4) oraz jako koszt — w pozycji 13 technicznego rachunku ubezpieczeń (załącznik nr 3).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Zarachowane na przychody należne ubezpieczycielowi za okres do końca roku obrótowego, a nie zainkasowane w tym okresie odsetki (prowizje), czynsze i tenuty ubezpieczyciele prowadzący ubezpieczenia na życie wykazują w pozycji 3 technicznego rachunku ubezpieczeń (załącznik nr 3), a pozostali ubezpieczyciele — w pozycji 3 ogólnego rachunku wyników (załącznik nr 4).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Odszkodowania i świadczenia wypłacone w roku obrotowym w ujęciu brutto (poz. 4a | w załączniku nr 2 oraz 6a | w załączniku nr 3) obejmują wszelkie wypłaty i zarachowania (rozliczenia w kompensacie z należnościami) dokonane w roku sprawozdawczym tytułem odszkodowań i świadczeń za szkody i wypadki powstałe w roku obrotowym lub w latach ubiegłych (w tym również świadczenia rentowe i wykupy w ubezpieczeniach na życie) łącznie z wszelkimi bezpośrednimi i pośrednimi kosztami likwidacji szkód i windykacji regresów, zmniejszone o zwroty, regresy i wszelkie odzyski (w tym również odzyski ze sprzedaży pozostałości po szkodach). Koszty likwidacji szkód i windykacji regresów obejmują również koszty postępowania spornego. Pozycja ta obejmuje również odszkodowania z tytułu koasekuracji, w części przypadającej na udział ubezpieczyciela, oraz rozliczone przez cedentów odszkodowania z tytułu reasekuracji czynnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Odszkodowania i świadczenia przypadające na udział reasekuratorów w ramach reasekuracji biernej i retrocesji ujmuje się w pozycji 4a II (załącznik nr 2) oraz w pozycji 6a II (załącznik nr 3) technicznego rachunku ubezpieczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "W pozycji 4b w załączniku nr 2 i 6b w załączniku nr 3 ujmuje się różnicę pomiędzy stanem na koniec roku obrotowego a stanem na początek tego roku rezerwy na nie wypłacone odszkodowania i świadczenia na udziale włas- RR wykazanej w pozycji C.3 pasywów bilansu ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Dywidendy, premie (bonifikaty) i udziały w zyskach, wypłacane osobom ubezpieczonym lub uprawnionym stosownie do umów ubezpieczenia, ujmuje się w technicznym rachunku ubezpieczeń w pozycji 6 (załącznik nr 2) lub 8 (załącznik nr 3). W pozycji tej wykazuje się również przyrost lub zmniejszenie rezerwy na nie wypłacone dywidendy i udział w zyskach ubezpieczyciela.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Zmiany stanu rezerw technicznych w ubezpieczeniach na życie i rent, które ustalane są według zasad matematyki ubezpieczeniowej, wykazywane są w pozycji 7a (załącznik nr 3) technicznego rachunku ubezpieczeń. Natomiast zmiany stanu pozostałych rezerw technicznych, które nie stanowią rezerwy składek lub rezerwy na ryzyka niewygasłe, ani nie stanowią rezerw na nie wypłacone odszkodowania i świadczenia — ujmuje się w technicznym rachunku ubezpieczeń w pozycji 5 (załącznik nr 2) lub 7b (załącznik nr 3). Przez określenie „zmiany stanu rezerw technicznych” rozumie się różnicę pomiędzy stanem rezerwy na koniec roku a stanem na początek roku obrotowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Koszty akwizycji obejmują wszelkie koszty bezpośrednie związane z pozyskaniem i zawarciem ubezpieczenia oraz inkasem składki (jak prowizje ajencyjne i brokerskie, koszty badań lekarskich oraz koszty ekspertyz i atestów przy ocenie ryzyka itp.). Koszty akwizycji ujmuje się w technicznym rachunku ubezpieczeń w pozycji 7a (załącznik nr 2) i 9a (załącznik nr 3). Pozycja ta obejmuje również prowizje reasekuracyjne i udziały w zyskach płacone cedentom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Część kosztów akwizycji podlegająca rozliczaniu w czasie (poz. G.2 aktywów) ujmowana jest w technicznym rachunku ubezpieczeń w pozycji 7d (załącznik nr 2) i 9d (załącznik nr 3) jako wartość ujemna. Jako wartość dodatnią w pozycji tej ujmuje się odpisy z tytułu zaliczenia w ciężar bieżącego roku obrotowego kosztów akwizycji ujętych w aktywach w latach poprzednich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Koszty administracji wykazane wetechnicznym rachunku ubezpieczeń w pozycji 7b (załącznik nr 2) i 9b (załącznik nr 3) obejmują wszelkie koszty zarządu i administracji oraz wszelkie koszty o charakterze ogólnym dotyczące działalności ubezpieczeniowej i reasekuracyjnej, jak: koszty utrzymania biur, koszty portoryjne i telekomunikacyjne, koszty usług",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "obcych (transportowych, remontowych itp.), koszty zużycia energii, wyposażenia i materiałów, amortyzacja środków trwałych i wartości niematerialnych i prawnych, wynagrodzenia pracowników z tytułu umowy o pracę wraz z narzutami, koszty podróży służbowych oraz koszty reklamy i propagandy itp. po wydzieleniu kosztów związanych z likwidacją szkód i windykacją regresów oraz z utrzymaniem i prowadzeniem administracji nieruchomości. Część kosztów administracyjnych może być zaliczona według zasad określonych w zakładowym planie kont w ciężar odszkodowań i świadczeń jako pośrednie koszty likwidacji szkód i uzys- KANIA TODKESÓW oraz w ciężar kosztów utrzymania nieruchomości."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "W przypadku sporządzania technicznych rachunków ubezpieczeń w układzie grup lub rodzajów ubezpieczeń, koszty administracyjne podlegają odpowiedniemu rozliczeniu według zasad (wyznaczonego klucza) określonych w zakładowym planie kont.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Otrzymane prowizje reasekuracyjne oraz udziały w zyskach reasekuratorów wykazuje się — jako wielkość ujemną — w technicznym rachunku ubezpieczeń w pozycji 7c (załącznik nr 2) i 9c (załącznik nr 3).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Pozycja „Inne koszty techniczne na udziale własnym” w technicznym rachunku ubezpieczeń (poz. 8 w załączniku nr 2 i poz. 12 w załączniku nr 3) obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_19/pkt_1",
+       "text": "wpłaty od składek na Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w art. 51—56 ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_19/pkt_2",
+       "text": "wpłaty od składek na Fundusz Ochrony Ubezpieczonych, o którym mowa w art. 57 ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_19/pkt_3",
+       "text": "wpłaty na pokrycie kosztów nadzoru nad działalnością ubezpieczeniową stosownie do przepisów art. 84 usta-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wy,"
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_19/pkt_4",
+       "text": "wpłaty na pokrycie kosztów działalności Izby Ubezpieczeń stosownie do przepisów art. 86—90 ustawy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_19/pkt_5",
+       "text": "odpisy na fundusz prewencyjny bądź koszty prowadzenia działalności prewencyjnej, jeżeli ubezpieczyciel nie tworzy funduszu prewencyjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_19/pkt_6",
+       "text": "inne koszty techniczne na udziale własnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Inne przychody ujęte w pozycji 8 ogólnego rachunku wyników (załącznik nr 4) obejmują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_20/pkt_1",
+       "text": "przychody z operacji finansowych (pomniejszone o koszt tych operacji),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_20/pkt_2",
+       "text": "przychody z tytułu wykonywanych czynności komisarza awaryjnego i pośrednika ubezpieczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_20/pkt_3",
+       "text": "inne przychody.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Do przychodów, o których mowa w ust. 20 pkt 1, zalicza się między innymi dodatnie różnice kursowe walut obcych — stosownie do przepisów § 23 ust. 9 i § 25 ust. 2 rozporządzenia, a ujemne różnice kursowe zalicza się do kosztu tych przychodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Przychody z tytułu wykonywania przez ubezpieczyciela czynności komisarza awaryjnego i pośrednika ubezpieczeniowego zawierają wynik netto z tej działalności. Poniesione wydatki i zaciągnięte zobowiązania w imieniu i na rachunek kontrahenta (głównie innego ubezpieczyciela w kraju lub za granicą), wynikające z umów międzynarodowych, z zawartych umów bilateralnych bądź z indywidualnych zleceń —. ujmowane są jako pozostałe należności w pozycji E.111.2 aktywów w bilansie ubezpieczyciela (załącznik nr 1). Otrzymane od kontrahenta wpływy do rozliczenia z osobami trzecimi ujmowane są jako pozostałe zobowiązania w pozycji F.lll.4 pasywów. Wszystkie koszty bezpośrednie poniesione w związku z wykonywaniem czynności komisarza awaryjnego lub pośrednika obciążają odpowiednie konto osobowe zleceniodawcy. W przypadku gdy przewidują to umowy w zakresie komisariatu awaryjnego i pośrednictwa bądź na zasadzie wzajemności ubezpieczyciel może również rozliczać koszty pośrednie w ciężar kont osobowych zleceniodawców.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}
