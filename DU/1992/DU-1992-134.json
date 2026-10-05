@@ -1,0 +1,826 @@
+{
+ "eli": "DU/1992/134",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 20 marca 1992 r. w sprawie tworzenia, organizacji i kontroli zakładów opieki zdrowotnej dla osób pozbawionych wolności, rodzajów dokumentacji medycznej, sposobu prowadzenia oraz szczegółowych warunków jej udostępniania w tych zakładach.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1992/134/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 marca 1992 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie tworzenia, organizacji i kontroli zakładów opieki zdrowotnej dla osób pozbawionych wolności, rodzajów dokumentacji medycznej, sposobu prowadzenia oraz szczegółowych warunków jej udostępniania w tych zakładach."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 18 ust. 7 i art. 69 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. Nr 91, poz. 408) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Publiczne zakłady opieki zdrowotnej dla osób pozbawionych wolności, przez które rozumie się tymczasowo aresztowanych, skazanych i ukaranych, tworzy się przy rejonowych aresztach śledczych, rejonowych zakładach karnych, aresztach śledczych i zakładach karnych, zwanych dalej „zakładami karnymi”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Zakłady opieki zdrowotnej, o których mowa w § 1, organizuje się w celu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "zapewnienia osobom pozbawionym wolności świadczeń zdrowotnych, profilaktycznych, diagnostycznych, leczniczych i rehabilitacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "prowadzenia nadzoru nad higieną pracy i higieną osobistą osób pozbawionych wolności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "zaopatrzenia medycznego zakładów karnych, zwłaszcza w leki, materiały medyczne, sprzęt i aparaturę medyczną,",
+       "children": [
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "text",
+         "text": "— szerzenia oświaty zdrowotnej wśród osób pozbawionych wolności,"
+        },
+        {
+         "type": "text",
+         "text": "5"
+        },
+        {
+         "type": "text",
+         "text": "— współdziałania z innymi publicznymi zakładami opieki zdrowotnej, zwłaszcza w zakresie zapewnienia osobom pozbawionym wolności świadczeń diagnostycznych, leczniczych i rehabilitacyjnych, których udzielanie w zakładach karnych nie jest możliwe,"
+        },
+        {
+         "type": "text",
+         "text": "6"
+        },
+        {
+         "type": "text",
+         "text": "— utrzymywania współpracy z innymi służbami zakładów karnych w realizacji zadań penitencjarnych."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Cele, o których mowa w ust. 1, realizuje się w szczególności przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "dokonywanie przeglądów higienicznosanitarnych, badań lekarskich i analiz laboratoryjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "wykonywanie szczepień ochronnych, zabiegów sanitarnych i czynności higienicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "prowadzenie leczenia ambulatoryjnego i szpitalnego oraz rehabilitacji leczniczej,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "wydawanie leków, materiałów medycznych, przedmiotów ortopedycznych i środków pomocniczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "zlecanie diet leczniczych, kontrolowanie jadłospisów i jakości wydawanych posiłków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_2/pkt_6",
+       "text": "ocenianie pod względem zdrowotnym warunków zatrudnienia, zakwaterowania i wyposażenia osób pozbawionych wolności w odzież, bieliznę, a także wnioskowanie w tym względzie stosownych usprawnień,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_2/pkt_7",
+       "text": "ustalanie kategorii zdrowia osób pozbawionych wolności, opiniowanie ich zdolności do pracy i nauki zawodu, transportu, odbywania kar dyscyplinarnych i udziału w czynnościach procesowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_2/pkt_8",
+       "text": "określanie wskazań lekarskich w sprawach dotyczących przeprowadzania kąpieli i spacerów chorych, a także w sprawach zezwoleń na dokonywanie dodatkowych zakupów artykułów żywnościowych i otrzymywania dodatkowych paczek z żywnością,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_2/pkt_9",
+       "text": "wnioskowanie i opiniowanie odstępstw od przewidzianego w regulaminie wykonywania kary pozbawienia wolności sposobu odbywania kary w zakresie wynikającym z potrzeby uwzględniania stanu zdrowia osób pozbawionych wolności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_2/pkt_10",
+       "text": "kierowanie osób pozbawionych wolności na badania w celu uzyskania orzeczeń komisji do spraw inwalidztwa i zatrudnienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_2/pkt_11",
+       "text": "popularyzowanie informacji służących zachowaniu i poprawie zdrowia, zwłaszcza zaś zapobieganiu chorobom zakaźnym i przenoszonym drogą płciową oraz uzależnieniom od alkoholu, środków odurzających i psychotropowych,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "opiniowanie, rozpatrywanie i załatwianie próśb, skarg 12) oraz wniosków dotyczących opieki zdrowotnej nad osobami pozbawionymi wolności,"
+      },
+      {
+       "type": "text",
+       "text": "przekazywanie zwalnianym z zakładu karnego wyników 13) badań lekarskich, analiz laboratoryjnych, kart informacyjnych z leczenia szpitalnego, a wymagającym leczenia — także świadectw lekarskich mogących ułatwić im kontynuowanie leczenia lub rehabilitacji albo uzyskanie zatrudnienia,"
+      },
+      {
+       "type": "text",
+       "text": "współdziałanie z innymi służbami zakładu karnego w re- 14) habilitacji zawodowej i społecznej osób pozbawionych wolności wymagających stosowania szczególnych środków leczniczo-wychowawczych, a także uzależnionych od alkoholu, środków odurzających lub psychotropowych,"
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/ust_2/pkt_15",
+       "text": "ułatwianie upoważnionym organom, instytucjom państwowym, organizacjom zawodowym i społecznym, a także osobom fizycznym zapoznawania się ze stanem opieki zdrowotnej w zakładach karnych oraz umożliwianie upoważnionym pracownikom medycznym przeprowadzania badań, leczenia i rehabilitacji osób pozbawionych wolności, z zastrzeżeniem zachowania przepisów dotyczących tajemnicy lekarskiej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Cele i zadania, o których mowa w § 2, realizuje służba zdrowia więziennictwa, stanowiąca wyodrębnione komórki jednostek organizacyjnych więziennictwa, w skład których wchodzą funkcjonariusze i pracownicy posiadający odpowiednie kwalifikacje zawodowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Funkcjonariusze i pracownicy służby zdrowia więziennictwa podlegają służbowo właściwym przełożonym jednostek organizacyjnych więziennictwa, a w zakresie działalności medycznej — właściwym kierownikom zakładów opieki zdrowotnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Działalność służby zdrowia więziennictwa organizuje i nadzoruje Zespół Naczelnego Lekarza Więziennictwa w Centralnym Zarządzie Zakładów Karnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Rodzaje zakładów opieki zdrowotnej i ich tworzenie"
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Zakładami opieki zdrowotnej dla osób pozbawionych wolności są w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "ambulatoria wraz z izbami chorych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "poradnie stomatologiczne i pracownie protetyczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "pracownie analityki laboratoryjnej, rentgenodiagnostyki, fizykoterapii, rehabilitacji leczniczej, terapii zajęciowej i inne specjalistyczne pracownie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "poradnie i oddziały odwykowe dla uzależnionych od alkoholu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "oddziały i pododdziały dla wymagających stosowania szczególnych środków leczniczo-wychowawczych osób uzależnionych od środków odurzających lub psychotropowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "domy matki i małego dziecka,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "szpitale i oddziały szpitalne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Zakłady opieki zdrowotnej, o których mowa w ust. 1, mogą stanowić samodzielne lub zespolone komórki organizacyjne zakładu karnego, w którym je utworzono.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Pomieszczenia i urządzenia zakładów, o których mowa w ust. 1, powinny odpowiadać pod względem fachowym i sanitarnym wymaganiom ustalonym w odrębnych przepisach dla zakładów opieki zdrowotnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Funkcjonariusze i pracownicy zatrudnieni na stanowiskach kierowniczych w zakładach, o których mowa w ust. 1, powinni odpowiadać wymaganiom ustalonym w odrębnych przepisach dla publicznych zakładów opieki zdrowot-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Zakłady opieki zdrowotnej dla osób pozbawionych wolności tworzy się, przekształca i znosi na podstawie zarządzenia Ministra Sprawiedliwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Zarządzenie o utworzeniu zakładu powinno określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "nazwę i siedzibę zakładu opieki zdrowotnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "szczegółowe przeznaczenie zakładu, z określeniem w miarę potrzeby jego liczby łóżek lub miejsc,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "rodzaj i zakres udzielanych przez zakład świadczeń zdrowotnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Szczegółową organizację wewnętrzną utworzonego zakładu opieki zdrowotnej, wykaz stanowisk w tym zakładzie i wzorcowy zakres czynności funkcjonariuszy i pracowników określa Dyrektor Centralnego Zarządu Zakładów Karnych — uwzględniając odpowiednio przeznaczenie, rodzaj i zakres świadczeń udzielanych przez zakład.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Dyrektor Centralnego Zarządu Zakładów Karnych na wniosek Naczelnego Lekarza Więziennictwa może w przypadkach szczególnie uzasadnionych powierzyć zakładowi opieki zdrowotnej dla osób pozbawionych wolności czasowe udzielanie innego rodzaju świadczeń zdrowotnych niż określone zarządzeniem o utworzeniu danego zakładu, jeżeli ich udzielanie nie ogranicza rodzaju, zakresu i dostępności świadczeń zdrowotnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Ambulatorium wraz z izbą chorych i poradnią stomatologiczną organizuje się w każdym zakładzie karnym",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jako zespolony zakład opieki zdrowotnej dla osób pozbawionych wolności osadzonych w danym zakładzie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do zadań ambulatorium i izby chorych należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "przeprowadzanie badań oraz udzielanie porad profilaktycznych, diagnostycznych, leczniczych i rehabilitacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "krótkotrwałe leczenie chorych umieszczonych w izbie chorych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "kierowanie pacjentów na konsultacje specjalistyczne i do leczenia szpitalnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Szpital lub oddział szpitalny organizuje się dla zapewnienia całodobowej, a zwłaszcza specjalistycznej, opieki zdrowotnej osobom pozbawionym wolności kierowanym z terenowo wyznaczonych zakładów karnych. Do jego zadań należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "udzielanie chorym specjalistycznych świadczeń leczniczych i diagnostycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "przeprowadzanie obserwacji i specjalistycznych konsul-",
+       "children": [
+        {
+         "type": "text",
+         "text": "— tacji pacjentów kierowanych przez ambulatoria lub upoważnione organy,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_3/pkt_3",
+       "text": "kierowanie pacjentów do właściwych zakładów opieki",
+       "children": [
+        {
+         "type": "text",
+         "text": "~~ zdrowotnej w celu dalszego leczenia poszpitalnego lub rehabilitacji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Poradnie stomatologiczne i pracownie protetyczne organizuje się dla zapewnienia osobom pozbawionym wolności opieki zdrowotnej w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_4/pkt_1",
+       "text": "przeprowadzania badań profilaktycznych stanu uzębienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_4/pkt_2",
+       "text": "udzielania w poradniach świadczeń z zakresu stomatologii zachowawczej i prostych zabiegów z zakresu chirurgii stomatologicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_4/pkt_3",
+       "text": "przeprowadzania w pracowniach protetycznych zabiegów protetycznych oraz sporządzania i dokonywania napraw protez uzębienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Pracownie analityki laboratoryjnej, rentgenodiagnostyki, fizykoterapii, rehabilitacji leczniczej, terapii zajęciowej i inne specjalistyczne pracownie organizuje się dla zapewnienia prawidłowej działalności szpitali, ambulatoriów, oddziałów odwykowych, domów matki i małego dziecka, zakładów i oddziałów dla skazanych wymagających stosowania szczególnych środków leczniczo-wychowawczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Ogólne przeznaczenie, rodzaj i zakres świadczeń zdrowotnych poradni i oddziałów odwykowych dla uzależnionych od alkoholu, oddziałów i pododdziałów dla wymagających stosowania szczególnych środków leczniczo-wychowawczych osób uzależnionych od środków odurzających lub psychotropowych oraz domów matki i małego dziecka w zakładach karnych regulują odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Kontrola zakładów opieki zdrowotnej"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kontrolę i ocenę działalności zakładów opieki zdrowotnej dla osób pozbawionych wolności wykonują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "Zespół Naczelnego Lekarza Więziennictwa w Centralnym Zarządzie Zakładów Karnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "posiadający odpowiednie kwalifikacje zawodowe funkcjonariusze i pracownicy służby zdrowia więziennictwa rejonowych aresztów śledczych i rejonowych zakładów karnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Kontrola i ocena, o której mowa w ust. 1, obejmuje w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "realizację zadań z zakresu opieki zdrowotnej, a zwłaszcza dostępności, poziomu i jakości świadczeń zdrowotnych udzielanych osobom pozbawionym wolności,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2"
+        },
+        {
+         "type": "text",
+         "text": "— prawidłowość gospodarowania mieniem zakładów opieki zdrowotnej, w tym wykorzystanie urządzeń, sprzętu i materiałów medycznych,"
+        },
+        {
+         "type": "text",
+         "text": "3"
+        },
+        {
+         "type": "text",
+         "text": "~ współdziałanie z innymi publicznymi zakładami opieki zdrowotnej w zakresie zapewnienia osobom pozbawionym wolności specjalistycznych świadczeń diagnostycznych i leczniczych, szkolenia funkcjonariuszy i pracowników służby zdrowia więziennictwa oraz obsady stanowisk w tej służbie."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Szczegółowe zasady i tryb przeprowadzania kontroli i ocen, o których mowa w ust. 1, określają przepisy o kontroli jednostek organizacyjnych więziennictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Rodzaje dokumentacji medycznej, sposób jej prowadzenia i udostępniania"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W zakresie rodzajów dokumentacji medycznej, sposobu jej prowadzenia i udostępniania w zakładach opieki zdrowotnej dla osób pozbawionych wolności stosuje się przepisy ogólnie obowiązujące w zakładach opieki zdrowotnej, z zastrzeżeniem ust. 2 i § 12 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Dla każdego skazanego i tymczasowo aresztowanego prowadzi się książkę zdrowia, a dla każdego ukaranego — kartę ambulatoryjną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W książce zdrowia lub karcie ambulatoryjnej wpisuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "wyniki przeglądu sanitarnego, wyniki badań lekarskich wstępnych, okresowych i kontrolnych oraz wydane na ich podstawie zalecenia,",
+       "children": [
+        {
+         "type": "text",
+         "text": "2"
+        },
+        {
+         "type": "text",
+         "text": "~ ustaloną kategorię zdrowia oraz opinię lekarza w sprawie zdolności do pracy i transportu,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "przebieg leczenia ambulatoryjnego, stosowane zabiegi i zalecane leki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "decyzję o skierowaniu na badania, obserwację i leczenie w szpitalu oraz epikryzy z pobytu w szpitalu, oddziale odwykowym i oddziale lub pododdziale dla wymagających stosowania szczególnych środków leczniczo-wychowawczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_1/pkt_5",
+       "text": "wyniki przeprowadzonych badań pomocniczych,",
+       "children": [
+        {
+         "type": "text",
+         "text": "6"
+        },
+        {
+         "type": "text",
+         "text": "~ dane o zaopatrzeniu w przedmioty ortopedyczne i środki pomocnicze,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_9/ust_1/pkt_7",
+       "text": "adnotacje o odmowie poddania się przez osobę pozbawioną wolności badaniu, leczeniu lub rehabilitacji leczniczej i pouczeniu jej o skutkach zdrowotnych tej odmowy,",
+       "children": [
+        {
+         "type": "text",
+         "text": "8"
+        },
+        {
+         "type": "text",
+         "text": "— stwierdzenie zgonu z podaniem daty, godziny i miejsca oraz jego przyczyny,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_9/ust_1/pkt_9",
+       "text": "inne dane istotne dla sprawowania opieki zdrowotnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Do książki zdrowia lub karty ambulatoryjnej załącza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "kartę informacyjną z leczenia szpitalnego, świadectwa lekarskie i inne zaświadczenia o stanie zdrowia osoby pozbawionej wolności, dostarczone przez nią, osoby bliskie lub inne zakłady opieki zdrowotnej,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "wyniki konsultacji i badań przeprowadzonych w innych zakładach opieki zdrowotnej,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "kopie orzeczeń komisji lekarskich, 3 — — karty gorączkowe z pobytu w izbie chorych, 4"
+      },
+      {
+       "type": "text",
+       "text": "pisemne oświadczenia osób pozbawionych wolności,"
+      },
+      {
+       "type": "text",
+       "text": "— 5 dotyczące zgody lub odmowy na badania, leczenie lub rehabilitację leczniczą,"
+      },
+      {
+       "type": "text",
+       "text": "indywidualną kartę kosztów leczenia samouszkodzeń. 6 ~"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Wpisów do książki zdrowia lub karty ambulatoryjnej dokonują: lekarz, felczer, pielęgniarka i psycholog — każdy w zakresie swego działania; informacje zawarte w tych dokumentach są objęte tajemnicą zawodową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W razie transportu, zwolnienia lub zgonu osoby pozbawionej wolności, książkę zdrowia lub kartę ambulatoryjną załącza się do części A akt osobowych tej osoby.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Książkę zdrowia lub kartę ambulatoryjną osoby pozbawionej wolności przechowuje się w ambulatorium zakładu karnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Udostępnienie dokumentacji medycznej osobie pozbawionej wolności następuje w obecności lekarza prowadzącego lub wyznaczonego przez niego pracownika medycznego i w zakresie niezbędnym do wyjaśnienia prośby, skargi lub wniosku dotyczącego udzielanych świadczeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Zwalnianym z zakładu karnego wydaje się na ich żądanie wyniki badań lekarskich, analiz laboratoryjnych i kartę informacyjną z leczenia szpitalnego. Wymagającym dalszego leczenia wydaje się świadectwo lekarskie mogące ułatwić kontynuowanie leczenia lub rehabilitacji albo uzyskanie zatrudnienia. ©",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy końcowe"
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Dotychczas istniejące przy zakładach karnych placówki więziennej służby zdrowia stają się zakładami opieki zdrowotnej w rozumieniu niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: Z. Dyka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,443 @@
+{
+ "eli": "DU/1992/466",
+ "title": "Rozporządzenie Ministra Finansów z dnia 7 grudnia 1992 r. w sprawie podatku od środków transportowych.",
+ "converter": "eli2md 0.6.31",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1992/466/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 grudnia 1992 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podatku od środków transportowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. Nr9, poz. 31 i Nr 101, poz. 444 oraz z 1992 r. Nr 21, poz. 86) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Podatek od środków transportowych wynosi rocznie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "42.000 zł,"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "od motorowerów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "od motocykli z silnikiem o pojemności skokowej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "do 50 cm? włącznie 84.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "powyżej 50 cm* do 350 cm* włącznie 144.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "powyżej 350 cm* 696.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "od samochodów osobowych z silnikiem o pojemności skokowej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "do 900 cm? włącznie 216.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "powyżej 900 cm? do 1.300 cm? włącznie 390.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "powyżej 1.300 cm? do 1.500 cm? wiacznie 492.000 zt,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "powyżej 1.500 cm? do 1.600 cm? włącznie 768.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_3/lit_e",
+       "text": "powyżej 1.600 cm* do 1.800 cm? włącznie 1.212.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_3/lit_f",
+       "text": "powyżej 1.800 cm? do 2.000 cm? włącznie 2.040.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_3/lit_g",
+       "text": "powyżej 2.000 cm? do 2.500 cm? włącznie, z wyjątkiem samochodów marki „Warszawa” 3.156.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_3/lit_h",
+       "text": "od samochodów marki „Warszawa” 492.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_3/lit_i",
+       "text": "powyżej 2.500 cm? 4.260.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "od samochodów osobowych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "z silnikiem nie charakteryzującym się pojemnością skokową 996.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "z napędem elektrycznym 216.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "od autobusów oraz samochodów ciężarowych przystosowanych do przewozu osób o liczbie miejsc do siedzenia, łącznie z miejscem kierowcy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "do 15 miejsc 768.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "powyżej 15 do 30 miejsc 1.416.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "powyżej 30 miejsc 3.120.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "od samochodów ciężarowo-osobowych o dopuszczał-",
+     "children": [
+      {
+       "type": "text",
+       "text": "~~ nej masie całkowitej:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "do 2 t włącznie 492.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "powyżej 2 t 768.000 zł, od samochodów ciężarowych i ciągników siodłowych",
+       "children": [
+        {
+         "type": "text",
+         "text": "7"
+        },
+        {
+         "type": "text",
+         "text": "~ o ładowności samochodu lub nacisku na siodło ciągnika:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "do 0,5 t włącznie 492.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "powyżej 0,5 t do 1 t włącznie 768.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_6/lit_c",
+       "text": "powyżej 1 t do 2 t włącznie 918.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_6/lit_d",
+       "text": "powyżej 2 t do 4 t włącznie 1.134.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_6/lit_e",
+       "text": "powyżej 4 t do 6 t włącznie 1.560.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_6/lit_f",
+       "text": "powyżej 6 t do 8 t włącznie 1.848.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_6/lit_g",
+       "text": "powyżej 8 t do 10 t włącznie 2.700.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_6/lit_h",
+       "text": "powyżej 10 t 3.552.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "od samochodów specjalnych 768.000 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "od ciągników balastowych 3.552.000 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "od ciągników rolniczych z silnikiem o pojemności skokowej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_10/lit_a",
+       "text": "do 4000 cm? włącznie 132.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_10/lit_b",
+       "text": "powyżej 4000 cm? 324.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "od przyczep i naczep:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_11/lit_a",
+       "text": "kempingowych 126.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_11/lit_b",
+       "text": "o ładowności do 0,5 t włącznie 102.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_11/lit_c",
+       "text": "o ładowności powyżej 0,5 t do 1 t włącznie 216.000 zł,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_11/lit_d",
+       "text": "o ładowności powyżej 1,0 t do 5 t włącznie 354.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_11/lit_e",
+       "text": "o ładowności powyżej 5 t do 20 t włącznie 540.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_11/lit_f",
+       "text": "o ładowności powyżej 20 t 918.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_11/lit_g",
+       "text": "pozostałych 768.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "od łodzi motorowych oraz jachtów z silnikiem o pojem- ~~ ności skokowej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_12/lit_a",
+       "text": "powyżej 200 cm? do 1.000 cm? włącznie 354.000 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_12/lit_b",
+       "text": "powyżej 1.000 cm? 768.000 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "od proméw 216.000 zt,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "od łodzi stuzacych do zarobkowego przewozu towarów i osób 768.000 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc rozporządzenie Ministra Finansów z dnia 11 marca 1992 r. w sprawie podatku od środków transportowych (Dz. U. Nr 22, poz. 93).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1993 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: J. Osiatyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
