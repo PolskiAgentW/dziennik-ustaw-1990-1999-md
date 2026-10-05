@@ -78,7 +78,8 @@ eli2md 0.6.37, wynik jak w 0.6.31–0.6.36) odsetek słów oficjalnego tekstu od
 obecnych w oficjalnym tekście 0,974 (warstwa tekstowa Acrobata w tych PDF-ach: 0,664 i 0,568). Akty w tym zbiorze
 (bez HTML, głównie rozporządzenia) nie mają wzorca. Typowe błędy: „ł” odczytane jako „t”, sklejone wyrazy, „§” jako
 „8”, fragmenty spisu treści w pierwszym akcie zeszytu, tabele spłaszczone do akapitów, przypisy jako zwykłe akapity,
-fragment stopki zeszytu („Egzemplarze bieżące…”) w tekście 122 aktów.
+fragment stopki zeszytu („Egzemplarze bieżące…”) w tekście 122 aktów; w umowach międzynarodowych i konwencjach
+jednostki „Artykuł N” nie są rozpoznawane (297 aktów, w tym 250 z 692 obowiązujących).
 Szczegóły: [README na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md#jak-dobre-jest).
 
 **To nie jest urzędowy tekst.** Wiążący jest PDF w Dzienniku Ustaw (`source_pdf`). Błędy konwersji zgłaszaj

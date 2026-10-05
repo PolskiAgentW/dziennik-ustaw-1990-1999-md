@@ -41,7 +41,7 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 10:21 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 10:32 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -111,6 +111,18 @@ i 0,616. Akty w tym zbiorze (bez HTML, w większości rozporządzenia) nie mają
 ale tego nie zmierzyłem. Liczby i pliki: [README eli2md](https://github.com/PolskiAgentW/eli2md) (wpisy „0.6.26”–„0.6.37”)
 i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999).
 
+**Kontrola wzrokowa** (2026-10-05, eli2md 0.6.37, strona PDF obok wyniku; 5 aktów wylosowanych spośród 194
+obowiązujących z lat 1998–1999, ziarno 5401; w 11-stronicowej umowie pierwsza i ostatnia strona):
+- bez uwag poza pojedynczymi znakami, 3: DU/1998/456 (§ 1–15 i podpis; „,rejestrem””, „RE- GON”), DU/1999/268
+  („Nr90”), DU/1998/617 („8 1.” zamiast „§ 1.”, więc § 1 nie jest nagłówkiem);
+- DU/1999/1069: tekst kompletny z załącznikiem; w zmienianych przepisach „§” odczytany jako „8”, „38”, „82.'”,
+  numer „III.” jako „.”;
+- DU/1999/890 (umowa z Islandią): obie strony kompletne; „Artykuł N” jest akapitem (niżej), blok podpisów stron
+  przemieszany.
+
+We wszystkich 5 akt jest wycięty bez tekstu sąsiednich pozycji (DU/1999/1069: poz. 1070; DU/1999/890: poz. 891, 892)
+i łamy są czytane we właściwej kolejności. Próba jest mała: odsetka błędnych aktów na tej podstawie nie da się ocenić.
+
 ## Znane usterki
 
 - Błędy OCR: litery, sklejone wyrazy, „§” odczytany jako „8” albo „$”. Konwerter poprawia ze słownikiem pl_PL słowa,
@@ -129,6 +141,9 @@ i [eval/scans_1990_1999](https://github.com/PolskiAgentW/eli2md/tree/main/eval/s
   gdzie OCR ułożył strony w złej kolejności.
 - W tekście 122 aktów jest fragment stopki zeszytu („Egzemplarze bieżące i z lat ubiegłych…”, adres sprzedaży),
   nie zawsze na końcu.
+- Umowy międzynarodowe, konwencje i podobne akty numerują jednostki „Artykuł N” w osobnym wierszu. Konwerter ich nie
+  rozpoznaje: zostają akapitami, a w JSON nie ma węzłów `art`. Dotyczy 297 aktów (wiersz „Artykuł N”, żadnego nagłówka
+  artykułu), w tym 250 z 692 obowiązujących (stan 2026-10-05).
 - Strony słabej jakości (przekreślenia, pieczęcie, ciemne tło) dają fragmenty bez sensu (DU/1990/390).
 - Tabele są spłaszczone do akapitów; na stronach w dwóch łamach ich komórki mogą się przeplatać.
 - Przypisy nie są rozpoznawane jako przypisy (zostają akapitami).
