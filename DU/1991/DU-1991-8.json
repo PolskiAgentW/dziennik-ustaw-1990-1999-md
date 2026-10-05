@@ -1,7 +1,7 @@
 {
  "eli": "DU/1991/8",
  "title": "Rozporządzenie Rady Ministrów z dnia 22 grudnia 1990 r. w sprawie utworzenia, zniesienia, zmiany granic, nazw i ustalenia siedzib niektórych gmin w województwach: bielskim, bydgoskim, elbląskim, gdańskim, katowickim, kieleckim, krośnieńskim, nowosądeckim i siedleckim oraz nadania statutu miasta.",
- "converter": "eli2md 0.6.31",
+ "converter": "eli2md 0.6.34",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1991/8/text.pdf",
  "body": [
   {
@@ -9,537 +9,310 @@
    "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "pkt",
-   "num": "11",
-   "path": "pkt_11",
-   "text": "art. 46 otrzymuje brzmienie: „„Art. 46. Z chwilą likwidacji przedsiębiorstwa mienie tego przedsiębiorstwa pozostałe po likwidacji przejmuje Skarb Państwa. O przeznaczeniu tego majątku decyduje organ założycielski zgodnie z ustawą o prywatyzacji przedsiębiorstw. ';",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "12",
-   "path": "pkt_12",
-   "text": "w art. 50 ust. 1 oraz oznaczenie ust. 2 skreśla się.",
-   "children": []
-  },
-  {
-   "type": "art",
-   "num": "2",
-   "path": "art_2",
-   "text": "W ustawie z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 17, poz. 99) w art. 2 w ust. 4 dodaje się zdanie drugie w brzmieniu: „Prowizja, o której mowa w art. 39° ustawy o przedsiębiorstwach państwowych, przysługuje również dyrektorom powołanym przed dniem wejścia w życie ustawy.\"",
-   "children": []
-  },
-  {
-   "type": "art",
-   "num": "3",
-   "path": "art_3",
-   "text": "W ustawie z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego (Dz. U. Nr 24, poz. #23, z 1986 r. Nr 17, poz. 88, z 1987 r. Nr 33, poz. 181, z 1989 r. Nr 10, poz. 57 i z 1990r. Nr 17, poz. 99) w art. 24 wprowadza się następujące zmiany:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "art_3/pkt_1",
-     "text": "w ust. 1:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_3/pkt_1/lit_a",
-       "text": "pkt 5 otrzymuje brzmienie: „5) wyrażanie zgody na oddawanie środków trwałych przedsiębiorstwa osobom prawnym lub fizycznym do korzystania z nich w formie przewidzianej w prawie cywilnym”,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "art_3/pkt_1/lit_b",
-       "text": "w pkt 9 dodaje się wyrazy ,,z zastrzeżeniem przepisu ust. 3”,",
-       "children": [
-        {
-         "type": "text",
-         "text": "= Poz. 6, 7 18"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_3/pkt_2",
-     "text": "po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Rada pracownicza dokonując podziału, o którym mowa w ust. 1 pkt 9, powinna zapewnić niezbędne środki na prowizje od zysku zgodnie z odrębnymi przepisami.\"",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "art",
-   "num": "4",
-   "path": "art_4",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "art_4/ust_1",
-     "text": "Przedsiębiorstwa państwowe utworzone przez terenowe organy administracji państwowej na podstawie uchwał rad narodowych pozostają nadal przedsiębiorstwami państwowymi, o ile nie stały się na podstawie odrębnych przepisów mieniem komunalnym.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "art_4/ust_2",
-     "text": "W stosunku do przedsiębiorstw, o których mowa w ust. 1, uprawnienia i obowiązki organu założycielskiego pełni właściwy wojewoda, z zastrzeżeniem ust. 3.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "art_4/ust_3",
-     "text": "W stosunku do wspólnych przedsiębiorstw państwowych utworzonych przez terenowe organy administracji państwowej na podstawie uchwał rad narodowych uprawnienia i obowiązki organu założycielskiego pełni wojewoda właściwy ze względu na siedzibę przedsiębiorstwa.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "art",
-   "num": "5",
-   "path": "art_5",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "art_5/ust_1",
-     "text": "Uprawnienie do prowizji, o której mowa w art. 39% ustawy o przedsiębiorstwach państwowych, przysługuje od dnia 1 kwietnia 1990 r.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "art_5/ust_2",
-     "text": "Uprawnienie do prowizji od zysku na zasadach określonych w art. 39* za okres od dnia 1 kwietnia 1990 r. do dnia 31 grudnia 1990 r. przysługuje również członkom rad pracowniczych.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "art",
-   "num": "6",
-   "path": "art_6",
-   "text": "Ustawa wchodzi w życie z dniem ogłoszenia.",
-   "children": []
-  },
-  {
-   "type": "signature",
-   "text": "Prezydent Rzeczypospolitej Polskiej: Ł. Wałęsa"
-  },
-  {
-   "type": "text",
-   "text": "USTAWA"
-  },
-  {
-   "type": "text",
-   "text": "z dnia 20 grudnia 1990 r."
-  },
-  {
-   "type": "text",
-   "text": "o uchyleniu ustawy o jednostkach innowacyjno-wdrożeniowych."
-  },
-  {
-   "type": "text",
-   "text": "/ Art. 1. 1. Traci moc ustawa z dnia 16 lipca 1987 r. /6 jednostkach innowacyjno-wdrożeniowych (Dz. U. Nr 22, poz. 126 oraz z 1989 r. Nr 6, poz. 33 i Nr 74, poz. 443)."
-  },
-  {
-   "type": "art",
-   "num": "2",
-   "path": "art_2",
-   "text": "Urząd. Postępu Naukowo-Technicznego i * Wdrożeń na dotychczasowych zasadach:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "art_2/pkt_1",
-     "text": "dokonuje skreśleń w rejestrze jednostek innowacyjno- -wdrożeniowych w okresie trzech lat od dnia wejścia w życie niniejszej ustawy,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_2/pkt_2",
-     "text": "wpisuje do rejestru jednostkę gospodarczą, która przed dniem wejścia w życie niniejszej ustawy:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_2/pkt_2/lit_a",
-       "text": "uzyskała wpis warunkowy,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "art_2/pkt_2/lit_b",
-       "text": "złożyła wniosek i w ciągu 2 miesięcy od dnia złożenia tego wniosku nie została poinformowana o braku przesłanek do dokonania wpisu.",
-       "children": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "art",
-   "num": "3",
-   "path": "art_3",
-   "text": "Jednostki gospodarcze wpisane przez Urząd Postępu Naukowo-Technicznego i Wdrożeń do rejestru jednostek innowacyjno-wdrożeniowych zachowują uprawnienia do korzystania z ulg i preferencji uzyskanych na podstawie ustawy wymienionej w art. 1, na zasadach w niej określonych, przez okres, na który zostały przyznane.",
-   "children": []
-  },
-  {
-   "type": "art",
-   "num": "4",
-   "path": "art_4",
-   "text": "Ustawa wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa"
-    },
-    {
-     "type": "text",
-     "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
-    },
-    {
-     "type": "text",
-     "text": "z dnia 22 grudnia 1990 r."
-    },
-    {
-     "type": "text",
-     "text": "w sprawie utworzenia, zniesienia, zmiany granic, nazw i ustalenia siedzib niektórych gmin w województwach: bielskim, bydgoskim, elbląskim, gdańskim, katowickim, kieleckim, krośnieńskim, nowosądeckim i siedleckim oraz nadania statusu miasta."
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 4 ust. 1 i 3 ustawy z dnia 8 marca 1990 r. o samorządzie terytoria!nym (Dz. U. Nr 16, poz. 95, Nr 32, poz. 191, Nr 34, poz. 199, Nr 43, poz. 253 i Nr 89, poz."
-    },
-    {
-     "type": "pkt",
-     "num": "578",
-     "path": "art_4/pkt_578",
-     "text": "zarządza się, co następuje:",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "art_4/par_1",
-     "text": "W województwie bielskim:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_4/par_1/pkt_1",
-       "text": "tworzy się gminy:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_4/par_1/pkt_1/lit_a",
-         "text": "Gilowice z siedzibą władz w Gilowicach; w skład gminy Gilowice wchodzą obszary wsi Gilowice i Rychwałd z gminy Gilowice- Ślemień,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "art_4/par_1/pkt_1/lit_b",
-         "text": "Jaworze z siedzibą władz w Jaworzu; w skład gminy Jaworze wchodzi wieś Jaworze z gminy Jasienica,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "c",
-         "path": "art_4/par_1/pkt_1/lit_c",
-         "text": "Łękawica z siedzibą władz w Łękawicy; w skład gminy Łękawica wchodzą obszary wsi: Kocierz Moszczanicki, Kocierz Rychwałdzki, Łękawica, Łysina i O krajnik z gminy Gilowice-Ślemień,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "d",
-         "path": "art_4/par_1/pkt_1/lit_d",
-         "text": "Ślemień z siedzibą władz w Ślemieniu; w skład gminy Ślemień wchodzą obszary wsi: Kocoń, Las i Ślemień z gminy Gilowice-Ślemień,",
-         "children": []
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_4/par_1/pkt_2",
-       "text": "znosi się gminę Gilowice-Ślemień,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_4/par_1/pkt_3",
-       "text": "zmienia się granice miasta Żywca przez przyłączenie obszaru wsi Oczków o powierzchni 735,41 ha z likwidowanej gminy Gilowice-Ślemień.",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Świekatowo z siedzibą władz w Świekatowie; w skład gminy Świekatowo wchodzą obszary wsi: Jania Góra, Lipienica, Lubania-Lipiny, Małe Łąkie, Stążki, Świekatowo, Tuszyny i Zalesie Królewskie z gminy Bukowiec."
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "art_4/par_3",
-     "text": "W województwie elbląskim:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_4/par_3/pkt_1",
-       "text": "tworzy się gminę Krynica Morska z siedzibą władz w Krynicy Morskiej; w skład gminy Krynica Morska wchodzą obszary wsi: Krynica Morska, Nowa Karczma i Przebrno z gminy Sztutowo, nadaje się status miasta gminie Krynica Morska.",
-       "children": [
-        {
-         "type": "text",
-         "text": "2 —"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "art_4/par_4",
-     "text": "W województwie gdańskim tworzy się gminy:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_4/par_4/pkt_1",
-       "text": "Bobowo z siedzibą władz w Bobowie; w skład gminy Bobowo wchodzą obszary wsi: Bobowo, Grabowiec, Grabowo Bobowskie, Jabłówko i Smoląg z gminy Starogard Gdański, Suchy Dąb z siedzibą władz w Suchym Dębie; w skład",
-       "children": [
-        {
-         "type": "text",
-         "text": "2 — gminy Suchy Dąb wchodzą obszary wsi: Grabiny Zameczek, Koźliny, Krzywe Koto, Osice, Ostrowite, Steblewo, Suchy Dąb i Wróblewo z gminy Pszczółki."
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "5",
-     "path": "art_4/par_5",
-     "text": "W województwie katowickim:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_4/par_5/pkt_1",
-       "text": "tworzy się gminy:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_4/par_5/pkt_1/lit_a",
-         "text": "Bieruń z siedzibą władz w Bieruniu; w skład gminy Bieruń wchodzi część obszaru miasta Tychy o powierzchni 4019,05 ha, stanowiącego obręby geodezyjne: Bieruń Nowy, Bieruń Stary, Bijasowice, Czarnuchowice, Jajosty i Ściernie,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "art_4/par_5/pkt_1/lit_b",
-         "text": "Bojszowy z siedzibą władz w Bojszowach; w skład gminy Bojszowy wchodzi część obszaru miasta Tychyo powierzchni 3407,33 ha, stanowiącego obręby geodezyjne: Bo żem Bojszowy Nowe, Jedlina, Międzyrzecze i Świerczyniec, Kobiór z siedzibą władz w Kobiórze; w skład gminy",
-         "children": [
-          {
-           "type": "text",
-           "text": "— c Kobiór wchodzi część obszaru miasta Tychy o powierzchni 4949,70 ha, stanowiącego obręb geodezyjny Kobiór, Krupski Młyn z siedzibą władz w Krupskim Młynie;"
-          },
-          {
-           "type": "text",
-           "text": "— d w skład gminy Krupski Młyn wchodzą obszary wsi Krupski Młyn i Potępa z gminy Tworóg,"
-          }
-         ]
-        },
-        {
-         "type": "lit",
-         "num": "e",
-         "path": "art_4/par_5/pkt_1/lit_e",
-         "text": "Lędziny z siedzibą władz w Lędzinach; w skład gminy Lędziny wchodzi część obszaru miasta Tychy o powierzchni 3104,48 ha, stanowiącego obręby geodezyjne: Goławiec, Górki, Hołdunów, Lędziny i Smardzowice,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "f",
-         "path": "art_4/par_5/pkt_1/lit_f",
-         "text": "Ornontowice z siedzibą władz w Ornontowicach; w skład gminy Ornontowice wchodzi wieś Ornontowice z gminy Gierałtowice,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "g",
-         "path": "art_4/par_5/pkt_1/lit_g",
-         "text": "Wyry z siedzibą władz w Wyrach; w skład gminy Wyry wchodzi część obszaru miasta Tychy o powierzchni 3444,97 ha, stanowiącego obręby geodezyjne Gostyń oraz Wyry,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_4/par_5/pkt_1/lit_a",
-         "text": "gminie Bieruń,",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "art_4/par_5/pkt_1/lit_b",
-         "text": "gminie Lędziny.",
-         "children": []
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "6",
-     "path": "art_4/par_6",
-     "text": "W województwie kieleckim:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_4/par_6/pkt_1",
-       "text": "tworzy się gminy:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_4/par_6/pkt_1/lit_a",
-         "text": "Oksa z siedzibą władz w Oksie; w skład gminy Oksa wchodzą obszary wsi: Błogoszów, Lipno, Nowe Kanice, Oksa, Pawęzów, Popowice, Rembiechowa, Rzeszówek, Stare Kanice, Tyniec-Kolonia, Tyniec-Wieś, Węgleszyn- Dębina, Węgleszyn- Ogrody, Węgleszyn- -Wieś, Zakrzów i Zalesie z gminy Nagłowice-Oksa, Pałecznica z siedzibą władz w Pałecznicy; w skład b",
-         "children": [
-          {
-           "type": "text",
-           "text": "— gminy Pałecznica wchodzą obszary wsi: Bólów, Czuszów, Gruszów, Ibramowice, Lelowice-Kolonia, Łaszów, Nadzów, Niezwojowice, Pałecznica, Pamięcice, Pieczonogi, Solcza, Sudołek i Winiary z gminy Racławice-Pałecznica,"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_4/par_6/pkt_2",
-       "text": "zmienia się nazwę gminy Nagłowice-Oksa na Nagłowice,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_4/par_6/pkt_3",
-       "text": "zmienia się nazwę gminy Racławice-Pałecznica na Racławice.",
-       "children": []
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "7",
-     "path": "art_4/par_7",
-     "text": "W województwie krośnieńskim tworzy się gminę Besko z siedzibą władz w Besku; w skład gminy Besko wchodzą obszary wsi: Besko, Besko-Poręby i Mymoń z gminy Zarszyn.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "8",
-     "path": "art_4/par_8",
-     "text": "W województwie nowosądeckim tworzy się gminy:",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_4/par_8/pkt_1",
-       "text": "Lipnica Wielka z siedzibą władz w Lipnicy Wielkiej; w skład gminy Lipnica Wielka wchodzą obszary wsi Kiczory i Lipnica Wielka z gminy Jabłonka,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_4/par_8/pkt_2",
-       "text": "Ropa z siedzibą władz w Ropie; w skład gminy Ropa wchodzą obszary wsi Ropa z gminy Gorlice oraz wsi Łosie z gminy Uście Gorlickie,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Szaflary z siedzibą władz w Szaflarach; w skład gminy"
-        },
-        {
-         "type": "text",
-         "text": "3"
-        },
-        {
-         "type": "text",
-         "text": "— Szaflary wchodzą obszary wsi: Bańska Dolna, Bańska Górna, Bór, Maruszyna, Skrzypnę, Szaflary i Zaskale z gminy Biały Dunajec."
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "9",
-     "path": "art_4/par_9",
-     "text": "W województwie siedleckim tworzy się gminę Domanice z siedzibą władz w Domanicach; w skład gminy Domanice wchodzą obszary wsi: Kopcie i Przywory Małe z gminy Skórzec, Daćbogi, Domanice, Domanice Kolonia, Łupiny, Mroczki, Pieńki, Pluty, Podzdrój, Przywory Duże, Śmiary, Śmiary Kolonia i Zażelazna z gminy Wiśniew oraz Czachy, Emilianówka, Olszyc Folwark, Olszyc Szlachecki i Olszyc Włościański z gminy Wodynie.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "10",
-     "path": "art_4/par_10",
-     "text": "Rozporządzenie wchodzi w życie z dniem 2 kwietnia 1991 r.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "signature",
-   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
-  },
-  {
    "type": "text",
    "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
   },
   {
    "type": "text",
-   "text": "z dnia 27 grudnia 1990 r."
+   "text": "z dnia 22 grudnia 1990 r."
   },
   {
    "type": "text",
-   "text": "w sprawie podziału wspólnych organów dla miast i sąsiadujących z nimi gmin oraz ustalenia granic, nazw gmin i ich siedzib."
+   "text": "w sprawie utworzenia, zniesienia, zmiany granic, nazw i ustalenia siedzib niektórych gmin w województwach: bielskim, bydgoskim, elbląskim, gdańskim, katowickim, kieleckim, krośnieńskim, nowosądeckim i siedleckim oraz nadania statusu miasta."
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 4 ust. 2 ustawy z dnia 10 maja 1990 r. — Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. Nr32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541) i art. -4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie terytorialnym (Dz. U. Nr 16, poz. 95, Nr 32. poz. 191, Nr 34, poz. 199, Nr43, poz. 253 i Nr 89, poz. 518) zarządza się, co następuje:"
+   "text": "Na podstawie art. 4 ust. 1 i 3 ustawy z dnia 8 marca 1990 r. o samorządzie terytoria!nym (Dz. U. Nr 16, poz. 95, Nr 32, poz. 191, Nr 34, poz. 199, Nr 43, poz. 253 i Nr 89, poz."
+  },
+  {
+   "type": "pkt",
+   "num": "578",
+   "path": "pkt_578",
+   "text": "zarządza się, co następuje:",
+   "children": []
   },
   {
    "type": "par",
    "num": "1",
    "path": "par_1",
-   "text": "Dokonuje się podziału wspólnych organów działających w miastach i sąsiadujących z nimi gminach oraz ustala się nazwy gmin i siedziby ich władz zgodnie z wykazem stanowiącym załącznik do rozporządzenia.",
+   "text": "W województwie bielskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "tworzy się gminy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "Gilowice z siedzibą władz w Gilowicach; w skład gminy Gilowice wchodzą obszary wsi Gilowice i Rychwałd z gminy Gilowice- Ślemień,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "Jaworze z siedzibą władz w Jaworzu; w skład gminy Jaworze wchodzi wieś Jaworze z gminy Jasienica,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "Łękawica z siedzibą władz w Łękawicy; w skład gminy Łękawica wchodzą obszary wsi: Kocierz Moszczanicki, Kocierz Rychwałdzki, Łękawica, Łysina i O krajnik z gminy Gilowice-Ślemień,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "Ślemień z siedzibą władz w Ślemieniu; w skład gminy Ślemień wchodzą obszary wsi: Kocoń, Las i Ślemień z gminy Gilowice-Ślemień,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "znosi się gminę Gilowice-Ślemień,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "zmienia się granice miasta Żywca przez przyłączenie obszaru wsi Oczków o powierzchni 735,41 ha z likwidowanej gminy Gilowice-Ślemień.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Świekatowo z siedzibą władz w Świekatowie; w skład gminy Świekatowo wchodzą obszary wsi: Jania Góra, Lipienica, Lubania-Lipiny, Małe Łąkie, Stążki, Świekatowo, Tuszyny i Zalesie Królewskie z gminy Bukowiec."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W województwie elbląskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "tworzy się gminę Krynica Morska z siedzibą władz w Krynicy Morskiej; w skład gminy Krynica Morska wchodzą obszary wsi: Krynica Morska, Nowa Karczma i Przebrno z gminy Sztutowo, nadaje się status miasta gminie Krynica Morska.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 —"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W województwie gdańskim tworzy się gminy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "Bobowo z siedzibą władz w Bobowie; w skład gminy Bobowo wchodzą obszary wsi: Bobowo, Grabowiec, Grabowo Bobowskie, Jabłówko i Smoląg z gminy Starogard Gdański, Suchy Dąb z siedzibą władz w Suchym Dębie; w skład",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 — gminy Suchy Dąb wchodzą obszary wsi: Grabiny Zameczek, Koźliny, Krzywe Koto, Osice, Ostrowite, Steblewo, Suchy Dąb i Wróblewo z gminy Pszczółki."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W województwie katowickim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "tworzy się gminy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_1/lit_a",
+       "text": "Bieruń z siedzibą władz w Bieruniu; w skład gminy Bieruń wchodzi część obszaru miasta Tychy o powierzchni 4019,05 ha, stanowiącego obręby geodezyjne: Bieruń Nowy, Bieruń Stary, Bijasowice, Czarnuchowice, Jajosty i Ściernie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_1/lit_b",
+       "text": "Bojszowy z siedzibą władz w Bojszowach; w skład gminy Bojszowy wchodzi część obszaru miasta Tychyo powierzchni 3407,33 ha, stanowiącego obręby geodezyjne: Bo żem Bojszowy Nowe, Jedlina, Międzyrzecze i Świerczyniec, Kobiór z siedzibą władz w Kobiórze; w skład gminy",
+       "children": [
+        {
+         "type": "text",
+         "text": "— c Kobiór wchodzi część obszaru miasta Tychy o powierzchni 4949,70 ha, stanowiącego obręb geodezyjny Kobiór, Krupski Młyn z siedzibą władz w Krupskim Młynie;"
+        },
+        {
+         "type": "text",
+         "text": "— d w skład gminy Krupski Młyn wchodzą obszary wsi Krupski Młyn i Potępa z gminy Tworóg,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_5/pkt_1/lit_e",
+       "text": "Lędziny z siedzibą władz w Lędzinach; w skład gminy Lędziny wchodzi część obszaru miasta Tychy o powierzchni 3104,48 ha, stanowiącego obręby geodezyjne: Goławiec, Górki, Hołdunów, Lędziny i Smardzowice,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_5/pkt_1/lit_f",
+       "text": "Ornontowice z siedzibą władz w Ornontowicach; w skład gminy Ornontowice wchodzi wieś Ornontowice z gminy Gierałtowice,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_5/pkt_1/lit_g",
+       "text": "Wyry z siedzibą władz w Wyrach; w skład gminy Wyry wchodzi część obszaru miasta Tychy o powierzchni 3444,97 ha, stanowiącego obręby geodezyjne Gostyń oraz Wyry,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_1/lit_a",
+       "text": "gminie Bieruń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_1/lit_b",
+       "text": "gminie Lędziny.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W województwie kieleckim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "tworzy się gminy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_1/lit_a",
+       "text": "Oksa z siedzibą władz w Oksie; w skład gminy Oksa wchodzą obszary wsi: Błogoszów, Lipno, Nowe Kanice, Oksa, Pawęzów, Popowice, Rembiechowa, Rzeszówek, Stare Kanice, Tyniec-Kolonia, Tyniec-Wieś, Węgleszyn- Dębina, Węgleszyn- Ogrody, Węgleszyn- -Wieś, Zakrzów i Zalesie z gminy Nagłowice-Oksa, Pałecznica z siedzibą władz w Pałecznicy; w skład b",
+       "children": [
+        {
+         "type": "text",
+         "text": "— gminy Pałecznica wchodzą obszary wsi: Bólów, Czuszów, Gruszów, Ibramowice, Lelowice-Kolonia, Łaszów, Nadzów, Niezwojowice, Pałecznica, Pamięcice, Pieczonogi, Solcza, Sudołek i Winiary z gminy Racławice-Pałecznica,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "zmienia się nazwę gminy Nagłowice-Oksa na Nagłowice,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "zmienia się nazwę gminy Racławice-Pałecznica na Racławice.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W województwie krośnieńskim tworzy się gminę Besko z siedzibą władz w Besku; w skład gminy Besko wchodzą obszary wsi: Besko, Besko-Poręby i Mymoń z gminy Zarszyn.",
    "children": []
   },
   {
    "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "W województwie katowickim zmienia się nazwę gminy Bukowno na Bolesław oraz ustala się siedzibę władz w Bolesławiu.",
+   "num": "8",
+   "path": "par_8",
+   "text": "W województwie nowosądeckim tworzy się gminy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "Lipnica Wielka z siedzibą władz w Lipnicy Wielkiej; w skład gminy Lipnica Wielka wchodzą obszary wsi Kiczory i Lipnica Wielka z gminy Jabłonka,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "Ropa z siedzibą władz w Ropie; w skład gminy Ropa wchodzą obszary wsi Ropa z gminy Gorlice oraz wsi Łosie z gminy Uście Gorlickie,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Szaflary z siedzibą władz w Szaflarach; w skład gminy"
+      },
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "— Szaflary wchodzą obszary wsi: Bańska Dolna, Bańska Górna, Bór, Maruszyna, Skrzypnę, Szaflary i Zaskale z gminy Biały Dunajec."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "W województwie siedleckim tworzy się gminę Domanice z siedzibą władz w Domanicach; w skład gminy Domanice wchodzą obszary wsi: Kopcie i Przywory Małe z gminy Skórzec, Daćbogi, Domanice, Domanice Kolonia, Łupiny, Mroczki, Pieńki, Pluty, Podzdrój, Przywory Duże, Śmiary, Śmiary Kolonia i Zażelazna z gminy Wiśniew oraz Czachy, Emilianówka, Olszyc Folwark, Olszyc Szlachecki i Olszyc Włościański z gminy Wodynie.",
    "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem 2 kwietnia 1991 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: 7. Mazowiecki"
   }
  ],
  "annexes": [],
