@@ -94,6 +94,8 @@ fragment stopki zeszytu („Egzemplarze bieżące…”) w tekście 122 aktów; 
 jednostki „Artykuł N” nie są rozpoznawane (297 aktów, w tym 250 z 692 obowiązujących).
 W 21 aktach brakuje początku (numeru, tytułu, pierwszych przepisów): ich PDF w API ELI zaczyna się później,
 a początek jest tylko w PDF poprzedniej pozycji (lista w README na GitHubie, „Znane usterki”; może nie być pełna).
+W 25 aktach numery pozycji list 50–59 i 80–89 ze stron z OCR są zamienione na „§ 0”–„§ 9” (np. DU/1995/495;
+lista w README na GitHubie, „Znane usterki”).
 Szczegóły: [README na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md#jak-dobre-jest).
 
 **To nie jest urzędowy tekst.** Wiążący jest PDF w Dzienniku Ustaw (`source_pdf`). Błędy konwersji zgłaszaj

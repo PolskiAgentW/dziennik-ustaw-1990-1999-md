@@ -147,6 +147,13 @@ i łamy są czytane we właściwej kolejności. Próba jest mała: odsetka błę
   w których brakuje jednego albo dwóch znaków diakrytycznych albo „ł” odczytano jako „t”/„l” („ogtoszenia” →
   „ogłoszenia”), oddziela jednoliterowe przyimki („Wrozporządzeniu”) i poprawia „§” na początku akapitu i po
   przyimku („w § 1”); słowa, dla których poprawka nie jest jednoznaczna, zostają z błędem.
+- Na stronach z OCR numer pozycji listy od 50 do 59 albo od 80 do 89 bywa zamieniony na „§ 0.”–„§ 9.”: konwerter
+  bierze sklejoną cyfrę „8” albo „5” za „§” (DU/1995/495: zamiast „80. Malezja,” jest nagłówek „§ 0.” i akapit
+  „Malezja,”; w JSON węzeł `par` o numerze 0). Tekst pozycji zostaje, ginie pierwsza cyfra numeru. Znalezione
+  2026-10-06: co najmniej 241 takich wierszy w 25 aktach (1990/342, 1991/4, 1991/288, 1991/412, 1994/151, 1994/152,
+  1994/153, 1994/242, 1995/89, 1995/495, 1996/100, 1996/207, 1996/288, 1996/322, 1996/592, 1996/694, 1996/792,
+  1997/158, 1997/535, 1997/536, 1998/7, 1998/915, 1998/955, 1998/1158, 1999/1270), w tym 1 obowiązujący
+  (1996/207). Poprawka czeka na następną wersję konwertera. Lista może nie być pełna.
 - Akt może zawierać fragment sąsiedniego aktu z tych samych stron, gdy OCR nie odczyta numeru pozycji, a podpis
   ani nagłówek z datą nie wyznaczą granicy (np. dwa akty tego samego organu z tego samego dnia o prawie tym samym
   temacie, DU/1993/299). Miara zgrubna: akty z co najmniej dwoma nagłówkami rodzaju aktu wersalikami (część to akty
