@@ -359,15 +359,15 @@
     {
      "type": "text",
      "text": "(b) osób nie będących jej obywatelami, które popełniły jakikolwiek czyn, o którym mowa w artykule 2, na jej terytorium, statkach morskich, statkach powietrznych bądź na pokładzie jakiegokolwiek obiektu pływającego lub latającego, podlegającego jej jurysdykcji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Nic w niniejszym porozumieniu nie stoi na przeszkodzie, aby którakolwiek z Umawiających się Stron:"
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Nic w niniejszym porozumieniu nie stoi na przeszkodzie, aby którakolwiek z Umawiających się Stron:",
+   "children": [
     {
      "type": "text",
      "text": "(a) traktowała także — jako karalne przestępstwa — czyny inne niż te, o których mowa w artykule 2, oraz stosowała odpowiednie postanowienia również wobec osób innych niż te, o których mowa w artykule 3;"
@@ -375,23 +375,24 @@
     {
      "type": "text",
      "text": "(b) stosowała także postanowienia niniejszego porozumienia wobec stacji radiodyfuzyjnych, zainstalowanych lub utrzymywanych na obiektach przytwierdzonych albo podtrzymywanych przez dno morskie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony mogą nie stosować postanowień niniejszego porozumienia w odniesieniu do usług wykonawców, które były świadczone gdzie indziej niż na stacjach, o których mowa w artykule 1."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia artykułu 2 nie będą miały zastosowania w odniesieniu do wszelkich czynów popełnionych w celu niesienia pomocy znajdującemu się w niebezpieczeństwie statkowi morskiemu, statkowi powietrznemu albo jakiemukolwiek innemu obiektowi pływającemu lub latającemu, jak również w celu ratowania życia ludzkiego."
-    },
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony mogą nie stosować postanowień niniejszego porozumienia w odniesieniu do usług wykonawców, które były świadczone gdzie indziej niż na stacjach, o których mowa w artykule 1.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Postanowienia artykułu 2 nie będą miały zastosowania w odniesieniu do wszelkich czynów popełnionych w celu niesienia pomocy znajdującemu się w niebezpieczeństwie statkowi morskiemu, statkowi powietrznemu albo jakiemukolwiek innemu obiektowi pływającemu lub latającemu, jak również w celu ratowania życia ludzkiego.",
+   "children": [
     {
      "type": "text",
      "text": "Each Contracting Party shall, in accordance with its domestic law, apply the provisions of this Agreement in regard to:"
@@ -483,334 +484,356 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Składanie zastrzeżeń do postanowień niniejszego porozumienia jest niedopuszczalne.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Niniejsze porozumienie jest otwarte do podpisu przez państwa członkowskie Rady Europy, które mogą stać się jej stronami przez:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) podpisanie bez zastrzeżenia ratyfikacji lub przyjęcia bądź"
+      },
+      {
+       "type": "text",
+       "text": "(b) podpisanie z zastrzeżeniem ratyfikacji lub przyjęcia, po którym następuje ratyfikacja lub przyjęcie."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Dokumenty ratyfikacyjne lub przyjęcia składa się Sekretarzowi Generalnemu Rady Europy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Niniejsze porozumienie wejdzie w życie po upływie jednego miesiąca od dnia, w którym trzy państwa członkowskie Rady Europy, zgodnie z postanowieniami artykułu 8, podpiszą porozumienie bez zastrzeżenia ratyfikacji lub przyjęcia albo złożą dokumenty ratyfikacyjne lub przyjęcia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Składanie zastrzeżeń do postanowień niniejszego porozumienia jest niedopuszczalne."
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "W stosunku do państwa członkowskiego, które podpisze w terminie późniejszym bez dokonania zastrzeżenia ratyfikacji lub przyjęcia albo dokona ratyfikacji lub przyjęcia, porozumienie wejdzie w życie po upływie jednego miesiąca od dnia podpisania lub złożenia dokumentu ratyfikacji lub przyjęcia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Po wejściu w życie niniejszego porozumienia każdy Członek lub Członek Stowarzyszony Międzynarodowego Związku Telekomunikacyjnego, nie będący Członkiem Rady Europy, będzie mógł do niego przystąpić pod warunkiem wyrażenia uprzedniej zgody przez Komitet Ministrów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Takie przystąpienie będzie dokonane w drodze złożenia dokumentu przystąpienia Sekretarzowi Generalnemu Rady Europy i stanie się skuteczne po upływie jednego miesiąca od dnia jego złożenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie jest otwarte do podpisu przez państwa członkowskie Rady Europy, które mogą stać się jej stronami przez:",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) podpisanie bez zastrzeżenia ratyfikacji lub przyjęcia bądź"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Każda Umawiająca się Strona może, przy podpisaniu albo w momencie składania dokumentu ratyfikacyjnego, przyjęcia lub przystąpienia, oznaczyć terytorium lub terytoria, do których niniejsze porozumienie ma zastosowa-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nie."
+      },
+      {
+       "type": "text",
+       "text": "== 1368 —"
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "No reservation may be made to the provisions of this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) podpisanie z zastrzeżeniem ratyfikacji lub przyjęcia, po którym następuje ratyfikacja lub przyjęcie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokumenty ratyfikacyjne lub przyjęcia składa się Sekretarzowi Generalnemu Rady Europy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie wejdzie w życie po upływie jednego miesiąca od dnia, w którym trzy państwa członkowskie Rady Europy, zgodnie z postanowieniami artykułu 8, podpiszą porozumienie bez zastrzeżenia ratyfikacji lub przyjęcia albo złożą dokumenty ratyfikacyjne lub przyjęcia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W stosunku do państwa członkowskiego, które podpisze w terminie późniejszym bez dokonania zastrzeżenia ratyfikacji lub przyjęcia albo dokona ratyfikacji lub przyjęcia, porozumienie wejdzie w życie po upływie jednego miesiąca od dnia podpisania lub złożenia dokumentu ratyfikacji lub przyjęcia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Po wejściu w życie niniejszego porozumienia każdy Członek lub Członek Stowarzyszony Międzynarodowego Związku Telekomunikacyjnego, nie będący Członkiem Rady Europy, będzie mógł do niego przystąpić pod warunkiem wyrażenia uprzedniej zgody przez Komitet Ministrów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Takie przystąpienie będzie dokonane w drodze złożenia dokumentu przystąpienia Sekretarzowi Generalnemu Rady Europy i stanie się skuteczne po upływie jednego miesiąca od dnia jego złożenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda Umawiająca się Strona może, przy podpisaniu albo w momencie składania dokumentu ratyfikacyjnego, przyjęcia lub przystąpienia, oznaczyć terytorium lub terytoria, do których niniejsze porozumienie ma zastosowa-",
-   "children": [
-    {
-     "type": "text",
-     "text": "nie."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "This Agreement shall be open to signature by the member States of the Council of Europe, which may become Parties to it either by:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) signature without reservation in respect of ratification or acceptance, or"
+      },
+      {
+       "type": "text",
+       "text": "(b) signature with reservation in respect of ratification or acceptance followed by ratification or acceptance."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "== 1368 —"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Instruments of ratification or acceptance shall be deposited with the Secretary-General of the Council of Europe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 9"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "This Agreement shall enter into force one month after the date on which three member States of the Council shall, in accordance with the provisions of Article 8, have signed the Agreement without reservation in respect of ratification or acceptance, or shall have deposited their instrument of ratification or acceptance.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "No reservation may be made to the provisions of this Agreement."
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "As regards any member State which shall subsequently sign the Agreement without reservation in respect of ratification or acceptance or which shall ratify or accept it, the Agreement shall enter into force one month after the date of such signature or the date of deposit of the instrument of ratification or acceptance.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 10"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall be open to signature by the member States of the Council of Europe, which may become Parties to it either by:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) signature without reservation in respect of ratification or acceptance, or"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "After this Agreement has entered into force, any Member or Associate Member of the International Telecommunication Union which is not a Member of the Council of Europe may accede to it subject to the prior agreement of the Committee of Ministers.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) signature with reservation in respect of ratification or acceptance followed by ratification or acceptance."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Instruments of ratification or acceptance shall be deposited with the Secretary-General of the Council of Europe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall enter into force one month after the date on which three member States of the Council shall, in accordance with the provisions of Article 8, have signed the Agreement without reservation in respect of ratification or acceptance, or shall have deposited their instrument of ratification or acceptance.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "As regards any member State which shall subsequently sign the Agreement without reservation in respect of ratification or acceptance or which shall ratify or accept it, the Agreement shall enter into force one month after the date of such signature or the date of deposit of the instrument of ratification or acceptance.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "After this Agreement has entered into force, any Member or Associate Member of the International Telecommunication Union which is not a Member of the Council of Europe may accede to it subject to the prior agreement of the Committee of Ministers.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Such accession shall be effected by depositing with the Secretary- -General of the Council of Europe an instrument of accession which shall take effect one month after the date of its deposit.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any Contracting Party may, at the time of signature or when depositing its instrument of ratification, acceptance or accession, specify the territory or territories to which this Agreement shall apply.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Such accession shall be effected by depositing with the Secretary- -General of the Council of Europe an instrument of accession which shall take effect one month after the date of its deposit.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 11"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Aucune réserve n'est admise aux dispositions du present Accord."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Any Contracting Party may, at the time of signature or when depositing its instrument of ratification, acceptance or accession, specify the territory or territories to which this Agreement shall apply.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "Aucune réserve n'est admise aux dispositions du present Accord."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le present Accord est ouverta la signature des Etats membres du Conseil de l'Europe qui peuvent y devenir Parties par:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) la signature sans réserve de ratification ou d’acceptation, ou"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Le present Accord est ouverta la signature des Etats membres du Conseil de l'Europe qui peuvent y devenir Parties par:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) la signature sans réserve de ratification ou d’acceptation, ou"
+      },
+      {
+       "type": "text",
+       "text": "(b) la signature sous réserve de ratification ou d'acceptation suivie de ratification ou d'acceptation."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) la signature sous réserve de ratification ou d'acceptation suivie de ratification ou d'acceptation."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Les instruments de ratification ou d' acceptation seront déposés pres le Secrétaire Général du Conseil de I Eu-",
-   "children": [
-    {
-     "type": "text",
-     "text": "rope."
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Les instruments de ratification ou d' acceptation seront déposés pres le Secrétaire Général du Conseil de I Eu-",
+     "children": [
+      {
+       "type": "text",
+       "text": "rope."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le prósent Accord entrera en vigueur un mois apres la date a laquelle trois Etats membres du Conseil, conformement aux dispositions de I'article 8, auront signé I'Accord sans réserve de ratification ou d'acceptation, ou auront déposé leur instrument de ratification ou d'acceptation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pour tout Etat membre qui le signera ulterieurement sans réserve de ratification ou d’acceptation ou le ratifiera ou I'acceptera, I' Accord entrera en vigueur un mois apres la date de la signature ou du dépét de I'instrument de ratification ou d'acceptation.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Apres ['entree en vigueur du present Accord, tout Membre ou Membre associé de I'Union internationale des Télecommunications qui n'est pas Membre du Conseil de I' Europe pourra, avec I'accord préalable du Comité des Ministres, adhérer a cet Accord.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "L'adhćsion s'effectuera par le depót, pres le Secrétaire Général du Conseil de I' Europe, d'un instrument d'adhesion qui prendra effet un mois apres la date de son depót.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Toute Partie Contractante peut, au moment de la signature ou au moment du dóćpót de son instrument de ratification, d’acceptation ou _ d’adhésion, désigner le ou les territoires auxquels s'appliquera le present Accord.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda Umawiająca się Strona może, w momencie składania dokumentu ratyfikacyjnego, przyjęcia lub przystąpienia bądź w jakimkolwiek późniejszym terminie, poprzez oświadczenie skierowane do Sekretarza Generalnego Rady Europy, rozciągnąć stosowanie niniejszego porozumienia na jakiekolwiek inne terytorium lub terytoria wymienione w tym oświadczeniu, za których stosunki międzynarodowe ponosi ona odpowiedzialność bądź w których imieniu ma prawo podejmować zobowiązania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każde oświadczenie złożone zgodnie z poprzednim ustępem może być cofnięte wobec jakiegokolwiek terytorium wymienionego w takim oświadczeniu, w sposób przewidziany w artykule 12 niniejszego porozumie-",
-   "children": [
-    {
-     "type": "text",
-     "text": "nią."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Le prósent Accord entrera en vigueur un mois apres la date a laquelle trois Etats membres du Conseil, conformement aux dispositions de I'article 8, auront signé I'Accord sans réserve de ratification ou d'acceptation, ou auront déposé leur instrument de ratification ou d'acceptation.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Pour tout Etat membre qui le signera ulterieurement sans réserve de ratification ou d’acceptation ou le ratifiera ou I'acceptera, I' Accord entrera en vigueur un mois apres la date de la signature ou du dépét de I'instrument de ratification ou d'acceptation.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 10"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Apres ['entree en vigueur du present Accord, tout Membre ou Membre associé de I'Union internationale des Télecommunications qui n'est pas Membre du Conseil de I' Europe pourra, avec I'accord préalable du Comité des Ministres, adhérer a cet Accord.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "L'adhćsion s'effectuera par le depót, pres le Secrétaire Général du Conseil de I' Europe, d'un instrument d'adhesion qui prendra effet un mois apres la date de son depót.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Toute Partie Contractante peut, au moment de la signature ou au moment du dóćpót de son instrument de ratification, d’acceptation ou _ d’adhésion, désigner le ou les territoires auxquels s'appliquera le present Accord.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Każda Umawiająca się Strona może, w momencie składania dokumentu ratyfikacyjnego, przyjęcia lub przystąpienia bądź w jakimkolwiek późniejszym terminie, poprzez oświadczenie skierowane do Sekretarza Generalnego Rady Europy, rozciągnąć stosowanie niniejszego porozumienia na jakiekolwiek inne terytorium lub terytoria wymienione w tym oświadczeniu, za których stosunki międzynarodowe ponosi ona odpowiedzialność bądź w których imieniu ma prawo podejmować zobowiązania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Każde oświadczenie złożone zgodnie z poprzednim ustępem może być cofnięte wobec jakiegokolwiek terytorium wymienionego w takim oświadczeniu, w sposób przewidziany w artykule 12 niniejszego porozumie-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nią."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie będzie obowiązywać przez czas nieokreślony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda Umawiająca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejsze porozumienie w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Takie wypowiedzenie stanie się skuteczne po upływie sześciu miesięcy od dnia otrzymania takiej notyfikacji przez Sekretarza Generalnego.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Niniejsze porozumienie będzie obowiązywać przez czas nieokreślony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sekretarz Generalny Rady Europy powiadomi w drodze notyfikacji państwa członkowskie oraz rząd każdego państwa, które przystąpiło do niniejszego porozumienia, o:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Każda Umawiająca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejsze porozumienie w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Takie wypowiedzenie stanie się skuteczne po upływie sześciu miesięcy od dnia otrzymania takiej notyfikacji przez Sekretarza Generalnego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Sekretarz Generalny Rady Europy powiadomi w drodze notyfikacji państwa członkowskie oraz rząd każdego państwa, które przystąpiło do niniejszego porozumienia, o:",
+   "children": [
     {
      "type": "text",
      "text": "(a) każdym podpisaniu bez zastrzeżenia ratyfikacji lub przyjęcia;"
@@ -834,226 +857,227 @@
     {
      "type": "text",
      "text": "(f) każdej notyfikacji otrzymanej zgodnie z postanowieniami artykułu 12 oraz o dniu, w którym wypowiedzenie staje się skuteczne."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Any Contracting Party may, when depositing its instrument of ratification, acceptance or accession or at any later date, by declaration addressed to the Secretary-General of the Council of Europe, extend this Agreement to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 12 of this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Article 12"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "This Agreement shall remain in force indefinitely.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Any Contracting Party may, in so far as it is concerned, denounce this Agreement by means of a notification addressed to the Secretary-General of the Council of Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Such denunciation shall take effect six months after the date of receipt by the Secretary-General of such notification.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      },
+      {
+       "type": "text",
+       "text": "The Sercretary-General of the Council of Europe shall notify the member States of the Council and the Government of any State which has acceded to this Agreement, of:"
+      },
+      {
+       "type": "text",
+       "text": "(a) any signature without reservation in respect of ratification or acceptance;"
+      },
+      {
+       "type": "text",
+       "text": "(b) any signature with reservation in respect of ratification or acceptance;"
+      },
+      {
+       "type": "text",
+       "text": "(c) any deposit of an instrument of ratification, acceptance or accession;"
+      },
+      {
+       "type": "text",
+       "text": "(d) any date of entry into force of this Agreement in accordance with Articles 9 and 10 thereof;"
+      },
+      {
+       "type": "text",
+       "text": "(e) any declaration received in pursuance of paragraphs 2 and 3 of"
+      },
+      {
+       "type": "text",
+       "text": "Article 11;"
+      },
+      {
+       "type": "text",
+       "text": "(f) any notification received in pursuance of the provisions of Article 12 and the date on which denunciation takes effect."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Toute Partie Contractante peut, au moment du depót de son instrument de ratification, d' acceptation ou d'adhésion, ou a tout autre moment par la suite, étendre I'application du present Accord, par dóclaration adressée au Secrétaire Général du Conseil de I Europe, a tout autre territoire désigné dans la declaration et dont Elle assure les relations internationales ou pour lequel Elle est habilitée a stipuler.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Toute declaration faite en vertu du paragraphe précédent pourra €tre retiree, en ce qui concerne tout territoire désigné dans cette déclaration, aux conditions prévues par l'article 12 du présent Accord.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 12"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Le présent Accord demeurera en vigueur sans limitation de durée.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Toute Partie Contractante pourra, en ce qui la concerne, dénoncer le présent Accord en adressant une notification au Secrétaire Général du Conseil de |'Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "La dénonciation prendra effet six mois apres la date de la reception de la notification par le Secrétaire Général.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      },
+      {
+       "type": "text",
+       "text": "Le Secrétaire Général du Conseil de I' Europe notifiera aux Etats membres du Conseil et au gouvernement de tout Etat ayant adhéré au prósent Accord:"
+      },
+      {
+       "type": "text",
+       "text": "(a) toute signature sans reserve de ratification ou d'acceptation;"
+      },
+      {
+       "type": "text",
+       "text": "(b) toute signature sous reserve de ratification ou d'acceptation;"
+      },
+      {
+       "type": "text",
+       "text": "(c) le dépét de tout instrument de ratification, d’acceptation ou d'adhćsion;"
+      },
+      {
+       "type": "text",
+       "text": "(d) toute date d’entrée en vigueur du present Accord conformement a ses articles 9 et 10;"
+      },
+      {
+       "type": "text",
+       "text": "(e) toute dóclaration recue en application des dispositions des paragraphes 2 et 3 de l'article 11;"
+      },
+      {
+       "type": "text",
+       "text": "(f) toute notification recue en application des dispositions de I'article 12 et la date a laquelle la dénonciation prendra effet."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "En foi de quoi, les soussignés, In witness whereof the undersi- Na dowód czego niżej podpisani, ddment autorisés a cet effet, ont signé le gned, being duly authorised thereto, będąc w tym celu należycie upoważnieni, podpisali niniejsze porozumienie."
+      },
+      {
+       "type": "text",
+       "text": "présent Accord. have signed this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Done at Strasbourg, this 22nd day Sporządzono w Strasburgu dnia 22 stycznia 1965 r. w językach angiels-"
+      },
+      {
+       "type": "text",
+       "text": "Fait a Strasbourg, le 22 janvier of January 1965 in English and French,"
+      },
+      {
+       "type": "text",
+       "text": "1965 en francais et en anglais, les deux both texts being equally authoritative, kim i francuskim, przy czym obydwa teksty mają jednakową moc, w jednym textes faisant également foi, en un seul exemplaire qui sera déposé dans les in a single copy which shall remain egzemplarzu, który zostanie złożony deposited in the archives of the Council archives du Conseil de I'Europe. Le of Europe. The Secretary-General of the w archiwach Rady Europy. Sekretarz"
+      },
+      {
+       "type": "text",
+       "text": "Secrétaire Général du Conseil de I’Eu- Council of Europe shall transmit cer- Generalny Rady Europy przekaże uwierzytelnione odpisy każdemu z państwrope en comminiquera copie certifiée tified copies to each of the signatory conforme a chacun des Etats signataiand acceding States."
+      },
+      {
+       "type": "text",
+       "text": "-sygnatariuszy i państw przystępujących."
+      },
+      {
+       "type": "text",
+       "text": "res et adhérents."
+      },
+      {
+       "type": "text",
+       "text": "Po zapoznaniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+      },
+      {
+       "type": "text",
+       "text": "— zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych;"
+      },
+      {
+       "type": "text",
+       "text": "— jest przyjęte, ratyfikowane i potwierdzone;"
+      },
+      {
+       "type": "text",
+       "text": "— będzie niezmiennie zachowywane."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any Contracting Party may, when depositing its instrument of ratification, acceptance or accession or at any later date, by declaration addressed to the Secretary-General of the Council of Europe, extend this Agreement to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.",
-   "children": []
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 12 of this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Article 12"
-    }
-   ]
+   "type": "text",
+   "text": "Dano w Warszawie dnia 7 września 1994 r."
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall remain in force indefinitely.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any Contracting Party may, in so far as it is concerned, denounce this Agreement by means of a notification addressed to the Secretary-General of the Council of Europe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Such denunciation shall take effect six months after the date of receipt by the Secretary-General of such notification.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 13"
-    },
-    {
-     "type": "text",
-     "text": "The Sercretary-General of the Council of Europe shall notify the member States of the Council and the Government of any State which has acceded to this Agreement, of:"
-    },
-    {
-     "type": "text",
-     "text": "(a) any signature without reservation in respect of ratification or acceptance;"
-    },
-    {
-     "type": "text",
-     "text": "(b) any signature with reservation in respect of ratification or acceptance;"
-    },
-    {
-     "type": "text",
-     "text": "(c) any deposit of an instrument of ratification, acceptance or accession;"
-    },
-    {
-     "type": "text",
-     "text": "(d) any date of entry into force of this Agreement in accordance with Articles 9 and 10 thereof;"
-    },
-    {
-     "type": "text",
-     "text": "(e) any declaration received in pursuance of paragraphs 2 and 3 of"
-    },
-    {
-     "type": "text",
-     "text": "Article 11;"
-    },
-    {
-     "type": "text",
-     "text": "(f) any notification received in pursuance of the provisions of Article 12 and the date on which denunciation takes effect."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Toute Partie Contractante peut, au moment du depót de son instrument de ratification, d' acceptation ou d'adhésion, ou a tout autre moment par la suite, étendre I'application du present Accord, par dóclaration adressée au Secrétaire Général du Conseil de I Europe, a tout autre territoire désigné dans la declaration et dont Elle assure les relations internationales ou pour lequel Elle est habilitée a stipuler.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Toute declaration faite en vertu du paragraphe précédent pourra €tre retiree, en ce qui concerne tout territoire désigné dans cette déclaration, aux conditions prévues par l'article 12 du présent Accord.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le présent Accord demeurera en vigueur sans limitation de durée.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Toute Partie Contractante pourra, en ce qui la concerne, dénoncer le présent Accord en adressant une notification au Secrétaire Général du Conseil de |'Europe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "La dénonciation prendra effet six mois apres la date de la reception de la notification par le Secrétaire Général.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 13"
-    },
-    {
-     "type": "text",
-     "text": "Le Secrétaire Général du Conseil de I' Europe notifiera aux Etats membres du Conseil et au gouvernement de tout Etat ayant adhéré au prósent Accord:"
-    },
-    {
-     "type": "text",
-     "text": "(a) toute signature sans reserve de ratification ou d'acceptation;"
-    },
-    {
-     "type": "text",
-     "text": "(b) toute signature sous reserve de ratification ou d'acceptation;"
-    },
-    {
-     "type": "text",
-     "text": "(c) le dépét de tout instrument de ratification, d’acceptation ou d'adhćsion;"
-    },
-    {
-     "type": "text",
-     "text": "(d) toute date d’entrée en vigueur du present Accord conformement a ses articles 9 et 10;"
-    },
-    {
-     "type": "text",
-     "text": "(e) toute dóclaration recue en application des dispositions des paragraphes 2 et 3 de l'article 11;"
-    },
-    {
-     "type": "text",
-     "text": "(f) toute notification recue en application des dispositions de I'article 12 et la date a laquelle la dénonciation prendra effet."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "En foi de quoi, les soussignés, In witness whereof the undersi- Na dowód czego niżej podpisani, ddment autorisés a cet effet, ont signé le gned, being duly authorised thereto, będąc w tym celu należycie upoważnieni, podpisali niniejsze porozumienie."
-    },
-    {
-     "type": "text",
-     "text": "présent Accord. have signed this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Done at Strasbourg, this 22nd day Sporządzono w Strasburgu dnia 22 stycznia 1965 r. w językach angiels-"
-    },
-    {
-     "type": "text",
-     "text": "Fait a Strasbourg, le 22 janvier of January 1965 in English and French,"
-    },
-    {
-     "type": "text",
-     "text": "1965 en francais et en anglais, les deux both texts being equally authoritative, kim i francuskim, przy czym obydwa teksty mają jednakową moc, w jednym textes faisant également foi, en un seul exemplaire qui sera déposé dans les in a single copy which shall remain egzemplarzu, który zostanie złożony deposited in the archives of the Council archives du Conseil de I'Europe. Le of Europe. The Secretary-General of the w archiwach Rady Europy. Sekretarz"
-    },
-    {
-     "type": "text",
-     "text": "Secrétaire Général du Conseil de I’Eu- Council of Europe shall transmit cer- Generalny Rady Europy przekaże uwierzytelnione odpisy każdemu z państwrope en comminiquera copie certifiée tified copies to each of the signatory conforme a chacun des Etats signataiand acceding States."
-    },
-    {
-     "type": "text",
-     "text": "-sygnatariuszy i państw przystępujących."
-    },
-    {
-     "type": "text",
-     "text": "res et adhérents."
-    },
-    {
-     "type": "text",
-     "text": "Po zapoznaniu się z powyższym porozumieniem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— zostało ono uznane za słuszne zarówno w całości, jak i każde z postanowień w nim zawartych;"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęte, ratyfikowane i potwierdzone;"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywane."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 7 września 1994 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L. S."
-    }
-   ]
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L. S."
   },
   {
    "type": "signature",

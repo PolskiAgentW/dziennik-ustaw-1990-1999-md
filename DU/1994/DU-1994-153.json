@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/153",
  "title": "Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 18 marca 1994 r. w sprawie obowiązku stosowania norm branżowych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/153/text.pdf",
  "body": [
   {
@@ -1938,9 +1938,9 @@
      ]
     },
     {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
+     "type": "ust",
+     "num": "50",
+     "path": "ust_50",
      "text": "'BN- -77/91 23- 04 chmiel owak”",
      "children": [
       {
@@ -1950,9 +1950,9 @@
      ]
     },
     {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
+     "type": "ust",
+     "num": "51",
+     "path": "ust_51",
      "text": "BN-88/9131-18 Ziarno pszenicy. Oznaczanie liczby sedymentacji.",
      "children": [
       {
@@ -1966,23 +1966,23 @@
      ]
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
      "text": "BN-82/9100-01 Nazwy i określenia w sadownictwie.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "53",
+     "path": "ust_53",
      "text": "BN-84/9100-05 Uprawy warzywne i ozdobne pod osłonami. Nazwy i określenia.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "54",
+     "path": "ust_54",
      "text": "BN-86/9100-06 Przechowywanie warzyw. Nazwy i określenia.",
      "children": [
       {
@@ -1992,230 +1992,229 @@
      ]
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "55",
+     "path": "ust_55",
      "text": "BN-85/9116-01 Materiał siewny. Nasiona roślin warzywnych.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
      "text": "BN-90/9117-01 Materiał siewny. Nasiona roślin kwiaciarskich.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "57",
+     "path": "ust_57",
      "text": "BN-75/9118-01 Materiał siewny. Nasiona drzew owocowych.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "58",
+     "path": "ust_58",
      "text": "BN-87/9119-02 denial Nasiona roślin zielarskich.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "59",
+     "path": "ust_59",
      "text": "BN-78/9124-03 SEE (rozsada) szklarniowych roślin ozdobnych. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "BN-74/9125-05 Sadzonki chrzanu ogrodowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "61",
+     "path": "ust_61",
+     "text": "BN-74/9125-06 Karpy szparagowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "62",
+     "path": "ust_62",
+     "text": "BN-74/9125-07 Sadzonki rabarbaru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "63",
+     "path": "ust_63",
+     "text": "BN-64/9126-03 Materiał szkółkarski. Krzewy leszczyny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "64",
+     "path": "ust_64",
+     "text": "BN-85/9126-04 Materiał szkółkarski. Krzewy porzeczek, agrestu i winorośli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "65",
+     "path": "ust_65",
+     "text": "BN-64/9126-05 Materiał szkółkarski. Drzewka orzecha włoskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "66",
+     "path": "ust_66",
+     "text": "BN-74/9126-09 Materiał szkółkarski. Sadzonki malin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "67",
+     "path": "ust_67",
+     "text": "BN-78/9126-13 Materiał szkółkarski. Borówka wysoka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "68",
+     "path": "ust_68",
+     "text": "BN-82/9126-14 Materiał szkółkarski. Sadzonki jeżyny bezkolcowej i maliny czarnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "69",
+     "path": "ust_69",
+     "text": "BN-88/9126-15 Materiał szkółkarski. Aronia czarnoowocowa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "70",
+     "path": "ust_70",
+     "text": "BN-82/9129-01 Materiał szkółkarski. Sadzonki truskawek i poziomek...",
      "children": [
       {
-       "type": "ust",
-       "num": "60",
-       "path": "par_9/ust_60",
-       "text": "BN-74/9125-05 Sadzonki chrzanu ogrodowego.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "61",
-       "path": "par_9/ust_61",
-       "text": "BN-74/9125-06 Karpy szparagowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "62",
-       "path": "par_9/ust_62",
-       "text": "BN-74/9125-07 Sadzonki rabarbaru.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "63",
-       "path": "par_9/ust_63",
-       "text": "BN-64/9126-03 Materiał szkółkarski. Krzewy leszczyny.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "64",
-       "path": "par_9/ust_64",
-       "text": "BN-85/9126-04 Materiał szkółkarski. Krzewy porzeczek, agrestu i winorośli.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "65",
-       "path": "par_9/ust_65",
-       "text": "BN-64/9126-05 Materiał szkółkarski. Drzewka orzecha włoskiego.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "66",
-       "path": "par_9/ust_66",
-       "text": "BN-74/9126-09 Materiał szkółkarski. Sadzonki malin.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "67",
-       "path": "par_9/ust_67",
-       "text": "BN-78/9126-13 Materiał szkółkarski. Borówka wysoka.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "68",
-       "path": "par_9/ust_68",
-       "text": "BN-82/9126-14 Materiał szkółkarski. Sadzonki jeżyny bezkolcowej i maliny czarnej.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "69",
-       "path": "par_9/ust_69",
-       "text": "BN-88/9126-15 Materiał szkółkarski. Aronia czarnoowocowa.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "70",
-       "path": "par_9/ust_70",
-       "text": "BN-82/9129-01 Materiał szkółkarski. Sadzonki truskawek i poziomek...",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1532. Owoce"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "71",
-       "path": "par_9/ust_71",
-       "text": "BN- -66/81 94-01 Owoce świeże. Winogrona.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "72",
-       "path": "par_9/ust_72",
-       "text": "BN-69/8194-06 Cytryny. Ocena przy przyjęciu do <=\" chłodni.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "73",
-       "path": "par_9/ust_73",
-       "text": "BN-89/8196-05 Orzechy włoskie łuskane.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "74",
-       "path": "par_9/ust_74",
-       "text": "BN-72/9136-03 Owoce świeże. Agróst. .",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "75",
-       "path": "par_9/ust_75",
-       "text": "BN-73/9136-04 Owoce świeże. Brzoskwinie.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "76",
-       "path": "par_9/ust_76",
-       "text": "BN-72/9136-05 Owoce świeże. Maliny ogrodowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "77",
-       "path": "par_9/ust_77",
-       "text": "BN-73/9136-06 Owoce świeże. Morele.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "78",
-       "path": "par_9/ust_78",
-       "text": "BN- -73/91.36-07 Owoce. Orzechy włoskie. HY",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "79",
-       "path": "par_9/ust_79",
-       "text": "BN-72/9136-08 Owoce. Orzechy laskowe. 118. BN-88/9127-03 Grzybnia grzybów uprawnych. Grzyb-",
-       "children": []
+       "type": "text",
+       "text": "Grupa 1532. Owoce"
       }
      ]
     },
     {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
+     "type": "ust",
+     "num": "71",
+     "path": "ust_71",
+     "text": "BN- -66/81 94-01 Owoce świeże. Winogrona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "72",
+     "path": "ust_72",
+     "text": "BN-69/8194-06 Cytryny. Ocena przy przyjęciu do <=\" chłodni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "73",
+     "path": "ust_73",
+     "text": "BN-89/8196-05 Orzechy włoskie łuskane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "74",
+     "path": "ust_74",
+     "text": "BN-72/9136-03 Owoce świeże. Agróst. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "75",
+     "path": "ust_75",
+     "text": "BN-73/9136-04 Owoce świeże. Brzoskwinie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "76",
+     "path": "ust_76",
+     "text": "BN-72/9136-05 Owoce świeże. Maliny ogrodowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "77",
+     "path": "ust_77",
+     "text": "BN-73/9136-06 Owoce świeże. Morele.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "78",
+     "path": "ust_78",
+     "text": "BN- -73/91.36-07 Owoce. Orzechy włoskie. HY",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "79",
+     "path": "ust_79",
+     "text": "BN-72/9136-08 Owoce. Orzechy laskowe. 118. BN-88/9127-03 Grzybnia grzybów uprawnych. Grzyb-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "80",
+     "path": "ust_80",
      "text": "BN-73/9136-09 Owoce świeże. Pigwa. nią boczniaka.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
+     "type": "ust",
+     "num": "81",
+     "path": "ust_81",
      "text": "BN-72/9136-10 Owoce świeże. Porzeczki.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "82",
+     "path": "ust_82",
      "text": "BN-72/9136-11 Owoce świeże. Poziomki ogrodowe.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "83",
+     "path": "ust_83",
      "text": "BN-83/9136-12 Owoce świeże. Truskawki odszypułkowane.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "84",
+     "path": "ust_84",
      "text": "BN-86/9136-13 Owoce świeże. Borówka wysoka.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "85",
+     "path": "ust_85",
      "text": "BN-88/9136-14 Owoce świeże. Aronia czarnoowocowa.",
      "children": [
       {
@@ -2225,499 +2224,498 @@
      ]
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "86",
+     "path": "ust_86",
      "text": "BN-73/9137-02 Warzywa świeże. Brukiew jadalna.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "87",
+     "path": "ust_87",
      "text": "BN-85/9137-03 Warzywa świeże. Bób zielony.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "88",
+     "path": "ust_88",
      "text": "BN-73/9137-05 Warzywa świeże. Kukurydza cukrowa.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "89",
+     "path": "ust_89",
      "text": "BN-73/9137-06 Wyrzywa. Pestki dyni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "90",
+     "path": "ust_90",
+     "text": "BN-73/9137-07 Warzywa świeże. Kabaczki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "91",
+     "path": "ust_91",
+     "text": "BN-73/9137-08 Warzywa świeże. Skorzonera.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "92",
+     "path": "ust_92",
+     "text": "BN-72/9137-10 Warzywa świeże. Czosnek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "93",
+     "path": "ust_93",
+     "text": "BN-73/9137-11 Warzywa świeże. Cykoria liściowa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "94",
+     "path": "ust_94",
+     "text": "BN-73/9137-12 Warzywa świeże. Dynia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "95",
+     "path": "ust_95",
+     "text": "BN-72/9137-13 Warzywa świeże. Kalarepa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "96",
+     "path": "ust_96",
+     "text": "BN-84/9137-14 Warzywa świeże. Kapusta brukselska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "97",
+     "path": "ust_97",
+     "text": "BN-73/9137-16 Warzywa świeże. Koper.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "98",
+     "path": "ust_98",
+     "text": "BN-73/9137-17 Warzywa świeże. Natka warzyw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "99",
+     "path": "ust_99",
+     "text": "BN-72/9137-18 Warzywa świeże. Pietruszka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "100",
+     "path": "ust_100",
+     "text": "BN-73/9137-19 Warzywa świeże. Pory.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "101",
+     "path": "ust_101",
+     "text": "BN-73/9137-20 Warzywa świeże. Rabarbar.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "102",
+     "path": "ust_102",
+     "text": "BN-72/9137-22 Warzywa świeże. Rzodkiewka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "103",
+     "path": "ust_103",
+     "text": "BN-86/9137-23 Warzywa świeże. Sałata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "104",
+     "path": "ust_104",
+     "text": "BN-72/9137-24 Warzywa świeże. Selery korzeniowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "105",
+     "path": "ust_105",
+     "text": "BN-73/9137-25 Warzywa świeże. Szczaw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "106",
+     "path": "ust_106",
+     "text": "BN-80/9137-28 Warzywa świeże. Szpinak.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "107",
+     "path": "ust_107",
+     "text": "BN-73/9137-29 Warzywa świeże. Rzodkiew.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "108",
+     "path": "ust_108",
+     "text": "BN-73/9137-31 Warzywa świeże. Brokuły.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "109",
+     "path": "ust_109",
+     "text": "BN-72/9137-32 Warzywa świeże. Warzywa w pęczkach. BN-75/9137-33 Warzywa świeże. Jarmuż. 110. BN-79/9137-34 Warzywa świeże. Cukinia. ELLE BN-83/9137-35 Warzywa świeże. Kalafiory podzielo- 112. ne na różyczki. BN-85/9137-36 Warzywa świeże. Papryka. 113. BN-89/9137-38 Warzywa świeże. Oberżyna. 114. BN-89/9137-39 Warzywa świeże. Kawon (Arbuz). 115.",
      "children": [
       {
-       "type": "ust",
-       "num": "90",
-       "path": "par_9/ust_90",
-       "text": "BN-73/9137-07 Warzywa świeże. Kabaczki.",
-       "children": []
+       "type": "text",
+       "text": "Grupa 1536. Rośliny zielarskie"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "116",
+     "path": "ust_116",
+     "text": "BN-88/81 71-03 Surowce zielarskie suszone. Makowi- “>< ny, strąki fasoli, szyszki chmielu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1537. Grzyby"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "117",
+     "path": "ust_117",
+     "text": "BN-83/9127-01 Grzybnia grzybów uprawnych. Grzy- , bnia pieczarki. i i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "119",
+     "path": "ust_119",
+     "text": "BN-87/9137-37 Grzyby świeże. Boczniak uprawny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "120",
+     "path": "ust_120",
+     "text": "BN-90/9230-04 Badanie pozostałości pestycydów w grzybach i przetworach grzybowych. Oznaczanie permetryny, cypermetryny i deltametryny metodą chro- BRERA PRAWEJ 6 KSK.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "121",
+     "path": "ust_121",
+     "text": "BN-66/9231-05 Grzyby świeże. Piestrzenice.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Klasa 154. Produkty paszowe Grupa 1541. Pasze naturalne"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "122",
+     "path": "ust_122",
+     "text": "BN-74/9164-08 Ziarno zbóż i roślin strączkowych pastewnych. Mieszanki strączkowe i zbożowo-strączkowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "123",
+     "path": "ust_123",
+     "text": "BN-75/9164-12 Pasze. Śruta z bobiku i łubinu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1542. Surowce paszowe"
       },
       {
-       "type": "ust",
-       "num": "91",
-       "path": "par_9/ust_91",
-       "text": "BN-73/9137-08 Warzywa świeże. Skorzonera.",
-       "children": []
+       "type": "text",
+       "text": "BN-70/8149-01 Kiełki słodowe suche. 124. BN-70/8149-02 Wysłodziny (młóto) mokre. 125. BN-66/9131-06 Ziarno zbóż. Mieszanka zbożowa. 126. 127."
       },
       {
-       "type": "ust",
-       "num": "92",
-       "path": "par_9/ust_92",
-       "text": "BN-72/9137-10 Warzywa świeże. Czosnek.",
-       "children": []
+       "type": "text",
+       "text": "BN-84/9164-01 Kreda pastewna. 128."
       },
       {
-       "type": "ust",
-       "num": "93",
-       "path": "par_9/ust_93",
-       "text": "BN-73/9137-11 Warzywa świeże. Cykoria liściowa.",
-       "children": []
+       "type": "text",
+       "text": "BN-87/9164-03 Pasze. Nasiona roślin motylkowych i oleistych na paszę."
       },
       {
-       "type": "ust",
-       "num": "94",
-       "path": "par_9/ust_94",
-       "text": "BN-73/9137-12 Warzywa świeże. Dynia.",
-       "children": []
+       "type": "text",
+       "text": "Grupa 1543. Mieszanki paszowe"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "129",
+     "path": "ust_129",
+     "text": "BN-88/9164-04 Pasze. Przemysłowe mieszanki. Pasze i koncentraty wysokobiałkowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1545. Dodatki do mieszanek paszowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "130",
+     "path": "ust_130",
+     "text": "BN-89/8186-01 Tłuszcze zwierzęce topione techniczne i paszowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "131",
+     "path": "ust_131",
+     "text": "BN-84/9164-23 Pasze. Fosforany paszowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1549. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanie. Transport"
       },
       {
-       "type": "ust",
-       "num": "95",
-       "path": "par_9/ust_95",
-       "text": "BN-72/9137-13 Warzywa świeże. Kalarepa.",
-       "children": []
+       "type": "text",
+       "text": "132"
       },
       {
-       "type": "ust",
-       "num": "96",
-       "path": "par_9/ust_96",
-       "text": "BN-84/9137-14 Warzywa świeże. Kapusta brukselska.",
-       "children": []
+       "type": "text",
+       "text": "BN-88/8189-01 Premiksy paszowe. 133."
       },
       {
-       "type": "ust",
-       "num": "97",
-       "path": "par_9/ust_97",
-       "text": "BN-73/9137-16 Warzywa świeże. Koper.",
-       "children": []
+       "type": "text",
+       "text": "BN-78/9160-09 Pasze. Oznaczanie clopidolu w premiksach i mieszankach paszowych. BN-79/9160-13 Pasze. Oznaczanie alfatoksyn w pa-"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "134",
+     "path": "ust_134",
+     "text": "szach i ich komponentach. BN-84/9160-23 Oznaczanie monenzyny w prepara- 135. tach, premiksach i mieszankach paszowych. BN-84/9160-25 Pasze. Oznaczanie halofuginonu 136. w preparatach, premiksach i mieszankach paszowych metodą chromatografii fazowej. BN-84/9160-26 Pasze. Oznaczanie. slinomycyny 137. w preparatach, premiksach i mieszankach paszowych. metodą mikrobiologiczną. BN-84/9160-27 Pasze. Oznaczanie tylozyny w prepa-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "138",
+     "path": "ust_138",
+     "text": "ratach, koncentratach, premiksach i mieszankach paszowych metodą mikrobiologiczną.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "ust",
-       "num": "98",
-       "path": "par_9/ust_98",
-       "text": "BN-73/9137-17 Warzywa świeże. Natka warzyw.",
-       "children": []
+       "type": "text",
+       "text": "Dziennik. Ustaw Nr 40 ="
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "139",
+     "path": "ust_139",
+     "text": "BN-85/9160-28 Pasze. Oznaczanie awoparcyny w premiksach, koncentratach i mieszankach paszowych metodą mikrobiologiczną. BN-86/9160-34 Pasze. Oznaczanie lasalocidu w pre- 140. miksach i mieszankach paszowych. BN-86/9160-36 Pasze. Oznaczanie cynk-bacytracyny 141. w premiksach i mieszankach paszowych. BN-86/9160-37 Pasze. Oznaczanie robennidyny 142. w preparatach, premiksach i mieszankach paszowych. BN-89/9160-39 Pasze. Oznaczanie Cygro w premik- 143. sach i mieszankach paszowych. BN-89/9160-40 Pasze. Oznaczanie narasinu w premi- 144. ksach i mieszankach paszowych metodą mikrobiologiczną. BN-89/9160-41 Pasze. Oznaczanie tlimetu w premik- 145. sach i mieszankach paszowych. BN-90/9160-43 Pasze. Oznaczanie BHT, BHA i Et- 146. haxyguinu w preparatach, premiksach i tłuszczach paszowych. BN-91/9160-44 Pasze. Oznaczanie selenu w prepara- 147. tach i premiksach paszowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Klasa 155. Pszczelarstwo Grupa 1552. Miód"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "148",
+     "path": "ust_148",
+     "text": "BN-90/9161-03 Świeże mleczko pszczele.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "149",
+     "path": "ust_149",
+     "text": "BN-89/9161-06 Obnóża pyłkowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "150",
+     "path": "ust_150",
+     "text": "BN-90/9161-07 Propolis — kit pszczeli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "151",
+     "path": "ust_151",
+     "text": "BN-90/9161-08 Koncentrat propolisu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1553. Wosk,węza, woszczyna, kit pszczeli"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "152",
+     "path": "ust_152",
+     "text": "BN-80/9161-01 Węza pszczela.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Klasa 157. Produkcja zwierzęca Grupa ARP Inwentarz rzażny"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "153",
+     "path": "ust_153",
+     "text": "‘BN- 69/91 04-02 Króliki rzeźne. Badania: ‘sanitarno-weterynaryjne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1578. Drób i produkty hodowli drobiu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "154",
+     "path": "ust_154",
+     "text": "BN-72/9145-01 Jaja wylęgowe indycze, kacze i gęsie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "155",
+     "path": "ust_155",
+     "text": "BN-74/9145-02 Jaja wylęgowe bażantów, przepiórek japońskich i kaczek krzyżówek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "156",
+     "path": "ust_156",
+     "text": "BN-85/9145-04 Drób i pisklęta jednodniowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "157",
+     "path": "ust_157",
+     "text": "BN-72/9155-03 Drób rzeźny żywy. Młode kaczki tuczone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Klasa 158. Zwierzyna łowna, zwierzęta futerkowe, ryby"
       },
       {
-       "type": "ust",
-       "num": "99",
-       "path": "par_9/ust_99",
-       "text": "BN-72/9137-18 Warzywa świeże. Pietruszka.",
-       "children": []
+       "type": "text",
+       "text": "Grupa 1580. Terminologia, klasyfikacja i normy ogólne"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "158",
+     "path": "ust_158",
+     "text": "BN-74/9197-01 Urządzenia elektryczne w rybactwie. Urządzenia elektryczne do połowu ryb i przegradzania drogi rybom w wodach śródlądowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1587. Hodowla ryb oraz sprzęt i urządzenia"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "159",
+     "path": "ust_159",
+     "text": "BN-88/9147-11 Ryby hodowlane. Materiał zarybieniowy łososia i troci. Grupa 1589. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanle, Transport",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "160",
+     "path": "ust_160",
+     "text": "BN-88/9147-03 Ryby hodowlane. Przewóz materału zarybieniowego troci, łososia i pstrągów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Grupa 1595. Melioracja terenów rolniczych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "161",
+     "path": "ust_161",
+     "text": "BN-91/9191-16/07 Drenowanie. Projektowanie. Zabezpieczenia rurociągów drenarskich. BN-90/9191-16/20 Drenowanie. Układanie sączków",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "162",
+     "path": "ust_162",
+     "text": "drenarskich. Wymagania i badania przy odbiorze. BN-75/9192-01 Urządzenia wodnomelioracyjne. 163. Poidła na pastwiskach i akófnikach, Wymagania i badania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "164",
+     "path": "ust_164",
+     "text": "BN-82/9193-01: :Zagospodarowanie ‘pomelioracyjne. Wymagania i badania przy odbiorze.",
+     "children": [
+      {
+       "type": "text",
+       "text": "154"
       },
       {
-       "type": "ust",
-       "num": "100",
-       "path": "par_9/ust_100",
-       "text": "BN-73/9137-19 Warzywa świeże. Pory.",
-       "children": []
+       "type": "text",
+       "text": "ROZĘGRZĄGZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z dnia 15 grudnia 1993 f | zmieniające rozporządzenie: w sprawie książeczek żeglarskich i opłat za ich wystawianie. Na podstawie art. 16 ustawy z dnia'23 ‘maja 1991 r. o pracy na morskich-statkach handlowych (Dz. U: Nr61, poz."
       },
       {
-       "type": "ust",
-       "num": "101",
-       "path": "par_9/ust_101",
-       "text": "BN-73/9137-20 Warzywa świeże. Rabarbar.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "102",
-       "path": "par_9/ust_102",
-       "text": "BN-72/9137-22 Warzywa świeże. Rzodkiewka.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "103",
-       "path": "par_9/ust_103",
-       "text": "BN-86/9137-23 Warzywa świeże. Sałata.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "104",
-       "path": "par_9/ust_104",
-       "text": "BN-72/9137-24 Warzywa świeże. Selery korzeniowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "105",
-       "path": "par_9/ust_105",
-       "text": "BN-73/9137-25 Warzywa świeże. Szczaw.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "106",
-       "path": "par_9/ust_106",
-       "text": "BN-80/9137-28 Warzywa świeże. Szpinak.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "107",
-       "path": "par_9/ust_107",
-       "text": "BN-73/9137-29 Warzywa świeże. Rzodkiew.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "108",
-       "path": "par_9/ust_108",
-       "text": "BN-73/9137-31 Warzywa świeże. Brokuły.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "109",
-       "path": "par_9/ust_109",
-       "text": "BN-72/9137-32 Warzywa świeże. Warzywa w pęczkach. BN-75/9137-33 Warzywa świeże. Jarmuż. 110. BN-79/9137-34 Warzywa świeże. Cukinia. ELLE BN-83/9137-35 Warzywa świeże. Kalafiory podzielo- 112. ne na różyczki. BN-85/9137-36 Warzywa świeże. Papryka. 113. BN-89/9137-38 Warzywa świeże. Oberżyna. 114. BN-89/9137-39 Warzywa świeże. Kawon (Arbuz). 115.",
+       "type": "pkt",
+       "num": "258",
+       "path": "ust_164/pkt_258",
+       "text": "zarządza się, co następuje: i -§11'W$T0 rozporządzenia Ministra Transportu i Gospodarki \"Morskiej: z dnia 25 sierpńia 1992 r. w 'sprawie książeczek żeglarskich: i opłat za ich 'wyśtawianie: (Dz. U.",
        "children": [
         {
          "type": "text",
-         "text": "Grupa 1536. Rośliny zielarskie"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "116",
-       "path": "par_9/ust_116",
-       "text": "BN-88/81 71-03 Surowce zielarskie suszone. Makowi- “>< ny, strąki fasoli, szyszki chmielu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1537. Grzyby"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "117",
-       "path": "par_9/ust_117",
-       "text": "BN-83/9127-01 Grzybnia grzybów uprawnych. Grzy- , bnia pieczarki. i i",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "119",
-       "path": "par_9/ust_119",
-       "text": "BN-87/9137-37 Grzyby świeże. Boczniak uprawny.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "120",
-       "path": "par_9/ust_120",
-       "text": "BN-90/9230-04 Badanie pozostałości pestycydów w grzybach i przetworach grzybowych. Oznaczanie permetryny, cypermetryny i deltametryny metodą chro- BRERA PRAWEJ 6 KSK.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "121",
-       "path": "par_9/ust_121",
-       "text": "BN-66/9231-05 Grzyby świeże. Piestrzenice.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Klasa 154. Produkty paszowe Grupa 1541. Pasze naturalne"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "122",
-       "path": "par_9/ust_122",
-       "text": "BN-74/9164-08 Ziarno zbóż i roślin strączkowych pastewnych. Mieszanki strączkowe i zbożowo-strączkowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "123",
-       "path": "par_9/ust_123",
-       "text": "BN-75/9164-12 Pasze. Śruta z bobiku i łubinu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1542. Surowce paszowe"
-        },
-        {
-         "type": "text",
-         "text": "BN-70/8149-01 Kiełki słodowe suche. 124. BN-70/8149-02 Wysłodziny (młóto) mokre. 125. BN-66/9131-06 Ziarno zbóż. Mieszanka zbożowa. 126. 127."
-        },
-        {
-         "type": "text",
-         "text": "BN-84/9164-01 Kreda pastewna. 128."
-        },
-        {
-         "type": "text",
-         "text": "BN-87/9164-03 Pasze. Nasiona roślin motylkowych i oleistych na paszę."
-        },
-        {
-         "type": "text",
-         "text": "Grupa 1543. Mieszanki paszowe"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "129",
-       "path": "par_9/ust_129",
-       "text": "BN-88/9164-04 Pasze. Przemysłowe mieszanki. Pasze i koncentraty wysokobiałkowe.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1545. Dodatki do mieszanek paszowych"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "130",
-       "path": "par_9/ust_130",
-       "text": "BN-89/8186-01 Tłuszcze zwierzęce topione techniczne i paszowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "131",
-       "path": "par_9/ust_131",
-       "text": "BN-84/9164-23 Pasze. Fosforany paszowe.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1549. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanie. Transport"
-        },
-        {
-         "type": "text",
-         "text": "132"
-        },
-        {
-         "type": "text",
-         "text": "BN-88/8189-01 Premiksy paszowe. 133."
-        },
-        {
-         "type": "text",
-         "text": "BN-78/9160-09 Pasze. Oznaczanie clopidolu w premiksach i mieszankach paszowych. BN-79/9160-13 Pasze. Oznaczanie alfatoksyn w pa-"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "134",
-       "path": "par_9/ust_134",
-       "text": "szach i ich komponentach. BN-84/9160-23 Oznaczanie monenzyny w prepara- 135. tach, premiksach i mieszankach paszowych. BN-84/9160-25 Pasze. Oznaczanie halofuginonu 136. w preparatach, premiksach i mieszankach paszowych metodą chromatografii fazowej. BN-84/9160-26 Pasze. Oznaczanie. slinomycyny 137. w preparatach, premiksach i mieszankach paszowych. metodą mikrobiologiczną. BN-84/9160-27 Pasze. Oznaczanie tylozyny w prepa-",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "138",
-       "path": "par_9/ust_138",
-       "text": "ratach, koncentratach, premiksach i mieszankach paszowych metodą mikrobiologiczną.",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik. Ustaw Nr 40 ="
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "139",
-       "path": "par_9/ust_139",
-       "text": "BN-85/9160-28 Pasze. Oznaczanie awoparcyny w premiksach, koncentratach i mieszankach paszowych metodą mikrobiologiczną. BN-86/9160-34 Pasze. Oznaczanie lasalocidu w pre- 140. miksach i mieszankach paszowych. BN-86/9160-36 Pasze. Oznaczanie cynk-bacytracyny 141. w premiksach i mieszankach paszowych. BN-86/9160-37 Pasze. Oznaczanie robennidyny 142. w preparatach, premiksach i mieszankach paszowych. BN-89/9160-39 Pasze. Oznaczanie Cygro w premik- 143. sach i mieszankach paszowych. BN-89/9160-40 Pasze. Oznaczanie narasinu w premi- 144. ksach i mieszankach paszowych metodą mikrobiologiczną. BN-89/9160-41 Pasze. Oznaczanie tlimetu w premik- 145. sach i mieszankach paszowych. BN-90/9160-43 Pasze. Oznaczanie BHT, BHA i Et- 146. haxyguinu w preparatach, premiksach i tłuszczach paszowych. BN-91/9160-44 Pasze. Oznaczanie selenu w prepara- 147. tach i premiksach paszowych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Klasa 155. Pszczelarstwo Grupa 1552. Miód"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "148",
-       "path": "par_9/ust_148",
-       "text": "BN-90/9161-03 Świeże mleczko pszczele.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "149",
-       "path": "par_9/ust_149",
-       "text": "BN-89/9161-06 Obnóża pyłkowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "150",
-       "path": "par_9/ust_150",
-       "text": "BN-90/9161-07 Propolis — kit pszczeli.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "151",
-       "path": "par_9/ust_151",
-       "text": "BN-90/9161-08 Koncentrat propolisu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1553. Wosk,węza, woszczyna, kit pszczeli"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "152",
-       "path": "par_9/ust_152",
-       "text": "BN-80/9161-01 Węza pszczela.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Klasa 157. Produkcja zwierzęca Grupa ARP Inwentarz rzażny"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "153",
-       "path": "par_9/ust_153",
-       "text": "‘BN- 69/91 04-02 Króliki rzeźne. Badania: ‘sanitarno-weterynaryjne.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1578. Drób i produkty hodowli drobiu"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "154",
-       "path": "par_9/ust_154",
-       "text": "BN-72/9145-01 Jaja wylęgowe indycze, kacze i gęsie.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "155",
-       "path": "par_9/ust_155",
-       "text": "BN-74/9145-02 Jaja wylęgowe bażantów, przepiórek japońskich i kaczek krzyżówek.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "156",
-       "path": "par_9/ust_156",
-       "text": "BN-85/9145-04 Drób i pisklęta jednodniowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "157",
-       "path": "par_9/ust_157",
-       "text": "BN-72/9155-03 Drób rzeźny żywy. Młode kaczki tuczone.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Klasa 158. Zwierzyna łowna, zwierzęta futerkowe, ryby"
-        },
-        {
-         "type": "text",
-         "text": "Grupa 1580. Terminologia, klasyfikacja i normy ogólne"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "158",
-       "path": "par_9/ust_158",
-       "text": "BN-74/9197-01 Urządzenia elektryczne w rybactwie. Urządzenia elektryczne do połowu ryb i przegradzania drogi rybom w wodach śródlądowych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1587. Hodowla ryb oraz sprzęt i urządzenia"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "159",
-       "path": "par_9/ust_159",
-       "text": "BN-88/9147-11 Ryby hodowlane. Materiał zarybieniowy łososia i troci. Grupa 1589. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanle, Transport",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "160",
-       "path": "par_9/ust_160",
-       "text": "BN-88/9147-03 Ryby hodowlane. Przewóz materału zarybieniowego troci, łososia i pstrągów.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Grupa 1595. Melioracja terenów rolniczych"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "161",
-       "path": "par_9/ust_161",
-       "text": "BN-91/9191-16/07 Drenowanie. Projektowanie. Zabezpieczenia rurociągów drenarskich. BN-90/9191-16/20 Drenowanie. Układanie sączków",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "162",
-       "path": "par_9/ust_162",
-       "text": "drenarskich. Wymagania i badania przy odbiorze. BN-75/9192-01 Urządzenia wodnomelioracyjne. 163. Poidła na pastwiskach i akófnikach, Wymagania i badania.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "164",
-       "path": "par_9/ust_164",
-       "text": "BN-82/9193-01: :Zagospodarowanie ‘pomelioracyjne. Wymagania i badania przy odbiorze.",
-       "children": [
-        {
-         "type": "text",
-         "text": "154"
-        },
-        {
-         "type": "text",
-         "text": "ROZĘGRZĄGZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z dnia 15 grudnia 1993 f | zmieniające rozporządzenie: w sprawie książeczek żeglarskich i opłat za ich wystawianie. Na podstawie art. 16 ustawy z dnia'23 ‘maja 1991 r. o pracy na morskich-statkach handlowych (Dz. U: Nr61, poz."
-        },
-        {
-         "type": "pkt",
-         "num": "258",
-         "path": "par_9/ust_164/pkt_258",
-         "text": "zarządza się, co następuje: i -§11'W$T0 rozporządzenia Ministra Transportu i Gospodarki \"Morskiej: z dnia 25 sierpńia 1992 r. w 'sprawie książeczek żeglarskich: i opłat za ich 'wyśtawianie: (Dz. U.",
-         "children": [
-          {
-           "type": "text",
-           "text": "Nr 67, poz. 340) wyrazy złe miesięcy” ' zastępuje się wyrazami „30 miesięcy”. § 2. Rozporządzenie wchodzi w życie po upływie 14 dni’ od. dnia ogłoszenia."
-          }
-         ]
+         "text": "Nr 67, poz. 340) wyrazy złe miesięcy” ' zastępuje się wyrazami „30 miesięcy”. § 2. Rozporządzenie wchodzi w życie po upływie 14 dni’ od. dnia ogłoszenia."
         }
        ]
       }

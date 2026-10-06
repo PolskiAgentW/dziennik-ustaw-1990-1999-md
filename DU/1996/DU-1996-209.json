@@ -33,91 +33,93 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Towary przewożone przez wspólną granicę państwową przez osoby wymienione w artykule 1 niniejszego porozumienia są wolne od pozwoleń na przywóz i wywóz oraz od cła, podatków i innych opłat przypadających z tytułu przywozu lub wywozu, jeśli ich ilość, rodzaj i wartość nie wskazują na charakter handlowy, a w szczególności:"
-  },
-  {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "odzież, bielizna, obuwie oraz drobne przedmioty osobistego użytku, potrzebne na czas podróży i pobytu,",
-   "children": []
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "2",
-   "path": "pkt_2",
-   "text": "artykuły spożywcze, napoje bezalkoholowe oraz leki w ilości potrzebnej na czas podróży i pobytu za granicą, w tym przetwory mięsne w ilości nie większej niż 1/2 kg na osobę, papierosy — nie więcej niż 20 sztuk lub 5 cygar, lub 25 g tytoniu na osobę w wieku od lat 18 — na każdy deklarowany dzień pobytu.",
+   "path": "art_2",
+   "text": "Towary przewożone przez wspólną granicę państwową przez osoby wymienione w artykule 1 niniejszego porozumienia są wolne od pozwoleń na przywóz i wywóz oraz od cła, podatków i innych opłat przypadających z tytułu przywozu lub wywozu, jeśli ich ilość, rodzaj i wartość nie wskazują na charakter handlowy, a w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "odzież, bielizna, obuwie oraz drobne przedmioty osobistego użytku, potrzebne na czas podróży i pobytu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "artykuły spożywcze, napoje bezalkoholowe oraz leki w ilości potrzebnej na czas podróży i pobytu za granicą, w tym przetwory mięsne w ilości nie większej niż 1/2 kg na osobę, papierosy — nie więcej niż 20 sztuk lub 5 cygar, lub 25 g tytoniu na osobę w wieku od lat 18 — na każdy deklarowany dzień pobytu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Postanowienia niniejszego artykułu nie stanowią przeszkody w stosowaniu zakazów i ograniczeń wynikających z ustawodawstwa wewnętrznego Rzeczypospolitej Polskiej i Republiki Czeskiej."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Osoby wymienione w artykule 1 niniejszego porozumienia mogą przewozić upominki, których ilość i rodzaj nie wskazują na charakter handlowy, a ich tączna wartość nie przekracza równowartości 10 dolarów amerykańskich, z wyłączeniem spirytusu, wyrobów alkoholowych, wina, piwa, tytoniu i wyrobów tytoniowych.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Zwolnienia od cła, udzielane na podstawie niniejszego porozumienia, nie mogą być łączone przez dwie lub więcej osób.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Niniejsze porozumienie będzie obowiązywać od dnia wejścia w życie Umowy między Rzecząpospolitą Polską a Republiką Czeską o małym ruchu granicznym, sporządzonej w Pradze dnia 17 stycznia 1995 r.",
    "children": [
     {
      "type": "text",
-     "text": "Postanowienia niniejszego artykułu nie stanowią przeszkody w stosowaniu zakazów i ograniczeń wynikających z ustawodawstwa wewnętrznego Rzeczypospolitej Polskiej i Republiki Czeskiej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Osoby wymienione w artykule 1 niniejszego porozumienia mogą przewozić upominki, których ilość i rodzaj nie wskazują na charakter handlowy, a ich tączna wartość nie przekracza równowartości 10 dolarów amerykańskich, z wyłączeniem spirytusu, wyrobów alkoholowych, wina, piwa, tytoniu i wyrobów tytoniowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienia od cła, udzielane na podstawie niniejszego porozumienia, nie mogą być łączone przez dwie lub więcej osób."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze porozumienie będzie obowiązywać od dnia wejścia w życie Umowy między Rzecząpospolitą Polską a Republiką Czeską o małym ruchu granicznym, sporządzonej w Pradze dnia 17 stycznia 1995 r."
-    },
-    {
-     "type": "text",
      "text": "Z tym dniem traci moc Porozumienie między Ministrem Handlu Zagranicznego Polskiej Rzeczypospolitej Ludowej a Ministrem Handlu Zagranicznego Czechosłowackiej Republiki Socjalistycznej w sprawie ulg celnych przy wywozie i przywozie towarów, dokonywanym przez osoby przekraczające granicę państwową między obu Państwami na podstawie jednorazowych przepustek małego ruchu granicznego, podpisane w Warszawie dnia 16 października 1964 r."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsze porozumienie zawarte jest na czas nieokreślony. Może być w każdym czasie wypowiedziane w drodze dyplomatycznej. Porozumienie traci moc po upływie 6 miesięcy od dnia otrzymania wypowiedzenia."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Pradze dnia 12 stycznia 1996 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i czeskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu W imieniu"
-    },
-    {
-     "type": "text",
-     "text": "Ministerstwa Finansów"
-    },
-    {
-     "type": "text",
-     "text": "Ministra Współpracy Republiki Czeskiej"
-    },
-    {
-     "type": "text",
-     "text": "Gospodarczej z Zagranicą Rzeczypospolitej Polskiej"
-    },
-    {
-     "type": "text",
-     "text": "M. Nogaj M. Karnik"
     }
-   ]
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Niniejsze porozumienie zawarte jest na czas nieokreślony. Może być w każdym czasie wypowiedziane w drodze dyplomatycznej. Porozumienie traci moc po upływie 6 miesięcy od dnia otrzymania wypowiedzenia.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Pradze dnia 12 stycznia 1996 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i czeskim, przy czym obydwa teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu W imieniu"
+  },
+  {
+   "type": "text",
+   "text": "Ministerstwa Finansów"
+  },
+  {
+   "type": "text",
+   "text": "Ministra Współpracy Republiki Czeskiej"
+  },
+  {
+   "type": "text",
+   "text": "Gospodarczej z Zagranicą Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "M. Nogaj M. Karnik"
   }
  ],
  "annexes": [],

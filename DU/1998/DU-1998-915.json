@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/915",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 3 sierpnia 1998 r. w sprawie ustalenia wykazów towarów i technologii objętych szczególną kontrolą obrotu z zagranicą.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/915/text.pdf",
  "body": [
   {
@@ -3958,22 +3958,22 @@
       },
       {
        "type": "text",
-       "text": "§ 0. Siarczek sodu (1313-82-2)",
+       "text": "50. Siarczek sodu (1313-82-2)",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "§ 1. Dichlorek disiarki (10025-67-9)",
+       "text": "51. Dichlorek disiarki (10025-67-9)",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "§ 2. Dichlorek siarki (10545-99-0)",
+       "text": "52. Dichlorek siarki (10545-99-0)",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "§ 3. Chlorowodorek trietanoloaminy (637-39-8) 54, Chlorowodorek N,N-diizopropylo-2- -chloroetyloaminy (4261-68-1).",
+       "text": "53. Chlorowodorek trietanoloaminy (637-39-8) 54, Chlorowodorek N,N-diizopropylo-2- -chloroetyloaminy (4261-68-1).",
        "quoted": true
       },
       {
@@ -22078,140 +22078,140 @@
          "text": "mu elementowi napęd, energię potrzebną do obróbki lub określające parametry obrabianego elementu."
         }
        ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
-     "text": "„Mierniki gradientu magnetycznego” (6) Przeznaczone do wykrywania zmian przestrzennych pola magnetycznego źródeł zewnętrznych w stosunku do przyrządu pomiarowego. Składają się z wielu „magnetometrów” i odpowiednich układów elektronicznych, na których wyjściu jest mierzony gradient pola magnetycznego. (Patrz również „Miernik gradientu magnetycznego własnego”).",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
-     "text": "„Miernik gradientu magnetycznego własnego” (6) Pojedynczy element do pomiaru gradientu pola magnetycznego oraz związane z nim urządzenia elektroniczne, stuzacy do pomiaru gradientu pola magnetycznego. (Patrz również „Miernik gradientu magnetycznego”).",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
-     "text": "„Mieszanie” (1) Mieszanie włókien materiałów termoplastycznych z włóknami materiałów wzmacniających w celu wytworzenia mieszanki włókien wzmacniających z „matrycą”, mającej w całości formę włóknistą.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
-     "text": "„Mikroorganizmy” (1 2) Bakterie, wirusy, mikoplazmy, riketsje, chlamydie lub grzyby, naturalne, wzmocnione lub zmodyfikowane, w postaci wyizolowanych żywych kultur lub materiału zawierającego żywe organizmy, który rozmyślnie zaszczepiono lub zakażono takimi kulturami.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
-     "text": "„Moc impulsu” (6) Energia na impuls wyrażona w dżulach, podzielona przez czas trwania impulsu w sekundach.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
-     "text": "„Moduł właściwy” (0 1) Moduł Younga w paskalach, równoważny N/m?, podzielony przez ciężar właściwy w N/m?, mierzony w temperaturze (296 + 2) (23 + 2) Ci przy wilgotności względnej (50 +5)%.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
-     "text": "„Monolityczny układ scalony” (3) Kombinacja czynnych lub biernych, albo obu, „elementów układu” o następujących cechach charakterystycznych:",
-     "children": [
-      {
-       "type": "text",
-       "text": "a. Jest uformowany techniką dyfuzyjną, technikami implantacyjnymi lub technikami osadzania w/albo na pojedynczym półprzewodzącym kawałku materiału, tzw. chipie;"
       },
       {
-       "type": "text",
-       "text": "b. Można go traktować jak element niepodzielny; oraz"
+       "type": "ust",
+       "num": "80",
+       "path": "par_8/ust_80",
+       "text": "„Mierniki gradientu magnetycznego” (6) Przeznaczone do wykrywania zmian przestrzennych pola magnetycznego źródeł zewnętrznych w stosunku do przyrządu pomiarowego. Składają się z wielu „magnetometrów” i odpowiednich układów elektronicznych, na których wyjściu jest mierzony gradient pola magnetycznego. (Patrz również „Miernik gradientu magnetycznego własnego”).",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "c. Realizuje funkcję(e) obwodu. UWAGA: „Element obwodu”: pojedyncza czynna lub bierna funkcjonalna część układu elektronicznego, taka jak jedna dioda, tranzystor, rezystor, kondensator itp."
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
-     "text": "„Monospektralne czujniki obrazowe” (6) Czujniki pozwalające na zbieranie danych obrazowych z pojedynczego pasma widma dyskretnego.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
-     "text": "„Możliwość programowania przez użytkownika” (45 6) Mozliwosé wprowadzania, modyfikacji lub wymiany „programów” przez użytkownika na innej drodze niż poprzez:",
-     "children": [
-      {
-       "type": "text",
-       "text": "a. Fizyczne zmiany przewodów lub połączeń; lub"
+       "type": "ust",
+       "num": "81",
+       "path": "par_8/ust_81",
+       "text": "„Miernik gradientu magnetycznego własnego” (6) Pojedynczy element do pomiaru gradientu pola magnetycznego oraz związane z nim urządzenia elektroniczne, stuzacy do pomiaru gradientu pola magnetycznego. (Patrz również „Miernik gradientu magnetycznego”).",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "b. Nastawianie regulatorów funkcji, w tym parametrów wejściowych."
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
-     "text": "„Możliwość regulacji częstotliwości ” (frequency \"",
-     "children": [
-      {
-       "type": "text",
-       "text": "hopping) (5) Forma „rozproszenia widma” polegająca na krokowo-dyskretnej zmianie częstotliwości nośnej pojedynczego kanału telekomunikacyjne-"
+       "type": "ust",
+       "num": "82",
+       "path": "par_8/ust_82",
+       "text": "„Mieszanie” (1) Mieszanie włókien materiałów termoplastycznych z włóknami materiałów wzmacniających w celu wytworzenia mieszanki włókien wzmacniających z „matrycą”, mającej w całości formę włóknistą.",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "go."
+       "type": "ust",
+       "num": "83",
+       "path": "par_8/ust_83",
+       "text": "„Mikroorganizmy” (1 2) Bakterie, wirusy, mikoplazmy, riketsje, chlamydie lub grzyby, naturalne, wzmocnione lub zmodyfikowane, w postaci wyizolowanych żywych kultur lub materiału zawierającego żywe organizmy, który rozmyślnie zaszczepiono lub zakażono takimi kulturami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "84",
+       "path": "par_8/ust_84",
+       "text": "„Moc impulsu” (6) Energia na impuls wyrażona w dżulach, podzielona przez czas trwania impulsu w sekundach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "85",
+       "path": "par_8/ust_85",
+       "text": "„Moduł właściwy” (0 1) Moduł Younga w paskalach, równoważny N/m?, podzielony przez ciężar właściwy w N/m?, mierzony w temperaturze (296 + 2) (23 + 2) Ci przy wilgotności względnej (50 +5)%.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "86",
+       "path": "par_8/ust_86",
+       "text": "„Monolityczny układ scalony” (3) Kombinacja czynnych lub biernych, albo obu, „elementów układu” o następujących cechach charakterystycznych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "a. Jest uformowany techniką dyfuzyjną, technikami implantacyjnymi lub technikami osadzania w/albo na pojedynczym półprzewodzącym kawałku materiału, tzw. chipie;"
+        },
+        {
+         "type": "text",
+         "text": "b. Można go traktować jak element niepodzielny; oraz"
+        },
+        {
+         "type": "text",
+         "text": "c. Realizuje funkcję(e) obwodu. UWAGA: „Element obwodu”: pojedyncza czynna lub bierna funkcjonalna część układu elektronicznego, taka jak jedna dioda, tranzystor, rezystor, kondensator itp."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "87",
+       "path": "par_8/ust_87",
+       "text": "„Monospektralne czujniki obrazowe” (6) Czujniki pozwalające na zbieranie danych obrazowych z pojedynczego pasma widma dyskretnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "88",
+       "path": "par_8/ust_88",
+       "text": "„Możliwość programowania przez użytkownika” (45 6) Mozliwosé wprowadzania, modyfikacji lub wymiany „programów” przez użytkownika na innej drodze niż poprzez:",
+       "children": [
+        {
+         "type": "text",
+         "text": "a. Fizyczne zmiany przewodów lub połączeń; lub"
+        },
+        {
+         "type": "text",
+         "text": "b. Nastawianie regulatorów funkcji, w tym parametrów wejściowych."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "89",
+       "path": "par_8/ust_89",
+       "text": "„Możliwość regulacji częstotliwości ” (frequency \"",
+       "children": [
+        {
+         "type": "text",
+         "text": "hopping) (5) Forma „rozproszenia widma” polegająca na krokowo-dyskretnej zmianie częstotliwości nośnej pojedynczego kanału telekomunikacyjne-"
+        },
+        {
+         "type": "text",
+         "text": "go."
+        }
+       ]
       },
       {
        "type": "ust",
        "num": "90",
-       "path": "par_9/ust_90",
+       "path": "par_8/ust_90",
        "text": "„Możliwość zmiany częstotliwości w radarach” (6) Dowolna technika zmiany, w sekwencji pseudolosowej, częstotliwości nośnej impulsowego nadajnika radarowego z jednych impulsów na inne lub z jednej grupy impulsów na drugą, o wartość równą lub większą od szerokości pasma impulsu.",
        "children": []
       },
       {
        "type": "ust",
        "num": "91",
-       "path": "par_9/ust_91",
+       "path": "par_8/ust_91",
        "text": ", Nadprzewodniki” (1 3 6 8 LU18 LU20) Materiały: metale, stopy lub związki, które mogą całkowicie stracić swoją oporność, które mogą uzyskać nieskończoną przewodność elektryczną i przewodzić prąd elektryczny o bardzo wysokich natężeniach bez wytwarzania ciepta Joule'a. UWAGA: „Nadprzewodzący” stan materiału jest indywidualnie scharakteryzowany „temperaturą krytyczną”, krytycznym polem magnetycznym, będącym funkcją temperatury, oraz krytyczną gęstością prądu, która jest funkcją zarówno pola magnetycznego, jak i temperatury.",
        "children": []
       },
       {
        "type": "ust",
        "num": "92",
-       "path": "par_9/ust_92",
+       "path": "par_8/ust_92",
        "text": "„Nadstopy” (2 9) Stopy na osnowie niklu, kobaltu lub żelaza o bardzo wysokiej wytrzymałości w porównaniu z innymi stopami serii AISI 300 w temperaturach powyżej 922 K (694°C) w skrajnych warunkach środowiskowych i eksploatacyjnych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "93",
-       "path": "par_9/ust_93",
+       "path": "par_8/ust_93",
        "text": "„Niepewność pomiarowa” (2) Parametr charakterystyczny określający na poziomie ufności 95%, w jakiej odległości od wartości prawidłowej leży zmienna pomiarowa. W jego skład wchodzą nie dające się skorygować odchylenia systematyczne, nie dający się skorygować luz oraz odchylenia losowe (Patrz: ISO 10360-2 lub VDI/VDE 2617).",
        "children": []
       },
       {
        "type": "ust",
        "num": "94",
-       "path": "par_9/ust_94",
+       "path": "par_8/ust_94",
        "text": "„Niezbędne” (UOdT 1-9) W odniesieniu do „technologii” lub „oprogramowania” dotyczy tylko tej części „technologii” lub „oprogramowania”, która jest szczególnie odpowiedzialna za osiągnięcie lub przekroczenie wartości parametrów, właściwości lub funkcji objętych kontrolą. Taka „niezbędna” „technologia” lub „oprogramowanie” może dotyczyć różnych produktów.",
        "children": [
         {
@@ -22227,42 +22227,42 @@
       {
        "type": "ust",
        "num": "95",
-       "path": "par_9/ust_95",
+       "path": "par_8/ust_95",
        "text": "„Ochrona informacji” (5) Wszystkie rodzaje sposobów i funkcji zapewniających dostęp, poufność lub nienaruszalność informacji lub komunikacji, z wyłączeniem sposobów i funkcji zabezpieczających przed wadliwym działaniem. Obejmuje „rozszyfrowywanie”, „kryptografię”, ochronę przed przypadkowym przekazywaniem sygnałów odnoszących się do tajnych informacji oraz zabezpieczanie komputerów. UWAGA: „Rozszyfrowywanie”: analiza systemów łączności szyfrowej albo ich wejść lub wyjść w celu uzyskania tajnych informacji lub danych, włączając w to tajne teksty.",
        "children": []
       },
       {
        "type": "ust",
        "num": "96",
-       "path": "par_9/ust_96",
+       "path": "par_8/ust_96",
        "text": "„Ochrona wielopoziomowa” (5) Klasa systemów zawierających informacje o różnej ważności, umożliwiających równoczesny dostęp użytkownikom o różnym poziomie upoważnienia i potrzebach informacyjnych, natomiast nie dopuszczających do informacji takich użytkowników, którzy nie mają odpowiedniego upoważnienia. UWAGA: „Ochrona wielopoziomowa” dotyczy zabezpieczenia komputera, a nie jego niezawodności, która jest związana z zapobieganiem awarii sprzętu lub ogólnie z eliminacją błędów ludzkich.",
        "children": []
       },
       {
        "type": "ust",
        "num": "97",
-       "path": "par_9/ust_97",
+       "path": "par_8/ust_97",
        "text": "„Odchylenie położenia kątowego” (2) Maksymalna różnica pomiędzy położeniem kątowym a rzeczywistym, bardzo dokładnie zmierzonym położeniem kątowym po obróceniu stołu montażowego od jego położenia początkowego. (Patrz: VDI/VDE 2617, Draft „Rotary tables on coordinate measuring machines” — Stoty obrotowe współtrzędnościowych maszyn pomiarowych).",
        "children": []
       },
       {
        "type": "ust",
        "num": "98",
-       "path": "par_9/ust_98",
+       "path": "par_8/ust_98",
        "text": "„Odporność na uszkodzenia” (4) Możliwość systemu komputerowego, po dowolnym wadliwym zadziałaniu jego sprzętu lub „oprogramowania”, do kontynuacji działalności bez interwencji człowieka, na danym poziomie usług, zapewniającym: kontynuowanie działalności, zachowanie danych bez ich naruszania oraz odzyskanie zdolności usługowych po określonym czasie.",
        "children": []
       },
       {
        "type": "ust",
        "num": "99",
-       "path": "par_9/ust_99",
+       "path": "par_8/ust_99",
        "text": "„Opóźnienie sygnału bramki podstawowej” (3) Wartość opóźnienia sygnału odpowiadająca bramce podstawowej, używanej w „rodzinie” „monolitycznych układów scalonych”. Można ją wyznaczyć, dla danej „rodziny”, jako opóźnienie sygnału na bramkę typową albo jako typowe opóźnienie na bramkę. UWAGA: Nie należy mylić „opóźnienia sygnału bramki podstawowej” z opóźnieniem wyjścia/wejścia złożonego „monolitycznego układu scalonego”.",
        "children": []
       },
       {
        "type": "ust",
        "num": "100",
-       "path": "par_9/ust_100",
+       "path": "par_8/ust_100",
        "text": "„Oprogramowanie” (Wszystko UOdO LU21) Zbiór jednego lub więcej „programów” lub „mikroprogramów”, wyrażony w dowolny zrozumiały sposób.",
        "children": [
         {
@@ -22304,14 +22304,14 @@
       {
        "type": "ust",
        "num": "107",
-       "path": "par_9/ust_107",
+       "path": "par_8/ust_107",
        "text": "„Piksel aktywny” (6 8) Najmniejszy (pojedynczy) element siatki złożonej z elementów półprzewodnikowych mający możliwość realizacji funkcji fotoelektrycznych w odpowiedzi na promieniowanie świetlne (elektromagnetyczne).",
        "children": []
       },
       {
        "type": "ust",
        "num": "108",
-       "path": "par_9/ust_108",
+       "path": "par_8/ust_108",
        "text": "„Pirotechnika wojskowa” (LU4 LU8) Mieszaniny stałych lub ciekłych paliw i utleniaczy, które po zapaleniu wywołują egzotermiczną reakcję chemiczną o kontrolowanej prędkości, której celem jest zapewnienie odpowiednich opóźnień w czasie oraz powstawania odpowiednich ilości ciepta, hałasu, dymu, światła wi-",
        "children": [
         {
@@ -22327,55 +22327,55 @@
       {
        "type": "ust",
        "num": "109",
-       "path": "par_9/ust_109",
+       "path": "par_8/ust_109",
        "text": "„Pociski rakietowe” (1-7, 9) Kompletne systemy rakietowe i bezzałogowe systemy pojazdów latających, zdolne do dostarczania ładunku użytecznego o masie co najmniej 500 kg na odległość co najmniej 300 km.",
        "children": []
       },
       {
        "type": "ust",
        "num": "110",
-       "path": "par_9/ust_110",
+       "path": "par_8/ust_110",
        "text": "„Podjednostka toksyny” (1) Strukturalny | funkcjonalny oddzielny składnik 119. „toksyny”.",
        "children": []
       },
       {
        "type": "ust",
        "num": "111",
-       "path": "par_9/ust_111",
+       "path": "par_8/ust_111",
        "text": "„Podtoże” (3) Płytka materiału głównego z naniesionymi połączeniami albo bez nich, na której, albo wewnątrz której, można umieszczać „składniki 120. dyskretne” lub układy scalone albo oba z nich. UWAGA: 1. „Składnik dyskretny”: „element obwodu” w oddzielnej obudowie z własnymi końcówkami wyjściowymi. 2.„Element obwodu”: pojedyncza 121. czynna lub bierna funkcjonalna część układu elektronicznego, taka jak jedna dioda, tranzystor, rezystor, kondensator itp.",
        "children": []
       },
       {
        "type": "ust",
        "num": "112",
-       "path": "par_9/ust_112",
+       "path": "par_8/ust_112",
        "text": "„Podstawowe badania naukowe” (UOdT) 122. Prace doświadczalne lub teoretyczne prowadzone głównie w celu uzyskania nowej wiedzy o podstawach danego zjawiska lub obserwowalnych jego efektach, nie nakierowane bezpośrednio na konkretne cele lub zadania praktyczne. 123.",
        "children": []
       },
       {
        "type": "ust",
        "num": "113",
-       "path": "par_9/ust_113",
+       "path": "par_8/ust_113",
        "text": "„Podstawowe sterowanie lotem” (7) Sterowanie stabilnością i manewrowością „samolotu” wykorzystujące generatory typu sita/moment, tj. aerodynamiczne sterowanie powierzchnią lub wektorem siły ciągu. 124.",
        "children": []
       },
       {
        "type": "ust",
        "num": "114",
-       "path": "par_9/ust_114",
+       "path": "par_8/ust_114",
        "text": "„Połączone czujniki radarowe” (6) Co najmniej dwa czujniki radarowe są ze sobą połączone, jeżeli wymieniają między sobą informacje w czasie rzeczywistym.",
        "children": []
       },
       {
        "type": "ust",
        "num": "115",
-       "path": "par_9/ust_115",
+       "path": "par_8/ust_115",
        "text": "„Poziom szumu” (6) Sygnał elektryczny rozumiany w sensie gęstości mocy widmowej. „Poziom szumów” wyra- 125. żony w wartościach całkowitych (peak—to—pe-",
        "children": [
         {
          "type": "lit",
          "num": "ak",
-         "path": "par_9/ust_115/lit_ak",
+         "path": "par_8/ust_115/lit_ak",
          "text": "jest określony zależnością S? p = 8N, (f2—,), 126. gdzie 350 jest wartością całkowitą (maksymalną) sygnału (np. w nanoteslach), N, jest gęstością mocy widmowej (np. {nanotesle}/Hz), a (f, — f,) określa daną szerokość pasma.",
          "children": []
         }
@@ -22384,14 +22384,14 @@
       {
        "type": "ust",
        "num": "116",
-       "path": "par_9/ust_116",
+       "path": "par_8/ust_116",
        "text": "„Półprodukt podłoży” (6) Materiał monolityczny o wymiarach umożliwiających wytworzenie z niego elementów optycznych, takich jak zwierciadła albo okienka optyczne. 127.",
        "children": []
       },
       {
        "type": "ust",
        "num": "117",
-       "path": "par_9/ust_117",
+       "path": "par_8/ust_117",
        "text": "„Prasy izostatyczne” (2) Urządzenia umożliwiające ciśnieniowanie zamkniętych komór za pomocą różnych czynników roboczych (gazu, cieczy, cząstek stałych itp.) w celu wytwarzania w komorze we wszystkich kierunkach równych ciśnień działających na obrabiany element lub materiał.",
        "children": [
         {
@@ -22457,77 +22457,77 @@
       {
        "type": "ust",
        "num": "128",
-       "path": "par_9/ust_128",
+       "path": "par_8/ust_128",
        "text": "„Przetwornik ciśnienia” (2) Urządzenie przetwarzające pomiar ciśnienia na sygnał elektryczny.",
        "children": []
       },
       {
        "type": "ust",
        "num": "129",
-       "path": "par_9/ust_129",
+       "path": "par_8/ust_129",
        "text": "„Przędza” (1) Wiązka skręconych „skrętek”. N.B.: „Skrętka” oznacza wiązkę „włókien elementarnych” (zazwyczaj ponad 200) uporządkowanych w przybliżeniu równolegle.",
        "children": []
       },
       {
        "type": "ust",
        "num": "130",
-       "path": "par_9/ust_130",
+       "path": "par_8/ust_130",
        "text": "„Przystosowany do użycia w działaniach wojennych” (1 LU7) Dowolna modyfikacja lub dobór (np. zmieniona czystość, dopuszczalny okres magazynowania, agresywność, charakterystyki propagacji lub odporność na promieniowanie nadfioletowe) przeznaczone do wzmocnienia efektów wywoływanych przez siebie skutków wywieranych na ludności lub zwierzętach, unieszkodliwiających sprzęt lub powodujących straty w uprawach rolnych lub środowisku.",
        "children": []
       },
       {
        "type": "ust",
        "num": "131",
-       "path": "par_9/ust_131",
+       "path": "par_8/ust_131",
        "text": "„Radar o rozproszonym widmie” (6) (Patrz „Rozproszone widmo radarowe”).",
        "children": []
       },
       {
        "type": "ust",
        "num": "132",
-       "path": "par_9/ust_132",
+       "path": "par_8/ust_132",
        "text": "„Reaktor jądrowy” (0 LU17) Obiekt znajdujący się wewnątrz lub bezpośrednio przymocowany do zbiornika reaktora, którego wyposażenie steruje poziomem mocy w rdzeniu, a znajdujące się w nim zazwyczaj składniki wchodzą w bezpośrednią styczność z chłodziwem pierwotnym rdzenia reaktora albo regulują jego przepływ.",
        "children": []
       },
       {
        "type": "ust",
        "num": "133",
-       "path": "par_9/ust_133",
+       "path": "par_8/ust_133",
        "text": "„Robot” (2 8 LU17) Manipulator wykonujący ruchy w sposób ciągły albo poruszający się od punktu do punktu; może korzystać z „czujników” i ma wszystkie, następujące cechy charakterystyczne: a. Jest wielofunkcyjny; b. Ma możliwość ustawiania w odpowiednim położeniu lub orientowania przestrzennego materiałów, części, narzędzi lub urządzeń specjalnych poprzez wykonywanie różnych ruchów w przestrzeni trójwymiarowej; c. Jest wyposażony w trzy lub większą liczbę mechanizmów wspomagających, pracujących w obwodzie zamkniętym lub otwartym, które mogą być poruszane silnikami krokowymi; oraz d. Jest wyposażony w oprogramowanie dostępne dla użytkownika, które może ulegać modyfikacji poprzez uczenie (odgrywanie) lub za pomocą komputera elektronicznego, który może być programowanym sterownikiem logicznym, tj. nie wymagającym inge-",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "par_9/ust_2",
+       "path": "par_8/ust_2",
        "text": "Manipulatorów o ustalonej sekwencji ruchów, będących urządzeniami zautomatyzowanymi, realizującymi zaprogramowane mechanicznie, z góry ustalone ruchy. Program jest ograniczony mechanicznie za pomocą ustalonych ograniczników, np. sworzni lub krzywek. Kolejność ruchów oraz wybór drogi albo kątów nie są zmienne ani zmienialne za pomocą środków mechanicznych, elektronicznych lub elektrycznych;",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "par_9/ust_3",
+       "path": "par_8/ust_3",
        "text": "Manipulatorów o zmiennej sekwencji ruchów, będących urządzeniami zautomatyzowanymi, realizującymi zaprogramowane mechanicznie, z góry ustalone ruchy. Program jest ograniczony mechanicznie za pomocą ustalonych ograniczników, np. sworzni lub krzywek. Kolejność ruchów oraz wybór drogi albo kątów są zmienne w ramach ustalonego schematu programowego. Zmian lub modyfikacji schematu programowego (np. zmiany kotków lub wymiany krzywek) w jednej lub kilku osiach współrzędnych dokonuje wyłącznie na drodze działań mechanicznych;",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "par_9/ust_4",
+       "path": "par_8/ust_4",
        "text": "Manipulatorów bez sterowania ze sprzężeniem zwrotnym, o zmiennej sekwencji ruchów, będących urządzeniami zautomatyzowanymi, realizującymi zaprogramowane mechanicznie ruchy. Program jest zmienny, ale sekwencja jest realizowana wyłącznie za pomocą sygnału binarnego z elektrycznych urządzeń binarnych o ustalonym mechanicznie położeniu lub regulowanych ograniczników;",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "par_9/ust_5",
+       "path": "par_8/ust_5",
        "text": "Żurawi do stertowania, definiowanych jako manipulatory działające w kartezjańskim układzie wspotrzednych, produkowanych jako integralne części pionowych zespołów do silosów, i służących do sięgania po zawartość tych silosów w celu składowania lub wyjmowania.",
        "children": []
       },
       {
        "type": "ust",
        "num": "134",
-       "path": "par_9/ust_134",
+       "path": "par_8/ust_134",
        "text": "„Rodzina” (3) Składa się z układów mikroprocesorów lub mikrokomputerów o następujących cechach:",
        "children": [
         {
@@ -22551,7 +22551,7 @@
       {
        "type": "ust",
        "num": "1",
-       "path": "par_9/ust_1",
+       "path": "par_8/ust_1",
        "text": "Mechanizmów poruszanych wyłącznie ręcznie albo zdalnie przez operatora;",
        "children": [
         {
@@ -22567,7 +22567,7 @@
       {
        "type": "ust",
        "num": "136",
-       "path": "par_9/ust_136",
+       "path": "par_8/ust_136",
        "text": "„Rozdrabnianie” (1)",
        "children": [
         {
@@ -22605,7 +22605,7 @@
       {
        "type": "ust",
        "num": "138",
-       "path": "par_9/ust_138",
+       "path": "par_8/ust_138",
        "text": "„Rozpylanie jonowe” (4) Proces powlekania polegający na przyspieszaniu dodatnio naładowanych jonów za pomocą pola elektrycznego w kierunku powierzchni docelowej (materiał powlekający). Energia kine-",
        "children": [
         {
@@ -22632,7 +22632,7 @@
       {
        "type": "ust",
        "num": "139",
-       "path": "par_9/ust_139",
+       "path": "par_8/ust_139",
        "text": "„Rozproszone widmo radarowe” (6) Dowolna technika modulacji stużąca do rozpra-",
        "children": [
         {
@@ -22649,7 +22649,7 @@
       {
        "type": "ust",
        "num": "140",
-       "path": "par_9/ust_140",
+       "path": "par_8/ust_140",
        "text": "„Rozrzucone geograficznie” (6) Uważa się, że czujniki są rozrzucone geograficznie w przypadku kiedy każdy z nich znajduje się w odległości od innego większej niż 1 500 m w dowol-",
        "children": [
         {
@@ -22675,7 +22675,7 @@
       {
        "type": "ust",
        "num": "141",
-       "path": "par_9/ust_141",
+       "path": "par_8/ust_141",
        "text": "„Rozwój” (UOdT) Odnosi się do wszystkich etapów poprzedzających produkcję seryjną, takich jak: projektowanie, badania projektowe, analiza konstrukcyjna, koncepcja projektowania, montaż i testowanie",
        "children": [
         {
@@ -22692,7 +22692,7 @@
       {
        "type": "ust",
        "num": "142",
-       "path": "par_9/ust_142",
+       "path": "par_8/ust_142",
        "text": "„Samolot” (1 7 9 LU10 LU14) Obiekt latający ze skrzydłami stałymi, ruchomymi, wirującymi (śmigłowiec), z wirnikiem lub",
        "children": [
         {
@@ -22709,7 +22709,7 @@
       {
        "type": "ust",
        "num": "143",
-       "path": "par_9/ust_143",
+       "path": "par_8/ust_143",
        "text": "„Samolot cywilny” (1 7 9 LU10) Wyłącznie „samoloty” mające świadectwa zdatności do lotu opublikowane i wydane przez",
        "children": [
         {
@@ -22734,42 +22734,42 @@
       {
        "type": "ust",
        "num": "156",
-       "path": "par_9/ust_156",
+       "path": "par_8/ust_156",
        "text": "„Sterowany elektronicznie układ antenowy fazowany” (5 6) Antena wytwarzająca wiązkę za pomocą sprzężenia fazowego, tj. kierunek wiązki jest utrzymywany za pomocą źródeł promieniowania elektromagnetycznego o złożonych współczynnikach wzbudzenia, przy czym kierunek takiej wiązki (azymut i/lub podniesienie kątowe) można zmieniać za pomocą sygnału elektrycznego, zarówno nadawanego, jak i odbieranego.",
        "children": []
       },
       {
        "type": "ust",
        "num": "157",
-       "path": "par_9/ust_157",
+       "path": "par_8/ust_157",
        "text": "„Sterownik dostępu do sieci” (4 5) Interfejs fizyczny do sieci rozproszonej. Używa się w nim wspólnego nośnika działającego z taką samą „szybkością przesyłania danych cyfrowych” w systemie transmisji z arbitrażem (np. w sensie znacznika lub nośnika). Niezależnie od innych wybiera on adresowane do niego pakiety z danymi lub grupami danych (np. IEEE 802). Jest to zespół, który może być zintegrowany z komputerem lub urządzeniem telekomunikacyjnym, z zadaniem zapewniania dostępu do łączy telekomunikacyjnych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "158",
-       "path": "par_9/ust_158",
+       "path": "par_8/ust_158",
        "text": "„Sterownik toru telekomunikacyjnego” (5) Interfejs fizyczny sterujący przepływem cyfrowych informacji synchronicznych lub asynchronicznych. Jest to zespół, który może stanowić podzespół komputera lub urządzenia telekomunikacyjnego zapewniającego dostęp do łączności.",
        "children": []
       },
       {
        "type": "ust",
        "num": "159",
-       "path": "par_9/ust_159",
+       "path": "par_8/ust_159",
        "text": "„Stół obrotowo-przechylny” (2) Stół umożliwiający obracanie i przechylanie obrabianego przedmiotu względem dwóch osi nierównoległych, które mogą być równocześnie koordynowane, co umożliwia „sterowanie kształtowe”.",
        "children": []
       },
       {
        "type": "ust",
        "num": "160",
-       "path": "par_9/ust_160",
+       "path": "par_8/ust_160",
        "text": "„Struktura przetączająca” (5) Taki rodzaj sprzętu i związanego z nim „oprogramowania”, który zapewnia fizyczny lub wirtualny tor połączeń dla komutowanego komunikatu związanego z ruchem telegraficznym.",
        "children": []
       },
       {
        "type": "ust",
        "num": "161",
-       "path": "par_9/ust_161",
+       "path": "par_8/ust_161",
        "text": "„Strumieniowe wieloprzetwarzanie danych” (4) Technika oparta na „mikroprogramie” lub architekturze sprzętu, umożliwiająca równoczesne przetwarzanie dwóch lub więcej sekwencji danych pod kontrolą jednej lub kilku sekwencji instrukcji za pomocą takich narzędzi, jak:",
        "children": [
         {
@@ -22801,28 +22801,28 @@
       {
        "type": "ust",
        "num": "162",
-       "path": "par_9/ust_162",
+       "path": "par_8/ust_162",
        "text": "„Synchroniczna hierarchia cyfrowa (SDH)” (5) Hierarchia cyfrowa umożliwiająca urządzeniu zarządzanie, multipleksowanie i dostęp do różnych form przesyłania informacji cyfrowych za pomocą synchronicznych formatów transmisji na różnych typach nośników. Format jest oparty na Synchronicznym Module Przekazu (STM) określonym przez Zalecenia CCITT G.703, G.707, G.708, G.709 i inne, które mają być opublikowane. Pierwszy poziom szybkości „SDH” wynosi 155,52 Mbitów/s.",
        "children": []
       },
       {
        "type": "ust",
        "num": "163",
-       "path": "par_9/ust_163",
+       "path": "par_8/ust_163",
        "text": "„Synchroniczna sieć światłowodowa (SONET)” (5) Sieć umożliwiająca urządzeniom zarządzanie, multipleksowanie i dostęp do różnych form przesyłania informacji cyfrowych za pomocą synchronicznych formatów transmisji Światłowodowej. Formatem jest północnoamerykańska odmiana „SDH”, w której korzysta się również z Synchronicznego Modufu Przekazu (STM). Jednakże zastosowano w niej Synchroniczny Sygnał Przekazu (STS) jako podstawowy moduł transportowy z szybkością pierwszego poziomu 51,81 Mbitów/s. Standardy SONET zostaną włączone do standardów „SDH”.",
        "children": []
       },
       {
        "type": "ust",
        "num": "164",
-       "path": "par_9/ust_164",
+       "path": "par_8/ust_164",
        "text": "„Syntetyzator częstotliwości” (3) Dowolny rodzaj źródła częstotliwości lub generatora sygnałów, bez względu na stosowaną technikę, zapewniający uzyskanie wielu równoczesnych lub alternatywnych częstotliwości wyjściowych, z jednego lub kilku wyjść, lub sterowanych przez, wynikających z lub regulowanych za pomocą mniejszej liczby częstotliwości standardowych (lub głównych).",
        "children": []
       },
       {
        "type": "ust",
        "num": "165",
-       "path": "par_9/ust_165",
+       "path": "par_8/ust_165",
        "text": "„Systemy eksperckie” (4 7) Systemy dające wyniki poprzez zastosowanie pewnych zasad do danych przechowywanych w pamięci niezależnie od „programu” i mające następujące możliwości:",
        "children": [
         {
@@ -22838,14 +22838,14 @@
       {
        "type": "ust",
        "num": "166",
-       "path": "par_9/ust_166",
+       "path": "par_8/ust_166",
        "text": "„Szczepionka” (1) Preparat medyczny, który wprowadzony do ustroju ludzkiego lub zwierzęcego ma za zadanie wytworzenie ochronnej odporności immunologicznej w celu przeciwdziałania chorobom.",
        "children": []
       },
       {
        "type": "ust",
        "num": "167",
-       "path": "par_9/ust_167",
+       "path": "par_8/ust_167",
        "text": "„Szerokość pasma czasu rzeczywistego” (3) W „dynamicznych analizatorach sygnałów” — największy zakres częstotliwości, jaki analizator może przesłać na wyświetlacz lub do pamięci masowej, bez jakiejkolwiek przerwy w analizowaniu danych wejściowych. W przypadku ana-",
        "children": [
         {
@@ -22904,7 +22904,7 @@
       {
        "type": "ust",
        "num": "175",
-       "path": "par_9/ust_175",
+       "path": "par_8/ust_175",
        "text": "„Taśma” (1) Materiał zbudowany z przeplatanych lub jednakowo ukierunkowanych „włókien elementarnych”, „skrętek”, „rovingów”, „kabli” lub „przędz” itp., zazwyczaj impregnowany żywicą.",
        "children": [
         {
@@ -22916,7 +22916,7 @@
       {
        "type": "ust",
        "num": "176",
-       "path": "par_9/ust_176",
+       "path": "par_8/ust_176",
        "text": "„Technologia” (UodT UdTJ Wszystko) Specyficzny rodzaj informacji, niezbędny do „rozwoju”, „produkcji” lub „użytkowania” danego wyrobu. Informacja ta ma postać „danych technologicznych” lub „pomocy technicznej”.",
        "children": [
         {
@@ -22928,7 +22928,7 @@
       {
        "type": "ust",
        "num": "2",
-       "path": "par_9/ust_2",
+       "path": "par_8/ust_2",
        "text": "„Danymi technologicznymi” mogą być odbitki, plany, wykresy, modele, wzory, tabele, projekty techniczne i opisy, podręczniki i instrukcje w formie pisemnej lub zarejestrowanej na innych nośnikach lub urządzeniach, takich jak dyski, taśmy, pamięci wyłącznie do odczytu.",
        "children": [
         {
@@ -22974,7 +22974,7 @@
       {
        "type": "ust",
        "num": "194",
-       "path": "par_9/ust_194",
+       "path": "par_8/ust_194",
        "text": "„Układy aktywnego sterowania lotem” (7) 184. Układy zapobiegające niepożądanym ruchom lub obciążeniom konstrukcji „samolotu” lub pocisku rakietowego dzięki autonomicznemu przetwarzaniu sygnałów z wielu czujników i wyda- 195. waniu niezbędnych poleceń do realizacji sterowania automatycznego.",
        "children": [
         {
@@ -22987,7 +22987,7 @@
       {
        "type": "ust",
        "num": "197",
-       "path": "par_9/ust_197",
+       "path": "par_8/ust_197",
        "text": "„Ultraszybkie chłodzenie” (1) 186. Technika „gwałtownego krzepnięcia” polegająca na uderzaniu stopionego strumienia metalu w ochłodzony blok, w wyniku czego powstaje produkt w postaci płatków. UWAGA: „Gwałtowne krzepnięcie”: krzepnięcie roztopionego materiału podczas chłodzenia z szybkością powyżej 1 000 K/s. 198.",
        "children": [
         {
@@ -23068,21 +23068,21 @@
       {
        "type": "ust",
        "num": "201",
-       "path": "par_9/ust_201",
+       "path": "par_8/ust_201",
        "text": "„Współczynnik skalowania (giroskopu lub przyspieszeniomierza)” (7) Stosunek zmiany wartości wyjściowej do zmiany wartości wejściowej, która ma być mierzona. Współczynnik skalowania jest na ogół szacowany jako pochylenie linii prostej, którą można poprowadzić metodą najmniejszych kwadratów pomiędzy punktami określającymi parametry wejściowe/wyjściowe, uzyskanymi poprzez cykliczną zmianę parametrów wejściowych w przedziale ich wartości.",
        "children": []
       },
       {
        "type": "ust",
        "num": "202",
-       "path": "par_9/ust_202",
+       "path": "par_8/ust_202",
        "text": "„Wychylenie wstępne (przyspieszeniomierza)” (7) Wartość wskazywana przez przyspieszeniomierz w przypadku braku przyspieszenia.",
        "children": []
       },
       {
        "type": "ust",
        "num": "203",
-       "path": "par_9/ust_203",
+       "path": "par_8/ust_203",
        "text": "„Wydajność widmowa” (5) Liczba czynników parametryzowanych w celu scharakteryzowania wydajności systemu przesyłania, w którym zastosowano złożone systemy modulacji, np. QAM (kwadraturowa modulacja amplitudy), kodowanie Trellis, OPSK (z przesunięciem fazowym) itp. Definicja wydajności jest następująca:",
        "children": [
         {
@@ -23095,63 +23095,63 @@
       {
        "type": "ust",
        "num": "204",
-       "path": "par_9/ust_204",
+       "path": "par_8/ust_204",
        "text": "„Wykładzina wewnętrzna” (9) Warstwa pośrednia pomiędzy paliwem stałym a osłoną lub warstwą izolacyjną. Zazwyczaj jest to ptynna polimerowa zawiesina materiału ogniotrwałego lub izolacyjnego, np. węgiel z wypełniaczem HTBP lub innym polimerem z dodatkiem środków utrwalających, rozpylonych lub rozsmarowanych na wewnętrznej powierzchni osłony.",
        "children": []
       },
       {
        "type": "ust",
        "num": "205",
-       "path": "par_9/ust_205",
+       "path": "par_8/ust_205",
        "text": "„Wytrzymałość właściwa na rozciąganie” (0 1) Wytrzymałość na rozciąganie w paskalach, równych N/m2, podzielona przez masę właściwą w N/m*, mierzona w temperaturze (296+2) K (23+2)°C i przy wilgotności względnej (50+5)%.",
        "children": []
       },
       {
        "type": "ust",
        "num": "206",
-       "path": "par_9/ust_206",
+       "path": "par_8/ust_206",
        "text": "„Wzmacniacze obrazu pierwszej generacji” (LU15 ) Lampy elektrostatyczne stosujące na wejściu i wyjściu płyty światłowodowe lub szklane, wieloalkaliczne fotokatody (S-20 lub S-25), ale nie mikrokanatowe wzmacniacze płytowe. Ponadto używane w całej liście, ale nie zaznaczone cudzysłowem, pojęcie „zakwalifikowane do zastosowań kosmicznych” (lub zbliżone do niego sformułowania) oznaczają produkty zaprojektowane, wyprodukowane i przetestowane w celu spełnienia specjalnych wymogów elektrycznych, mechanicznych i środowiskowych do użytkowania przy wystrzeliwaniu i rozmieszczaniu satelitów lub systemów lotów działających na wysokościach przekraczających 100 km.",
        "children": []
       },
       {
        "type": "ust",
        "num": "207",
-       "path": "par_9/ust_207",
+       "path": "par_8/ust_207",
        "text": "„Wzmocnienie optyczne” (5) W telekomunikacji optycznej technika wzmacniania polegająca na uzyskiwaniu sygnałów optycznych generowanych przez oddzielne źródło optyczne, bez ich przetwarzania na sygnały elektryczne, tj. za pomocą pdotprzewodnikowych wzmacniaczy optycznych lub światłowodowych wzmacniaczy luminescencyjnych.",
        "children": []
       },
       {
        "type": "ust",
        "num": "208",
-       "path": "par_9/ust_208",
+       "path": "par_8/ust_208",
        "text": "„Wzmacnianie obrazu” (4) Przetwarzanie obrazów zawierających informacje, uzyskanych ze źródeł zewnętrznych, za pomocą algorytmów, takich jak kompresja czasu, filtrowanie, wyciąganie, selekcja, korelacja, splatanie lub przemieszczanie pomiędzy domenami (np. za pomocą szybkiej transformacji Fouriera lub transformacji Walsha). Nie obejmuje algorytmów, w których stosowane są wyłącznie przekształcenia liniowe lub obrotowe pojedynczego obrazu, takie jak przesunięcie, ekstrahowanie jakiejś cechy, rejestracja lub fałszywe barwienie.",
        "children": []
       },
       {
        "type": "ust",
        "num": "209",
-       "path": "par_9/ust_209",
+       "path": "par_8/ust_209",
        "text": "„Zasięg przyrządowy” (6) Jednoznacznie określony zasięg radaru.",
        "children": []
       },
       {
        "type": "ust",
        "num": "210",
-       "path": "par_9/ust_210",
+       "path": "par_8/ust_210",
        "text": "„Zespół elektroniczny” (3 45) Pewna liczba elementów elektronicznych (tj.. „układów elementarnych”, „elementów dyskretnych”, układów scalonych itp.) połączonych razem w celu realizacji określonej(ych) funkcji, wymienialna w całości, która zazwyczaj może być demontowana. UWAGA 1: „Element obwodu”: pojedyncza czynna albo bierna funkcjonalna część układu elektronicznego, na przykład pojedyncza dioda, tranzystor, rezystor, kondensator itp. UWAGA 2: „Element dyskretny”: oddzielnie obudowany „układ elementarny” z własnymi końcówkami wyjściowymi.",
        "children": []
       },
       {
        "type": "ust",
        "num": "211",
-       "path": "par_9/ust_211",
+       "path": "par_8/ust_211",
        "text": "„Ze sterowaniem zaprogramowanym w pamięci” (2 35) Sterowanie za pomocą instrukcji zaprogramowanych w pamięci elektronicznej, które procesor może realizować w celu kierowania parametrami określonych funkcji. UWAGA: Urządzenie może być urządzeniem „ze sterowaniem zaprogramowanym w pamięci” bez względu na to, czy pamięć elektroniczna jest wewnętrzna, czy też zewnętrzna względem urządzenia.",
        "children": []
       },
       {
        "type": "ust",
        "num": "212",
-       "path": "par_9/ust_212",
+       "path": "par_8/ust_212",
        "text": "„Zgrzewanie dyfuzyjne” (1 29) Łączenie molekularne w stanie stałym co najmniej dwóch oddzielnych metali w jeden ele-",
        "children": [
         {
@@ -23167,14 +23167,14 @@
       {
        "type": "ust",
        "num": "213",
-       "path": "par_9/ust_213",
+       "path": "par_8/ust_213",
        "text": "„Zintegrowana sieć przesyłania danych” (ISDN) (5) Zunifikowana całościowo sieć cyfrowa, w której dane pochodzące ze wszystkich typów łączności (np. głosowej, tekstowej, danych cyfrowych, obrazów ruchomych i nieruchomych) są przesyłane z jednego portu (terminalu) przez system komutacyjny jedną linią dostępu do i od abonenta.",
        "children": []
       },
       {
        "type": "ust",
        "num": "214",
-       "path": "par_9/ust_214",
+       "path": "par_8/ust_214",
        "text": "„Zwierciadła odkształcalne” (6) (Określa się je również adaptacyjnymi zwierciadłami optycznymi). Są to zwierciadła mające:",
        "children": [
         {

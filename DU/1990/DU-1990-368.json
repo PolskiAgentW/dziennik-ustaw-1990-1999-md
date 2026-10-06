@@ -58,460 +58,483 @@
    "text": "Postanowienia ogólne"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony zobowiązują się do udzielania sobie wzajemnie, zgodnie z postanowieniami niniejszej umowy, pomocy w sprawach karnych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Pomocy prawnej można odmówić, jeżeli wniosek o jej udzielenie dotyczy czynu:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "którego ściganie w chwili wystąpienia z wnioskiem o udzielenie pomocy nie należy do właściwości sądów Strony wzywającej;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "który nie podlega karze według prawa Strony wezwanej; —",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "który jest uważany przez Stronę wezwaną za przestępstwo — c o charakterze politycznym lub przestępstwo wojskowe;"
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "w związku z którym na terytorium Strony wezwanej lub w państwie trzecim toczy się postępowanie lub zostało ono zakończone prawomocnym orzeczeniem, umorzeniem lub odmową wszczęcia postępowania; za którego popełnienie z uwagi na upływ czasu, zgodnie — e z prawem Strony wezwanej, nie można przeciwko danej osobie wszcząć ścigania.",
-     "children": []
-    }
-   ]
+   "path": "art_1",
+   "text": "Umawiające się Strony zobowiązują się do udzielania sobie wzajemnie, zgodnie z postanowieniami niniejszej umowy, pomocy w sprawach karnych.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Pomocy prawnej w zakresie przeszukania i zajęcia można odmówić, jeżeli wniosek o jej udzielenie nie odnosi się do czynu, za który według prawa Strony wezwanej nie byłoby możliwe wymierzenie kary pozbawienia wolności powyżej jednego roku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Pomocy prawnej można odmówić, jeżeli Strona wezwana uzna, że wykonanie wniosku mogłoby naruszyć jej suwerenność, bezpieczeństwo, porządek publiczny lub inne podstawowe interesy państwa.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "AGREEMENT"
-    },
-    {
-     "type": "text",
-     "text": "between the Polish People's Republic and the Kingdom of Sweden on legal assistance in criminal matters"
-    },
-    {
-     "type": "text",
-     "text": "\"The Polish People's Republic and the Kingdom of Sweden,"
-    },
-    {
-     "type": "text",
-     "text": "desiring to regulate, develop, and enhance legal co- -operation in criminal matters, have agreed as follows:"
-    },
-    {
-     "type": "text",
-     "text": "CHAPTER |"
-    },
-    {
-     "type": "text",
-     "text": "General Provisions"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties undertake to afford each other, in accordance with the provisions of this Agreement, assistance in criminal proceedings."
-    },
-    {
-     "type": "text",
-     "text": "Article 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Assistance may be refused if the request for assistance concerns an act,",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "the punishment of which, at the time of the request for assistance, falls outside the jurisdiction of the judicial authorities of the requesting Party; b",
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Pomocy prawnej można odmówić, jeżeli wniosek o jej udzielenie dotyczy czynu:",
      "children": [
       {
-       "type": "text",
-       "text": "— which is not punishable under the law of the requested Party; which is regarded by'the requested Party as an offence of — c a political or military nature; d"
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "którego ściganie w chwili wystąpienia z wnioskiem o udzielenie pomocy nie należy do właściwości sądów Strony wzywającej;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_1/lit_b",
+       "text": "który nie podlega karze według prawa Strony wezwanej; —",
+       "children": []
       },
       {
        "type": "text",
-       "text": "— with regard to which criminal proceedings in the territory of the requested Party or a third state are pending or have been definitely concluded or it has been decided to discontinue or not to initiate such proceedings; — with regard to which, owing to lapse of time according to e the law of the requested Party, the person concerned cannot be prosecuted."
+       "text": "który jest uważany przez Stronę wezwaną za przestępstwo — c o charakterze politycznym lub przestępstwo wojskowe;"
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/ust_1/lit_d",
+       "text": "w związku z którym na terytorium Strony wezwanej lub w państwie trzecim toczy się postępowanie lub zostało ono zakończone prawomocnym orzeczeniem, umorzeniem lub odmową wszczęcia postępowania; za którego popełnienie z uwagi na upływ czasu, zgodnie — e z prawem Strony wezwanej, nie można przeciwko danej osobie wszcząć ścigania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Pomocy prawnej w zakresie przeszukania i zajęcia można odmówić, jeżeli wniosek o jej udzielenie nie odnosi się do czynu, za który według prawa Strony wezwanej nie byłoby możliwe wymierzenie kary pozbawienia wolności powyżej jednego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Pomocy prawnej można odmówić, jeżeli Strona wezwana uzna, że wykonanie wniosku mogłoby naruszyć jej suwerenność, bezpieczeństwo, porządek publiczny lub inne podstawowe interesy państwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "AGREEMENT"
+      },
+      {
+       "type": "text",
+       "text": "between the Polish People's Republic and the Kingdom of Sweden on legal assistance in criminal matters"
+      },
+      {
+       "type": "text",
+       "text": "\"The Polish People's Republic and the Kingdom of Sweden,"
+      },
+      {
+       "type": "text",
+       "text": "desiring to regulate, develop, and enhance legal co- -operation in criminal matters, have agreed as follows:"
+      },
+      {
+       "type": "text",
+       "text": "CHAPTER |"
+      },
+      {
+       "type": "text",
+       "text": "General Provisions"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties undertake to afford each other, in accordance with the provisions of this Agreement, assistance in criminal proceedings."
+      },
+      {
+       "type": "text",
+       "text": "Article 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Assistance may be refused if the request for assistance concerns an act,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "the punishment of which, at the time of the request for assistance, falls outside the jurisdiction of the judicial authorities of the requesting Party; b",
+       "children": [
+        {
+         "type": "text",
+         "text": "— which is not punishable under the law of the requested Party; which is regarded by'the requested Party as an offence of — c a political or military nature; d"
+        },
+        {
+         "type": "text",
+         "text": "— with regard to which criminal proceedings in the territory of the requested Party or a third state are pending or have been definitely concluded or it has been decided to discontinue or not to initiate such proceedings; — with regard to which, owing to lapse of time according to e the law of the requested Party, the person concerned cannot be prosecuted."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Assistance regarding search and seizure may be refused if the request for assistance concerns an act for which, under the law of the requested Party, it would not be possible to impose a punishment of deprivation of liberty for more than one year. ;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Assistance may be refused if the requested Party considers that execution of the request is likely to prejudice the sovereignty, security, order public or other essential interests of its country.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Assistance regarding search and seizure may be refused if the request for assistance concerns an act for which, under the law of the requested Party, it would not be possible to impose a punishment of deprivation of liberty for more than one year. ;",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Assistance may be refused if the requested Party considers that execution of the request is likely to prejudice the sovereignty, security, order public or other essential interests of its country.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wnioski o udzielenie pomocy prawnej przekazywane będą odpowiednio przez Ministerstwo Sprawiedliwości Polskiej Rzeczypospolitej Ludowej i Ministerstwo Spraw Zagranicznych Szwecji. W zakresie pomocy prawnej udzielanej zgodnie z artykułami 4, 15 i 16 wnioski mogą być przekazywane przez Prokuraturę Generalną Polskiej Rzeczypospolitej Ludowej. Wnioski mogą być również przekazywane w drodze dyplomatycznej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokumenty przekazywane na podstawie niniejszej umowy są zwolnione od legalizacji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "ROZDZIAŁ ii"
-    },
-    {
-     "type": "text",
-     "text": "Doręczanie dokumentów"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wniosek o doręczenie powinien być sporządzony na piśmie i pochodzić od sądu lub od prokuratora. Wniosek powinien zawierać:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "nazwę organu, który go sporządził,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Wnioski o udzielenie pomocy prawnej przekazywane będą odpowiednio przez Ministerstwo Sprawiedliwości Polskiej Rzeczypospolitej Ludowej i Ministerstwo Spraw Zagranicznych Szwecji. W zakresie pomocy prawnej udzielanej zgodnie z artykułami 4, 15 i 16 wnioski mogą być przekazywane przez Prokuraturę Generalną Polskiej Rzeczypospolitej Ludowej. Wnioski mogą być również przekazywane w drodze dyplomatycznej.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "imię i nazwisko, miejsce zamieszkania i obywatelstwo osoby, której mają być doręczone dokumenty,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "oznaczenie dokumentów, które mają być doręczone,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "opis czynu przestępnego, w związku z którym żąda się udzielenia pomocy, czas i miejsce jego popełnienia oraz kwalifikację prawną.",
-     "children": []
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Dokumenty przekazywane na podstawie niniejszej umowy są zwolnione od legalizacji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "ROZDZIAŁ ii"
+      },
+      {
+       "type": "text",
+       "text": "Doręczanie dokumentów"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wniosek o doręczenie dokumentów powinien być sporządzony w języku Strony wzywającej i być przekazany wraz z tłumaczeniem na język Strony wezwanej lub na język angielski.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dokumenty podlegające doręczeniu przesyła się w dwóch egzemplarzach. Powinny być one przekazane wraz z tłumaczeniem na język Strony wezwanej. Dokumenty doręcza się również bez załączonego ich tłumaczenia, jeżeli osoba, której mają być one doręczone, zgodzi się je przyjąć.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Doręczenie będzie dokonywane przez Stronę wezwaną zgodnie z jej prawem lub w sposób określony przez Stronę wzywającą, o ile jest on zgodny z prawem Strony wezwanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dowód doręczenia sporządzany jest zgodnie z prawem Strony wezwanej. Dowód doręczenia wraz z jednym egzemplarzem doręczonego dokumentu zwraca się Stronie wzywającej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli osoba, której ma być dokonane doręczenie, nie przebywa pod wskazanym adresem, Strona wezwana podejmuje działania w celu ustalenia jej miejsca pobytu.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli doręczenie nie może być dokonane, Strona wezwana zawiadamia niezwłocznie o przyczynach Stronę wzywającą, zwracając jej dokumenty",
-   "children": []
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Wniosek o doręczenie powinien być sporządzony na piśmie i pochodzić od sądu lub od prokuratora. Wniosek powinien zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_1/lit_a",
+       "text": "nazwę organu, który go sporządził,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_1/lit_b",
+       "text": "imię i nazwisko, miejsce zamieszkania i obywatelstwo osoby, której mają być doręczone dokumenty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_4/ust_1/lit_c",
+       "text": "oznaczenie dokumentów, które mają być doręczone,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_4/ust_1/lit_d",
+       "text": "opis czynu przestępnego, w związku z którym żąda się udzielenia pomocy, czas i miejsce jego popełnienia oraz kwalifikację prawną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Wniosek o doręczenie dokumentów powinien być sporządzony w języku Strony wzywającej i być przekazany wraz z tłumaczeniem na język Strony wezwanej lub na język angielski.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Dokumenty podlegające doręczeniu przesyła się w dwóch egzemplarzach. Powinny być one przekazane wraz z tłumaczeniem na język Strony wezwanej. Dokumenty doręcza się również bez załączonego ich tłumaczenia, jeżeli osoba, której mają być one doręczone, zgodzi się je przyjąć.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Wniosek o doręczenie wezwania do stawiennictwa przed sądem osobie oskarżonej, przebywającej na terytorium Strony wezwanej, powinien być przekazany organom tej Strony w stosownym czasie. Osobie oskarżonej należy doręczyć wezwanie nie później niż na trzydzieści dni przed terminem rozprawy, na którą ma się ona stawić.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Requests for assistance shall be made through the Ministry of Justice of the Polish People's Republic and through the Ministry for Foreign Affairs of Sweden respectively. As regards assistance in accordance with Articles 4, 15 and 16, requests may be made through the General Prosecutor' s Office of the Polish People's Republic. Requests may also be made through the diplomatic channel.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Documents transmitted pursuant to this Agreement shall not require any form of legalization.",
-   "children": [
-    {
-     "type": "text",
-     "text": "CHAPTER II"
-    },
-    {
-     "type": "text",
-     "text": "Service of Documents"
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "A request for service shall be in writing and shall emanate from a court of law or a public prosecutor. The request shall contain:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "the name of the authority making the request;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Doręczenie będzie dokonywane przez Stronę wezwaną zgodnie z jej prawem lub w sposób określony przez Stronę wzywającą, o ile jest on zgodny z prawem Strony wezwanej.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "the name, address and citizenship of the person to be served;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Dowód doręczenia sporządzany jest zgodnie z prawem Strony wezwanej. Dowód doręczenia wraz z jednym egzemplarzem doręczonego dokumentu zwraca się Stronie wzywającej.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "a description of the nature of the document to be served;",
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Jeżeli osoba, której ma być dokonane doręczenie, nie przebywa pod wskazanym adresem, Strona wezwana podejmuje działania w celu ustalenia jej miejsca pobytu.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "a description of the nature, time and place of the criminal act and the applicable statutory provisions with regard to which assistance is requested.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Jeżeli doręczenie nie może być dokonane, Strona wezwana zawiadamia niezwłocznie o przyczynach Stronę wzywającą, zwracając jej dokumenty",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Wniosek o doręczenie wezwania do stawiennictwa przed sądem osobie oskarżonej, przebywającej na terytorium Strony wezwanej, powinien być przekazany organom tej Strony w stosownym czasie. Osobie oskarżonej należy doręczyć wezwanie nie później niż na trzydzieści dni przed terminem rozprawy, na którą ma się ona stawić.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Requests for assistance shall be made through the Ministry of Justice of the Polish People's Republic and through the Ministry for Foreign Affairs of Sweden respectively. As regards assistance in accordance with Articles 4, 15 and 16, requests may be made through the General Prosecutor' s Office of the Polish People's Republic. Requests may also be made through the diplomatic channel.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Documents transmitted pursuant to this Agreement shall not require any form of legalization.",
+     "children": [
+      {
+       "type": "text",
+       "text": "CHAPTER II"
+      },
+      {
+       "type": "text",
+       "text": "Service of Documents"
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "A request for service shall be in writing and shall emanate from a court of law or a public prosecutor. The request shall contain:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_1/lit_a",
+       "text": "the name of the authority making the request;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_1/lit_b",
+       "text": "the name, address and citizenship of the person to be served;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/ust_1/lit_c",
+       "text": "a description of the nature of the document to be served;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/ust_1/lit_d",
+       "text": "a description of the nature, time and place of the criminal act and the applicable statutory provisions with regard to which assistance is requested.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "The request for service of documents shall be transmitted in the language of the requesting Party and be accompanied by a translation into the language of the requested Party or into English.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "The documents to be served shall be transmitted in duplicate. They shall be accompanied by a translation into the language of the requested Party. Service of documents will, however, be effected even if not accompanied by a translation into the language of the requested Party,when the person to be served voluntarily receives the documents.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Service shall be effected by the requested Party according to its law or in a manner demanded by the requesting Party, if consistent with the law of the requested Party.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Proof of service shall be given in accordance with the law of the requested Party. One copy of the document served together with a certificate of service shall be sent to the requesting Party.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "If the person to be served cannot be found at the address indicated, the requested Party shall endeavour to ascertain his whereabouts.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "If service cannot be effected, the reasons shall immediately be communicated by the requested Party to the requesting Party with the return of the documents.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "A request for service of a summons, to appear before a court of law, on an accused person who is in the territory of the requested Party, shall be transmitted to the authorities of that Party in due time. The accused person shall be served the summons not later than thirty days before the date set for",
+     "children": [
+      {
+       "type": "text",
+       "text": "appearance."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Należności świadków i biegłych, w tym zwrot utraconych zarobków oraz koszty podróży i pobytu, jak również wynagrodzenie biegłych, będą ponoszone przez Stronę wzywającą zgodnie z jej prawem. Świadka lub biegłego wezwanego do stawiennictwa należy poinformować o powyższych zasadach.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Jeżeli Strona wzywająca uzna osobiste stawiennictwo świadka lub biegłego za szczególnie niezbędne, powinna to nadmienić we wniosku o doręczenie wezwania. Strona wezwana powinna zawiadomić Stronę wzywającą o stanowisku świadka lub biegłego.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Świadek lub biegły, który nie stawił się na wezwanie, o którego doręczenie wnoszono, nie może z tego tytułu podlegać karze lub środkom przymusu.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Przeciwko świadkowi lub biegłemu, bez względu na jego obywatelstwo, który stawił się na wezwanie przed sądem Strony wzywającej, nie może być prowadzone postępowanie karne; nie może być on pozbawiony wolności lub poddany wszelkim innym formom ograniczenia wolności osobistej na terytorium tej Strony z powodu czynów popełnionych lub orzeczeń wydanych przed opuszczeniem przez niego terytorium Strony wezwanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Przeciwko każdej osobie, bez względu na jej obywatelstwo, wezwanej przed sąd Strony wzywającej do odpowiedzialności za czyny stanowiące przedmiot postępowania nie może być prowadzone postępowanie karne, nie może być ona pozbawiona wolności lub poddana wszelkim innym formom ograniczenia wolności osobistej z powodu czynów popełnionych lub orzeczeń wydanych przed opuszczeniem przez nią terytorium Strony wezwanej i nie wymienionych w wezwaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Ochrona określona w niniejszym artykule przestaje obowiązywać, jeżeli świadek, biegły lub osoba oskarżona, mając możliwość opuszczenia w ciągu piętnastu dni od dnia, w którym jej obecność na terytorium Strony wzywającej nie była już wymagana przez Sąd, na tym terytorium pozostała lub, po jego opuszczeniu, dobrowolnie na nie powróciła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Ochrona określona w niniejszym artykule stosuje się odpowiednio do świadków, biegłych i podejrzanych, którzy stawili się na wezwanie przed prokuratorem Strony wzywającej, o ile ochrona taka jest przewidziana przez prawo tej Strony.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The request for service of documents shall be transmitted in the language of the requesting Party and be accompanied by a translation into the language of the requested Party or into English.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The documents to be served shall be transmitted in duplicate. They shall be accompanied by a translation into the language of the requested Party. Service of documents will, however, be effected even if not accompanied by a translation into the language of the requested Party,when the person to be served voluntarily receives the documents.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Service shall be effected by the requested Party according to its law or in a manner demanded by the requesting Party, if consistent with the law of the requested Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Proof of service shall be given in accordance with the law of the requested Party. One copy of the document served together with a certificate of service shall be sent to the requesting Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "If the person to be served cannot be found at the address indicated, the requested Party shall endeavour to ascertain his whereabouts.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "If service cannot be effected, the reasons shall immediately be communicated by the requested Party to the requesting Party with the return of the documents.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "A request for service of a summons, to appear before a court of law, on an accused person who is in the territory of the requested Party, shall be transmitted to the authorities of that Party in due time. The accused person shall be served the summons not later than thirty days before the date set for",
-   "children": [
-    {
-     "type": "text",
-     "text": "appearance."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Należności świadków i biegłych, w tym zwrot utraconych zarobków oraz koszty podróży i pobytu, jak również wynagrodzenie biegłych, będą ponoszone przez Stronę wzywającą zgodnie z jej prawem. Świadka lub biegłego wezwanego do stawiennictwa należy poinformować o powyższych zasadach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli Strona wzywająca uzna osobiste stawiennictwo świadka lub biegłego za szczególnie niezbędne, powinna to nadmienić we wniosku o doręczenie wezwania. Strona wezwana powinna zawiadomić Stronę wzywającą o stanowisku świadka lub biegłego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Świadek lub biegły, który nie stawił się na wezwanie, o którego doręczenie wnoszono, nie może z tego tytułu podlegać karze lub środkom przymusu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przeciwko świadkowi lub biegłemu, bez względu na jego obywatelstwo, który stawił się na wezwanie przed sądem Strony wzywającej, nie może być prowadzone postępowanie karne; nie może być on pozbawiony wolności lub poddany wszelkim innym formom ograniczenia wolności osobistej na terytorium tej Strony z powodu czynów popełnionych lub orzeczeń wydanych przed opuszczeniem przez niego terytorium Strony wezwanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przeciwko każdej osobie, bez względu na jej obywatelstwo, wezwanej przed sąd Strony wzywającej do odpowiedzialności za czyny stanowiące przedmiot postępowania nie może być prowadzone postępowanie karne, nie może być ona pozbawiona wolności lub poddana wszelkim innym formom ograniczenia wolności osobistej z powodu czynów popełnionych lub orzeczeń wydanych przed opuszczeniem przez nią terytorium Strony wezwanej i nie wymienionych w wezwaniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ochrona określona w niniejszym artykule przestaje obowiązywać, jeżeli świadek, biegły lub osoba oskarżona, mając możliwość opuszczenia w ciągu piętnastu dni od dnia, w którym jej obecność na terytorium Strony wzywającej nie była już wymagana przez Sąd, na tym terytorium pozostała lub, po jego opuszczeniu, dobrowolnie na nie powróciła.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Ochrona określona w niniejszym artykule stosuje się odpowiednio do świadków, biegłych i podejrzanych, którzy stawili się na wezwanie przed prokuratorem Strony wzywającej, o ile ochrona taka jest przewidziana przez prawo tej Strony.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Koszty powstałe w związku z wykonaniem wniosku o doręczenie ponosi Strona wezwana."
-    }
-   ]
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Koszty powstałe w związku z wykonaniem wniosku o doręczenie ponosi Strona wezwana.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
    "type": "heading",
@@ -519,354 +542,372 @@
    "text": "Wnioski o udzielenie pomocy prawnej"
   },
   {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wnioski o udzielenie pomocy prawnej, takiej jak przesłuchanie świadków, biegłych lub osób oskarżonych, dokonanie przeszukania lub zajęcia majątku, przekazanie",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Witnesses’ and experts’ allowances, including compensation for loss of income, travel and living costs, as well as experts’ remuneration, shall be paid by the requesting Party in accordance with its law . The witness or expert summoned to appear should be informed about these rules."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "If the requesting Party considers the personal appearance of a witness or expert especially necessary, it shall so mention in its request for service of the summons. The requested Party shall inform the requesting Party of the reply of the witness or expert."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "A witness or expert who has failed to answer a summons to appear. service of which has been requested, shall not be subjected to any punishment or coercive measures."
-    },
-    {
-     "type": "text",
-     "text": "Article 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "A witness or expert, whatever his nationality, appearing on asummons before a court of law of the requesting Party shall not be proceeded against or detained or subjected to any other restriction of his personal liberty in the territory of that Party in respect of acts or convictions prior to his departure from the territory of the requested Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Aperson, whatever his nationality, summoned before a court of law of the requesting Party to answer for acts forming the subject of proceedings against him, shall not be proceeded against or detained or subjected to any other restriction of his personal liberty for acts or convictions prior to his departure from the territory of the requested Party and not specified in the summons.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The immunity provided for in this Article shall cease when the witness or expert or accused person, having had for a period of fifteen consecutive days from the date when his presence is no longer required by the court of law an opportunity of leaving, has nevertheless remained in the territory, or having left it, has voluntarily returned.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The immunity referred to in this Article shall apply correspondingly to witnesses, experts and suspected persons appearing on a summons before a public prosecutor of the requesting Party, when such immunity is foreseen in the law of the requesting Party.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "The requested Party shall be responsible for the costs connected with the execution of a request for service."
-    },
-    {
-     "type": "text",
-     "text": "CHAPTER III"
-    },
-    {
-     "type": "text",
-     "text": "Letters Rogatory"
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Letters rogatory for the purpose of legal assistance such as hearing of witnesses or experts or accuised persons, search or seizure of property and transmitting articles to be",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "przedmiotów stanowiących dowody, akt lub dokumentów, powinny być sporządzone przez sąd Strony wzywającej i skierowane do sądu Strony wezwanej. Powinny być one sporządzone w języku Strony wzywającej i być przekazane wraz z ich tłumaczeniem na język Strony wezwanej."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wnioski o udzielenie pomocy prawnej, wymienione w ustępie 1 niniejszego artykułu, powinny zawierać:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "nazwę sądu, który sporządził wniosek,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "imię i nazwisko, miejsce zamieszkania i obywatelstwo osoby, której dotyczy wniosek,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "opis czynu przestępnego oraz przepisy prawne, które mają zastosowanie,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "przedmiot i podstawę wniosku oraz, w stosownych wypadkach, pytania, które mają być zadane podczas przesłuchania.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Wnioski o udzielenie pomocy prawnej, takiej jak przesłuchanie świadków, biegłych lub osób oskarżonych, dokonanie przeszukania lub zajęcia majątku, przekazanie",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 12"
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Witnesses’ and experts’ allowances, including compensation for loss of income, travel and living costs, as well as experts’ remuneration, shall be paid by the requesting Party in accordance with its law . The witness or expert summoned to appear should be informed about these rules."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "If the requesting Party considers the personal appearance of a witness or expert especially necessary, it shall so mention in its request for service of the summons. The requested Party shall inform the requesting Party of the reply of the witness or expert."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "A witness or expert who has failed to answer a summons to appear. service of which has been requested, shall not be subjected to any punishment or coercive measures."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "A witness or expert, whatever his nationality, appearing on asummons before a court of law of the requesting Party shall not be proceeded against or detained or subjected to any other restriction of his personal liberty in the territory of that Party in respect of acts or convictions prior to his departure from the territory of the requested Party.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Aperson, whatever his nationality, summoned before a court of law of the requesting Party to answer for acts forming the subject of proceedings against him, shall not be proceeded against or detained or subjected to any other restriction of his personal liberty for acts or convictions prior to his departure from the territory of the requested Party and not specified in the summons.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "The immunity provided for in this Article shall cease when the witness or expert or accused person, having had for a period of fifteen consecutive days from the date when his presence is no longer required by the court of law an opportunity of leaving, has nevertheless remained in the territory, or having left it, has voluntarily returned.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "The immunity referred to in this Article shall apply correspondingly to witnesses, experts and suspected persons appearing on a summons before a public prosecutor of the requesting Party, when such immunity is foreseen in the law of the requesting Party.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "The requested Party shall be responsible for the costs connected with the execution of a request for service."
+      },
+      {
+       "type": "text",
+       "text": "CHAPTER III"
+      },
+      {
+       "type": "text",
+       "text": "Letters Rogatory"
+      },
+      {
+       "type": "text",
+       "text": "Article 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Letters rogatory for the purpose of legal assistance such as hearing of witnesses or experts or accuised persons, search or seizure of property and transmitting articles to be",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "przedmiotów stanowiących dowody, akt lub dokumentów, powinny być sporządzone przez sąd Strony wzywającej i skierowane do sądu Strony wezwanej. Powinny być one sporządzone w języku Strony wzywającej i być przekazane wraz z ich tłumaczeniem na język Strony wezwanej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Wnioski o udzielenie pomocy prawnej, wymienione w ustępie 1 niniejszego artykułu, powinny zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_11/ust_2/lit_a",
+       "text": "nazwę sądu, który sporządził wniosek,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_11/ust_2/lit_b",
+       "text": "imię i nazwisko, miejsce zamieszkania i obywatelstwo osoby, której dotyczy wniosek,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_11/ust_2/lit_c",
+       "text": "opis czynu przestępnego oraz przepisy prawne, które mają zastosowanie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_11/ust_2/lit_d",
+       "text": "przedmiot i podstawę wniosku oraz, w stosownych wypadkach, pytania, które mają być zadane podczas przesłuchania.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wnioski o udzielenie pomocy prawnej będą wykonywane niezwłocznie przez Stronę wezwaną zgodnie z jej prawem lub w sposób określony przez Stronę wzywającą, o ile nie jest on sprzeczny z prawem Strony wezwanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli osoba, której dotyczy wniosek, nie przebywa pod wskazanym adresem, Strona wezwana podejmuje działania w celu ustalenia jej miejsca pobytu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli wniosek o udzielenie pomocy prawnej nie może być wykonany, Strona wezwana zawiadamia o tym Stronę wzywającą, informując ją jednocześnie o przyczynach niewykonania wniosku.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Wnioski o udzielenie pomocy prawnej będą wykonywane niezwłocznie przez Stronę wezwaną zgodnie z jej prawem lub w sposób określony przez Stronę wzywającą, o ile nie jest on sprzeczny z prawem Strony wezwanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Jeżeli osoba, której dotyczy wniosek, nie przebywa pod wskazanym adresem, Strona wezwana podejmuje działania w celu ustalenia jej miejsca pobytu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Jeżeli wniosek o udzielenie pomocy prawnej nie może być wykonany, Strona wezwana zawiadamia o tym Stronę wzywającą, informując ją jednocześnie o przyczynach niewykonania wniosku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strona wezwana zawiadamia Stronę wzywającą, na jej wniosek, o terminie i miejscu wykonania wniosku o udzielenie pomocy prawnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona wezwana może przekazać poświadczone odpisy żądanych protokołów lub dokumentów, chyba że Strona wzywająca wniosła o przekazanie oryginałów, które powinny być wówczas przekazane przez Stronę wezwaną.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strona wezwana może odroczyć przekazanie żądanych protokołów, dokumentów lub przedmiotów, jeżeli są one niezbędne w związku z toczącym się na jej terytorium postępowaniem karnym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Oryginały protokołów lub dokumentów, przekazane w związku z wykonaniem wniosku o udzielenie pomocy prawnej, powinny być zwrócone przez Stronę wzywającą Stronie wezwanej możliwie najszybciej, o ile ta ostatnia tego zażąda.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Strona wezwana zawiadamia Stronę wzywającą, na jej wniosek, o terminie i miejscu wykonania wniosku o udzielenie pomocy prawnej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strona wezwana ponosi koszty związane z wykonaniem wniosku o udzielenie pomocy prawnej. Jednakże wynagrodzenie i inne koszty biegłych powstałe na terytorium Strony wezwanej ponosi Strona wzywająca."
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Strona wezwana może przekazać poświadczone odpisy żądanych protokołów lub dokumentów, chyba że Strona wzywająca wniosła o przekazanie oryginałów, które powinny być wówczas przekazane przez Stronę wezwaną.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Strona wezwana może odroczyć przekazanie żądanych protokołów, dokumentów lub przedmiotów, jeżeli są one niezbędne w związku z toczącym się na jej terytorium postępowaniem karnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_13/ust_4",
+     "text": "Oryginały protokołów lub dokumentów, przekazane w związku z wykonaniem wniosku o udzielenie pomocy prawnej, powinny być zwrócone przez Stronę wzywającą Stronie wezwanej możliwie najszybciej, o ile ta ostatnia tego zażąda.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Strona wezwana ponosi koszty związane z wykonaniem wniosku o udzielenie pomocy prawnej. Jednakże wynagrodzenie i inne koszty biegłych powstałe na terytorium Strony wezwanej ponosi Strona wzywająca.",
+   "children": [
     {
      "type": "text",
      "text": "produced in evidence, records or document, shall emanate from a court of law of the requesting Party and be addressed to a court of law of the requested Party. They shall be drawn up in the language of the requesting Party and be accompanied by a translation into the language of the requested Party."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Letters rogatory referred to in paragraph 1 of this Article shall contain:",
-   "children": [
+    },
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "the name of the court of law making the request;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Letters rogatory referred to in paragraph 1 of this Article shall contain:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_2/lit_a",
+       "text": "the name of the court of law making the request;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_2/lit_b",
+       "text": "the name, address and citizenship of the person concerned;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_14/ust_2/lit_c",
+       "text": "adescription of the offence and a summary of the facts of the case and of the applicable law;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_14/ust_2/lit_d",
+       "text": "the object of and reasons for the request and, where appropriate, questions to be put at a hearing.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 12"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Letters rogatory shall be executed promptly by the requested Party according to its law or in a manner demanded by the requesting Party if not contrary to the law of the requested Party.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "the name, address and citizenship of the person concerned;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "If the person concerned cannot be found at the address indicated, the requested Party shall endeavour to ascertain his whereabouts.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "adescription of the offence and a summary of the facts of the case and of the applicable law;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "the object of and reasons for the request and, where appropriate, questions to be put at a hearing.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "If the letters rogatory cannot be executed, the requested Party shall inform the requesting Party accordingly, stating the reasons.",
      "children": [
       {
        "type": "text",
-       "text": "Article 12"
+       "text": "Article 13"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "The requested Party shall inform the requesting Party of the date and place of execution of the letters rogatory, ifthe requesting Party so demands.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "The requested Party may transmit certified copies of records or documents requested, unless the requesting Party expressly requests the transmisson of originals, in which case the requested Party shall endeavour to comply with the request.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "The requested Party may delay the handing over of records, documents or objects requested, if they are required in connection with pending criminal proceedings in its territory.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Original records or documents, handed over in execution of letters rogatory, shall be returned by the requesting Party to the requested Party as soon as possible, if the latter Party so demands.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "The requested Party shall bear the costs connected with the execution of letters rogatory. However, remuneration and other costs incurred by the attendance of experts in the territory of the requested Party shall be refunded by the requesting Party."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ROZDZIAE IV Postępowanie przygotowawcze"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Letters rogatory shall be executed promptly by the requested Party according to its law or in a manner demanded by the requesting Party if not contrary to the law of the requested Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "If the person concerned cannot be found at the address indicated, the requested Party shall endeavour to ascertain his whereabouts.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "If the letters rogatory cannot be executed, the requested Party shall inform the requesting Party accordingly, stating the reasons.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Wnioski o udzielenie pomocy prawnej w toku postępowania przygotowawczego mogą pochodzić od prokuratora Strony wzywającej i być kierowane do prokuratora Strony wezwanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Do wniosku określonego w ustępie 1 stosuje się odpowiednio postanowienia rozdziału III.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Przy wykonywaniu wniosków o przesłuchanie świadków, biegłych lub osób podejrzanych, zgodnie z niniejszym artykułem, mogą być stosowane środki przymusu, jeżeli są one przewidziane przez prawo Strony wezwanej.",
+     "children": []
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The requested Party shall inform the requesting Party of the date and place of execution of the letters rogatory, ifthe requesting Party so demands.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The requested Party may transmit certified copies of records or documents requested, unless the requesting Party expressly requests the transmisson of originals, in which case the requested Party shall endeavour to comply with the request.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The requested Party may delay the handing over of records, documents or objects requested, if they are required in connection with pending criminal proceedings in its territory.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Original records or documents, handed over in execution of letters rogatory, shall be returned by the requesting Party to the requested Party as soon as possible, if the latter Party so demands.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 14"
-    },
-    {
-     "type": "text",
-     "text": "The requested Party shall bear the costs connected with the execution of letters rogatory. However, remuneration and other costs incurred by the attendance of experts in the territory of the requested Party shall be refunded by the requesting Party."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ROZDZIAE IV Postępowanie przygotowawcze"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wnioski o udzielenie pomocy prawnej w toku postępowania przygotowawczego mogą pochodzić od prokuratora Strony wzywającej i być kierowane do prokuratora Strony wezwanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do wniosku określonego w ustępie 1 stosuje się odpowiednio postanowienia rozdziału III.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Przy wykonywaniu wniosków o przesłuchanie świadków, biegłych lub osób podejrzanych, zgodnie z niniejszym artykułem, mogą być stosowane środki przymusu, jeżeli są one przewidziane przez prawo Strony wezwanej.",
-   "children": []
+   ],
+   "label": "Artykuł 15"
   },
   {
    "type": "heading",
@@ -874,84 +915,93 @@
    "text": "Przekazanie ścigania"
   },
   {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron może wnosić, zgodnie ze swoim prawem, o wszczęcie postępowania karnego na terytorium drugiej Strony za przestępstwo popełnione na terytorium Strony wzywającej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona wezwana stosuje swoje prawo do wykonania wniosków o przekazanie ścigania.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 17"
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Każda z Umawiających się Stron może wnosić, zgodnie ze swoim prawem, o wszczęcie postępowania karnego na terytorium drugiej Strony za przestępstwo popełnione na terytorium Strony wzywającej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Strona wezwana stosuje swoje prawo do wykonania wniosków o przekazanie ścigania.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wniosek o przekazanie ścigania powinien zawierać:",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "nazwę organu, który go sporządził,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Wniosek o przekazanie ścigania powinien zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_17/ust_1/lit_a",
+       "text": "nazwę organu, który go sporządził,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_17/ust_1/lit_b",
+       "text": "imię i nazwisko, miejsce zamieszkania i obywatelstwo osoby, której dotyczy wniosek,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_17/ust_1/lit_c",
+       "text": "opis czynu przestępnego i stanu faktycznego sprawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_17/ust_1/lit_d",
+       "text": "przepisy ustawy karnej mającej zastosowanie do popełnionego przestępstwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Wniosek powinien być sporządzony w języku Strony wzywającej i być przekazany wraz z tłumaczeniem na język Strony wezwanej.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "imię i nazwisko, miejsce zamieszkania i obywatelstwo osoby, której dotyczy wniosek,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Do wniosku o przekazanie ścigania powinny być dołączone wszelkie stosowne dowody.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "opis czynu przestępnego i stanu faktycznego sprawy,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "przepisy ustawy karnej mającej zastosowanie do popełnionego przestępstwa.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_17/ust_4",
+     "text": "Strona wezwana zawiadamia Stronę wzywającą o sposobie załatwienia wniosku o przekazanie ścigania i przesyła jej odpis prawomocnego orzeczenia.",
      "children": []
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wniosek powinien być sporządzony w języku Strony wzywającej i być przekazany wraz z tłumaczeniem na język Strony wezwanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Do wniosku o przekazanie ścigania powinny być dołączone wszelkie stosowne dowody.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Strona wezwana zawiadamia Stronę wzywającą o sposobie załatwienia wniosku o przekazanie ścigania i przesyła jej odpis prawomocnego orzeczenia.",
-   "children": []
+   ],
+   "label": "Artykuł 17"
   },
   {
    "type": "heading",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/158",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 lutego 1997 r. w sprawie ulg we wpłatach z zysku przedsiębiorstw państwowych oraz jednoosobowych spółek Skarbu Państwa wykonujących zadania na potrzeby obronności i bezpieczeństwa państwa.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/158/text.pdf",
  "body": [
   {
@@ -440,187 +440,186 @@
      "children": []
     },
     {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
+     "type": "ust",
+     "num": "50",
+     "path": "ust_50",
      "text": "Fabryka Maszyn Budowlanych FAMABA w Głogowie '",
      "children": []
     },
     {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
+     "type": "ust",
+     "num": "51",
+     "path": "ust_51",
      "text": "Huta im. T. Sendzimira w Krakowie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
      "text": "Warszawskie Zakłady Mechaniczne PZŁ—WZM w Warszawie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "53",
+     "path": "ust_53",
      "text": "Przedsiębiorstwo Produkcyjno-Handlowe UNIME- TAL w Złotowie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "54",
+     "path": "ust_54",
      "text": "Przedsiębiorstwo Budowy Maszyn Drogowych MĄDRO w Pabianicach",
      "children": []
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "55",
+     "path": "ust_55",
      "text": "Fabryka Obrabiarek do Drewna w Bydgoszczy",
      "children": []
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
      "text": "Zakiady Sprzętu Mechanicznego PZŁ—ZSM w Piotrkowie Trybunalskim",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "57",
+     "path": "ust_57",
      "text": "Wytwórnia Filtrów PZŁ—SĘDZISZÓW w Sędziszowie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "58",
+     "path": "ust_58",
      "text": "Przedsiębiorstwo Produkcji Maszyn i Urządzeń Pralniczych DEMET—WUTECH w Debrznie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "59",
+     "path": "ust_59",
      "text": "Centrum Naukowo-Produkcyjne Podzespołów i Urządzeń Elektronicznych U NITRA-DOLAM we Wrocławiu",
-     "children": [
-      {
-       "type": "ust",
-       "num": "60",
-       "path": "par_9/ust_60",
-       "text": "Wytwórnia Sprzętu Komunikacyjnego PZŁ—GO- RZYCE w Gorzycach",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "61",
-       "path": "par_9/ust_61",
-       "text": "Fabryka Sprzętu Ratunkowego i Lamp Górniczych FASER w Tarnowskich Górach",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "62",
-       "path": "par_9/ust_62",
-       "text": "Gdańska Stocznia Remontowa im. Piłsudskiego w Gdańsku",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "63",
-       "path": "par_9/ust_63",
-       "text": "Fabryka Maszyn Budowlanych BUMAR—MRĄGO- WO w Mrągowie",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "64",
-       "path": "par_9/ust_64",
-       "text": "Zakłady Elektromaszynowe CELMA SA w Cieszynie",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "65",
-       "path": "par_9/ust_65",
-       "text": "Gliwickie Przedsiębiorstwo Urządzeń Transportowych ZREMB SA w Gliwicach",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "66",
-       "path": "par_9/ust_66",
-       "text": "Fabryka Samochodów Specjalizowanych SHL SA w Kielcach",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "67",
-       "path": "par_9/ust_67",
-       "text": "Fabryka Łożysk Tocznych ISKRA SA w Kielcach",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "68",
-       "path": "par_9/ust_68",
-       "text": "Fabryka Okładzin Ciernych FOMAR SA w Markach k. Warszawy",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "69",
-       "path": "par_9/ust_69",
-       "text": "Fabryka Kabli OŻARÓW SA w Ożarowie Mazowieckim",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "70",
-       "path": "par_9/ust_70",
-       "text": "TECHMA—OSTRZESZÓW SA w Ostrzeszowie",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "71",
-       "path": "par_9/ust_71",
-       "text": "Morska Stocznia Remontowa SA w Świnoujściu",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "72",
-       "path": "par_9/ust_72",
-       "text": "H. CEGIELSKI-POZNAŃ SA w Poznaniu",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "73",
-       "path": "par_9/ust_73",
-       "text": "Reszelski Zakiad Przemysłu Maszynowego REMA SA w Reszlu",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "74",
-       "path": "par_9/ust_74",
-       "text": "Zakłady Wytwórcze Maszyn Elektrycznych i Transportowych EMIT SA w Żychlinie",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "75",
-       "path": "par_9/ust_75",
-       "text": "Zakłady Chemiczne ORGANIKA—SARZYNA w Nowej Sarzynie",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "Wytwórnia Sprzętu Komunikacyjnego PZŁ—GO- RZYCE w Gorzycach",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "61",
+     "path": "ust_61",
+     "text": "Fabryka Sprzętu Ratunkowego i Lamp Górniczych FASER w Tarnowskich Górach",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "62",
+     "path": "ust_62",
+     "text": "Gdańska Stocznia Remontowa im. Piłsudskiego w Gdańsku",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "63",
+     "path": "ust_63",
+     "text": "Fabryka Maszyn Budowlanych BUMAR—MRĄGO- WO w Mrągowie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "64",
+     "path": "ust_64",
+     "text": "Zakłady Elektromaszynowe CELMA SA w Cieszynie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "65",
+     "path": "ust_65",
+     "text": "Gliwickie Przedsiębiorstwo Urządzeń Transportowych ZREMB SA w Gliwicach",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "66",
+     "path": "ust_66",
+     "text": "Fabryka Samochodów Specjalizowanych SHL SA w Kielcach",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "67",
+     "path": "ust_67",
+     "text": "Fabryka Łożysk Tocznych ISKRA SA w Kielcach",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "68",
+     "path": "ust_68",
+     "text": "Fabryka Okładzin Ciernych FOMAR SA w Markach k. Warszawy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "69",
+     "path": "ust_69",
+     "text": "Fabryka Kabli OŻARÓW SA w Ożarowie Mazowieckim",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "70",
+     "path": "ust_70",
+     "text": "TECHMA—OSTRZESZÓW SA w Ostrzeszowie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "71",
+     "path": "ust_71",
+     "text": "Morska Stocznia Remontowa SA w Świnoujściu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "72",
+     "path": "ust_72",
+     "text": "H. CEGIELSKI-POZNAŃ SA w Poznaniu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "73",
+     "path": "ust_73",
+     "text": "Reszelski Zakiad Przemysłu Maszynowego REMA SA w Reszlu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "74",
+     "path": "ust_74",
+     "text": "Zakłady Wytwórcze Maszyn Elektrycznych i Transportowych EMIT SA w Żychlinie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "75",
+     "path": "ust_75",
+     "text": "Zakłady Chemiczne ORGANIKA—SARZYNA w Nowej Sarzynie",
+     "children": []
     }
    ]
   }

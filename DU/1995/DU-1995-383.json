@@ -93,667 +93,699 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony ustanawiają współpracę w dziedzinie edukacji i kształcenia, w szczególności w zakresie współpracy i wymiany uniwersyteckiej w ramach realizacji programu CEEPUS. Działania przewidziane w programie CEEPUS są wymienione w załączniku I, który stanowi integralną część niniejszego porozumienia."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszego porozumienia określenia ,uniwersytet” i „uniwersytety” oznaczają wszystkie rodzaje instytucji edukacji i kształcenia na poziomie pomaturalnym, które zapewniają odpowiednie do poziomu kształcenia kwalifikacje i dyplomy, niezależnie od tego, jak instytucje te są nazywane w Umawiających się Stronach.",
-   "children": []
+   "path": "art_1",
+   "text": "Umawiające się Strony ustanawiają współpracę w dziedzinie edukacji i kształcenia, w szczególności w zakresie współpracy i wymiany uniwersyteckiej w ramach realizacji programu CEEPUS. Działania przewidziane w programie CEEPUS są wymienione w załączniku I, który stanowi integralną część niniejszego porozumienia.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "W rozumieniu niniejszego porozumienia określenie „rok akademicki” oznacza okres od dnia 1 września do dnia 31 sierpnia.",
-   "children": []
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "W rozumieniu niniejszego porozumienia określenia ,uniwersytet” i „uniwersytety” oznaczają wszystkie rodzaje instytucji edukacji i kształcenia na poziomie pomaturalnym, które zapewniają odpowiednie do poziomu kształcenia kwalifikacje i dyplomy, niezależnie od tego, jak instytucje te są nazywane w Umawiających się Stronach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "W rozumieniu niniejszego porozumienia określenie „rok akademicki” oznacza okres od dnia 1 września do dnia 31 sierpnia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Studenci pobierający naukę w takich uniwersytetach, niezależnie od kierunku studiów, mogą ubiegać się o pomoc w ramach programu CEEPUS do stopnia doktora lub poziomu kształcenia podyplomowego włącznie, pod warunkiem że okres studiów lub kształcenia zawodowego, realizowany zgodnie z niniejszym porozumieniem w uniwersytecie lub w instytucji przyjmującej i odpowiadający programowi nauczania w macierzystym uniwersytecie studenta, stanowi część jego/jej programu naukowego i/lub kształcenia zawodowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto program CEEPUS wspiera wymianę kadry dydaktycznej szkolnictwa wyższego w celu promowania ponadnarodowej współpracy międzyuniwersyteckiej i wzmocnienia środkowoeuropejskiego zakresu uniwersyteckich programów nauczania."
+      },
+      {
+       "type": "text",
+       "text": "Program CEEPUS nie obejmuje działalności związanej z badaniami i rozwojem technologicznym."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Studenci pobierający naukę w takich uniwersytetach, niezależnie od kierunku studiów, mogą ubiegać się o pomoc w ramach programu CEEPUS do stopnia doktora lub poziomu kształcenia podyplomowego włącznie, pod warunkiem że okres studiów lub kształcenia zawodowego, realizowany zgodnie z niniejszym porozumieniem w uniwersytecie lub w instytucji przyjmującej i odpowiadający programowi nauczania w macierzystym uniwersytecie studenta, stanowi część jego/jej programu naukowego i/lub kształcenia zawodowego.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Ponadto program CEEPUS wspiera wymianę kadry dydaktycznej szkolnictwa wyższego w celu promowania ponadnarodowej współpracy międzyuniwersyteckiej i wzmocnienia środkowoeuropejskiego zakresu uniwersyteckich programów nauczania."
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Niniejszym tworzy się Wspólny Komitet Ministrów, z których każdy jest przedstawicielem jednej z Umawiających się Stron. Wspólny Komitet Ministrów jest odpowiedzialny:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(i) za wszystkie kroki i decyzje niezbędne do zapewnienia realizacji i promocji programu CEEPUS oraz"
+      },
+      {
+       "type": "text",
+       "text": "(ii) za zatwierdzanie sprawozdań z oceny programu i wprowadzanie do niego zmian."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Program CEEPUS nie obejmuje działalności związanej z badaniami i rozwojem technologicznym."
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Wspólny Komitet Ministrów zbiera się co najmniej raz w roku. Ministrów, którzy nie mogą osobiście uczestniczyć w posiedzeniu, reprezentują ich wysocy funkcjonariusze. Wspólny Komitet Ministrów może powołać zespół wy-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "Cooperation between the Contracting Parties shall be established in the field of eduction and training, in particular inter-university cooperation and mobility in the context of the implementation of CEEPUS. The actions of the CE- EPUS programme are set out in Annex I which forms an integral part of the present Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "(1) For the purposes of the Agreement, the terms \"University” and „Universities” mean all types of post-secondary education and training establishments which offer qualifications or diplomas of that level, whatever such establishments may be called in the Contracting Parties."
+      },
+      {
+       "type": "text",
+       "text": "(2) For the purpose of this Agreement, the term „academic year” means the period of time from September 15t until August 313."
+      },
+      {
+       "type": "text",
+       "text": "(3) Students registered at such Universities, regardless of the field of study, are eligible for support within the CE- EPUS programme, up to and including doctoral or post graduate level, provided that the period of study or vocational training carried out in accordance with the present Agreement at a host University or a host establishment, which is compatible with the curriculum at the student’s home University, forms part of his or her scientific and/or vocational training."
+      },
+      {
+       "type": "text",
+       "text": "Furthermore, the CEEPUS programme shall support the mobility of teaching staff of higher education establishments to promote transnational inter-university cooperation and to enhance the Central European dimension of university curricula."
+      },
+      {
+       "type": "text",
+       "text": "The CEEPUS programme shall not cover research and technological development activities."
+      },
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "(1) A Joint Committee of Ministers, each of them representing one of the Contracting Parties, is hereby established. The Joint Committee of Ministers shall be responsible:"
+      },
+      {
+       "type": "text",
+       "text": "(i) for all steps and decisions necessary to ensure the implementation and promotion of the CEEPUS programme and"
+      },
+      {
+       "type": "text",
+       "text": "(ii) for the approval of evaluation reports and the restructuring of the programme."
+      },
+      {
+       "type": "text",
+       "text": "(2) The Joint Committee of Ministers shall meet at least once a year. Ministers unable to attend a meeting shall be represented by their high officials. The Joint Committee of Ministers may establish a panel of their high officials to de-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "sokich funkcjonariuszy do podejmowania decyzji w sprawach uzgodnionych przez Wspólny Komitet."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Wspólny Komitet Ministrów wybiera jednego spośród swych członków na przewodniczącego Komitetu na okres jednego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Wspólny Komitet Ministrów będzie się starał podejmować w drodze konsensusu wszystkie decyzje mające na celu realizację i promocję programu określonego w załączniku I. W braku możliwości osiągnięcia konsensusu, w danej sprawie zostanie podjęta decyzja większością dwóch trzecich głosów członków Komitetu obecnych i głosujących.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_3/ust_5",
+     "text": "Każda z Umawiających się Stron zapewni limit wymiany jako swój wkład do rocznego budżetu wszystkich Umawiających się Stron, to jest liczbę miesięcy stypendialnych na rok akademicki, przeznaczonych na działania określone w załączniku 1. Wspólny Komitet podejmuje ostateczną, jednomyślną decyzję dotyczącą wszystkich zobowiązań.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszym tworzy się Wspólny Komitet Ministrów, z których każdy jest przedstawicielem jednej z Umawiających się Stron. Wspólny Komitet Ministrów jest odpowiedzialny:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(i) za wszystkie kroki i decyzje niezbędne do zapewnienia realizacji i promocji programu CEEPUS oraz"
-    },
-    {
-     "type": "text",
-     "text": "(ii) za zatwierdzanie sprawozdań z oceny programu i wprowadzanie do niego zmian."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wspólny Komitet Ministrów zbiera się co najmniej raz w roku. Ministrów, którzy nie mogą osobiście uczestniczyć w posiedzeniu, reprezentują ich wysocy funkcjonariusze. Wspólny Komitet Ministrów może powołać zespół wy-",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "Cooperation between the Contracting Parties shall be established in the field of eduction and training, in particular inter-university cooperation and mobility in the context of the implementation of CEEPUS. The actions of the CE- EPUS programme are set out in Annex I which forms an integral part of the present Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Article 2"
-    },
-    {
-     "type": "text",
-     "text": "(1) For the purposes of the Agreement, the terms \"University” and „Universities” mean all types of post-secondary education and training establishments which offer qualifications or diplomas of that level, whatever such establishments may be called in the Contracting Parties."
-    },
-    {
-     "type": "text",
-     "text": "(2) For the purpose of this Agreement, the term „academic year” means the period of time from September 15t until August 313."
-    },
-    {
-     "type": "text",
-     "text": "(3) Students registered at such Universities, regardless of the field of study, are eligible for support within the CE- EPUS programme, up to and including doctoral or post graduate level, provided that the period of study or vocational training carried out in accordance with the present Agreement at a host University or a host establishment, which is compatible with the curriculum at the student’s home University, forms part of his or her scientific and/or vocational training."
-    },
-    {
-     "type": "text",
-     "text": "Furthermore, the CEEPUS programme shall support the mobility of teaching staff of higher education establishments to promote transnational inter-university cooperation and to enhance the Central European dimension of university curricula."
-    },
-    {
-     "type": "text",
-     "text": "The CEEPUS programme shall not cover research and technological development activities."
-    },
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "(1) A Joint Committee of Ministers, each of them representing one of the Contracting Parties, is hereby established. The Joint Committee of Ministers shall be responsible:"
-    },
-    {
-     "type": "text",
-     "text": "(i) for all steps and decisions necessary to ensure the implementation and promotion of the CEEPUS programme and"
-    },
-    {
-     "type": "text",
-     "text": "(ii) for the approval of evaluation reports and the restructuring of the programme."
-    },
-    {
-     "type": "text",
-     "text": "(2) The Joint Committee of Ministers shall meet at least once a year. Ministers unable to attend a meeting shall be represented by their high officials. The Joint Committee of Ministers may establish a panel of their high officials to de-"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "sokich funkcjonariuszy do podejmowania decyzji w sprawach uzgodnionych przez Wspólny Komitet."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wspólny Komitet Ministrów wybiera jednego spośród swych członków na przewodniczącego Komitetu na okres jednego roku.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Wspólny Komitet Ministrów będzie się starał podejmować w drodze konsensusu wszystkie decyzje mające na celu realizację i promocję programu określonego w załączniku I. W braku możliwości osiągnięcia konsensusu, w danej sprawie zostanie podjęta decyzja większością dwóch trzecich głosów członków Komitetu obecnych i głosujących.",
-   "children": []
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Wszystkie decyzje dotyczące selekcji projektów określonych w załączniku I (działania 1—4) są podejmowane przez Wspólny Komitet Ministrów lub zespół wysokich funkcjonariuszy, określony w artykule 3. W procesie selekcji będą konsultowani przedstawiciele środowiska akademickiego lub inni eksperci.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Po wejściu w życie niniejszego porozumienia każda z Umawiających się Stron powoła — i poinformuje o tym Wspólny Komitet Ministrów — Krajowe Biuro Programu CE- EPUS, zajmujące się:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— prowadzeniem reklamy w celu promocji programu w ścisłej współpracy z Centralnym Biurem Programu CE- EPUS i innymi krajowymi biurami programu CEEPUS;"
+      },
+      {
+       "type": "text",
+       "text": "— przyjmowaniem wniosków;"
+      },
+      {
+       "type": "text",
+       "text": "— selekcją i kwalifikacją ubiegających się o stypendium;"
+      },
+      {
+       "type": "text",
+       "text": "— zapewnieniem stypendystom miejsc odbywania studiów;"
+      },
+      {
+       "type": "text",
+       "text": "— przyznawaniem stypendiów (zgodnie z załącznikiem I, działanie 5);"
+      },
+      {
+       "type": "text",
+       "text": "— organizowaniem wypłaty stypendiów;"
+      },
+      {
+       "type": "text",
+       "text": "— przyjmowaniem sprawozdań;"
+      },
+      {
+       "type": "text",
+       "text": "— przeprowadzaniem krajowej oceny programu;"
+      },
+      {
+       "type": "text",
+       "text": "— sporządzaniem corocznych sprawozdań."
+      },
+      {
+       "type": "text",
+       "text": "cide on those issues which the Joint Committee has agreed upon."
+      },
+      {
+       "type": "text",
+       "text": "(3) The Joint Committee of Ministers shall elect one if its members to act as chairman of the Committee for a period of one year."
+      },
+      {
+       "type": "text",
+       "text": "(4) The Joint Committee shall make every effort to reach agreement by consensus regarding all decisions to ensure the implementation and promotion of the programme as described in Annex I. Should consensus not be attainable, the matter shall be subject to decision by two-thirds majority of the Committee members present and voting."
+      },
+      {
+       "type": "text",
+       "text": "(5) Concerning the annual budget of all Contracting Parties and their exchange quotas, i.e. the number of scholarship months per academic year to facilitate the actions described in Annex | each Contracting Party shall make a pledge. The Joint Committee takes a final unanimous overall decision on all pledges."
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "(1) All decisions concerning the selection of projects described in Annex I (Actions 1-4) shall be made by the Joint Committee of Ministers, or by a panel of high officials, as described in Article 3. Academics or other experts shall be consulted to support the selection process."
+      },
+      {
+       "type": "text",
+       "text": "(2) After entry into force of the present agreement, each Contracting Party shall nominate a national CEEPUS office with the following responsibilities and notify the Joint Committee thereof:"
+      },
+      {
+       "type": "text",
+       "text": "— advertising in order to promote the programme in close cooperation with the Central CEEPUS Office and the other national CEEPUS offices;"
+      },
+      {
+       "type": "text",
+       "text": "— receipt of applications;"
+      },
+      {
+       "type": "text",
+       "text": "— preparation of the awarding of scholarships to applicants;"
+      },
+      {
+       "type": "text",
+       "text": "— securing of a place to study for incoming scholarship holders;"
+      },
+      {
+       "type": "text",
+       "text": "— awarding scholarships (as described in Annex | under Action 5);"
+      },
+      {
+       "type": "text",
+       "text": "— organizing scholarship payment;"
+      },
+      {
+       "type": "text",
+       "text": "— receipt of reports;"
+      },
+      {
+       "type": "text",
+       "text": "— carrying out national evaluation of the programme;"
+      },
+      {
+       "type": "text",
+       "text": "— annual reports."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Każda z Umawiających się Stron zapewni limit wymiany jako swój wkład do rocznego budżetu wszystkich Umawiających się Stron, to jest liczbę miesięcy stypendialnych na rok akademicki, przeznaczonych na działania określone w załączniku 1. Wspólny Komitet podejmuje ostateczną, jednomyślną decyzję dotyczącą wszystkich zobowiązań.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Centralne Biuro Programu CEEPUS mieści się w Wiedniu. Centralne Biuro Programu CEEPUS posiada osobowość prawną, niezbędną do wykonywania jego funkcji. Centralne Biuro Programu CEEPUS, jego pracownicy oraz przedstawiciele Umawiających się Stron w Centralnym Biurze Programu CEEPUS korzystają z takich przywilejów i immunitetów, jakie są niezbędne do wykonywania ich funkcji. ,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Sekretarz Generalny Centralnego Biura Programu CEEPUS jest wybierany większością dwóch trzecich głosów członków Wspólnego Komitetu na pięcioletnią kadencję, na wniosek zgłoszony przez Republikę Austrii. Sekretarz Generalny może być odwołany przed końcem kadencji na podstawie jednomyślnej decyzji Wspólnego Komitetu Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Niezbędna do funkcjonowania Centralnego Biura Programu CEEPUS infrastruktura, w tym płace Sekretarza Generalnego i pracowników, są finansowane przez Republikę Austrii. Każda z Umawiających się Stron może delegować dodatkowych pracowników na koszt własny.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sekretarz Generalny ustala zasady funkcjonowania Centralnego Biura Programu CEEPUS i powiadamia o powyższym Wspólny Komitet."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Centralne Biuro Programu CEEPUS spetnia wyłącznie zadania koordynacji i oceny, Umawiające się Strony zaś zachowują pełną kontrolę nad krajowymi budżetami przeznaczonymi na wymianę osobową i działania z tym związane, określone w załączniku I.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Ponadto Centralne Biuro Programu CEEPUS:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— odpowiada za rozwijanie wspólnej strategii kontaktów międzyuczelnianych na rzecz programu i doradza Umawiającym się Stronom w zakresie zagadnień informacyjnych;"
+      },
+      {
+       "type": "text",
+       "text": "— publikuje informacje o uniwersytetach Umawiających się Stron w celu promowania wymiany akademickiej pomiędzy nimi;"
+      },
+      {
+       "type": "text",
+       "text": "— ponosi odpowiedzialność za przygotowanie corocznego sprawozdania o dokonanych postępach i przeprowadza wszechstronną ocenę programu CEEPUS;"
+      },
+      {
+       "type": "text",
+       "text": "— przedstawia propozycje dotyczące dalszego rozwoju programu;"
+      },
+      {
+       "type": "text",
+       "text": "— odpowiada za przygotowanie i organizację, jak również za sporządzanie protokołów posiedzeń Wspólnego Komitetu Ministrów;"
+      },
+      {
+       "type": "text",
+       "text": "— na życzenie wspiera realizację decyzji podjętych przez Wspólny Komitet."
+      },
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "(1) A Central CEEPUS Office shall be established in Vienna. The Central CEEPUS Office shall have such legal capacity as may be necessary for the exercise of its functions. The Central CEEPUS Office, its staff and representatives of the Contracting Parties to the Central CEEPUS Office shall enjoy such privileges and immunities as are necessary for their functions."
+      },
+      {
+       "type": "text",
+       "text": "(2) The Secretary General of the Central CEEPUS office shall be elected by a two thirds majority of the Joint Committee for a period of five years upon proposition by the Republic of Austria. The Secretary General may be recalled before the end of his/her term by unanimous decision of the Joint Committee of Ministers."
+      },
+      {
+       "type": "text",
+       "text": "(3) The necessary infrastructure, including the salaries of the Secretary General and the staff, of the Central CE- EPUS Office shall be financed by the Republic of Austria. Each Contracting Party is entitled to dispatch additional staff to the office at their own expense."
+      },
+      {
+       "type": "text",
+       "text": "The Secretary General shall lay down the rules of procedure of the Central CEEPUS Office and notify the Joint Commiittee thereof."
+      },
+      {
+       "type": "text",
+       "text": "(4) The Central CEEPUS office shall serve solely as a coordinating and evaluating facility, whereas the Contracting Parties shall retain full power over their national budget designated for mobility and exchange actions described in Annex |."
+      },
+      {
+       "type": "text",
+       "text": "(5) The Central CEEPUS Office shall furthermore:"
+      },
+      {
+       "type": "text",
+       "text": "— be responsible for the development of a joint public relations strategy for the programme and advise the Contracting Parties on informative issues;"
+      },
+      {
+       "type": "text",
+       "text": "— publish information on the Contracting Parties’ Universities in order to promote academic mobility among them;"
+      },
+      {
+       "type": "text",
+       "text": "— take over responsibility for the preparation of an annual progress report and carry out the overall evaluation of the CEEPUS programme; |"
+      },
+      {
+       "type": "text",
+       "text": "— submit proposals for further programme development;"
+      },
+      {
+       "type": "text",
+       "text": "— be responsible for preparation and organisation as well as keeping the minutes of the meetings of the Joint Comittee of Ministers;"
+      },
+      {
+       "type": "text",
+       "text": "— upon request support the implementation of the decisions agreed upon by the Joint Committee."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszystkie decyzje dotyczące selekcji projektów określonych w załączniku I (działania 1—4) są podejmowane przez Wspólny Komitet Ministrów lub zespół wysokich funkcjonariuszy, określony w artykule 3. W procesie selekcji będą konsultowani przedstawiciele środowiska akademickiego lub inni eksperci.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Po wejściu w życie niniejszego porozumienia każda z Umawiających się Stron powoła — i poinformuje o tym Wspólny Komitet Ministrów — Krajowe Biuro Programu CE- EPUS, zajmujące się:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— prowadzeniem reklamy w celu promocji programu w ścisłej współpracy z Centralnym Biurem Programu CE- EPUS i innymi krajowymi biurami programu CEEPUS;"
-    },
-    {
-     "type": "text",
-     "text": "— przyjmowaniem wniosków;"
-    },
-    {
-     "type": "text",
-     "text": "— selekcją i kwalifikacją ubiegających się o stypendium;"
-    },
-    {
-     "type": "text",
-     "text": "— zapewnieniem stypendystom miejsc odbywania studiów;"
-    },
-    {
-     "type": "text",
-     "text": "— przyznawaniem stypendiów (zgodnie z załącznikiem I, działanie 5);"
-    },
-    {
-     "type": "text",
-     "text": "— organizowaniem wypłaty stypendiów;"
-    },
-    {
-     "type": "text",
-     "text": "— przyjmowaniem sprawozdań;"
-    },
-    {
-     "type": "text",
-     "text": "— przeprowadzaniem krajowej oceny programu;"
-    },
-    {
-     "type": "text",
-     "text": "— sporządzaniem corocznych sprawozdań."
-    },
-    {
-     "type": "text",
-     "text": "cide on those issues which the Joint Committee has agreed upon."
-    },
-    {
-     "type": "text",
-     "text": "(3) The Joint Committee of Ministers shall elect one if its members to act as chairman of the Committee for a period of one year."
-    },
-    {
-     "type": "text",
-     "text": "(4) The Joint Committee shall make every effort to reach agreement by consensus regarding all decisions to ensure the implementation and promotion of the programme as described in Annex I. Should consensus not be attainable, the matter shall be subject to decision by two-thirds majority of the Committee members present and voting."
-    },
-    {
-     "type": "text",
-     "text": "(5) Concerning the annual budget of all Contracting Parties and their exchange quotas, i.e. the number of scholarship months per academic year to facilitate the actions described in Annex | each Contracting Party shall make a pledge. The Joint Committee takes a final unanimous overall decision on all pledges."
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "(1) All decisions concerning the selection of projects described in Annex I (Actions 1-4) shall be made by the Joint Committee of Ministers, or by a panel of high officials, as described in Article 3. Academics or other experts shall be consulted to support the selection process."
-    },
-    {
-     "type": "text",
-     "text": "(2) After entry into force of the present agreement, each Contracting Party shall nominate a national CEEPUS office with the following responsibilities and notify the Joint Committee thereof:"
-    },
-    {
-     "type": "text",
-     "text": "— advertising in order to promote the programme in close cooperation with the Central CEEPUS Office and the other national CEEPUS offices;"
-    },
-    {
-     "type": "text",
-     "text": "— receipt of applications;"
-    },
-    {
-     "type": "text",
-     "text": "— preparation of the awarding of scholarships to applicants;"
-    },
-    {
-     "type": "text",
-     "text": "— securing of a place to study for incoming scholarship holders;"
-    },
-    {
-     "type": "text",
-     "text": "— awarding scholarships (as described in Annex | under Action 5);"
-    },
-    {
-     "type": "text",
-     "text": "— organizing scholarship payment;"
-    },
-    {
-     "type": "text",
-     "text": "— receipt of reports;"
-    },
-    {
-     "type": "text",
-     "text": "— carrying out national evaluation of the programme;"
-    },
-    {
-     "type": "text",
-     "text": "— annual reports."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Centralne Biuro Programu CEEPUS mieści się w Wiedniu. Centralne Biuro Programu CEEPUS posiada osobowość prawną, niezbędną do wykonywania jego funkcji. Centralne Biuro Programu CEEPUS, jego pracownicy oraz przedstawiciele Umawiających się Stron w Centralnym Biurze Programu CEEPUS korzystają z takich przywilejów i immunitetów, jakie są niezbędne do wykonywania ich funkcji. ,",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sekretarz Generalny Centralnego Biura Programu CEEPUS jest wybierany większością dwóch trzecich głosów członków Wspólnego Komitetu na pięcioletnią kadencję, na wniosek zgłoszony przez Republikę Austrii. Sekretarz Generalny może być odwołany przed końcem kadencji na podstawie jednomyślnej decyzji Wspólnego Komitetu Ministrów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niezbędna do funkcjonowania Centralnego Biura Programu CEEPUS infrastruktura, w tym płace Sekretarza Generalnego i pracowników, są finansowane przez Republikę Austrii. Każda z Umawiających się Stron może delegować dodatkowych pracowników na koszt własny.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sekretarz Generalny ustala zasady funkcjonowania Centralnego Biura Programu CEEPUS i powiadamia o powyższym Wspólny Komitet."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Centralne Biuro Programu CEEPUS spetnia wyłącznie zadania koordynacji i oceny, Umawiające się Strony zaś zachowują pełną kontrolę nad krajowymi budżetami przeznaczonymi na wymianę osobową i działania z tym związane, określone w załączniku I.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Ponadto Centralne Biuro Programu CEEPUS:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— odpowiada za rozwijanie wspólnej strategii kontaktów międzyuczelnianych na rzecz programu i doradza Umawiającym się Stronom w zakresie zagadnień informacyjnych;"
-    },
-    {
-     "type": "text",
-     "text": "— publikuje informacje o uniwersytetach Umawiających się Stron w celu promowania wymiany akademickiej pomiędzy nimi;"
-    },
-    {
-     "type": "text",
-     "text": "— ponosi odpowiedzialność za przygotowanie corocznego sprawozdania o dokonanych postępach i przeprowadza wszechstronną ocenę programu CEEPUS;"
-    },
-    {
-     "type": "text",
-     "text": "— przedstawia propozycje dotyczące dalszego rozwoju programu;"
-    },
-    {
-     "type": "text",
-     "text": "— odpowiada za przygotowanie i organizację, jak również za sporządzanie protokołów posiedzeń Wspólnego Komitetu Ministrów;"
-    },
-    {
-     "type": "text",
-     "text": "— na życzenie wspiera realizację decyzji podjętych przez Wspólny Komitet."
-    },
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "(1) A Central CEEPUS Office shall be established in Vienna. The Central CEEPUS Office shall have such legal capacity as may be necessary for the exercise of its functions. The Central CEEPUS Office, its staff and representatives of the Contracting Parties to the Central CEEPUS Office shall enjoy such privileges and immunities as are necessary for their functions."
-    },
-    {
-     "type": "text",
-     "text": "(2) The Secretary General of the Central CEEPUS office shall be elected by a two thirds majority of the Joint Committee for a period of five years upon proposition by the Republic of Austria. The Secretary General may be recalled before the end of his/her term by unanimous decision of the Joint Committee of Ministers."
-    },
-    {
-     "type": "text",
-     "text": "(3) The necessary infrastructure, including the salaries of the Secretary General and the staff, of the Central CE- EPUS Office shall be financed by the Republic of Austria. Each Contracting Party is entitled to dispatch additional staff to the office at their own expense."
-    },
-    {
-     "type": "text",
-     "text": "The Secretary General shall lay down the rules of procedure of the Central CEEPUS Office and notify the Joint Commiittee thereof."
-    },
-    {
-     "type": "text",
-     "text": "(4) The Central CEEPUS office shall serve solely as a coordinating and evaluating facility, whereas the Contracting Parties shall retain full power over their national budget designated for mobility and exchange actions described in Annex |."
-    },
-    {
-     "type": "text",
-     "text": "(5) The Central CEEPUS Office shall furthermore:"
-    },
-    {
-     "type": "text",
-     "text": "— be responsible for the development of a joint public relations strategy for the programme and advise the Contracting Parties on informative issues;"
-    },
-    {
-     "type": "text",
-     "text": "— publish information on the Contracting Parties’ Universities in order to promote academic mobility among them;"
-    },
-    {
-     "type": "text",
-     "text": "— take over responsibility for the preparation of an annual progress report and carry out the overall evaluation of the CEEPUS programme; |"
-    },
-    {
-     "type": "text",
-     "text": "— submit proposals for further programme development;"
-    },
-    {
-     "type": "text",
-     "text": "— be responsible for preparation and organisation as well as keeping the minutes of the meetings of the Joint Comittee of Ministers;"
-    },
-    {
-     "type": "text",
-     "text": "— upon request support the implementation of the decisions agreed upon by the Joint Committee."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony podejmują wszelkie wysiłki, aby powstrzymać się od nakładania jakichkolwiek ograniczeń na swobodny ruch osobowy i na pobyt uczestników akcji wymiany, objętej niniejszym porozumienie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie pozostaje w mocy przez okres 5 lat. Może być ono przedłużone na dalszy okres za zgodą Umawiających się Stron. Przegląd funkcjonowania niniejszego porozumienia ma być zakończony przed upływem trzeciego roku akademickiego po jego wejściu w życie. Przegląd będzie się opierał na wszechstronnej ocenie programu CEEPUS.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda z Umawiających się Stron może w każdej chwili zwrócić się o rewizję porozumienia. W tym celu przedłoży ona pisemną prośbę przewodniczącemu Wspólnego Komitetu Ministrów i innym Umawiającym się Stronom. Wszystkie decyzje dotyczące rewizji niniejszego porozumienia będą podejmowane jednomyślnie przez Wspólny Komitet Ministrów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie jest otwarte do podpisania w Budapeszcie (Węgry) do dnia 8 grudnia 1993 r. przez Republikę Austrii, Republikę Bułgarii, Republikę Węgierską, Rzeczpospolitą Polską, Republikę Słowacką i Republikę Słowenii. Następnie będzie ono otwarte do przystąpienia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsze porozumienie oraz zmiany do niego podlegają przyjęciu przez Umawiające się Strony, a dokumenty przyjęcia będą składane w węgierskim Ministerstwie Edukacji i Kultury, które zwane jest w niniejszym porozumieniu „depozytariuszem”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsze porozumienie wchodzi w życie pierwszego dnia trzeciego miesiąca po złożeniu dokumentów przyjęcia co najmniej przez trzy Umawiające się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jakiekolwiek państwo nie wymienione w ustępie 1 może przystąpić do porozumienia na podstawie jednomyślnego zaproszenia wystosowanego przez Wspólny Komitet. Każde Państwo, które chce stać się jedną z Umawiających się Stron, może zawiadomić na piśmie depozytariusza o tym zamiarze.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Depozytariusz informuje wszystkie Umawiające się Strony o otrzymaniu jakiegokolwiek zawiadomienia, jak również dokumentu przyjęcia.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "6",
-   "path": "ust_6",
-   "text": "Pełne uczestnictwo państwa, które stało się Umawiającą się Stroną po wejściu w życie niniejszego porozumienia, w działaniach programu określonych w załączniku 1 następuje zgodnie z postanowieniami przyjętymi jednomyślnie przez Wspólny Komitet.",
+   "path": "art_6",
+   "text": "Umawiające się Strony podejmują wszelkie wysiłki, aby powstrzymać się od nakładania jakichkolwiek ograniczeń na swobodny ruch osobowy i na pobyt uczestników akcji wymiany, objętej niniejszym porozumienie.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Niniejsze porozumienie pozostaje w mocy przez okres 5 lat. Może być ono przedłużone na dalszy okres za zgodą Umawiających się Stron. Przegląd funkcjonowania niniejszego porozumienia ma być zakończony przed upływem trzeciego roku akademickiego po jego wejściu w życie. Przegląd będzie się opierał na wszechstronnej ocenie programu CEEPUS.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "The Contracting Parties shall make all efforts to abstain from any restrictions concerning the free movement and residence of individuals participating in mobility actions covered by the present Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "(1) The present Agreement shall remain in force for a period of five years. It may be renewed for a further period upon agreement of the Contracting Parties. A review of the present Agreement shall be completed before the end ofthe third academic year after entry into force. This review shall be based on an overall evaluation of the CEEPUS programme."
-    },
-    {
-     "type": "text",
-     "text": "(2) Either Contracting Party may at any time request a revision of the Agreement. For this purpose, it shall submit a written request to the chairman of the Joint Committee of Ministers and the other Contracting Parties. All decisions concerning the revision of the present Agreement shall be made by unanimous decision of the Joint Committee of Ministers."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "(1) The present Agreement shall be open for signature at Budapest, Hungary until December 8th, 1993 by the Republic of Austria, the Republic of Bulgaria, the Republic of Hungary, the Republic of Poland, the Slovak Republic and the Republic of Slovenia. It shall thereafter be open for accession."
-    },
-    {
-     "type": "text",
-     "text": "(2) This Agreement and revisions thereof shall be subject to approval by the Contracting Parties and the documents of approval shall be deposited with the Hungarian Ministry of Education and Culture, referred to in this Agreement as \"the Depositary”."
-    },
-    {
-     "type": "text",
-     "text": "(3) This Agreement shall enter into force upon the first day of the third month following the deposit of the documents of approval by not less than three Contracting Parties."
-    },
-    {
-     "type": "text",
-     "text": "(4) Any State not mentioned in para. 1 may accede thereto by unanimous invitation by the Joint Committee. Any State wishing to become a Contracting Party may notify the Depositary in writing of this intention."
-    },
-    {
-     "type": "text",
-     "text": "(5) The Depositary shall inform all Contracting Parties of all notifications and documents of approval received."
-    },
-    {
-     "type": "text",
-     "text": "(6) For any State which has become a Contracting Party after entry into force of the present Agreement full participation in programme activities as laid down in Annex I shall take place in accordance with the provisions unanimously decided upon by the Joint Committee."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Każda Umawiająca się Strona może w każdej chwili wystąpić z porozumienia, przesyłając depozytariuszowi zawiadomienie na piśmie. Każde takie wystąpienie wchodzi w życie po upływie co najmniej sześciu miesięcy od dnia otrzymania przez depozytariusza zawiadomienia o wystąpieniu; jednakże Wspólny Komitet może przedłużyć okres wymagany do wejścia w życie zgłoszonego wystąpienia na czas dłuższy niż 6 miesięcy, lecz krótszy niż 12 miesięcy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Każda z Umawiających się Stron może w każdej chwili zwrócić się o rewizję porozumienia. W tym celu przedłoży ona pisemną prośbę przewodniczącemu Wspólnego Komitetu Ministrów i innym Umawiającym się Stronom. Wszystkie decyzje dotyczące rewizji niniejszego porozumienia będą podejmowane jednomyślnie przez Wspólny Komitet Ministrów.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy spór między dwiema lub więcej Umawiającymi się Stronami albo którąkolwiek z nich a Centralnym Biurem Programu CEEPUS, dotyczący interpretacji lub stosowania niniejszego porozumienia albo załącznika do niego, który nie może być rozstrzygnięty przez Wspólny Komitet Ministrów, zostanie, na życzenie którejkolwiek ze stron w sporze, zgłoszony do arbitrażu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Trybunał arbitrażowy będzie się składał z trzech członków. Każda ze stron w sporze wyznaczy po jednym arbitrze; dwaj pierwsi arbitrzy wyznaczą trzeciego arbitra, który będzie przewodniczącym trybunału arbitrażowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Trybunał arbitrażowy ustanowi swą siedzibę i ustali własne zasady procedury.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Orzeczenie trybunatu arbitrażowego podejmowane jest większością głosów jego członków, z których żaden nie może wstrzymać się od głosowania. Orzeczenie trybunału jest ostateczne i wiążące dla wszystkich stron w sporze, bez prawa do odwołania. Strony zastosują się niezwłocznie do orzeczenia. W przypadku sporu co do treści lub zakresu orzeczenia trybunał dokonuje interpretacji decyzji na życzenie każdej ze stron w sporze.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Niniejsze porozumienie jest otwarte do podpisania w Budapeszcie (Węgry) do dnia 8 grudnia 1993 r. przez Republikę Austrii, Republikę Bułgarii, Republikę Węgierską, Rzeczpospolitą Polską, Republikę Słowacką i Republikę Słowenii. Następnie będzie ono otwarte do przystąpienia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Oryginał niniejszego porozumienia, którego tekst w języku angielskim jest autentyczny, będzie złożony u depozytariusza."
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Niniejsze porozumienie oraz zmiany do niego podlegają przyjęciu przez Umawiające się Strony, a dokumenty przyjęcia będą składane w węgierskim Ministerstwie Edukacji i Kultury, które zwane jest w niniejszym porozumieniu „depozytariuszem”.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Na dowód czego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejsze porozumienie."
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Niniejsze porozumienie wchodzi w życie pierwszego dnia trzeciego miesiąca po złożeniu dokumentów przyjęcia co najmniej przez trzy Umawiające się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sporządzono w Budapeszcie (Węgry) dnia ósmego grudnia tysiąc dziewięćset dziewięćdziesiątego trzeciego roku. CEEPUS: ZAŁĄCZNIK I"
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Jakiekolwiek państwo nie wymienione w ustępie 1 może przystąpić do porozumienia na podstawie jednomyślnego zaproszenia wystosowanego przez Wspólny Komitet. Każde Państwo, które chce stać się jedną z Umawiających się Stron, może zawiadomić na piśmie depozytariusza o tym zamiarze.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Działanie 1"
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Depozytariusz informuje wszystkie Umawiające się Strony o otrzymaniu jakiegokolwiek zawiadomienia, jak również dokumentu przyjęcia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ustanowienie i funkcjonowanie środkowoeuropejskiej sieci uniwersytetów"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą rozwijać i promować środkowoeuropejską sieć uniwersytetów, składającą się z róż-"
-    },
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "At any time a Contracting Party may withdraw from the Agreement by giving written notice to the Depositary. Any such withdrawal shall take effect upon expiry of at least six months from the date of receipt by the Depositary of the notification of withdrawa!; however, the Joint Committee may lay down a period longer than six but less than 12 months for the entry into force of the withdrawal notified."
-    },
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "(1) Any dispute between two or more Contracting Parties, or between any of them and the Central CEEPUS Office, concerning the interpretation or application of the present Agreement or its Annex, which cannot be settled by the Joint Committe of Ministers, shall, at the request of any party to the dispute, be submitted to arbitration."
-    },
-    {
-     "type": "text",
-     "text": "(2) The arbitration tribunal shall consist of three members. Each party to the dispute shall nominate one arbitrator; the first two arbitrators shall nominate the third arbitrator, who shall be the chairman of the arbitration tribunal."
-    },
-    {
-     "type": "text",
-     "text": "(3) The arbitration tribunal shall determine its seat and establish its own rules of procedure."
-    },
-    {
-     "type": "text",
-     "text": "(4) The award of the arbitration tribunal shall be made by a majority of its members, who may not abstain from voting. This award shall be final and binding on all parties to the dispute and no appeal shall lie against it. The parties shall comply with the award without delay. In the event of a dispute as to its meaning or scope, the arbitration tribunal shall interprete it at the request of any party to the dispute."
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
-    },
-    {
-     "type": "text",
-     "text": "The orginal of the present Agreement, of which the English text is authentic, shall be deposited with the Depositary."
-    },
-    {
-     "type": "text",
-     "text": "In witness whereof the undersigned being duly authorized to that effect, have signed this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Done at Budapest, Hungary on the eighth day of December one thousand nine hundred and ninety three."
-    },
-    {
-     "type": "text",
-     "text": "CEEPUS: ANNEX I"
-    },
-    {
-     "type": "text",
-     "text": "Action 1"
-    },
-    {
-     "type": "text",
-     "text": "Establishment and Operation of a Central European University Network"
-    },
-    {
-     "type": "text",
-     "text": "The Contracting Parties shall develop and promote a Central European University Network made up of various"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "nych sieci indywidualnych. Sieć ta ma za zadanie pobudzanie wymiany akademickiej, w szczególności wymiany studentów, oraz promowanie współpracy w dziedzinie kultury i nauki w Europie Środkowej."
+     "type": "ust",
+     "num": "6",
+     "path": "art_8/ust_6",
+     "text": "Pełne uczestnictwo państwa, które stało się Umawiającą się Stroną po wejściu w życie niniejszego porozumienia, w działaniach programu określonych w załączniku 1 następuje zgodnie z postanowieniami przyjętymi jednomyślnie przez Wspólny Komitet.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "The Contracting Parties shall make all efforts to abstain from any restrictions concerning the free movement and residence of individuals participating in mobility actions covered by the present Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "(1) The present Agreement shall remain in force for a period of five years. It may be renewed for a further period upon agreement of the Contracting Parties. A review of the present Agreement shall be completed before the end ofthe third academic year after entry into force. This review shall be based on an overall evaluation of the CEEPUS programme."
+      },
+      {
+       "type": "text",
+       "text": "(2) Either Contracting Party may at any time request a revision of the Agreement. For this purpose, it shall submit a written request to the chairman of the Joint Committee of Ministers and the other Contracting Parties. All decisions concerning the revision of the present Agreement shall be made by unanimous decision of the Joint Committee of Ministers."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "(1) The present Agreement shall be open for signature at Budapest, Hungary until December 8th, 1993 by the Republic of Austria, the Republic of Bulgaria, the Republic of Hungary, the Republic of Poland, the Slovak Republic and the Republic of Slovenia. It shall thereafter be open for accession."
+      },
+      {
+       "type": "text",
+       "text": "(2) This Agreement and revisions thereof shall be subject to approval by the Contracting Parties and the documents of approval shall be deposited with the Hungarian Ministry of Education and Culture, referred to in this Agreement as \"the Depositary”."
+      },
+      {
+       "type": "text",
+       "text": "(3) This Agreement shall enter into force upon the first day of the third month following the deposit of the documents of approval by not less than three Contracting Parties."
+      },
+      {
+       "type": "text",
+       "text": "(4) Any State not mentioned in para. 1 may accede thereto by unanimous invitation by the Joint Committee. Any State wishing to become a Contracting Party may notify the Depositary in writing of this intention."
+      },
+      {
+       "type": "text",
+       "text": "(5) The Depositary shall inform all Contracting Parties of all notifications and documents of approval received."
+      },
+      {
+       "type": "text",
+       "text": "(6) For any State which has become a Contracting Party after entry into force of the present Agreement full participation in programme activities as laid down in Annex I shall take place in accordance with the provisions unanimously decided upon by the Joint Committee."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każda Umawiająca się Strona może w każdej chwili wystąpić z porozumienia, przesyłając depozytariuszowi zawiadomienie na piśmie. Każde takie wystąpienie wchodzi w życie po upływie co najmniej sześciu miesięcy od dnia otrzymania przez depozytariusza zawiadomienia o wystąpieniu; jednakże Wspólny Komitet może przedłużyć okres wymagany do wejścia w życie zgłoszonego wystąpienia na czas dłuższy niż 6 miesięcy, lecz krótszy niż 12 miesięcy.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Każdy spór między dwiema lub więcej Umawiającymi się Stronami albo którąkolwiek z nich a Centralnym Biurem Programu CEEPUS, dotyczący interpretacji lub stosowania niniejszego porozumienia albo załącznika do niego, który nie może być rozstrzygnięty przez Wspólny Komitet Ministrów, zostanie, na życzenie którejkolwiek ze stron w sporze, zgłoszony do arbitrażu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Trybunał arbitrażowy będzie się składał z trzech członków. Każda ze stron w sporze wyznaczy po jednym arbitrze; dwaj pierwsi arbitrzy wyznaczą trzeciego arbitra, który będzie przewodniczącym trybunału arbitrażowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Trybunał arbitrażowy ustanowi swą siedzibę i ustali własne zasady procedury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_10/ust_4",
+     "text": "Orzeczenie trybunatu arbitrażowego podejmowane jest większością głosów jego członków, z których żaden nie może wstrzymać się od głosowania. Orzeczenie trybunału jest ostateczne i wiążące dla wszystkich stron w sporze, bez prawa do odwołania. Strony zastosują się niezwłocznie do orzeczenia. W przypadku sporu co do treści lub zakresu orzeczenia trybunał dokonuje interpretacji decyzji na życzenie każdej ze stron w sporze.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Oryginał niniejszego porozumienia, którego tekst w języku angielskim jest autentyczny, będzie złożony u depozytariusza.",
+   "children": [],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejsze porozumienie."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Budapeszcie (Węgry) dnia ósmego grudnia tysiąc dziewięćset dziewięćdziesiątego trzeciego roku. CEEPUS: ZAŁĄCZNIK I"
+  },
+  {
+   "type": "text",
+   "text": "Działanie 1"
+  },
+  {
+   "type": "text",
+   "text": "Ustanowienie i funkcjonowanie środkowoeuropejskiej sieci uniwersytetów"
+  },
+  {
+   "type": "text",
+   "text": "Umawiające się Strony będą rozwijać i promować środkowoeuropejską sieć uniwersytetów, składającą się z róż-"
+  },
+  {
+   "type": "text",
+   "text": "Article 9"
+  },
+  {
+   "type": "text",
+   "text": "At any time a Contracting Party may withdraw from the Agreement by giving written notice to the Depositary. Any such withdrawal shall take effect upon expiry of at least six months from the date of receipt by the Depositary of the notification of withdrawa!; however, the Joint Committee may lay down a period longer than six but less than 12 months for the entry into force of the withdrawal notified."
+  },
+  {
+   "type": "text",
+   "text": "Article 10"
+  },
+  {
+   "type": "text",
+   "text": "(1) Any dispute between two or more Contracting Parties, or between any of them and the Central CEEPUS Office, concerning the interpretation or application of the present Agreement or its Annex, which cannot be settled by the Joint Committe of Ministers, shall, at the request of any party to the dispute, be submitted to arbitration."
+  },
+  {
+   "type": "text",
+   "text": "(2) The arbitration tribunal shall consist of three members. Each party to the dispute shall nominate one arbitrator; the first two arbitrators shall nominate the third arbitrator, who shall be the chairman of the arbitration tribunal."
+  },
+  {
+   "type": "text",
+   "text": "(3) The arbitration tribunal shall determine its seat and establish its own rules of procedure."
+  },
+  {
+   "type": "text",
+   "text": "(4) The award of the arbitration tribunal shall be made by a majority of its members, who may not abstain from voting. This award shall be final and binding on all parties to the dispute and no appeal shall lie against it. The parties shall comply with the award without delay. In the event of a dispute as to its meaning or scope, the arbitration tribunal shall interprete it at the request of any party to the dispute."
+  },
+  {
+   "type": "text",
+   "text": "Article 11"
+  },
+  {
+   "type": "text",
+   "text": "The orginal of the present Agreement, of which the English text is authentic, shall be deposited with the Depositary."
+  },
+  {
+   "type": "text",
+   "text": "In witness whereof the undersigned being duly authorized to that effect, have signed this Agreement."
+  },
+  {
+   "type": "text",
+   "text": "Done at Budapest, Hungary on the eighth day of December one thousand nine hundred and ninety three."
+  },
+  {
+   "type": "text",
+   "text": "CEEPUS: ANNEX I"
+  },
+  {
+   "type": "text",
+   "text": "Action 1"
+  },
+  {
+   "type": "text",
+   "text": "Establishment and Operation of a Central European University Network"
+  },
+  {
+   "type": "text",
+   "text": "The Contracting Parties shall develop and promote a Central European University Network made up of various"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "nych sieci indywidualnych. Sieć ta ma za zadanie pobudzanie wymiany akademickiej, w szczególności wymiany studentów, oraz promowanie współpracy w dziedzinie kultury i nauki w Europie Środkowej."
   },
   {
    "type": "ust",
@@ -1181,22 +1213,22 @@
       {
        "type": "text",
        "text": "— będzie niezmiennie zachowywane."
-      },
-      {
-       "type": "text",
-       "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-      },
-      {
-       "type": "text",
-       "text": "Dano w Warszawie dnia 14 lipca 1994 r."
-      },
-      {
-       "type": "text",
-       "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa LS."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 14 lipca 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa LS."
   },
   {
    "type": "signature",

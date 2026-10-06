@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/152",
  "title": "Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 18 marca 1994 r. w sprawie obowiązku stosowania Polskich Norm.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/152/text.pdf",
  "body": [
   {
@@ -1880,643 +1880,495 @@
     {
      "type": "note",
      "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "0",
-   "path": "par_0",
-   "text": "PN-82/R-74456 Rośliny okopowe. Badanie jakości ziemniaków.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Klasa 153. Owoce, warzywa, rośliny zielarskie, grzyby, kwiaty"
     },
     {
      "type": "text",
-     "text": "Grupa 1530. Nomenklatura, klasyfikacja i normy ogólne"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "PN-92/R-75100 Album części morfologicznych i strukturalnych owoców.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "PN-70/R-75350 Warzywa świeże. Podstawowe nazwy i określenia.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
-   "text": "PN-89/R-75351 Album części morfologicznych i strukturalnych warzyw.",
-   "children": [
+     "text": "50. PN-82/R-74456 Rośliny okopowe. Badanie jakości ziemniaków.",
+     "quoted": true
+    },
     {
      "type": "text",
-     "text": "Grupa 1531. Materiał siewny. Materiał szkółkarski. Sadzonki"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
-   "text": "PN-84/R-67010 Materiał szkółkarski. Podkładki drzew i krzewów owocowych.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "5",
-   "path": "par_5",
-   "text": "PN-83/R-67011 Materiał szkółkarski. Drzewka owocowe — jabłonie, grusze, śliwy, czereśnie, wiśnie, brzoskwinie i morele. i",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "6",
-   "path": "par_6",
-   "text": "PN-91/R-67012 Materiał szkółkarski. Zrazy i sadzonki roślin sadowniczych.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "7",
-   "path": "par_7",
-   "text": "PN-92/R-67030 Cebule, bulwy, kłącza i korzenie bulwiaste roślin ozdobnych.",
-   "children": [
+     "text": "Klasa 153. Owoce, warzywa, rośliny zielarskie, grzyby, kwiaty",
+     "quoted": true
+    },
     {
      "type": "text",
-     "text": "Grupa 1532. Owoce"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "8",
-   "path": "par_8",
-   "text": "PN-84/R-75024 Owoce świeże. Jabłka.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "9",
-   "path": "par_9",
-   "text": "PN-73/R-75025 Owoce świeże. Gruszki.",
-   "children": [
-    {
-     "type": "ust",
-     "num": "60",
-     "path": "par_9/ust_60",
-     "text": "PN-73/R-75026 Owoce świeże. Śliwki.",
-     "children": []
+     "text": "Grupa 1530. Nomenklatura, klasyfikacja i normy ogólne",
+     "quoted": true
     },
-    {
-     "type": "ust",
-     "num": "61",
-     "path": "par_9/ust_61",
-     "text": "PN-72/R-75027 Owoce świeże. Czereśnie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "62",
-     "path": "par_9/ust_62",
-     "text": "PN-72/R-75028 Owoce świeże. Wiśnie.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "63",
-     "path": "par_9/ust_63",
-     "text": "PN-72/R-75029 Owoce świeże. Truskawki.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "64",
-     "path": "par_9/ust_64",
-     "text": "PN-79/R-75050 Owoce świeże leśne i inne dziko rosnące.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1533. Warzywa"
-      },
-      {
-       "type": "text",
-       "text": "Patison."
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "65",
-     "path": "par_9/ust_65",
-     "text": "PN-91/R-75352 Warzywa świeże. Chrzan.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "66",
-     "path": "par_9/ust_66",
-     "text": "PN-92/R-75353 Warzywa świeże. Cebula.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "67",
-     "path": "par_9/ust_67",
-     "text": "PN-87/R-75357 Warzywa świeże. Marchew.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "68",
-     "path": "par_9/ust_68",
-     "text": "PN-84/R-75358 Warzywa świeże. Ogórki.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "69",
-     "path": "par_9/ust_69",
-     "text": "PN-85/R-75359 Warzywa świeże. Buraki ćwikłowe. * 70. PN-72/R-75360 Warzywa świeże. Kalafiory.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "71",
-     "path": "par_9/ust_71",
-     "text": "PN-72/R-75361 Warzywa świeże. Kapusta.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "72",
-     "path": "par_9/ust_72",
-     "text": "PN-72/R-75362 Warzywa świeże.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "73",
-     "path": "par_9/ust_73",
-     "text": "PN-91/R-75368 Warzywa świeże. Pomidory.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "74",
-     "path": "par_9/ust_74",
-     "text": "PN-73/R-75761 Warzywa świeże. Szparagi.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "75",
-     "path": "par_9/ust_75",
-     "text": "PN-77/R-75762 Warzywa świeże. Fasola szparagowa.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "76",
-     "path": "par_9/ust_76",
-     "text": "PN-80/R-75763 Warzywa świeże. Groch zielony.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1536. Rośliny zielarskie"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "77",
-     "path": "par_9/ust_77",
-     "text": "PN-84/R-87010 Surowce zielarskie: Kory suszóne.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "78",
-     "path": "par_9/ust_78",
-     "text": "PN-82/R-87011 Surowce zielarskie. Liście suszone. :",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "79",
-     "path": "par_9/ust_79",
-     "text": "PN-84/R-87012 Surowce zielarskie. Korzenie i kłącza suszone.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "0",
-   "path": "par_0",
-   "text": "PN-84/R-87013 Surowce zielarskie. Kwiaty suszone.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "PN-85/R-87014 Surowce zielarskie. Pączki drzew suszone.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "PN-84/R-87015 Surowce zielarskie. Nasiona.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
-   "text": "PN-85/R-87016 Surowce zielarskie. Gąbki, plechowce, paprotniki, znamiona kukurydzy.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
-   "text": "PN-85/R-87017 Surowce zielarskie. Ziele suszone.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "5",
-   "path": "par_5",
-   "text": "PN-85/R-87018 Surowce zielarskie. Owoce suszone.",
-   "children": [
     {
      "type": "text",
-     "text": "Grupa 1537. Grzyby"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "6",
-   "path": "par_6",
-   "text": "PN-75/R-75078 Grzyby świeże. Pieczarki uprawne.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "7",
-   "path": "par_7",
-   "text": "PN-76/R-78505 Grzyby świeże.",
-   "children": [
+     "text": "51. PN-92/R-75100 Album części morfologicznych i strukturalnych owoców.",
+     "quoted": true
+    },
     {
      "type": "text",
-     "text": "Grupa 1539. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanie. Transport"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "8",
-   "path": "par_8",
-   "text": "PN-69/R-75021 Owoce świeże. Badanie jakości.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "9",
-   "path": "par_9",
-   "text": "PN-71/R-75356 Warzywa świeże. Badanie jakości.",
-   "children": [
-    {
-     "type": "ust",
-     "num": "90",
-     "path": "par_9/ust_90",
-     "text": "PN-91/R-87019 Surowce zielarskie. Pobieranie próbek i metody badań.",
-     "children": []
+     "text": "52. PN-70/R-75350 Warzywa świeże. Podstawowe nazwy i określenia.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "91",
-     "path": "par_9/ust_91",
-     "text": "PN-92/R-87020 Surowce i przetwory zielarskie. Oznaczanie zawartości witaminy C.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Klasa 154. Produkty paszowe Grupa 1540. Nomenklatura, klasyfikacja i normy ogólne"
-      }
-     ]
+     "type": "text",
+     "text": "53. PN-89/R-75351 Album części morfologicznych i strukturalnych warzyw.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "92",
-     "path": "par_9/ust_92",
-     "text": "PN-92/R-64809 - Wytyczne _ sanitarnohigieniczne w produkcji mączek paszowych i tłuszczów technicznych pochodzenia zwierzęcego. _",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1541. Pasze naturalne"
-      }
-     ]
+     "type": "text",
+     "text": "Grupa 1531. Materiał siewny. Materiał szkółkarski. Sadzonki",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "93",
-     "path": "par_9/ust_93",
-     "text": "PN-75/R-64766 Pasze. Otręby zbożowe.",
-     "children": []
+     "type": "text",
+     "text": "54. PN-84/R-67010 Materiał szkółkarski. Podkładki drzew i krzewów owocowych.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "94",
-     "path": "par_9/ust_94",
-     "text": "PN-80/R-64773 Pasze sypkie. Śruty i expellery z nasion oleistych. ,",
-     "children": []
+     "type": "text",
+     "text": "55. PN-83/R-67011 Materiał szkółkarski. Drzewka owocowe — jabłonie, grusze, śliwy, czereśnie, wiśnie, brzoskwinie i morele. i",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "95",
-     "path": "par_9/ust_95",
-     "text": "PN-93/R-64801 Pasze. Mączki paszowe pochodzenia zwierzęcego.",
-     "children": []
+     "type": "text",
+     "text": "56. PN-91/R-67012 Materiał szkółkarski. Zrazy i sadzonki roślin sadowniczych.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "96",
-     "path": "par_9/ust_96",
-     "text": "PN-66/R-64740 Mleko i przetwory mleczarskie. Mleko odtłuszczone paszowe.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1542. Surowce paszowe"
-      }
-     ]
+     "type": "text",
+     "text": "57. PN-92/R-67030 Cebule, bulwy, kłącza i korzenie bulwiaste roślin ozdobnych.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "97",
-     "path": "par_9/ust_97",
-     "text": "PN-67/R-64804 Przetwory zbożowe przeznaczone na pasze. Śruty zhożowe.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1543. Mieszanki paszowe"
-      }
-     ]
+     "type": "text",
+     "text": "Grupa 1532. Owoce",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "98",
-     "path": "par_9/ust_98",
-     "text": "PN-64/R-64812 Mieszanki paszowe. Wymagania sanitarnohigieniczne w produkcji.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1549. Przepisy odbioru. Metody badań. Pakoa wanie. Znakowanie. Przechowywanie. Transport"
-      }
-     ]
+     "type": "text",
+     "text": "58. PN-84/R-75024 Owoce świeże. Jabłka.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "99",
-     "path": "par_9/ust_99",
-     "text": "PN-76/R-64752 Pasze. Oznaczanie wilgotności.",
-     "children": []
+     "type": "text",
+     "text": "59. PN-73/R-75025 Owoce świeże. Gruszki.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "100",
-     "path": "par_9/ust_100",
-     "text": "PN-92/R-64756 Pasze. Oznaczanie witaminy A \". i Ew premiksach paszowych.",
-     "children": []
+     "type": "text",
+     "text": "60. PN-73/R-75026 Owoce świeże. Śliwki.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "101",
-     "path": "par_9/ust_101",
-     "text": "PN-90/R-64769 Pasze. Pobieranie próbek.",
-     "children": []
+     "type": "text",
+     "text": "61. PN-72/R-75027 Owoce świeże. Czereśnie.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "102",
-     "path": "par_9/ust_102",
-     "text": "PN-75/R-64787 Pasze. Oznaczanie szkodników zbożowo-mącznych i zanieczyszczeń.",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      }
-     ]
+     "type": "text",
+     "text": "62. PN-72/R-75028 Owoce świeże. Wiśnie.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "103",
-     "path": "par_9/ust_103",
-     "text": "PN-76/R-64791 Pasze sypkie. Wymagania i badania mikrobiologiczne z zakresu obecności drobnoustrojów czynnych i grzybów toksynotwórczych. PN-76/R-64795 Pasze. Oznaczanie zawartości popio- 104. łu. PN-89/R-64798 Pasze. Oznaczanie rozdrobnienia. 105. PN-75/R-64799 Pasze. Badania mikrobiologiczne",
-     "children": []
+     "type": "text",
+     "text": "63. PN-72/R-75029 Owoce świeże. Truskawki.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "106",
-     "path": "par_9/ust_106",
-     "text": "i biologiczne. PN-77/R-64800 Przemysłowe mieszanki paszowe. Pa-",
-     "children": []
+     "type": "text",
+     "text": "64. PN-79/R-75050 Owoce świeże leśne i inne dziko rosnące.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "107",
-     "path": "par_9/ust_107",
-     "text": "kowanie, przechowywanie i transport. Wymagania podstawowe. PN-87/R-64814 Przemysłowe mieszanki paszowe.",
-     "children": []
+     "type": "text",
+     "text": "Grupa 1533. Warzywa",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "108",
-     "path": "par_9/ust_108",
-     "text": "Oznaczanie zawartości włókna surowego. PN-91/R-64822 Przemysłowe mieszanki paszowe. 109. Oznaczanie wirginiamycyny w preparatach, premiksach, koncentratach i mieszankach metodą mikrobiologiczną.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Klasa 155. Pszczelarstwo"
-      },
-      {
-       "type": "text",
-       "text": "Grupa 1552. Miód"
-      }
-     ]
+     "type": "text",
+     "text": "Patison.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "110",
-     "path": "par_9/ust_110",
-     "text": "PN-88/A-77626 Miód pszczeli.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1553. Wosk, węza, woszczyna, kit pszczeli"
-      }
-     ]
+     "type": "text",
+     "text": "65. PN-91/R-75352 Warzywa świeże. Chrzan.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "111",
-     "path": "par_9/ust_111",
-     "text": "PN-72/R-78890 Wosk pszczeli.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Klasa 157. Produkcja zwierzęca Grupa 1570. Nomenklatura, klasyfikacja i normy ogólne"
-      }
-     ]
+     "type": "text",
+     "text": "66. PN-92/R-75353 Warzywa świeże. Cebula.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "112",
-     "path": "par_9/ust_112",
-     "text": "PN-87/P-22027 Skóry surowe futrzarskie. Nazwy i określenia.",
-     "children": []
+     "type": "text",
+     "text": "67. PN-87/R-75357 Warzywa świeże. Marchew.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "113",
-     "path": "par_9/ust_113",
-     "text": "PN-64/R-78003 Klasyfikacja koni, bydła, trzody chlewnej i owiec według wieku.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1571. Inwentarz rzeźny"
-      }
-     ]
+     "type": "text",
+     "text": "68. PN-84/R-75358 Warzywa świeże. Ogórki.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "114",
-     "path": "par_9/ust_114",
-     "text": "PN-83/R-78002 Konie rzeźne powyżej dwóch lat.",
-     "children": []
+     "type": "text",
+     "text": "69. PN-85/R-75359 Warzywa świeże. Buraki ćwikłowe. * 70. PN-72/R-75360 Warzywa świeże. Kalafiory.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "115",
-     "path": "par_9/ust_115",
-     "text": "PN-83/R-78004 Konie rzeźne. Źrebięta w wieku od 6 do 24 miesięcy.",
-     "children": []
+     "type": "text",
+     "text": "71. PN-72/R-75361 Warzywa świeże. Kapusta.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "116",
-     "path": "par_9/ust_116",
-     "text": "PN-62/R-78219 Trzoda chlewna. Prosięta i warchlaki.",
-     "children": []
+     "type": "text",
+     "text": "72. PN-72/R-75362 Warzywa świeże.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "117",
-     "path": "par_9/ust_117",
-     "text": "PN-84/R-78220 Tuczniki i tusze bekonowe.",
-     "children": []
+     "type": "text",
+     "text": "73. PN-91/R-75368 Warzywa świeże. Pomidory.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "118",
-     "path": "par_9/ust_118",
-     "text": "PN-76/R-78310 Zwierzęta rzeźne. Króliki.",
-     "children": []
+     "type": "text",
+     "text": "74. PN-73/R-75761 Warzywa świeże. Szparagi.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "119",
-     "path": "par_9/ust_119",
-     "text": "PN-76/R-78311 Zwierzęta rzeźne. Nutrie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1576. Wełna. Pierze. Puch"
-      }
-     ]
+     "type": "text",
+     "text": "75. PN-77/R-75762 Warzywa świeże. Fasola szparagowa.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "120",
-     "path": "par_9/ust_120",
-     "text": "PN-90/R-22253 Pierze pościelowe.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Grupa 1578. Drób i produkty hodowli drobiu"
-      }
-     ]
+     "type": "text",
+     "text": "76. PN-80/R-75763 Warzywa świeże. Groch zielony.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "121",
-     "path": "par_9/ust_121",
-     "text": "PN-92/R-78550 Drób rzeźny. Brojlery, kurczęta, kury i koguty.",
-     "children": []
+     "type": "text",
+     "text": "Grupa 1536. Rośliny zielarskie",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "122",
-     "path": "par_9/ust_122",
-     "text": "PN-93/R-78551 Drób rzeźny. Indyki.",
-     "children": []
+     "type": "text",
+     "text": "77. PN-84/R-87010 Surowce zielarskie: Kory suszóne.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "123",
-     "path": "par_9/ust_123",
-     "text": "PN-70/R-78556 Drób rzeźny żywy.",
-     "children": []
+     "type": "text",
+     "text": "78. PN-82/R-87011 Surowce zielarskie. Liście suszone. :",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "124",
-     "path": "par_9/ust_124",
-     "text": "PN-85/R-78563 Jaja kurze wylęgowe. Grupa 1579. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanie. Transport",
-     "children": []
+     "type": "text",
+     "text": "79. PN-84/R-87012 Surowce zielarskie. Korzenie i kłącza suszone.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "125",
-     "path": "par_9/ust_125",
-     "text": "PN-88/R-22252 Pierze. Metody badań.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Klasa 158. Zwierzyna łowna, zwierzęta futerkowe, ryby Grupa 1580. Nomenklatura, klasyfikacja i normy ogólne"
-      }
-     ]
+     "type": "text",
+     "text": "80. PN-84/R-87013 Surowce zielarskie. Kwiaty suszone.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "126",
-     "path": "par_9/ust_126",
-     "text": "PN-76/R-93000 Rybactwo stawowe. Nazwy i określenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Klasa 058. Opakowania metalowe Grupa 0581. Skrzynie, pudła i puszki metalowe"
-      }
-     ]
+     "type": "text",
+     "text": "81. PN-85/R-87014 Surowce zielarskie. Pączki drzew suszone.",
+     "quoted": true
     },
     {
-     "type": "ust",
-     "num": "127",
-     "path": "par_9/ust_127",
-     "text": "PN-84/0-79551 Opakowania jednostkowe metalowe. Puszki do artykułów żywnościowych konserwowych. Ogólne wymagania i badania.",
-     "children": []
+     "type": "text",
+     "text": "82. PN-84/R-87015 Surowce zielarskie. Nasiona.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "83. PN-85/R-87016 Surowce zielarskie. Gąbki, plechowce, paprotniki, znamiona kukurydzy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "84. PN-85/R-87017 Surowce zielarskie. Ziele suszone.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "85. PN-85/R-87018 Surowce zielarskie. Owoce suszone.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1537. Grzyby",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "86. PN-75/R-75078 Grzyby świeże. Pieczarki uprawne.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "87. PN-76/R-78505 Grzyby świeże.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1539. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanie. Transport",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "88. PN-69/R-75021 Owoce świeże. Badanie jakości.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "89. PN-71/R-75356 Warzywa świeże. Badanie jakości.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "90. PN-91/R-87019 Surowce zielarskie. Pobieranie próbek i metody badań.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "91. PN-92/R-87020 Surowce i przetwory zielarskie. Oznaczanie zawartości witaminy C.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Klasa 154. Produkty paszowe Grupa 1540. Nomenklatura, klasyfikacja i normy ogólne",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "92. PN-92/R-64809 - Wytyczne _ sanitarnohigieniczne w produkcji mączek paszowych i tłuszczów technicznych pochodzenia zwierzęcego. _",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1541. Pasze naturalne",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "93. PN-75/R-64766 Pasze. Otręby zbożowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "94. PN-80/R-64773 Pasze sypkie. Śruty i expellery z nasion oleistych. ,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "95. PN-93/R-64801 Pasze. Mączki paszowe pochodzenia zwierzęcego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "96. PN-66/R-64740 Mleko i przetwory mleczarskie. Mleko odtłuszczone paszowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1542. Surowce paszowe",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "97. PN-67/R-64804 Przetwory zbożowe przeznaczone na pasze. Śruty zhożowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1543. Mieszanki paszowe",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "98. PN-64/R-64812 Mieszanki paszowe. Wymagania sanitarnohigieniczne w produkcji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1549. Przepisy odbioru. Metody badań. Pakoa wanie. Znakowanie. Przechowywanie. Transport",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "99. PN-76/R-64752 Pasze. Oznaczanie wilgotności.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "100. PN-92/R-64756 Pasze. Oznaczanie witaminy A \". i Ew premiksach paszowych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "101. PN-90/R-64769 Pasze. Pobieranie próbek.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "102. PN-75/R-64787 Pasze. Oznaczanie szkodników zbożowo-mącznych i zanieczyszczeń.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "103. PN-76/R-64791 Pasze sypkie. Wymagania i badania mikrobiologiczne z zakresu obecności drobnoustrojów czynnych i grzybów toksynotwórczych. PN-76/R-64795 Pasze. Oznaczanie zawartości popio- 104. łu. PN-89/R-64798 Pasze. Oznaczanie rozdrobnienia. 105. PN-75/R-64799 Pasze. Badania mikrobiologiczne",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "106. i biologiczne. PN-77/R-64800 Przemysłowe mieszanki paszowe. Pa-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "107. kowanie, przechowywanie i transport. Wymagania podstawowe. PN-87/R-64814 Przemysłowe mieszanki paszowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "108. Oznaczanie zawartości włókna surowego. PN-91/R-64822 Przemysłowe mieszanki paszowe. 109. Oznaczanie wirginiamycyny w preparatach, premiksach, koncentratach i mieszankach metodą mikrobiologiczną.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Klasa 155. Pszczelarstwo",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1552. Miód",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "110. PN-88/A-77626 Miód pszczeli.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1553. Wosk, węza, woszczyna, kit pszczeli",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "111. PN-72/R-78890 Wosk pszczeli.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Klasa 157. Produkcja zwierzęca Grupa 1570. Nomenklatura, klasyfikacja i normy ogólne",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "112. PN-87/P-22027 Skóry surowe futrzarskie. Nazwy i określenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "113. PN-64/R-78003 Klasyfikacja koni, bydła, trzody chlewnej i owiec według wieku.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1571. Inwentarz rzeźny",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "114. PN-83/R-78002 Konie rzeźne powyżej dwóch lat.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "115. PN-83/R-78004 Konie rzeźne. Źrebięta w wieku od 6 do 24 miesięcy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "116. PN-62/R-78219 Trzoda chlewna. Prosięta i warchlaki.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "117. PN-84/R-78220 Tuczniki i tusze bekonowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "118. PN-76/R-78310 Zwierzęta rzeźne. Króliki.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "119. PN-76/R-78311 Zwierzęta rzeźne. Nutrie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1576. Wełna. Pierze. Puch",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "120. PN-90/R-22253 Pierze pościelowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Grupa 1578. Drób i produkty hodowli drobiu",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "121. PN-92/R-78550 Drób rzeźny. Brojlery, kurczęta, kury i koguty.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "122. PN-93/R-78551 Drób rzeźny. Indyki.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "123. PN-70/R-78556 Drób rzeźny żywy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "124. PN-85/R-78563 Jaja kurze wylęgowe. Grupa 1579. Przepisy odbioru. Metody badań. Pakowanie. Znakowanie. Przechowywanie. Transport",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "125. PN-88/R-22252 Pierze. Metody badań.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Klasa 158. Zwierzyna łowna, zwierzęta futerkowe, ryby Grupa 1580. Nomenklatura, klasyfikacja i normy ogólne",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "126. PN-76/R-93000 Rybactwo stawowe. Nazwy i określenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Klasa 058. Opakowania metalowe Grupa 0581. Skrzynie, pudła i puszki metalowe",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "127. PN-84/0-79551 Opakowania jednostkowe metalowe. Puszki do artykułów żywnościowych konserwowych. Ogólne wymagania i badania.",
+     "quoted": true
     }
    ]
   }

@@ -69,213 +69,214 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Strony będą rozwijać współpracę w zakresie nauki, szkolnictwa, kultury i sportu oraz w innych dziedzinach pokrewnych. Strony będą umożliwiać wymianę materiałów i dokumentacji oraz ułatwiać kontakty między zainteresowanymi instytucjami i osobami prywatnymi.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Strony będą rozwijać współpracę w zakresie nauki, szkolnictwa, kultury i sportu oraz w innych dziedzinach pokrewnych. Strony będą umożliwiać wymianę materiałów i dokumentacji oraz ułatwiać kontakty między zainteresowanymi instytucjami i osobami prywatnymi."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Strony będą popierać bezpośrednią współpracę między akademiami nauk oraz innymi instytucjami naukowymi i naukowcami obu Państw.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Strony będą dążyć do zawarcia odrębnej umowy w zakresie nauki i techniki.",
+   "children": [],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Strony będą popierać bezpośrednią współpracę między akademiami nauk oraz innymi instytucjami naukowymi i naukowcami obu Państw."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą dążyć do zawarcia odrębnej umowy w zakresie nauki i techniki."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "Strony będą popierać współpracę i wymianę doświadczeń w zakresie szkolnictwa przez:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "wymianę profesorów akademickich i innych specjalistów w celu prowadzenia wykładów i badań naukowych;",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą popierać współpracę i wymianę doświadczeń w zakresie szkolnictwa przez:",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "wymianę profesorów akademickich i innych specjalistów w celu prowadzenia wykładów i badań naukowych;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "popieranie bezpośredniej współpracy między placówkami oświatowymi wszystkich szczebli;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_4/lit_c",
+     "text": "udostępnianie, w miarę możliwości, miejsc i stypendiów na studia uniwersyteckie, doktoranckie i podyplomowe w dziedzinach uzgodnionych przez obie Strony;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_4/lit_d",
+     "text": "popieranie i ułatwianie obywatelom obu Państw studiowania literatury i języka drugiej Strony przez tworzenie katedr i lektoratów w swoich uczelniach wyższych i placówkach oświatowych, wysyłanie wykładowców, wymianę książek i publikacji specjalistycznych, udział w kursach letnich;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_4/lit_e",
+     "text": "podejmowanie wspólnych przedsięwzięć, w tym przekazywanie materiałów i dokumentacji, mających na celu prawidłowe przedstawianie w podręcznikach szkolnych i uniwersyteckich historii, geografii i życia społeczno-gospodarczego obu Państw.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Strony są zgodne co do tego, aby w duchu niniejszej umowy współpraca w zakresie szkolnictwa objęta różnorodne struktury systemów oświatowych obu Państw."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "popieranie bezpośredniej współpracy między placówkami oświatowymi wszystkich szczebli;",
-   "children": []
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą dążyć do wzajemnego uznawania świadectw, dyplomów, stopni oraz tytułów akademickich nadawanych przez ich placówki oświatowe i naukowe. Warunki i tryb wzajemnego uznawania będą przedmiotem oddzielnego porozumienia.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "udostępnianie, w miarę możliwości, miejsc i stypendiów na studia uniwersyteckie, doktoranckie i podyplomowe w dziedzinach uzgodnionych przez obie Strony;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "popieranie i ułatwianie obywatelom obu Państw studiowania literatury i języka drugiej Strony przez tworzenie katedr i lektoratów w swoich uczelniach wyższych i placówkach oświatowych, wysyłanie wykładowców, wymianę książek i publikacji specjalistycznych, udział w kursach letnich;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "podejmowanie wspólnych przedsięwzięć, w tym przekazywanie materiałów i dokumentacji, mających na celu prawidłowe przedstawianie w podręcznikach szkolnych i uniwersyteckich historii, geografii i życia społeczno-gospodarczego obu Państw.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą sprzyjać wzajemnemu zrozumieniu wartości kultury i sztuki obu narodów przez:",
    "children": [
     {
-     "type": "text",
-     "text": "Strony są zgodne co do tego, aby w duchu niniejszej umowy współpraca w zakresie szkolnictwa objęta różnorodne struktury systemów oświatowych obu Państw."
+     "type": "lit",
+     "num": "a",
+     "path": "art_6/lit_a",
+     "text": "wymianę twórców i wykonawców, zarówno profesjonalistów jak i amatorów, oraz innych osób działających w dziedzinach objętych niniejszą",
+     "children": []
     },
     {
      "type": "text",
-     "text": "Artykuł 5"
+     "text": "umową;"
     },
     {
-     "type": "text",
-     "text": "Strony będą dążyć do wzajemnego uznawania świadectw, dyplomów, stopni oraz tytułów akademickich nadawanych przez ich placówki oświatowe i naukowe. Warunki i tryb wzajemnego uznawania będą przedmiotem oddzielnego porozumienia."
+     "type": "lit",
+     "num": "b",
+     "path": "art_6/lit_b",
+     "text": "organizowanie przez jedną ze Stron na terytorium drugiej Strony imprez kulturalnych i artystycznych, takich jak wystawy, pokazy filmów, programy radiowe i telewizyjne, wystawianie sztuk teatralnych, organizowanie festiwali muzycznych i tanecznych, w tym także na warunkach komercyjnych;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "lit",
+     "num": "c",
+     "path": "art_6/lit_c",
+     "text": "współpracę muzeów i bibliotek;",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Strony będą sprzyjać wzajemnemu zrozumieniu wartości kultury i sztuki obu narodów przez:"
+     "type": "lit",
+     "num": "d",
+     "path": "art_6/lit_d",
+     "text": "wymianę publikacji z zakresu kultury i sztuki między placówkami kulturalnymi — filmów, książek, czasopism, nagrań i wydawnictw muzycznych, płyt i kaset;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_6/lit_e",
+     "text": "współpracę między wydawnictwami, w tym dystrybucję i sprzedaż książek;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_6/lit_f",
+     "text": "wspólne organizowanie imprez kulturalnych (wystaw, sympozjów itp.);",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_6/lit_g",
+     "text": "uwzględnianie utworów dramatycznych i muzycznych autorów drugiej Strony w repertuarze własnych placówek kulturalnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_6/lit_h",
+     "text": "popieranie tłumaczeń i publikacji ważnych dzieł naukowych i literackich autorów drugiej Strony i upowszechnianie ich na własnym terytorium.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "wymianę twórców i wykonawców, zarówno profesjonalistów jak i amatorów, oraz innych osób działających w dziedzinach objętych niniejszą",
-   "children": []
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony zobowiązują się do właściwej ochrony własności intelektualnej, zgodnie z przepisami obowiązującymi w państwach członkowskich Unii Europejskiej.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "umową;"
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Strony będą popierać i ułatwiać współpracę między stowarzyszeniami i fundacjami działającymi w obu państwach na rzecz rozwoju różnych dziedzin sztuki.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "organizowanie przez jedną ze Stron na terytorium drugiej Strony imprez kulturalnych i artystycznych, takich jak wystawy, pokazy filmów, programy radiowe i telewizyjne, wystawianie sztuk teatralnych, organizowanie festiwali muzycznych i tanecznych, w tym także na warunkach komercyjnych;",
-   "children": []
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Doceniając rolę, jaką spełniają obywatele rumuńscy narodowości polskiej w Rumunii oraz obywatele polscy narodowości rumuńskiej w Rzeczypospolitej Polskiej w rozwoju stosunków między oboma Państwami, Strony będą popierać działania umożliwiające swobodny dostęp do wychowania i kultury w językach ojczystych oraz będą sprzyjać, na zasadzie wzajemności, zachowaniu języka, tradycji i tożsamości kulturowej tych obywateli.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "współpracę muzeów i bibliotek;",
-   "children": []
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Strony będą popierać wzajemne zapraszanie osobistości z dziedziny nauki, szkolnictwa, kultury i sztuki drugiej Strony do udziału w spotkaniach, konferencjach, festiwalach i innych międzynarodowych imprezach organizowanych na terytorium jednej ze Stron.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "wymianę publikacji z zakresu kultury i sztuki między placówkami kulturalnymi — filmów, książek, czasopism, nagrań i wydawnictw muzycznych, płyt i kaset;",
-   "children": []
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Strony zobowiązują się do wzajemnej pomocy w zakresie ochrony, konserwacji i zapewnienia integralności dziedzictwa kulturalnego.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "współpracę między wydawnictwami, w tym dystrybucję i sprzedaż książek;",
-   "children": []
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Strony uzgadniają, że dobra kultury nielegalnie wywiezione z terytorium jednej ze Stron i nielegalnie wwiezione na terytorium drugiej Strony podlegają zwrotowi.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "wspólne organizowanie imprez kulturalnych (wystaw, sympozjów itp.);",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "g",
-   "path": "lit_g",
-   "text": "uwzględnianie utworów dramatycznych i muzycznych autorów drugiej Strony w repertuarze własnych placówek kulturalnych;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "h",
-   "path": "lit_h",
-   "text": "popieranie tłumaczeń i publikacji ważnych dzieł naukowych i literackich autorów drugiej Strony i upowszechnianie ich na własnym terytorium.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Strony będą popierać bezpośrednią współpracę między swoimi komitetami narodowymi do spraw",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Strony zobowiązują się do właściwej ochrony własności intelektualnej, zgodnie z przepisami obowiązującymi w państwach członkowskich Unii Europejskiej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać i ułatwiać współpracę między stowarzyszeniami i fundacjami działającymi w obu państwach na rzecz rozwoju różnych dziedzin sztuki."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Doceniając rolę, jaką spełniają obywatele rumuńscy narodowości polskiej w Rumunii oraz obywatele polscy narodowości rumuńskiej w Rzeczypospolitej Polskiej w rozwoju stosunków między oboma Państwami, Strony będą popierać działania umożliwiające swobodny dostęp do wychowania i kultury w językach ojczystych oraz będą sprzyjać, na zasadzie wzajemności, zachowaniu języka, tradycji i tożsamości kulturowej tych obywateli."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać wzajemne zapraszanie osobistości z dziedziny nauki, szkolnictwa, kultury i sztuki drugiej Strony do udziału w spotkaniach, konferencjach, festiwalach i innych międzynarodowych imprezach organizowanych na terytorium jednej ze Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Strony zobowiązują się do wzajemnej pomocy w zakresie ochrony, konserwacji i zapewnienia integralności dziedzictwa kulturalnego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Strony uzgadniają, że dobra kultury nielegalnie wywiezione z terytorium jednej ze Stron i nielegalnie wwiezione na terytorium drugiej Strony podlegają zwrotowi."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać bezpośrednią współpracę między swoimi komitetami narodowymi do spraw"
-    },
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
@@ -283,156 +284,159 @@
     {
      "type": "text",
      "text": "UNESCO oraz ich stałymi przedstawicielami w UNESCO, a także współpracę Stron na forum organizacji międzynarodowych w zakresie kultury."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać jak najszerszą współpracę między archiwami obu Państw, zapewniając przedstawicielom drugiej Strony dostęp do odpowiednich źródeł, zgodnie z ustawodawstwem wewnętrznym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać współpracę między agencjami prasowymi, redakcjami gazet i czasopism, stowarzyszeniami dziennikarzy i reporterów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać współpracę w dziedzinie audiowizualnej przez wymianę audycji i programów radiowych i telewizyjnych, a także przez wymianę specjalistów i dziennikarzy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać współpracę między instytucjami wyspecjalizowanymi w prezentacji i koprodukcji filmów oraz udział w międzynarodowych festiwalach filmowych organizowanych na terytorium drugiej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 18"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać rozwój kontaktów między organizacjami i stowarzyszeniami młodzieżowymi oraz instytucjami prowadzącymi działalność w tej dziedzinie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać współpracę w dziedzinie kultury fizycznej i sportu, realizowaną na podstawie porozumień zawieranych między odpowiednimi organizacjami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać rozwój współpracy w dziedzinie turystyki."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać bezpośrednie kontakty i współpracę w dziedzinie ochrony zdrowia i nauk medycznych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 22"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą się wzajemnie informować o imprezach naukowych, kulturalnych, artystycznych, sportowych i innych, organizowanych w Rzeczypospolitej"
-    },
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Strony będą popierać jak najszerszą współpracę między archiwami obu Państw, zapewniając przedstawicielom drugiej Strony dostęp do odpowiednich źródeł, zgodnie z ustawodawstwem wewnętrznym.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Strony będą popierać współpracę między agencjami prasowymi, redakcjami gazet i czasopism, stowarzyszeniami dziennikarzy i reporterów.",
+   "children": [],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Strony będą popierać współpracę w dziedzinie audiowizualnej przez wymianę audycji i programów radiowych i telewizyjnych, a także przez wymianę specjalistów i dziennikarzy.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Strony będą popierać współpracę między instytucjami wyspecjalizowanymi w prezentacji i koprodukcji filmów oraz udział w międzynarodowych festiwalach filmowych organizowanych na terytorium drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Strony będą popierać rozwój kontaktów między organizacjami i stowarzyszeniami młodzieżowymi oraz instytucjami prowadzącymi działalność w tej dziedzinie.",
+   "children": [],
+   "label": "Artykuł 18"
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Strony będą popierać współpracę w dziedzinie kultury fizycznej i sportu, realizowaną na podstawie porozumień zawieranych między odpowiednimi organizacjami.",
+   "children": [],
+   "label": "Artykuł 19"
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Strony będą popierać rozwój współpracy w dziedzinie turystyki.",
+   "children": [],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Strony będą popierać bezpośrednie kontakty i współpracę w dziedzinie ochrony zdrowia i nauk medycznych.",
+   "children": [],
+   "label": "Artykuł 21"
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Strony będą się wzajemnie informować o imprezach naukowych, kulturalnych, artystycznych, sportowych i innych, organizowanych w Rzeczypospolitej",
+   "children": [
     {
      "type": "text",
      "text": "Polskiej i Rumunii, umożliwiając wzajemny udział w nich swoich przedstawicieli."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać współpracę kulturalną, oświatową i sportowo-turystyczną na szczeblu terenowym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 24"
-    },
-    {
-     "type": "text",
-     "text": "W celu realizacji niniejszej umowy Strony będą zawierać okresowe programy współpracy i wymiany na szczeblu rządowym i/lub ministerialnym, w których uzgodnią konkretne przedsięwzięcia i warunki finansowe."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 25"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa nie narusza zobowiązań wynikających z innych umów zawartych między Stronami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 26"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa podlega przyjęciu, zgodnie z prawem każdej ze Stron, co zostanie stwierdzone w drodze notyfikacji. Umowa wejdzie w życie po upływie 30 dni od dnia otrzymania noty późniejszej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 27"
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa zawarta jest na okres pięciu lat. Ulega ona automatycznemu przedłużaniu na dalsze pięcioletnie okresy, jeżeli żadna ze Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu."
-    },
+    }
+   ],
+   "label": "Artykuł 22"
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Strony będą popierać współpracę kulturalną, oświatową i sportowo-turystyczną na szczeblu terenowym.",
+   "children": [],
+   "label": "Artykuł 23"
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "W celu realizacji niniejszej umowy Strony będą zawierać okresowe programy współpracy i wymiany na szczeblu rządowym i/lub ministerialnym, w których uzgodnią konkretne przedsięwzięcia i warunki finansowe.",
+   "children": [],
+   "label": "Artykuł 24"
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Niniejsza umowa nie narusza zobowiązań wynikających z innych umów zawartych między Stronami.",
+   "children": [],
+   "label": "Artykuł 25"
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Niniejsza umowa podlega przyjęciu, zgodnie z prawem każdej ze Stron, co zostanie stwierdzone w drodze notyfikacji. Umowa wejdzie w życie po upływie 30 dni od dnia otrzymania noty późniejszej.",
+   "children": [],
+   "label": "Artykuł 26"
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Niniejsza umowa zawarta jest na okres pięciu lat. Ulega ona automatycznemu przedłużaniu na dalsze pięcioletnie okresy, jeżeli żadna ze Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu.",
+   "children": [
     {
      "type": "text",
      "text": "W przypadku wypowiedzenia niniejszej umowy, zgodnie z postanowieniami powyższej klauzuli, wszelkie programy wymiany będące w toku realizacji zostaną doprowadzone do końca."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 28"
-    },
-    {
-     "type": "text",
-     "text": "Z dniem wejścia w życie niniejszej umowy traci moc Umowa o współpracy kulturalnej i naukowej między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Rumuńskiej Republiki Ludowej, podpisana w Warszawie dnia 26 listopada 1964 r."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 23 czerwca 1994 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i rumuńskim, przy czym oba teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej: Rumunii:"
-    },
-    {
-     "type": "text",
-     "text": "A. Olechowski T. Melescanu"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Po zapoznaniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 6 września 1994 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
     }
-   ]
+   ],
+   "label": "Artykuł 27"
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Z dniem wejścia w życie niniejszej umowy traci moc Umowa o współpracy kulturalnej i naukowej między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Rumuńskiej Republiki Ludowej, podpisana w Warszawie dnia 26 listopada 1964 r.",
+   "children": [],
+   "label": "Artykuł 28"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 23 czerwca 1994 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i rumuńskim, przy czym oba teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej: Rumunii:"
+  },
+  {
+   "type": "text",
+   "text": "A. Olechowski T. Melescanu"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Po zapoznaniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 6 września 1994 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

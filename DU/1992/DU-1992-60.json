@@ -65,380 +65,393 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać współpracę w dziedzinie kultury, sztuki, nauki, oświaty, zdrowia, wymiany informacji, sportu i kontaktów młodzieżowych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł II"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą popierać wzajemne zainteresowanie dziedzictwem kulturalnym i współczesnymi osiągnięciami kulturalnymi drugiej Umawiającej się Strony. W tym celu Umawiające się Strony będą popierać, na zasadzie obopólnego zainteresowania i wzajemnych korzyści, wymianę i współpracę we wszystkich dziedzinach kultury i sztuki oraz stwarzać odpowiednie możliwości kontaktów i wspólnych przedsięwzięć pomiędzy organizacjami, instytucjami i osobami działającymi w tych sferach.",
-   "children": []
+   "path": "art_1",
+   "text": "Umawiające się Strony będą rozwijać współpracę w dziedzinie kultury, sztuki, nauki, oświaty, zdrowia, wymiany informacji, sportu i kontaktów młodzieżowych.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą zachęcać swoje właściwe władze i instytucje do podejmowania przedsięwzięć, które w szczególności będą obejmować:",
+   "type": "art",
+   "num": "II",
+   "path": "art_II",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wymianę wystaw i innych prezentacji o charakterze kulturalnym, edukacyjnym i informacyjnym,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_II/ust_1",
+     "text": "Umawiające się Strony będą popierać wzajemne zainteresowanie dziedzictwem kulturalnym i współczesnymi osiągnięciami kulturalnymi drugiej Umawiającej się Strony. W tym celu Umawiające się Strony będą popierać, na zasadzie obopólnego zainteresowania i wzajemnych korzyści, wymianę i współpracę we wszystkich dziedzinach kultury i sztuki oraz stwarzać odpowiednie możliwości kontaktów i wspólnych przedsięwzięć pomiędzy organizacjami, instytucjami i osobami działającymi w tych sferach.",
      "children": []
     },
     {
-     "type": "text",
-     "text": "b"
+     "type": "ust",
+     "num": "2",
+     "path": "art_II/ust_2",
+     "text": "Umawiające się Strony będą zachęcać swoje właściwe władze i instytucje do podejmowania przedsięwzięć, które w szczególności będą obejmować:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_II/ust_2/lit_a",
+       "text": "wymianę wystaw i innych prezentacji o charakterze kulturalnym, edukacyjnym i informacyjnym,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "b"
+      },
+      {
+       "type": "text",
+       "text": "— tłumaczenie i publikację dzieł artystycznych, literackich i naukowych autorów drugiego kraju,"
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_II/ust_2/lit_c",
+       "text": "prezentację utworów artystycznych twórców drugiego kraju przez telewizję, radio, teatry, kina, sale koncertowe, studia baletowe i ośrodki wystawowe,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "d"
+      },
+      {
+       "type": "text",
+       "text": "— wzajemną wymianę artystów i grup artystycznych,"
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_II/ust_2/lit_e",
+       "text": "organizowanie, za pośrednictwem kompetentnych władz, imprez artystycznych i festiwali filmowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_II/ust_2/lit_f",
+       "text": "wymianę książek i innych publikacji z dziedziny kultury, oświaty i nauki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_II/ust_2/lit_g",
+       "text": "współpracę szkół artystycznych, muzeów, galerii sztuki, bibliotek, teatrów i innych instytucji kulturalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_II/ust_2/lit_h",
+       "text": "wymianę doświadczeń i specjalistów z zakresu muzealnictwa i konserwacji dóbr architektury i kultury,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_II/ust_2/lit_i",
+       "text": "kontakty między stowarzyszeniami pisarzy, kompozytorów, malarzy, rzeźbiarzy, grafików, aktorów, muzyków, choreografów, filmowców i architektów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "art_II/ust_2/lit_j",
+       "text": "uczestnictwo swych przedstawicieli w festiwalach, konkursach, konferencjach i spotkaniach międzynarodowych dotyczących zagadnień kultury, organizowanych przez drugą Umawiającą się Stronę.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "— tłumaczenie i publikację dzieł artystycznych, literackich i naukowych autorów drugiego kraju,"
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "prezentację utworów artystycznych twórców drugiego kraju przez telewizję, radio, teatry, kina, sale koncertowe, studia baletowe i ośrodki wystawowe,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "d"
-    },
-    {
-     "type": "text",
-     "text": "— wzajemną wymianę artystów i grup artystycznych,"
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "organizowanie, za pośrednictwem kompetentnych władz, imprez artystycznych i festiwali filmowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "wymianę książek i innych publikacji z dziedziny kultury, oświaty i nauki,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_2/lit_g",
-     "text": "współpracę szkół artystycznych, muzeów, galerii sztuki, bibliotek, teatrów i innych instytucji kulturalnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_2/lit_h",
-     "text": "wymianę doświadczeń i specjalistów z zakresu muzealnictwa i konserwacji dóbr architektury i kultury,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_2/lit_i",
-     "text": "kontakty między stowarzyszeniami pisarzy, kompozytorów, malarzy, rzeźbiarzy, grafików, aktorów, muzyków, choreografów, filmowców i architektów,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "j",
-     "path": "ust_2/lit_j",
-     "text": "uczestnictwo swych przedstawicieli w festiwalach, konkursach, konferencjach i spotkaniach międzynarodowych dotyczących zagadnień kultury, organizowanych przez drugą Umawiającą się Stronę.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_II/ust_3",
+     "text": "Umawiające się Strony będą ułatwiać przedstawicielom drugiej Umawiającej się Strony dostęp do bibliotek, archiwów, zbiorów muzealnych i innych instytucji kulturalnych.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł II"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą ułatwiać przedstawicielom drugiej Umawiającej się Strony dostęp do bibliotek, archiwów, zbiorów muzealnych i innych instytucji kulturalnych.",
+   "type": "art",
+   "num": "III",
+   "path": "art_III",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł III"
+     "type": "ust",
+     "num": "1",
+     "path": "art_III/ust_1",
+     "text": "Umawiające się Strony będą popierać i ułatwiać, na zasadzie obopólnego zainteresowania i wzajemnych korzyści, wymianę i współpracę we wszystkich dziedzinach nauki i techniki będących w sferze zainteresowania obu Stron oraz będą stwarzać odpowiednie warunki dla bezpośrednich kontaktów pomiędzy placówkami, organizacjami i stowarzyszeniami naukowymi, instytucjami szkolnictwa wyższego i badań, naukowcami i specjalistami obu Państw, w szczególności poprzez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_III/ust_1/lit_a",
+       "text": "wzajemną wymianę wizyt naukowców, nauczycieli akademickich oraz innych specjalistów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_III/ust_1/lit_b",
+       "text": "uzgadnianie wspólnych programów i projektów badawczych oraz wymianę ich wyników,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_III/ust_1/lit_c",
+       "text": "organizowanie wspólnych kursów, konferencji i sympozjów naukowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_III/ust_1/lit_d",
+       "text": "wzajemne przyznawanie stypendiów i wymianę studentów szkół wyższych i stażystów w celu odbywania studiów i staży specjalizacyjnych w dziedzinie nauki, oświaty i kultury,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_III/ust_1/lit_e",
+       "text": "wymianę dokumentacji, publikacji, literatury i informacji naukowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_III/ust_1/lit_f",
+       "text": "wymianę materiałów audiowizualnych, organizowanie wystaw i innych prezentacji o charakterze naukowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_III/ust_1/lit_g",
+       "text": "zapraszanie przedstawicieli jednej Umawiającej się Strony na organizowane przez drugą Stronę kongresy, konferencje i inne spotkania naukowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_III/ust_2",
+     "text": "Umawiające się Strony będą popierać i ułatwiać współpracę i wymianę w dziedzinie oświaty oraz stwarzać odpowiednie warunki dla bezpośrednich kontaktów między szkołami i instytucjami oświatowymi, w szczególności poprzez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_III/ust_2/lit_a",
+       "text": "wymianę nauczycieli i specjalistów z dziedziny oświaty,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_III/ust_2/lit_b",
+       "text": "wymianę uczniów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_III/ust_2/lit_c",
+       "text": "wymianę programów szkolnych, podręczników i innych materiałów dotyczących systemów oświatowych i szko- Inictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_III/ust_2/lit_d",
+       "text": "współpracę w zakresie pomocy naukowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_III/ust_3",
+     "text": "Umawiające się Strony za pośrednictwem swoich właściwych instytucji podejmą pracę nad wzajemną weryfikacją podręczników szkolnych, szczególnie we fragmentach dotyczących historii drugiego kraju, jak również upamiętnienia walki Polaków i Żydów w okresie Zagłady, i w razie potrzeby wprowadzą poprawki do tych podręczników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_III/ust_4",
+     "text": "Umawiające się Strony będą popierać wymianę informacji dotyczącej porównywalności i ekwiwalentności dyplomów i stopni naukowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_III/ust_5",
+     "text": "Umawiające się Strony będą popierać współpracę oraz wymianę informacji i specjalistów w dziedzinie archeologii.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł III"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą popierać i ułatwiać, na zasadzie obopólnego zainteresowania i wzajemnych korzyści, wymianę i współpracę we wszystkich dziedzinach nauki i techniki będących w sferze zainteresowania obu Stron oraz będą stwarzać odpowiednie warunki dla bezpośrednich kontaktów pomiędzy placówkami, organizacjami i stowarzyszeniami naukowymi, instytucjami szkolnictwa wyższego i badań, naukowcami i specjalistami obu Państw, w szczególności poprzez:",
+   "type": "art",
+   "num": "IV",
+   "path": "art_IV",
+   "text": "Umawiające się Strony będą wzajemnie popierać studiowanie języka, literatury, kultury i historii drugiego kraju.",
+   "children": [],
+   "label": "Artykuł IV"
+  },
+  {
+   "type": "art",
+   "num": "V",
+   "path": "art_V",
+   "text": "Umawiające się Strony, za pośrednictwem swych właściwych instytucji, będą rozwijać współpracę w dziedzinie ochrony i konserwacji pomników i dzieł kultury polskiej w Izraelu i kultury żydowskiej w Polsce.",
+   "children": [],
+   "label": "Artykuł V"
+  },
+  {
+   "type": "art",
+   "num": "VI",
+   "path": "art_VI",
+   "text": "Umawiające się Strony będą popierać rozwój współpracy w dziedzinie ochrony zdrowia i nauk medycznych poprzez wymianę specjalistów i informacji na podstawie odpowiednich porozumień między ministerstwami zdrowia obu Państw.",
+   "children": [],
+   "label": "Artykuł VI"
+  },
+  {
+   "type": "art",
+   "num": "VII",
+   "path": "art_VII",
+   "text": "Umawiające się Strony będą popierać współpracę między ich agencjami i organami prasowymi oraz instytucjami radiowo-telewizyjnymi, a także zachęcać do bezpośrednich kontaktów pomiędzy wydawcami gazet i czasopism, organizacjami dziennikarskimi oraz wymiany dziennikarzy, ekip i programów radiowych i telewizyjnych.",
+   "children": [],
+   "label": "Artykuł VII"
+  },
+  {
+   "type": "art",
+   "num": "VIII",
+   "path": "art_VIII",
+   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie sportu i kultury fizycznej, szczególnie w drodze wymiany sportowców, trenerów oraz organizowania spotkań i zawodów sportowych.",
+   "children": [],
+   "label": "Artykuł VIII"
+  },
+  {
+   "type": "art",
+   "num": "IX",
+   "path": "art_IX",
+   "text": "Umawiające się Strony będą popierać kontakty i wymianę między organizacjami młodzieżowymi i studenckimi, jak również wzajemną wymianę młodzieży szkolnej i studenckiej.",
+   "children": [],
+   "label": "Artykuł IX"
+  },
+  {
+   "type": "art",
+   "num": "X",
+   "path": "art_X",
+   "text": "W ramach obowiązujących przepisów Umawiające się Strony zapewnią obywatelom drugiej Strony, przebywającym na ich terytorium, wszelką pomoc i ułatwienia w wykonywaniu zadań powierzonych im zgodnie z postanowieniami niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł X"
+  },
+  {
+   "type": "art",
+   "num": "XI",
+   "path": "art_XI",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "wzajemną wymianę wizyt naukowców, nauczycieli akademickich oraz innych specjalistów,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_XI/ust_1",
+     "text": "Dla realizacji niniejszej umowy powołuje się Komisję Mieszaną, która zbierać się będzie co najmniej raz na trzy lata, na przemian w Rzeczypospolitej Polskiej i w Państwie Izrael.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "uzgadnianie wspólnych programów i projektów badawczych oraz wymianę ich wyników,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_XI/ust_2",
+     "text": "Komisja Mieszana będzie opracowywać okresowe programy wykonawcze, określające między innymi warunki finansowania wymiany, oceniać stan realizacji niniejszej umowy oraz proponować odpowiednie zalecenia.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "organizowanie wspólnych kursów, konferencji i sympozjów naukowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "wzajemne przyznawanie stypendiów i wymianę studentów szkół wyższych i stażystów w celu odbywania studiów i staży specjalizacyjnych w dziedzinie nauki, oświaty i kultury,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "wymianę dokumentacji, publikacji, literatury i informacji naukowej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "wymianę materiałów audiowizualnych, organizowanie wystaw i innych prezentacji o charakterze naukowym,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "zapraszanie przedstawicieli jednej Umawiającej się Strony na organizowane przez drugą Stronę kongresy, konferencje i inne spotkania naukowe.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_XI/ust_3",
+     "text": "Strony wyrażają gotowość popierania innych przedsięwzięć, które nie będą zawarte w programach wykonawczych, lecz będą zgodne z duchem niniejszej umowy.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł XI"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą popierać i ułatwiać współpracę i wymianę w dziedzinie oświaty oraz stwarzać odpowiednie warunki dla bezpośrednich kontaktów między szkołami i instytucjami oświatowymi, w szczególności poprzez:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wymianę nauczycieli i specjalistów z dziedziny oświaty,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "wymianę uczniów,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "wymianę programów szkolnych, podręczników i innych materiałów dotyczących systemów oświatowych i szko- Inictwa,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "współpracę w zakresie pomocy naukowych.",
-     "children": []
-    }
-   ]
+   "type": "art",
+   "num": "XII",
+   "path": "art_XII",
+   "text": "Każda z Umawiających się Stron zezwoli na ustanowienie na jej terytorium ośrodka kultury i informacji drugiej Umawiającej się Strony. Ustanowienie i działalność tych ośrodków będzie określona w odrębnej umowie.",
+   "children": [],
+   "label": "Artykuł XII"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony za pośrednictwem swoich właściwych instytucji podejmą pracę nad wzajemną weryfikacją podręczników szkolnych, szczególnie we fragmentach dotyczących historii drugiego kraju, jak również upamiętnienia walki Polaków i Żydów w okresie Zagłady, i w razie potrzeby wprowadzą poprawki do tych podręczników.",
-   "children": []
+   "type": "art",
+   "num": "XIII",
+   "path": "art_XIII",
+   "text": "Umowa niniejsza podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
+   "children": [],
+   "label": "Artykuł XIII"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony będą popierać wymianę informacji dotyczącej porównywalności i ekwiwalentności dyplomów i stopni naukowych.",
-   "children": []
+   "type": "art",
+   "num": "XIV",
+   "path": "art_XIV",
+   "text": "Umowa niniejsza jest zawarta na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu.",
+   "children": [],
+   "label": "Artykuł XIV"
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Umawiające się Strony będą popierać współpracę oraz wymianę informacji i specjalistów w dziedzinie archeologii.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł IV"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą wzajemnie popierać studiowanie języka, literatury, kultury i historii drugiego kraju."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł V"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony, za pośrednictwem swych właściwych instytucji, będą rozwijać współpracę w dziedzinie ochrony i konserwacji pomników i dzieł kultury polskiej w Izraelu i kultury żydowskiej w Polsce."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VI"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą popierać rozwój współpracy w dziedzinie ochrony zdrowia i nauk medycznych poprzez wymianę specjalistów i informacji na podstawie odpowiednich porozumień między ministerstwami zdrowia obu Państw."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VII"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą popierać współpracę między ich agencjami i organami prasowymi oraz instytucjami radiowo-telewizyjnymi, a także zachęcać do bezpośrednich kontaktów pomiędzy wydawcami gazet i czasopism, organizacjami dziennikarskimi oraz wymiany dziennikarzy, ekip i programów radiowych i telewizyjnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VIII"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą popierać współpracę w dziedzinie sportu i kultury fizycznej, szczególnie w drodze wymiany sportowców, trenerów oraz organizowania spotkań i zawodów sportowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł IX"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą popierać kontakty i wymianę między organizacjami młodzieżowymi i studenckimi, jak również wzajemną wymianę młodzieży szkolnej i studenckiej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł X"
-    },
-    {
-     "type": "text",
-     "text": "W ramach obowiązujących przepisów Umawiające się Strony zapewnią obywatelom drugiej Strony, przebywającym na ich terytorium, wszelką pomoc i ułatwienia w wykonywaniu zadań powierzonych im zgodnie z postanowieniami niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XI"
-    }
-   ]
+   "type": "text",
+   "text": "Sporządzono w Jerozolimie dnia 22 maja 1991 r., co jest odpowiednikiem 9 sivan roku 5751, w dwóch egzemplarzach, każdy w językach polskim, hebrajskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne; w razie rozbieżności przy ich interpretacji, tekst angielski uważany będzie za rozstrzygający."
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dla realizacji niniejszej umowy powołuje się Komisję Mieszaną, która zbierać się będzie co najmniej raz na trzy lata, na przemian w Rzeczypospolitej Polskiej i w Państwie Izrael.",
-   "children": []
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komisja Mieszana będzie opracowywać okresowe programy wykonawcze, określające między innymi warunki finansowania wymiany, oceniać stan realizacji niniejszej umowy oraz proponować odpowiednie zalecenia.",
-   "children": []
+   "type": "text",
+   "text": "Rzeczypospolitej Polskiej Państwa Izrael"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony wyrażają gotowość popierania innych przedsięwzięć, które nie będą zawarte w programach wykonawczych, lecz będą zgodne z duchem niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł XII"
-    },
-    {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron zezwoli na ustanowienie na jej terytorium ośrodka kultury i informacji drugiej Umawiającej się Strony. Ustanowienie i działalność tych ośrodków będzie określona w odrębnej umowie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XIII"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XIV"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza jest zawarta na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na dalsze okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Jerozolimie dnia 22 maja 1991 r., co jest odpowiednikiem 9 sivan roku 5751, w dwóch egzemplarzach, każdy w językach polskim, hebrajskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne; w razie rozbieżności przy ich interpretacji, tekst angielski uważany będzie za rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu"
-    },
-    {
-     "type": "text",
-     "text": "Rzeczypospolitej Polskiej Państwa Izrael"
-    },
-    {
-     "type": "text",
-     "text": "Marek Rostworowski David Levy"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową w imieniu Rzeczypospolitej Polskiej oświadczam, że — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 21 listopada 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
-    }
-   ]
+   "type": "text",
+   "text": "Marek Rostworowski David Levy"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową w imieniu Rzeczypospolitej Polskiej oświadczam, że — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 21 listopada 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

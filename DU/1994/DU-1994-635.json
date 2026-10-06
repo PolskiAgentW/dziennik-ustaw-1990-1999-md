@@ -13,1361 +13,1427 @@
    "text": "uzgodniły, co nastepuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "W rozumieniu niniejszej konwencji ,,statek’” oznacza urządzenie pływające jakiegokolwiek rodzaju, nie złączone na stałe z dnem morskim, łącznie z urządzeniami dynamicznie podtrzymywanymi (niewypornościowymi), urządzeniami zdolnymi do zanurzania się lub wszelkimi innymi urządzeniami pływającymi."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Konwencja niniejsza nie ma zastosowania do:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) okrętu wojennego lub"
-    },
-    {
-     "type": "text",
-     "text": "(b) statku należącego do państwa lub przez nie eksploatowanego, jeśli jest on wykorzystywany jako wojskowa jednostka pomocnicza lub służy władzom celnym bądź policji, lub"
-    },
-    {
-     "type": "text",
-     "text": "(c) statku wycofanego z żeglugi, lub statku nie będącego w eksploatacji (na uwięzi)."
-    }
-   ]
+   "path": "art_1",
+   "text": "W rozumieniu niniejszej konwencji ,,statek’” oznacza urządzenie pływające jakiegokolwiek rodzaju, nie złączone na stałe z dnem morskim, łącznie z urządzeniami dynamicznie podtrzymywanymi (niewypornościowymi), urządzeniami zdolnymi do zanurzania się lub wszelkimi innymi urządzeniami pływającymi.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Żaden przepis niniejszej konwencji nie narusza immunitetu okrętów wojennych i innych statków państwowych eksploatowanych w celach niehandlowych.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Konwencja niniejsza nie ma zastosowania do:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) okrętu wojennego lub"
+      },
+      {
+       "type": "text",
+       "text": "(b) statku należącego do państwa lub przez nie eksploatowanego, jeśli jest on wykorzystywany jako wojskowa jednostka pomocnicza lub służy władzom celnym bądź policji, lub"
+      },
+      {
+       "type": "text",
+       "text": "(c) statku wycofanego z żeglugi, lub statku nie będącego w eksploatacji (na uwięzi)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Żaden przepis niniejszej konwencji nie narusza immunitetu okrętów wojennych i innych statków państwowych eksploatowanych w celach niehandlowych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoba popełnia przestępstwo, jeżeli bezprawnie i umyślnie:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) zajmuje statek lub przejmuje nad nim kontrolę przy użyciu siły lub groźby jej użycia lub za pomocą wszelkiej innej formy zastraszenia, lub"
-    },
-    {
-     "type": "text",
-     "text": "(b) dokonuje aktu przemocy przeciwko osobie znajdującej się na statku, jeżeli działanie to może zagrażać bezpiecznej żegludze tego statku, lub"
-    },
-    {
-     "type": "text",
-     "text": "niszczy statek albo powoduje uszkodzenie statku lub"
-    },
-    {
-     "type": "text",
-     "text": "—"
-    },
-    {
-     "type": "text",
-     "text": "(c jego ładunku, jeżeli działanie to może zagrażać bezpiecznej żegludze tego statku, lub"
-    },
-    {
-     "type": "text",
-     "text": "(d umieszcza, lub powoduje umieszczenie na statku, za"
-    },
-    {
-     "type": "text",
-     "text": "— pomocą jakichkolwiek środków, urządzenia lub substancji, która może zniszczyć ten statek lub spowodować jego uszkodzenie lub znajdującego się na nim ładunku, powodując przez to zagrożenie lub możliwość zagrożenia dla bezpiecznej żeglugi tego statku, lub"
-    },
-    {
-     "type": "text",
-     "text": "niszczy albo w sposób poważny uszkadza morskie m"
-    },
-    {
-     "type": "text",
-     "text": "— iJ urządzenia nawigacyjne, albo w poważny sposób przeszkadza w ich obsłudze, jeżeli działanie takie może zagrażać bezpiecznej żegludze statku, lub"
-    },
-    {
-     "type": "text",
-     "text": "przekazuje informacje, o których wie, że są fałszywe,"
-    },
-    {
-     "type": "text",
-     "text": "(f"
-    },
-    {
-     "type": "text",
-     "text": "— powodując w ten sposób zagrożenie dla bezpiecznej żeglugi statku, lub"
-    },
-    {
-     "type": "text",
-     "text": "rani albo zabija inną osobę w związku z popełnieniem"
-    },
-    {
-     "type": "text",
-     "text": "—"
-    },
-    {
-     "type": "text",
-     "text": "(g lub próbą popełnienia jakiegokolwiek przestępstwa wymienionego w punktach od (a) do (f)."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Osoba popełnia również przestępstwo, jeżeli:",
-   "children": [
-    {
-     "type": "text",
-     "text": "usiłuje popełnić jakiekolwiek przestępstwo wymienione"
-    },
-    {
-     "type": "text",
-     "text": "~~"
-    },
-    {
-     "type": "text",
-     "text": "~~ © w ustępie 1 lub"
-    },
-    {
-     "type": "text",
-     "text": "(b) namawia inną osobę do popełnienia przestępstw wymienionych w ustępie 1, lub w jakikolwiek sposób współdziała z osobą popełniającą takie przestępstwa, lub"
-    },
-    {
-     "type": "text",
-     "text": "Have agreed as follows:"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "For the purposes of this Convention, „ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles, or any other floating craft."
-    },
-    {
-     "type": "text",
-     "text": "Article 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention does not apply to:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) a warship; or"
-    },
-    {
-     "type": "text",
-     "text": "(b) a ship owned or operated by a State when being used as a naval auxiliary or for customs or police purposes; or"
-    },
-    {
-     "type": "text",
-     "text": "(c) aship which has been withdrawn from navigation or laid up."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nothing in this Convention affects the immunities of warships and other government ships operated for non- -commercial purposes.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any person commits an offence if that person unlawfully and intentionally:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) seizes or exercises control over a ship by force or threat thereof or any other form of intimidation; or"
-    },
-    {
-     "type": "text",
-     "text": "(b) performs an act of violence against a person on board a ship if that act is likely to endanger the safe navigation of that ship; or"
-    },
-    {
-     "type": "text",
-     "text": "(c) destroys a ship or causes damage to a ship or to its cargo which is likely to endanger the safe navigation of that ship; or"
-    },
-    {
-     "type": "text",
-     "text": "places or causes to be placed on a ship, by any means"
-    },
-    {
-     "type": "text",
-     "text": "(d"
-    },
-    {
-     "type": "text",
-     "text": "— whatsoever, a device or substance which is likely to destroy that ship, or cause damage to that ship or its cargo which endangers or is likely to endanger the safe navigation of that ship; or"
-    },
-    {
-     "type": "text",
-     "text": "(e) destroys or seriously damages maritime navigational facilities or seriously interferes with their operation, if any such act is likely to endanger the safe navigation of a ship; or"
-    },
-    {
-     "type": "text",
-     "text": "(f) communicates information which he knows to be false, thereby endangering the safe navigation of a ship; or"
-    },
-    {
-     "type": "text",
-     "text": "injures or kills any person, in connection with the"
-    },
-    {
-     "type": "text",
-     "text": "~~"
-    },
-    {
-     "type": "text",
-     "text": "(g commission or the attempted commission of any of the offences set forth in subparagraphs (a) to (f)."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any person also commits an offence if that person:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a ~ attempts to commit any of the offences set forth in paragraph 1; or"
-    },
-    {
-     "type": "text",
-     "text": "(b"
-    },
-    {
-     "type": "text",
-     "text": "— abets the commission of any of the offences set forth in paragraph 1 perpetrated by any person or is otherwise an accomplice of a person who commits such an offence; or"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "(c) grozi, stawiając warunki lub nie stawiając warunków, jakie są przewidziane w prawie wewnętrznym, w celu zmuszenia osoby fizycznej lub prawnej do dokonania lub powstrzymania się od dokonania określonego czynu, że popełni jakiekolwiek przestępstwo wyszczególnione w ustępie 1 punkty (b), (c) i (e), jeżeli groźba taka naraża bezpieczną żeglugę danego statku."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja ma zastosowanie, jeżeli statek przepływa lub zgodnie z planem ma wpłynąć na, przepłynąć przez lub wypłynąć z wód znajdujących się poza zewnętrzną granicą morza terytorialnego jednego państwa lub poza bocznymi granicami jego morza terytorialnego graniczącego z przyległymi państwami.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadkach, w których konwencja nie ma zastosowania na podstawie ustępu 1, stosowana jest mimo wszystko, jeżeli sprawca lub domniemany sprawca przestępstwa przebywa na terytorium państwa-strony innego niż państwo, do którego odnosi się ustęp 1.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Każde państwo-strona ustali właściwe sankcje karne za przestępstwa wymienione w artykule 3, uznając poważny charakter tych przestępstw."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde państwo-strona podejmie takie środki, jakie mogą okazać się konieczne do ustanowienia swej jurysdykcji w sprawach o przestępstwa wymienione w artykule 3, jeżeli przestępstwa te są popełnione:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) przeciwko statkowi lub na statku podnoszącym banderę tego państwa w czasie popełnienia przestępstwa, lub"
-    },
-    {
-     "type": "text",
-     "text": "(b) na terytorium tego państwa, włącznie z jego morzem terytorialnym, lub"
-    },
-    {
-     "type": "text",
-     "text": "(c) przez obywatela tego państwa."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo-strona może również ustanowić swą jurysdykcję w sprawach o każde z tvch przestępstw, jeżeli:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) jest ono popełnione przez bezpaństwowca zamieszkałego na stałe w tym państwie lub"
-    },
-    {
-     "type": "text",
-     "text": "(b) w wyniku przestępstwa obywatel tego państwa jest zatrzymany, zastraszony, zraniony lub zabity, lub"
-    },
-    {
-     "type": "text",
-     "text": "(c) jest ono popełnione w celu zmuszenia tego państwa do dokonania lub powstrzymania się od dokonania jakiegokolwiek działania."
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Każde państwo-strona, które ustanowiło jurysdykcję określoną w ustępie 2, zawiadamia o tym Sekretarza Generalnego Międzynarodowej Organizacji Morskiej (zwanego dalej „Sekretarzem Generalnym\"). Jeżeli państwo to następnie odwołuje swoją jurysdykcję, zawiadamia o tym Sekretarza Generalnego.",
-   "children": []
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Osoba popełnia przestępstwo, jeżeli bezprawnie i umyślnie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) zajmuje statek lub przejmuje nad nim kontrolę przy użyciu siły lub groźby jej użycia lub za pomocą wszelkiej innej formy zastraszenia, lub"
+      },
+      {
+       "type": "text",
+       "text": "(b) dokonuje aktu przemocy przeciwko osobie znajdującej się na statku, jeżeli działanie to może zagrażać bezpiecznej żegludze tego statku, lub"
+      },
+      {
+       "type": "text",
+       "text": "niszczy statek albo powoduje uszkodzenie statku lub"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "text",
+       "text": "(c jego ładunku, jeżeli działanie to może zagrażać bezpiecznej żegludze tego statku, lub"
+      },
+      {
+       "type": "text",
+       "text": "(d umieszcza, lub powoduje umieszczenie na statku, za"
+      },
+      {
+       "type": "text",
+       "text": "— pomocą jakichkolwiek środków, urządzenia lub substancji, która może zniszczyć ten statek lub spowodować jego uszkodzenie lub znajdującego się na nim ładunku, powodując przez to zagrożenie lub możliwość zagrożenia dla bezpiecznej żeglugi tego statku, lub"
+      },
+      {
+       "type": "text",
+       "text": "niszczy albo w sposób poważny uszkadza morskie m"
+      },
+      {
+       "type": "text",
+       "text": "— iJ urządzenia nawigacyjne, albo w poważny sposób przeszkadza w ich obsłudze, jeżeli działanie takie może zagrażać bezpiecznej żegludze statku, lub"
+      },
+      {
+       "type": "text",
+       "text": "przekazuje informacje, o których wie, że są fałszywe,"
+      },
+      {
+       "type": "text",
+       "text": "(f"
+      },
+      {
+       "type": "text",
+       "text": "— powodując w ten sposób zagrożenie dla bezpiecznej żeglugi statku, lub"
+      },
+      {
+       "type": "text",
+       "text": "rani albo zabija inną osobę w związku z popełnieniem"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "text",
+       "text": "(g lub próbą popełnienia jakiegokolwiek przestępstwa wymienionego w punktach od (a) do (f)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Osoba popełnia również przestępstwo, jeżeli:",
+     "children": [
+      {
+       "type": "text",
+       "text": "usiłuje popełnić jakiekolwiek przestępstwo wymienione"
+      },
+      {
+       "type": "text",
+       "text": "~~"
+      },
+      {
+       "type": "text",
+       "text": "~~ © w ustępie 1 lub"
+      },
+      {
+       "type": "text",
+       "text": "(b) namawia inną osobę do popełnienia przestępstw wymienionych w ustępie 1, lub w jakikolwiek sposób współdziała z osobą popełniającą takie przestępstwa, lub"
+      },
+      {
+       "type": "text",
+       "text": "Have agreed as follows:"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "For the purposes of this Convention, „ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles, or any other floating craft."
+      },
+      {
+       "type": "text",
+       "text": "Article 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "This Convention does not apply to:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) a warship; or"
+      },
+      {
+       "type": "text",
+       "text": "(b) a ship owned or operated by a State when being used as a naval auxiliary or for customs or police purposes; or"
+      },
+      {
+       "type": "text",
+       "text": "(c) aship which has been withdrawn from navigation or laid up."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Nothing in this Convention affects the immunities of warships and other government ships operated for non- -commercial purposes.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Any person commits an offence if that person unlawfully and intentionally:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) seizes or exercises control over a ship by force or threat thereof or any other form of intimidation; or"
+      },
+      {
+       "type": "text",
+       "text": "(b) performs an act of violence against a person on board a ship if that act is likely to endanger the safe navigation of that ship; or"
+      },
+      {
+       "type": "text",
+       "text": "(c) destroys a ship or causes damage to a ship or to its cargo which is likely to endanger the safe navigation of that ship; or"
+      },
+      {
+       "type": "text",
+       "text": "places or causes to be placed on a ship, by any means"
+      },
+      {
+       "type": "text",
+       "text": "(d"
+      },
+      {
+       "type": "text",
+       "text": "— whatsoever, a device or substance which is likely to destroy that ship, or cause damage to that ship or its cargo which endangers or is likely to endanger the safe navigation of that ship; or"
+      },
+      {
+       "type": "text",
+       "text": "(e) destroys or seriously damages maritime navigational facilities or seriously interferes with their operation, if any such act is likely to endanger the safe navigation of a ship; or"
+      },
+      {
+       "type": "text",
+       "text": "(f) communicates information which he knows to be false, thereby endangering the safe navigation of a ship; or"
+      },
+      {
+       "type": "text",
+       "text": "injures or kills any person, in connection with the"
+      },
+      {
+       "type": "text",
+       "text": "~~"
+      },
+      {
+       "type": "text",
+       "text": "(g commission or the attempted commission of any of the offences set forth in subparagraphs (a) to (f)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Any person also commits an offence if that person:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a ~ attempts to commit any of the offences set forth in paragraph 1; or"
+      },
+      {
+       "type": "text",
+       "text": "(b"
+      },
+      {
+       "type": "text",
+       "text": "— abets the commission of any of the offences set forth in paragraph 1 perpetrated by any person or is otherwise an accomplice of a person who commits such an offence; or"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(c) grozi, stawiając warunki lub nie stawiając warunków, jakie są przewidziane w prawie wewnętrznym, w celu zmuszenia osoby fizycznej lub prawnej do dokonania lub powstrzymania się od dokonania określonego czynu, że popełni jakiekolwiek przestępstwo wyszczególnione w ustępie 1 punkty (b), (c) i (e), jeżeli groźba taka naraża bezpieczną żeglugę danego statku."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Każde państwo-strona podejmie niezbędne środki dla ustanowienia swej jurysdykcji w sprawach o przestępstwa wymienione w artykule 3 w przypadkach, gdy domniemany sprawca znajduje się na jego terytorium, a państwo to nie wydaje go żadnemu z tych państw, które ustanowiły swą jurysdykcję zgodnie z ustępem 1 i 2 niniejszego artykułu.",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(c) threatens, with or without a condition, as is provided for under national law, aimed at compelling a physical or juridical person to do or refrain from doing any act, to commit any of the offences set forth in paragraph 1, subparagraphs (b), (c) and (e), if that threat is likely to endanger the safe navigation of the ship in question."
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Niniejsza konwencja ma zastosowanie, jeżeli statek przepływa lub zgodnie z planem ma wpłynąć na, przepłynąć przez lub wypłynąć z wód znajdujących się poza zewnętrzną granicą morza terytorialnego jednego państwa lub poza bocznymi granicami jego morza terytorialnego graniczącego z przyległymi państwami.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Article 4"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "W przypadkach, w których konwencja nie ma zastosowania na podstawie ustępu 1, stosowana jest mimo wszystko, jeżeli sprawca lub domniemany sprawca przestępstwa przebywa na terytorium państwa-strony innego niż państwo, do którego odnosi się ustęp 1.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention applies if the ship is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single State, or the lateral limits of its territorial sea with adjacent States.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "In cases where the Convention does not apply pursuant to paragraph 1, it nevertheless applies when the offender or the alleged offender is found in the territory of a State Party other than the State referred to in paragraph 1.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Each State Party shall make the offences set forth in article 3 punishable by appropriate penalties which take into account the grave nature of those offences."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 3 when the offence is committed:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) against or on board a ship flying the flag of the State at the time the offence is committed; or"
-    },
-    {
-     "type": "text",
-     "text": "(b) inthe territory of that State, including its territorial sea; or"
-    },
-    {
-     "type": "text",
-     "text": "(c) by a national of that State."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "A State Party may also establish its jurisdiction over any such offence when:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) it is committed by a stateless person whose habitual residence is in that State; or"
-    },
-    {
-     "type": "text",
-     "text": "(b) during its commission a national of that State is seized, threatened, injured or killed; or"
-    },
-    {
-     "type": "text",
-     "text": "(c) it is committed in an attempt to compel that State to do or abstain from doing any act."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any State Party which has established jurisdiction mentioned in paragraph 2 shall notify the Secretary- General of the International Maritime Organization (hereinafter referred. to as „the Secretary-General”). If such State Party subsequently rescinds that jurisdiction, it shall notify the Secretary- General.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 3 in cases where the alleged offender is present in its territory and it does not extradite him to any of the States Parties which have established their jurisdiction in accordance with paragraphs 1 and 2 of this article.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Niniejsza konwencja nie wyłącza jurysdykcji karnej wykonywanej zgodnie z przepisami prawa wewnętrznego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
+   "path": "art_5",
+   "text": "Każde państwo-strona ustali właściwe sankcje karne za przestępstwa wymienione w artykule 3, uznając poważny charakter tych przestępstw.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Po rozpatrzeniu zaistniałych okoliczności każde państwo-strona, na którego terytorium znajduje się sprawca lub domniemany sprawca przestępstwa, zgodnie ze swoim prawem wewnętrznym zatrzyma go lub podejmie inne środki zapewniające jego obecność przez okres konieczny do przeprowadzenia postępowania karnego lub ekstradycyjnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo to niezwłocznie przystąpi — zgodnie ze swoim ustawodawstwem — do przeprowadzenia wstępnego dochodzenia dla ustalenia faktów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każdej osobie, w stosunku do której podjęte zostały środki przewidziane w ustępie 1, przysługuje prawo do:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) bezzwłocznego kontaktu z najbliższym właściwym przedstawicielem państwa, którego jest obywatelem lub który jest w inny sposób uprawniony do nawiązywania takiego kontaktu, a jeżeli osoba taka jest bezpaństwowcem, ma ona prawo do kontaktu z przedstawicielem tego państwa, na którego terytorium ma stałe miejsce zamieszkania, a"
-    },
-    {
-     "type": "text",
-     "text": "(b) odwiedzin przez przedstawiciela tego państwa."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Uprawnienia wymienione w ustępie 3 będą wykonywane zgodnie z normami prawa i przepisami prawnymi państwa, na którego terytorium przebywa sprawca lub domniemany sprawca przestępstwa, pod warunkiem że wymienione normy i przepisy w pełni zapewniają realizację celów, dla których zostały przyznane uprawnienia wymienione w ustępie 3.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "W przypadku gdy państwo-strona zatrzymało osobę na podstawie niniejszego artykułu, niezwłocznie zawiadamia o fakcie zatrzymania oraz o okolicznościach uzasadniających zatrzymanie wszystkie państwa, które ustanowiły swą jurysdykcję zgodnie z artykułem 6 ustęp 1, a jeżeli uzna to za celowe — również inne zainteresowane państwa. Państwo, które zgodnie z ustępem 2 niniejszego artykułu prowadzi wstępne dochodzenie, niezwłocznie zawiadamia wyżej określone państwo o jego wynikach i oświadcza, czy zamierza wykonywać swą jurysdykcję.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Kapitan statku należącego do państwa-strony (,,paristwa bandery”) może władzom innego państwa-strony (..państwa przyjmującego”) wydać każdą osobę, w stosunku do której ma on uzasadnione podstawy do przeświadczenia, że osoba ta popełniła jedno z przestępstw wymienionych w artykule 3.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo bandery zapewni, aby kapitan statku, na którego pokładzie znajduje się osoba, którą kapitan ma zamiar wydać zgodnie z ustępem 1, został zobowiązany — gdy jest to możliwe do wykonania i w miarę możności przed wejściem na morze terytorialne państwa przyjmującego — do poinformowania władz państwa przyjmującego o zamiarze wydania takiej osoby i o powodach tego wydania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Państwo przyjmujące zaakceptuje to wydanie, z wyjątkiem sytuacji, gdy istnieją podstawy do uznania, że konwencja nie ma zastosowania do czynów powodujących wydanie, i postępuje wówczas zgodnie z postanowieniami artykułu 7. Każda odmowa zaakceptowania wydania powinna być umotywowana.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Upon being satisfied that the circumstances so warrant, any State Party in the territory of which the offender or the alleged offender is present shall, in accordance with its law, take him into custody or take other measures to ensure his presence for such time as is necessary to enable any criminal or extradition proceedings to be instituted.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Such State shall immediately make a preliminary inquiry into the facts, in accordance with its own legislation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any person regarding whom the measures referred to in paragraph 1 are being taken shall be entitled to:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) communicate without delay with the nearest appropriate representative of the State of which he is a national or which is otherwise entitled to establish such communication or, if he is a stateless person, the State in the territory of which he has his habitual residence;"
-    },
-    {
-     "type": "text",
-     "text": "(b) be visited by a representative of that State."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the State in the territory of which the offender or the alleged offender is present, subject to the proviso that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "When a State Party, pursuant to this article, has taken a person into custody, it shall immediately notify the States which have established jurisdiction in accordance with article 6, paragraph 1 and, if it considers it advisable, any other interested States, of the fact that such person is in custody and of the circumstances which warrant his detention. The State which makes the preliminary inquiry contemplated in paragraph 2 of this article shall promptly report its findings to the said States and shall indicate whether it intends to exercise jurisdiction.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The master of a ship of a State Party (the „flag State” ) may deliver to the authorities of any other State Party (the „receiving State’) any person who he has reasonable grounds to believe has committed one of the offences set forth in article 3.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The flag State shall ensure that the master of its ship is obliged, whenever practicable, and if possible before entering the territorial sea of the receiving State carrying on board any person whom the master intends to deliver in accordance with paragraph 1, to give notification to the authorities of the receiving State of his intention to deliver such person and the reasons therefor.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The receiving State shall accept the delivery, except where it has grounds to consider that the Convention is not applicable to the acts giving rise to the delivery, and shall proceed in accordance with the provisions of article 7. Any refusal to accept a delivery shall be accompanied by a statement of the reasons for refusal.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "YO ZZA ZZOZ CZNIE ZZA,"
-    },
-    {
-     "type": "text",
-     "text": "na statku władzom państwa przyjmującego posiadanych przez niego dowodów odnoszących się do domniemanego przestępstwa."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Państwo przyjmujące, które zgodnie z ustępem 3 zaakceptowało wydanie osoby, może z kolei zwrócić się z wnioskiem do państwa bandery o zaakceptowanie wydania tej osoby. Państwo bandery rozważy taki wniosek i jeżeli rozpatrzy go pozytywnie, postępuje zgodnie z artykułem 7. Jeżeli państwo bandery oddali wniosek, to dostarczy państwu przyjmującemu oświadczenie dotyczące powodów odmowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Żadne z postanowień niniejszej konwencji nie narusza w jakikolwiek sposób norm prawa międzynarodowego odnoszących się do kompetencji państw do prowadzenia postępowania przygotowawczego lub wykonywania jurysdykcji na statkach nie podnoszących bandery tych państw."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwo-strona, na którego terytorium przebywa sprawca lub domniemany sprawca przestępstwa, jeżeli go nie wydaje, to — w przypadkach, w których ma zastosowanie artykuł 6 — zobowiązane jest, bez żadnego wyjątku oraz bez względu na to, czy przestępstwo zostało popełnione na jego terytorium, przedłożyć niezwłocznie sprawę swym wiłaściwym władzom w celu przeprowadzenia postępowania karnego zgodnie z prawem tego państwa. Powyższe władze powinny podjąć decyzję w taki sam sposób, w jaki podejmowane są decyzje w przypadkach wszelkich innych przestępstw uznanych w prawie tego państwa za przestępstwa o poważnym charakterze.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdej osobie, w stosunku do której prowadzone jest postępowanie w związku z przestępstwem wymienionym w artykule 3, powinno być zagwarantowane sprawiedliwe traktowanie na wszystkich etapach postępowania, łącznie z korzystaniem ze wszystkich praw i gwarancji przewidzianych dla tego rodzaju postępowań przez prawo państwa, na którego terytorium przebywa ta osoba.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przestępstwa wymienione w artykule 3 uznane będą za podlegające włączeniu, jako przestępstwa uzasadniające ekstradycję, do każdej umowy o ekstradycję istniejącej między państwami-stronami. Państwa-strony zobowiązują się włączyć takie przestępstwa, jako przestępstwa uzasadniające ekstradycję, do każdej umowy ekstradycyjnej, jaka będzie między nimi zawarta.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli państwo-strona, które uzależnia ekstradycję od istnienia umowy, otrzyma wniosek o ekstradycję od innego państwa-strony, z którym nie ma umowy ekstradycyjnej, państwo otrzymujące taki wniosek może na podstawie własnej decyzji uznać niniejszą konwencję za podstawę prawną ekstradycji w związku z przestępstwami wymienionymi w artykule 3. Ekstradycja będzie zgodna z innymi warunkami przewidzianymi przez prawo państwa wezwanego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The flag State shall ensure that the master of its ship is obliged to furnish the authorities of the receiving State with the evidence in the master’s possession which pertains to the alleged offence.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "A receiving State which has accepted the delivery of a person in accordance with paragraph 3 may, in turn, request the flag State to accept delivery of that person. The flag State shall consider any such request, and if it accedes to the request it shall proceed in accordance with article 7. If the flag State declines a request, it shall furnish the receiving State with a statement of the reasons therefor.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "Nothing in this Convention shall affect in any way the rules of international law pertaining to the competence of States to exercise investigative or enforcement jurisdiction on board ships not flying their flag."
-    },
-    {
-     "type": "text",
-     "text": "Article 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The State Party in the territory of which the offender or the alleged offender is found shall, in cases to which article 6 applies, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case without delay to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any other offence of a grave nature under the law of that State.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any person regarding whom proceedings are being carried out in connection with any of the offences set forth in article 3 shall be guaranteed fair treatment at all stages of the proceedings, including enjoyment of all the rights and guarantees provided for such proceedings by the law of the State in the territory of which he is present.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The offences set forth in article 3 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 3. Extradition shall be subject to the other conditions provided by the law of the requested State Party.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Państwa-strony, które nie uzależniają ekstradycji od istnienia umowy, uznają między sobą przestępstwa wymienione w artykule 3 za przestępstwa uzasadniające ekstradycję między tymi państwami, z uwzględnieniem warunków przewidzianych przez prawo państwa wezwanego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "W razie potrzeby przestępstwa wymienione w artykule 3 będą traktowane dla celów ekstradycyjnych między państwami-stronami, jak gdyby były popełnione nie tylko w miejscu ich faktycznego popełnienia, ale również w jakimkolwiek miejscu objętym jurysdykcją państwa-strony domagającego się ekstradycji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Państwo-strona, które otrzymało więcej niż jeden wniosek o ekstradycję od państw, które ustanowiły jurysdykcję, zgodnie z artykułem 6, a które nie zdecydowało się na wszczęcie postępowania karnego, przy wyborze państwa, do którego ma być wykonana ekstradycja sprawcy lub domniemanego sprawcy przestępstwa, zwraca należytą uwagę na interesy i zakres odpowiedzialności państwa-strony, pod którego banderą płynął statek w czasie popełnienia przestępstwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "6",
-   "path": "ust_6",
-   "text": "Rozważając zgodnie z niniejszą konwencją wniosek o ekstradycję domniemanego sprawcy przestępstwa, państwo, które otrzymało taki wniosek, zwróci odpowiednią uwagę na to, czy jego prawa przewidziane w artykule 7 ustęp 3 mogą być realizowane w państwie wnoszącym o ekstradycję.",
-   "children": []
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Każde państwo-strona podejmie takie środki, jakie mogą okazać się konieczne do ustanowienia swej jurysdykcji w sprawach o przestępstwa wymienione w artykule 3, jeżeli przestępstwa te są popełnione:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) przeciwko statkowi lub na statku podnoszącym banderę tego państwa w czasie popełnienia przestępstwa, lub"
+      },
+      {
+       "type": "text",
+       "text": "(b) na terytorium tego państwa, włącznie z jego morzem terytorialnym, lub"
+      },
+      {
+       "type": "text",
+       "text": "(c) przez obywatela tego państwa."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Państwo-strona może również ustanowić swą jurysdykcję w sprawach o każde z tvch przestępstw, jeżeli:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) jest ono popełnione przez bezpaństwowca zamieszkałego na stałe w tym państwie lub"
+      },
+      {
+       "type": "text",
+       "text": "(b) w wyniku przestępstwa obywatel tego państwa jest zatrzymany, zastraszony, zraniony lub zabity, lub"
+      },
+      {
+       "type": "text",
+       "text": "(c) jest ono popełnione w celu zmuszenia tego państwa do dokonania lub powstrzymania się od dokonania jakiegokolwiek działania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Każde państwo-strona, które ustanowiło jurysdykcję określoną w ustępie 2, zawiadamia o tym Sekretarza Generalnego Międzynarodowej Organizacji Morskiej (zwanego dalej „Sekretarzem Generalnym\"). Jeżeli państwo to następnie odwołuje swoją jurysdykcję, zawiadamia o tym Sekretarza Generalnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Każde państwo-strona podejmie niezbędne środki dla ustanowienia swej jurysdykcji w sprawach o przestępstwa wymienione w artykule 3 w przypadkach, gdy domniemany sprawca znajduje się na jego terytorium, a państwo to nie wydaje go żadnemu z tych państw, które ustanowiły swą jurysdykcję zgodnie z ustępem 1 i 2 niniejszego artykułu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(c) threatens, with or without a condition, as is provided for under national law, aimed at compelling a physical or juridical person to do or refrain from doing any act, to commit any of the offences set forth in paragraph 1, subparagraphs (b), (c) and (e), if that threat is likely to endanger the safe navigation of the ship in question."
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "This Convention applies if the ship is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single State, or the lateral limits of its territorial sea with adjacent States.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "In cases where the Convention does not apply pursuant to paragraph 1, it nevertheless applies when the offender or the alleged offender is found in the territory of a State Party other than the State referred to in paragraph 1.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Each State Party shall make the offences set forth in article 3 punishable by appropriate penalties which take into account the grave nature of those offences."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 3 when the offence is committed:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) against or on board a ship flying the flag of the State at the time the offence is committed; or"
+      },
+      {
+       "type": "text",
+       "text": "(b) inthe territory of that State, including its territorial sea; or"
+      },
+      {
+       "type": "text",
+       "text": "(c) by a national of that State."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "A State Party may also establish its jurisdiction over any such offence when:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) it is committed by a stateless person whose habitual residence is in that State; or"
+      },
+      {
+       "type": "text",
+       "text": "(b) during its commission a national of that State is seized, threatened, injured or killed; or"
+      },
+      {
+       "type": "text",
+       "text": "(c) it is committed in an attempt to compel that State to do or abstain from doing any act."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Any State Party which has established jurisdiction mentioned in paragraph 2 shall notify the Secretary- General of the International Maritime Organization (hereinafter referred. to as „the Secretary-General”). If such State Party subsequently rescinds that jurisdiction, it shall notify the Secretary- General.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 3 in cases where the alleged offender is present in its territory and it does not extradite him to any of the States Parties which have established their jurisdiction in accordance with paragraphs 1 and 2 of this article.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_6/ust_5",
+     "text": "Niniejsza konwencja nie wyłącza jurysdykcji karnej wykonywanej zgodnie z przepisami prawa wewnętrznego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "7",
-   "path": "ust_7",
-   "text": "Odnośnie do przestępstw określonych w niniejszej konwencji postanowienia wszelkich umów ekstradycyjnych i porozumień stosowanych między państwami-stronami ulegają zmianom między tymi państwami w takim zakresie, w jakim są one niezgodne z niniejszą konwencją.",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwa-strony będą udzielać sobie jak najdalej idącej pomocy w postępowaniu karnym, wszczętym w związku z przestępstwami wymienionymi w artykule 3, włączając w to pomoc w uzyskaniu znajdujących się w ich dyspozycji dowodów niezbędnych do przeprowadzenia postępowań.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwa-strony wywiązują się ze swych zobowiązań przewidzianych w ustępie 1 w sposób zgodny z wszelkimi umowami dotyczącymi pomocy wzajemnej, które mogą istnieć między nimi. W razie braku takich umów, państwa- -strony udzielają sobie wzajemnej pomocy zgodnie z ich prawem wewnętrznym.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwa-strony współpracują w zapobieganiu popełnienia przestępstw wymienionych w artykule 3, w szczeg6lności przez:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) przedsięwzięcie wszelkich praktycznie możliwych środków mających na celu zapobieżenie na swych terytoriach przygotowaniom do popełnienia tych przestępstw w obrębie lub poza granicami tych państw,"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Po rozpatrzeniu zaistniałych okoliczności każde państwo-strona, na którego terytorium znajduje się sprawca lub domniemany sprawca przestępstwa, zgodnie ze swoim prawem wewnętrznym zatrzyma go lub podejmie inne środki zapewniające jego obecność przez okres konieczny do przeprowadzenia postępowania karnego lub ekstradycyjnego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) wymianę informacji zgodnie z ich prawem wewnętrznym oraz koordynację przedsięwziętych środków administracyjnych i innych uznanych za właściwe dla zapobieżenia popełnieniu przestępstw wymienionych w artykule 3."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 3 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "If necessary, the offences set forth in article 3 shall be treated, for the purposes of extradition between States Parties, as if they had been cominitted not only in the place in which they occurred but also in a place within the jurisdiction of the State Party requesting extradition.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "A State Party which receives more than one request for extradition from States which have established jurisdiction in accordance with article 7 and which decides not to prosecute shall, in selecting the State to which the offender or alleged offender is to be extradited, pay due regard to the interests and responsibilities of the State Party whose flag the ship was flying at the time of the commission of the offence.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "In considering a request for the extradition of an alleged offender pursuant to this Convention, the requested State shall pay due regard to whether his rights as set forth in article 7, paragraph 3, can be effected in the requesting State.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "With respect to the offences as defined in this Convention, the provisions of all extradition treaties and arrangements applicable between States Parties are modified as between States Parties to the extent that they are incompatible with this Convention.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "States Parties shall afford one another the greatest measure of assistance in connection with criminal proceedings brought in respect of the offences set forth in article 3, including assistance in obtaining evidence at their disposal necessary for the proceedings.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "States Parties shall carry out their obligations under paragraph 1 in conformity with any treaties on mutual assistance that may exist between them. In the absence of such treaties, States Parties shall afford each other assistance in accordance with their national law.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "States Parties shall co-operate in the prevention of the offences set forth in article 3, particularly by:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) taking all practicable measures to prevent preparations in their respective territories for the commission of those offences within or outside their territories;"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Państwo to niezwłocznie przystąpi — zgodnie ze swoim ustawodawstwem — do przeprowadzenia wstępnego dochodzenia dla ustalenia faktów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) exchanging information in accordance with their national law, and co-ordinating administrative and other measures taken as appropriate to prevent the commission of offences set forth in article 3."
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Każdej osobie, w stosunku do której podjęte zostały środki przewidziane w ustępie 1, przysługuje prawo do:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) bezzwłocznego kontaktu z najbliższym właściwym przedstawicielem państwa, którego jest obywatelem lub który jest w inny sposób uprawniony do nawiązywania takiego kontaktu, a jeżeli osoba taka jest bezpaństwowcem, ma ona prawo do kontaktu z przedstawicielem tego państwa, na którego terytorium ma stałe miejsce zamieszkania, a"
+      },
+      {
+       "type": "text",
+       "text": "(b) odwiedzin przez przedstawiciela tego państwa."
+      }
+     ]
     },
     {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Uprawnienia wymienione w ustępie 3 będą wykonywane zgodnie z normami prawa i przepisami prawnymi państwa, na którego terytorium przebywa sprawca lub domniemany sprawca przestępstwa, pod warunkiem że wymienione normy i przepisy w pełni zapewniają realizację celów, dla których zostały przyznane uprawnienia wymienione w ustępie 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_7/ust_5",
+     "text": "W przypadku gdy państwo-strona zatrzymało osobę na podstawie niniejszego artykułu, niezwłocznie zawiadamia o fakcie zatrzymania oraz o okolicznościach uzasadniających zatrzymanie wszystkie państwa, które ustanowiły swą jurysdykcję zgodnie z artykułem 6 ustęp 1, a jeżeli uzna to za celowe — również inne zainteresowane państwa. Państwo, które zgodnie z ustępem 2 niniejszego artykułu prowadzi wstępne dochodzenie, niezwłocznie zawiadamia wyżej określone państwo o jego wynikach i oświadcza, czy zamierza wykonywać swą jurysdykcję.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli na skutek popełnienia przestępstwa wymienionego w artykule 3 została opóźniona lub przerwana podróż statku, to każde państwo-strona, na którego terytorium przebywa statek lub jego pasażerowie albo załoga, zobowiązane jest do podjęcia wszelkich możliwych starań mających na celu uniknięcie zbędnego przetrzymania lub opóźnienia statku, jego pasażerów, załogi lub ładunku.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Kapitan statku należącego do państwa-strony (,,paristwa bandery”) może władzom innego państwa-strony (..państwa przyjmującego”) wydać każdą osobę, w stosunku do której ma on uzasadnione podstawy do przeświadczenia, że osoba ta popełniła jedno z przestępstw wymienionych w artykule 3.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każde państwo-strona mające podstawę przypuszczać, że będzie popełnione przestępstwo wymienione w artykule 3, niezwłocznie udzieli zgodnie ze swym prawem wewnętrznym każdej istotnej informacji znajdującej się w jego posiadaniu tym państwom, które byłyby właściwe do ustanowienia swej jurysdykcji zgodnie z artykułem 6."
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Państwo bandery zapewni, aby kapitan statku, na którego pokładzie znajduje się osoba, którą kapitan ma zamiar wydać zgodnie z ustępem 1, został zobowiązany — gdy jest to możliwe do wykonania i w miarę możności przed wejściem na morze terytorialne państwa przyjmującego — do poinformowania władz państwa przyjmującego o zamiarze wydania takiej osoby i o powodach tego wydania.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Państwo przyjmujące zaakceptuje to wydanie, z wyjątkiem sytuacji, gdy istnieją podstawy do uznania, że konwencja nie ma zastosowania do czynów powodujących wydanie, i postępuje wówczas zgodnie z postanowieniami artykułu 7. Każda odmowa zaakceptowania wydania powinna być umotywowana.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Upon being satisfied that the circumstances so warrant, any State Party in the territory of which the offender or the alleged offender is present shall, in accordance with its law, take him into custody or take other measures to ensure his presence for such time as is necessary to enable any criminal or extradition proceedings to be instituted.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Such State shall immediately make a preliminary inquiry into the facts, in accordance with its own legislation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Any person regarding whom the measures referred to in paragraph 1 are being taken shall be entitled to:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) communicate without delay with the nearest appropriate representative of the State of which he is a national or which is otherwise entitled to establish such communication or, if he is a stateless person, the State in the territory of which he has his habitual residence;"
+      },
+      {
+       "type": "text",
+       "text": "(b) be visited by a representative of that State."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "The rights referred to in paragraph 3 shall be exercised in conformity with the laws and regulations of the State in the territory of which the offender or the alleged offender is present, subject to the proviso that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "When a State Party, pursuant to this article, has taken a person into custody, it shall immediately notify the States which have established jurisdiction in accordance with article 6, paragraph 1 and, if it considers it advisable, any other interested States, of the fact that such person is in custody and of the circumstances which warrant his detention. The State which makes the preliminary inquiry contemplated in paragraph 2 of this article shall promptly report its findings to the said States and shall indicate whether it intends to exercise jurisdiction.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "The master of a ship of a State Party (the „flag State” ) may deliver to the authorities of any other State Party (the „receiving State’) any person who he has reasonable grounds to believe has committed one of the offences set forth in article 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "The flag State shall ensure that the master of its ship is obliged, whenever practicable, and if possible before entering the territorial sea of the receiving State carrying on board any person whom the master intends to deliver in accordance with paragraph 1, to give notification to the authorities of the receiving State of his intention to deliver such person and the reasons therefor.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "The receiving State shall accept the delivery, except where it has grounds to consider that the Convention is not applicable to the acts giving rise to the delivery, and shall proceed in accordance with the provisions of article 7. Any refusal to accept a delivery shall be accompanied by a statement of the reasons for refusal.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "YO ZZA ZZOZ CZNIE ZZA,"
+      },
+      {
+       "type": "text",
+       "text": "na statku władzom państwa przyjmującego posiadanych przez niego dowodów odnoszących się do domniemanego przestępstwa."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Państwo przyjmujące, które zgodnie z ustępem 3 zaakceptowało wydanie osoby, może z kolei zwrócić się z wnioskiem do państwa bandery o zaakceptowanie wydania tej osoby. Państwo bandery rozważy taki wniosek i jeżeli rozpatrzy go pozytywnie, postępuje zgodnie z artykułem 7. Jeżeli państwo bandery oddali wniosek, to dostarczy państwu przyjmującemu oświadczenie dotyczące powodów odmowy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde państwo-strona zgodnie ze swym prawem wewnętrznym przekaże Sekretarzowi Generalnemu, tak szybko, jak to jest możliwe, każdą istotną informację znajdującą się w jego posiadaniu, dotyczącą:",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Żadne z postanowień niniejszej konwencji nie narusza w jakikolwiek sposób norm prawa międzynarodowego odnoszących się do kompetencji państw do prowadzenia postępowania przygotowawczego lub wykonywania jurysdykcji na statkach nie podnoszących bandery tych państw.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) okoliczności przestępstwa,"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Państwo-strona, na którego terytorium przebywa sprawca lub domniemany sprawca przestępstwa, jeżeli go nie wydaje, to — w przypadkach, w których ma zastosowanie artykuł 6 — zobowiązane jest, bez żadnego wyjątku oraz bez względu na to, czy przestępstwo zostało popełnione na jego terytorium, przedłożyć niezwłocznie sprawę swym wiłaściwym władzom w celu przeprowadzenia postępowania karnego zgodnie z prawem tego państwa. Powyższe władze powinny podjąć decyzję w taki sam sposób, w jaki podejmowane są decyzje w przypadkach wszelkich innych przestępstw uznanych w prawie tego państwa za przestępstwa o poważnym charakterze.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) czynności podjętych zgodnie z artykułem 13 ustęp 2,"
-    },
-    {
-     "type": "text",
-     "text": "(c) środków podjętych względem sprawcy lub domniemanego sprawcy przestępstwa, a w szczególności wyników każdego postępowania ekstradycyjnego lub innych postępowań prawnych."
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Każdej osobie, w stosunku do której prowadzone jest postępowanie w związku z przestępstwem wymienionym w artykule 3, powinno być zagwarantowane sprawiedliwe traktowanie na wszystkich etapach postępowania, łącznie z korzystaniem ze wszystkich praw i gwarancji przewidzianych dla tego rodzaju postępowań przez prawo państwa, na którego terytorium przebywa ta osoba.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo-strona, w którym w odniesieniu do domniemanego sprawcy przestępstwa zostało podjęte postępowanie karne, zawiadamia zgodnie ze swym prawem wewnętrznym Sekretarza Generalnego o ostatecznym wyniku tego postępowania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Informacja przekazana zgodnie z ustępami 1 i 2 będzie podana przez Sekretarza Generalnego do wiadomości wszystkim państwom-stronom, członkom Międzynarodowej Organizacji Morskiej (zwanej dalej „Organizacją”), innym zainteresowanym państwom oraz właściwym międzynarodowym organizacjom międzyrządowym.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy spór między dwoma lub więcej państwami- -stronami dotyczący interpretacji lub stosowania niniejszej konwencji, który nie może być w możliwie krótkim czasie rozstrzygnięty w drodze negocjacji, będzie na wniosek jednej ze stron przedłożony do arbitrażu. Jeżeli w ciągu sześciu miesięcy od daty wniosku o arbitraż strony nie dojdą do porozumienia w sprawie organizacji arbitrażu, to każda ze stron może skierować spór do Międzynarodowego Trybunału Sprawiedliwości zgodnie ze statutem Trybunału.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każde państwo może w czasie podpisywania lub ratyfikacji, przyjęcia lub zatwierdzenia niniejszej konwencji lub przystąpienia do niej oświadczyć, że nie uważa się za związane niektórymi lub wszystkimi postanowieniami ustępu",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Inne państwa-strony nie będą związane tymi postanowieniami w stosunku do każdego państwa-strony, które dokonało takiego zastrzeżenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każde państwo, które złożyło zastrzeżenie zgodnie z ustępem 2, może w każdym czasie wycofać takie zastrzeżenie w drodze notyfikacji Sekretarzowi Generalnemu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "When, due to the commission of an offence set forth in article 3, the passage of a ship has been delayed or interrupted, any State Party in whose territory the ship or passengers or crew are present shall be bound to exercise all possible efforts to avoid a ship, its passengers, crew or cargo being unduly detained or delayed.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Przestępstwa wymienione w artykule 3 uznane będą za podlegające włączeniu, jako przestępstwa uzasadniające ekstradycję, do każdej umowy o ekstradycję istniejącej między państwami-stronami. Państwa-strony zobowiązują się włączyć takie przestępstwa, jako przestępstwa uzasadniające ekstradycję, do każdej umowy ekstradycyjnej, jaka będzie między nimi zawarta.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Any State Party having reason to believe that an offence set forth in article 3 will be committed shall, in accordance with its national law, furnish as promptly as possible any relevant information in its possession to those States which it believes would be the States having established jurisdiction in accordance with article 6."
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Jeżeli państwo-strona, które uzależnia ekstradycję od istnienia umowy, otrzyma wniosek o ekstradycję od innego państwa-strony, z którym nie ma umowy ekstradycyjnej, państwo otrzymujące taki wniosek może na podstawie własnej decyzji uznać niniejszą konwencję za podstawę prawną ekstradycji w związku z przestępstwami wymienionymi w artykule 3. Ekstradycja będzie zgodna z innymi warunkami przewidzianymi przez prawo państwa wezwanego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Article 15"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each State Party shall, in accordance with its national law, provide to the Secretary-General, as promptly as possible, any relevant information in its possession concerning:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) the circumstances of the offence;"
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "The flag State shall ensure that the master of its ship is obliged to furnish the authorities of the receiving State with the evidence in the master’s possession which pertains to the alleged offence.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) the action taken pursuant to article 13, paragraph 2;"
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "A receiving State which has accepted the delivery of a person in accordance with paragraph 3 may, in turn, request the flag State to accept delivery of that person. The flag State shall consider any such request, and if it accedes to the request it shall proceed in accordance with article 7. If the flag State declines a request, it shall furnish the receiving State with a statement of the reasons therefor.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "Nothing in this Convention shall affect in any way the rules of international law pertaining to the competence of States to exercise investigative or enforcement jurisdiction on board ships not flying their flag."
+      },
+      {
+       "type": "text",
+       "text": "Article 10"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(c) the measures taken in relation to the offender or the alleged offender and, in particular, the results of any extradition proceedings or other legal proceedings."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The State Party where the alleged offender is prosecuted shall, in accordance with its national law, communicate the final outcome of the proceedings to the Secretary- -General.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The information transmitted in accordance with paragraphs 1 and 2 shall be communicated by the Secretary- -General to all States Parties, to Members of the International Maritime Organization (hereinafter referred to as „the Organization’), to the other States concerned, and to the appropriate international intergovernmental organizations.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 16"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any dispute between two or more States Parties concerning the interpretation or application of this Convention which cannot be settled through negotiation within a reasonable time shall, at the request of one of them, be submitted to arbitration. If, within six months from the date of the request for arbitration, the parties are unable to agree on the organization of the arbitration any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Each State may at the time of signature or ratification, acceptance or approval of this Convention or accession thereto, declare that it does not consider itself bound by any or all of the provisions of paragraph 1. The other States Parties shall not be bound by those provisions with respect to any State Party which has made such a reservation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any State which has made a reservation in accordance with paragraph 2 may, at any time, withdraw that reservation by notification to the Secretary-General.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "The State Party in the territory of which the offender or the alleged offender is found shall, in cases to which article 6 applies, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case without delay to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any other offence of a grave nature under the law of that State.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 17"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja będzie otwarta do podpisu w Rzymie w dniu 10 marca 1988 r. dla państw biorących udział w Międzynarodowej Konferencji w Sprawie Przeciwdziałania Bezprawnym Czynom Przeciwko Bezpieczeństwu Żeglugi Morskiej oraz w siedzibie Organizacji od dnia 14 marca 1988 r. do dnia 9 marca 1989 r. dla wszystkich innych państw. Następnie pozostanie ona otwarta do przystąpienia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwa mogą wyrazić swoją zgodę na związanie się niniejszą konwencją przez:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) podpisanie bez zastrzeżenia ratyfikacji, przyjęcia lub zatwierdzenia lub"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Any person regarding whom proceedings are being carried out in connection with any of the offences set forth in article 3 shall be guaranteed fair treatment at all stages of the proceedings, including enjoyment of all the rights and guarantees provided for such proceedings by the law of the State in the territory of which he is present.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 11"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) podpisanie z zastrzeżeniem ratyfikacji, przyjęcia lub zatwierdzenia, po którym nastąpi ratyfikacja, przyjęcie lub zatwierdzenie, lub"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "The offences set forth in article 3 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(c) przystąpienie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ratyfikacja, przyjęcie, zatwierdzenie lub przystąpienie następuje przez złożenie odpowiedniego dokumentu Sekretarzowi Generalnemu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 18 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja wejdzie w życie po upływie dziewięćdziesięciu dni od dnia, w którym piętnaście państw podpisało ją bez zastrzeżeń co do ratyfikacji, przyjęcia lub zatwierdzenia albo złożyło dokumenty o ratyfikacji, przyjęciu, zatwierdzeniu lub przystąpieniu do niej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W stosunku do państwa, które złożyło dokument ratyfikacji, przyjęcia, zatwierdzenia niniejszej konwencji lub przystąpienia do niej, po spełnieniu warunków do jej wejścia w życie, ratyfikacja, przyjęcie, zatwierdzenie lub przystąpienie nabierze mocy w dziewięćdziesiąt dni po złożeniu tych dokumentów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja może być wypowiedziana przez każde państwo-stronę w dowolnym czasie po upływie jednego roku od dnia wejścia w życie niniejszej konwencji w stosunku do tego państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenia dokonuje się przez złożenie Sekretarzowi Generalnemu dokumentu wypowiedzenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wypowiedzenie nabierze mocy po upływie jednego roku od otrzymania przez Sekretarza Generalnego dokumentu wypowiedzenia albo po upływie dłuższego okresu określonego w dokumencie wypowiedzenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu dokonania rewizji lub wniesienia poprawek do niniejszej konwencji Organizacja może zwołać konferencję.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sekretarz Generalny zwoła konferencję państw- -stron niniejszej konwencji w celu dokonania rewizji lub wprowadzenia poprawek do konwencji, na wniosek jednej trzeciej państw-stron lub dziesięciu państw-stron, w zależności od tego, która z liczb jest większa.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 17"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall be open for signature at Rome on 10 March 1988 by States participating in the International Conference on the Suppression of Unlawful Acts against the Safety of Maritime Navigation and at the Headquarters of the Organization by all States from 14 March 1988 to 9 March",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "1989",
-   "path": "ust_1989",
-   "text": "It shall thereafter remain open for accession.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "States may express their consent to be bound by this Convention by:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) signature without reservation as to ratification, acceptance or approval; or"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 3. Extradition shall be subject to the other conditions provided by the law of the requested State Party.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or"
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Państwa-strony, które nie uzależniają ekstradycji od istnienia umowy, uznają między sobą przestępstwa wymienione w artykule 3 za przestępstwa uzasadniające ekstradycję między tymi państwami, z uwzględnieniem warunków przewidzianych przez prawo państwa wezwanego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(c) accession."
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "W razie potrzeby przestępstwa wymienione w artykule 3 będą traktowane dla celów ekstradycyjnych między państwami-stronami, jak gdyby były popełnione nie tylko w miejscu ich faktycznego popełnienia, ale również w jakimkolwiek miejscu objętym jurysdykcją państwa-strony domagającego się ekstradycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Państwo-strona, które otrzymało więcej niż jeden wniosek o ekstradycję od państw, które ustanowiły jurysdykcję, zgodnie z artykułem 6, a które nie zdecydowało się na wszczęcie postępowania karnego, przy wyborze państwa, do którego ma być wykonana ekstradycja sprawcy lub domniemanego sprawcy przestępstwa, zwraca należytą uwagę na interesy i zakres odpowiedzialności państwa-strony, pod którego banderą płynął statek w czasie popełnienia przestępstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_11/ust_6",
+     "text": "Rozważając zgodnie z niniejszą konwencją wniosek o ekstradycję domniemanego sprawcy przestępstwa, państwo, które otrzymało taki wniosek, zwróci odpowiednią uwagę na to, czy jego prawa przewidziane w artykule 7 ustęp 3 mogą być realizowane w państwie wnoszącym o ekstradycję.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_11/ust_7",
+     "text": "Odnośnie do przestępstw określonych w niniejszej konwencji postanowienia wszelkich umów ekstradycyjnych i porozumień stosowanych między państwami-stronami ulegają zmianom między tymi państwami w takim zakresie, w jakim są one niezgodne z niniejszą konwencją.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 18"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Państwa-strony będą udzielać sobie jak najdalej idącej pomocy w postępowaniu karnym, wszczętym w związku z przestępstwami wymienionymi w artykule 3, włączając w to pomoc w uzyskaniu znajdujących się w ich dyspozycji dowodów niezbędnych do przeprowadzenia postępowań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Państwa-strony wywiązują się ze swych zobowiązań przewidzianych w ustępie 1 w sposób zgodny z wszelkimi umowami dotyczącymi pomocy wzajemnej, które mogą istnieć między nimi. W razie braku takich umów, państwa- -strony udzielają sobie wzajemnej pomocy zgodnie z ich prawem wewnętrznym.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall enter into force ninety days following the date on which fifteen States have either signed it without reservation as to ratification, acceptance or approval, or have deposited an instrument of ratification, acceptance, approval or accession in respect thereof.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "For a State which deposits an instrument of ratification, acceptance, approval or accession in respect of this Convention after the conditions for entry into force thereof have been met, the ratification, acceptance, approval or accession shall take effect ninety days after the date of such deposit.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 19"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Państwa-strony współpracują w zapobieganiu popełnienia przestępstw wymienionych w artykule 3, w szczeg6lności przez:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) przedsięwzięcie wszelkich praktycznie możliwych środków mających na celu zapobieżenie na swych terytoriach przygotowaniom do popełnienia tych przestępstw w obrębie lub poza granicami tych państw,"
+      },
+      {
+       "type": "text",
+       "text": "(b) wymianę informacji zgodnie z ich prawem wewnętrznym oraz koordynację przedsięwziętych środków administracyjnych i innych uznanych za właściwe dla zapobieżenia popełnieniu przestępstw wymienionych w artykule 3."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 3 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_13/ust_4",
+     "text": "If necessary, the offences set forth in article 3 shall be treated, for the purposes of extradition between States Parties, as if they had been cominitted not only in the place in which they occurred but also in a place within the jurisdiction of the State Party requesting extradition.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_13/ust_5",
+     "text": "A State Party which receives more than one request for extradition from States which have established jurisdiction in accordance with article 7 and which decides not to prosecute shall, in selecting the State to which the offender or alleged offender is to be extradited, pay due regard to the interests and responsibilities of the State Party whose flag the ship was flying at the time of the commission of the offence.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_13/ust_6",
+     "text": "In considering a request for the extradition of an alleged offender pursuant to this Convention, the requested State shall pay due regard to whether his rights as set forth in article 7, paragraph 3, can be effected in the requesting State.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_13/ust_7",
+     "text": "With respect to the offences as defined in this Convention, the provisions of all extradition treaties and arrangements applicable between States Parties are modified as between States Parties to the extent that they are incompatible with this Convention.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 12"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "States Parties shall afford one another the greatest measure of assistance in connection with criminal proceedings brought in respect of the offences set forth in article 3, including assistance in obtaining evidence at their disposal necessary for the proceedings.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "States Parties shall carry out their obligations under paragraph 1 in conformity with any treaties on mutual assistance that may exist between them. In the absence of such treaties, States Parties shall afford each other assistance in accordance with their national law.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "States Parties shall co-operate in the prevention of the offences set forth in article 3, particularly by:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) taking all practicable measures to prevent preparations in their respective territories for the commission of those offences within or outside their territories;"
+      },
+      {
+       "type": "text",
+       "text": "(b) exchanging information in accordance with their national law, and co-ordinating administrative and other measures taken as appropriate to prevent the commission of offences set forth in article 3."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Jeżeli na skutek popełnienia przestępstwa wymienionego w artykule 3 została opóźniona lub przerwana podróż statku, to każde państwo-strona, na którego terytorium przebywa statek lub jego pasażerowie albo załoga, zobowiązane jest do podjęcia wszelkich możliwych starań mających na celu uniknięcie zbędnego przetrzymania lub opóźnienia statku, jego pasażerów, załogi lub ładunku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention may be denounced by any State Party at any time after the expiry of one year from the date on which this Convention enters into force for that State.",
-   "children": []
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Każde państwo-strona mające podstawę przypuszczać, że będzie popełnione przestępstwo wymienione w artykule 3, niezwłocznie udzieli zgodnie ze swym prawem wewnętrznym każdej istotnej informacji znajdującej się w jego posiadaniu tym państwom, które byłyby właściwe do ustanowienia swej jurysdykcji zgodnie z artykułem 6.",
+   "children": [],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary- General.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after the receipt of the instrument of denunciation by the Secretary-General.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 20"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Każde państwo-strona zgodnie ze swym prawem wewnętrznym przekaże Sekretarzowi Generalnemu, tak szybko, jak to jest możliwe, każdą istotną informację znajdującą się w jego posiadaniu, dotyczącą:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) okoliczności przestępstwa,"
+      },
+      {
+       "type": "text",
+       "text": "(b) czynności podjętych zgodnie z artykułem 13 ustęp 2,"
+      },
+      {
+       "type": "text",
+       "text": "(c) środków podjętych względem sprawcy lub domniemanego sprawcy przestępstwa, a w szczególności wyników każdego postępowania ekstradycyjnego lub innych postępowań prawnych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Państwo-strona, w którym w odniesieniu do domniemanego sprawcy przestępstwa zostało podjęte postępowanie karne, zawiadamia zgodnie ze swym prawem wewnętrznym Sekretarza Generalnego o ostatecznym wyniku tego postępowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Informacja przekazana zgodnie z ustępami 1 i 2 będzie podana przez Sekretarza Generalnego do wiadomości wszystkim państwom-stronom, członkom Międzynarodowej Organizacji Morskiej (zwanej dalej „Organizacją”), innym zainteresowanym państwom oraz właściwym międzynarodowym organizacjom międzyrządowym.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Aconference for the purpose of revising or amending this Convention may be convened by the Organization.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Secretary-General shall convene a conference of the States Parties to this Convention for revising or amending the Convention, at the request of one third of the States Parties, or ten States Parties, whichever is the higher figure.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Każdy spór między dwoma lub więcej państwami- -stronami dotyczący interpretacji lub stosowania niniejszej konwencji, który nie może być w możliwie krótkim czasie rozstrzygnięty w drodze negocjacji, będzie na wniosek jednej ze stron przedłożony do arbitrażu. Jeżeli w ciągu sześciu miesięcy od daty wniosku o arbitraż strony nie dojdą do porozumienia w sprawie organizacji arbitrażu, to każda ze stron może skierować spór do Międzynarodowego Trybunału Sprawiedliwości zgodnie ze statutem Trybunału.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Każde państwo może w czasie podpisywania lub ratyfikacji, przyjęcia lub zatwierdzenia niniejszej konwencji lub przystąpienia do niej oświadczyć, że nie uważa się za związane niektórymi lub wszystkimi postanowieniami ustępu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Inne państwa-strony nie będą związane tymi postanowieniami w stosunku do każdego państwa-strony, które dokonało takiego zastrzeżenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Każde państwo, które złożyło zastrzeżenie zgodnie z ustępem 2, może w każdym czasie wycofać takie zastrzeżenie w drodze notyfikacji Sekretarzowi Generalnemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "When, due to the commission of an offence set forth in article 3, the passage of a ship has been delayed or interrupted, any State Party in whose territory the ship or passengers or crew are present shall be bound to exercise all possible efforts to avoid a ship, its passengers, crew or cargo being unduly detained or delayed.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "Any State Party having reason to believe that an offence set forth in article 3 will be committed shall, in accordance with its national law, furnish as promptly as possible any relevant information in its possession to those States which it believes would be the States having established jurisdiction in accordance with article 6."
+      },
+      {
+       "type": "text",
+       "text": "Article 15"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Each State Party shall, in accordance with its national law, provide to the Secretary-General, as promptly as possible, any relevant information in its possession concerning:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) the circumstances of the offence;"
+      },
+      {
+       "type": "text",
+       "text": "(b) the action taken pursuant to article 13, paragraph 2;"
+      },
+      {
+       "type": "text",
+       "text": "(c) the measures taken in relation to the offender or the alleged offender and, in particular, the results of any extradition proceedings or other legal proceedings."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "The State Party where the alleged offender is prosecuted shall, in accordance with its national law, communicate the final outcome of the proceedings to the Secretary- -General.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "The information transmitted in accordance with paragraphs 1 and 2 shall be communicated by the Secretary- -General to all States Parties, to Members of the International Maritime Organization (hereinafter referred to as „the Organization’), to the other States concerned, and to the appropriate international intergovernmental organizations.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 16"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Any dispute between two or more States Parties concerning the interpretation or application of this Convention which cannot be settled through negotiation within a reasonable time shall, at the request of one of them, be submitted to arbitration. If, within six months from the date of the request for arbitration, the parties are unable to agree on the organization of the arbitration any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Each State may at the time of signature or ratification, acceptance or approval of this Convention or accession thereto, declare that it does not consider itself bound by any or all of the provisions of paragraph 1. The other States Parties shall not be bound by those provisions with respect to any State Party which has made such a reservation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Any State which has made a reservation in accordance with paragraph 2 may, at any time, withdraw that reservation by notification to the Secretary-General.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każdy dokument ratyfikacyjny, przyjęcia, zatwierdzenia lub przystąpienia, złożony po dniu wejścia w życie poprawki do niniejszej konwencji, będzie uznawany za dokument odnoszący się do konwencji z wprowadzoną poprawką.",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 21"
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Niniejsza konwencja będzie otwarta do podpisu w Rzymie w dniu 10 marca 1988 r. dla państw biorących udział w Międzynarodowej Konferencji w Sprawie Przeciwdziałania Bezprawnym Czynom Przeciwko Bezpieczeństwu Żeglugi Morskiej oraz w siedzibie Organizacji od dnia 14 marca 1988 r. do dnia 9 marca 1989 r. dla wszystkich innych państw. Następnie pozostanie ona otwarta do przystąpienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Państwa mogą wyrazić swoją zgodę na związanie się niniejszą konwencją przez:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) podpisanie bez zastrzeżenia ratyfikacji, przyjęcia lub zatwierdzenia lub"
+      },
+      {
+       "type": "text",
+       "text": "(b) podpisanie z zastrzeżeniem ratyfikacji, przyjęcia lub zatwierdzenia, po którym nastąpi ratyfikacja, przyjęcie lub zatwierdzenie, lub"
+      },
+      {
+       "type": "text",
+       "text": "(c) przystąpienie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Ratyfikacja, przyjęcie, zatwierdzenie lub przystąpienie następuje przez złożenie odpowiedniego dokumentu Sekretarzowi Generalnemu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 18 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Niniejsza konwencja wejdzie w życie po upływie dziewięćdziesięciu dni od dnia, w którym piętnaście państw podpisało ją bez zastrzeżeń co do ratyfikacji, przyjęcia lub zatwierdzenia albo złożyło dokumenty o ratyfikacji, przyjęciu, zatwierdzeniu lub przystąpieniu do niej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "W stosunku do państwa, które złożyło dokument ratyfikacji, przyjęcia, zatwierdzenia niniejszej konwencji lub przystąpienia do niej, po spełnieniu warunków do jej wejścia w życie, ratyfikacja, przyjęcie, zatwierdzenie lub przystąpienie nabierze mocy w dziewięćdziesiąt dni po złożeniu tych dokumentów.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja będzie złożona do depozytu Sekretarzowi Generalnemu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sekretarz Generalny:",
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) zawiadamia wszystkie państwa, które podpisały lub przystąpiły do niniejszej konwencji, oraz wszystkich członków Organizacji o:"
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Niniejsza konwencja może być wypowiedziana przez każde państwo-stronę w dowolnym czasie po upływie jednego roku od dnia wejścia w życie niniejszej konwencji w stosunku do tego państwa.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(i) każdym nowym podpisaniu lub złożeniu dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, z podaniem ich daty,"
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Wypowiedzenia dokonuje się przez złożenie Sekretarzowi Generalnemu dokumentu wypowiedzenia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(ii) dniu wejścia w życie niniejszej konwencji,"
-    },
-    {
-     "type": "text",
-     "text": "(iii) złożeniu każdego dokumentu wypowiedzenia niniejszej konwencji, z podaniem daty jego przyjęcia i daty, od której wypowiedzenie nabiera mocy,"
-    },
-    {
-     "type": "text",
-     "text": "(iv) przyjęciu każdego oświadczenia lub notyfikacji, dokonanych zgodnie z niniejszą konwencją,"
-    },
-    {
-     "type": "text",
-     "text": "(b) przekazuje uwierzytelnione kopie niniejszej konwencji wszystkim państwom, które ją podpisały lub do niej przystąpiły."
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "Wypowiedzenie nabierze mocy po upływie jednego roku od otrzymania przez Sekretarza Generalnego dokumentu wypowiedzenia albo po upływie dłuższego okresu określonego w dokumencie wypowiedzenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Z chwilą wejścia w życie niniejszej konwencji depozytariusz przekaże jej uwierzytelnioną kopię Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych w celu rejestracji i ogłoszenia zgodnie z artykułem 102 Karty Narodów Zjednoczonych.",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 22"
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "W celu dokonania rewizji lub wniesienia poprawek do niniejszej konwencji Organizacja może zwołać konferencję.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Niniejszą konwencję sporządzono w jednym oryginalnym egzemplarzu w językach: arabskim, chińskim, angielskim, francuskim, rosyjskim i hiszpańskim, przy czym każdy tekst jest jednakowo autentyczny."
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Sekretarz Generalny zwoła konferencję państw- -stron niniejszej konwencji w celu dokonania rewizji lub wprowadzenia poprawek do konwencji, na wniosek jednej trzeciej państw-stron lub dziesięciu państw-stron, w zależności od tego, która z liczb jest większa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 17"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Na dowód czego niżej wymienieni, należycie w tym celu upoważnieni przez ich odnośne rządy, podpisali niniejszą konwencję."
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "This Convention shall be open for signature at Rome on 10 March 1988 by States participating in the International Conference on the Suppression of Unlawful Acts against the Safety of Maritime Navigation and at the Headquarters of the Organization by all States from 14 March 1988 to 9 March",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sporządzono w Rzymie dnia dziesiątego marca tysiąc dziewięćset osiemdziesiątego ósmego roku."
+     "type": "ust",
+     "num": "1989",
+     "path": "art_20/ust_1989",
+     "text": "It shall thereafter remain open for accession.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "States may express their consent to be bound by this Convention by:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) signature without reservation as to ratification, acceptance or approval; or"
+      },
+      {
+       "type": "text",
+       "text": "(b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or"
+      },
+      {
+       "type": "text",
+       "text": "(c) accession."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 18"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "This Convention shall enter into force ninety days following the date on which fifteen States have either signed it without reservation as to ratification, acceptance or approval, or have deposited an instrument of ratification, acceptance, approval or accession in respect thereof.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "For a State which deposits an instrument of ratification, acceptance, approval or accession in respect of this Convention after the conditions for entry into force thereof have been met, the ratification, acceptance, approval or accession shall take effect ninety days after the date of such deposit.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 19"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "This Convention may be denounced by any State Party at any time after the expiry of one year from the date on which this Convention enters into force for that State.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary- General.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after the receipt of the instrument of denunciation by the Secretary-General.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 20"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Aconference for the purpose of revising or amending this Convention may be convened by the Organization.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "The Secretary-General shall convene a conference of the States Parties to this Convention for revising or amending the Convention, at the request of one third of the States Parties, or ten States Parties, whichever is the higher figure.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Każdy dokument ratyfikacyjny, przyjęcia, zatwierdzenia lub przystąpienia, złożony po dniu wejścia w życie poprawki do niniejszej konwencji, będzie uznawany za dokument odnoszący się do konwencji z wprowadzoną poprawką.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Niniejsza konwencja będzie złożona do depozytu Sekretarzowi Generalnemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Sekretarz Generalny:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) zawiadamia wszystkie państwa, które podpisały lub przystąpiły do niniejszej konwencji, oraz wszystkich członków Organizacji o:"
+      },
+      {
+       "type": "text",
+       "text": "(i) każdym nowym podpisaniu lub złożeniu dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, z podaniem ich daty,"
+      },
+      {
+       "type": "text",
+       "text": "(ii) dniu wejścia w życie niniejszej konwencji,"
+      },
+      {
+       "type": "text",
+       "text": "(iii) złożeniu każdego dokumentu wypowiedzenia niniejszej konwencji, z podaniem daty jego przyjęcia i daty, od której wypowiedzenie nabiera mocy,"
+      },
+      {
+       "type": "text",
+       "text": "(iv) przyjęciu każdego oświadczenia lub notyfikacji, dokonanych zgodnie z niniejszą konwencją,"
+      },
+      {
+       "type": "text",
+       "text": "(b) przekazuje uwierzytelnione kopie niniejszej konwencji wszystkim państwom, które ją podpisały lub do niej przystąpiły."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_21/ust_3",
+     "text": "Z chwilą wejścia w życie niniejszej konwencji depozytariusz przekaże jej uwierzytelnioną kopię Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych w celu rejestracji i ogłoszenia zgodnie z artykułem 102 Karty Narodów Zjednoczonych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 21"
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Niniejszą konwencję sporządzono w jednym oryginalnym egzemplarzu w językach: arabskim, chińskim, angielskim, francuskim, rosyjskim i hiszpańskim, przy czym każdy tekst jest jednakowo autentyczny.",
+   "children": [],
+   "label": "Artykuł 22"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej wymienieni, należycie w tym celu upoważnieni przez ich odnośne rządy, podpisali niniejszą konwencję."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Rzymie dnia dziesiątego marca tysiąc dziewięćset osiemdziesiątego ósmego roku."
   },
   {
    "type": "ust",
@@ -1441,36 +1507,36 @@
     {
      "type": "text",
      "text": "Done at Rome this tenth day of March one thousand nine hundred and eighty-eight."
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— Rzeczpospolita Polska postanawia przystąpić do powyższej konwencji,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie ona niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 8 kwietnia 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— Rzeczpospolita Polska postanawia przystąpić do powyższej konwencji,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie ona niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 8 kwietnia 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

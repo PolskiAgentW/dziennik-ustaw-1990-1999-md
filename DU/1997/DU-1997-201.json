@@ -102,150 +102,152 @@
    "text": "PRZEPISY MATERIALNE"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Obowiązek państw"
-  },
-  {
-   "type": "text",
-   "text": "Każde państwo będące stroną niniejszego traktatu jest obowiązane, z zastrzeżeniem artykułów 2 i 3, odmówić rejestracji lub unieważnić rejestrację jako znaku i zakazać, za pomocą właściwych środków, używania w celach handlowych, jako znaku lub innego oznaczenia, jakiegokolwiek oznaczenia składającego się z symbolu olimpijskiego lub zawierającego symbol olimpijski określony w Karcie Międzynarodowego Komitetu Olimpijskiego, z wyjątkiem tych przypadków, gdy Międzynarodowy Komitet Olimpijski udzielił na to upoważnienia. Wspomniane określenie oraz graficzne przedstawienie wspomnianego symbolu zawarte są w załączniku."
-  },
-  {
-   "type": "text",
-   "text": "Artykuf 2"
-  },
-  {
-   "type": "text",
-   "text": "Wyjątki od obowiązku"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Obowiązek przewidziany w artykule 1 nie wiąże żadnego państwa będącego stroną niniejszego traktatu w odniesieniu do:",
+   "path": "art_1",
+   "text": "Obowiązek państw",
    "children": [
     {
      "type": "text",
-     "text": "(i) jakiegokolwiek znaku składającego się z symbolu olimpijskiego lub zawierającego symbol olimpijski, jeżeli znak ten został zarejestrowany w tym państwie przed datą, w której niniejszy traktat wchodzi w życie w stosunku do tego państwa, lub w okresie, w ciągu którego w tym państwie wypełnianie obowiązku przewidzianego w artykule 1 uznaje się za wstrzymane na podstawie artykułu 3;"
+     "text": "Każde państwo będące stroną niniejszego traktatu jest obowiązane, z zastrzeżeniem artykułów 2 i 3, odmówić rejestracji lub unieważnić rejestrację jako znaku i zakazać, za pomocą właściwych środków, używania w celach handlowych, jako znaku lub innego oznaczenia, jakiegokolwiek oznaczenia składającego się z symbolu olimpijskiego lub zawierającego symbol olimpijski określony w Karcie Międzynarodowego Komitetu Olimpijskiego, z wyjątkiem tych przypadków, gdy Międzynarodowy Komitet Olimpijski udzielił na to upoważnienia. Wspomniane określenie oraz graficzne przedstawienie wspomnianego symbolu zawarte są w załączniku."
     },
     {
      "type": "text",
-     "text": "(ii) dalszego używania w tym państwie, w celach i handlowych, jakiegokolwiek znaku lub innego oznaczenia, składającego się z symbolu olimpijskiego lub zawierającego symbol olimpijski, przez jakąkolwiek osobę lub przedsiębiorstwo, które legalnie rozpoczęto takie używanie we wspomnianym państwie przed datą, w której niniejszy traktat wchodzi w życie w stosunku do tego państwa, lub w okresie, w ciągu którego w tym państwie wypełnianie obowiązku przewidzianego w artykule 1 uznaje się za wstrzymane na podstawie artykułu 3."
+     "text": "Artykuf 2"
+    },
+    {
+     "type": "text",
+     "text": "Wyjątki od obowiązku"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Obowiązek przewidziany w artykule 1 nie wiąże żadnego państwa będącego stroną niniejszego traktatu w odniesieniu do:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(i) jakiegokolwiek znaku składającego się z symbolu olimpijskiego lub zawierającego symbol olimpijski, jeżeli znak ten został zarejestrowany w tym państwie przed datą, w której niniejszy traktat wchodzi w życie w stosunku do tego państwa, lub w okresie, w ciągu którego w tym państwie wypełnianie obowiązku przewidzianego w artykule 1 uznaje się za wstrzymane na podstawie artykułu 3;"
+      },
+      {
+       "type": "text",
+       "text": "(ii) dalszego używania w tym państwie, w celach i handlowych, jakiegokolwiek znaku lub innego oznaczenia, składającego się z symbolu olimpijskiego lub zawierającego symbol olimpijski, przez jakąkolwiek osobę lub przedsiębiorstwo, które legalnie rozpoczęto takie używanie we wspomnianym państwie przed datą, w której niniejszy traktat wchodzi w życie w stosunku do tego państwa, lub w okresie, w ciągu którego w tym państwie wypełnianie obowiązku przewidzianego w artykule 1 uznaje się za wstrzymane na podstawie artykułu 3."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Przepisy ustępu 1 pkt (i) stosuje się również do znaków, których rejestracja jest skuteczna w państwie z mocy rejestracji dokonanej na podstawie traktatu, którego wspomniane państwo jest stroną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Używanie z upoważnienia osoby lub przedsiębiorstwa, o których mowa w ustępie 1 pkt (ii), uznaje się, dla celów wspomnianego ustępu, za używanie przez wspomnianą osobę lub przedsiębiorstwo.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Żadne państwo będące stroną niniejszego traktatu nie jest obowiązane do zakazywania używania",
+     "children": [
+      {
+       "type": "text",
+       "text": "NAIROBI TREATY"
+      },
+      {
+       "type": "text",
+       "text": "on the Protection of the Olympic Symbol"
+      },
+      {
+       "type": "text",
+       "text": "adopted at Nairobi on September 26, 1981"
+      },
+      {
+       "type": "text",
+       "text": "Chapter |"
+      },
+      {
+       "type": "text",
+       "text": "SUBSTANTIVE PROVISIONS"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "Obligation of States"
+      },
+      {
+       "type": "text",
+       "text": "Any State party to this Treaty shall be obliged, subject to Articles 2 and 3, to refuse or to invalidate the registration as a mark and to prohibit by appropriate measures the use, as a mark or other sign, for commercial purposes, of any sign consisting of or containing the Olympic symbol, as defined in the Charter of the International Olympic Committee, except with the authorization of the International Olympic Committee. The said definition and the graphic representation of the said symbol are reproduced in the Annex."
+      },
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "Exceptions to the Obligation"
+      },
+      {
+       "type": "text",
+       "text": "(1) The obligation provided for in Article 1 shall not bind any State party to this Treaty in respect of:"
+      },
+      {
+       "type": "text",
+       "text": "(i) any mark consisting of or containing the Olympic symbol where that mark was registered in that State prior to the date on which this Treaty enters into force in respect of that State or during any period during which, in that State, the obligation provided for in Article 1 is considered as suspended under Article 3"
+      },
+      {
+       "type": "text",
+       "text": "(ii) the continued use for commercial purposes of any mark or other sign, consisting of or containing the Olympic symbol, in that State by any person or enterprise who or which has lawfully started such use in the said State prior to the date on which this Treaty enters into force in respect of that State or during any period during which, in that State, the obligation provided for in Article 1 is considered as suspended under Article 3."
+      },
+      {
+       "type": "text",
+       "text": "(2) The provisions of paragraph (1) (i) shall apply also in respect of marks whose registration has effect in the State by virtue of a registration under a treaty which the said State is a party to."
+      },
+      {
+       "type": "text",
+       "text": "(3) Use with the authorization of the person or enterprise referred to in paragraph (1) (ii) shall be considered, for the purposes of the said paragraph, as use by the said person or enterprise."
+      },
+      {
+       "type": "text",
+       "text": "(4) No State party to this Treaty shall by obliged to prohibit the use of the Olympic symbol where that"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "—: 1239 —"
+      },
+      {
+       "type": "text",
+       "text": "symbolu olimpijskiego, jeżeli symbol ten jest używany w środkach masowego przekazu w celach informowania o ruchu olimpijskim lub działaniach podejmowanych w ramach tego ruchu."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przepisy ustępu 1 pkt (i) stosuje się również do znaków, których rejestracja jest skuteczna w państwie z mocy rejestracji dokonanej na podstawie traktatu, którego wspomniane państwo jest stroną.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Używanie z upoważnienia osoby lub przedsiębiorstwa, o których mowa w ustępie 1 pkt (ii), uznaje się, dla celów wspomnianego ustępu, za używanie przez wspomnianą osobę lub przedsiębiorstwo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Żadne państwo będące stroną niniejszego traktatu nie jest obowiązane do zakazywania używania",
+   "path": "art_3",
+   "text": "Wstrzymanie wypełniania obowiązku",
    "children": [
-    {
-     "type": "text",
-     "text": "NAIROBI TREATY"
-    },
-    {
-     "type": "text",
-     "text": "on the Protection of the Olympic Symbol"
-    },
-    {
-     "type": "text",
-     "text": "adopted at Nairobi on September 26, 1981"
-    },
-    {
-     "type": "text",
-     "text": "Chapter |"
-    },
-    {
-     "type": "text",
-     "text": "SUBSTANTIVE PROVISIONS"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "Obligation of States"
-    },
-    {
-     "type": "text",
-     "text": "Any State party to this Treaty shall be obliged, subject to Articles 2 and 3, to refuse or to invalidate the registration as a mark and to prohibit by appropriate measures the use, as a mark or other sign, for commercial purposes, of any sign consisting of or containing the Olympic symbol, as defined in the Charter of the International Olympic Committee, except with the authorization of the International Olympic Committee. The said definition and the graphic representation of the said symbol are reproduced in the Annex."
-    },
-    {
-     "type": "text",
-     "text": "Article 2"
-    },
-    {
-     "type": "text",
-     "text": "Exceptions to the Obligation"
-    },
-    {
-     "type": "text",
-     "text": "(1) The obligation provided for in Article 1 shall not bind any State party to this Treaty in respect of:"
-    },
-    {
-     "type": "text",
-     "text": "(i) any mark consisting of or containing the Olympic symbol where that mark was registered in that State prior to the date on which this Treaty enters into force in respect of that State or during any period during which, in that State, the obligation provided for in Article 1 is considered as suspended under Article 3"
-    },
-    {
-     "type": "text",
-     "text": "(ii) the continued use for commercial purposes of any mark or other sign, consisting of or containing the Olympic symbol, in that State by any person or enterprise who or which has lawfully started such use in the said State prior to the date on which this Treaty enters into force in respect of that State or during any period during which, in that State, the obligation provided for in Article 1 is considered as suspended under Article 3."
-    },
-    {
-     "type": "text",
-     "text": "(2) The provisions of paragraph (1) (i) shall apply also in respect of marks whose registration has effect in the State by virtue of a registration under a treaty which the said State is a party to."
-    },
-    {
-     "type": "text",
-     "text": "(3) Use with the authorization of the person or enterprise referred to in paragraph (1) (ii) shall be considered, for the purposes of the said paragraph, as use by the said person or enterprise."
-    },
-    {
-     "type": "text",
-     "text": "(4) No State party to this Treaty shall by obliged to prohibit the use of the Olympic symbol where that"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "—: 1239 —"
-    },
-    {
-     "type": "text",
-     "text": "symbolu olimpijskiego, jeżeli symbol ten jest używany w środkach masowego przekazu w celach informowania o ruchu olimpijskim lub działaniach podejmowanych w ramach tego ruchu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Wstrzymanie wypełniania obowiązku"
-    },
     {
      "type": "text",
      "text": "Wykonywanie obowiązku przewidzianego w artykule 1 może być uznane za wstrzymane przez jakiekolwiek państwo będące stroną niniejszego traktatu w okresie, w ciągu którego nie istnieje żadne pozostające w mocy porozumienie pomiędzy Międzynarodowym Komitetem Olimpijskim i narodowym komitetem olimpijskim wspomnianego państwa, dotyczące warunków, na jakich Międzynarodowy Komitet Olimpijski udzieli upoważnień na używanie symbolu olimpijskiego w tym państwie i dotyczące udziału wspomnianego narodowego komitetu olimpijskiego we wszelkich dochodach, jakie Międzynarodowy Komitet Olimpijski uzyskuje z tytułu udzielania wspomnianych upoważnień."
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
    "type": "heading",
@@ -253,16 +255,17 @@
    "text": "ZWIĄZKI PAŃSTW"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "Wyjątki od rozdziału I"
-  },
-  {
-   "type": "text",
-   "text": "Przepisy rozdziału 1 nie naruszają zobowiązań państw będących stronami niniejszego traktatu, które są członkami unii celnych, obszarów wolnego handlu, jakiegokolwiek innego ugrupowania gospodarczego lub jakiegokolwiek związku regionalnego czy subregionalnego, wynikających z dokumentów ustanawiających taką unię, obszar lub inne ugrupowanie czy związek, w szczególności w odniesieniu do zawartych w takich dokumentach przepisów regulujących swobodny przepływ towarów lub usług."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Wyjątki od rozdziału I",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przepisy rozdziału 1 nie naruszają zobowiązań państw będących stronami niniejszego traktatu, które są członkami unii celnych, obszarów wolnego handlu, jakiegokolwiek innego ugrupowania gospodarczego lub jakiegokolwiek związku regionalnego czy subregionalnego, wynikających z dokumentów ustanawiających taką unię, obszar lub inne ugrupowanie czy związek, w szczególności w odniesieniu do zawartych w takich dokumentach przepisów regulujących swobodny przepływ towarów lub usług."
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
    "type": "heading",
@@ -270,298 +273,302 @@
    "text": "POSTANOWIENIA KOŃCOWE"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
-  },
-  {
-   "type": "text",
-   "text": "Uzyskanie statusu strony traktatu"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde państwo będące członkiem Światowej Organizacji Własności Intelektualnej (zwanej dalej „Organizacją”) lub Międzynarodowego (Paryskiego) Związku Ochrony Własności Przemysłowej (zwanego dalej „Związkiem Paryskim”) może zostać stroną niniejszego traktatu przez:",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Uzyskanie statusu strony traktatu",
    "children": [
     {
-     "type": "text",
-     "text": "(i) podpisanie, a następnie złożenie dokumentu ratyfikacji, przyjęcia lub zatwierdzenia, lub"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Każde państwo będące członkiem Światowej Organizacji Własności Intelektualnej (zwanej dalej „Organizacją”) lub Międzynarodowego (Paryskiego) Związku Ochrony Własności Przemysłowej (zwanego dalej „Związkiem Paryskim”) może zostać stroną niniejszego traktatu przez:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(i) podpisanie, a następnie złożenie dokumentu ratyfikacji, przyjęcia lub zatwierdzenia, lub"
+      },
+      {
+       "type": "text",
+       "text": "(ii) złożenie dokumentu przystąpienia."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(ii) złożenie dokumentu przystąpienia."
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Każde państwo nie wskazane w ustępie 1, które jest czionkiem Organizacji Narodów Zjednoczonych lub jakiejkolwiek wyspecjalizowanej organizacji pozosymbol is used in the mass media for the purposes of information on the Olympic movement or its activities.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "Suspension of the Obligation"
+      },
+      {
+       "type": "text",
+       "text": "The obligation provided for in Article 1 may be considered as suspended by any State party to this Treaty during any period during which there is no agreement in force between the International Olympic Committee and the National Olympic Committee of the said State concerning the conditions under which the International Olympic Committee will grant authorizations for the use of the Olympic symbol in that State and concerning the part of the said National Olympic Committee in any revenue that the International Olympic Committee obtains for granting the said authorizations."
+      },
+      {
+       "type": "text",
+       "text": "Chapter II"
+      },
+      {
+       "type": "text",
+       "text": "GROUPINGS OF STATES"
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "Exceptions to Chapter I"
+      },
+      {
+       "type": "text",
+       "text": "The provisions of Chapter | shall, as regards States party to this Treaty which are members of a customs union, a free trade area, any other economic grouping or any other regional or subregional grouping, be without prejudice to their commitments under the instrument establishing such union, area or other grouping, in particular as regards the provisions of such instrument governing the free movement of goods or services."
+      },
+      {
+       "type": "text",
+       "text": "Chapter Ill"
+      },
+      {
+       "type": "text",
+       "text": "FINAL CLAUSES"
+      },
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Becoming Party to the Treaty"
+      },
+      {
+       "type": "text",
+       "text": "(1) Any State member of the World Intellectual Property Organization (hereinafter referred to as „the Organization”) or of the International (Paris) Union for the Protection of Industrial Property (hereinafter referred to as „the Paris Union”) may become party to this Treaty by:"
+      },
+      {
+       "type": "text",
+       "text": "(i) signature followed by the deposit of an instrument of ratification, acceptance or approval, or"
+      },
+      {
+       "type": "text",
+       "text": "(ii) deposit of an instrument of accession."
+      },
+      {
+       "type": "text",
+       "text": "(2) Any State not referred to in paragraph (1) which is a member of the United Nations or any of the Specialized Agencies brought into relationship with"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stającej w związku z Organizacją Narodów Zjednoczonych, może zostać stroną niniejszego traktatu przez złożenie dokumentu przystąpienia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Dokumenty ratyfikacji, przyjęcia, zatwierdzenia i przystąpienia składa się u Dyrektora Generalnego Organizacji (zwanego dalej „Dyrektorem Generalnym”).",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każde państwo nie wskazane w ustępie 1, które jest czionkiem Organizacji Narodów Zjednoczonych lub jakiejkolwiek wyspecjalizowanej organizacji pozosymbol is used in the mass media for the purposes of information on the Olympic movement or its activities.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Wejście traktatu w życie",
    "children": [
     {
-     "type": "text",
-     "text": "Article 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "W stosunku do trzech państw, które jako pierwsze złożą swoje dokumenty ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, niniejszy traktat wchodzi w życie miesiąc po dniu, w którym został złożony trzeci dokument ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Suspension of the Obligation"
-    },
-    {
-     "type": "text",
-     "text": "The obligation provided for in Article 1 may be considered as suspended by any State party to this Treaty during any period during which there is no agreement in force between the International Olympic Committee and the National Olympic Committee of the said State concerning the conditions under which the International Olympic Committee will grant authorizations for the use of the Olympic symbol in that State and concerning the part of the said National Olympic Committee in any revenue that the International Olympic Committee obtains for granting the said authorizations."
-    },
-    {
-     "type": "text",
-     "text": "Chapter II"
-    },
-    {
-     "type": "text",
-     "text": "GROUPINGS OF STATES"
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "Exceptions to Chapter I"
-    },
-    {
-     "type": "text",
-     "text": "The provisions of Chapter | shall, as regards States party to this Treaty which are members of a customs union, a free trade area, any other economic grouping or any other regional or subregional grouping, be without prejudice to their commitments under the instrument establishing such union, area or other grouping, in particular as regards the provisions of such instrument governing the free movement of goods or services."
-    },
-    {
-     "type": "text",
-     "text": "Chapter Ill"
-    },
-    {
-     "type": "text",
-     "text": "FINAL CLAUSES"
-    },
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Becoming Party to the Treaty"
-    },
-    {
-     "type": "text",
-     "text": "(1) Any State member of the World Intellectual Property Organization (hereinafter referred to as „the Organization”) or of the International (Paris) Union for the Protection of Industrial Property (hereinafter referred to as „the Paris Union”) may become party to this Treaty by:"
-    },
-    {
-     "type": "text",
-     "text": "(i) signature followed by the deposit of an instrument of ratification, acceptance or approval, or"
-    },
-    {
-     "type": "text",
-     "text": "(ii) deposit of an instrument of accession."
-    },
-    {
-     "type": "text",
-     "text": "(2) Any State not referred to in paragraph (1) which is a member of the United Nations or any of the Specialized Agencies brought into relationship with"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "stającej w związku z Organizacją Narodów Zjednoczonych, może zostać stroną niniejszego traktatu przez złożenie dokumentu przystąpienia."
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "W stosunku do każdego innego państwa, które składa dokument ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, niniejszy traktat wchodzi w życie miesiąc po dniu, w którym taki dokument został złożony.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dokumenty ratyfikacji, przyjęcia, zatwierdzenia i przystąpienia składa się u Dyrektora Generalnego Organizacji (zwanego dalej „Dyrektorem Generalnym”).",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Wypowiedzenie traktatu",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Każde państwo może wypowiedzieć niniejszy traktat w drodze zawiadomienia skierowanego do Dyrektora Generalnego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wejście traktatu w życie"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Wypowiedzenie staje się skuteczne po upływie roku od dnia, w którym Dyrektor Generalny otrzymał zawiadomienie. Artykuł 8",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podpisanie i języki traktatu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Niniejszy traktat podpisany jest w jednym oryginalnym egzemplarzu w językach angielskim, francuskim, hiszpańskim i rosyjskim, przy czym wszystkie teksty są jednakowo autentyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Oficjalne teksty sporządzone będą przez Dyrektora Generalnego, po konsultacji z zainteresowanymi rządami, w językach arabskim, niemieckim, portugalskim i włoskim oraz w takich innych językach, jakie wskaże Konferencja Organizacji lub Zgromadzenie Związku Paryskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Niniejszy traktat pozostaje otwarty do podpisu w Nairobi do dnia 31 grudnia 1982 r., a następnie w Genewie do dnia 30 czerwca 1983 r.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W stosunku do trzech państw, które jako pierwsze złożą swoje dokumenty ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, niniejszy traktat wchodzi w życie miesiąc po dniu, w którym został złożony trzeci dokument ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W stosunku do każdego innego państwa, które składa dokument ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, niniejszy traktat wchodzi w życie miesiąc po dniu, w którym taki dokument został złożony.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Złożenie traktatu do depozytu; przestanie egzemplarzy; rejestracja traktatu",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Oryginalny tekst niniejszego traktatu, gdy przestanie już być otwarty do podpisu w Nairobi, zostanie złożony do depozytu u Dyrektora Generalnego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "the United Nations may become party to this Treaty by deposit of an instrument of accession."
+      },
+      {
+       "type": "text",
+       "text": "(3) Instruments of ratification, acceptance, approval and accession shall be deposited with the Director General of the Organization (hereinafter referred to as „the Director General”)."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Entry into Force of the Treaty"
+      },
+      {
+       "type": "text",
+       "text": "(1) With respect to the three States which are the first to deposit their instruments of ratification, acceptance, approval or accession, this Treaty shall enter into force one month after the day on which the third instrument of ratification, acceptance, approval or accession has been deposited."
+      },
+      {
+       "type": "text",
+       "text": "(2) With respect to any other State which deposits its instrument of ratification, acceptance, approval or accession, this Treaty shall enter into force one month after the day on which that instrument has been deposited."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "Denunciation of the Treaty"
+      },
+      {
+       "type": "text",
+       "text": "(1) Any State may denounce this Treaty by notification addressed to the Director General."
+      },
+      {
+       "type": "text",
+       "text": "(2) Denunciation shall take effect one year after the day on which the Director General has received the notification."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "Signature and Languages of the Treaty"
+      },
+      {
+       "type": "text",
+       "text": "(1) This Treaty shall be signed in a single original in the English, French, Russian and Spanish languages, all texts being equally authentic."
+      },
+      {
+       "type": "text",
+       "text": "(2) Official texts shall be established by the Director General, after consultation with the interested Governments, in the Arabic, German, ltalian and Portuguese languages, and such other languages as the Conference of the Organization or the Assembly of the Paris Union may designate."
+      },
+      {
+       "type": "text",
+       "text": "(3) This Treaty shall remain open for signature at Nairobi until December 31, 1982, and thereafter at Geneva until June 30, 1983."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "Deposit of the Treaty; Transmittal of Copies; Registration of the Treaty"
+      },
+      {
+       "type": "text",
+       "text": "(1) The original ofthis Treaty, when no longer open for signature at Nairobi, shall be deposited with the Director General."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Wypowiedzenie traktatu"
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Dyrektor Generalny przesyła po dwa uwierzytelnione przez siebie egzemplarze niniejszego traktatu do wszystkich państw, o których mowa w artykule 5 ustępy 1 i 2, oraz do każdego innego państwa, na jego życzenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Dyrektor Generalny zarejestruje niniejszy traktat w Sekretariacie Organizacji Narodów Zjednoczonych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde państwo może wypowiedzieć niniejszy traktat w drodze zawiadomienia skierowanego do Dyrektora Generalnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenie staje się skuteczne po upływie roku od dnia, w którym Dyrektor Generalny otrzymał zawiadomienie. Artykuł 8",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Zawiadomienia",
    "children": [
-    {
-     "type": "text",
-     "text": "Podpisanie i języki traktatu"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy traktat podpisany jest w jednym oryginalnym egzemplarzu w językach angielskim, francuskim, hiszpańskim i rosyjskim, przy czym wszystkie teksty są jednakowo autentyczne.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Oficjalne teksty sporządzone będą przez Dyrektora Generalnego, po konsultacji z zainteresowanymi rządami, w językach arabskim, niemieckim, portugalskim i włoskim oraz w takich innych językach, jakie wskaże Konferencja Organizacji lub Zgromadzenie Związku Paryskiego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejszy traktat pozostaje otwarty do podpisu w Nairobi do dnia 31 grudnia 1982 r., a następnie w Genewie do dnia 30 czerwca 1983 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Złożenie traktatu do depozytu; przestanie egzemplarzy; rejestracja traktatu"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Oryginalny tekst niniejszego traktatu, gdy przestanie już być otwarty do podpisu w Nairobi, zostanie złożony do depozytu u Dyrektora Generalnego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "the United Nations may become party to this Treaty by deposit of an instrument of accession."
-    },
-    {
-     "type": "text",
-     "text": "(3) Instruments of ratification, acceptance, approval and accession shall be deposited with the Director General of the Organization (hereinafter referred to as „the Director General”)."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Entry into Force of the Treaty"
-    },
-    {
-     "type": "text",
-     "text": "(1) With respect to the three States which are the first to deposit their instruments of ratification, acceptance, approval or accession, this Treaty shall enter into force one month after the day on which the third instrument of ratification, acceptance, approval or accession has been deposited."
-    },
-    {
-     "type": "text",
-     "text": "(2) With respect to any other State which deposits its instrument of ratification, acceptance, approval or accession, this Treaty shall enter into force one month after the day on which that instrument has been deposited."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "Denunciation of the Treaty"
-    },
-    {
-     "type": "text",
-     "text": "(1) Any State may denounce this Treaty by notification addressed to the Director General."
-    },
-    {
-     "type": "text",
-     "text": "(2) Denunciation shall take effect one year after the day on which the Director General has received the notification."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "Signature and Languages of the Treaty"
-    },
-    {
-     "type": "text",
-     "text": "(1) This Treaty shall be signed in a single original in the English, French, Russian and Spanish languages, all texts being equally authentic."
-    },
-    {
-     "type": "text",
-     "text": "(2) Official texts shall be established by the Director General, after consultation with the interested Governments, in the Arabic, German, ltalian and Portuguese languages, and such other languages as the Conference of the Organization or the Assembly of the Paris Union may designate."
-    },
-    {
-     "type": "text",
-     "text": "(3) This Treaty shall remain open for signature at Nairobi until December 31, 1982, and thereafter at Geneva until June 30, 1983."
-    },
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "Deposit of the Treaty; Transmittal of Copies; Registration of the Treaty"
-    },
-    {
-     "type": "text",
-     "text": "(1) The original ofthis Treaty, when no longer open for signature at Nairobi, shall be deposited with the Director General."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dyrektor Generalny przesyła po dwa uwierzytelnione przez siebie egzemplarze niniejszego traktatu do wszystkich państw, o których mowa w artykule 5 ustępy 1 i 2, oraz do każdego innego państwa, na jego życzenie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dyrektor Generalny zarejestruje niniejszy traktat w Sekretariacie Organizacji Narodów Zjednoczonych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10 Zawiadomienia"
-    },
     {
      "type": "text",
      "text": "Dyrektor Generalny zawiadamia państwa, o których mowa w artykule 5 ustępy 1i 2,0:"
@@ -642,7 +649,8 @@
      "type": "text",
      "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski L.S."
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
    "type": "signature",

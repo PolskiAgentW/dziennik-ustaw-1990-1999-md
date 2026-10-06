@@ -356,272 +356,271 @@
    "num": "10",
    "path": "ust_10",
    "text": "Postanowienia niniejszej konwencji nie naruszają jakichkolwiek zobowiązań Stron wynikających z prawa międzynarodowego w odniesieniu do przedsięwzięć mających lub mogących mieć oddziaływania transgraniczne.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Powiadamianie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dla planowanej działalności wynikającej z załącznika |, która może spowodować znaczące szkodliwe oddziaływanie transgraniczne, Strona pochodzenia, w celu zapewnienia odpowiednich i skutecznych konsultacji przewidzianych w artykule 5, powiadomi każdą Stronę, którą uzna za możliwą Stronę narażoną,",
    "children": []
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The Party of origin shall, consistent with the provisions ofthis Convention, ensure that affected Parties are notified of a proposed activity listed in Appendix I that is likely to cause a significant adverse transboundary impact.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Concerned Parties shall, at the initiative of any such Party, enter into discussions on whether one or more proposed activities not listed in Appendix I is or are likely to cause a significant adverse transboundary impact and thus should be treated as if it or they were so listed. Where those Parties so agree, the activity or activities shall be thus treated. General guidance for identifying criteria to determine significant adverse impact is set forth in Appendix III.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "The Party of origin shall provide, in accordance with the provisions of this Convention, an opportunity to the public in the areas likely to be affected to participate in relevant environmental impact assessment procedures regarding proposed activities and shall ensure that the opportunity provided to the public of the affected Party is equivalent to that provided to the public of the Party of origin.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Environmental impact assessments as required by this Convention shall, as a minimum requirement, be undertaken at the project level of the proposed activity. To the extent appropriate, the Parties shall endeavour to apply the principles of environmental impact assessment to policies, plans and programmes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "The provisions of this Convention shall not affect the right of Parties to implement national laws, regulations, administrative provisions or accepted legal practices protecting information the supply of which would be prejudicial to industrial and commercial secrecy or national security.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "9",
-   "path": "ust_9",
-   "text": "The provisions of this Convention shall not affect the right of particular Parties to implement, by bilateral or multilateral agreement where appropriate, more stringent measures than those of this Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "10",
-   "path": "ust_10",
-   "text": "The provisions of this Convention shall not prejudice any obligations of the Parties under international law with regard to activities having or likely to have a transboundary impact.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "Notification"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "For a proposed activity listed in Appendix I that is likely to cause a significant adverse transboundary impact, the Party of origin shall, for the purposes of ensuring adequate and effective consultations under Article 5, notify any Party which it considers may be an affected Party as early as possible and no later than",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "jak najwcześniej i nie później niż poinformuje własną opinię publiczną o proponowanej działalności."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Powiadomienie to będzie zawierało między innymi:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) informację o planowanej działalności, zawierającą każdą dostępną informację o jej możliwym oddziaływaniu transgranicznym;"
-    },
-    {
-     "type": "text",
-     "text": "(b) charakter możliwej decyzji; oraz"
-    },
-    {
-     "type": "text",
-     "text": "(c) wskazanie rozsądnego terminu, w którym będzie można wymagać, zgodnie z ustępem 3 niniejszego artykułu, odpowiedzi, biorąc pod uwagę charakter planowanej działalności; powiadomienie może zawierać informacje podane w ustępie 5 niniejszego artykułu."
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Strona narażona powinna odpowiedzieć Stronie pochodzenia w terminie podanym w powiadomieniu, potwierdzając odbiór powiadomienia, i powinna oznajmić, czy zamierza uczestniczyć w procedurze oceny oddziaływania na środowisko.",
-   "children": []
+   "path": "art_3",
+   "text": "Powiadamianie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Dla planowanej działalności wynikającej z załącznika |, która może spowodować znaczące szkodliwe oddziaływanie transgraniczne, Strona pochodzenia, w celu zapewnienia odpowiednich i skutecznych konsultacji przewidzianych w artykule 5, powiadomi każdą Stronę, którą uzna za możliwą Stronę narażoną,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "The Party of origin shall, consistent with the provisions ofthis Convention, ensure that affected Parties are notified of a proposed activity listed in Appendix I that is likely to cause a significant adverse transboundary impact.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_3/ust_5",
+     "text": "Concerned Parties shall, at the initiative of any such Party, enter into discussions on whether one or more proposed activities not listed in Appendix I is or are likely to cause a significant adverse transboundary impact and thus should be treated as if it or they were so listed. Where those Parties so agree, the activity or activities shall be thus treated. General guidance for identifying criteria to determine significant adverse impact is set forth in Appendix III.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_3/ust_6",
+     "text": "The Party of origin shall provide, in accordance with the provisions of this Convention, an opportunity to the public in the areas likely to be affected to participate in relevant environmental impact assessment procedures regarding proposed activities and shall ensure that the opportunity provided to the public of the affected Party is equivalent to that provided to the public of the Party of origin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_3/ust_7",
+     "text": "Environmental impact assessments as required by this Convention shall, as a minimum requirement, be undertaken at the project level of the proposed activity. To the extent appropriate, the Parties shall endeavour to apply the principles of environmental impact assessment to policies, plans and programmes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_3/ust_8",
+     "text": "The provisions of this Convention shall not affect the right of Parties to implement national laws, regulations, administrative provisions or accepted legal practices protecting information the supply of which would be prejudicial to industrial and commercial secrecy or national security.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_3/ust_9",
+     "text": "The provisions of this Convention shall not affect the right of particular Parties to implement, by bilateral or multilateral agreement where appropriate, more stringent measures than those of this Convention.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_3/ust_10",
+     "text": "The provisions of this Convention shall not prejudice any obligations of the Parties under international law with regard to activities having or likely to have a transboundary impact.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "Notification"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "For a proposed activity listed in Appendix I that is likely to cause a significant adverse transboundary impact, the Party of origin shall, for the purposes of ensuring adequate and effective consultations under Article 5, notify any Party which it considers may be an affected Party as early as possible and no later than",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jak najwcześniej i nie później niż poinformuje własną opinię publiczną o proponowanej działalności."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Powiadomienie to będzie zawierało między innymi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) informację o planowanej działalności, zawierającą każdą dostępną informację o jej możliwym oddziaływaniu transgranicznym;"
+      },
+      {
+       "type": "text",
+       "text": "(b) charakter możliwej decyzji; oraz"
+      },
+      {
+       "type": "text",
+       "text": "(c) wskazanie rozsądnego terminu, w którym będzie można wymagać, zgodnie z ustępem 3 niniejszego artykułu, odpowiedzi, biorąc pod uwagę charakter planowanej działalności; powiadomienie może zawierać informacje podane w ustępie 5 niniejszego artykułu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Strona narażona powinna odpowiedzieć Stronie pochodzenia w terminie podanym w powiadomieniu, potwierdzając odbiór powiadomienia, i powinna oznajmić, czy zamierza uczestniczyć w procedurze oceny oddziaływania na środowisko.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Jeżeli Strona narażona oznajmi, że nie zamierza uczestniczyć w procedurze oceny oddziaływania na środowisko lub jeśli nie udzieli odpowiedzi w terminie podanym w powiadomieniu, to postanowienia ustępów 5, 6, 7 i8 niniejszego artykułu i artykułów od 4 do 7 nie będą miały zastosowania. W takich okolicznościach prawo Strony pochodzenia do postanowienia, czy wykonać ocenę oddziaływania na środowisko na podstawie prawa krajowego i praktyki, nie może być podważone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_3/ust_5",
+     "text": "Strona pochodzenia, po otrzymaniu odpowiedzi Strony narażonej wykazującej wolę uczestniczenia w procedurze oceny oddziaływania na środowisko, powinna, jeżeli tego jeszcze nie zrobiła, przekazać Stronie narażonej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) stosowną informację dotyczącą procedury oceny oddziaływania na środowisko wraz z podaniem terminarza przekazywania uwag oraz"
+      },
+      {
+       "type": "text",
+       "text": "(b) stosowną informację o planowanej działalności i jej możliwym znaczącym szkodliwym oddziaływaniu transgranicznym."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_3/ust_6",
+     "text": "Strona narażona, na wniosek Strony pochodzenia, powinna zapewnić tej ostatniej realną do uzyskania informację odnoszącą się do potencjalnie narażonego środowiska pod jurysdykcją Strony narażonej, jeśli taka informacja jest konieczna do przygotowania dokumentacji oceny oddziaływania na środowisko. Informacja powinna być niezwłocznie dostarczona i, jeśli to stosowne, za pośrednictwem wspólnego organu, jeżeli taki istnieje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_3/ust_7",
+     "text": "Jeżeli Strona uważa, że jej środowisko może być narażone na znaczące szkodliwe oddziaływanie transgraniczne w wyniku planowanej działalności, wymienionej w załączniku I, i jeżeli nie byta powiadomiona zgodnie z ustępem 1 niniejszego artykułu, to Strony zawhen informing its own public about that proposed activity.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "This notification shall contain, inter alia:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) Information on the proposed activity, including any available information on its possible transboundary impact;"
+      },
+      {
+       "type": "text",
+       "text": "(b) The nature of the possible decision; and"
+      },
+      {
+       "type": "text",
+       "text": "(c) An indication of a reasonable time within which a response under paragraph 3 of this Article is required, taking into account the nature of the proposed activity; and may include the information set out in paragraph 5 of this Article."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "The affected Party shall respond to the Party of origin within the time specified in the notification, acknowledging receipt of the notification, and shall indicate whether it intends to participate in the environmental impact assessment procedure.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "If the affected Party indicates that it does not intend to participate in the environmental impact assessment procedure, or if it does not respond within the time specified in the notification, the provisions in paragraphs 5, 6, 7 and 8 of this Article and in Articles 4 to 7 will not apply. In such circumstances the right of a Party of origin to determine whether to carry out an environmental impact assessment on the basis of its national law and practice is not prejudiced.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_3/ust_5",
+     "text": "Upon receipt of a response from the affected Party indicating its desire to participate in the environmental impact assessment procedure, the Party of origin shall, if it has not already done so, provide to the affected Party:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) Relevant information regarding the environmental impact assessment procedure, including an indication of the time schedule for transmittal of comments; and"
+      },
+      {
+       "type": "text",
+       "text": "(b) Relevant information on the proposed activity and its possible significant adverse transboundary impact."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_3/ust_6",
+     "text": "An affected Party shall, at the request of the Party of origin, provide the latter with reasonably obtainable information relating to the potentially affected environment under the jurisdiction of the affected Party, where such information is necessary for the preparation of the environmental impact assessment documentation. The information shall be furnished promptly and, as appropriate, through a joint body where one exists.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_3/ust_7",
+     "text": "When a Party considers that it would be affected by a significant adverse transboundary impact of a proposed activity listed in Appendix |, and when no notification has taken place in accordance with paragraph 1 of this Article, the concerned Parties shall, at",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "interesowane na wniosek Strony narażonej wymienią wystarczające informacje w celu przedyskutowania, czy istnieje prawdopodobieństwo znaczącego szkodliwego oddziaływania transgranicznego. Jeżeli Strony uzgodnią, że znaczące szkodliwe oddziaływanie transgraniczne jest prawdopodobne, to będą odpowiednio stosowane postanowienia niniejszej konwencji. Jeżeli Strony nie uzgodnią, czy znaczące szkodliwe oddziaływanie transgraniczne jest prawdopodobne, to którakolwiek ze Stron może przedstawić tę kwestię komisji dochodzeniowej, zgodnie z postanowieniami załącznika IV, w celu uzyskania opinii, czy znaczące szkodliwe oddziaływanie transgraniczne jest prawdopodobne, chyba że Strony uzgodnią inny sposób rozstrzygnięcia tej kwestii."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_3/ust_8",
+     "text": "Strony zainteresowane zapewnią, aby opinia publiczna Strony narażonej na terenach, które mogą być narażone, została poinformowana o planowanej działalności i aby miała możliwość wyrażenia swoich uwag lub zastrzeżeń do planowanej działalności oraz aby miała możliwość przekazania tych uwag lub zastrzeżeń właściwemu organowi Strony pochodzenia albo bezpośrednio, albo, jeśli to stosowne, za pośrednictwem Strony pochodzenia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli Strona narażona oznajmi, że nie zamierza uczestniczyć w procedurze oceny oddziaływania na środowisko lub jeśli nie udzieli odpowiedzi w terminie podanym w powiadomieniu, to postanowienia ustępów 5, 6, 7 i8 niniejszego artykułu i artykułów od 4 do 7 nie będą miały zastosowania. W takich okolicznościach prawo Strony pochodzenia do postanowienia, czy wykonać ocenę oddziaływania na środowisko na podstawie prawa krajowego i praktyki, nie może być podważone.",
-   "children": []
+   "path": "art_4",
+   "text": "Przygotowanie dokumentacji oceny oddziaływania na środowisko",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Dokumentacja oceny oddziaływania na środowisko, która ma być przedstawiona właściwemu organowi Strony pochodzenia, powinna zawierać co najmniej informacje wymienione w załączniku II.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Strona pochodzenia powinna dostarczyć Stronie narażonej, jeśli to stosowne, za pośrednictwem wspólnego organu, jeżeli taki istnieje, dokumentację oceny oddziaływania na środowisko. Strony zainteresowane zadbają o przekazanie tej dokumentacji organom i opinii publicznej Strony narażonej na terenach, które mogą być narażone, i o przedłożenie uwag właściwemu organowi Strony pochodzenia bądź bezpośrednio do tego organu, bądź też, jeśli to stosowne, za pośrednictwem Strony pochodzenia, w rozsądnym terminie, zanim ostateczna decyzja w sprawie planowanej działalności zostanie podjęta.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Strona pochodzenia, po otrzymaniu odpowiedzi Strony narażonej wykazującej wolę uczestniczenia w procedurze oceny oddziaływania na środowisko, powinna, jeżeli tego jeszcze nie zrobiła, przekazać Stronie narażonej:",
+   "path": "art_5",
+   "text": "Konsultacje na podstawie dokumentacji oceny oddziaływania na środowisko",
    "children": [
-    {
-     "type": "text",
-     "text": "(a) stosowną informację dotyczącą procedury oceny oddziaływania na środowisko wraz z podaniem terminarza przekazywania uwag oraz"
-    },
-    {
-     "type": "text",
-     "text": "(b) stosowną informację o planowanej działalności i jej możliwym znaczącym szkodliwym oddziaływaniu transgranicznym."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Strona narażona, na wniosek Strony pochodzenia, powinna zapewnić tej ostatniej realną do uzyskania informację odnoszącą się do potencjalnie narażonego środowiska pod jurysdykcją Strony narażonej, jeśli taka informacja jest konieczna do przygotowania dokumentacji oceny oddziaływania na środowisko. Informacja powinna być niezwłocznie dostarczona i, jeśli to stosowne, za pośrednictwem wspólnego organu, jeżeli taki istnieje.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Jeżeli Strona uważa, że jej środowisko może być narażone na znaczące szkodliwe oddziaływanie transgraniczne w wyniku planowanej działalności, wymienionej w załączniku I, i jeżeli nie byta powiadomiona zgodnie z ustępem 1 niniejszego artykułu, to Strony zawhen informing its own public about that proposed activity.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This notification shall contain, inter alia:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) Information on the proposed activity, including any available information on its possible transboundary impact;"
-    },
-    {
-     "type": "text",
-     "text": "(b) The nature of the possible decision; and"
-    },
-    {
-     "type": "text",
-     "text": "(c) An indication of a reasonable time within which a response under paragraph 3 of this Article is required, taking into account the nature of the proposed activity; and may include the information set out in paragraph 5 of this Article."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The affected Party shall respond to the Party of origin within the time specified in the notification, acknowledging receipt of the notification, and shall indicate whether it intends to participate in the environmental impact assessment procedure.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "If the affected Party indicates that it does not intend to participate in the environmental impact assessment procedure, or if it does not respond within the time specified in the notification, the provisions in paragraphs 5, 6, 7 and 8 of this Article and in Articles 4 to 7 will not apply. In such circumstances the right of a Party of origin to determine whether to carry out an environmental impact assessment on the basis of its national law and practice is not prejudiced.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Upon receipt of a response from the affected Party indicating its desire to participate in the environmental impact assessment procedure, the Party of origin shall, if it has not already done so, provide to the affected Party:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) Relevant information regarding the environmental impact assessment procedure, including an indication of the time schedule for transmittal of comments; and"
-    },
-    {
-     "type": "text",
-     "text": "(b) Relevant information on the proposed activity and its possible significant adverse transboundary impact."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "An affected Party shall, at the request of the Party of origin, provide the latter with reasonably obtainable information relating to the potentially affected environment under the jurisdiction of the affected Party, where such information is necessary for the preparation of the environmental impact assessment documentation. The information shall be furnished promptly and, as appropriate, through a joint body where one exists.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "When a Party considers that it would be affected by a significant adverse transboundary impact of a proposed activity listed in Appendix |, and when no notification has taken place in accordance with paragraph 1 of this Article, the concerned Parties shall, at",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "interesowane na wniosek Strony narażonej wymienią wystarczające informacje w celu przedyskutowania, czy istnieje prawdopodobieństwo znaczącego szkodliwego oddziaływania transgranicznego. Jeżeli Strony uzgodnią, że znaczące szkodliwe oddziaływanie transgraniczne jest prawdopodobne, to będą odpowiednio stosowane postanowienia niniejszej konwencji. Jeżeli Strony nie uzgodnią, czy znaczące szkodliwe oddziaływanie transgraniczne jest prawdopodobne, to którakolwiek ze Stron może przedstawić tę kwestię komisji dochodzeniowej, zgodnie z postanowieniami załącznika IV, w celu uzyskania opinii, czy znaczące szkodliwe oddziaływanie transgraniczne jest prawdopodobne, chyba że Strony uzgodnią inny sposób rozstrzygnięcia tej kwestii."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Strony zainteresowane zapewnią, aby opinia publiczna Strony narażonej na terenach, które mogą być narażone, została poinformowana o planowanej działalności i aby miała możliwość wyrażenia swoich uwag lub zastrzeżeń do planowanej działalności oraz aby miała możliwość przekazania tych uwag lub zastrzeżeń właściwemu organowi Strony pochodzenia albo bezpośrednio, albo, jeśli to stosowne, za pośrednictwem Strony pochodzenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Przygotowanie dokumentacji oceny oddziaływania na środowisko"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dokumentacja oceny oddziaływania na środowisko, która ma być przedstawiona właściwemu organowi Strony pochodzenia, powinna zawierać co najmniej informacje wymienione w załączniku II.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona pochodzenia powinna dostarczyć Stronie narażonej, jeśli to stosowne, za pośrednictwem wspólnego organu, jeżeli taki istnieje, dokumentację oceny oddziaływania na środowisko. Strony zainteresowane zadbają o przekazanie tej dokumentacji organom i opinii publicznej Strony narażonej na terenach, które mogą być narażone, i o przedłożenie uwag właściwemu organowi Strony pochodzenia bądź bezpośrednio do tego organu, bądź też, jeśli to stosowne, za pośrednictwem Strony pochodzenia, w rozsądnym terminie, zanim ostateczna decyzja w sprawie planowanej działalności zostanie podjęta.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Konsultacje na podstawie dokumentacji oceny oddziaływania na środowisko"
-    },
     {
      "type": "text",
      "text": "Strona pochodzenia powinna po ukończeniu dokumentacji oceny oddziaływania na środowisko rozpocząć, bez zbędnej zwłoki, konsultacje ze Stroną narażoną, dotyczące m.in. potencjalnego oddziaływania transgranicznego planowanej działalności i środków redukowania lub eliminowania tego oddziaływania. Konsultacje mogą odnosić się do:"
@@ -629,214 +628,216 @@
     {
      "type": "text",
      "text": "(a) możliwych wariantów planowanej działalności, tącznie z wariantem jej zaniechania, i możliwych środków łagodzenia znaczącego szkodliwego odthe request of the affected Party, exchange sufficient information for the purposes of holding discussions on whether there is likely to be a significant adverse transboundary impact. If those Parties agree that there is likely to be a significant adverse transboundary impact, the provisions of this Convention shall apply accordingly. If those Parties cannot agree whether there is likely to be a significant adverse transboundary impact, any such Party may submit that question to an inquiry commission in accordance with the provisions of Appendix IV to advise on the likelihood of significant adverse transboundary impact, unless they agree on another method of settling this question."
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_5/ust_8",
+     "text": "The concerned Parties shall ensure that the public of the affected Party in the areas likely to be affected be informed of, and be provided with possibilities for making comments or objections on, the proposed activity, and for the transmittal of these comments or objections to the competent authority of the Party of origin, either directly to this authority or, where appropriate, through the Party of origin.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "Preparation of the environmental impact assessment documentation"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "The environmental impact assessment documentation to be submitted to the competent authority of the Party of origin shall contain, as a minimum, the information described in Appendix II.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "The Party of origin shall furnish the affected Party, aS appropriate through a joint body where one exists, with the environmental impact assessment documentation. The concerned Parties shall arrange for distribution of the documentation to the authorities and the public of the affected Party in the areas likely to be affected and for the submission of comments to the competent authority of the Party of origin, either directly to this authority or, where appropriate, through the Party of origin within a reasonable time before the final decision is taken on the proposed activity.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Consultations on the basis of the environmental impact assessment documentation"
+      },
+      {
+       "type": "text",
+       "text": "The Party of origin shall, after completion of the environmental impact assessment documentation, without undue delay enter into consultations with the affected Party concerning, inter alia, the potential transboundary impact of the proposed activity and measures to reduce or eliminate its impact. Consultations may relate to:"
+      },
+      {
+       "type": "text",
+       "text": "(a) Possible alternatives to the proposed activity, including the no-action alternative and possible measures to mitigate significant adverse transboun-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "działywania transgranicznego oraz monitorowania na koszt Strony pochodzenia skutków zastosowania takich środków;"
+      },
+      {
+       "type": "text",
+       "text": "(b) innych form możliwej wzajemnej pomocy w redukowaniu jakiegokolwiek znaczącego szkodliwego oddziaływania transgranicznego planowanej działalności oraz"
+      },
+      {
+       "type": "text",
+       "text": "(c) wszelkich innych właściwych spraw związanych z planowaną działalnością."
+      },
+      {
+       "type": "text",
+       "text": "Na początku takich konsultacji Strony uzgodnią rozsądne ramy czasowe dla okresu konsultacji. Wszelkie takie konsultacje mogą być prowadzone za pośrednictwem odpowiedniego wspólnego organu, jeżeli taki istnieje."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Decyzja końcowa",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Strony zapewnią, aby w decyzji końcowej dotyczącej planowanej działalności zostały uwzględnione wyniki oceny oddziaływania na środowisko, tącznie z dokumentacją oceny oddziaływania na środowisko, jak również uwagi o ocenie otrzymane zgodnie z artykułem 3 ustęp 8 i artykułem 4 ustęp 2 oraz wyniki konsultacji, o których mowa w artykule 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Strona pochodzenia powinna dostarczyć Stronie narażonej decyzję końcową dotyczącą planowanej działalności z uzasadnieniem i argumentacją leżącą u jej podstaw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Jeśli — zanim rozpocznie się planowana działalność — udostępniona zostanie Stronie zainteresowanej dodatkowa informacja o znaczącym oddziaływaniu transgranicznym tej działalności, która to informacja nie była dostępna w czasie podejmowania decyzji w sprawie tej działalności, a która mogłaby istotnie wpłynąć na decyzję, to Strona ta powinna natychmiast zawiadomić o tym inną zainteresowaną Stronę lub Strony. Jeśli jedna ze Stron zainteresowanych wystąpi z takim wnioskiem, należy podjąć konsultacje nad potrzebą zmiany takiej decyzji.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Analiza porealizacyjna",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Strony zainteresowane, na prośbę którejkolwiek ze Stron, postanowią, czy i w jakim zakresie powinna być przeprowadzona analiza porealizacyjna, biorąc pod uwagę prawdopodobne znaczące szkodliwe oddziaływanie transgraniczne działalności, której ocena oddziaływania na środowisko została podjęta zgodnie z niniejszą konwencją. Jakakolwiek przedsięwzięta analiza porealizacyjna powinna przede wszystkim obejmować nadzór nad działalnością jakiegokolwiek jej szkodliwego oddziaływania transgranicznego. Taki nadzór i ustalenie mogą być podjęte w celu osiągnięcia celów wymienionych w załączniku V.",
+     "children": [
+      {
+       "type": "text",
+       "text": "dary impact and to monitor the effects of such measures at the expense of the Party of origin;"
+      },
+      {
+       "type": "text",
+       "text": "(b) Other forms of possible mutual assistance in reducing any significant adverse transboundary impact of the proposed activity; and"
+      },
+      {
+       "type": "text",
+       "text": "(c) Any other appropriate matters relating to the proposed activity."
+      },
+      {
+       "type": "text",
+       "text": "The Parties shall agree, at the commencement of such consultations, on a reasonable time-frame for the duration of the consultation period. Any such consultations may be conducted through an appropriate joint body, where one exists."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Final decision"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "The Parties shall ensure that, in the final decision on the proposed activity, due account is taken of the outcome of the environmental impact assessment, including the environmental impact assessment documentation, as well as the comments thereon received pursuant to Article 3, paragraph 8 and Article 4, paragraph 2, and the outcome of the consultations as referred to in Article 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "The Party of origin shall provide to the affected Party the final decision on the proposed activity along with the reasons and considerations on which it was based.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "If additional information on the significant transboundary impact of a proposed activity, which was not available at the time a decision was made with respect to that activity and which could have materially affected the decision, becomes available to a concerned Party before work on that activity commences, that Party shall immediately inform the other concerned Party or Parties. If one of the concerned Parties so requests, consultations shall be held as to whether the decision needs to be revised.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "Post-project analysis"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "The concerned Parties, at the request of any such Party, shall determine whether, and if so to what extent, a post-project analysis shall be carried out, taking into account the likely significant adverse transboundary impact of the activity for which an environmental impact assessment has been undertaken pursuant to this Convention. Any post-project analysis undertaken shall include, in particular, the surveillance of the activity and the determination of any adverse transboundary impact. Such surveillance and determination may be undertaken with a view to achieving the objectives listed in Appendix V.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Gdy w wyniku analizy porealizacyjnej Strona pochodzenia lub Strona narażona uzyska rozsądne podstawy, aby przypuszczać, że występuje prawdopodobieństwo znaczącego szkodliwego oddziaływania transgranicznego lub ujawnione zostaną czynniki, które mogą spowodować takie oddziaływanie, to powinna natychmiast poinformować o tym drugą Stronę. Strony zainteresowane przeprowadzą wówczas konsultacje co do koniecznych działań w celu zredukowania lub wyeliminowania tego oddziaływania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
    "num": "8",
-   "path": "ust_8",
-   "text": "The concerned Parties shall ensure that the public of the affected Party in the areas likely to be affected be informed of, and be provided with possibilities for making comments or objections on, the proposed activity, and for the transmittal of these comments or objections to the competent authority of the Party of origin, either directly to this authority or, where appropriate, through the Party of origin.",
+   "path": "art_8",
+   "text": "Współpraca dwustronna i wielostronna",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "Preparation of the environmental impact assessment documentation"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The environmental impact assessment documentation to be submitted to the competent authority of the Party of origin shall contain, as a minimum, the information described in Appendix II.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Party of origin shall furnish the affected Party, aS appropriate through a joint body where one exists, with the environmental impact assessment documentation. The concerned Parties shall arrange for distribution of the documentation to the authorities and the public of the affected Party in the areas likely to be affected and for the submission of comments to the competent authority of the Party of origin, either directly to this authority or, where appropriate, through the Party of origin within a reasonable time before the final decision is taken on the proposed activity.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Consultations on the basis of the environmental impact assessment documentation"
-    },
-    {
-     "type": "text",
-     "text": "The Party of origin shall, after completion of the environmental impact assessment documentation, without undue delay enter into consultations with the affected Party concerning, inter alia, the potential transboundary impact of the proposed activity and measures to reduce or eliminate its impact. Consultations may relate to:"
-    },
-    {
-     "type": "text",
-     "text": "(a) Possible alternatives to the proposed activity, including the no-action alternative and possible measures to mitigate significant adverse transboun-"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "działywania transgranicznego oraz monitorowania na koszt Strony pochodzenia skutków zastosowania takich środków;"
-    },
-    {
-     "type": "text",
-     "text": "(b) innych form możliwej wzajemnej pomocy w redukowaniu jakiegokolwiek znaczącego szkodliwego oddziaływania transgranicznego planowanej działalności oraz"
-    },
-    {
-     "type": "text",
-     "text": "(c) wszelkich innych właściwych spraw związanych z planowaną działalnością."
-    },
-    {
-     "type": "text",
-     "text": "Na początku takich konsultacji Strony uzgodnią rozsądne ramy czasowe dla okresu konsultacji. Wszelkie takie konsultacje mogą być prowadzone za pośrednictwem odpowiedniego wspólnego organu, jeżeli taki istnieje."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Decyzja końcowa"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony zapewnią, aby w decyzji końcowej dotyczącej planowanej działalności zostały uwzględnione wyniki oceny oddziaływania na środowisko, tącznie z dokumentacją oceny oddziaływania na środowisko, jak również uwagi o ocenie otrzymane zgodnie z artykułem 3 ustęp 8 i artykułem 4 ustęp 2 oraz wyniki konsultacji, o których mowa w artykule 5.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona pochodzenia powinna dostarczyć Stronie narażonej decyzję końcową dotyczącą planowanej działalności z uzasadnieniem i argumentacją leżącą u jej podstaw.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeśli — zanim rozpocznie się planowana działalność — udostępniona zostanie Stronie zainteresowanej dodatkowa informacja o znaczącym oddziaływaniu transgranicznym tej działalności, która to informacja nie była dostępna w czasie podejmowania decyzji w sprawie tej działalności, a która mogłaby istotnie wpłynąć na decyzję, to Strona ta powinna natychmiast zawiadomić o tym inną zainteresowaną Stronę lub Strony. Jeśli jedna ze Stron zainteresowanych wystąpi z takim wnioskiem, należy podjąć konsultacje nad potrzebą zmiany takiej decyzji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Analiza porealizacyjna"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony zainteresowane, na prośbę którejkolwiek ze Stron, postanowią, czy i w jakim zakresie powinna być przeprowadzona analiza porealizacyjna, biorąc pod uwagę prawdopodobne znaczące szkodliwe oddziaływanie transgraniczne działalności, której ocena oddziaływania na środowisko została podjęta zgodnie z niniejszą konwencją. Jakakolwiek przedsięwzięta analiza porealizacyjna powinna przede wszystkim obejmować nadzór nad działalnością jakiegokolwiek jej szkodliwego oddziaływania transgranicznego. Taki nadzór i ustalenie mogą być podjęte w celu osiągnięcia celów wymienionych w załączniku V.",
-   "children": [
-    {
-     "type": "text",
-     "text": "dary impact and to monitor the effects of such measures at the expense of the Party of origin;"
-    },
-    {
-     "type": "text",
-     "text": "(b) Other forms of possible mutual assistance in reducing any significant adverse transboundary impact of the proposed activity; and"
-    },
-    {
-     "type": "text",
-     "text": "(c) Any other appropriate matters relating to the proposed activity."
-    },
-    {
-     "type": "text",
-     "text": "The Parties shall agree, at the commencement of such consultations, on a reasonable time-frame for the duration of the consultation period. Any such consultations may be conducted through an appropriate joint body, where one exists."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Final decision"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Parties shall ensure that, in the final decision on the proposed activity, due account is taken of the outcome of the environmental impact assessment, including the environmental impact assessment documentation, as well as the comments thereon received pursuant to Article 3, paragraph 8 and Article 4, paragraph 2, and the outcome of the consultations as referred to in Article 5.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Party of origin shall provide to the affected Party the final decision on the proposed activity along with the reasons and considerations on which it was based.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "If additional information on the significant transboundary impact of a proposed activity, which was not available at the time a decision was made with respect to that activity and which could have materially affected the decision, becomes available to a concerned Party before work on that activity commences, that Party shall immediately inform the other concerned Party or Parties. If one of the concerned Parties so requests, consultations shall be held as to whether the decision needs to be revised.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "Post-project analysis"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The concerned Parties, at the request of any such Party, shall determine whether, and if so to what extent, a post-project analysis shall be carried out, taking into account the likely significant adverse transboundary impact of the activity for which an environmental impact assessment has been undertaken pursuant to this Convention. Any post-project analysis undertaken shall include, in particular, the surveillance of the activity and the determination of any adverse transboundary impact. Such surveillance and determination may be undertaken with a view to achieving the objectives listed in Appendix V.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Gdy w wyniku analizy porealizacyjnej Strona pochodzenia lub Strona narażona uzyska rozsądne podstawy, aby przypuszczać, że występuje prawdopodobieństwo znaczącego szkodliwego oddziaływania transgranicznego lub ujawnione zostaną czynniki, które mogą spowodować takie oddziaływanie, to powinna natychmiast poinformować o tym drugą Stronę. Strony zainteresowane przeprowadzą wówczas konsultacje co do koniecznych działań w celu zredukowania lub wyeliminowania tego oddziaływania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Współpraca dwustronna i wielostronna"
-    },
     {
      "type": "text",
      "text": "W celu wprowadzenia w życie zobowiązań wynikających z niniejszej konwencji Strony mogą dalej stosować istniejące lub zawierać nowe umowy dwustronne, wielostronne lub inne porozumienia. Umowy takie lub inne porozumienia mogą opierać się na elementach wymienionych w załączniku VI."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Programy badawcze"
-    },
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Programy badawcze",
+   "children": [
     {
      "type": "text",
      "text": "Strony zwrócą szczególną uwagę na podjęcie lub zintensyfikowanie specjalnych programów badawczych, mających na celu:"
@@ -864,189 +865,192 @@
     {
      "type": "text",
      "text": "Strony powinny wymieniać między sobą wyniki wymienionych powyżej programów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Status załączników"
-    },
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Status załączników",
+   "children": [
     {
      "type": "text",
      "text": "Załączniki do niniejszej konwencji stanowią jej integralną część."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Spotkania Stron"
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą się spotykać, jeśli to możliwe, przy okazji corocznych sesji Starszych Doradców Rządo-",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "When, as a result of post-project analysis, the Party of origin or the affected Party has reasonable grounds for concluding that there is a significant adverse transboundary impact or factors have been discovered which may result in such an impact, it shall immediately inform the other Party. The concerned Parties shall then consult on necessary measures to reduce or eliminate the impact.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Spotkania Stron",
    "children": [
     {
-     "type": "text",
-     "text": "Article 8"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Strony będą się spotykać, jeśli to możliwe, przy okazji corocznych sesji Starszych Doradców Rządo-",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Bilateral and multilateral cooperation"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "When, as a result of post-project analysis, the Party of origin or the affected Party has reasonable grounds for concluding that there is a significant adverse transboundary impact or factors have been discovered which may result in such an impact, it shall immediately inform the other Party. The concerned Parties shall then consult on necessary measures to reduce or eliminate the impact.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "Bilateral and multilateral cooperation"
+      },
+      {
+       "type": "text",
+       "text": "The Parties may continue existing or enter into new bilateral or multilateral agreements or other arrangements in order to implement their obligations under this Convention. Such agreements or other arrangements may be based on the elements listed in Appendix VI."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "Research programmes"
+      },
+      {
+       "type": "text",
+       "text": "The Parties shall give special consideration to the setting up, or intensification of, specific research programmes aimed at:"
+      },
+      {
+       "type": "text",
+       "text": "(a) Improving existing qualitative and quantitative methods for assessing the impacts of proposed activities;"
+      },
+      {
+       "type": "text",
+       "text": "(b) Achieving a better understanding of cause-effect relationships and their role in integrated environmental management;"
+      },
+      {
+       "type": "text",
+       "text": "(c) Analysing and monitoring the efficient implementation of decisions on proposed activities with the intention of minimizing or preventing impacts;"
+      },
+      {
+       "type": "text",
+       "text": "(d) Developing methods to stimulate creative approaches in the search for environmentally sound alternatives to proposed activities, production and consumption patterns;"
+      },
+      {
+       "type": "text",
+       "text": "(e) Developing methodologies for the application of the principles of environmental impact assessment at the macroeconomic level."
+      },
+      {
+       "type": "text",
+       "text": "The results of the programmes listed above shall be exchanged by the Parties."
+      },
+      {
+       "type": "text",
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "Status of the Appendices"
+      },
+      {
+       "type": "text",
+       "text": "The Appendices attached to this Convention form an integral part of the Convention."
+      },
+      {
+       "type": "text",
+       "text": "Article 11"
+      },
+      {
+       "type": "text",
+       "text": "Meeting of Parties"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "The Parties may continue existing or enter into new bilateral or multilateral agreements or other arrangements in order to implement their obligations under this Convention. Such agreements or other arrangements may be based on the elements listed in Appendix VI."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "The Parties shall meet, so far as possible, in connection with the annual sessions of the Senior Advi-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wych EKG ds. Środowiska i Zasobów Wodnych. Pierwsze spotkanie Stron będzie zwołane nie później niż rok po dacie wejścia w życie niniejszej konwencji. Później spotkania Stron powinny odbywać się w takich terminach, które zostaną uznane przez spotkanie Stron za konieczne lub na pisemny wniosek którejkolwiek ze Stron, pod warunkiem że uzyska on poparcie przynajmniej jednej trzeciej Stron w ciągu sześciu miesięcy od powiadomienia Stron o tym wniosku przez Sekretariat."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "Research programmes"
-    },
-    {
-     "type": "text",
-     "text": "The Parties shall give special consideration to the setting up, or intensification of, specific research programmes aimed at:"
-    },
-    {
-     "type": "text",
-     "text": "(a) Improving existing qualitative and quantitative methods for assessing the impacts of proposed activities;"
-    },
-    {
-     "type": "text",
-     "text": "(b) Achieving a better understanding of cause-effect relationships and their role in integrated environmental management;"
-    },
-    {
-     "type": "text",
-     "text": "(c) Analysing and monitoring the efficient implementation of decisions on proposed activities with the intention of minimizing or preventing impacts;"
-    },
-    {
-     "type": "text",
-     "text": "(d) Developing methods to stimulate creative approaches in the search for environmentally sound alternatives to proposed activities, production and consumption patterns;"
-    },
-    {
-     "type": "text",
-     "text": "(e) Developing methodologies for the application of the principles of environmental impact assessment at the macroeconomic level."
-    },
-    {
-     "type": "text",
-     "text": "The results of the programmes listed above shall be exchanged by the Parties."
-    },
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "Status of the Appendices"
-    },
-    {
-     "type": "text",
-     "text": "The Appendices attached to this Convention form an integral part of the Convention."
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
-    },
-    {
-     "type": "text",
-     "text": "Meeting of Parties"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Strony będą w sposób ciągły dokonywać przeglądów wykonywania postanowień niniejszej konwencji i mając to na uwadze:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) będą dokonywać przeglądów polityki i podejścia metodologicznego do ocen oddziaływania na środowisko stosowanych przez Strony w celu dalszego doskonalenia procedur ocen oddziaływania na środowisko w kontekście transgranicznym;"
+      },
+      {
+       "type": "text",
+       "text": "(b) będą wymieniać informacje dotyczące doświadczeń zdobytych przy zawieraniu i wykonywaniu umów dwustronnych i wielostronnych lub innych porozumień dotyczących stosowania ocen oddziaływania na środowisko w kontekście transgranicznym, w których uczestniczy jedna lub więcej Stron;"
+      },
+      {
+       "type": "text",
+       "text": "(c) będą poszukiwać, jeśli to stosowne, usług kompetentnych organów międzynarodowych i komitetów naukowych w zakresie metodologii i technik związanych z osiągnięciem celów niniejszej konwencji;"
+      },
+      {
+       "type": "text",
+       "text": "(d) rozważą na swoim pierwszym spotkaniu i przyjmą jednomyślnie zasady procedury dla swoich spotkań;"
+      },
+      {
+       "type": "text",
+       "text": "(e) rozważą i, jeśli to konieczne, przyjmą propozycje poprawek do niniejszej konwencji;"
+      },
+      {
+       "type": "text",
+       "text": "(f) rozważą i podejmą wszelkie dodatkowe działania, które mogą być niezbędne do osiągnięcia celów niniejszej konwencji."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Parties shall meet, so far as possible, in connection with the annual sessions of the Senior Advi-",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Prawo głosu",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Każda ze Stron niniejszej konwencji ma prawo do jednego głosu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "wych EKG ds. Środowiska i Zasobów Wodnych. Pierwsze spotkanie Stron będzie zwołane nie później niż rok po dacie wejścia w życie niniejszej konwencji. Później spotkania Stron powinny odbywać się w takich terminach, które zostaną uznane przez spotkanie Stron za konieczne lub na pisemny wniosek którejkolwiek ze Stron, pod warunkiem że uzyska on poparcie przynajmniej jednej trzeciej Stron w ciągu sześciu miesięcy od powiadomienia Stron o tym wniosku przez Sekretariat."
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Regionalne organizacje integracji gospodarczej, jako wyjątek od postanowienia ustępu 1 niniejszego artykułu, korzystają ze swego prawa głosu w sprawach, które wchodzą w zakres ich kompetencji, dysponując liczbą głosów równą liczbie ich państw członkowskich będących Stronami niniejszej konwencji. Organizacje, o których mowa, nie dysponują prawem głosu, jeśli ich państwa członkowskie korzystają z przysługującego im prawa i na odwrót.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą w sposób ciągły dokonywać przeglądów wykonywania postanowień niniejszej konwencji i mając to na uwadze:",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Sekretariat",
    "children": [
-    {
-     "type": "text",
-     "text": "(a) będą dokonywać przeglądów polityki i podejścia metodologicznego do ocen oddziaływania na środowisko stosowanych przez Strony w celu dalszego doskonalenia procedur ocen oddziaływania na środowisko w kontekście transgranicznym;"
-    },
-    {
-     "type": "text",
-     "text": "(b) będą wymieniać informacje dotyczące doświadczeń zdobytych przy zawieraniu i wykonywaniu umów dwustronnych i wielostronnych lub innych porozumień dotyczących stosowania ocen oddziaływania na środowisko w kontekście transgranicznym, w których uczestniczy jedna lub więcej Stron;"
-    },
-    {
-     "type": "text",
-     "text": "(c) będą poszukiwać, jeśli to stosowne, usług kompetentnych organów międzynarodowych i komitetów naukowych w zakresie metodologii i technik związanych z osiągnięciem celów niniejszej konwencji;"
-    },
-    {
-     "type": "text",
-     "text": "(d) rozważą na swoim pierwszym spotkaniu i przyjmą jednomyślnie zasady procedury dla swoich spotkań;"
-    },
-    {
-     "type": "text",
-     "text": "(e) rozważą i, jeśli to konieczne, przyjmą propozycje poprawek do niniejszej konwencji;"
-    },
-    {
-     "type": "text",
-     "text": "(f) rozważą i podejmą wszelkie dodatkowe działania, które mogą być niezbędne do osiągnięcia celów niniejszej konwencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Prawo głosu"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron niniejszej konwencji ma prawo do jednego głosu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Regionalne organizacje integracji gospodarczej, jako wyjątek od postanowienia ustępu 1 niniejszego artykułu, korzystają ze swego prawa głosu w sprawach, które wchodzą w zakres ich kompetencji, dysponując liczbą głosów równą liczbie ich państw członkowskich będących Stronami niniejszej konwencji. Organizacje, o których mowa, nie dysponują prawem głosu, jeśli ich państwa członkowskie korzystają z przysługującego im prawa i na odwrót.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Sekretariat"
-    },
     {
      "type": "text",
      "text": "Sekretarz Wykonawczy Europejskiej Komisji Gospodarczej pełni następujące funkcje sekretariatu:"
@@ -1054,539 +1058,543 @@
     {
      "type": "text",
      "text": "sers to ECE Governments on Environmental and Water Problems. The first meeting of the Parties shall be convened not later than one year after the date of the entry into force of this Convention. Thereafter, meetings of the Parties shall be held at such other times as may be deemed necessary by a meeting of the Parties, or at the written request of any Party, provided that, within six months of the request being communicated to them by the secretariat, it is supported by at least one third of the Parties."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "The Parties shall keep under continuous review the implementation of this Convention, and, with this purpose in mind, shall:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) Review the policies and methodological approaches to environmental impact assessment by the Parties with a view to further improving environmental impact assessment procedures in a transboundary context;"
+      },
+      {
+       "type": "text",
+       "text": "(b) Exchange information regarding experience gained in concluding and implementing bilateral and multilateral agreements or other arrangements regarding the use of environmental impact assessment in a transboundary context to which one or more of the Parties are party;"
+      },
+      {
+       "type": "text",
+       "text": "(c) Seek, where appropriate, the services of competent international bodies and scientific committees in methodological and technical aspects pertinent to the achievement of the purposes of this Convention;"
+      },
+      {
+       "type": "text",
+       "text": "(d) At their first meeting, consider and by consensus adopt rules of procedure for their meetings;"
+      },
+      {
+       "type": "text",
+       "text": "(e) Consider and, where necessary, adopt proposals for amendments to this Convention;"
+      },
+      {
+       "type": "text",
+       "text": "(f) Consider and undertake any additional action that may be required for the achievement of the purposes of this Convention."
+      },
+      {
+       "type": "text",
+       "text": "Article 12"
+      },
+      {
+       "type": "text",
+       "text": "Right to vote"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Each Party to this Convention shall have one vote.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Except as provided for in paragraph 1 of this Article, regional economic integration organizations, in matters within their competence, shall exercise their right to vote a number of votes equal to the number of their member States which are Parties to this Convention. Such organizations shall not exercise their right to vote if their member States exercise theirs, and vi-",
+     "children": [
+      {
+       "type": "text",
+       "text": "ce versa."
+      },
+      {
+       "type": "text",
+       "text": "Article 13"
+      },
+      {
+       "type": "text",
+       "text": "Secretariat"
+      },
+      {
+       "type": "text",
+       "text": "The Executive Secretary of the Economic Commission for Europe shall carry out the following secretariat functions:"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(a) zwołuje i przygotowuje spotkania stron,"
+      },
+      {
+       "type": "text",
+       "text": "(b) przekazuje stronom sprawozdania i inne informacje otrzymywane zgodnie z postanowieniami niniejszej konwencji,"
+      },
+      {
+       "type": "text",
+       "text": "(c) wykonuje inne funkcje, które mogą wynikać z postanowień niniejszej konwencji lub które mogą być mu powierzone przez Strony."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Parties shall keep under continuous review the implementation of this Convention, and, with this purpose in mind, shall:",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Poprawki do konwencji",
    "children": [
     {
-     "type": "text",
-     "text": "(a) Review the policies and methodological approaches to environmental impact assessment by the Parties with a view to further improving environmental impact assessment procedures in a transboundary context;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Każda ze Stron może proponować poprawki do niniejszej konwencji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) Exchange information regarding experience gained in concluding and implementing bilateral and multilateral agreements or other arrangements regarding the use of environmental impact assessment in a transboundary context to which one or more of the Parties are party;"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Proponowane poprawki powinny być przedłożone w formie pisemnej do sekretariatu, który przekaże je wszystkim Stronom. Proponowane poprawki będą przedmiotem dyskusji na najbliższym spotkaniu Stron, pod warunkiem że sekretariat prześle je Stronom co najmniej na dziewięćdziesiąt dni przed terminem tego spotkania.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(c) Seek, where appropriate, the services of competent international bodies and scientific committees in methodological and technical aspects pertinent to the achievement of the purposes of this Convention;"
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Strony poczynią wszelkie starania w celu osiągnięcia jednomyślności przy podejmowaniu każdej proponowanej poprawki do niniejszej konwencji. Jeśli jednak wyczerpane zostaną wszystkie możliwości osiągnięcia jednomyślności i nie osiągnie się zgodnego stanowiska, to w ostateczności poprawka może być przyjęta w głosowaniu większością trzech czwartych głosów Stron obecnych i głosujących na spotkaniu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(d) At their first meeting, consider and by consensus adopt rules of procedure for their meetings;"
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Poprawki do niniejszej konwencji, przyjęte zgodnie z ustępem 3 niniejszego artykułu, przedłożone zostaną przez depozytariusza wszystkim Stronom do ratyfikacji, zatwierdzenia lub przyjęcia. Poprawki wejdą w życie dla Stron, które je ratyfikowały, zatwierdziły lub przyjęty, dziewięćdziesiątego dnia od dnia otrzymania przez depozytariusza zawiadomienia o ich ratyfikacji, zatwierdzeniu lub przyjęciu co najmniej przez trzy czwarte tych Stron. W stosunku do każdej innej Strony poprawki wchodzą w życie dziewięćdziesiątego dnia po złożeniu przez Stronę dokumentu ratyfikacji, zatwierdzenia lub przyjęcia poprawek.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(e) Consider and, where necessary, adopt proposals for amendments to this Convention;"
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "Dla celów niniejszego artykułu pojęcie „Strony obecne i głosujące” oznacza Strony obecne i oddające głos „za” lub „przeciw”.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(f) Consider and undertake any additional action that may be required for the achievement of the purposes of this Convention."
-    },
-    {
-     "type": "text",
-     "text": "Article 12"
-    },
-    {
-     "type": "text",
-     "text": "Right to vote"
+     "type": "ust",
+     "num": "6",
+     "path": "art_14/ust_6",
+     "text": "Procedura głosowania przedstawiona w ustępie 3 niniejszego artykułu nie może stanowić precedensu dla przyszłych porozumień negocjowanych w ramach Europejskiej Komisji Gospodarczej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each Party to this Convention shall have one vote.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Except as provided for in paragraph 1 of this Article, regional economic integration organizations, in matters within their competence, shall exercise their right to vote a number of votes equal to the number of their member States which are Parties to this Convention. Such organizations shall not exercise their right to vote if their member States exercise theirs, and vi-",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Rozstrzyganie sporów",
    "children": [
     {
-     "type": "text",
-     "text": "ce versa."
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "W razie powstania sporu między dwiema lub więcej Stronami, dotyczącego interpretacji lub stosowania niniejszej konwencji, Strony będą poszukiwały",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) The convening and preparing of meetings of the Parties;"
+      },
+      {
+       "type": "text",
+       "text": "(b) The transmission of reports and other information received in accordance with the provisions of this Convention to the Parties; and"
+      },
+      {
+       "type": "text",
+       "text": "(c) The performance ofother functions as may be provided for in this Convention or as may be determined by the Parties."
+      },
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "Amendments to the Convention"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Any party may propose amendments to this Convention.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Secretariat"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Proposed amendments shall be submitted in writing to the secretariat, which shall communicate them to all Parties. The proposed amendments shall be discussed at the next meeting of the Parties, provided these proposals have been circulated by the secretariat to the Parties at least ninety days in advance.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "The Executive Secretary of the Economic Commission for Europe shall carry out the following secretariat functions:"
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting at the meeting.",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "4",
+     "path": "art_15/ust_4",
+     "text": "Amendments to this Convention adopted in accordance with paragraph 3 of this Article shall be submitted by the Depositary to all Parties for ratification, approval or acceptance. They shall enter into force for Parties having ratified, approved or accepted them on the ninetieth day after the receipt by the Depositary of notification of their ratification, approval or acceptance by at least three-fourths of these Parties. Thereafter they shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(a) zwołuje i przygotowuje spotkania stron,"
+     "type": "ust",
+     "num": "5",
+     "path": "art_15/ust_5",
+     "text": "For the purpose of this Article, \"Parties present and voting” means Parties present and casting an affirmative or negative vote.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) przekazuje stronom sprawozdania i inne informacje otrzymywane zgodnie z postanowieniami niniejszej konwencji,"
+     "type": "ust",
+     "num": "6",
+     "path": "art_15/ust_6",
+     "text": "The voting procedure set forth in paragraph 3 of this Article is not intended to constitute a precedent for future agreements negotiated within the Economic Commission for Europe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 15"
+      },
+      {
+       "type": "text",
+       "text": "Settlement of Disputes"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(c) wykonuje inne funkcje, które mogą wynikać z postanowień niniejszej konwencji lub które mogą być mu powierzone przez Strony."
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "If a dispute arises between two or more Parties about the interpretation or application of this Convention, they shall seek a solution by negotiation or by any",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "rozwiązania w drodze negocjacji lub przy zastosowaniu jakiegokolwiek innego sposobu rozstrzygania sporów możliwego do przyjęcia przez Strony pozostające w sporze."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Przy podpisywaniu ratyfikacji, przyjęciu, zatwierdzeniu lub przystąpieniu do niniejszej konwencji albo kiedykolwiek później Strona może oświadczyć w formie pisemnej wobec depozytariusza, że odnośnie do sporu, który nie został rozstrzygnięty zgodnie z postanowieniem ustępu 1 niniejszego artykułu, przyjmie jeden lub obydwa z następujących sposobów rozstrzygania sporów jako obowiązujący w stosunku do każdej ze Stron przyjmujących takie samo zobowiązanie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) przekazanie sporu do Międzynarodowego Trybunatu Sprawiedliwości;"
+      },
+      {
+       "type": "text",
+       "text": "(b) arbitraż zgodnie z procedurą określoną w załączniku VII."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Poprawki do konwencji"
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Jeżeli uczestniczące w sporze Strony przyjęty obydwa sposoby rozstrzygnięcia sporu, o których mowa w ustępie 2 niniejszego artykułu, to spór może być przekazany wyłącznie do Międzynarodowego Trybunatu Sprawiedliwości, chyba że Strony uzgodnią inaczej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron może proponować poprawki do niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Proponowane poprawki powinny być przedłożone w formie pisemnej do sekretariatu, który przekaże je wszystkim Stronom. Proponowane poprawki będą przedmiotem dyskusji na najbliższym spotkaniu Stron, pod warunkiem że sekretariat prześle je Stronom co najmniej na dziewięćdziesiąt dni przed terminem tego spotkania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony poczynią wszelkie starania w celu osiągnięcia jednomyślności przy podejmowaniu każdej proponowanej poprawki do niniejszej konwencji. Jeśli jednak wyczerpane zostaną wszystkie możliwości osiągnięcia jednomyślności i nie osiągnie się zgodnego stanowiska, to w ostateczności poprawka może być przyjęta w głosowaniu większością trzech czwartych głosów Stron obecnych i głosujących na spotkaniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Poprawki do niniejszej konwencji, przyjęte zgodnie z ustępem 3 niniejszego artykułu, przedłożone zostaną przez depozytariusza wszystkim Stronom do ratyfikacji, zatwierdzenia lub przyjęcia. Poprawki wejdą w życie dla Stron, które je ratyfikowały, zatwierdziły lub przyjęty, dziewięćdziesiątego dnia od dnia otrzymania przez depozytariusza zawiadomienia o ich ratyfikacji, zatwierdzeniu lub przyjęciu co najmniej przez trzy czwarte tych Stron. W stosunku do każdej innej Strony poprawki wchodzą w życie dziewięćdziesiątego dnia po złożeniu przez Stronę dokumentu ratyfikacji, zatwierdzenia lub przyjęcia poprawek.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Dla celów niniejszego artykułu pojęcie „Strony obecne i głosujące” oznacza Strony obecne i oddające głos „za” lub „przeciw”.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Procedura głosowania przedstawiona w ustępie 3 niniejszego artykułu nie może stanowić precedensu dla przyszłych porozumień negocjowanych w ramach Europejskiej Komisji Gospodarczej.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Podpisanie",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Rozstrzyganie sporów"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W razie powstania sporu między dwiema lub więcej Stronami, dotyczącego interpretacji lub stosowania niniejszej konwencji, Strony będą poszukiwały",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) The convening and preparing of meetings of the Parties;"
-    },
-    {
-     "type": "text",
-     "text": "(b) The transmission of reports and other information received in accordance with the provisions of this Convention to the Parties; and"
-    },
-    {
-     "type": "text",
-     "text": "(c) The performance ofother functions as may be provided for in this Convention or as may be determined by the Parties."
-    },
-    {
-     "type": "text",
-     "text": "Article 14"
-    },
-    {
-     "type": "text",
-     "text": "Amendments to the Convention"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any party may propose amendments to this Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Proposed amendments shall be submitted in writing to the secretariat, which shall communicate them to all Parties. The proposed amendments shall be discussed at the next meeting of the Parties, provided these proposals have been circulated by the secretariat to the Parties at least ninety days in advance.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting at the meeting.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Amendments to this Convention adopted in accordance with paragraph 3 of this Article shall be submitted by the Depositary to all Parties for ratification, approval or acceptance. They shall enter into force for Parties having ratified, approved or accepted them on the ninetieth day after the receipt by the Depositary of notification of their ratification, approval or acceptance by at least three-fourths of these Parties. Thereafter they shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval or acceptance of the amendments.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "For the purpose of this Article, \"Parties present and voting” means Parties present and casting an affirmative or negative vote.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "The voting procedure set forth in paragraph 3 of this Article is not intended to constitute a precedent for future agreements negotiated within the Economic Commission for Europe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 15"
-    },
-    {
-     "type": "text",
-     "text": "Settlement of Disputes"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "If a dispute arises between two or more Parties about the interpretation or application of this Convention, they shall seek a solution by negotiation or by any",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "rozwiązania w drodze negocjacji lub przy zastosowaniu jakiegokolwiek innego sposobu rozstrzygania sporów możliwego do przyjęcia przez Strony pozostające w sporze."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przy podpisywaniu ratyfikacji, przyjęciu, zatwierdzeniu lub przystąpieniu do niniejszej konwencji albo kiedykolwiek później Strona może oświadczyć w formie pisemnej wobec depozytariusza, że odnośnie do sporu, który nie został rozstrzygnięty zgodnie z postanowieniem ustępu 1 niniejszego artykułu, przyjmie jeden lub obydwa z następujących sposobów rozstrzygania sporów jako obowiązujący w stosunku do każdej ze Stron przyjmujących takie samo zobowiązanie:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) przekazanie sporu do Międzynarodowego Trybunatu Sprawiedliwości;"
-    },
-    {
-     "type": "text",
-     "text": "(b) arbitraż zgodnie z procedurą określoną w załączniku VII."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli uczestniczące w sporze Strony przyjęty obydwa sposoby rozstrzygnięcia sporu, o których mowa w ustępie 2 niniejszego artykułu, to spór może być przekazany wyłącznie do Międzynarodowego Trybunatu Sprawiedliwości, chyba że Strony uzgodnią inaczej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Podpisanie"
-    },
     {
      "type": "text",
      "text": "Niniejsza konwencja będzie otwarta do podpisania w Espoo (Finlandia) od dnia 25 lutego do dnia 1 marca 1991 r., a następnie w siedzibie Organizacji Narodów Zjednoczonych w Nowym Jorku do dnia 2 września 1991 r., dla państw członkowskich Europejskiej Komisji Gospodarczej oraz państw posiadających status doradczy Europejskiej Komisji Gospodarczej, stosownie do ustępu 8 rezolucji Rady Gospodarczej i Społecznej nr 36 (IV) z dnia 28 marca 1947 r., oraz dla regionalnych organizacji integracji gospodarczej utworzonych przez suwerenne państwa członkowskie Europejskiej Komisji Gospodarczej, którym to organizacjom ich państwa członkowskie przekazały kompetencje w sprawach uregulowanych przez niniejszą konwencję, w tym kompetencje do zawierania umów międzynarodowych w sprawach objętych niniejszą konwencją."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Ratyfikacja, przyjęcie, zatwierdzenie i przystąpienie"
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja podlega ratyfikacji, przyjęciu lub zatwierdzeniu przez państwa—sygnatariuszy i regionalne organizacje integracji europejskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza konwencja będzie otwarta do przystąpienia dla państw i organizacji, o których mowa w artykule 16, od dnia 3 września 1991 r.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dokumenty ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia będą złożone Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych, który będzie pełnił funkcję depozytariusza.",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Ratyfikacja, przyjęcie, zatwierdzenie i przystąpienie",
    "children": [
     {
-     "type": "text",
-     "text": "other method of dispute settlement acceptable to the parties to the dispute."
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Niniejsza konwencja podlega ratyfikacji, przyjęciu lub zatwierdzeniu przez państwa—sygnatariuszy i regionalne organizacje integracji europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Niniejsza konwencja będzie otwarta do przystąpienia dla państw i organizacji, o których mowa w artykule 16, od dnia 3 września 1991 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Dokumenty ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia będą złożone Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych, który będzie pełnił funkcję depozytariusza.",
+     "children": [
+      {
+       "type": "text",
+       "text": "other method of dispute settlement acceptable to the parties to the dispute."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "When signing, ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, a Party may declare in writing to the Depositary that for a dispute not resolved in accordance with paragraph 1 of this Article, it accepts one or both of the following means of dispute settlement as compulsory in relation to any Party accepting the same obligation:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) Submission of the dispute to the International Court of Justice;"
+      },
+      {
+       "type": "text",
+       "text": "(b) Arbitration in accordance with the procedure set out in Appendix VII."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "If the parties to the dispute have accepted both means of dispute settlement referred to in paragraph 2 of this Article, the dispute may be submitted only to the International Court of Justice, unless the parties agree otherwise.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 16"
+      },
+      {
+       "type": "text",
+       "text": "Signature"
+      },
+      {
+       "type": "text",
+       "text": "This Convention shall be open for signature at Espoo (Finland) from 25 February to 1 March 1991 and thereafter at United Nations Headquarters in New York until 2 September 1991 by States members of the Economic Commission for Europe as well as States having consultative status with the Economic Commission for Europe pursuant to paragraph 8 of the Economic and Social Council resolution 36 (IV) of 28 March 1947, and by regional economic integration organizations constituted by sovereign States members of the Economic Commission for Europe to which their member States have transferred competence in respect of matters governed by this Convention, including the competence to enter into treaties in respect of these matters."
+      },
+      {
+       "type": "text",
+       "text": "Article 17"
+      },
+      {
+       "type": "text",
+       "text": "Ratification, acceptance, approval and accession"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "This Convention shall be subject to ratification, acceptance or approval by signatory States and regional economic integration organizations.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "This Convention shall be open for accession as from 3 September 1991 by the States and organizations referred to in Article 16.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "The instruments of ratification, acceptance, approval or accesion shall be deposited with the Secretary-General of the United Nations, who shall perform the functions of Depositary.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_17/ust_4",
+     "text": "Każda organizacja, o której mowa w artykule 16, stająca się Stroną niniejszej konwencji, a której żadne z jej państw członkowskich nie jest Stroną niniejszej konwencji, będzie związana wszystkimi zobowiązaniami wynikającymi z niniejszej konwencji. W przypadku takich organizacji, gdy jedno lub więcej państw członkowskich jest Stroną konwencji, organizacja taka i jej państwa członkowskie zdecydują o podziale odpowiedzialności związanej z wypełnieniem zobowiązań wynikających z niniejszej konwencji. W takich przypadkach organizacja i jej państwa członkowskie nie korzystają jednocześnie z uprawnień wynikających z niniejszej konwencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_17/ust_5",
+     "text": "Regionalne organizacje integracji gospodarczej, o których mowa w artykule 16, zadeklarują w swoich dokumentach ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia zakres swoich kompetencji w odniesieniu do spraw uregulowanych przez niniejszą konwencję. Organizacje te poinformują także depozytariusza o wszelkich istotnych zmianach zakresu swoich kompetencji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "When signing, ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, a Party may declare in writing to the Depositary that for a dispute not resolved in accordance with paragraph 1 of this Article, it accepts one or both of the following means of dispute settlement as compulsory in relation to any Party accepting the same obligation:",
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Wejście w życie",
    "children": [
     {
-     "type": "text",
-     "text": "(a) Submission of the dispute to the International Court of Justice;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Niniejsza konwencja wejdzie w życie dziewięćdziesiątego dnia następującego po dniu złożenia szesnastego dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) Arbitration in accordance with the procedure set out in Appendix VII."
+     "type": "ust",
+     "num": "2",
+     "path": "art_18/ust_2",
+     "text": "Dla celów określonych w ustępie 1 niniejszego artykułu, żaden dokument złożony przez regionalną organizację integracji gospodarczej nie będzie uważany za dodatkowy do tych, które ztozyty państwa członkowskie takiej organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_18/ust_3",
+     "text": "Dla każdego państwa lub organizacji, o których mowa w artykule 16, które ratyfikują, przyjmą lub zatwierdzą niniejszą konwencję albo przystąpią do niej po złożeniu szesnastego dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, niniejsza konwencja wejdzie w życie dziewięćdziesiątego dnia następującego po dniu złożenia przez to państwo lub organizację dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "If the parties to the dispute have accepted both means of dispute settlement referred to in paragraph 2 of this Article, the dispute may be submitted only to the International Court of Justice, unless the parties agree otherwise.",
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Wystąpienie",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 16"
-    },
-    {
-     "type": "text",
-     "text": "Signature"
-    },
-    {
-     "type": "text",
-     "text": "This Convention shall be open for signature at Espoo (Finland) from 25 February to 1 March 1991 and thereafter at United Nations Headquarters in New York until 2 September 1991 by States members of the Economic Commission for Europe as well as States having consultative status with the Economic Commission for Europe pursuant to paragraph 8 of the Economic and Social Council resolution 36 (IV) of 28 March 1947, and by regional economic integration organizations constituted by sovereign States members of the Economic Commission for Europe to which their member States have transferred competence in respect of matters governed by this Convention, including the competence to enter into treaties in respect of these matters."
-    },
-    {
-     "type": "text",
-     "text": "Article 17"
-    },
-    {
-     "type": "text",
-     "text": "Ratification, acceptance, approval and accession"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall be subject to ratification, acceptance or approval by signatory States and regional economic integration organizations.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Convention shall be open for accession as from 3 September 1991 by the States and organizations referred to in Article 16.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The instruments of ratification, acceptance, approval or accesion shall be deposited with the Secretary-General of the United Nations, who shall perform the functions of Depositary.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda organizacja, o której mowa w artykule 16, stająca się Stroną niniejszej konwencji, a której żadne z jej państw członkowskich nie jest Stroną niniejszej konwencji, będzie związana wszystkimi zobowiązaniami wynikającymi z niniejszej konwencji. W przypadku takich organizacji, gdy jedno lub więcej państw członkowskich jest Stroną konwencji, organizacja taka i jej państwa członkowskie zdecydują o podziale odpowiedzialności związanej z wypełnieniem zobowiązań wynikających z niniejszej konwencji. W takich przypadkach organizacja i jej państwa członkowskie nie korzystają jednocześnie z uprawnień wynikających z niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Regionalne organizacje integracji gospodarczej, o których mowa w artykule 16, zadeklarują w swoich dokumentach ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia zakres swoich kompetencji w odniesieniu do spraw uregulowanych przez niniejszą konwencję. Organizacje te poinformują także depozytariusza o wszelkich istotnych zmianach zakresu swoich kompetencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 18"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja wejdzie w życie dziewięćdziesiątego dnia następującego po dniu złożenia szesnastego dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dla celów określonych w ustępie 1 niniejszego artykułu, żaden dokument złożony przez regionalną organizację integracji gospodarczej nie będzie uważany za dodatkowy do tych, które ztozyty państwa członkowskie takiej organizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dla każdego państwa lub organizacji, o których mowa w artykule 16, które ratyfikują, przyjmą lub zatwierdzą niniejszą konwencję albo przystąpią do niej po złożeniu szesnastego dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia, niniejsza konwencja wejdzie w życie dziewięćdziesiątego dnia następującego po dniu złożenia przez to państwo lub organizację dokumentu ratyfikacji, przyjęcia, zatwierdzenia lub przystąpienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    },
-    {
-     "type": "text",
-     "text": "Wystąpienie"
-    },
     {
      "type": "text",
      "text": "W każdym czasie po upływie czterech lat od daty wejścia w życie niniejszej konwencji w stosunku do danej Strony, Strona ta może z konwencji wystąpić poprzez złożenie depozytariuszowi powiadomienia w formie pisemnej. Każde takie wystąpienie nabiera mocy dziewięćdziesiątego dnia następującego po dniu otrzymania powiadomienia przez depozytariusza. Każde takie wystąpienie nie będzie miało skutku odnośnie do stosowania artykułów od 3 do 6 niniejszej konwencji w stosunku do proponowanej działalności, co do której wysłano powiadomienie stosownie do artykułu 3 ustęp 1 lub wystosowano prośbę stosownie do artykułu 3 ustęp 7, zanim wystąpienie, o którym mowa, weszło w życie."
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_19/ust_4",
+     "text": "Any organization referred to in Article 16 which becomes a Party to this Convention without any of its member States being a Party shall be bound by all the obligations under this Convention. In the case of such organizations, one or more of whose member States is a Party to this Convention, the organization and its ' member States shall decide on their respective responsibilities for the performance of their obligations under this Convention. In such cases, the organization and the member States shall not be entitled to exercise rights under this Convention concurrently.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_19/ust_5",
+     "text": "In their instruments of ratification, acceptance, approval or accession, the regional economic integration organizations referred to in Article 16 shall declare the extent of their competence with respect to the matters governed by this Convention. These organizations shall also inform the Depositary of any relevant modification to the extent of their competence.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 18"
+      },
+      {
+       "type": "text",
+       "text": "Entry into force"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "This Convention shall enter into force on the ninetieth day after the date deposit of the sixteenth instrument of ratification, acceptance, approval or accession.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by States members of such an organization.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "For each State or organization referred to in Article 16 which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the sixteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the ninetieth day after the date of deposit by such State or organization of its instrument of ratification, acceptance, approval or accession.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 19"
+      },
+      {
+       "type": "text",
+       "text": "Withdrawal"
+      },
+      {
+       "type": "text",
+       "text": "At any time after four years from the date on which this Convention has come into force with respect to a Party, that Party may withdraw from this Convention by giving written notification to the Depositary. Any such withdrawal shall take effect on the ninetieth day after the date of its receipt by the Depositary. Any such withdrawal shall not affect the application of Articles 3 to 6 ofthis Convention to a proposed activity in respect of which a notification has been made pursuant to Article 3, paragraph 1, or a request has been made pursuant to Article 3, paragraph 7, before such withdrawal took effect."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Any organization referred to in Article 16 which becomes a Party to this Convention without any of its member States being a Party shall be bound by all the obligations under this Convention. In the case of such organizations, one or more of whose member States is a Party to this Convention, the organization and its ' member States shall decide on their respective responsibilities for the performance of their obligations under this Convention. In such cases, the organization and the member States shall not be entitled to exercise rights under this Convention concurrently.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "In their instruments of ratification, acceptance, approval or accession, the regional economic integration organizations referred to in Article 16 shall declare the extent of their competence with respect to the matters governed by this Convention. These organizations shall also inform the Depositary of any relevant modification to the extent of their competence.",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Teksty autentyczne",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 18"
-    },
-    {
-     "type": "text",
-     "text": "Entry into force"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall enter into force on the ninetieth day after the date deposit of the sixteenth instrument of ratification, acceptance, approval or accession.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by States members of such an organization.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "For each State or organization referred to in Article 16 which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the sixteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the ninetieth day after the date of deposit by such State or organization of its instrument of ratification, acceptance, approval or accession.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 19"
-    },
-    {
-     "type": "text",
-     "text": "Withdrawal"
-    },
-    {
-     "type": "text",
-     "text": "At any time after four years from the date on which this Convention has come into force with respect to a Party, that Party may withdraw from this Convention by giving written notification to the Depositary. Any such withdrawal shall take effect on the ninetieth day after the date of its receipt by the Depositary. Any such withdrawal shall not affect the application of Articles 3 to 6 ofthis Convention to a proposed activity in respect of which a notification has been made pursuant to Article 3, paragraph 1, or a request has been made pursuant to Article 3, paragraph 7, before such withdrawal took effect."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    },
-    {
-     "type": "text",
-     "text": "Teksty autentyczne"
-    },
     {
      "type": "text",
      "text": "Oryginał niniejszej konwencji, którego teksty w językach angielskim, francuskim i rosyjskim są jednakowo autentyczne, zostanie złożony Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód tego niżej podpisani, należycie w tym celu upoważnieni, podpisali niniejszą konwencję."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Espoo (Finlandia) dnia dwudziestego piątego lutego tysiąc dziewięćset dziewięćdziesiątego pierwszego roku."
-    },
-    {
-     "type": "text",
-     "text": "Załączniki"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik I"
-    },
-    {
-     "type": "text",
-     "text": "ZESTAWIENIE RODZAJÓW DZIAŁALNOŚCI"
     }
-   ]
+   ],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód tego niżej podpisani, należycie w tym celu upoważnieni, podpisali niniejszą konwencję."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Espoo (Finlandia) dnia dwudziestego piątego lutego tysiąc dziewięćset dziewięćdziesiątego pierwszego roku."
+  },
+  {
+   "type": "text",
+   "text": "Załączniki"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik I"
+  },
+  {
+   "type": "text",
+   "text": "ZESTAWIENIE RODZAJÓW DZIAŁALNOŚCI"
   },
   {
    "type": "ust",
@@ -2781,36 +2789,36 @@
     {
      "type": "note",
      "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 30 kwietnia 1997 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski L.S."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 30 kwietnia 1997 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski L.S."
   },
   {
    "type": "signature",

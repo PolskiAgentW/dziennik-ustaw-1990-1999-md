@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/694",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 grudnia 1996 r. w sprawie ustanowienia czasowych ograniczeń obrotu towarowego z zagranicą substancjami zubożającymi warstwę ozonową i towarami zawierającymi te substancje.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/694/text.pdf",
  "body": [
   {
@@ -1895,130 +1895,129 @@
      "children": []
     },
     {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
+     "type": "ust",
+     "num": "50",
+     "path": "ust_50",
      "text": "Honduras",
      "children": []
     },
     {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
+     "type": "ust",
+     "num": "51",
+     "path": "ust_51",
      "text": "Indie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
      "text": "Indonezja",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "53",
+     "path": "ust_53",
      "text": "Iran",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "54",
+     "path": "ust_54",
      "text": "Irlandia",
      "children": []
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "55",
+     "path": "ust_55",
      "text": "Islandia",
      "children": []
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
      "text": "Izrael",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "57",
+     "path": "ust_57",
      "text": "Jamajka",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "58",
+     "path": "ust_58",
      "text": "Japonia",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "59",
+     "path": "ust_59",
      "text": "Jemen",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "Jordania,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "61",
+     "path": "ust_61",
+     "text": "Kamerun",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "62",
+     "path": "ust_62",
+     "text": "Kanada",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "63",
+     "path": "ust_63",
+     "text": "Katar",
      "children": [
       {
-       "type": "ust",
-       "num": "60",
-       "path": "par_9/ust_60",
-       "text": "Jordania,",
-       "children": []
-      },
+       "type": "note",
+       "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "64",
+     "path": "ust_64",
+     "text": "65. 66. 67. 68. 69. 70. AM. 72. 73. JĄ. 75, 76. IL. 78. 79. 80. 81. 82. 83. 84. 85. 86. Si. 88. 89. 90. CA 92. 93. 94. 95. 96. 97. 98. 99. 100. 101. 102. 103. 104. 105. 106. 107. 108. 109.",
+     "children": [
       {
-       "type": "ust",
-       "num": "61",
-       "path": "par_9/ust_61",
-       "text": "Kamerun",
-       "children": []
-      },
+       "type": "text",
+       "text": "Kenia Kiribati Kolumbia Komory Kongo Koreańska Republika Ludowo-Demokratyczna Kostaryka Kuba Kuwejt Lesotho Liban Liberia Libia Liechtenstein Litwa Luksemburg Łotwa Macedonia Malawi Malediwy Malezja Mali Malta Maroko Mauretania Mauritius Meksyk Mikronezja Monako Mongolia Mozambik Myanmar Namibia Nepal Niemcy (Republika Federalna Niemiec) Niger Nigeria Nikaragua Norwegia Nowa Zelandia Pakistan Panama Papua-Nowa Gwinea Paragwaj Peru Polska"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "110",
+     "path": "ust_110",
+     "text": "lela NIŻ: 113. 114. 115. 116. 117. 118. 119. 120. 121. 122. 123. 124. 125. 126. 127. 128. 129. 130. 131. 152: 133. 134. 135. 136. 137. 138. 139. 140. 141. 142. 143. 144. 145. 146. 147. 148. 149. 150. 151. 152. 153. 154. 155.",
+     "children": [
       {
-       "type": "ust",
-       "num": "62",
-       "path": "par_9/ust_62",
-       "text": "Kanada",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "63",
-       "path": "par_9/ust_63",
-       "text": "Katar",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "64",
-       "path": "par_9/ust_64",
-       "text": "65. 66. 67. 68. 69. 70. AM. 72. 73. JĄ. 75, 76. IL. 78. 79. 80. 81. 82. 83. 84. 85. 86. Si. 88. 89. 90. CA 92. 93. 94. 95. 96. 97. 98. 99. 100. 101. 102. 103. 104. 105. 106. 107. 108. 109.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kenia Kiribati Kolumbia Komory Kongo Koreańska Republika Ludowo-Demokratyczna Kostaryka Kuba Kuwejt Lesotho Liban Liberia Libia Liechtenstein Litwa Luksemburg Łotwa Macedonia Malawi Malediwy Malezja Mali Malta Maroko Mauretania Mauritius Meksyk Mikronezja Monako Mongolia Mozambik Myanmar Namibia Nepal Niemcy (Republika Federalna Niemiec) Niger Nigeria Nikaragua Norwegia Nowa Zelandia Pakistan Panama Papua-Nowa Gwinea Paragwaj Peru Polska"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "110",
-       "path": "par_9/ust_110",
-       "text": "lela NIŻ: 113. 114. 115. 116. 117. 118. 119. 120. 121. 122. 123. 124. 125. 126. 127. 128. 129. 130. 131. 152: 133. 134. 135. 136. 137. 138. 139. 140. 141. 142. 143. 144. 145. 146. 147. 148. 149. 150. 151. 152. 153. 154. 155.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Portugalia | Republika Srodkowoafrykańska Republika Korei Republika Południowej Afryki Rosja (Federacja Rosyjska) Rumunia Salwador Samoa Zachodnie Senegal Seszele Singapur Słowacja Słowenia Sri Lanka St. Lucia St. Christopher i Nevis Stany Zjednoczone Ameryki (USA) Suazi (Swaziland) Sudan Syria Szwajcaria Szwecja Tajlandia Tanzania Togo Trynidad i Tobago Tunezja Turcja Turkmenistan Tuvalu Uganda Ukraina Urugwaj Uzbekistan Vanuatu Węgry Wenezuela Wielka Brytania Wietnam Włochy Wyspy Marshalla Wyspy Salomona Zair Zambia Zimbabwe Zjednoczone Emiraty Arabskie"
-        }
-       ]
+       "type": "text",
+       "text": "Portugalia | Republika Srodkowoafrykańska Republika Korei Republika Południowej Afryki Rosja (Federacja Rosyjska) Rumunia Salwador Samoa Zachodnie Senegal Seszele Singapur Słowacja Słowenia Sri Lanka St. Lucia St. Christopher i Nevis Stany Zjednoczone Ameryki (USA) Suazi (Swaziland) Sudan Syria Szwajcaria Szwecja Tajlandia Tanzania Togo Trynidad i Tobago Tunezja Turcja Turkmenistan Tuvalu Uganda Ukraina Urugwaj Uzbekistan Vanuatu Węgry Wenezuela Wielka Brytania Wietnam Włochy Wyspy Marshalla Wyspy Salomona Zair Zambia Zimbabwe Zjednoczone Emiraty Arabskie"
       }
      ]
     }

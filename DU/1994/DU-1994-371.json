@@ -61,244 +61,248 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1 Definicje"
-  },
-  {
-   "type": "text",
-   "text": "W rozumieniu niniejszej umowy:"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Określenie „inwestycja” obejmuje wszelkie mienie zainwestowane przez Rząd bądź przez osobę fizyczną lub prawną Umawiającego się Państwa na terytorium drugiego Umawiającego się Państwa, zgodnie z prawem i praktyką administracyjną tego Państwa. Nie ograniczając powyższego określenia ogólnego, określenie „inwestycje” oznacza:",
+   "path": "art_1",
+   "text": "Definicje",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "ruchomości i nieruchomości, jak również wszelkie inne prawa rzeczowe, takie jak hipoteka, prawa zatrzymania, zastaw, użytkowanie i podobne prawa;",
+     "type": "text",
+     "text": "W rozumieniu niniejszej umowy:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Określenie „inwestycja” obejmuje wszelkie mienie zainwestowane przez Rząd bądź przez osobę fizyczną lub prawną Umawiającego się Państwa na terytorium drugiego Umawiającego się Państwa, zgodnie z prawem i praktyką administracyjną tego Państwa. Nie ograniczając powyższego określenia ogólnego, określenie „inwestycje” oznacza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_1/lit_a",
+       "text": "ruchomości i nieruchomości, jak również wszelkie inne prawa rzeczowe, takie jak hipoteka, prawa zatrzymania, zastaw, użytkowanie i podobne prawa;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_1/lit_b",
+       "text": "udziały, akcje i obligacje spółek lub inne prawa albo „rodzaje udziałów w tych spółkach, pożyczki i papiery wartościowe wydane przez Umawiające się Państwo lub przez którąkolwiek z jego osób fizycznych lub prawnych oraz dochody zatrzymane dla reinwestycji;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_1/lit_c",
+       "text": "związane z inwestycją środki obrotowe, depozyty i roszczenia pieniężne lub wynikające z kontraktu roszczenia _ do jakiegokolwiek świadczenia posiadającego wartość gospodarczą i majątkową;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_1/lit_d",
+       "text": "prawa autorskie, prawa dotyczące znaków towarowych, patentów, wzornictwa przemysłowego, know-how, tajemnic handlowych, nazw handlowych i goodwill;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_1/lit_e",
+       "text": "jakiekolwiek uprawnienia wynikające z prawa, decyzji administracyjnych lub umowy, w tym koncesje i pozwolenia wydane zgodnie z prawem, posiadające wartość gospodarczą i niezbędne do prowadzenia działalno - ści gospodarczej, takie jak prawo do poszukiwań, badań, wydobycia, zdobywania lub wykorzystywania zasobów naturalnych i prawa do wytwarzania, używania i sprzedawania produktów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zmiana formy, w której mienie jest zainwestowane, nie zmienia jego charakteru jako inwestycji, pod warunkiem że zmiana ta nie narusza warunków związanych z dopuszczeniem: inwestycji pierwotnej, jeśli warunki takie były ustanowione."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Określenie „inwestor” oznacza rząd Umawiającego się Państwa lub jakąkolwiek jego osobę fizyczne lub prawną, która inwestuje na terytorium drugiego Umawiającego się Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Określenie „osoba fizyczna” oznacza, w odniesieniu do każdego Umawiającego się Państwa, osebe fizyczną posiadającą obywatelstwo tego Państwa zgcdnie z jego prawem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Określenie „osoba prawna” oznacza, w'olniesieniu do każdego Umawiającego się Państwa, jakiekolwiek jednostki utworzone i uznane za osobę prawną, zgodnie z rawem tego Umawiającego się Państwa, takie jak: komparie publiczne i prywatne, korporacje, stowarzyszenia gospodacze, urzędy, spółki, fundacje, firmy, instytucje, zakłady, agendę, fundusze rozwojowe, przedsiębiorstwa, spółdzielnie i orcanizacje lub inne podobne jednostki, niezależnie od faktu, czy ich odpowiedzialność jest ograniczona czy nieograniciona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Określenie „przychody” oznacza kwoy uzyskane z inwestycji, a w szczególności, choć nie wyłącznie, obejmuje zyski, odsetki, dochody z kapitału, dywidendy, należności licencyjne, opłaty z tytułu zarządzania, pomocy technicznej lub inne, niezależnie od formy, w jakiej przychód jest wypłacany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_1/ust_6",
+     "text": "Określenie „terytorium” oznacza odpowiednio terytorium Rzeczypospolitej Polskiej lub terytorium Zjednoczonych Emiratów Arabskich, a także te obszary morskie wraz z dnem morskim i podglebiem do granic morza terytorialnego każdego z powyższych terytoriów, nad którymi dane Państwo sprawuje, zgodnie z prawem międzynarodowym, suwerenną władzę w celu eksploatacji bogactw naturalnych tych obszarów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_1/ust_7",
+     "text": "„Działania towarzyszące” obejmują tworzenie, kontrolę, funkcjonowanie, utrzymywanie i dysponowanie w odniesieniu do osób prawnych, oddziałów przedstawicielskich, biur, zakładów lub innych foim prowadzenia działalności gospodarczej, zawieranie, wykonywanie i egzekucję umów, nabywanie, użytkowanie, ochronę oraz rozporządzanie majątkiem każdego rodzaju, włącznie z własnością intelektualną i przemysłową, a także zaciąganie pożyczek, zakup i emisję akcji oraz zakup dewiz na cele importu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_1/ust_8",
+     "text": "Określenie „waluta swobodnie wymienialna” oznacza walutę, która jest powszechnie używana do dokonywania płatności w transakcjach międzynarodowych i która znajduje nabywców na głównych rynkach dewizowych, taką jak dolar USA, funt szterling, marka niemiecka, frank szwajcarski, frank francuski.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Popieranie i ochrona inwestycji",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Każde Umawiające się Państwo będzie tworzyło i popierało korzystne wyrunki dla dokonywania na swym terytorium inwestycji przez inwestorów drugiego Umawiającego się Państwa oraz, stosując własne ustawodawstwo, procedurę administracyjną i praktyki, zezwoli na inwestycje oraz działania towarzyszące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Dokonane inwestycje będą stale korzystały z pełnej ochrony i bezpieczeństwa, zgodnie z prawem międzynarodowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Każde Umawiające się Państwo zagwarantuje w każdym czasie sprawiedliwe i równe traktowanie inwestycjom dokonanym przez inwestorów drugiego Umawiającego się Państwa. Każde Umawiające się Państwo gwarantuje, że zarządzanie, utrzymywanie, wykorzystywanie, osiąganie korzyści, nabywanie lub rozporządzanie inwestycjami, prawami z nimi związanymi oraz działaniami towarzyszącymi dokonywanymi na jego terytorium przez inwestora drugiego Umawiającego się Państwa nie będzie w żadnym razie podlegało i nie będzie naruszane przez arbitralne, nieuzasadnione lub dyskryminacyjne środki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "i) Każde Umawiające się Państwo dążyć będzie zgodnie ze swym ustawodawstwem do podjęcia koniecznych działań w celu nadania odpowiednich udogodnień, bodźców i innych form zachęty dla inwestycji dokonywanych przez inwestorów drugiego Umawiającego się Państwa.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_2/ust_4/lit_ii",
+       "text": "Inwestorom Umawiających się Państw przysługuje prawo zwrócenia się do odpowiednich władz Państwa przyjmującego o odpowiednie udogodnienia, bodźce i inne formy zachęty, a Państwo przyjmujące udzieli każdej pomocy, zezwolenia, zgody, koncesji i upoważnienia w tych granicach i na takich warunkach, które w danej chwili określone są prawem Państwa przyjmującego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "Umawiające się Państwa powinny dążyć w polityce podatkowej do przyznania sprawiedliwego i równego traktowania inwestycji inwestorów drugiego Umawiającego się Państwa, zgodnie z prawem o inwestycjach zagranicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_2/ust_6",
+     "text": "Umawiające się Państwa będą okresowo konsultowały się wzajemnie w sprawach dotyczących możliwości inwestycyjnych na swoich terytoriach w różnych dziedzinach gospodarki dla ustalenia, gdzie inwestycje jednego Umawiającego się Państwa mogą być w drugim najbardziej korzystne, w interesie obu Umawiających się Państw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_2/ust_7",
+     "text": "Dla osiągnięcia celów niniejszej umowy Umawiające się Państwa będą popierać i ułatwiać powstawanie i tworzenie odpowiednich wspólnych przedsięwzięć między inwestorami Umawiających się Państw dla tworzenia, rozwoju i wykonania projektów inwestycyjnych w różnych dziedzinach gospodarki zgodnie z prawem Państwa przyjmującego.",
      "children": [
       {
        "type": "note",
-       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "udziały, akcje i obligacje spółek lub inne prawa albo „rodzaje udziałów w tych spółkach, pożyczki i papiery wartościowe wydane przez Umawiające się Państwo lub przez którąkolwiek z jego osób fizycznych lub prawnych oraz dochody zatrzymane dla reinwestycji;",
+     "type": "ust",
+     "num": "8",
+     "path": "art_2/ust_8",
+     "text": "Inwestorom Umawiających się Państw zezwoli się na zatrudnianie kadry zarządzającej według swojego uznania niezależnie od narodowości w granicach określonych prawem Państwa przyjmującego. Umawiające się Państwa stworzą wszelkie konieczne udogodnienia, włącznie z wydawaniem wiz i pozwoleń pobytu, kadrze zarządzającej oraz ich rodzinom, zgodnie z prawem i praktyką administracyjną, obowiązującymi w Umawiających się Państwach.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "związane z inwestycją środki obrotowe, depozyty i roszczenia pieniężne lub wynikające z kontraktu roszczenia _ do jakiegokolwiek świadczenia posiadającego wartość gospodarczą i majątkową;",
+     "type": "ust",
+     "num": "9",
+     "path": "art_2/ust_9",
+     "text": "Umawiające się Państwa będą w miarę możliwości unikać, jako warunku utworzenia, rozwoju lub utrzymania inwestycji, nakładania obowiązków, które przewidują lub nakładają zobowiązania eksportu produkowanych towarów lub które przewidują zakup towarów i usług na miejscu, lub które nakładają inne podobne wymogi.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "prawa autorskie, prawa dotyczące znaków towarowych, patentów, wzornictwa przemysłowego, know-how, tajemnic handlowych, nazw handlowych i goodwill;",
+     "type": "ust",
+     "num": "10",
+     "path": "art_2/ust_10",
+     "text": "Każde Umawiające się Państwo będzie dążyć do zapewnienia możliwości skutecznej ochrony roszczeń i dochodzenia praw wynikających z umowy inwestycyjnej, zezwoleń inwestycyjnych i własności. Każde Umawiające się Państwo nie będzie naruszało praw inwestorów drugiego Umawiającego się Państwa w zakresie dostępu do sądów, trybunałów administracyjnych i urzędów oraz wszelkich innych organów mających władzę orzekającą.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "jakiekolwiek uprawnienia wynikające z prawa, decyzji administracyjnych lub umowy, w tym koncesje i pozwolenia wydane zgodnie z prawem, posiadające wartość gospodarczą i niezbędne do prowadzenia działalno - ści gospodarczej, takie jak prawo do poszukiwań, badań, wydobycia, zdobywania lub wykorzystywania zasobów naturalnych i prawa do wytwarzania, używania i sprzedawania produktów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Zmiana formy, w której mienie jest zainwestowane, nie zmienia jego charakteru jako inwestycji, pod warunkiem że zmiana ta nie narusza warunków związanych z dopuszczeniem: inwestycji pierwotnej, jeśli warunki takie były ustanowione."
-      }
-     ]
+     "type": "ust",
+     "num": "11",
+     "path": "art_2/ust_11",
+     "text": "Każde Umawiające się Państwo będzie publikować wszystkie ustawy, przepisy wykonawcze, praktyki i przepisy postępowania administracyjnego, które dotyczą lub mają wpływ na inwestycje.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „inwestor” oznacza rząd Umawiającego się Państwa lub jakąkolwiek jego osobę fizyczne lub prawną, która inwestuje na terytorium drugiego Umawiającego się Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Określenie „osoba fizyczna” oznacza, w odniesieniu do każdego Umawiającego się Państwa, osebe fizyczną posiadającą obywatelstwo tego Państwa zgcdnie z jego prawem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Określenie „osoba prawna” oznacza, w'olniesieniu do każdego Umawiającego się Państwa, jakiekolwiek jednostki utworzone i uznane za osobę prawną, zgodnie z rawem tego Umawiającego się Państwa, takie jak: komparie publiczne i prywatne, korporacje, stowarzyszenia gospodacze, urzędy, spółki, fundacje, firmy, instytucje, zakłady, agendę, fundusze rozwojowe, przedsiębiorstwa, spółdzielnie i orcanizacje lub inne podobne jednostki, niezależnie od faktu, czy ich odpowiedzialność jest ograniczona czy nieograniciona.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Określenie „przychody” oznacza kwoy uzyskane z inwestycji, a w szczególności, choć nie wyłącznie, obejmuje zyski, odsetki, dochody z kapitału, dywidendy, należności licencyjne, opłaty z tytułu zarządzania, pomocy technicznej lub inne, niezależnie od formy, w jakiej przychód jest wypłacany.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Określenie „terytorium” oznacza odpowiednio terytorium Rzeczypospolitej Polskiej lub terytorium Zjednoczonych Emiratów Arabskich, a także te obszary morskie wraz z dnem morskim i podglebiem do granic morza terytorialnego każdego z powyższych terytoriów, nad którymi dane Państwo sprawuje, zgodnie z prawem międzynarodowym, suwerenną władzę w celu eksploatacji bogactw naturalnych tych obszarów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "„Działania towarzyszące” obejmują tworzenie, kontrolę, funkcjonowanie, utrzymywanie i dysponowanie w odniesieniu do osób prawnych, oddziałów przedstawicielskich, biur, zakładów lub innych foim prowadzenia działalności gospodarczej, zawieranie, wykonywanie i egzekucję umów, nabywanie, użytkowanie, ochronę oraz rozporządzanie majątkiem każdego rodzaju, włącznie z własnością intelektualną i przemysłową, a także zaciąganie pożyczek, zakup i emisję akcji oraz zakup dewiz na cele importu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Określenie „waluta swobodnie wymienialna” oznacza walutę, która jest powszechnie używana do dokonywania płatności w transakcjach międzynarodowych i która znajduje nabywców na głównych rynkach dewizowych, taką jak dolar USA, funt szterling, marka niemiecka, frank szwajcarski, frank francuski.",
+   "path": "art_3",
+   "text": "Klauzula narodowa i klauzula najwyższego uprzywilejowania",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Każde Umawiające się Państwo przyzna na swoim terytorium inwestycjom i przychodom inwestorów drugiego Umawiającego się Państwa traktowanie nie mniej korzystne niż przyznane inwestycjom i przychodom własnych inwestorów lub inwestycjom i przychodom inwestorów któregokolwiek państwa trzeciego, jeśli to ostatnie jest bardziej korzystne.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Popieranie i ochrona inwestycji"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde Umawiające się Państwo będzie tworzyło i popierało korzystne wyrunki dla dokonywania na swym terytorium inwestycji przez inwestorów drugiego Umawiającego się Państwa oraz, stosując własne ustawodawstwo, procedurę administracyjną i praktyki, zezwoli na inwestycje oraz działania towarzyszące.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokonane inwestycje będą stale korzystały z pełnej ochrony i bezpieczeństwa, zgodnie z prawem międzynarodowym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każde Umawiające się Państwo zagwarantuje w każdym czasie sprawiedliwe i równe traktowanie inwestycjom dokonanym przez inwestorów drugiego Umawiającego się Państwa. Każde Umawiające się Państwo gwarantuje, że zarządzanie, utrzymywanie, wykorzystywanie, osiąganie korzyści, nabywanie lub rozporządzanie inwestycjami, prawami z nimi związanymi oraz działaniami towarzyszącymi dokonywanymi na jego terytorium przez inwestora drugiego Umawiającego się Państwa nie będzie w żadnym razie podlegało i nie będzie naruszane przez arbitralne, nieuzasadnione lub dyskryminacyjne środki.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "i) Każde Umawiające się Państwo dążyć będzie zgodnie ze swym ustawodawstwem do podjęcia koniecznych działań w celu nadania odpowiednich udogodnień, bodźców i innych form zachęty dla inwestycji dokonywanych przez inwestorów drugiego Umawiającego się Państwa.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_4/lit_ii",
-     "text": "Inwestorom Umawiających się Państw przysługuje prawo zwrócenia się do odpowiednich władz Państwa przyjmującego o odpowiednie udogodnienia, bodźce i inne formy zachęty, a Państwo przyjmujące udzieli każdej pomocy, zezwolenia, zgody, koncesji i upoważnienia w tych granicach i na takich warunkach, które w danej chwili określone są prawem Państwa przyjmującego.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Każde Umawiające się Państwo przyzna na swoim terytorium inwestorom drugiego Umawiającego się Państwa, w odniesieniu do zarządzania, utrzymywania, wykorzystywania, osiągania korzyści, nabycia lub rozporządzania ich inwestycjami lub jakiejkolwiek innej działalności im towarzyszącej, traktowanie nie mniej korzystne niż przyznane swoim inwestorom lub inwestorom któregokolwiek państwa trzeciego, jeśli to ostatnie jest bardziej korzystne.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Umawiające się Państwa powinny dążyć w polityce podatkowej do przyznania sprawiedliwego i równego traktowania inwestycji inwestorów drugiego Umawiającego się Państwa, zgodnie z prawem o inwestycjach zagranicznych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Umawiające się Państwa będą okresowo konsultowały się wzajemnie w sprawach dotyczących możliwości inwestycyjnych na swoich terytoriach w różnych dziedzinach gospodarki dla ustalenia, gdzie inwestycje jednego Umawiającego się Państwa mogą być w drugim najbardziej korzystne, w interesie obu Umawiających się Państw.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Dla osiągnięcia celów niniejszej umowy Umawiające się Państwa będą popierać i ułatwiać powstawanie i tworzenie odpowiednich wspólnych przedsięwzięć między inwestorami Umawiających się Państw dla tworzenia, rozwoju i wykonania projektów inwestycyjnych w różnych dziedzinach gospodarki zgodnie z prawem Państwa przyjmującego.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Wyłączenia",
    "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Inwestorom Umawiających się Państw zezwoli się na zatrudnianie kadry zarządzającej według swojego uznania niezależnie od narodowości w granicach określonych prawem Państwa przyjmującego. Umawiające się Państwa stworzą wszelkie konieczne udogodnienia, włącznie z wydawaniem wiz i pozwoleń pobytu, kadrze zarządzającej oraz ich rodzinom, zgodnie z prawem i praktyką administracyjną, obowiązującymi w Umawiających się Państwach.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "9",
-   "path": "ust_9",
-   "text": "Umawiające się Państwa będą w miarę możliwości unikać, jako warunku utworzenia, rozwoju lub utrzymania inwestycji, nakładania obowiązków, które przewidują lub nakładają zobowiązania eksportu produkowanych towarów lub które przewidują zakup towarów i usług na miejscu, lub które nakładają inne podobne wymogi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "10",
-   "path": "ust_10",
-   "text": "Każde Umawiające się Państwo będzie dążyć do zapewnienia możliwości skutecznej ochrony roszczeń i dochodzenia praw wynikających z umowy inwestycyjnej, zezwoleń inwestycyjnych i własności. Każde Umawiające się Państwo nie będzie naruszało praw inwestorów drugiego Umawiającego się Państwa w zakresie dostępu do sądów, trybunałów administracyjnych i urzędów oraz wszelkich innych organów mających władzę orzekającą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "11",
-   "path": "ust_11",
-   "text": "Każde Umawiające się Państwo będzie publikować wszystkie ustawy, przepisy wykonawcze, praktyki i przepisy postępowania administracyjnego, które dotyczą lub mają wpływ na inwestycje.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Klauzula narodowa i klauzula najwyższego uprzywilejowania"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde Umawiające się Państwo przyzna na swoim terytorium inwestycjom i przychodom inwestorów drugiego Umawiającego się Państwa traktowanie nie mniej korzystne niż przyznane inwestycjom i przychodom własnych inwestorów lub inwestycjom i przychodom inwestorów któregokolwiek państwa trzeciego, jeśli to ostatnie jest bardziej korzystne.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każde Umawiające się Państwo przyzna na swoim terytorium inwestorom drugiego Umawiającego się Państwa, w odniesieniu do zarządzania, utrzymywania, wykorzystywania, osiągania korzyści, nabycia lub rozporządzania ich inwestycjami lub jakiejkolwiek innej działalności im towarzyszącej, traktowanie nie mniej korzystne niż przyznane swoim inwestorom lub inwestorom któregokolwiek państwa trzeciego, jeśli to ostatnie jest bardziej korzystne.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Wyłączenia"
-    },
     {
      "type": "text",
      "text": "Postanowienia niniejszej umowy dotyczące traktowania nie mniej korzystnego niż przyznane własnym inwestorom któregokolwiek państwa trzeciego nie będą interpretowane jako nakładające na jedno Umawiające się Państwo obowiązku objęcia inwestorów drugiego Umawiającego się Państwa korzyściami z tytułu jakiegokolwiek traktowania, preferencji lub przywileju, wynikających z:"
@@ -306,573 +310,575 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_4/lit_a",
      "text": "istniejącej lub przyszłej unii celnej, unii gospodarczej, strefy wolnego handlu lub strefy wspólnej zewnętrznej taryfy celnej, unii walutowej lub podobnej umowy międzynarodowej lub innej formy porozumienia o współpracy regionalnej lub subregionalnej, których Umawiające się Państwa są lub mogą być stroną, lub",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_4/lit_b",
      "text": "jakiejkolwiek międzynarodowej, regionalnej lub subregionalnej umowy lub innego porozumienia, dotyczących w całości lub głównie opodatkowania, lub przepływu kapitału, lub jakiegokolwiek z wewnętrznych przepisów dotyczących w całości lub głównie opodatkowania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Kompensata za szkody i straty",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Inwestorom jednego Umawiającego się Państwa, których inwestycje dokonane na terytorium drugiego Umawiającego się Państwa doznały uszczerbku w wyniku wojny lub innego konfliktu zbrojnego, rewolucji, stanu wyjątkowego, buntu, powstania, zamieszek lub innych podobnych zdarzeń, zostanie przyznane w odniesieniu do odtworzenia, odszkodowania, kompensaty lub innego uregulowania traktowanie nie mniej korzystne niż to, które drugie Umawiające się Państwo przyznaje własnym inwestorom lub inwestorom któregokolwiek państwa trzeciego, jeśli to ostatnie jest bardziej korzystne. Płatności takie podlegają swobodnemu transferowi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Z zastrzeżeniem postanowień ustępu 1, inwestorom jednego Umawiającego się Państwa, którzy z powodu zdarzeń wymienionych w tym ustępie doznali uszczerbku lub strat na terytorium drugiego Umawiającego się Państwa w wyniku:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 5"
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_2/lit_a",
+       "text": "rekwizycji ich majątku przez siły zbrojne lub urzędy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_2/lit_b",
+       "text": "zniszczenia ich mienia przez siły zbrojne lub urzędy, nie spowodowanego podczas walki zbrojnej lub nie wynikającego z konieczności sytuacji,",
+       "children": []
       },
       {
        "type": "text",
-       "text": "Kompensata za szkody i straty"
+       "text": "zostanie przyznane właściwe i sprawiedliwe odszkodowanie za uszczerbki lub straty poniesione podczas okresu rekwizycji lub wskutek zniszczenia mienia."
+      },
+      {
+       "type": "text",
+       "text": "Wynikające z powyższego płatności będą dokonywane w walucie swobodnie wymienialnej i będą swobodnie i bez zwłoki transferowane."
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Inwestorom jednego Umawiającego się Państwa, których inwestycje dokonane na terytorium drugiego Umawiającego się Państwa doznały uszczerbku w wyniku wojny lub innego konfliktu zbrojnego, rewolucji, stanu wyjątkowego, buntu, powstania, zamieszek lub innych podobnych zdarzeń, zostanie przyznane w odniesieniu do odtworzenia, odszkodowania, kompensaty lub innego uregulowania traktowanie nie mniej korzystne niż to, które drugie Umawiające się Państwo przyznaje własnym inwestorom lub inwestorom któregokolwiek państwa trzeciego, jeśli to ostatnie jest bardziej korzystne. Płatności takie podlegają swobodnemu transferowi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z zastrzeżeniem postanowień ustępu 1, inwestorom jednego Umawiającego się Państwa, którzy z powodu zdarzeń wymienionych w tym ustępie doznali uszczerbku lub strat na terytorium drugiego Umawiającego się Państwa w wyniku:",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Nacjonalizacja lub wywłaszczenie",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "rekwizycji ich majątku przez siły zbrojne lub urzędy,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "zniszczenia ich mienia przez siły zbrojne lub urzędy, nie spowodowanego podczas walki zbrojnej lub nie wynikającego z konieczności sytuacji,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "zostanie przyznane właściwe i sprawiedliwe odszkodowanie za uszczerbki lub straty poniesione podczas okresu rekwizycji lub wskutek zniszczenia mienia."
-    },
-    {
-     "type": "text",
-     "text": "Wynikające z powyższego płatności będą dokonywane w walucie swobodnie wymienialnej i będą swobodnie i bez zwłoki transferowane."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Nacjonalizacja lub wywłaszczenie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "i) Inwestycje każdego Umawiającego się Państwa lub którejkolwiek z jego osób fizycznych lub prawnych nie podlegają sekwestracji, konfiskacie lub podobnym środkom i korzystają z pełnej i całkowitej ochrony i bezpieczeństwa na terytorium drugiego Umawiającego się Państwa.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_1/lit_ii",
-     "text": "Zadne z Umawiających się Państw nie podejmuje jakichkolwiek działań polegających na wywłaszczeniu, nacjonalizacji lub zamrożeniu inwestycji lub innych działań wywołujących takie efekty ani nie podda inwestycji żadnym bezpośrednim lub pośrednim zabiegom równoznacznym z wywłaszczeniem, włączając w to pobór podatków, obowiązkową sprzedaż całości lub części inwestycji lub pogorszenie albo pozbawienie możliwości zarządzania lub kontrolowania inwestycją. Wszystkie takie działania oznaczają wywłaszczenie, z wyjątkiem wywłaszczenia, które:",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jest dokonywane dla celów publicznych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jest przeprowadzane zgodnie z właściwą procedurą",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "prawną,"
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "ma niedyskryminacyjny charakter,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "nie narusza stabilności kontraktowej ani jakichkolwiek postanowień specjalnych lub postanowień o wywłaszczeniu zawartych w umowie inwestycyjnej między zainteresowanymi osobami fizycznymi lub prawnymi a stroną dokonującą wywłaszczenia,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "jest zgodne z orzeczeniem lub decyzją właściwego organu sądowego lub administracyjnego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "daje inwestorowi prawo do odwołania się do orgganów administracyjnych lub sądowych w celu upewnienia się, że wywłaszczenia dokonano zgodnie z zasadami prawa międzynarodowego,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "i) Inwestycje każdego Umawiającego się Państwa lub którejkolwiek z jego osób fizycznych lub prawnych nie podlegają sekwestracji, konfiskacie lub podobnym środkom i korzystają z pełnej i całkowitej ochrony i bezpieczeństwa na terytorium drugiego Umawiającego się Państwa.",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "lit",
+       "num": "ii",
+       "path": "art_6/ust_1/lit_ii",
+       "text": "Zadne z Umawiających się Państw nie podejmuje jakichkolwiek działań polegających na wywłaszczeniu, nacjonalizacji lub zamrożeniu inwestycji lub innych działań wywołujących takie efekty ani nie podda inwestycji żadnym bezpośrednim lub pośrednim zabiegom równoznacznym z wywłaszczeniem, włączając w to pobór podatków, obowiązkową sprzedaż całości lub części inwestycji lub pogorszenie albo pozbawienie możliwości zarządzania lub kontrolowania inwestycją. Wszystkie takie działania oznaczają wywłaszczenie, z wyjątkiem wywłaszczenia, które:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_6/ust_1/lit_a",
+       "text": "jest dokonywane dla celów publicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_6/ust_1/lit_b",
+       "text": "jest przeprowadzane zgodnie z właściwą procedurą",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "prawną,"
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_6/ust_1/lit_c",
+       "text": "ma niedyskryminacyjny charakter,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_6/ust_1/lit_d",
+       "text": "nie narusza stabilności kontraktowej ani jakichkolwiek postanowień specjalnych lub postanowień o wywłaszczeniu zawartych w umowie inwestycyjnej między zainteresowanymi osobami fizycznymi lub prawnymi a stroną dokonującą wywłaszczenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_6/ust_1/lit_e",
+       "text": "jest zgodne z orzeczeniem lub decyzją właściwego organu sądowego lub administracyjnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_6/ust_1/lit_f",
+       "text": "daje inwestorowi prawo do odwołania się do orgganów administracyjnych lub sądowych w celu upewnienia się, że wywłaszczenia dokonano zgodnie z zasadami prawa międzynarodowego,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_6/ust_1/lit_g",
+       "text": "daje inwestorowi prawo zaskarżenia działań wywłaszczeniowych lub innych działań o podobnym charakterze do właściwego sądu Umawiającego się Państwa podejmującego te działania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_6/ust_1/lit_h",
+       "text": "jest dokonane za niezwłocznym, właściwym i rzeczywistym odszkodowaniem.",
+       "children": []
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "daje inwestorowi prawo zaskarżenia działań wywłaszczeniowych lub innych działań o podobnym charakterze do właściwego sądu Umawiającego się Państwa podejmującego te działania,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Odszkodowanie takie będzie obliczone na podstawie wartości rynkowej inwestycji bezpośrednio przed momentem, w którym decyzja o nacjonalizacji lub wywłaszczeniu została ogłoszona lub stała się publicznie znana, i będzie ustalone w oparciu o uznane zasady wyceny, takie jak wartość rynkowa; jeżeli wartość rynkowa jest trudna do ustalenia, odszkodowanie będzie ustalone na sprawiedliwych zasadach, biorąc pod uwagę, między innymi, zainwestowany kapitał, amortyzację, kapitał wytransferowany za granicę, wartość odtworzenia, goodwill i inne istotne czynniki. W przypadku zwłoki w wypłacie odszkodowania, zostanie ono wypłacone w wysokości nie mniej korzystnej niż to, które inwestor uzyskałby niezwłocznie w dniu wywłaszczenia lub nacjonalizacji. W tym celu do kwoty odszkodowania wliczone będą odpowiednie odsetki według uzasadnionej warunkami rynkowymi stopy ustalonej przez Umawiające się Państwa lub według stopy, która wynika z przepisów właściwych dla tej waluty, w której inwestycja jest określona w okresie od momentu nacjonalizacji lub wywłaszczenia do momentu wypłaty odszkodowania.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_1/lit_h",
-     "text": "jest dokonane za niezwłocznym, właściwym i rzeczywistym odszkodowaniem.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Jeśli Umawiające się Państwo: znacjonalizuje lub wywłaszczy inwestycje osoby prawnej, która została utworzona lub zarejestrowana zgodnie z prawem obowiązującym na jego terytorium, w której drugie Umawiające się Państwo lub którykolwiek z jego inwestorów posiada udziały, akcje, obligacje lub inne prawa lub korzyści, zapewni ono niezwłoczną wypłatę właściwego i rzeczywistego odszkodowania oraz zezwoli na jego transfer. Wysokość tego odszkodowania zostanie ustalona i wypłacona zgodnie z postanowieniami ustępu 2 niniejszego artykułu.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Odszkodowanie takie będzie obliczone na podstawie wartości rynkowej inwestycji bezpośrednio przed momentem, w którym decyzja o nacjonalizacji lub wywłaszczeniu została ogłoszona lub stała się publicznie znana, i będzie ustalone w oparciu o uznane zasady wyceny, takie jak wartość rynkowa; jeżeli wartość rynkowa jest trudna do ustalenia, odszkodowanie będzie ustalone na sprawiedliwych zasadach, biorąc pod uwagę, między innymi, zainwestowany kapitał, amortyzację, kapitał wytransferowany za granicę, wartość odtworzenia, goodwill i inne istotne czynniki. W przypadku zwłoki w wypłacie odszkodowania, zostanie ono wypłacone w wysokości nie mniej korzystnej niż to, które inwestor uzyskałby niezwłocznie w dniu wywłaszczenia lub nacjonalizacji. W tym celu do kwoty odszkodowania wliczone będą odpowiednie odsetki według uzasadnionej warunkami rynkowymi stopy ustalonej przez Umawiające się Państwa lub według stopy, która wynika z przepisów właściwych dla tej waluty, w której inwestycja jest określona w okresie od momentu nacjonalizacji lub wywłaszczenia do momentu wypłaty odszkodowania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeśli Umawiające się Państwo: znacjonalizuje lub wywłaszczy inwestycje osoby prawnej, która została utworzona lub zarejestrowana zgodnie z prawem obowiązującym na jego terytorium, w której drugie Umawiające się Państwo lub którykolwiek z jego inwestorów posiada udziały, akcje, obligacje lub inne prawa lub korzyści, zapewni ono niezwłoczną wypłatę właściwego i rzeczywistego odszkodowania oraz zezwoli na jego transfer. Wysokość tego odszkodowania zostanie ustalona i wypłacona zgodnie z postanowieniami ustępu 2 niniejszego artykułu.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Transfer zainwestowanych kapitałów i przychodów",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Każde Umawiające się Państwo zagwarantuje bezzwłoczny transfer poza swoje terytorium w walucie swobodnie wymienialnej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "zysków netto, dywidend, należności licencyjnych, opłat z tytułu pomocy technicznej i usług technicznych, odsetek i innych przychodów uzyskanych przez inwestora drugiego Umawiającego się Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "wpływów pochodzących ze sprzedaży, całkowitej lub częściowej likwidacji inwestycji dokonanej przez inwestora drugiego Umawiającego się Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_7/ust_1/lit_c",
+       "text": "kwot przeznaczonych na spłatę pożyczek,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_7/ust_1/lit_d",
+       "text": "kwot odpowiadających kosztom poniesionym w związku z utrzymaniem inwestycji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_7/ust_1/lit_e",
+       "text": "wynagrodzeń netto obywateli drugiego Umawiającego się Państwa upoważnionych do podjęcia pracy w związku z inwestycją dokonaną na jego terytorium,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_7/ust_1/lit_f",
+       "text": "kapitałów i dodatkowych funduszy zainwestowanych dla utrzymania i rozwoju inwestycji.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Transfer zainwestowanych kapitałów i przychodów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Nie zawężając znaczenia artykułu 3 niniejszej umowy, Umawiające się Państwa zobowiązują się do przyznania transferom, o których mowa w ustępie 1 niniejszego artykułu, traktowania równie korzystnego jak przyznane transferom pochodzącym z inwestycji dokonanych przez inwestorów któregokolwiek państwa trzeciego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "W transferach, o których mowa w ustępie 1 niniejszego artykułu, stosowane będą kursy przeważające w dniu dokonywania transferu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Określenie „bezzwłoczny” oznacza transfer dokonany w okresie zwykle wymaganym dla dopełnienia formalności związanych z transferem. Okres ten obliczany jest od dnia złożenia we właściwy sposób i do właściwych władz wniosku wraz z wymaganymi dokumentami i nie może w żadnym wypadku przekroczyć dwóch miesięcy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde Umawiające się Państwo zagwarantuje bezzwłoczny transfer poza swoje terytorium w walucie swobodnie wymienialnej:",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Subrogacja",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "zysków netto, dywidend, należności licencyjnych, opłat z tytułu pomocy technicznej i usług technicznych, odsetek i innych przychodów uzyskanych przez inwestora drugiego Umawiającego się Państwa,",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Jeżeli Umawiające się Państwo (lub jego wyznaczone agencja) dokona płatności któremukolwiek z jego inwestorów w ramach odszkodowania lub gwarancji udzielonej w związku z inwestycją lub którąkolwiek jej częścią dokonaną na terytorium Państwa przyjmującego, lub w inny sposób przejmie uprawnienia tych inwestorów w związku z takimi inwestycjami, Państwo przyjmujące uzna:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_1/lit_a",
+       "text": "uprawnienia drugiego Umawiającego się Państwa (lub jego wyznaczonej agencji) powstałe z tytułu przelewu, odszkodowania lub innej subrogacji wynikłej z mocy prawa lub z czynności prawnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_1/lit_b",
+       "text": "uprawnienie drugiego Umawiającego się Państwa (lub jego wyznaczonej agencji) do dochodzenie tego prawa z tytułu subrogacji, w tym samym zakresie jak jego poprzednik prawny.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "wpływów pochodzących ze sprzedaży, całkowitej lub częściowej likwidacji inwestycji dokonanej przez inwestora drugiego Umawiającego się Państwa,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "kwot przeznaczonych na spłatę pożyczek,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "kwot odpowiadających kosztom poniesionym w związku z utrzymaniem inwestycji,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "wynagrodzeń netto obywateli drugiego Umawiającego się Państwa upoważnionych do podjęcia pracy w związku z inwestycją dokonaną na jego terytorium,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "kapitałów i dodatkowych funduszy zainwestowanych dla utrzymania i rozwoju inwestycji.",
-     "children": []
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Jednakże drugie Umawiające się Państwo uzna prawo Państwa przyjmującego do potrącenia należnych, a nie zapłaconych przez inwestora podatków lub innych obciążeń.",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Jeśli drugie Umawiające się Państwo nabędzie jakiekolwiek kwoty w wyżej wymieniony sposób, będzie mu przyznane w stosunku do nich traktowanie nie mniej korzystne niż przyznane środkom inwestorów Państwa przyjmującego lub któregokolwiek państwa trzeciego, pochodzącym z inwestycji lub działań towarzyszących, podobnych do tych, w których zaangażowana była strona otrzymująca odszkodo-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 9",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozstrzyganie sporów inwestycyjnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Każdy spór między Umawiającym się Państwem i inwestorem drugiego Umawiającego się Państwa dotyczący inwestycji będzie tak dalece, jak to możliwe, rozstrzygany między stronami sporu w sposób polubowny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli spór nie może być rozstrzygnięty zgodnie z postanowieniami ustępu 1 w okresie 6 miesięcy od daty wystąpienia z wnioskiem o rozstrzygnięcie sporu, strony mogą zastosować następujący tryb postępowania:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) spór zostanie rozstrzygnięty zgodnie z procedurą polubownego rozstrzygania sporów, którą strony sporu uprzednio uzgodniły,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) spory dotyczące wywłaszczenia, nacjonalizacji i odszkodowań w myśl artykułu 6 oraz transferów w myśl artykułu 7 zostaną, na wniosek inwestora, skierowane do rozstrzygnięcia przez międzynarodowy trybunał arbitrażowy ad hoc,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) w przypadku sporu nie wymienionego w ustępie 2 litera",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) spór taki zostanie, po wyczerpaniu wszystkich wewnętrznych środków prawnych, skierowany do międzynarodowego trybunału arbitrażowego ad hoc.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "3. Międzynarodowy trybunał arbitrażowy ad hoc będzie dla każdej sprawy utworzony w następujący sposób:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Trybunał arbitrażowy będzie złożony z trzech arbitrów. Każda strona wybiera jednego arbitra. Dwaj wybrani arbitrzy wyznaczają wspólnie przewodniczącego będącego obywatelem państwa trzeciego, z którym oba Umawiające się Państwa utrzymują stosunki dyplomatyczne. Arbitrzy zostaną mianowani w ciągu 2 miesięcy od daty, w której jedna strona sporu poinformuje drugą o zamiarze przekazania sporu do arbitrażu. Jeżeli nominacji nie można dokonać w wyżej wymienionym terminie, każda strona może zwrócić się do Przewodniczącego Instytutu Arbitrażowego Sztokholmskiej Izby Handlu o dokonanie wymaganej nominacji w okresie dwóch miesięcy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Trybunał arbitrażowy mający siedzibę i wydający orzeczenia w Szwecji może również badać dowody i odbywać sesje w innych miejscach, jeżeli uzna to za stosowne. Postępowanie będzie prowadzone w języku angielskim, chyba że trybunał uzna za konieczne lub mające wpływ na wydanie sprawiedliwego orzeczenia badanie dowodów i dopuszczenie dokumentów w innych językach. W takim przypadku trybunał spowoduje dokonanie i udostępnienie wiarygodnego tłumaczenia na język angielski.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) Trybunał arbitrażowy podejmuje decyzje większością głosów. Orzeczenie będzie ostateczne, wiążące obie strony sporu i zostanie wykonane przez obie strony sporu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) Orzeczenie arbitrażowe będzie wydane zgodnie z prawem wewnętrznym, nie wyłączając przepisów kolizyjnych Umawiającego się Państwa przyjmującego inwestycje i zgodnie z postanowieniami niniejszej umowy, jak również z powszechnie uznanymi i przyjętymi przez oba Umawiające się:Państwa zasadami prawa międzynarodowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) W postępowaniu arbitrażowym strony sporu ponoszą koszty własnego arbitra oraz swych doradców. Koszty przewodniczącego i pozostałe koszty trybunału arbitrażowego zostaną pokryte w równych częściach przez obie strony sporu, chyba że trybunał postanowi inaczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W przypadku gdy oba Umawiające się Państwa staną się stronami Konwencji o rozstrzyganiu sporów inwestycyjnych między państwami i obywatelami innych państw, otwartej do podpisu w Waszyngtonie D.C. dnia 18 marca 1965 r., spory zgodnie z tym artykułem zostaną przedłożone do rozstrzygnięcia w: drodze koncyliacji lub arbitrażu do Międzynarodowego Centrum Rozstrzygania Sporów Inwestycyjnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Podczas któregokolwiek postępowania sądowego, arbitrażowego czy innego, dotyczącego sporu inwestycyjnego między Umawiającym się Państwem a inwestorem drugiego Umawiającego się Państwa, Umawiające się Państwo nie powoła się w obronie na swój immunitet. Żadne powództwo wzajemne lub prawo potrącenia nie może być oparte o fakt, że zainteresowany inwestor otrzymał lub otrzyma, na podstawie umowy ubezpieczenia, odszkodowanie lub inną kompensatę za całość lub część domniemanych szkód od jakiejkolwiek osoby trzeciej, publicznej lub prywatnej, włącznie z drugim Umawiającym się Państwem i jego agendami, agencjami i instytucjami. Niezależnie od powyższego, inwestorowi drugiego Umawiającego się Państwa nie przysługuje odszkodowanie wyższe niż wartość majątku, którego ono dotyczy, biorąc pod uwagę wszystkie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Póz. 371",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "źródła odszkodowania na terytorium państwa odpowiedzialnego za odszkodowanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Umawiające się Państwa nie będą korzystały z kanałów dyplomatycznych w związku z którąkolwiek sprawą przekazaną arbitrażowi dopóty, dopóki postępowanie nie zostanie zakończone i Umawiające się Państwo nie postąpi zgodnie z orzeczeniem wydanym przez trybunał arbitrażowy lub go nie uwzględni.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 10",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozstrzyganie sporów między Umawiającymi się Państwami",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rządy Umawiających się Państw będą się starały rozstrzygnąć w drodze kontaktów dyplomatycznych wszelkie spory, które mogą wyniknąć w związku z interpretacją lub stosowaniem niniejszej umowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeśli spór nie może być rozstrzygnięty w ten sposób w ciągu sześciu miesięcy, zostanie on, na wniosek któregokolwiek Umawiającego się Państwa, przedłożony trybunałowi arbitrażowemu ad hoc zgodnie z postanowieniami niniejszego artykułu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Trybunał arbitrażowy zostanie utworzony w następujący sposób: w ciągu trzech miesięcy od otrzymania wniosku o wszczęcie postępowania arbitrażowego każde Umawiające się Państwo wyznaczy jednego arbitra. Obaj arbitrzy wybiorą następnie obywatela państwa trzeciego, który za zgodą obydwu Umawiających się Państw będzie przewodniczącym trybunału (dalej zwanym przewodniczącym). Przewodniczący zostanie wyznaczony w ciągu trzech miesięcy od dnia powołania pozostałych dwóch arbitrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Jeżeli w terminie określonym w ust. 3 niniejszego artykułu Umawiające się Państwa nie dokonają nominacji swoich arbitrów lub gdy ci nie wybiorą przewodniczącego, to wymaganych nominacji na ich wniosek może dokonać Przewodniczący Międzynarodowego Trybunału Sprawiedliwości. Jeżeli Przewodniczący jest obywatelem Umawiającego się Państwa lub jakiekolwiek inne przyczyny uniemożliwiają mu wypełnienie tej funkcji, należy zwrócić się do Wiceprzewodniczącego o dokonanie nominacji. Jeżeli Wiceprzewodniczący jest obywatelem Umawiającego się Państwa lub z innych względów nie może wypełnić wspomnianej funkcji, to należy zwrócić się o dokonanie nominacji do najstarszego rangą członka Międzynarodowego Trybunału Sprawiedliwości, który nie jest obywatelem żadnego Umawiającego się Państwa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Trybunał arbitrażowy orzeka większością głosów. Orzeczenia są wiążące. Każde Umawiające się Państwo ponosi koszty własnego arbitra trybunału i swoich doradców w postępowaniu arbitrażowym; koszty przewodniczącego i pozostałe koszty zostaną pokryte w równych częściach przez Umawiające się Państwa. Trybunał arbitrażowy określi tryb swojego postępowania, chyba że Umawiające się Państwa postanowią inaczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 11",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Inwestycje objęte umową",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Niniejsza umowa dotyczy inwestycji dokonanych na terytorium Umawiającego się Państwa przez inwestorów drugiego Umawiającego się Państwa, zgodnie z jego ustawodawstwem i zasadami, po dniu 2 grudnia 1971 r.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 12",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Stosunki między Rządami",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Postanowienia niniejszej umowy będą stosowane niezależnie od istnienia stosunków dyplomatycznych lub konsularnych między Umawiającymi się Państwami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 13",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Stosowanie innych zasad i specjalnych zobowiązań",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Jeżeli jakaś kwestia jest uregulowana jednocześnie przez niniejszą umowę i przez inne umowy, których oba Umawiające się Państwa są stroną, lub przez generalne zasady prawa uznawane wspólnie przez oba Umawiające się Państwa lub przez prawo wewnętrzne Państwa przyjmującego, żadne z postanowień niniejszej umowy nie narusza prawa żadnego z Umawiających się Państw lub ich inwestorów posiadających inwestycje na terytorium drugiego Umawiającego się Państwa do skorzystania z zasad, które są w danym wypadku korzystniejsze.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Inwestycje objęte specjalnymi umowami lub zobowiązaniami podjętymi przez jedno z Umawiających się Państw w odniesieniu do inwestorów drugiego Umawiającego się Państwa będą, niezależnie od postanowień niniejszej umowy, podlegały warunkom wynikającym z tych umów i zobowiązań, jeśli są one korzystniejsze od warunków przewidzianych przez niniejszą umowę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 14",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wejście w życie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Niniejsza umowa wejdzie w życie dziesięć (10) dni od otrzymania przez którekolwiek Umawiające się Państwo późniejszej noty informującej o zakończeniu procedury wymaganej przez prawo wewnętrzne danego Umawiającego się Państwa dla wejścia niniejszej umowy w życie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Artykuł 15",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Czas obowiązywania i wygaśnięcie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Niniejsza umowa pozostanie w mocy przez dziesięć lat. Po upływie tego okresu zachowa moc aż do upływu dwunastu miesięcy od dnia, w którym którekolwiek z Umawiających się Państw notyfikuje pisemnie drugiemu Umawiającemu się Państwu zamiar wypowiedzenia umowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W odniesieniu do inwestycji dokonanych przed dniem, w którym notyfikacja o wypowiedzeniu niniejszej umowy uprawomocnia się, postanowienia niniejszej umowy pozostają w mocy przez dziesięć lat od dnia rozwiązania niniejszej umowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sporządzono w dwóch egzemplarzach w Abu Zabi dnia 31 stycznia tysiąc dziewięćset dziewięćdziesiątego trzeciego roku, odpowiadającego 8 dniu Shaban 1413 H., w językach polskim, arabskim i agnielskim, przy czym wszystkie trzy teksty mają jednakową moc. W przypadku rozbieżności tekst angielski będzie rozstrzygający.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Z upoważnienia Rządu Zjednoczonych Emiratów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rzeczypospolitej Arabskich Polskiej Mohamed Khalfan Bin Kharbash",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "A. Kapiszewski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— jest przyjęta, ratyfikowana i potwierdzona,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— będzie niezmiennie zachowywana.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Dano w Warszawie dnia 15 lipca 1993 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa LS.",
+       "quoted": true
+      }
+     ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nie zawężając znaczenia artykułu 3 niniejszej umowy, Umawiające się Państwa zobowiązują się do przyznania transferom, o których mowa w ustępie 1 niniejszego artykułu, traktowania równie korzystnego jak przyznane transferom pochodzącym z inwestycji dokonanych przez inwestorów któregokolwiek państwa trzeciego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W transferach, o których mowa w ustępie 1 niniejszego artykułu, stosowane będą kursy przeważające w dniu dokonywania transferu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Określenie „bezzwłoczny” oznacza transfer dokonany w okresie zwykle wymaganym dla dopełnienia formalności związanych z transferem. Okres ten obliczany jest od dnia złożenia we właściwy sposób i do właściwych władz wniosku wraz z wymaganymi dokumentami i nie może w żadnym wypadku przekroczyć dwóch miesięcy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Subrogacja"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli Umawiające się Państwo (lub jego wyznaczone agencja) dokona płatności któremukolwiek z jego inwestorów w ramach odszkodowania lub gwarancji udzielonej w związku z inwestycją lub którąkolwiek jej częścią dokonaną na terytorium Państwa przyjmującego, lub w inny sposób przejmie uprawnienia tych inwestorów w związku z takimi inwestycjami, Państwo przyjmujące uzna:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "uprawnienia drugiego Umawiającego się Państwa (lub jego wyznaczonej agencji) powstałe z tytułu przelewu, odszkodowania lub innej subrogacji wynikłej z mocy prawa lub z czynności prawnej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "uprawnienie drugiego Umawiającego się Państwa (lub jego wyznaczonej agencji) do dochodzenie tego prawa z tytułu subrogacji, w tym samym zakresie jak jego poprzednik prawny.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jednakże drugie Umawiające się Państwo uzna prawo Państwa przyjmującego do potrącenia należnych, a nie zapłaconych przez inwestora podatków lub innych obciążeń.",
-   "children": [
-    {
-     "type": "text",
-     "text": "„3. Jeśli drugie Umawiające się Państwo nabędzie jakiekolwiek kwoty w wyżej wymieniony sposób, będzie mu przyznane w stosunku do nich traktowanie nie mniej korzystne niż przyznane środkom inwestorów Państwa przyjmującego lub któregokolwiek państwa trzeciego, pochodzącym z inwestycji lub działań towarzyszących, podobnych do tych, w których zaangażowana była strona otrzymująca odszkodo-",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "wanie.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Rozstrzyganie sporów inwestycyjnych",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1. Każdy spór między Umawiającym się Państwem i inwestorem drugiego Umawiającego się Państwa dotyczący inwestycji będzie tak dalece, jak to możliwe, rozstrzygany między stronami sporu w sposób polubowny.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. Jeżeli spór nie może być rozstrzygnięty zgodnie z postanowieniami ustępu 1 w okresie 6 miesięcy od daty wystąpienia z wnioskiem o rozstrzygnięcie sporu, strony mogą zastosować następujący tryb postępowania:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "a) spór zostanie rozstrzygnięty zgodnie z procedurą polubownego rozstrzygania sporów, którą strony sporu uprzednio uzgodniły,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "b) spory dotyczące wywłaszczenia, nacjonalizacji i odszkodowań w myśl artykułu 6 oraz transferów w myśl artykułu 7 zostaną, na wniosek inwestora, skierowane do rozstrzygnięcia przez międzynarodowy trybunał arbitrażowy ad hoc,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "c) w przypadku sporu nie wymienionego w ustępie 2 litera",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "b) spór taki zostanie, po wyczerpaniu wszystkich wewnętrznych środków prawnych, skierowany do międzynarodowego trybunału arbitrażowego ad hoc.",
-     "quoted": true
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "3. Międzynarodowy trybunał arbitrażowy ad hoc będzie dla każdej sprawy utworzony w następujący sposób:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "a) Trybunał arbitrażowy będzie złożony z trzech arbitrów. Każda strona wybiera jednego arbitra. Dwaj wybrani arbitrzy wyznaczają wspólnie przewodniczącego będącego obywatelem państwa trzeciego, z którym oba Umawiające się Państwa utrzymują stosunki dyplomatyczne. Arbitrzy zostaną mianowani w ciągu 2 miesięcy od daty, w której jedna strona sporu poinformuje drugą o zamiarze przekazania sporu do arbitrażu. Jeżeli nominacji nie można dokonać w wyżej wymienionym terminie, każda strona może zwrócić się do Przewodniczącego Instytutu Arbitrażowego Sztokholmskiej Izby Handlu o dokonanie wymaganej nominacji w okresie dwóch miesięcy.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "b) Trybunał arbitrażowy mający siedzibę i wydający orzeczenia w Szwecji może również badać dowody i odbywać sesje w innych miejscach, jeżeli uzna to za stosowne. Postępowanie będzie prowadzone w języku angielskim, chyba że trybunał uzna za konieczne lub mające wpływ na wydanie sprawiedliwego orzeczenia badanie dowodów i dopuszczenie dokumentów w innych językach. W takim przypadku trybunał spowoduje dokonanie i udostępnienie wiarygodnego tłumaczenia na język angielski.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "c) Trybunał arbitrażowy podejmuje decyzje większością głosów. Orzeczenie będzie ostateczne, wiążące obie strony sporu i zostanie wykonane przez obie strony sporu.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "d) Orzeczenie arbitrażowe będzie wydane zgodnie z prawem wewnętrznym, nie wyłączając przepisów kolizyjnych Umawiającego się Państwa przyjmującego inwestycje i zgodnie z postanowieniami niniejszej umowy, jak również z powszechnie uznanymi i przyjętymi przez oba Umawiające się:Państwa zasadami prawa międzynarodowego.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "e) W postępowaniu arbitrażowym strony sporu ponoszą koszty własnego arbitra oraz swych doradców. Koszty przewodniczącego i pozostałe koszty trybunału arbitrażowego zostaną pokryte w równych częściach przez obie strony sporu, chyba że trybunał postanowi inaczej.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "4. W przypadku gdy oba Umawiające się Państwa staną się stronami Konwencji o rozstrzyganiu sporów inwestycyjnych między państwami i obywatelami innych państw, otwartej do podpisu w Waszyngtonie D.C. dnia 18 marca 1965 r., spory zgodnie z tym artykułem zostaną przedłożone do rozstrzygnięcia w: drodze koncyliacji lub arbitrażu do Międzynarodowego Centrum Rozstrzygania Sporów Inwestycyjnych.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "5. Podczas któregokolwiek postępowania sądowego, arbitrażowego czy innego, dotyczącego sporu inwestycyjnego między Umawiającym się Państwem a inwestorem drugiego Umawiającego się Państwa, Umawiające się Państwo nie powoła się w obronie na swój immunitet. Żadne powództwo wzajemne lub prawo potrącenia nie może być oparte o fakt, że zainteresowany inwestor otrzymał lub otrzyma, na podstawie umowy ubezpieczenia, odszkodowanie lub inną kompensatę za całość lub część domniemanych szkód od jakiejkolwiek osoby trzeciej, publicznej lub prywatnej, włącznie z drugim Umawiającym się Państwem i jego agendami, agencjami i instytucjami. Niezależnie od powyższego, inwestorowi drugiego Umawiającego się Państwa nie przysługuje odszkodowanie wyższe niż wartość majątku, którego ono dotyczy, biorąc pod uwagę wszystkie",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Póz. 371",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "źródła odszkodowania na terytorium państwa odpowiedzialnego za odszkodowanie.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "6. Umawiające się Państwa nie będą korzystały z kanałów dyplomatycznych w związku z którąkolwiek sprawą przekazaną arbitrażowi dopóty, dopóki postępowanie nie zostanie zakończone i Umawiające się Państwo nie postąpi zgodnie z orzeczeniem wydanym przez trybunał arbitrażowy lub go nie uwzględni.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Rozstrzyganie sporów między Umawiającymi się Państwami",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1. Rządy Umawiających się Państw będą się starały rozstrzygnąć w drodze kontaktów dyplomatycznych wszelkie spory, które mogą wyniknąć w związku z interpretacją lub stosowaniem niniejszej umowy.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. Jeśli spór nie może być rozstrzygnięty w ten sposób w ciągu sześciu miesięcy, zostanie on, na wniosek któregokolwiek Umawiającego się Państwa, przedłożony trybunałowi arbitrażowemu ad hoc zgodnie z postanowieniami niniejszego artykułu.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "3. Trybunał arbitrażowy zostanie utworzony w następujący sposób: w ciągu trzech miesięcy od otrzymania wniosku o wszczęcie postępowania arbitrażowego każde Umawiające się Państwo wyznaczy jednego arbitra. Obaj arbitrzy wybiorą następnie obywatela państwa trzeciego, który za zgodą obydwu Umawiających się Państw będzie przewodniczącym trybunału (dalej zwanym przewodniczącym). Przewodniczący zostanie wyznaczony w ciągu trzech miesięcy od dnia powołania pozostałych dwóch arbitrów.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "4. Jeżeli w terminie określonym w ust. 3 niniejszego artykułu Umawiające się Państwa nie dokonają nominacji swoich arbitrów lub gdy ci nie wybiorą przewodniczącego, to wymaganych nominacji na ich wniosek może dokonać Przewodniczący Międzynarodowego Trybunału Sprawiedliwości. Jeżeli Przewodniczący jest obywatelem Umawiającego się Państwa lub jakiekolwiek inne przyczyny uniemożliwiają mu wypełnienie tej funkcji, należy zwrócić się do Wiceprzewodniczącego o dokonanie nominacji. Jeżeli Wiceprzewodniczący jest obywatelem Umawiającego się Państwa lub z innych względów nie może wypełnić wspomnianej funkcji, to należy zwrócić się o dokonanie nominacji do najstarszego rangą członka Międzynarodowego Trybunału Sprawiedliwości, który nie jest obywatelem żadnego Umawiającego się Państwa.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "5. Trybunał arbitrażowy orzeka większością głosów. Orzeczenia są wiążące. Każde Umawiające się Państwo ponosi koszty własnego arbitra trybunału i swoich doradców w postępowaniu arbitrażowym; koszty przewodniczącego i pozostałe koszty zostaną pokryte w równych częściach przez Umawiające się Państwa. Trybunał arbitrażowy określi tryb swojego postępowania, chyba że Umawiające się Państwa postanowią inaczej.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Inwestycje objęte umową",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa dotyczy inwestycji dokonanych na terytorium Umawiającego się Państwa przez inwestorów drugiego Umawiającego się Państwa, zgodnie z jego ustawodawstwem i zasadami, po dniu 2 grudnia 1971 r.",
-     "quoted": true
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Stosunki między Rządami",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia niniejszej umowy będą stosowane niezależnie od istnienia stosunków dyplomatycznych lub konsularnych między Umawiającymi się Państwami.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Stosowanie innych zasad i specjalnych zobowiązań",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1. Jeżeli jakaś kwestia jest uregulowana jednocześnie przez niniejszą umowę i przez inne umowy, których oba Umawiające się Państwa są stroną, lub przez generalne zasady prawa uznawane wspólnie przez oba Umawiające się Państwa lub przez prawo wewnętrzne Państwa przyjmującego, żadne z postanowień niniejszej umowy nie narusza prawa żadnego z Umawiających się Państw lub ich inwestorów posiadających inwestycje na terytorium drugiego Umawiającego się Państwa do skorzystania z zasad, które są w danym wypadku korzystniejsze.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. Inwestycje objęte specjalnymi umowami lub zobowiązaniami podjętymi przez jedno z Umawiających się Państw w odniesieniu do inwestorów drugiego Umawiającego się Państwa będą, niezależnie od postanowień niniejszej umowy, podlegały warunkom wynikającym z tych umów i zobowiązań, jeśli są one korzystniejsze od warunków przewidzianych przez niniejszą umowę.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Niniejsza umowa wejdzie w życie dziesięć (10) dni od otrzymania przez którekolwiek Umawiające się Państwo późniejszej noty informującej o zakończeniu procedury wymaganej przez prawo wewnętrzne danego Umawiającego się Państwa dla wejścia niniejszej umowy w życie.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Czas obowiązywania i wygaśnięcie",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1. Niniejsza umowa pozostanie w mocy przez dziesięć lat. Po upływie tego okresu zachowa moc aż do upływu dwunastu miesięcy od dnia, w którym którekolwiek z Umawiających się Państw notyfikuje pisemnie drugiemu Umawiającemu się Państwu zamiar wypowiedzenia umowy.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. W odniesieniu do inwestycji dokonanych przed dniem, w którym notyfikacja o wypowiedzeniu niniejszej umowy uprawomocnia się, postanowienia niniejszej umowy pozostają w mocy przez dziesięć lat od dnia rozwiązania niniejszej umowy.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w dwóch egzemplarzach w Abu Zabi dnia 31 stycznia tysiąc dziewięćset dziewięćdziesiątego trzeciego roku, odpowiadającego 8 dniu Shaban 1413 H., w językach polskim, arabskim i agnielskim, przy czym wszystkie trzy teksty mają jednakową moc. W przypadku rozbieżności tekst angielski będzie rozstrzygający.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Zjednoczonych Emiratów",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Rzeczypospolitej Arabskich Polskiej Mohamed Khalfan Bin Kharbash",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "A. Kapiszewski",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 15 lipca 1993 r.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa LS.",
-     "quoted": true
-    }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
    "type": "signature",

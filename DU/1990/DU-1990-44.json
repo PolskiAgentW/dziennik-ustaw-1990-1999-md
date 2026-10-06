@@ -133,386 +133,398 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Każda z Umawiających się Stron podejmie odpowiednie kroki w celu ochrony i popierania rozwoju jej narodowego wkładu do wspólnego dziedzictwa kulturalnego Europy."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Każda z Umawiających się Stron w miarę możliwości będzie:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "zachęcać swych obywateli do studiów nad językami, historią i cywilizacją innych Umawiających się Stron oraz udostępni środki tym Stronom w celu popierania tych studiów na jej terytorium oraz",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "czynić starania w celu popierania studiów nad jej językiem lub językami, historią i cywilizacją na terytorium innych Umawiających się Stron oraz udostępni środki obywatelom tych Stron, umożliwiające im prowadzenie takich studiów na jej terytorium.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą się wzajemnie konsultować w ramach Rady Europy, aby podejmować zgodne działania w zakresie popierania działalności kulturalnej, będącej przedmiotem ogólnoeuropejskiego zainteresowania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron będzie, w miarę możliwości, ułatwiać poruszanie się i wymianę osób oraz obiektów o wartości kulturalnej, aby umożliwić realizację art. 2 i 3."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron uzna obiekty o europejskiej wartości kulturalnej znajdujące się w jej dyspozycji za integralne części wspólnego dziedzictwa kulturalnego Europy, podejmie odpowiednie kroki dla ich ochrony i zapewni do nich właściwy dostęp."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Propozycje na temat stosowania postanowień niniejszej konwencji oraz kwestie dotyczące jej interpretacji będą rozważane podczas posiedzeń Komitetu Ekspertów Kulturalnych Rady Europy.",
-   "children": []
+   "path": "art_1",
+   "text": "Każda z Umawiających się Stron podejmie odpowiednie kroki w celu ochrony i popierania rozwoju jej narodowego wkładu do wspólnego dziedzictwa kulturalnego Europy.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Państwo nie będące członkiem Rady Europy, które przystąpiło do niniejszej konwencji zgodnie z postanowieniami ust. 4 art. 9, może wyznaczyć swego przedstawiciela lub przedstawicieli w celu uczestniczenia w posiedzeniach, o których mowa w poprzednim ustępie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wnioski ustalone na posiedzeniach, o których mowa w ustępie 1 niniejszego artykułu, będą przedłożone w formie zaleceń Komitetowi Ministrów Rady Europy, o ile nie będą to decyzje pozostające w kompetencji Komitetu Ekspertów Kulturalnych w sprawach o charakterze administracyjnym, które nie pociągają za sobą dodatkowych wydatków.",
+   "path": "art_2",
+   "text": "Każda z Umawiających się Stron w miarę możliwości będzie:",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "Each Contracting Party shall take appropriate measures to safeguard and to encourage the development of its national contribution to the common cultural heritage of Europe."
-    },
-    {
-     "type": "text",
-     "text": "Article 2"
-    },
-    {
-     "type": "text",
-     "text": "Each Contracting Party shall, insofar as may be possible,"
-    },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "encourage the study by its own nationals of the languages, history and civilisation of the other Contracting Parties and grant facilities to those Parties to promote such studies in its territory, and",
+     "path": "art_2/lit_a",
+     "text": "zachęcać swych obywateli do studiów nad językami, historią i cywilizacją innych Umawiających się Stron oraz udostępni środki tym Stronom w celu popierania tych studiów na jej terytorium oraz",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "endeavour to promote the study of its language or languages, history and civilisation in the territory of the other Contracting Parties and grant facilities to the nationals of those Parties to pursue such studies in its territory.",
+     "path": "art_2/lit_b",
+     "text": "czynić starania w celu popierania studiów nad jej językiem lub językami, historią i cywilizacją na terytorium innych Umawiających się Stron oraz udostępni środki obywatelom tych Stron, umożliwiające im prowadzenie takich studiów na jej terytorium.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony będą się wzajemnie konsultować w ramach Rady Europy, aby podejmować zgodne działania w zakresie popierania działalności kulturalnej, będącej przedmiotem ogólnoeuropejskiego zainteresowania.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Każda z Umawiających się Stron będzie, w miarę możliwości, ułatwiać poruszanie się i wymianę osób oraz obiektów o wartości kulturalnej, aby umożliwić realizację art. 2 i 3.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Każda z Umawiających się Stron uzna obiekty o europejskiej wartości kulturalnej znajdujące się w jej dyspozycji za integralne części wspólnego dziedzictwa kulturalnego Europy, podejmie odpowiednie kroki dla ich ochrony i zapewni do nich właściwy dostęp.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Propozycje na temat stosowania postanowień niniejszej konwencji oraz kwestie dotyczące jej interpretacji będą rozważane podczas posiedzeń Komitetu Ekspertów Kulturalnych Rady Europy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Państwo nie będące członkiem Rady Europy, które przystąpiło do niniejszej konwencji zgodnie z postanowieniami ust. 4 art. 9, może wyznaczyć swego przedstawiciela lub przedstawicieli w celu uczestniczenia w posiedzeniach, o których mowa w poprzednim ustępie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Wnioski ustalone na posiedzeniach, o których mowa w ustępie 1 niniejszego artykułu, będą przedłożone w formie zaleceń Komitetowi Ministrów Rady Europy, o ile nie będą to decyzje pozostające w kompetencji Komitetu Ekspertów Kulturalnych w sprawach o charakterze administracyjnym, które nie pociągają za sobą dodatkowych wydatków.",
      "children": [
       {
        "type": "text",
-       "text": "Article 3"
+       "text": "Article 1"
       },
       {
        "type": "text",
-       "text": "The Contracting Parties shall consult with one another within the framework of the Council of Europe with a view to concerted action in promoting cultural activities of European interest."
+       "text": "Each Contracting Party shall take appropriate measures to safeguard and to encourage the development of its national contribution to the common cultural heritage of Europe."
       },
       {
        "type": "text",
-       "text": "Article 4"
+       "text": "Article 2"
       },
       {
        "type": "text",
-       "text": "Each Contracting Party shall, insofar as may be possible, facilitate the movement and exchange of persons as well as of objects of cultural value so that Articles 2 and 3 may be implemented."
+       "text": "Each Contracting Party shall, insofar as may be possible,"
       },
       {
-       "type": "text",
-       "text": "Article 5"
+       "type": "lit",
+       "num": "a",
+       "path": "art_6/ust_3/lit_a",
+       "text": "encourage the study by its own nationals of the languages, history and civilisation of the other Contracting Parties and grant facilities to those Parties to promote such studies in its territory, and",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Each Contracting Party shall regard the objects of European cultural value placed under its control as integral parts of the common cultural heritage of Europe, shall take appropriate measures to safeguard them and shall ensure reasonable access thereto."
-      },
-      {
-       "type": "text",
-       "text": "Article 6"
+       "type": "lit",
+       "num": "b",
+       "path": "art_6/ust_3/lit_b",
+       "text": "endeavour to promote the study of its language or languages, history and civilisation in the territory of the other Contracting Parties and grant facilities to the nationals of those Parties to pursue such studies in its territory.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 3"
+        },
+        {
+         "type": "text",
+         "text": "The Contracting Parties shall consult with one another within the framework of the Council of Europe with a view to concerted action in promoting cultural activities of European interest."
+        },
+        {
+         "type": "text",
+         "text": "Article 4"
+        },
+        {
+         "type": "text",
+         "text": "Each Contracting Party shall, insofar as may be possible, facilitate the movement and exchange of persons as well as of objects of cultural value so that Articles 2 and 3 may be implemented."
+        },
+        {
+         "type": "text",
+         "text": "Article 5"
+        },
+        {
+         "type": "text",
+         "text": "Each Contracting Party shall regard the objects of European cultural value placed under its control as integral parts of the common cultural heritage of Europe, shall take appropriate measures to safeguard them and shall ensure reasonable access thereto."
+        },
+        {
+         "type": "text",
+         "text": "Article 6"
+        }
+       ]
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Proposals for the application of the provisions of the present Convention and questions relating to the interpretation thereof shall be considered at meetings of the Committee of Cultural Experts of the Council of Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Any State not a member of the Council of Europe which has acceded to the present Convention in accordance with the provisions of paragraph 4 of Article 9 may appoint a representative or representatives to participate in the meetings provided for in the preceding paragraph.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "The conclusions reached at the meetings provided for in paragraph 1 of this Article shall be submitted in the form of recommendations to the Committee of Ministers of the Council of Europe, unless they are decisions which are within the competence of the Committee of Cultural Experts as relating to matters of an administrative nature which do not entail additional expenditure.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Sekretarz Generalny Rady Europy poinformuje członków Rady i Rząd każdego Państwa, które przystąpiło do niniejszej konwencji, o istotnych dla nich decyzjach, które mogą być podjęte przez Komitet Ministrów lub Komitet Ekspertów Kulturalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_6/ust_5",
+     "text": "Każda z Umawiających się Stron powiadomi we właściwym trybie Sekretarza Generalnego Rady Europy o podjętym przez nią działaniu w celu zastosowania postanowień niniejszej konwencji zgodnie z decyzjami podjętymi przez Komitet Ministrów lub Komitet Ekspertów Kulturalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_6/ust_6",
+     "text": "Jeśli niektóre propozycje dotyczące zastosowania niniejszej konwencji spotkają się z zainteresowaniem jedynie ograniczonej 'liczby Umawiających się Stron, to mogą być one dalej rozpatrywane zgodnie z postanowieniami artykułu 7, pod warunkiem że ich wykonywanie nie pociągnie za sobą wydatków ponoszonych przez Radę Europy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Proposals for the application of the provisions of the present Convention and questions relating to the interpretation thereof shall be considered at meetings of the Committee of Cultural Experts of the Council of Europe.",
-   "children": []
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Jeżeli dla realizacji celów niniejszej konwencji dwie lub więcej Umawiających się Stron zechce zorganizować inne posiedzenia w siedzibie Rady Europy niż określone w ust. 1 art. 6, Sekretarz Generalny Rady udzieli im żądanej pomocy administracyjnej.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any State not a member of the Council of Europe which has acceded to the present Convention in accordance with the provisions of paragraph 4 of Article 9 may appoint a representative or representatives to participate in the meetings provided for in the preceding paragraph.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The conclusions reached at the meetings provided for in paragraph 1 of this Article shall be submitted in the form of recommendations to the Committee of Ministers of the Council of Europe, unless they are decisions which are within the competence of the Committee of Cultural Experts as relating to matters of an administrative nature which do not entail additional expenditure.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Żadne postanowienie niniejszej konwencji nie będzie miało wpływu na:",
    "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Sekretarz Generalny Rady Europy poinformuje członków Rady i Rząd każdego Państwa, które przystąpiło do niniejszej konwencji, o istotnych dla nich decyzjach, które mogą być podjęte przez Komitet Ministrów lub Komitet Ekspertów Kulturalnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Każda z Umawiających się Stron powiadomi we właściwym trybie Sekretarza Generalnego Rady Europy o podjętym przez nią działaniu w celu zastosowania postanowień niniejszej konwencji zgodnie z decyzjami podjętymi przez Komitet Ministrów lub Komitet Ekspertów Kulturalnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Jeśli niektóre propozycje dotyczące zastosowania niniejszej konwencji spotkają się z zainteresowaniem jedynie ograniczonej 'liczby Umawiających się Stron, to mogą być one dalej rozpatrywane zgodnie z postanowieniami artykułu 7, pod warunkiem że ich wykonywanie nie pociągnie za sobą wydatków ponoszonych przez Radę Europy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli dla realizacji celów niniejszej konwencji dwie lub więcej Umawiających się Stron zechce zorganizować inne posiedzenia w siedzibie Rady Europy niż określone w ust. 1 art. 6, Sekretarz Generalny Rady udzieli im żądanej pomocy administracyjnej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Żadne postanowienie niniejszej konwencji nie będzie miało wpływu na:"
-    },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_6/lit_a",
+     "path": "art_8/lit_a",
      "text": "postanowienia istniejącej dwustronnej konwencji kulturalnej, podpisanej przez którąkolwiek z Umawiających się Stron, ani nie będzie stanowić przeciwwskazania do zawarcia takiej konwencji przez te Strony;",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_6/lit_b",
+     "path": "art_8/lit_b",
      "text": "obowiązek podporządkowania się osób prawom i przepisom obowiązującym na terytorium każdej z Umawiających się Stron, dotyczących wjazdu, pobytu i wyjazdu obcokrajowców.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja będzie otwarta do podpisu dla członków Rady Europy. Będzie ona ratyfikowana, a dokumenty ratyfikacyjne zostaną złożone u Sekretarza Generalnego Rady Europy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Po złożeniu dokumentów ratyfikacyjnych przez trzy Rządy będące sygnatariuszami niniejszej konwencji, będzie ona obowiązywać w stosunkach pomiędzy tymi Rządami.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W wypadku Rządu sygnatariusza niniejszej konwencji, który ją będzie ratyfikował w następnej kolejności, wejdzie ona w życie w dniu złożenia jego dokumentu ratyfikacyjnego.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "SE Poz. 44"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The Secretary-General of the Council of Europe shall communicate to the Members of the Council and to the Government of any State which has acceded to the present Convention any decisions relevant thereto which may be taken by the Committee of Ministers or by the Committee of Cultural Experts.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Each Contracting Party shall notify the Secretary- -General of the Council of Europe in due course of any action which may be taken by it for the application of the provisions of the present Convention consequent on the decisions of the Committee of Ministers or of the Committee of Cultural Experts.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Inthe event of certain proposals for the application of the present Convention being found to interest only a limited number of the Contracting Parties, such proposals may be further considered in accordance with the provisions of",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7, provided that their implementation entails no expenditure by the Council of Europe."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "If, in order to further the aims of the present Convention, two or more Contracting Parties desire to arrange meetings at the seat of the Council of Europe other than those specified in paragraph 1 of Article 6, the Secretary- General of the Council shall afford them such administrative assistance as they may require."
-    },
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "Nothing in the present Convention shall be deemed to affect"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_6/lit_a",
-     "text": "the provisions of any existing bilateral cultural convention to which any of the Contracting Parties may be signatory or to render less desirable the conclusion of any further such convention by any of the Contracting Parties, or",
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Niniejsza konwencja będzie otwarta do podpisu dla członków Rady Europy. Będzie ona ratyfikowana, a dokumenty ratyfikacyjne zostaną złożone u Sekretarza Generalnego Rady Europy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_6/lit_b",
-     "text": "the obligation of any person to comply with the laws and regulations in force in the territory of any Contracting Party concerning the entry, residence and departure of foreigners.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Po złożeniu dokumentów ratyfikacyjnych przez trzy Rządy będące sygnatariuszami niniejszej konwencji, będzie ona obowiązywać w stosunkach pomiędzy tymi Rządami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "W wypadku Rządu sygnatariusza niniejszej konwencji, który ją będzie ratyfikował w następnej kolejności, wejdzie ona w życie w dniu złożenia jego dokumentu ratyfikacyjnego.",
      "children": [
       {
        "type": "text",
-       "text": "Article 9"
+       "text": "SE Poz. 44"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The present Convention shall be open to the signature of the Members of the Council of Europe. It shall be ratified, and the instruments of ratification shall be deposited with the Secretary- General of the Council of Europe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "As soon as three signatory Governments have deposited their instruments of ratification, the present Convention shall enter into force as between those Governments.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "With respect to each signatory Government ratifying subsequently, the Convention shall enter into force on the date of deposit of its instrument of ratification.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Komitet Ministrów Rady Europy może podjąć w drodze głosowania jednomyślną decyzję o zaproszeniu — na zasadach i warunkach, jakie uzna za stosowne — dowolnego państwa europejskiego nie będącego członkiem Rady do przystąpienia do niniejszej konwencji. Państwo, które otrzyma takie zaproszenie, może przystąpić do konwencji po złożeniu dokumentu przystąpienia u Sekretarza Generalnego Rady Europy. Przystąpienie będzie się liczyć od daty przyjęcia tego dokumentu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Sekretarz Generalny Rady Europy powiadomi wszystkich członków Rady Europy oraz każde przystępujące państwo o złożeniu wszystkich dokumentów ratyfikacyjnych i dokumentów przystąpienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
     },
     {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron może określić terytoria, na których postanowienia niniejszej konwencji będzie się stosować, po zwróceniu się do Sekretarza Generalnego Rady Europy z oświadczeniem podanym następnie przez niego do wiadomości wszystkich pozostałych Umawiających się Stron."
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "The Secretary-General of the Council of Europe shall communicate to the Members of the Council and to the Government of any State which has acceded to the present Convention any decisions relevant thereto which may be taken by the Committee of Ministers or by the Committee of Cultural Experts.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Each Contracting Party shall notify the Secretary- -General of the Council of Europe in due course of any action which may be taken by it for the application of the provisions of the present Convention consequent on the decisions of the Committee of Ministers or of the Committee of Cultural Experts.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_9/ust_6",
+     "text": "Inthe event of certain proposals for the application of the present Convention being found to interest only a limited number of the Contracting Parties, such proposals may be further considered in accordance with the provisions of",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7, provided that their implementation entails no expenditure by the Council of Europe."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "If, in order to further the aims of the present Convention, two or more Contracting Parties desire to arrange meetings at the seat of the Council of Europe other than those specified in paragraph 1 of Article 6, the Secretary- General of the Council shall afford them such administrative assistance as they may require."
+      },
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "Nothing in the present Convention shall be deemed to affect"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_6/lit_a",
+       "text": "the provisions of any existing bilateral cultural convention to which any of the Contracting Parties may be signatory or to render less desirable the conclusion of any further such convention by any of the Contracting Parties, or",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_6/lit_b",
+       "text": "the obligation of any person to comply with the laws and regulations in force in the territory of any Contracting Party concerning the entry, residence and departure of foreigners.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "The present Convention shall be open to the signature of the Members of the Council of Europe. It shall be ratified, and the instruments of ratification shall be deposited with the Secretary- General of the Council of Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "As soon as three signatory Governments have deposited their instruments of ratification, the present Convention shall enter into force as between those Governments.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "With respect to each signatory Government ratifying subsequently, the Convention shall enter into force on the date of deposit of its instrument of ratification.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Komitet Ministrów Rady Europy może podjąć w drodze głosowania jednomyślną decyzję o zaproszeniu — na zasadach i warunkach, jakie uzna za stosowne — dowolnego państwa europejskiego nie będącego członkiem Rady do przystąpienia do niniejszej konwencji. Państwo, które otrzyma takie zaproszenie, może przystąpić do konwencji po złożeniu dokumentu przystąpienia u Sekretarza Generalnego Rady Europy. Przystąpienie będzie się liczyć od daty przyjęcia tego dokumentu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Sekretarz Generalny Rady Europy powiadomi wszystkich członków Rady Europy oraz każde przystępujące państwo o złożeniu wszystkich dokumentów ratyfikacyjnych i dokumentów przystąpienia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron może wypowiedzieć niniejszą konwencję w dowolnym czasie po upływie pięciu lat od jej wejścia w życie poprzez powiadomienie na piśmie wystosowane do Sekretarza Generalnego Rady Europy, który poinformuje o tym pozostałe Strony. .",
-   "children": []
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Każda z Umawiających się Stron może określić terytoria, na których postanowienia niniejszej konwencji będzie się stosować, po zwróceniu się do Sekretarza Generalnego Rady Europy z oświadczeniem podanym następnie przez niego do wiadomości wszystkich pozostałych Umawiających się Stron.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Takie wypowiedzenie wejdzie w życie dla zainteresowanej Strony sześć miesięcy po dacie przyjęcia go przez Sekretarza Generalnego Rady Europy.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Na dowód czego, niżej podpisani, zaopatrzeni w odpowiednie pełnomocnictwa swoich rządów, podpisali niniejszą konwencję. Sporządzono w Paryżu dnia 19 grudnia 1954 r. w językach angielskim i francuskim, przy czym oba teksty mają jednakową moc prawną, w jednym egzemplarzu, który będzie przechowywany w archiwum Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu z Rządów sygnatariuszy i Rządów przystępujących."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Każda z Umawiających się Stron może wypowiedzieć niniejszą konwencję w dowolnym czasie po upływie pięciu lat od jej wejścia w życie poprzez powiadomienie na piśmie wystosowane do Sekretarza Generalnego Rady Europy, który poinformuje o tym pozostałe Strony. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Takie wypowiedzenie wejdzie w życie dla zainteresowanej Strony sześć miesięcy po dacie przyjęcia go przez Sekretarza Generalnego Rady Europy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego, niżej podpisani, zaopatrzeni w odpowiednie pełnomocnictwa swoich rządów, podpisali niniejszą konwencję. Sporządzono w Paryżu dnia 19 grudnia 1954 r. w językach angielskim i francuskim, przy czym oba teksty mają jednakową moc prawną, w jednym egzemplarzu, który będzie przechowywany w archiwum Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu z Rządów sygnatariuszy i Rządów przystępujących."
   },
   {
    "type": "ust",
@@ -557,32 +569,32 @@
     {
      "type": "text",
      "text": "In witness whereof the undersigned, duly authorised thereto by their respective Governments, have signed the present Convention. Done at Paris 19th day of December, 1954, in the English and French languages, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary- General shall transmit certified copies to each of the signatory and acceding Governments."
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją w imieniu Polskiej Rzeczypospolitej Ludowej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— Polska Rzeczpospolita Ludowa postanawia przystąpić do tej konwencji,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie ona niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Polskiej Rzeczypospolitej Ludowej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 16 października 1989 r."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą konwencją w imieniu Polskiej Rzeczypospolitej Ludowej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— Polska Rzeczpospolita Ludowa postanawia przystąpić do tej konwencji,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie ona niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Polskiej Rzeczypospolitej Ludowej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 16 października 1989 r."
   },
   {
    "type": "signature",

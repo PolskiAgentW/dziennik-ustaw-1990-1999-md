@@ -37,358 +37,390 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa reguluje współpracę Stron w zakresie rozwiązywania wszelkich spraw związanych z ustalaniem, rejestracją, urządzaniem, zachowaniem i należytym utrzymaniem miejsc pamięci i spoczynku — polskich w Federacji Rosyjskiej i rosyjskich w Rzeczypospolitej Polskiej — żołnierzy i osób cywilnych poległych, pomordowanych i zamęczonych w wyniku wojen i represji, zwanych dalej „miejscami pamięci i spoczynku”. Postanowienia niniejszej umowy obejmują także sprawy związane z ekshumacją szczątków zwłok i godnym ich pamięci ponownym pochowaniem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony realizując współpracę, o której mowa w ustępie 1 niniejszego artykułu, kierują się postanowieniami niniejszej umowy, celami i zasadami Konwencji genewskich o ochronie ofiar wojny z 12 sierpnia 1949 r. i Protokołów dodatkowych do tych konwencji, a także państwowymi, narodowymi i religijnymi zwyczajami i tradycjami narodów Polski i Rosji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia niniejszej umowy obejmują groby żołnierzy i osób cywilnych, nie mieszczących się w określeniu ustępu 1 niniejszego artykułu, lecz które znajdują się na terenie miejsc spoczynku, o których mowa w ustępie 1.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Niniejsza umowa reguluje współpracę Stron w zakresie rozwiązywania wszelkich spraw związanych z ustalaniem, rejestracją, urządzaniem, zachowaniem i należytym utrzymaniem miejsc pamięci i spoczynku — polskich w Federacji Rosyjskiej i rosyjskich w Rzeczypospolitej Polskiej — żołnierzy i osób cywilnych poległych, pomordowanych i zamęczonych w wyniku wojen i represji, zwanych dalej „miejscami pamięci i spoczynku”. Postanowienia niniejszej umowy obejmują także sprawy związane z ekshumacją szczątków zwłok i godnym ich pamięci ponownym pochowaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Strony realizując współpracę, o której mowa w ustępie 1 niniejszego artykułu, kierują się postanowieniami niniejszej umowy, celami i zasadami Konwencji genewskich o ochronie ofiar wojny z 12 sierpnia 1949 r. i Protokołów dodatkowych do tych konwencji, a także państwowymi, narodowymi i religijnymi zwyczajami i tradycjami narodów Polski i Rosji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Postanowienia niniejszej umowy obejmują groby żołnierzy i osób cywilnych, nie mieszczących się w określeniu ustępu 1 niniejszego artykułu, lecz które znajdują się na terenie miejsc spoczynku, o których mowa w ustępie 1.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą wymieniać wszelkie posiadane informacje, dotyczące położenia miejsc pamięci i spoczynku, ich liczby i wielkości oraz danych osobowych poległych, pomordowanych i zamęczonych.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Na podstawie informacji, o których mowa w ustępie 1 niniejszego artykułu, każda ze Stron sporządzi wykaz wszystkich znanych miejsc pamięci i spoczynku.",
-   "children": []
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Strony będą wymieniać wszelkie posiadane informacje, dotyczące położenia miejsc pamięci i spoczynku, ich liczby i wielkości oraz danych osobowych poległych, pomordowanych i zamęczonych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Na podstawie informacji, o których mowa w ustępie 1 niniejszego artykułu, każda ze Stron sporządzi wykaz wszystkich znanych miejsc pamięci i spoczynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Każda ze Stron umieści w wykazie i zapewni ochronę wszystkich ujawnionych miejsc pamięci i spoczynku, powiadamiając o tym drugą Stronę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Urządzenie miejsc pamięci i spoczynku przewiduje wyznaczenie ich granic, postawienie nagrobków, znaków pamięci, pomników lub innych obiektów upamiętniających.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "W poszczególnych przypadkach, za zgodą Stron, sposób urządzenia i utrzymania miejsc pamięci i spoczynku może zostać dodatkowo sprecyzowany. Obok istniejących mogą być wznoszone nowe pomniki i inne formy uczczenia pamięci poległych, pomordowanych i zamęczonych, jeśli mają one istotne uzasadnienie historyczne.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Każda ze Stron umieści w wykazie i zapewni ochronę wszystkich ujawnionych miejsc pamięci i spoczynku, powiadamiając o tym drugą Stronę.",
-   "children": []
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Strony utrzymują miejsca pamięci i spoczynku zapewniając ochronę grobów, nagrobków, pomników i innych obiektów upamiętniających oraz zazielenienie i zachowanie ich w należytym porządku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Strony będą dążyć do usunięcia z terenu otaczającego miejsca pamięci i spoczynku wszelkich obiektów nie licujących z powagą tych miejsc.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Strony zobowiązują się do natychmiastowego wzajemnego informowania się o wszystkich przypadkach wandalizmu wobec miejsc pamięci i spoczynku oraz do podejmowania niezwłocznych działań w celu przywrócenia tym miejscom należytego porządku, ukarania sprawców zgodnie z ustawodawstwem swojego państwa i zapobiegania podobnym aktom w przyszłości.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Urządzenie miejsc pamięci i spoczynku przewiduje wyznaczenie ich granic, postawienie nagrobków, znaków pamięci, pomników lub innych obiektów upamiętniających.",
-   "children": []
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Ekshumacja szczątków zwłok żołnierzy i osób cywilnych w celu identyfikacji pochowanych lub przekazania ich do pochowania w ojczyźnie będzie prowadzona wyłącznie na prośbę zainteresowanej Strony i za zgodą Strony, na której terytorium państwowym one spoczywają.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Po uzyskaniu zgody na ekshumację i przekazanie szczątków zwłok żołnierzy i osób cywilnych do pochowania w ojczyźnie Strony uzgodnią procedurę przeprowadzenia ekshumacji i przekazania szczątków zwłok, wraz ze znalezionymi przy nich przedmiotami osobistymi, dokumentami, odznaczeniami oraz dystynkcjami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Ekshumacja przeprowadzana jest przez kompetentnych specjalistów pod bezpośrednim nadzorem upoważnionych przedstawicieli Stron. Po zakończeniu prac ekshumacyjnych i przekazaniu szczątków zwłok sporządza się protokół, który między innymi stanowi podstawę przekazania znalezionych przy zwłokach przedmiotów nie wymienionych w ustępie 2 niniejszego artykułu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "W poszczególnych przypadkach, za zgodą Stron, sposób urządzenia i utrzymania miejsc pamięci i spoczynku może zostać dodatkowo sprecyzowany. Obok istniejących mogą być wznoszone nowe pomniki i inne formy uczczenia pamięci poległych, pomordowanych i zamęczonych, jeśli mają one istotne uzasadnienie historyczne.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony utrzymują miejsca pamięci i spoczynku zapewniając ochronę grobów, nagrobków, pomników i innych obiektów upamiętniających oraz zazielenienie i zachowanie ich w należytym porządku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą dążyć do usunięcia z terenu otaczającego miejsca pamięci i spoczynku wszelkich obiektów nie licujących z powagą tych miejsc.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony zobowiązują się do natychmiastowego wzajemnego informowania się o wszystkich przypadkach wandalizmu wobec miejsc pamięci i spoczynku oraz do podejmowania niezwłocznych działań w celu przywrócenia tym miejscom należytego porządku, ukarania sprawców zgodnie z ustawodawstwem swojego państwa i zapobiegania podobnym aktom w przyszłości.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Ekshumacja szczątków zwłok żołnierzy i osób cywilnych w celu identyfikacji pochowanych lub przekazania ich do pochowania w ojczyźnie będzie prowadzona wyłącznie na prośbę zainteresowanej Strony i za zgodą Strony, na której terytorium państwowym one spoczywają.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Po uzyskaniu zgody na ekshumację i przekazanie szczątków zwłok żołnierzy i osób cywilnych do pochowania w ojczyźnie Strony uzgodnią procedurę przeprowadzenia ekshumacji i przekazania szczątków zwłok, wraz ze znalezionymi przy nich przedmiotami osobistymi, dokumentami, odznaczeniami oraz dystynkcjami.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ekshumacja przeprowadzana jest przez kompetentnych specjalistów pod bezpośrednim nadzorem upoważnionych przedstawicieli Stron. Po zakończeniu prac ekshumacyjnych i przekazaniu szczątków zwłok sporządza się protokół, który między innymi stanowi podstawę przekazania znalezionych przy zwłokach przedmiotów nie wymienionych w ustępie 2 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zmiany miejsca spoczynku szczątków zwłok w państwie, w którym zostały one pochowane, odbywają się tylko w sytuacjach wyjątkowych, zgodnie z decyzją właściwych władz tej Strony, na której terytorium państwowym znajduje się miejsce spoczynku. O planowanej zmianie miejsca spoczynku będą niezwłocznie poinformowane właściwe władze drugiej Strony. Zmiany miejsca spoczynku, o których mowa powyżej, będą dokonywane przede wszystkich przez przeniesienie szczątków zwłok w istniejące miejsca spoczynku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zmiany miejsca spoczynku przeprowadzane będą przez właściwych specjalistów pod bezpośrednim nadzorem upoważnionych przedstawicieli Stron przy obowiązkowym przestrzeganiu ustawodawstwa Państwa, na którego terytorium odbywają się te zmiany. Po zakończeniu tych czynności sporządza się protokół.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Zmiany miejsca spoczynku szczątków zwłok w państwie, w którym zostały one pochowane, odbywają się tylko w sytuacjach wyjątkowych, zgodnie z decyzją właściwych władz tej Strony, na której terytorium państwowym znajduje się miejsce spoczynku. O planowanej zmianie miejsca spoczynku będą niezwłocznie poinformowane właściwe władze drugiej Strony. Zmiany miejsca spoczynku, o których mowa powyżej, będą dokonywane przede wszystkich przez przeniesienie szczątków zwłok w istniejące miejsca spoczynku.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "z 2013 =="
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeśli teren będący miejscem pamięci i spoczynku lub jego część, ze względu na wyższą konieczność państwową, jest niezbędny dla innych celów, to Strona, na której terytorium państwowym ten teren się znajduje, zmieni jego granice lub wydzieli inny odpowiedni teren i poniesie wszystkie koszty powtórnego pochówku i urządzenia cmentarza. Strony będą przeprowadzać konsultacje w celu wypracowania uzgodnionych decyzji w sprawach dotyczących wytyczenia nowych granic terenu lub wyboru nowego terenu oraz sposobu jego urządzenia, włącznie z przeniesieniem pomników, uwzględniając przy tym postanowienia ustępu 2 artykułu 1 niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron, po uzgodnieniu z drugą Stroną, przyjmie na swoim terytorium państwowym wyznaczone przez właściwe organy tej drugiej Strony specjalne grupy robocze, w celu przeprowadzenia przedsięwzięć związanych z ustaleniem danych osobowych poległych, pomordowanych i zamęczonych, ich upamiętnieniem oraz wykonania innych działań przewidzianych w artykułach 1—5 niniejszej umowy, na okres niezbędny do ich zakończenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda ze Stron zapewni, zgodnie z ustawodawstwem swego państwa, specjalnym grupom roboczym drugiej Strony wszystkie niezbędne warunki dla ich działalności, łącznie z udostępnieniem pomieszczeń roboczych i mieszkalnych, swobodą dostępu do miejsc pamięci i spoczynku oraz korzystaniem z wszelkich źródeł informacji dotyczących tych miejsc. Strony zobowiązują się do udzielania tym grupom wszelkiej możliwej pomocy i poparcia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Plany prac specjalnych grup roboczych podlegają uzgodnieniu z upoważnionymi przedstawicielami tego Państwa, na którego terytorium będą one prowadzone.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Upoważnieni przedstawiciele Stron mają prawo, bez wcześniejszego powiadamiania, zapoznać się z działalnością specjalnych grup roboczych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7 ©"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Sprzęt, środki transportu i materiały czasowo wwożone przez specjalne grupy robocze z terytorium jednego Państwa na terytorium drugiego Państwa, przeznaczone do urządzania miejsc pamięci i spoczynku, są zwolnione od ograniczeń przywozowych, należności celnych i zabezpieczenia tych należności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Powrotny wywóz urządzeń, środków transportu, a także nie wykorzystanych materiałów, o których mowa w ustępie 1 niniejszego artykułu, następuje w terminie nie dłuższym niż jeden miesiąc od zakończenia prac na terytorium Państwa, w którym były one wykonywane.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Organy celne Stron, nie później niż w ciągu trzech miesięcy od wejścia w życie niniejszej umowy, uzgodnią uproszczony tryb przemieszczania przez granice sprzętu, środków transportu i materiałów, o których mowa w ustępie 1 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron zobowiązuje się do finansowania wszelkich przedsięwzięć związanych z utrzymaniem na swoim terytorium państwowym przewidzianych w artykule 1 niniejszej umowy miejsc pamięci i spoczynku — polskich w Federacji Rosyjskiej i rosyjskich w Rzeczypospolitej Polskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Miejsca pamięci i spoczynku — polskie w Federacji Rosyjskiej i rosyjskie w Rzeczypospolitej Polskiej — również nowo odkryte, niezależnie od tego, na czyim terytorium się znajdują, będą urządzane na koszt zainteresowanej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Finansowanie przedsięwzięć wyszczegdlnionych w artykułach 4 i 5 niniejszej umowy ponosi zainteresowana Strona.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda ze Stron finansuje pobyt i działalność kierowanych przez siebie specjalnych grup roboczych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Każda ze Stron, kierując się dobrą wolą i uwzględniając realne możliwości, może w każdym konkretnym przypadku, w części lub całkowicie, podjąć się realizacji przedsięwzięć, o których mowa w ustępach 2—4 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Zmiany miejsca spoczynku przeprowadzane będą przez właściwych specjalistów pod bezpośrednim nadzorem upoważnionych przedstawicieli Stron przy obowiązkowym przestrzeganiu ustawodawstwa Państwa, na którego terytorium odbywają się te zmiany. Po zakończeniu tych czynności sporządza się protokół.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "z 2013 =="
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Nie później niż w dwa lata po wejściu w życie niniejszej umowy Strony przeprowadzą konsultacje w celu oceny jej realizacji, w szczególności wykonania postanowień artykułu 8 niniejszej umowy i określenia priorytetowych kierunków dalszej współpracy. Kolejne konsultacje będą przeprowadzane z reguły nie rzadziej niż raz w roku. Ustalenia co do działań w celu realizacji ustępu 5 artykułu 8 niniejszej umowy, przyjęte przez Strony w trakcie konsultacji, będą sporządzane w formie protokołów dodatkowych do niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Jeśli teren będący miejscem pamięci i spoczynku lub jego część, ze względu na wyższą konieczność państwową, jest niezbędny dla innych celów, to Strona, na której terytorium państwowym ten teren się znajduje, zmieni jego granice lub wydzieli inny odpowiedni teren i poniesie wszystkie koszty powtórnego pochówku i urządzenia cmentarza. Strony będą przeprowadzać konsultacje w celu wypracowania uzgodnionych decyzji w sprawach dotyczących wytyczenia nowych granic terenu lub wyboru nowego terenu oraz sposobu jego urządzenia, włącznie z przeniesieniem pomników, uwzględniając przy tym postanowienia ustępu 2 artykułu 1 niniejszej umowy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron, zgodnie z ustawodawstwem swojego Państwa, zapewni na swoim terytorium państwowym swobodny dostęp obywateli obu Państw do miejsc pamięci i spoczynku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony, stosownie do potrzeb, będą sprzyjać zakładaniu i utrzymywaniu muzeów i ośrodków spotkań w pobliżu miejsc pamięci i spoczynku, w celu zapoznania z przeszłością zainteresowanych osób, głównie młodzieży, i podejmowania działań na rzecz pojednania narodów.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Każda ze Stron, po uzgodnieniu z drugą Stroną, przyjmie na swoim terytorium państwowym wyznaczone przez właściwe organy tej drugiej Strony specjalne grupy robocze, w celu przeprowadzenia przedsięwzięć związanych z ustaleniem danych osobowych poległych, pomordowanych i zamęczonych, ich upamiętnieniem oraz wykonania innych działań przewidzianych w artykułach 1—5 niniejszej umowy, na okres niezbędny do ich zakończenia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każda ze Stron wyznaczy upoważniony organ odpowiedzialny za koordynację działań związanych z wykonywaniem postanowień niniejszej umowy."
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Każda ze Stron zapewni, zgodnie z ustawodawstwem swego państwa, specjalnym grupom roboczym drugiej Strony wszystkie niezbędne warunki dla ich działalności, łącznie z udostępnieniem pomieszczeń roboczych i mieszkalnych, swobodą dostępu do miejsc pamięci i spoczynku oraz korzystaniem z wszelkich źródeł informacji dotyczących tych miejsc. Strony zobowiązują się do udzielania tym grupom wszelkiej możliwej pomocy i poparcia.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Plany prac specjalnych grup roboczych podlegają uzgodnieniu z upoważnionymi przedstawicielami tego Państwa, na którego terytorium będą one prowadzone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Upoważnieni przedstawiciele Stron mają prawo, bez wcześniejszego powiadamiania, zapoznać się z działalnością specjalnych grup roboczych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 7 ©"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Sprzęt, środki transportu i materiały czasowo wwożone przez specjalne grupy robocze z terytorium jednego Państwa na terytorium drugiego Państwa, przeznaczone do urządzania miejsc pamięci i spoczynku, są zwolnione od ograniczeń przywozowych, należności celnych i zabezpieczenia tych należności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Powrotny wywóz urządzeń, środków transportu, a także nie wykorzystanych materiałów, o których mowa w ustępie 1 niniejszego artykułu, następuje w terminie nie dłuższym niż jeden miesiąc od zakończenia prac na terytorium Państwa, w którym były one wykonywane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Organy celne Stron, nie później niż w ciągu trzech miesięcy od wejścia w życie niniejszej umowy, uzgodnią uproszczony tryb przemieszczania przez granice sprzętu, środków transportu i materiałów, o których mowa w ustępie 1 niniejszego artykułu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Każda ze Stron zobowiązuje się do finansowania wszelkich przedsięwzięć związanych z utrzymaniem na swoim terytorium państwowym przewidzianych w artykule 1 niniejszej umowy miejsc pamięci i spoczynku — polskich w Federacji Rosyjskiej i rosyjskich w Rzeczypospolitej Polskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Miejsca pamięci i spoczynku — polskie w Federacji Rosyjskiej i rosyjskie w Rzeczypospolitej Polskiej — również nowo odkryte, niezależnie od tego, na czyim terytorium się znajdują, będą urządzane na koszt zainteresowanej Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Finansowanie przedsięwzięć wyszczegdlnionych w artykułach 4 i 5 niniejszej umowy ponosi zainteresowana Strona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Każda ze Stron finansuje pobyt i działalność kierowanych przez siebie specjalnych grup roboczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Każda ze Stron, kierując się dobrą wolą i uwzględniając realne możliwości, może w każdym konkretnym przypadku, w części lub całkowicie, podjąć się realizacji przedsięwzięć, o których mowa w ustępach 2—4 niniejszego artykułu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Nie później niż w dwa lata po wejściu w życie niniejszej umowy Strony przeprowadzą konsultacje w celu oceny jej realizacji, w szczególności wykonania postanowień artykułu 8 niniejszej umowy i określenia priorytetowych kierunków dalszej współpracy. Kolejne konsultacje będą przeprowadzane z reguły nie rzadziej niż raz w roku. Ustalenia co do działań w celu realizacji ustępu 5 artykułu 8 niniejszej umowy, przyjęte przez Strony w trakcie konsultacji, będą sporządzane w formie protokołów dodatkowych do niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Każda ze Stron, zgodnie z ustawodawstwem swojego Państwa, zapewni na swoim terytorium państwowym swobodny dostęp obywateli obu Państw do miejsc pamięci i spoczynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Strony, stosownie do potrzeb, będą sprzyjać zakładaniu i utrzymywaniu muzeów i ośrodków spotkań w pobliżu miejsc pamięci i spoczynku, w celu zapoznania z przeszłością zainteresowanych osób, głównie młodzieży, i podejmowania działań na rzecz pojednania narodów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Każda ze Stron wyznaczy upoważniony organ odpowiedzialny za koordynację działań związanych z wykonywaniem postanowień niniejszej umowy.",
+   "children": [
     {
      "type": "text",
      "text": "Artykuł 12 -"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Niniejsza umowa wchodzi w życie po upływie trzydziestu dni od daty późniejszego z powiadomień potwierdzających wykonanie przez każdą ze Stron procedur wewnętrzych niezbędnych do jej wejścia w życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Niniejsza umowa zawarta jest na czas nieokreślony. Może być ona wypowiedziana przez każdą ze Stron w drodze przekazania drugiej Stronie pisemnego powiadomienia. W takim przypadku umowa utraci moc po upływie sześciu - miesięcy od dnia wysłania powiadomienia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa wchodzi w życie po upływie trzydziestu dni od daty późniejszego z powiadomień potwierdzających wykonanie przez każdą ze Stron procedur wewnętrzych niezbędnych do jej wejścia w życie.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Krakowie dnia 22 lutego 1994 r. w dwóch egzemplarzach, każdy w językach polskim i rosyjskim, przy czym obydwa teksty mają jednakową moc."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa zawarta jest na czas nieokreślony. Może być ona wypowiedziana przez każdą ze Stron w drodze przekazania drugiej Stronie pisemnego powiadomienia. W takim przypadku umowa utraci moc po upływie sześciu - miesięcy od dnia wysłania powiadomienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sporządzono w Krakowie dnia 22 lutego 1994 r. w dwóch egzemplarzach, każdy w językach polskim i rosyjskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Federacji Rosyjskiej Rzeczypospolitej Polskiej A. Kozyriew"
-    },
-    {
-     "type": "text",
-     "text": "A. Olechowski"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "WSPÓLNE OŚWIADCZENIE MINISTRÓW SPRAW ZAGRANICZNYCH RZECZYPOSPOLITEJ POLSKIEJ I FEDERACJI ROSYJSKIEJ"
-    },
-    {
-     "type": "text",
-     "text": "W związku z podpisaniem dnia 22 lutego 1994 r. w Krakowie Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Federacji Rosyjskiej o grobach i miejscach pamięci ofiar wojen i represji oraz dążąc do budowania stosunków polsko-rosyjskich na jakościowo nowej podstawie, a także do przezwyciężenia negatywnej spuścizny przeszłości, mając świadomość ogromu cierpień spowodowanych przez reżim stalinowski, a także pamiętając o niepowetowanych stratach, jakie poniosły narody Polski i Rosji, Ministrowie Spraw Zagranicznych Rzeczypospolitej Polskiej i Federacji Rosyjskiej wyrażają przekonanie, że miejsca pamięci i spoczynku ofiar wojen i represji, obywateli polskich na terytorium Federacji Rosyjskiej i rosyjskich na terytorium Rzeczypospolitej Polskiej, powinny być objęte należnym staraniem i opieką."
-    },
-    {
-     "type": "text",
-     "text": "Kierując się dobrą wolą i wartościami humanitarnymi, Strona rosyjska zamierza rozpocząć w maju 1994 r. w Katyniu i Miednoje ekshumację szczątków ofiar totalitaryzmu, w tym oficerów polskich, oraz uczestniczyć w godnym ich pamięci pochowaniu. Strona rosyjska oświadcza, iż jest gotowa ponieść związane z tym koszty oraz udzielić pomocy w urządzeniu cmentarzy-pomników w Katyniu i Miednoje."
-    },
-    {
-     "type": "text",
-     "text": "Strona rosyjska zamierza również udzielać dalszej pomocy w pracach nad urządzaniem innych cmentarzy w miejscach martyrologii obywateli polskich na terytorium Federacji Rosyjskiej."
-    },
-    {
-     "type": "text",
-     "text": "Strona polska oświadcza, iż jest gotowa ściśle współdziałać ze Stroną rosyjską dla zapewnienia należytej troski o znajdujące się na terytorium Polski miejsca spoczynku żołnierzy nie objęte działaniem umowy. Decyzje pociągające za sobą zmianę statusu takich miejsc spoczynku będą podejmowane po uprzednim poinformowaniu urzędów konsularnych Rosji w Polsce."
-    },
-    {
-     "type": "text",
-     "text": "Obie Strony będą rozwijać współpracę w celu zachowania na swoich terytoriach państwowych miejsc pamięci związanych z historią Polski i Rosji."
-    },
-    {
-     "type": "text",
-     "text": "A. Olechowski"
-    },
-    {
-     "type": "text",
-     "text": "A. Kozyriew"
-    }
-   ]
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Federacji Rosyjskiej Rzeczypospolitej Polskiej A. Kozyriew"
+  },
+  {
+   "type": "text",
+   "text": "A. Olechowski"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "WSPÓLNE OŚWIADCZENIE MINISTRÓW SPRAW ZAGRANICZNYCH RZECZYPOSPOLITEJ POLSKIEJ I FEDERACJI ROSYJSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "W związku z podpisaniem dnia 22 lutego 1994 r. w Krakowie Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Federacji Rosyjskiej o grobach i miejscach pamięci ofiar wojen i represji oraz dążąc do budowania stosunków polsko-rosyjskich na jakościowo nowej podstawie, a także do przezwyciężenia negatywnej spuścizny przeszłości, mając świadomość ogromu cierpień spowodowanych przez reżim stalinowski, a także pamiętając o niepowetowanych stratach, jakie poniosły narody Polski i Rosji, Ministrowie Spraw Zagranicznych Rzeczypospolitej Polskiej i Federacji Rosyjskiej wyrażają przekonanie, że miejsca pamięci i spoczynku ofiar wojen i represji, obywateli polskich na terytorium Federacji Rosyjskiej i rosyjskich na terytorium Rzeczypospolitej Polskiej, powinny być objęte należnym staraniem i opieką."
+  },
+  {
+   "type": "text",
+   "text": "Kierując się dobrą wolą i wartościami humanitarnymi, Strona rosyjska zamierza rozpocząć w maju 1994 r. w Katyniu i Miednoje ekshumację szczątków ofiar totalitaryzmu, w tym oficerów polskich, oraz uczestniczyć w godnym ich pamięci pochowaniu. Strona rosyjska oświadcza, iż jest gotowa ponieść związane z tym koszty oraz udzielić pomocy w urządzeniu cmentarzy-pomników w Katyniu i Miednoje."
+  },
+  {
+   "type": "text",
+   "text": "Strona rosyjska zamierza również udzielać dalszej pomocy w pracach nad urządzaniem innych cmentarzy w miejscach martyrologii obywateli polskich na terytorium Federacji Rosyjskiej."
+  },
+  {
+   "type": "text",
+   "text": "Strona polska oświadcza, iż jest gotowa ściśle współdziałać ze Stroną rosyjską dla zapewnienia należytej troski o znajdujące się na terytorium Polski miejsca spoczynku żołnierzy nie objęte działaniem umowy. Decyzje pociągające za sobą zmianę statusu takich miejsc spoczynku będą podejmowane po uprzednim poinformowaniu urzędów konsularnych Rosji w Polsce."
+  },
+  {
+   "type": "text",
+   "text": "Obie Strony będą rozwijać współpracę w celu zachowania na swoich terytoriach państwowych miejsc pamięci związanych z historią Polski i Rosji."
+  },
+  {
+   "type": "text",
+   "text": "A. Olechowski"
+  },
+  {
+   "type": "text",
+   "text": "A. Kozyriew"
   }
  ],
  "annexes": [],

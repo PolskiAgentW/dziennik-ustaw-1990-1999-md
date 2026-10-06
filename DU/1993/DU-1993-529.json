@@ -81,244 +81,257 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Zgodnie z celami i zasadami Karty Narodów Zjednoczonych i dokumentami Konferencji Bezpieczeństwa i Współpracy w Europie Umawiające się Strony będą rozwijać swoje stosunki na podstawie zasad suwerennej równości, poszanowania praw wynikających z suwerenności, powstrzymywania się od groźby użycia siły lub jej użycia, nienaruszalności granic, integralności terytorialnej Państw, pokojowego załatwiania sporów, nieingerencji w sprawy wewnętrzne, poszanowania praw człowieka i podstawowych wolności, włączając w to wolność myśli, sumienia, religii lub przekonań, równouprawnienia i prawa narodów do samostanowienia, współpracy między państwami i wykonywania w dobrej wierze zobowiązań wynikających z prawa międzynarodowego.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Zgodnie z celami i zasadami Karty Narodów Zjednoczonych i dokumentami Konferencji Bezpieczeństwa i Współpracy w Europie Umawiające się Strony będą rozwijać swoje stosunki na podstawie zasad suwerennej równości, poszanowania praw wynikających z suwerenności, powstrzymywania się od groźby użycia siły lub jej użycia, nienaruszalności granic, integralności terytorialnej Państw, pokojowego załatwiania sporów, nieingerencji w sprawy wewnętrzne, poszanowania praw człowieka i podstawowych wolności, włączając w to wolność myśli, sumienia, religii lub przekonań, równouprawnienia i prawa narodów do samostanowienia, współpracy między państwami i wykonywania w dobrej wierze zobowiązań wynikających z prawa międzynarodowego."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony będą wszechstronnie wspierać tworzenie skutecznego ogólnoeuropejskiego systemu bezpieczeństwa, współpracy i zaufania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Będą one dążyć do redukcji sił zbrojnych i zbrojeń w Europie w celu osiągnięcia możliwie najniższego poziomu wystarczającego do obrony, lecz nie dającego możliwości ataku."
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Jeżeli jedna z Umawiających się Stron uzna, że powstała sytuacja międzynarodowa, która może zagrozić iub naruszyć jej suwerenność, integralność terytorialną lub inne żywotnie ważne dla jej bezpieczeństwa interesy, Umawiające się Strony niezwłocznie przystąpią do konsultacji w sprawie najskuteczniejszego sposobu zapobieżenia wskazanej groźbie lub naruszeniu, zgodnie z Kartą Narodów Zjednoczonych, Aktem końcowym z Helsinek i innymi dokumentami Konferencji Bezpieczeństwa i Współpracy w Europie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wskazana w ustępie pierwszym niniejszego artykułu sytuacja międzynarodowa dotyczy przede wszystkim interwencji, groźby lub użycia siły, w tym aktu agresji oraz innego zagrożenia lub naruszenia pokoju."
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą wszechstronnie wspierać tworzenie skutecznego ogólnoeuropejskiego systemu bezpieczeństwa, współpracy i zaufania."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą współdziałać na rzecz rozwoju współpracy regionalnej jako ważnego czynnika umacniania międzynarodowego zaufania i bezpieczeństwa oraz zapewnienia dobrobytu narodom Europy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą współpracować w realizacji projektów i inicjatyw regionalnych. Każda z Umawiających się Stron będzie ułatwiać drugiej Umawiającej się Stronie rozwijanie kontaktów z organizacjami regionalnymi, w których jest pełnoprawnym członkiem."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "Będą one dążyć do redukcji sił zbrojnych i zbrojeń w Europie w celu osiągnięcia możliwie najniższego poziomu wystarczającego do obrony, lecz nie dającego możliwości ataku."
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą wymieniać doświadczenia i okazywać sobie wzajemną pomoc w wysiłkach mających na celu integrację polityczną i ekonomiczną ze Wspólnotami Europejskimi oraz innymi strukturami i instytucjami jednoczącej się Europy.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Umawiające się Strony będą rozwijać dwustronne stosunki na szerokich, stabilnych i zrównoważonych podstawach. W tym celu będą utrzymywać kontakty między przedstawicielami władzy ustawodawczej i wykonawczej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Będą one przeprowadzać regularne konsultacje między Ministerstwami Spraw Zagranicznych obu Państw na temat aktualnych zagadnień współpracy dwustronnej i sytuacji międzynarodowej."
+    }
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "Jeżeli jedna z Umawiających się Stron uzna, że powstała sytuacja międzynarodowa, która może zagrozić iub naruszyć jej suwerenność, integralność terytorialną lub inne żywotnie ważne dla jej bezpieczeństwa interesy, Umawiające się Strony niezwłocznie przystąpią do konsultacji w sprawie najskuteczniejszego sposobu zapobieżenia wskazanej groźbie lub naruszeniu, zgodnie z Kartą Narodów Zjednoczonych, Aktem końcowym z Helsinek i innymi dokumentami Konferencji Bezpieczeństwa i Współpracy w Europie."
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą popierać kontakty między obywatelami obu Państw, partiami politycznymi, ruchami i organizacjami społecznymi, związkami zawodowymi, kościołami i związkami wyznaniowymi, organizacjami profesjonalnymi i związkami twórczymi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą stwarzać warunki wszechstronnej współpracy i wymiany młodzieży."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać rozwój kontaktów i bezpośrednią współpracę jednostek administracyjno-terytorialnych i regionów."
+    }
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "Wskazana w ustępie pierwszym niniejszego artykułu sytuacja międzynarodowa dotyczy przede wszystkim interwencji, groźby lub użycia siły, w tym aktu agresji oraz innego zagrożenia lub naruszenia pokoju."
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Żadna z Umawiających się Stron nie będzie stawiała przeszkód obywatelom drugiej Umawiającej się Strony, posiadającym prawo do stałego pobytu na jej terytorium, oraz własnym obywatelom pochodzenia drugiej Umawiającej się Strony, na równi z innymi swoimi obywatelami, w zachowaniu i rozwijaniu swojego języka i kultury oraz praktykowaniu religii.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą wspierać działalność Stowarzyszenia Kulturalno- Oświatowego imienia Christo Botewa w Polsce oraz Polskiego Stowarzyszenia Kulturalno- -Oświatowego imienia Władysława Warneńczyka w Bułgarii. Będą one stwarzać warunki do prowadzenia przez te stowarzyszenia działalności gospodarczej w celu uzyskania środków finansowych na realizację ich statutowych celów."
+    }
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Umawiające się Strony będą rozwijać i wzbogacać dwustronne związki gospodarcze zgodnie z zasadami równości, partnerskiej współpracy i wzajemnych korzyści.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą wspierać ustanowienie bezpośrednich więzów współpracy między podmiotami gospodarczymi w obu Państwach."
+    },
+    {
+     "type": "text",
+     "text": "Warunki współpracy obu Państw w dziedzinie gospodarki, handlu, finansów oraz turystyki regulują odrębne"
+    },
+    {
+     "type": "text",
+     "text": "umowy."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą dążyć do dostosowania umów dwustronnych w tych dziedzinach do zasad i mechanizmów gospodarki rynkowej i pogłębionej integracji gospodarczej w Europie oraz będą współdziałać na rzecz usuwania barier dzielących Europę w zależności od poziomu rozwoju."
+    }
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą współdziałać na rzecz rozwoju współpracy regionalnej jako ważnego czynnika umacniania międzynarodowego zaufania i bezpieczeństwa oraz zapewnienia dobrobytu narodom Europy."
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony będą rozwijać i ułatwiać, na podstawie odrębnych porozumień, współpracę naukową i techniczną.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać bezpośrednią współpracę między uczelniami, ośrodkami i instytutami naukowo-badawczymi obu Państw, a także wymianę uczonych i szkolenie specjalistów."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą ułatwiać wymianę informacji i dokumentacji naukowo-technicznej oraz dostęp do instytutów naukowo-badawczych, archiwów i bibliotek."
+    }
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą współpracować w realizacji projektów i inicjatyw regionalnych. Każda z Umawiających się Stron będzie ułatwiać drugiej Umawiającej się Stronie rozwijanie kontaktów z organizacjami regionalnymi, w których jest pełnoprawnym członkiem."
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "W oparciu o odrębne porozumienia Umawiające się Strony będą rozwijać współpracę w dziedzinie ochrony środowiska.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą uczestniczyć w tworzeniu i realizacji skoordynowanej strategii i koncepcji ochrony środowiska w skali regionalnej i europejskiej. Będą współpracować w opracowywaniu i realizacji projektów, opartych na uwzględniających ekologię technologiach, ze szczególnym uwzględnieniem zgodnego z wymogami ekorozwoju wykorzystania zasobów naturalnych i energetycznych."
+    }
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "note",
-   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Na podstawie odrębnych umów i programów Umawiające się Strony będą rozwijać współpracę w dziedzinie kultury i edukacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą współpracować w realizacji uzgodnień podjętych w ramach procesu ogólnoeuropejskiego, dotyczących współpracy kulturalnej. Będą współdziałać w dziedzinach regulowanych przez wielostronne umowy kulturalne, których są stronami, oraz w międzynarodowych organizacjach kulturalnych."
+    },
+    {
+     "type": "text",
+     "text": "Będą one wspierać rozwój bułgarystyki w Rzeczypospolitej Polskiej i polonistyki w Republice Bułgarii."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać swobodny wzajemny przepływ informacji o życiu społecznym, kulturalnym i naukowym w swoich Państwach. W szczególności będą dążyć do zapewnienia obiektywnej informacji o drugim Państwie w procesie nauczania i wychowania młodzieży, w wydawnictwach państwowych i podręcznikach."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą wspierać na zasadzie wzajemności działalność ośrodków informacji i kultury Rzeczypospolitej Polskiej i Republiki Bułgarii w obu Państwach."
+    }
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Umawiające się Strony będą rozwijać w oparciu o odpowiednie umowy wszechstronną współpracę w dziedzinie ochrony zdrowia, higieny sanitarnejj w tym w zakresie zapobiegania i zwalczania chorób zakaźnych oraz epidemii.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą dążyć do ścisłej współpracy w dziedzinie stosunków pracy, ubezpieczeń i opieki społecznej."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą wymieniać doświadczenia i okazywać sobie wzajemną pomoc w wysiłkach mających na celu integrację polityczną i ekonomiczną ze Wspólnotami Europejskimi oraz innymi strukturami i instytucjami jednoczącej się Europy."
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Umawiające się Strony będą rozwijać współpracę w dziedzinie sportu.",
+   "children": [],
+   "label": "Artykuł 14"
   },
   {
-   "type": "text",
-   "text": "Artykuł 6"
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Współpracę Umawiających się Stron w dziedzinie stosunków prawnych i konsularnych regulują odrębne umowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony, w oparciu o umowy wielostronne i dwustronne, będą współpracować w zwalczaniu zorganizowanej przestępczości, w tym zwłaszcza terroryzmu, nielegalnego handlu narkotykami, przemytu broni oraz dóbr kulturalnych i historycznych."
+    }
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać dwustronne stosunki na szerokich, stabilnych i zrównoważonych podstawach. W tym celu będą utrzymywać kontakty między przedstawicielami władzy ustawodawczej i wykonawczej."
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Układ niniejszy nie narusza praw i zobowiązań, które wynikają z umów dwustronnych i wielostronnych, obowiązujących w stosunkach każdej z Umawiających się Stron z innymi państwami.",
+   "children": [],
+   "label": "Artykuł 16"
   },
   {
-   "type": "text",
-   "text": "Będą one przeprowadzać regularne konsultacje między Ministerstwami Spraw Zagranicznych obu Państw na temat aktualnych zagadnień współpracy dwustronnej i sytuacji międzynarodowej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać kontakty między obywatelami obu Państw, partiami politycznymi, ruchami i organizacjami społecznymi, związkami zawodowymi, kościołami i związkami wyznaniowymi, organizacjami profesjonalnymi i związkami twórczymi."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą stwarzać warunki wszechstronnej współpracy i wymiany młodzieży."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać rozwój kontaktów i bezpośrednią współpracę jednostek administracyjno-terytorialnych i regionów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "Żadna z Umawiających się Stron nie będzie stawiała przeszkód obywatelom drugiej Umawiającej się Strony, posiadającym prawo do stałego pobytu na jej terytorium, oraz własnym obywatelom pochodzenia drugiej Umawiającej się Strony, na równi z innymi swoimi obywatelami, w zachowaniu i rozwijaniu swojego języka i kultury oraz praktykowaniu religii."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą wspierać działalność Stowarzyszenia Kulturalno- Oświatowego imienia Christo Botewa w Polsce oraz Polskiego Stowarzyszenia Kulturalno- -Oświatowego imienia Władysława Warneńczyka w Bułgarii. Będą one stwarzać warunki do prowadzenia przez te stowarzyszenia działalności gospodarczej w celu uzyskania środków finansowych na realizację ich statutowych celów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać i wzbogacać dwustronne związki gospodarcze zgodnie z zasadami równości, partnerskiej współpracy i wzajemnych korzyści."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą wspierać ustanowienie bezpośrednich więzów współpracy między podmiotami gospodarczymi w obu Państwach."
-  },
-  {
-   "type": "text",
-   "text": "Warunki współpracy obu Państw w dziedzinie gospodarki, handlu, finansów oraz turystyki regulują odrębne"
-  },
-  {
-   "type": "text",
-   "text": "umowy."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą dążyć do dostosowania umów dwustronnych w tych dziedzinach do zasad i mechanizmów gospodarki rynkowej i pogłębionej integracji gospodarczej w Europie oraz będą współdziałać na rzecz usuwania barier dzielących Europę w zależności od poziomu rozwoju."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać i ułatwiać, na podstawie odrębnych porozumień, współpracę naukową i techniczną."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać bezpośrednią współpracę między uczelniami, ośrodkami i instytutami naukowo-badawczymi obu Państw, a także wymianę uczonych i szkolenie specjalistów."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą ułatwiać wymianę informacji i dokumentacji naukowo-technicznej oraz dostęp do instytutów naukowo-badawczych, archiwów i bibliotek."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "W oparciu o odrębne porozumienia Umawiające się Strony będą rozwijać współpracę w dziedzinie ochrony środowiska."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą uczestniczyć w tworzeniu i realizacji skoordynowanej strategii i koncepcji ochrony środowiska w skali regionalnej i europejskiej. Będą współpracować w opracowywaniu i realizacji projektów, opartych na uwzględniających ekologię technologiach, ze szczególnym uwzględnieniem zgodnego z wymogami ekorozwoju wykorzystania zasobów naturalnych i energetycznych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Na podstawie odrębnych umów i programów Umawiające się Strony będą rozwijać współpracę w dziedzinie kultury i edukacji."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współpracować w realizacji uzgodnień podjętych w ramach procesu ogólnoeuropejskiego, dotyczących współpracy kulturalnej. Będą współdziałać w dziedzinach regulowanych przez wielostronne umowy kulturalne, których są stronami, oraz w międzynarodowych organizacjach kulturalnych."
-  },
-  {
-   "type": "text",
-   "text": "Będą one wspierać rozwój bułgarystyki w Rzeczypospolitej Polskiej i polonistyki w Republice Bułgarii."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać swobodny wzajemny przepływ informacji o życiu społecznym, kulturalnym i naukowym w swoich Państwach. W szczególności będą dążyć do zapewnienia obiektywnej informacji o drugim Państwie w procesie nauczania i wychowania młodzieży, w wydawnictwach państwowych i podręcznikach."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą wspierać na zasadzie wzajemności działalność ośrodków informacji i kultury Rzeczypospolitej Polskiej i Republiki Bułgarii w obu Państwach."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać w oparciu o odpowiednie umowy wszechstronną współpracę w dziedzinie ochrony zdrowia, higieny sanitarnejj w tym w zakresie zapobiegania i zwalczania chorób zakaźnych oraz epidemii."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą dążyć do ścisłej współpracy w dziedzinie stosunków pracy, ubezpieczeń i opieki społecznej."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać współpracę w dziedzinie sportu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 15"
-  },
-  {
-   "type": "text",
-   "text": "Współpracę Umawiających się Stron w dziedzinie stosunków prawnych i konsularnych regulują odrębne umowy."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony, w oparciu o umowy wielostronne i dwustronne, będą współpracować w zwalczaniu zorganizowanej przestępczości, w tym zwłaszcza terroryzmu, nielegalnego handlu narkotykami, przemytu broni oraz dóbr kulturalnych i historycznych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "text",
-   "text": "Układ niniejszy nie narusza praw i zobowiązań, które wynikają z umów dwustronnych i wielostronnych, obowiązujących w stosunkach każdej z Umawiających się Stron z innymi państwami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 17"
-  },
-  {
-   "type": "text",
-   "text": "Niniejszy układ podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych."
-  },
-  {
-   "type": "text",
-   "text": "Z tym dniem traci moc Układ między Polską Rzecząpospolitą Ludową a Ludową Republiką Bułgarii o przyjaźni, współpracy i wzajemnej pomocy, podpisany w Sofii dnia 6 kwietnia 1967 r."
-  },
-  {
-   "type": "text",
-   "text": "Układ niniejszy zostaje zawarty na okres dziesięciu lat. Ulega on automatycznemu przedłużeniu na pięcioletnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie go w drodze notyfikacji na rok przed upływem danego okresu."
-  },
-  {
-   "type": "text",
-   "text": "Podpisano w Warszawie dnia 25 lutego 1993 r. w dwóch egzemplarzach, każdy w językach polskim i bułgarskim, przy czym oba teksty mają jednakową moc."
-  },
-  {
-   "type": "text",
-   "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Bułgarii L. Wałęsa Z. Żelew"
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Niniejszy układ podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Z tym dniem traci moc Układ między Polską Rzecząpospolitą Ludową a Ludową Republiką Bułgarii o przyjaźni, współpracy i wzajemnej pomocy, podpisany w Sofii dnia 6 kwietnia 1967 r."
+    },
+    {
+     "type": "text",
+     "text": "Układ niniejszy zostaje zawarty na okres dziesięciu lat. Ulega on automatycznemu przedłużeniu na pięcioletnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie go w drodze notyfikacji na rok przed upływem danego okresu."
+    },
+    {
+     "type": "text",
+     "text": "Podpisano w Warszawie dnia 25 lutego 1993 r. w dwóch egzemplarzach, każdy w językach polskim i bułgarskim, przy czym oba teksty mają jednakową moc."
+    },
+    {
+     "type": "text",
+     "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Bułgarii L. Wałęsa Z. Żelew"
+    }
+   ],
+   "label": "Artykuł 17"
   },
   {
    "type": "text",

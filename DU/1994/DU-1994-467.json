@@ -96,463 +96,464 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszego traktatu:",
+   "path": "art_1",
+   "text": "Definicje",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "„spółka Strony” oznacza każdy rodzaj korporacji, spółki, zrzeszenia przedsiębiorstwa państwowego lub innej organizacji utworzonej zgodnie z prawem Strony lub jej jednostki politycznej, niezależnie od tego, czy zostały utworzone w celu osiągania zysku i czy są własnścią prywatną czy rządową,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": ",,inwestycja” oznacza każdy rodzaj inwestycji na terytorium jednej ze Stron, będącej własnością lub znajdującej się pod bezpośrednią lub pośrednią kontrolą obywateli lub spółek drugiej Strony, i obejmuje:",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_1/lit_i",
-     "text": "dobra materialne i niematerialne, w tym prawa, takie jak hipoteka, prawo zatrzymania i zastaw;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_1/lit_ii",
-     "text": "spółkę, akcję lub inne udziały w spółce lub prawa do jej mienia;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "iii",
-     "path": "ust_1/lit_iii",
-     "text": "roszczenie pieniężne lub roszczenie o określone świadczenie mające wartość gospodarczą, związane z inwestycją;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "iv",
-     "path": "ust_1/lit_iv",
-     "text": "własność intelektualną, w tym, między innymi, prawa odnoszące się do prac literackich i artystycznych, włączając nagrania dźwiękowe, patentów, wzorów przemysłowych, dokumentacji projektowej topologii półprzewodnikowego układu scalonego, tajemnic handlowych oraz znaków towarowych, znaków usługowych i nazw handlowych",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "oraz"
-    },
-    {
-     "type": "lit",
-     "num": "v",
-     "path": "ust_1/lit_v",
-     "text": "jakiekolwiek uprawnienie wynikające z prawa lub umowy i jakiekolwiek koncesje i zezwolenia, wydane zgodnie z prawem",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "„obywatel Strony” oznacza osobę fizyczną, która zgodnie z prawem tej Strony jest jej obywatelem,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "„przychód” oznacza każdą kwotę uzyskaną z inwestycji lub związaną z inwestycją, włączając w to zysk, dywidendę, odsetki, zysk kapitałowy, opłatę licencyjną, opłatę związaną z zarządzaniem i pomocą techniczną lub inne opłaty, lub przychody w naturze,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "„działalność towarzysząca” jest to działalność związana z inwestycją, taka jak organizacja, kontrola, prowadzenie, utrzymywanie, rozporządzanie spółkami, oddziałami, agendami, biurami, fabrykami lub innymi urządzeniami służącymi do prowadzenia działalności gospodarczej; zawieranie, wykonywanie i egzekwowanie umów; nabywanie, używanie, ochrona i rozporządzanie jakąkolwiek własnością, w tym prawami własności intelektualnej; zaciąganie kredytu; kupno i emisja akcji i innych papierów wartościowych oraz zakup dewiz,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "„niedyskryminacyjne” traktowanie oznacza traktowanie, które jest co najmniej tak korzystne, jak traktowanie narodowe lub traktowanie zgodne z zasadą największego uprzywilejowania, w zależności od tego, które z nich jest korzystniejsze,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "„traktowanie narodowe” oznacza traktowanie, które jest co najmniej tak korzystne, jak najlepsze traktowanie przyznane przez Stronę spółkom lub obywatelom tej Strony w podobnych warunkach,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_1/lit_h",
-     "text": "„traktowanie oparte na zasadzie największego uprzywilejowania” oznacza traktowanie, które jest co najmniej tak korzystne, jak traktowanie przyznane przez Stronę w podobnych warunkach spółkom i obywatelom stron trzecich,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_1/lit_i",
-     "text": "„działalność handlowa” oznacza działalność prowadzoną przez obywateli lub spółki Strony, w związku ze sprzedażą lub kupnem towarów i usług, udzieleniem franszyzy lub praw licencyjnych, która nie jest inwestycją lub działalnością towarzyszącą oraz",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "j",
-     "path": "ust_1/lit_j",
-     "text": "„kontrola” oznacza posiadanie znacznego udziału lub możliwość wywierania istotnego wpływu na zarządzanie i prowadzenie inwestycji, z zastrzeżeniem, że taki wpływ nie będzie wynikał z czysto umownych stosunków dotyczących dostawy towarów lub usług albo kredytu handlowego udzielonego w związku z takimi dostawami.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda ze Stron zastrzega sobie prawo do odmówienia jakiejkolwiek spółce korzyści wynikających z niniejszego traktatu, jeżeli obywatele któregokolwiek trzeciego państwa kontrolują taką spółkę i, w przypadku spółki drugiej Strony, jeżeli spółka taka nie prowadzi istotnej działalności handlowej na terytorium tej drugiej Strony lub jest kontrolowana przez obywateli państwa trzeciego, z którym Strona odmawiająca korzyści nie utrzymuje normalnych stosunków gospodarczych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jakakolwiek zmiana formy, w której mienie zostało zainwestowane lub reinwestowane, dokonana zgodnie z prawem zainteresowanej Strony, z zastrzeżeniem, iż zastosowanie tego prawa nie naruszy jakichkolwiek uprawnień wynikających z niniejszego traktatu, nie wpłynie na zmianę jego charakteru jako inwestycji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł II"
-    },
-    {
-     "type": "text",
-     "text": "Traktowanie inwestycji"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron zezwoli, zgodnie ze swym mającym zastosowanie ustawodawstwem, i będzie traktowała inwestycje oraz działalność towarzyszącą w sposób niedyskryminacyjny, z zastrzeżeniem prawa każdej ze Stron do ustanawiania lub utrzymywania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie do niniejszego traktatu. Każda ze Stron poinformuje drugą Stronę przed lub w dniu wejścia w życie niniejszego traktatu o wszystkich znanych jej ustawach i aktach wykonawczych dotyczących sektorów lub dziedzin wymienionych w aneksie. Ponadto każda ze Stron powiadomi drugą o jakichkolwiek przyszłych wyjątkach odnoszących się do sektorów lub dziedzin wymienionych w aneksie i ograniczy ustanawianie takich wyjątków do minimum. Jakikolwiek wyjątek wprowadzony w przyszłości przez którąkolwiek ze Stron nie będzie miał zastosowania względem inwestycji już istniejących w danym sektorze lub dziedzinie w momencie wejścia w życie tego wyjątku. Z zastrzeżeniem odmiennych postanowień aneksu, traktowanie przyznane zgodnie z którymkolwiek z wyjątków nie może być mniej korzystne niż to, jakie w podobnych warunkach jest stosowane wobec inwestycji i działalności towarzyszącej, obywateli lub spółek któregokolwiek państwa trzeciego, z wyjątkiem własności nieruchomości. Prawa do wydobywania kopalin na gruntach państwowych będą uzależnione od przyznania wzajemności.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z zastrzeżeniem przepisów odnoszących się do wjazdu i pobytu cudzoziemców, obywatele każdej ze Stron i ich rodziny mogą wjeżdżać i przebywać na terytorium drugiej Strony w celu dokonania, rozwijania, zarządzania lub doradztwa w odniesieniu do inwestycji, w którą oni lub spółka pierwszej ze Stron, będąca ich pracodawcą, zaangażowała lub jest w trakcie angażowania znacznej kwoty kapitału lub innych zasobów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Spółkom Strony będącym inwestycjami zezwala się na swobodne zatrudnianie pracowników o specjalistycznych kwalifikacjach zawodowych oraz personelu technicznego i zarządzającego bez względu na ich obywatelstwo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Żadna ze Stron nie ustanowi — jako warunku dokonania, rozwoju lub utrzymywania inwestycji — jakichkolwiek wymogów, które zobowiązywałyby lub wymuszałyby zobowiązania do eksportowania wytworzonych towarów bądź wymieniałyby towary lub usługi, które muszą zostać zakupione na rynku wewnętrznym, albo narzucałyby inne podobne wymogi lub działania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Traktowanie przyznane przez Stany Zjednoczone Ameryki, zgodnie z postanowieniami tego artykułu, inwestycjom i działalności towarzyszącej będzie w każdym stanie, terytorium lub posiadłości Stanów Zjednoczonych Ameryki traktowaniem przyznanym tam spółkom utworzonym zgodnie z ustawodawstwem jakiegokolwiek innego stanu, terytorium lub posiadłości Stanów Zjednoczonych Ameryki.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Inwestycja będzie zawsze traktowana w sposób sprawiedliwy i równy oraz korzystała z pełnej ochrony oraz bezpieczeństwa i w żadnym wypadku nie będzie traktowana gorzej, niż to wynika z prawa międzynarodowego. Żadna ze Stron nie naruszy w jakikolwiek arbitralny i dyskryminacyjny sposób zarządu, prowadzenia, utrzymywania, użytkowania, korzystania, nabywania, rozwijania lub rozporządzania inwestycją. Każda ze Stron będzie przestrzegać jakichkolwiek zobowiązań, które mogła zaciągnąć w odniesieniu do inwestycji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Każda ze Stron zapewni skuteczne środki dochodzenia roszczeń i ochrony uprawnień w odniesieniu do inwestycji w ramach niniejszego traktatu i związanych z nimi zezwoleń, z wyjątkiem odmów na dokonanie inwestycji oraz umów inwestycyjnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Z zastrzeżeniem prawa do ustanawiania lub utrzymywania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie, każda ze Stron przyzna niedyskryminacyjne traktowanie obywatelom i spółkom drugiej Strony w zakresie podejmowanych przez nich inwestycji i działalności towarzyszącej w odniesieniu do:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_8/lit_a",
-     "text": "udzielania franszyz lub praw licencyjnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_8/lit_b",
-     "text": "wydawania dokumentów rejestracyjnych, koncesji, zezwoleń i innych zgód niezbędnych do prowadzenia działalności handlowej, które zawsze powinny zostać wydane w jak najszybszym terminie,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_8/lit_c",
-     "text": "dostępu do instytucji finansowych i rynku kredytowego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_8/lit_d",
-     "text": "dostępu do własnych funduszy ulokowanych w instytucjach finansowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_8/lit_e",
-     "text": "importu i instalacji wyposażenia niezbędnego do normalnego prowadzenia działalności gospodarczej, w szczególności, choć nie wyłącznie, wyposażenia biurowego i samochodów oraz eksportu jakiegokolwiek wyposażenia lub samochodu tak importowanego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_8/lit_f",
-     "text": "rozpowszechniania informacji handlowej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_8/lit_g",
-     "text": "przeprowadzania analizy rynku,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_8/lit_h",
-     "text": "ustanawiania przedstawicieli handlowych, w tym agentów, konsultantów i dystrybutorów, oraz ich udziału w targach handlowych i imprezach promocyjnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_8/lit_i",
-     "text": "marketingu towarów i usług, w tym przez wewnętrzne systemy dystrybucji i marketingu oraz przez bezpośredni kontakt z osobami fizycznymi i spółkami,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "j",
-     "path": "ust_8/lit_j",
-     "text": "dostępu do przedsiębiorstw użyteczności publicznej, usług publicznych i najmu lokali użytkowych po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "k",
-     "path": "ust_8/lit_k",
-     "text": "dostępu do surowców, nakładów i usług wszelkiego rodzaju po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "9",
-   "path": "ust_9",
-   "text": "Z zastrzeżeniem prawa do ustanawiania lub utrzymania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie, w.celu ułatwienia inwestycji i działalności towarzyszącej, każda ;ze Stron przyzna niedyskryminacyjne traktowanie obywatelom i spółkom drugiej Strony w odniesieniu do sprzedaży, oferowania do sprzedaży lub nabywania akcji i innych papierów wartościowych. W odniesieniu do nabywania udziałów w jakimkolwiek przedsiębiorstwie państwowym lub jednostce organizacyjnej podlegającej prywatyzacji Rzeczpospolita Polska zapewni obywatelom i spółkom Stanów Zjednoczonych traktowanie oparte na zasadzie największego uprzywilejo-",
-   "children": [
-    {
-     "type": "text",
-     "text": "wania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł III"
-    },
-    {
-     "type": "text",
-     "text": "Ułatwienia i uprawnienia handlowe"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron będzie popierać uczestnictwo swoich obywateli i spółek w imprezach promujących handel, takich jak targi, wystawy, misje i seminaria organizowane na terytorium drugiej Strony. Każda ze Stron będzie również popierać uczestnictwo obywateli i spółek drugiej Strony w imprezach promujących handel na swoim terytorium, z zastrzeżeniem prawa obowiązującego na swoich terytoriach. Strony zezwolą na bezcłowy import i reeksport wszystkich towarów używanych w imprezach promocyjnych, pod warunkiem iż towary te nie zostaną sprzedane lub w inny sposób przekażą-",
-   "children": [
-    {
-     "type": "text",
-     "text": "ne."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z zastrzeżeniem prawa do ustanawiania i utrzymywania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie, w celu ułatwienia wymiany handlowej towarami i usługami między Rzecząpospolitą Polską a Stanami Zjednoczonymi, każda ze Stron przyzna niedyskryminacyjne traktowanie obywatelom i spółkom drugiej Strony w prowadzeniu ich działalności handlowej w odniesieniu do:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "udzielania franszyz lub praw licencyjnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "wydawania dokumentów rejestracyjnych, koncesji, zezwoleń i innych zgód niezbędnych do prowadzenia działalności handlowej, które zawsze powinny zostać wydane w jak najszybszym terminie,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "dostępu do instytucji finansowych i rynku kredytowego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "dostępu do własnych funduszy ulokowanych w instytucjach finansowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "importu i instalacji wyposażenia niezbędnego do normalnego prowadzenia działalności gospodarczej, w szczególności, choć nie wyłącznie, wyposażenia biurowego i samochodów oraz eksportu jakiegokolwiek wyposażenia lub samochodu tak importowanego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "rozpowszechniania informacji handlowej,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "W rozumieniu niniejszego traktatu:",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_1/lit_a",
+       "text": "„spółka Strony” oznacza każdy rodzaj korporacji, spółki, zrzeszenia przedsiębiorstwa państwowego lub innej organizacji utworzonej zgodnie z prawem Strony lub jej jednostki politycznej, niezależnie od tego, czy zostały utworzone w celu osiągania zysku i czy są własnścią prywatną czy rządową,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_1/lit_b",
+       "text": ",,inwestycja” oznacza każdy rodzaj inwestycji na terytorium jednej ze Stron, będącej własnością lub znajdującej się pod bezpośrednią lub pośrednią kontrolą obywateli lub spółek drugiej Strony, i obejmuje:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_1/ust_1/lit_i",
+       "text": "dobra materialne i niematerialne, w tym prawa, takie jak hipoteka, prawo zatrzymania i zastaw;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_1/ust_1/lit_ii",
+       "text": "spółkę, akcję lub inne udziały w spółce lub prawa do jej mienia;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "art_1/ust_1/lit_iii",
+       "text": "roszczenie pieniężne lub roszczenie o określone świadczenie mające wartość gospodarczą, związane z inwestycją;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iv",
+       "path": "art_1/ust_1/lit_iv",
+       "text": "własność intelektualną, w tym, między innymi, prawa odnoszące się do prac literackich i artystycznych, włączając nagrania dźwiękowe, patentów, wzorów przemysłowych, dokumentacji projektowej topologii półprzewodnikowego układu scalonego, tajemnic handlowych oraz znaków towarowych, znaków usługowych i nazw handlowych",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "oraz"
+      },
+      {
+       "type": "lit",
+       "num": "v",
+       "path": "art_1/ust_1/lit_v",
+       "text": "jakiekolwiek uprawnienie wynikające z prawa lub umowy i jakiekolwiek koncesje i zezwolenia, wydane zgodnie z prawem",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_1/lit_c",
+       "text": "„obywatel Strony” oznacza osobę fizyczną, która zgodnie z prawem tej Strony jest jej obywatelem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_1/lit_d",
+       "text": "„przychód” oznacza każdą kwotę uzyskaną z inwestycji lub związaną z inwestycją, włączając w to zysk, dywidendę, odsetki, zysk kapitałowy, opłatę licencyjną, opłatę związaną z zarządzaniem i pomocą techniczną lub inne opłaty, lub przychody w naturze,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_1/lit_e",
+       "text": "„działalność towarzysząca” jest to działalność związana z inwestycją, taka jak organizacja, kontrola, prowadzenie, utrzymywanie, rozporządzanie spółkami, oddziałami, agendami, biurami, fabrykami lub innymi urządzeniami służącymi do prowadzenia działalności gospodarczej; zawieranie, wykonywanie i egzekwowanie umów; nabywanie, używanie, ochrona i rozporządzanie jakąkolwiek własnością, w tym prawami własności intelektualnej; zaciąganie kredytu; kupno i emisja akcji i innych papierów wartościowych oraz zakup dewiz,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/ust_1/lit_f",
+       "text": "„niedyskryminacyjne” traktowanie oznacza traktowanie, które jest co najmniej tak korzystne, jak traktowanie narodowe lub traktowanie zgodne z zasadą największego uprzywilejowania, w zależności od tego, które z nich jest korzystniejsze,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_1/ust_1/lit_g",
+       "text": "„traktowanie narodowe” oznacza traktowanie, które jest co najmniej tak korzystne, jak najlepsze traktowanie przyznane przez Stronę spółkom lub obywatelom tej Strony w podobnych warunkach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_1/ust_1/lit_h",
+       "text": "„traktowanie oparte na zasadzie największego uprzywilejowania” oznacza traktowanie, które jest co najmniej tak korzystne, jak traktowanie przyznane przez Stronę w podobnych warunkach spółkom i obywatelom stron trzecich,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_1/ust_1/lit_i",
+       "text": "„działalność handlowa” oznacza działalność prowadzoną przez obywateli lub spółki Strony, w związku ze sprzedażą lub kupnem towarów i usług, udzieleniem franszyzy lub praw licencyjnych, która nie jest inwestycją lub działalnością towarzyszącą oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "art_1/ust_1/lit_j",
+       "text": "„kontrola” oznacza posiadanie znacznego udziału lub możliwość wywierania istotnego wpływu na zarządzanie i prowadzenie inwestycji, z zastrzeżeniem, że taki wpływ nie będzie wynikał z czysto umownych stosunków dotyczących dostawy towarów lub usług albo kredytu handlowego udzielonego w związku z takimi dostawami.",
+       "children": []
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_2/lit_g",
-     "text": "przeprowadzania analizy rynku,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Każda ze Stron zastrzega sobie prawo do odmówienia jakiejkolwiek spółce korzyści wynikających z niniejszego traktatu, jeżeli obywatele któregokolwiek trzeciego państwa kontrolują taką spółkę i, w przypadku spółki drugiej Strony, jeżeli spółka taka nie prowadzi istotnej działalności handlowej na terytorium tej drugiej Strony lub jest kontrolowana przez obywateli państwa trzeciego, z którym Strona odmawiająca korzyści nie utrzymuje normalnych stosunków gospodarczych.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_2/lit_h",
-     "text": "ustanawiania przedstawicieli handlowych, w tym agentów, konsultantów i dystrybutorów, oraz ich udziału w targach handlowych i imprezach promocyjnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_2/lit_i",
-     "text": "marketingu towarów i usług, w tym przez wewnętrzne systemy dystrybucji i marketingu oraz przez bezpośredni kontakt z osobami fizycznymi i spółkami,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "j",
-     "path": "ust_2/lit_j",
-     "text": "dostępu do przedsiębiorstw użyteczności publicznej, usług publicznych i najmu lokali użytkowych po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "k",
-     "path": "ust_2/lit_k",
-     "text": "dostępu do surowców, nakładów i usług wszelkiego rodzaju po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Jakakolwiek zmiana formy, w której mienie zostało zainwestowane lub reinwestowane, dokonana zgodnie z prawem zainteresowanej Strony, z zastrzeżeniem, iż zastosowanie tego prawa nie naruszy jakichkolwiek uprawnień wynikających z niniejszego traktatu, nie wpłynie na zmianę jego charakteru jako inwestycji.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Obywatele i spółki każdej ze Stron w prowadzeniu działalności handlowej będą zawsze traktowani w sposób sprawiedliwy i równy oraz korzystali z pełnej ochrony i bezpieczeństwa i w żadnym wypadku nie będą gorzej traktowani, niż to wynika z prawa międzynarodowego. Żadna ze Stron nie naruszy w jakikolwiek arbitralny lub dyskryminacyjny sposób prowadzenia działalności handlowej. Każda ze Stron będzie przestrzegać jakichkolwiek zobowiązań, które mogła zaciągnąć w odniesieniu do prowadzenia działalności handlowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda ze Stron powiadomi drugą Stronę, przed albo w dniu wejścia w życie niniejszego traktatu, o wszystkich znanych sobie ustawach i aktach wykonawczych dotyczących sektorów i dziedzin wymienionych w aneksie. Ponadto, każda ze Stron powiadomi drugą o jakichkolwiek przyszłych wyjątkach w odniesieniu do sektorów i dziedzin wymienionych w aneksie oraz ograniczy takie wyjątki do minimum. Jakikolwiek wyjątek wprowadzony przez którąkolwiek ze Stron w przyszłości nie będzie miał zastosowania do działalności handlowej prowadzonej w tym sektorze lub dziedzinie w momencie wejścia w życie tego wyjątku. Z zastrzeżeniem odmiennych postanowień aneksu, traktowanie przyznane zgodnie z jakimkolwiek wyjątkiem nie będzie mniej korzystne niż to, jakie jest przyznawane w podobnych warunkach działalności handlowej obywateli lub spółek jakiegokolwiek państwa trzeciego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Każda ze Stron zapewni skuteczne środki dochodzenia roszczeń i ochrony praw w odniesieniu do umów związanych z prowadzoną działalnością handlową.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Strony popierają stosowanie arbitrażu, zgodnie z uznanymi międzynarodowymi regulaminami, w celu rozstrzygania sporów handlowych między obywatelami i spółkami Rzeczypospolitej Polskiej a obywatelami i spółkami Stanów Zjednoczonych. Zadna ze Stron nie będzie wymagać, aby miejscem arbitrażu były Rzeczpospolita Polska lub Stany Zjednoczone.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Z zastrzeżeniem przepisów odnoszących się do wjazdu i pobytu cudzoziemców, obywatele którejkolwiek ze Stron i ich rodziny mogą wjeżdżać i przebywać na terytorium drugiej Strony w celu prowadzenia handlu między terytoriami obu Stron i podejmowania działalności handlowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Traktowanie przyznane przez Stany Zjednoczone Ameryki obywatelom lub spółkom polskim, zgodnie z postanowieniami tego artykułu, będzie w jakimkolwiek stanie, terytorium lub posiadłości Stanów Zjednoczonych Ameryki traktowaniem, jakie jest tam przyznane obywatelom i spółkom utworzonym zgodnie z prawem jakiegokolwiek innego stanu, terytorium lub posiadłości Stanów Zjednoczonych Ameryki.",
+   "type": "art",
+   "num": "II",
+   "path": "art_II",
+   "text": "Traktowanie inwestycji",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł IV"
+     "type": "ust",
+     "num": "1",
+     "path": "art_II/ust_1",
+     "text": "Każda ze Stron zezwoli, zgodnie ze swym mającym zastosowanie ustawodawstwem, i będzie traktowała inwestycje oraz działalność towarzyszącą w sposób niedyskryminacyjny, z zastrzeżeniem prawa każdej ze Stron do ustanawiania lub utrzymywania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie do niniejszego traktatu. Każda ze Stron poinformuje drugą Stronę przed lub w dniu wejścia w życie niniejszego traktatu o wszystkich znanych jej ustawach i aktach wykonawczych dotyczących sektorów lub dziedzin wymienionych w aneksie. Ponadto każda ze Stron powiadomi drugą o jakichkolwiek przyszłych wyjątkach odnoszących się do sektorów lub dziedzin wymienionych w aneksie i ograniczy ustanawianie takich wyjątków do minimum. Jakikolwiek wyjątek wprowadzony w przyszłości przez którąkolwiek ze Stron nie będzie miał zastosowania względem inwestycji już istniejących w danym sektorze lub dziedzinie w momencie wejścia w życie tego wyjątku. Z zastrzeżeniem odmiennych postanowień aneksu, traktowanie przyznane zgodnie z którymkolwiek z wyjątków nie może być mniej korzystne niż to, jakie w podobnych warunkach jest stosowane wobec inwestycji i działalności towarzyszącej, obywateli lub spółek któregokolwiek państwa trzeciego, z wyjątkiem własności nieruchomości. Prawa do wydobywania kopalin na gruntach państwowych będą uzależnione od przyznania wzajemności.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Ochrona własności intelektualnej"
+     "type": "ust",
+     "num": "2",
+     "path": "art_II/ust_2",
+     "text": "Z zastrzeżeniem przepisów odnoszących się do wjazdu i pobytu cudzoziemców, obywatele każdej ze Stron i ich rodziny mogą wjeżdżać i przebywać na terytorium drugiej Strony w celu dokonania, rozwijania, zarządzania lub doradztwa w odniesieniu do inwestycji, w którą oni lub spółka pierwszej ze Stron, będąca ich pracodawcą, zaangażowała lub jest w trakcie angażowania znacznej kwoty kapitału lub innych zasobów.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_II/ust_3",
+     "text": "Spółkom Strony będącym inwestycjami zezwala się na swobodne zatrudnianie pracowników o specjalistycznych kwalifikacjach zawodowych oraz personelu technicznego i zarządzającego bez względu na ich obywatelstwo.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_II/ust_4",
+     "text": "Żadna ze Stron nie ustanowi — jako warunku dokonania, rozwoju lub utrzymywania inwestycji — jakichkolwiek wymogów, które zobowiązywałyby lub wymuszałyby zobowiązania do eksportowania wytworzonych towarów bądź wymieniałyby towary lub usługi, które muszą zostać zakupione na rynku wewnętrznym, albo narzucałyby inne podobne wymogi lub działania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_II/ust_5",
+     "text": "Traktowanie przyznane przez Stany Zjednoczone Ameryki, zgodnie z postanowieniami tego artykułu, inwestycjom i działalności towarzyszącej będzie w każdym stanie, terytorium lub posiadłości Stanów Zjednoczonych Ameryki traktowaniem przyznanym tam spółkom utworzonym zgodnie z ustawodawstwem jakiegokolwiek innego stanu, terytorium lub posiadłości Stanów Zjednoczonych Ameryki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_II/ust_6",
+     "text": "Inwestycja będzie zawsze traktowana w sposób sprawiedliwy i równy oraz korzystała z pełnej ochrony oraz bezpieczeństwa i w żadnym wypadku nie będzie traktowana gorzej, niż to wynika z prawa międzynarodowego. Żadna ze Stron nie naruszy w jakikolwiek arbitralny i dyskryminacyjny sposób zarządu, prowadzenia, utrzymywania, użytkowania, korzystania, nabywania, rozwijania lub rozporządzania inwestycją. Każda ze Stron będzie przestrzegać jakichkolwiek zobowiązań, które mogła zaciągnąć w odniesieniu do inwestycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_II/ust_7",
+     "text": "Każda ze Stron zapewni skuteczne środki dochodzenia roszczeń i ochrony uprawnień w odniesieniu do inwestycji w ramach niniejszego traktatu i związanych z nimi zezwoleń, z wyjątkiem odmów na dokonanie inwestycji oraz umów inwestycyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_II/ust_8",
+     "text": "Z zastrzeżeniem prawa do ustanawiania lub utrzymywania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie, każda ze Stron przyzna niedyskryminacyjne traktowanie obywatelom i spółkom drugiej Strony w zakresie podejmowanych przez nich inwestycji i działalności towarzyszącej w odniesieniu do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_II/ust_8/lit_a",
+       "text": "udzielania franszyz lub praw licencyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_II/ust_8/lit_b",
+       "text": "wydawania dokumentów rejestracyjnych, koncesji, zezwoleń i innych zgód niezbędnych do prowadzenia działalności handlowej, które zawsze powinny zostać wydane w jak najszybszym terminie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_II/ust_8/lit_c",
+       "text": "dostępu do instytucji finansowych i rynku kredytowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_II/ust_8/lit_d",
+       "text": "dostępu do własnych funduszy ulokowanych w instytucjach finansowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_II/ust_8/lit_e",
+       "text": "importu i instalacji wyposażenia niezbędnego do normalnego prowadzenia działalności gospodarczej, w szczególności, choć nie wyłącznie, wyposażenia biurowego i samochodów oraz eksportu jakiegokolwiek wyposażenia lub samochodu tak importowanego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_II/ust_8/lit_f",
+       "text": "rozpowszechniania informacji handlowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_II/ust_8/lit_g",
+       "text": "przeprowadzania analizy rynku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_II/ust_8/lit_h",
+       "text": "ustanawiania przedstawicieli handlowych, w tym agentów, konsultantów i dystrybutorów, oraz ich udziału w targach handlowych i imprezach promocyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_II/ust_8/lit_i",
+       "text": "marketingu towarów i usług, w tym przez wewnętrzne systemy dystrybucji i marketingu oraz przez bezpośredni kontakt z osobami fizycznymi i spółkami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "art_II/ust_8/lit_j",
+       "text": "dostępu do przedsiębiorstw użyteczności publicznej, usług publicznych i najmu lokali użytkowych po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "art_II/ust_8/lit_k",
+       "text": "dostępu do surowców, nakładów i usług wszelkiego rodzaju po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_II/ust_9",
+     "text": "Z zastrzeżeniem prawa do ustanawiania lub utrzymania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie, w.celu ułatwienia inwestycji i działalności towarzyszącej, każda ;ze Stron przyzna niedyskryminacyjne traktowanie obywatelom i spółkom drugiej Strony w odniesieniu do sprzedaży, oferowania do sprzedaży lub nabywania akcji i innych papierów wartościowych. W odniesieniu do nabywania udziałów w jakimkolwiek przedsiębiorstwie państwowym lub jednostce organizacyjnej podlegającej prywatyzacji Rzeczpospolita Polska zapewni obywatelom i spółkom Stanów Zjednoczonych traktowanie oparte na zasadzie największego uprzywilejo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wania."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł II"
+  },
+  {
+   "type": "art",
+   "num": "III",
+   "path": "art_III",
+   "text": "Ułatwienia i uprawnienia handlowe",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_III/ust_1",
+     "text": "Każda ze Stron będzie popierać uczestnictwo swoich obywateli i spółek w imprezach promujących handel, takich jak targi, wystawy, misje i seminaria organizowane na terytorium drugiej Strony. Każda ze Stron będzie również popierać uczestnictwo obywateli i spółek drugiej Strony w imprezach promujących handel na swoim terytorium, z zastrzeżeniem prawa obowiązującego na swoich terytoriach. Strony zezwolą na bezcłowy import i reeksport wszystkich towarów używanych w imprezach promocyjnych, pod warunkiem iż towary te nie zostaną sprzedane lub w inny sposób przekażą-",
+     "children": [
+      {
+       "type": "text",
+       "text": "ne."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_III/ust_2",
+     "text": "Z zastrzeżeniem prawa do ustanawiania i utrzymywania wyjątków mieszczących się w jednym z sektorów lub dziedzin wymienionych w aneksie, w celu ułatwienia wymiany handlowej towarami i usługami między Rzecząpospolitą Polską a Stanami Zjednoczonymi, każda ze Stron przyzna niedyskryminacyjne traktowanie obywatelom i spółkom drugiej Strony w prowadzeniu ich działalności handlowej w odniesieniu do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_III/ust_2/lit_a",
+       "text": "udzielania franszyz lub praw licencyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_III/ust_2/lit_b",
+       "text": "wydawania dokumentów rejestracyjnych, koncesji, zezwoleń i innych zgód niezbędnych do prowadzenia działalności handlowej, które zawsze powinny zostać wydane w jak najszybszym terminie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_III/ust_2/lit_c",
+       "text": "dostępu do instytucji finansowych i rynku kredytowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_III/ust_2/lit_d",
+       "text": "dostępu do własnych funduszy ulokowanych w instytucjach finansowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_III/ust_2/lit_e",
+       "text": "importu i instalacji wyposażenia niezbędnego do normalnego prowadzenia działalności gospodarczej, w szczególności, choć nie wyłącznie, wyposażenia biurowego i samochodów oraz eksportu jakiegokolwiek wyposażenia lub samochodu tak importowanego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_III/ust_2/lit_f",
+       "text": "rozpowszechniania informacji handlowej,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_III/ust_2/lit_g",
+       "text": "przeprowadzania analizy rynku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_III/ust_2/lit_h",
+       "text": "ustanawiania przedstawicieli handlowych, w tym agentów, konsultantów i dystrybutorów, oraz ich udziału w targach handlowych i imprezach promocyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_III/ust_2/lit_i",
+       "text": "marketingu towarów i usług, w tym przez wewnętrzne systemy dystrybucji i marketingu oraz przez bezpośredni kontakt z osobami fizycznymi i spółkami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "art_III/ust_2/lit_j",
+       "text": "dostępu do przedsiębiorstw użyteczności publicznej, usług publicznych i najmu lokali użytkowych po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "art_III/ust_2/lit_k",
+       "text": "dostępu do surowców, nakładów i usług wszelkiego rodzaju po niedyskryminacyjnych cenach, jeżeli ceny są ustalane lub kontrolowane przez rząd.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_III/ust_3",
+     "text": "Obywatele i spółki każdej ze Stron w prowadzeniu działalności handlowej będą zawsze traktowani w sposób sprawiedliwy i równy oraz korzystali z pełnej ochrony i bezpieczeństwa i w żadnym wypadku nie będą gorzej traktowani, niż to wynika z prawa międzynarodowego. Żadna ze Stron nie naruszy w jakikolwiek arbitralny lub dyskryminacyjny sposób prowadzenia działalności handlowej. Każda ze Stron będzie przestrzegać jakichkolwiek zobowiązań, które mogła zaciągnąć w odniesieniu do prowadzenia działalności handlowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_III/ust_4",
+     "text": "Każda ze Stron powiadomi drugą Stronę, przed albo w dniu wejścia w życie niniejszego traktatu, o wszystkich znanych sobie ustawach i aktach wykonawczych dotyczących sektorów i dziedzin wymienionych w aneksie. Ponadto, każda ze Stron powiadomi drugą o jakichkolwiek przyszłych wyjątkach w odniesieniu do sektorów i dziedzin wymienionych w aneksie oraz ograniczy takie wyjątki do minimum. Jakikolwiek wyjątek wprowadzony przez którąkolwiek ze Stron w przyszłości nie będzie miał zastosowania do działalności handlowej prowadzonej w tym sektorze lub dziedzinie w momencie wejścia w życie tego wyjątku. Z zastrzeżeniem odmiennych postanowień aneksu, traktowanie przyznane zgodnie z jakimkolwiek wyjątkiem nie będzie mniej korzystne niż to, jakie jest przyznawane w podobnych warunkach działalności handlowej obywateli lub spółek jakiegokolwiek państwa trzeciego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_III/ust_5",
+     "text": "Każda ze Stron zapewni skuteczne środki dochodzenia roszczeń i ochrony praw w odniesieniu do umów związanych z prowadzoną działalnością handlową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_III/ust_6",
+     "text": "Strony popierają stosowanie arbitrażu, zgodnie z uznanymi międzynarodowymi regulaminami, w celu rozstrzygania sporów handlowych między obywatelami i spółkami Rzeczypospolitej Polskiej a obywatelami i spółkami Stanów Zjednoczonych. Zadna ze Stron nie będzie wymagać, aby miejscem arbitrażu były Rzeczpospolita Polska lub Stany Zjednoczone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_III/ust_7",
+     "text": "Z zastrzeżeniem przepisów odnoszących się do wjazdu i pobytu cudzoziemców, obywatele którejkolwiek ze Stron i ich rodziny mogą wjeżdżać i przebywać na terytorium drugiej Strony w celu prowadzenia handlu między terytoriami obu Stron i podejmowania działalności handlowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_III/ust_8",
+     "text": "Traktowanie przyznane przez Stany Zjednoczone Ameryki obywatelom lub spółkom polskim, zgodnie z postanowieniami tego artykułu, będzie w jakimkolwiek stanie, terytorium lub posiadłości Stanów Zjednoczonych Ameryki traktowaniem, jakie jest tam przyznane obywatelom i spółkom utworzonym zgodnie z prawem jakiegokolwiek innego stanu, terytorium lub posiadłości Stanów Zjednoczonych Ameryki.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł III"
+  },
+  {
+   "type": "art",
+   "num": "IV",
+   "path": "art_IV",
+   "text": "Ochrona własności intelektualnej",
+   "children": [
     {
      "type": "text",
      "text": "Każda ze Stron zapewni odpowiednią i skuteczną ochronę oraz przestrzeganie praw własności intelektualnej. Aby zapewnić taką ochronę, Strony zgadzają się, między innymi, na:"
@@ -572,395 +573,396 @@
     {
      "type": "text",
      "text": "— zapewnienie odpowiedniej i skutecznej ochrony przeciwko nieuczciwej konkurencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł V"
-    },
-    {
-     "type": "text",
-     "text": "Transfery"
     }
-   ]
+   ],
+   "label": "Artykuł IV"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony zezwolą na swobodne i niezwłoczne transfery związane z inwestycjami lub działalnością handlową. Takie transfery obejmują:",
+   "type": "art",
+   "num": "V",
+   "path": "art_V",
+   "text": "Transfery",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "przychody,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "odszkodowanie wypłacane zgodnie z artykułem VII,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "płatności powstałe w wyniku sporu inwestycyjnego lub handlowego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "płatności wynikające z zobowiązań umownych, w tym spłatę rat kapitałowych i odsetek z tytułu umowy pożyczki,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "wpływy ze sprzedaży lub całkowitej albo częściowej likwidacji inwestycji,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "dodatkowe dopłaty do kapitału w celu utrzymania lub rozwoju inwestycji.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z zastrzeżeniem postanowień artykułu VII ustęp 1, transfery dokonywane będą w walucie swobodnie wymienialnej według przeważającego w dniu transferu rynkowego kursu dla płatności handlowych przy operacjach natychmiastowych (spot) waluty, w której ma nastąpić transfer.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niezależnie od postanowień ustępów 1 i 2, każda ze Stron może stosować przepisy:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "wymagające zgłaszania transferu dewiz,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "nakładające podatek dochodowy w takiej formie, jak opodatkowanie u źródła dywidend lub innych transferów. Ponadto każda ze Stron może chronić prawa wierzycieli lub zapewnić wykonalność wyroków w postępowaniu orzekającym, przez równe, niedyskryminacyjne i w dobrej wierze stosowanie swojego prawa.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_V/ust_1",
+     "text": "Strony zezwolą na swobodne i niezwłoczne transfery związane z inwestycjami lub działalnością handlową. Takie transfery obejmują:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł VI"
+       "type": "lit",
+       "num": "a",
+       "path": "art_V/ust_1/lit_a",
+       "text": "przychody,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Podatki"
+       "type": "lit",
+       "num": "b",
+       "path": "art_V/ust_1/lit_b",
+       "text": "odszkodowanie wypłacane zgodnie z artykułem VII,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_V/ust_1/lit_c",
+       "text": "płatności powstałe w wyniku sporu inwestycyjnego lub handlowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_V/ust_1/lit_d",
+       "text": "płatności wynikające z zobowiązań umownych, w tym spłatę rat kapitałowych i odsetek z tytułu umowy pożyczki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_V/ust_1/lit_e",
+       "text": "wpływy ze sprzedaży lub całkowitej albo częściowej likwidacji inwestycji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_V/ust_1/lit_f",
+       "text": "dodatkowe dopłaty do kapitału w celu utrzymania lub rozwoju inwestycji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_V/ust_2",
+     "text": "Z zastrzeżeniem postanowień artykułu VII ustęp 1, transfery dokonywane będą w walucie swobodnie wymienialnej według przeważającego w dniu transferu rynkowego kursu dla płatności handlowych przy operacjach natychmiastowych (spot) waluty, w której ma nastąpić transfer.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_V/ust_3",
+     "text": "Niezależnie od postanowień ustępów 1 i 2, każda ze Stron może stosować przepisy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_V/ust_3/lit_a",
+       "text": "wymagające zgłaszania transferu dewiz,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_V/ust_3/lit_b",
+       "text": "nakładające podatek dochodowy w takiej formie, jak opodatkowanie u źródła dywidend lub innych transferów. Ponadto każda ze Stron może chronić prawa wierzycieli lub zapewnić wykonalność wyroków w postępowaniu orzekającym, przez równe, niedyskryminacyjne i w dobrej wierze stosowanie swojego prawa.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł V"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W odniesieniu do polityki podatkowej Strony powinny dążyć do stosowania zasad sprawiedliwości i równości w traktowaniu inwestycji i działalności handlowej obywateli i spółek drugiej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jednakże postanowienia niniejszego traktatu, a w szczególności artykułów IX i X, będą miały zastosowanie do kwestii podatkowych tylko w odniesieniu do:",
+   "type": "art",
+   "num": "VI",
+   "path": "art_VI",
+   "text": "Podatki",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wywłaszczenia, zgodnie z postanowieniami artykułu VII,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_VI/ust_1",
+     "text": "W odniesieniu do polityki podatkowej Strony powinny dążyć do stosowania zasad sprawiedliwości i równości w traktowaniu inwestycji i działalności handlowej obywateli i spółek drugiej Strony.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "transferów, zgodnie z postanowieniami artykułu V lub",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "przestrzegania i poszanowania warunków umów inwestycyjnych albo upoważnień, o których mowa w artykule IX ustęp 1 lit. a) lub b), w zakresie, w jakim nie podlegają postanowieniom o rozstrzyganiu sporów, zawartym w umowie o unikaniu podwójnego opodatkowania, obowiązującej między Stronami, lub zostały wszczęte zgodnie z takimi postanowieniami, lecz nie zostały rozstrzygnięte w rozsądnym terminie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł VII"
-      },
-      {
-       "type": "text",
-       "text": "Odszkodowanie za wywłaszczenie"
-      },
-      {
-       "type": "text",
-       "text": "Inwestycje nie zostaną wywłaszczone lub znacjonalizowane, bezpośrednio lub pośrednio, przez środki równoznaczne z wywłaszczeniem lub nacjonalizacją (,,wywłaszczenie”), chyba że nastąpi to w celu publicznym, w sposób niedyskryminacyjny, za bezzwłoczną wypłatą odpowiedniego i skutecznego odszkodowania, zgodnie z prawem i ogólnymi zasadami dotyczącymi traktowania, określonymi w artykule Il ustęp 6. Odszkodowanie będzie równe słusznej wartości rynkowej wywłaszczonej inwestycji w chwili bezpośrednio poprzedzającej podjęcie działań wywłaszczeniowych lub moment, w którym działania te stały się publicznie znane, którekolwiek z tych zdarzeń nastąpiło wcześniej, zostanie wypłacone bez zwłoki, wraz z odsetkami, według stawek przyjętych w stosunkach handlowych, takich jak LIBOR, plus odpowiedni margines, liczonymi od daty wywłaszczenia, będzie nadawało się do pełnej realizacji, będzie podlegało swobodnemu transferowi oraz zostanie obliczone na podstawie przeważającego rynkowego kursu dla transakcji handlowych z daty wywłaszczenia."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Obywatel lub spółka którejkolwiek Strony, którzy uważają, iż całość lub część ich inwestycji została wywłaszczona, mają prawo do żądania bezzwłocznego zbadania przez odpowiednie władze sądowe lub administracyjne drugiej Strony, czy takie wywłaszczenie miało miejsce, a jeśli tak, to czy takie wywłaszczenie oraz uzyskane za nie odszkodowanie pozostają w zgodności z postanowieniami niniejszego traktatu i zasadami prawa międzynarodowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Obywatele lub spółki którejkolwiek Strony, których inwestycje doznały uszczerbku na terytorium drugiej Strony z uwagi na wojnę lub inny konflikt zbrojny, rewolucję, stan wyjątkowy, powstanie, rozruchy lub inne podobne wydarzenia, będą traktowani w sposób niedyskryminacyjny przez tę drugą Stronę w zakresie kroków, które ona podejmie w odniesieniu do takich strat.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł VIII"
-    },
-    {
-     "type": "text",
-     "text": "Wymiana i dostępność informacji"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Stron uznaje za pożądane ułatwienia w zbieraniu i wymianie wszystkich informacji nie mających poufnego charakteru i nie podlegających ochronie, odnoszących się do inwestycji i działalności handlowej na swoim terytorium.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony udostępnią do publicznej wiadomości wszystkie informacje nie mające charakteru poufnego i nie podlegające ochronie, które mogą być użyteczne w związku z inwestycjami i działalnością handlową. Ponadto, każda ze Stron bezzwłocznie poda do wiadomości publicznej wszystkie ustawy, akty wykonawcze, praktykę i procedurę administracyjną oraz mające ogólne zastosowanie orzecznictwo, które odnoszą się lub mają wpływ na działalność handlową lub inwestycje.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony będą rozpowszechniały wśród swych środowisk gospodarczych informacje udostępnione zgodnie z ustępem 2, które pomogą ich obywatelom i spółkom w doprowadzeniu do sprawiedliwego rozstrzygnięcia jakiegokolwiek sporu ich dotyczącego, który może powstać w związku z niniejszym traktatem. Informacje takie mogą odnosić się do terminowości decyzji i dochodzenia uprawnień wynikających z traktatu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł IX"
-    },
-    {
-     "type": "text",
-     "text": "Rozstrzyganie sporów między Stroną a inwestorem drugiej Strony"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszego artykułu spór inwestycyjny oznacza spór dotyczący:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "interpretacji lub stosowania umowy inwestycyjnej między Stroną (w tym jakąkolwiek agencją lub agendą pomocniczą takiej Strony) a obywatelem lub spółką drugiej Strony,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "interpretacji lub stosowania jakichkolwiek zezwoleń inwestycyjnych udzielonych takiemu obywatelowi lub spółce przez władze Strony właściwe do spraw inwestycji zagranicznych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "rzekomego naruszenia jakiegokolwiek prawa przyznanego lub wynikającego z niniejszego traktatu względem inwestycji.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Decyzja Strony odmawiająca zezwolenia dokonania inwestycji nie stanowi sporu inwestycyjnego w rozumieniu niniejszego artykułu."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W wypadku powstania sporu inwestycyjnego między Stroną a obywatelem lub spółką drugiej Strony, strony sporu będą starały się go rozwiązać w drodze konsultacji i negocjacji, które mogą obejmować stosowanie nie wiążących procedur z udziałem stron trzecich. Każda ze Stron zachęcać będzie swoich obywateli i spółki do zwracania się do miejscowych sądów, zwłaszcza dla rozstrzygania sporów powstałych na tle działania administracji. Z zastrzeżeniem ustępu 3 niniejszego artykułu, jeśli sporu nie można rozstrzygnąć przez konsultacje i negocjacje, zostanie on przekazany do rozstrzygnięcia zgodnie z uprzednio uzgodnionymi, mającymi zastosowanie, procedurami rozstrzygania sporów. Jakiekolwiek procedury rozstrzygania sporów, włączając odnoszące się do wywłaszczenia, zawarte w umowie inwestycyjnej, pozostaną wiążące i będą stosowane zgodnie z postanowieniami umowy inwestycyjnej, odpowiednimi postanowieniami prawa krajowego i mającymi zastosowanie umowami międzynarodowymi, dotyczącymi wykonywania orzeczeń arbitrażowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "a) W każdym czasie, po upływie sześciu miesięcy od dnia powstania sporu, zainteresowany obywatel lub spółka może postanowić, iż wyrazi pisemną zgodę na poddanie sporu rozstrzygnięciu w drodze koncyliacji lub wiążącego arbitrażu przez Międzynarodowe Centrum Rozstrzygania Sporów Inwestycyjnych („Centrum”) albo w ramach Dodatkowych Ułatwień Centrum lub zgodnie z Regulaminem Arbitrażowym Komisji do Spraw Międzynarodowego Prawa Handlowego Narodów Zjednoczonych („UNCITRAL”) albo zgodnie z regulaminem arbitrażowym jakiegokolwiek arbitrażu instytucjonalnego, na który strony w sporze wyraziły wspólnie zgodę. Po wyrażeniu takiej zgody przez zainteresowanego obywatela lub spółkę którakolwiek ze stron w sporze może wszcząć takie postępowanie, pod warunkiem że:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_3/lit_i",
-     "text": "spór nie został poddany przez obywatela lub spółkę rozstrzygnięciu zgodnie z mającą zastosowanie uprzednio uzgodnioną między stronami procedurą rozstrzygania sporów i",
+     "type": "ust",
+     "num": "2",
+     "path": "art_VI/ust_2",
+     "text": "Jednakże postanowienia niniejszego traktatu, a w szczególności artykułów IX i X, będą miały zastosowanie do kwestii podatkowych tylko w odniesieniu do:",
      "children": [
       {
        "type": "note",
-       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_VI/ust_2/lit_a",
+       "text": "wywłaszczenia, zgodnie z postanowieniami artykułu VII,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_VI/ust_2/lit_b",
+       "text": "transferów, zgodnie z postanowieniami artykułu V lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_VI/ust_2/lit_c",
+       "text": "przestrzegania i poszanowania warunków umów inwestycyjnych albo upoważnień, o których mowa w artykule IX ustęp 1 lit. a) lub b), w zakresie, w jakim nie podlegają postanowieniom o rozstrzyganiu sporów, zawartym w umowie o unikaniu podwójnego opodatkowania, obowiązującej między Stronami, lub zostały wszczęte zgodnie z takimi postanowieniami, lecz nie zostały rozstrzygnięte w rozsądnym terminie.",
+       "children": []
       }
      ]
+    }
+   ],
+   "label": "Artykuł VI"
+  },
+  {
+   "type": "art",
+   "num": "VII",
+   "path": "art_VII",
+   "text": "Odszkodowanie za wywłaszczenie",
+   "children": [
+    {
+     "type": "text",
+     "text": "Inwestycje nie zostaną wywłaszczone lub znacjonalizowane, bezpośrednio lub pośrednio, przez środki równoznaczne z wywłaszczeniem lub nacjonalizacją (,,wywłaszczenie”), chyba że nastąpi to w celu publicznym, w sposób niedyskryminacyjny, za bezzwłoczną wypłatą odpowiedniego i skutecznego odszkodowania, zgodnie z prawem i ogólnymi zasadami dotyczącymi traktowania, określonymi w artykule Il ustęp 6. Odszkodowanie będzie równe słusznej wartości rynkowej wywłaszczonej inwestycji w chwili bezpośrednio poprzedzającej podjęcie działań wywłaszczeniowych lub moment, w którym działania te stały się publicznie znane, którekolwiek z tych zdarzeń nastąpiło wcześniej, zostanie wypłacone bez zwłoki, wraz z odsetkami, według stawek przyjętych w stosunkach handlowych, takich jak LIBOR, plus odpowiedni margines, liczonymi od daty wywłaszczenia, będzie nadawało się do pełnej realizacji, będzie podlegało swobodnemu transferowi oraz zostanie obliczone na podstawie przeważającego rynkowego kursu dla transakcji handlowych z daty wywłaszczenia."
     },
     {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_3/lit_ii",
-     "text": "zainteresowany obywatel lub spółka nie wnieśli sporu przed sąd albo trybunał administracyjny lub mające jurysdykcję organy Strony, która jest stroną w sporze.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_VII/ust_2",
+     "text": "Obywatel lub spółka którejkolwiek Strony, którzy uważają, iż całość lub część ich inwestycji została wywłaszczona, mają prawo do żądania bezzwłocznego zbadania przez odpowiednie władze sądowe lub administracyjne drugiej Strony, czy takie wywłaszczenie miało miejsce, a jeśli tak, to czy takie wywłaszczenie oraz uzyskane za nie odszkodowanie pozostają w zgodności z postanowieniami niniejszego traktatu i zasadami prawa międzynarodowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VII/ust_3",
+     "text": "Obywatele lub spółki którejkolwiek Strony, których inwestycje doznały uszczerbku na terytorium drugiej Strony z uwagi na wojnę lub inny konflikt zbrojny, rewolucję, stan wyjątkowy, powstanie, rozruchy lub inne podobne wydarzenia, będą traktowani w sposób niedyskryminacyjny przez tę drugą Stronę w zakresie kroków, które ona podejmie w odniesieniu do takich strat.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł VII"
+  },
+  {
+   "type": "art",
+   "num": "VIII",
+   "path": "art_VIII",
+   "text": "Wymiana i dostępność informacji",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_VIII/ust_1",
+     "text": "Każda ze Stron uznaje za pożądane ułatwienia w zbieraniu i wymianie wszystkich informacji nie mających poufnego charakteru i nie podlegających ochronie, odnoszących się do inwestycji i działalności handlowej na swoim terytorium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_VIII/ust_2",
+     "text": "Strony udostępnią do publicznej wiadomości wszystkie informacje nie mające charakteru poufnego i nie podlegające ochronie, które mogą być użyteczne w związku z inwestycjami i działalnością handlową. Ponadto, każda ze Stron bezzwłocznie poda do wiadomości publicznej wszystkie ustawy, akty wykonawcze, praktykę i procedurę administracyjną oraz mające ogólne zastosowanie orzecznictwo, które odnoszą się lub mają wpływ na działalność handlową lub inwestycje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VIII/ust_3",
+     "text": "Strony będą rozpowszechniały wśród swych środowisk gospodarczych informacje udostępnione zgodnie z ustępem 2, które pomogą ich obywatelom i spółkom w doprowadzeniu do sprawiedliwego rozstrzygnięcia jakiegokolwiek sporu ich dotyczącego, który może powstać w związku z niniejszym traktatem. Informacje takie mogą odnosić się do terminowości decyzji i dochodzenia uprawnień wynikających z traktatu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł VIII"
+  },
+  {
+   "type": "art",
+   "num": "IX",
+   "path": "art_IX",
+   "text": "Rozstrzyganie sporów między Stroną a inwestorem drugiej Strony",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_IX/ust_1",
+     "text": "W rozumieniu niniejszego artykułu spór inwestycyjny oznacza spór dotyczący:",
      "children": [
       {
-       "type": "text",
-       "text": "Jeżeli strony nie mogą porozumieć się odnośnie do tego, czy koncyliacja, czy też wiążący arbitraż jest bardziej właściwą procedurą do zastosowania, rozstrzygająca jest opinia zainteresowanego obywatela lub spółki."
+       "type": "lit",
+       "num": "a",
+       "path": "art_IX/ust_1/lit_a",
+       "text": "interpretacji lub stosowania umowy inwestycyjnej między Stroną (w tym jakąkolwiek agencją lub agendą pomocniczą takiej Strony) a obywatelem lub spółką drugiej Strony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_IX/ust_1/lit_b",
+       "text": "interpretacji lub stosowania jakichkolwiek zezwoleń inwestycyjnych udzielonych takiemu obywatelowi lub spółce przez władze Strony właściwe do spraw inwestycji zagranicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_IX/ust_1/lit_c",
+       "text": "rzekomego naruszenia jakiegokolwiek prawa przyznanego lub wynikającego z niniejszego traktatu względem inwestycji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Decyzja Strony odmawiająca zezwolenia dokonania inwestycji nie stanowi sporu inwestycyjnego w rozumieniu niniejszego artykułu."
+        }
+       ]
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "Każda ze Stron wyraża zgodę na poddanie sporów inwestycyjnych rozstrzygnięciu w drodze koncyliacji lub wiążącego arbitrażu:",
+     "type": "ust",
+     "num": "2",
+     "path": "art_IX/ust_2",
+     "text": "W wypadku powstania sporu inwestycyjnego między Stroną a obywatelem lub spółką drugiej Strony, strony sporu będą starały się go rozwiązać w drodze konsultacji i negocjacji, które mogą obejmować stosowanie nie wiążących procedur z udziałem stron trzecich. Każda ze Stron zachęcać będzie swoich obywateli i spółki do zwracania się do miejscowych sądów, zwłaszcza dla rozstrzygania sporów powstałych na tle działania administracji. Z zastrzeżeniem ustępu 3 niniejszego artykułu, jeśli sporu nie można rozstrzygnąć przez konsultacje i negocjacje, zostanie on przekazany do rozstrzygnięcia zgodnie z uprzednio uzgodnionymi, mającymi zastosowanie, procedurami rozstrzygania sporów. Jakiekolwiek procedury rozstrzygania sporów, włączając odnoszące się do wywłaszczenia, zawarte w umowie inwestycyjnej, pozostaną wiążące i będą stosowane zgodnie z postanowieniami umowy inwestycyjnej, odpowiednimi postanowieniami prawa krajowego i mającymi zastosowanie umowami międzynarodowymi, dotyczącymi wykonywania orzeczeń arbitrażowych.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_3/lit_i",
-     "text": "do Centrum, w wypadku gdy Rzeczpospolita Polska stanie się stroną Konwencji o rozstrzyganiu sporów inwestycyjnych między państwami a obywatelami innych państw, sporządzonej w Waszyngtonie dnia 18 marca 1965 r. („Konwencja '), oraz Regulaminu i Zasad Centrum, a także Dodatkowych Ułatwień Centrum i",
+     "type": "ust",
+     "num": "3",
+     "path": "art_IX/ust_3",
+     "text": "a) W każdym czasie, po upływie sześciu miesięcy od dnia powstania sporu, zainteresowany obywatel lub spółka może postanowić, iż wyrazi pisemną zgodę na poddanie sporu rozstrzygnięciu w drodze koncyliacji lub wiążącego arbitrażu przez Międzynarodowe Centrum Rozstrzygania Sporów Inwestycyjnych („Centrum”) albo w ramach Dodatkowych Ułatwień Centrum lub zgodnie z Regulaminem Arbitrażowym Komisji do Spraw Międzynarodowego Prawa Handlowego Narodów Zjednoczonych („UNCITRAL”) albo zgodnie z regulaminem arbitrażowym jakiegokolwiek arbitrażu instytucjonalnego, na który strony w sporze wyraziły wspólnie zgodę. Po wyrażeniu takiej zgody przez zainteresowanego obywatela lub spółkę którakolwiek ze stron w sporze może wszcząć takie postępowanie, pod warunkiem że:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_IX/ust_3/lit_i",
+       "text": "spór nie został poddany przez obywatela lub spółkę rozstrzygnięciu zgodnie z mającą zastosowanie uprzednio uzgodnioną między stronami procedurą rozstrzygania sporów i",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_IX/ust_3/lit_ii",
+       "text": "zainteresowany obywatel lub spółka nie wnieśli sporu przed sąd albo trybunał administracyjny lub mające jurysdykcję organy Strony, która jest stroną w sporze.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli strony nie mogą porozumieć się odnośnie do tego, czy koncyliacja, czy też wiążący arbitraż jest bardziej właściwą procedurą do zastosowania, rozstrzygająca jest opinia zainteresowanego obywatela lub spółki."
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_IX/ust_3/lit_b",
+       "text": "Każda ze Stron wyraża zgodę na poddanie sporów inwestycyjnych rozstrzygnięciu w drodze koncyliacji lub wiążącego arbitrażu:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_IX/ust_3/lit_i",
+       "text": "do Centrum, w wypadku gdy Rzeczpospolita Polska stanie się stroną Konwencji o rozstrzyganiu sporów inwestycyjnych między państwami a obywatelami innych państw, sporządzonej w Waszyngtonie dnia 18 marca 1965 r. („Konwencja '), oraz Regulaminu i Zasad Centrum, a także Dodatkowych Ułatwień Centrum i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_IX/ust_3/lit_ii",
+       "text": "do trybunału arbitrażowego utworzonego zgodnie z Regulaminem UNCITRAL, który może być zmieniony za wspólnym porozumieniem stron w sporze; określoną w tym regulaminie władzą mianującą jest Sekretarz Generalny Centrum.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_IX/ust_3/lit_c",
+       "text": "Poddanie sporu koncyliacji lub arbitrażowi zgodnie z literą b) i) niniejszego ustępu zostanie dokonane przez zastosowanie postanowień Konwencji, Regulaminu i Zasad Centrum lub Dodatkowych Ułatwień, w zależności od spra-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wy."
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_IX/ust_3/lit_d",
+       "text": "Miejscem każdego arbitrażu prowadzonego zgodnie z tym artykułem będzie państwo, które jest stroną Konwencji Narodów Zjednoczonych z 1958 r. o uznawaniu i wykonywaniu zagranicznych orzeczeń arbitrażowych.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_IX/ust_3/lit_e",
+       "text": "Strony zobowiązują się wykonać bezzwłocznie postanowienia jakiegokolwiek orzeczenia wydanego zgodnie z artykułem IX. Ponadto każda Strona zapewni wykonanie na swoim terytorium takich orzeczeń arbitrażowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_IX/ust_4",
+     "text": "W żadnym postępowaniu dotyczącym sporu inwestycyjnego Strona nie podniesie jako zarzutu procesowego powództwa wzajemnego, potrącenia lub w inny sposób, okoliczności, że zainteresowany obywatel lub spółka otrzymali lub otrzymają, w ramach umowy ubezpieczenia lub gwarancyjnej, odszkodowanie lub inną kompensatę za całość lub część rzekomej szkody. Jednakże w zakresie, w jakim Strona wchodzi w prawa lub roszczenia zainteresowanego obywatela albo spółki w drodze subrogacji lub cesji, zainteresowany obywatel bądź spółka nie będą dochodzić takich praw lub roszczeń we własnym imieniu, chyba że zostaną do tego upoważnieni przez przejmującego prawa lub roszczenia.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_3/lit_ii",
-     "text": "do trybunału arbitrażowego utworzonego zgodnie z Regulaminem UNCITRAL, który może być zmieniony za wspólnym porozumieniem stron w sporze; określoną w tym regulaminie władzą mianującą jest Sekretarz Generalny Centrum.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "Poddanie sporu koncyliacji lub arbitrażowi zgodnie z literą b) i) niniejszego ustępu zostanie dokonane przez zastosowanie postanowień Konwencji, Regulaminu i Zasad Centrum lub Dodatkowych Ułatwień, w zależności od spra-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "wy."
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "Miejscem każdego arbitrażu prowadzonego zgodnie z tym artykułem będzie państwo, które jest stroną Konwencji Narodów Zjednoczonych z 1958 r. o uznawaniu i wykonywaniu zagranicznych orzeczeń arbitrażowych.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_3/lit_e",
-     "text": "Strony zobowiązują się wykonać bezzwłocznie postanowienia jakiegokolwiek orzeczenia wydanego zgodnie z artykułem IX. Ponadto każda Strona zapewni wykonanie na swoim terytorium takich orzeczeń arbitrażowych.",
+     "type": "ust",
+     "num": "5",
+     "path": "art_IX/ust_5",
+     "text": "W wypadku arbitrażu, w rozumieniu niniejszego artykułu, jakakolwiek spółka utworzona zgodnie z prawem którejkolwiek ze Stron lub jej jednostki politycznej, która bezpośrednio przed powstaniem zdarzenia lub zdarzeń, które stały się przyczyną sporu, była inwestycją obywateli lub spółek drugiej Strony, będzie traktowana jako obywatel lub spółka tej drugiej Strony, zgodnie z artykułem 25 (2) (b) Konwencji.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł IX"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "W żadnym postępowaniu dotyczącym sporu inwestycyjnego Strona nie podniesie jako zarzutu procesowego powództwa wzajemnego, potrącenia lub w inny sposób, okoliczności, że zainteresowany obywatel lub spółka otrzymali lub otrzymają, w ramach umowy ubezpieczenia lub gwarancyjnej, odszkodowanie lub inną kompensatę za całość lub część rzekomej szkody. Jednakże w zakresie, w jakim Strona wchodzi w prawa lub roszczenia zainteresowanego obywatela albo spółki w drodze subrogacji lub cesji, zainteresowany obywatel bądź spółka nie będą dochodzić takich praw lub roszczeń we własnym imieniu, chyba że zostaną do tego upoważnieni przez przejmującego prawa lub roszczenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "W wypadku arbitrażu, w rozumieniu niniejszego artykułu, jakakolwiek spółka utworzona zgodnie z prawem którejkolwiek ze Stron lub jej jednostki politycznej, która bezpośrednio przed powstaniem zdarzenia lub zdarzeń, które stały się przyczyną sporu, była inwestycją obywateli lub spółek drugiej Strony, będzie traktowana jako obywatel lub spółka tej drugiej Strony, zgodnie z artykułem 25 (2) (b) Konwencji.",
+   "type": "art",
+   "num": "X",
+   "path": "art_X",
+   "text": "Konsultacja i rozstrzyganie sporów między stronami",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł X"
+     "type": "ust",
+     "num": "1",
+     "path": "art_X/ust_1",
+     "text": "Strony zgadzają się na przeprowadzenie niezwłocznych konsultacji, na żądanie którejkolwiek z nich, w celu rozstrzygnięcia jakichkolwiek sporów związanych z niniejszym traktatem lub przedyskutowania każdej sprawy odnoszącej się do interpretacji lub stosowania niniejszego traktatu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Konsultacja i rozstrzyganie sporów między stronami"
+     "type": "ust",
+     "num": "2",
+     "path": "art_X/ust_2",
+     "text": "Jakikolwiek spór między Stronami, dotyczący interpretacji lub stosowania niniejszego traktatu, który nie zostanie rozstrzygnięty w drodze konsultacji lub innych środków dyplomatycznych w ciągu sześciu miesięcy, zostanie przedłożony, na żądanie którejkolwiek ze Stron, trybunałowi arbitrażowemu w celu wiążącego rozstrzygnięcia zgodnie z niniejszym traktatem i właściwymi normami prawa między - narodowego. W braku odmiennego porozumienia Stron regulamin arbitrażowy Komisji Międzynarodowego Prawa Handlowego Narodów Zjednoczonych (UNCITRAL) będzie miał zastosowanie w zakresie nie zmienionym przez Strony lub arbitrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_X/ust_3",
+     "text": "W ciągu dwóch miesięcy od otrzymania żądania każda ze Stron wyznaczy arbitra. Dwaj arbitrzy wybiorą na przewodniczącego trzeciego arbitra, który będzie obywatelem państwa trzeciego. Postanowienia Regulaminu UNCIT- RAL, dotyczące wyznaczania członków trójosobowego składu trybunału, będą miały odpowiednie zastosowanie do wyznaczenia członków trybunału, z zastrzeżeniem, iż władzą mianującą, określoną w tym regulaminie, będzie Sekretarz Generalny Centrum.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_X/ust_4",
+     "text": "Jeśli inaczej nie uzgodniono, wszelkie przedłożenia i przesłuchania zostaną zakończone w ciągu sześciu miesięcy od dnia wyboru trzeciego arbitra, a trybunał wyda orzeczenie w ciągu dwóch miesięcy od dnia ostatniego przedłożenia lub zakończenia przesłuchań, w zależności od tego, które z tych zdarzeń nastąpiło później.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_X/ust_5",
+     "text": "Wydatki poniesione przez przewodniczącego i pozostałych arbitrów oraz inne koszty postępowania Strony pokrywają w równych częściach. Jednakże trybunał może według własnego uznania postanowić, iż jedna ze Stron pokryje większą część kosztów. Każda ze Stron ponosi koszty swego zastępstwa procesowego przed trybunałem arbitrażowym.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł X"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony zgadzają się na przeprowadzenie niezwłocznych konsultacji, na żądanie którejkolwiek z nich, w celu rozstrzygnięcia jakichkolwiek sporów związanych z niniejszym traktatem lub przedyskutowania każdej sprawy odnoszącej się do interpretacji lub stosowania niniejszego traktatu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jakikolwiek spór między Stronami, dotyczący interpretacji lub stosowania niniejszego traktatu, który nie zostanie rozstrzygnięty w drodze konsultacji lub innych środków dyplomatycznych w ciągu sześciu miesięcy, zostanie przedłożony, na żądanie którejkolwiek ze Stron, trybunałowi arbitrażowemu w celu wiążącego rozstrzygnięcia zgodnie z niniejszym traktatem i właściwymi normami prawa między - narodowego. W braku odmiennego porozumienia Stron regulamin arbitrażowy Komisji Międzynarodowego Prawa Handlowego Narodów Zjednoczonych (UNCITRAL) będzie miał zastosowanie w zakresie nie zmienionym przez Strony lub arbitrów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W ciągu dwóch miesięcy od otrzymania żądania każda ze Stron wyznaczy arbitra. Dwaj arbitrzy wybiorą na przewodniczącego trzeciego arbitra, który będzie obywatelem państwa trzeciego. Postanowienia Regulaminu UNCIT- RAL, dotyczące wyznaczania członków trójosobowego składu trybunału, będą miały odpowiednie zastosowanie do wyznaczenia członków trybunału, z zastrzeżeniem, iż władzą mianującą, określoną w tym regulaminie, będzie Sekretarz Generalny Centrum.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeśli inaczej nie uzgodniono, wszelkie przedłożenia i przesłuchania zostaną zakończone w ciągu sześciu miesięcy od dnia wyboru trzeciego arbitra, a trybunał wyda orzeczenie w ciągu dwóch miesięcy od dnia ostatniego przedłożenia lub zakończenia przesłuchań, w zależności od tego, które z tych zdarzeń nastąpiło później.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Wydatki poniesione przez przewodniczącego i pozostałych arbitrów oraz inne koszty postępowania Strony pokrywają w równych częściach. Jednakże trybunał może według własnego uznania postanowić, iż jedna ze Stron pokryje większą część kosztów. Każda ze Stron ponosi koszty swego zastępstwa procesowego przed trybunałem arbitrażowym.",
+   "type": "art",
+   "num": "XI",
+   "path": "art_XI",
+   "text": "Spory nie objęte postanowieniami artykułów IX i X",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł XI"
-    },
-    {
-     "type": "text",
-     "text": "Spory nie objęte postanowieniami artykułów IX i X"
-    },
     {
      "type": "text",
      "text": "Postanowienia artykułów IX i X nie mają zastosowania do sporów powstałych w związku z:"
@@ -968,180 +970,185 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_5/lit_a",
+     "path": "art_XI/lit_a",
      "text": "kredytem eksportowym, gwarancją lub programami ubezpieczeniowymi Export-Import Bank of the United States lub",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_5/lit_b",
+     "path": "art_XI/lit_b",
      "text": "innym oficjalnym kredytem, gwarancją lub ubezpieczeniem, gdzie Strony uzgodniły inny tryb rozstrzygania sporów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł XI"
+  },
+  {
+   "type": "art",
+   "num": "XII",
+   "path": "art_XII",
+   "text": "Zastrzeżenia uprawnień",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_XII/ust_1",
+     "text": "Niniejszy traktat nie narusza:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł XII"
+       "type": "lit",
+       "num": "a",
+       "path": "art_XII/ust_1/lit_a",
+       "text": "ustawodawstwa, praktyki i procedury administracyjnej albo decyzji administracyjnych lub sądowych każdej Strony;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_XII/ust_1/lit_b",
+       "text": "zobowiązań międzynarodowych lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_XII/ust_1/lit_c",
+       "text": "zobowiązań podjętych przez którąkolwiek ze Stron, w tym zobowiązań zawartych w umowie inwestycyjnej lub handlowej bądź w zezwoleniu inwestycyjnym,",
+       "children": []
       },
       {
        "type": "text",
-       "text": "Zastrzeżenia uprawnień"
+       "text": "które przyznają działalności handlowej, inwestycjom lub działalności towarzyszącej traktowanie bardziej korzystne niż przyznane na podstawie niniejszego traktatu w podobnych warunkach."
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy traktat nie narusza:",
-   "children": [
+    },
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "ustawodawstwa, praktyki i procedury administracyjnej albo decyzji administracyjnych lub sądowych każdej Strony;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_XII/ust_2",
+     "text": "Postanowienia niniejszego traktatu o niedyskryminacji i najwyższym uprzywilejowaniu nie bądą miały zastoso-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wania do korzyści przyznanych przez którąkolwiek ze Stron obywatelom lub spółkom jakiegokolwiek państwa trzeciego z uwagi na:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_XII/ust_2/lit_a",
+       "text": "wiążące zobowiązania tej Strony, wynikające z pełnej przynależności do strefy wolnego handlu lub unii celnej albo istniejących, wiążących zobowiązań w ramach Rady Wzajemnej Pomocy Gospodarczej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_XII/ust_2/lit_b",
+       "text": "wiążące zobowiązania tej Strony wynikające z wielostronnych umów międzynarodowych w ramach GATT, zawartych w terminie późniejszym niż niniejszy traktat.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_XII/ust_3",
+     "text": "Niniejszy traktat nie narusza praw żadnej ze Stron do stosowania środków koniecznych do utrzymania porządku publicznego, wypełnienia jej zobowiązań w odniesieniu do utrzymania lub przywrócenia międzynarodowego pokoju lub bezpieczeństwa albo ochrony jej podstawowych interesów, w zakresie bezpieczeństwa.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "zobowiązań międzynarodowych lub",
+     "type": "ust",
+     "num": "4",
+     "path": "art_XII/ust_4",
+     "text": "Niniejszy traktat nie narusza praw żadnej ze Stron do ustalania specjalnego trybu dotyczącego dokonywania inwestycji lub prowadzenia działalności handlowej; tryb taki nie może jednak naruszać treści jakiegokolwiek prawa wynikającego z niniejszego traktatu.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "zobowiązań podjętych przez którąkolwiek ze Stron, w tym zobowiązań zawartych w umowie inwestycyjnej lub handlowej bądź w zezwoleniu inwestycyjnym,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "które przyznają działalności handlowej, inwestycjom lub działalności towarzyszącej traktowanie bardziej korzystne niż przyznane na podstawie niniejszego traktatu w podobnych warunkach."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia niniejszego traktatu o niedyskryminacji i najwyższym uprzywilejowaniu nie bądą miały zastoso-",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "wania do korzyści przyznanych przez którąkolwiek ze Stron obywatelom lub spółkom jakiegokolwiek państwa trzeciego z uwagi na:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wiążące zobowiązania tej Strony, wynikające z pełnej przynależności do strefy wolnego handlu lub unii celnej albo istniejących, wiążących zobowiązań w ramach Rady Wzajemnej Pomocy Gospodarczej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "wiążące zobowiązania tej Strony wynikające z wielostronnych umów międzynarodowych w ramach GATT, zawartych w terminie późniejszym niż niniejszy traktat.",
+     "type": "ust",
+     "num": "5",
+     "path": "art_XII/ust_5",
+     "text": "Niniejszy traktat nie narusza prawa Stron do określania wymogów dotyczących wykonywania zawodów wymagających określonych kwalifikacji.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł XII"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejszy traktat nie narusza praw żadnej ze Stron do stosowania środków koniecznych do utrzymania porządku publicznego, wypełnienia jej zobowiązań w odniesieniu do utrzymania lub przywrócenia międzynarodowego pokoju lub bezpieczeństwa albo ochrony jej podstawowych interesów, w zakresie bezpieczeństwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejszy traktat nie narusza praw żadnej ze Stron do ustalania specjalnego trybu dotyczącego dokonywania inwestycji lub prowadzenia działalności handlowej; tryb taki nie może jednak naruszać treści jakiegokolwiek prawa wynikającego z niniejszego traktatu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Niniejszy traktat nie narusza prawa Stron do określania wymogów dotyczących wykonywania zawodów wymagających określonych kwalifikacji.",
+   "type": "art",
+   "num": "XIII",
+   "path": "art_XIII",
+   "text": "Zastosowanie do jednostek politycznych",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł XIII"
-    },
-    {
-     "type": "text",
-     "text": "Zastosowanie do jednostek politycznych"
-    },
     {
      "type": "text",
      "text": "Niniejszy traktat będzie miał zastosowanie do jednostek politycznych Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XIV Wejście w życie i wygaśnięcie"
     }
-   ]
+   ],
+   "label": "Artykuł XIII"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy traktat podlega ratyfikacji i wejdzie w życie trzydziestego dnia od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie. Pozostanie w mocy przez okres dziesięciu lat, a następnie ulega przedłużeniu, jeśli nie zostanie wypowiedziany zgodnie z ustępem 3 tego artykułu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejszy traktat ma zastosowanie do inwestycji i działalności towarzyszącej oraz działalności handlowej, prowadzonych w momencie wejścia traktatu w życie, jak również do inwestycji dokonanych lub nabytych oraz działalności handlowej, podjętej w czasie obowiązywania niniejszego traktatu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każda Strona może w drodze rocznej notyfikacji wypowiedzieć niniejszy traktat przed zakończeniem początkowego dziesięcioletniego okresu lub w dowolnym terminie po jego upływie. |",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "W odniesieniu do inwestycji dokonanych lub nabytych oraz działalności handlowej, podjętej przed datą notyfikacji o wypowiedzeniu niniejszego traktatu, do których traktat ma zastosowanie, postanowienia wszystkich pozostałych artykułów niniejszego traktatu pozostaną w mocy przez dalszy okres dziesięciu lat od dnia wygaśnięcia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Aneks, protokół oraz listy towarzyszące w sprawie pomocy inwestorom, turystyki i usług podróżnych, własności intelektualnej oraz dopuszczania inwestycji Stanów Zjednoczonych, wymienione w dniu dzisiejszym, bądą stanowiły integralną część traktatu.",
+   "type": "art",
+   "num": "XIV",
+   "path": "art_XIV",
+   "text": "Wejście w życie i wygaśnięcie",
    "children": [
     {
-     "type": "text",
-     "text": "Na dowód czego pełnomocnicy podpisali niniejszy traktat."
+     "type": "ust",
+     "num": "1",
+     "path": "art_XIV/ust_1",
+     "text": "Niniejszy traktat podlega ratyfikacji i wejdzie w życie trzydziestego dnia od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie. Pozostanie w mocy przez okres dziesięciu lat, a następnie ulega przedłużeniu, jeśli nie zostanie wypowiedziany zgodnie z ustępem 3 tego artykułu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sporządzono w dwóch egzemplarzach w Waszyngtonie dnia 21 marca 1990 r. w językach polskim i angielskim, przy czym obydwa teksty są jednakowo autentyczne."
+     "type": "ust",
+     "num": "2",
+     "path": "art_XIV/ust_2",
+     "text": "Niniejszy traktat ma zastosowanie do inwestycji i działalności towarzyszącej oraz działalności handlowej, prowadzonych w momencie wejścia traktatu w życie, jak również do inwestycji dokonanych lub nabytych oraz działalności handlowej, podjętej w czasie obowiązywania niniejszego traktatu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Za Rzeczpospolitą Polską Za Stany Zjednoczone Ameryki T. Mazowiecki G. Busch"
+     "type": "ust",
+     "num": "3",
+     "path": "art_XIV/ust_3",
+     "text": "Każda Strona może w drodze rocznej notyfikacji wypowiedzieć niniejszy traktat przed zakończeniem początkowego dziesięcioletniego okresu lub w dowolnym terminie po jego upływie. |",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "ANEKS"
+     "type": "ust",
+     "num": "4",
+     "path": "art_XIV/ust_4",
+     "text": "W odniesieniu do inwestycji dokonanych lub nabytych oraz działalności handlowej, podjętej przed datą notyfikacji o wypowiedzeniu niniejszego traktatu, do których traktat ma zastosowanie, postanowienia wszystkich pozostałych artykułów niniejszego traktatu pozostaną w mocy przez dalszy okres dziesięciu lat od dnia wygaśnięcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_XIV/ust_5",
+     "text": "Aneks, protokół oraz listy towarzyszące w sprawie pomocy inwestorom, turystyki i usług podróżnych, własności intelektualnej oraz dopuszczania inwestycji Stanów Zjednoczonych, wymienione w dniu dzisiejszym, bądą stanowiły integralną część traktatu.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł XIV"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego pełnomocnicy podpisali niniejszy traktat."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w dwóch egzemplarzach w Waszyngtonie dnia 21 marca 1990 r. w językach polskim i angielskim, przy czym obydwa teksty są jednakowo autentyczne."
+  },
+  {
+   "type": "text",
+   "text": "Za Rzeczpospolitą Polską Za Stany Zjednoczone Ameryki T. Mazowiecki G. Busch"
+  },
+  {
+   "type": "text",
+   "text": "ANEKS"
   },
   {
    "type": "ust",
@@ -1782,42 +1789,42 @@
       {
        "type": "text",
        "text": "Z poważaniem: D. Ledworowski"
-      },
-      {
-       "type": "text",
-       "text": "Po zaznajomieniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-      },
-      {
-       "type": "text",
-       "text": "— został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych,"
-      },
-      {
-       "type": "text",
-       "text": "— jest przyjęty, ratyfikowany i potwierdzony,"
-      },
-      {
-       "type": "text",
-       "text": "— będzie niezmiennie zachowywany."
-      },
-      {
-       "type": "text",
-       "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-      },
-      {
-       "type": "text",
-       "text": "Dano w Warszawie dnia 29 sierpnia 1991 r."
-      },
-      {
-       "type": "text",
-       "text": "LS, Minister Spraw Zagranicznych: wz. J. Makarczyk"
-      },
-      {
-       "type": "text",
-       "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęty, ratyfikowany i potwierdzony,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywany."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 29 sierpnia 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "LS, Minister Spraw Zagranicznych: wz. J. Makarczyk"
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa"
   }
  ],
  "annexes": [],

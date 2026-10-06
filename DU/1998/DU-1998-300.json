@@ -77,188 +77,193 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "text",
-   "text": "W rozumieniu niniejszej umowy:"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "„Przepisy celne” oznaczają przepisy prawne, które mają zastosowanie w przywozie, wywozie i przewozie towarów objętych cłami, podatkami oraz innymi opłatami lub będących przedmiotem zakazów, ograniczeń oraz innych uregulowań dotyczących przemieszczania towarów przez granicę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "„Naruszenie przepisów celnych” oznacza zarówno dokonanie, jak i usiłowanie naruszenia przepisów celnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "„Organy celne” oznaczają w Rzeczypospolitej Polskiej: Prezesa Głównego Urzędu Cet, a w Republice Czeskiej: Ministerstwo Finansów — Dyrekcję Generalną Cet.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "„Organ celny występujący z wnioskiem” oznacza organ celny występujący z wnioskiem o udzielenie pomocy w sprawach celnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "„Organ celny proszony o pomoc” oznacza organ celny, do którego zwrócono się z wnioskiem o udzielenie pomocy w sprawach celnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "„Należności celne” oznaczają wszelkie cła, podatki i inne opłaty wymierzane i pobierane zgodnie z przepisami celnymi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "„Osoba” oznacza zarówno osobę fizyczną, jak i osobę prawną, a w Rzeczypospolitej Polskiej — również jednostki organizacyjne nie posiadające osobowości prawnej, dokonujące obrotu towarowego z zagranicą na własny rachunek i we własnym imieniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "„Środki odurzające i substancje psychotropowe” oznaczają środki i substancje wymienione w Konwencji Narodów Zjednoczonych o zwalczaniu nielegalnego obrotu środkami odurzającymi i substancjami psychotropowymi, sporządzonej w Wiedniu dnia 20 grudnia 1988 r.",
+   "path": "art_1",
+   "text": "Definicje",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 2"
+     "text": "W rozumieniu niniejszej umowy:"
     },
     {
-     "type": "text",
-     "text": "Zakres stosowania umowy"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "„Przepisy celne” oznaczają przepisy prawne, które mają zastosowanie w przywozie, wywozie i przewozie towarów objętych cłami, podatkami oraz innymi opłatami lub będących przedmiotem zakazów, ograniczeń oraz innych uregulowań dotyczących przemieszczania towarów przez granicę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "„Naruszenie przepisów celnych” oznacza zarówno dokonanie, jak i usiłowanie naruszenia przepisów celnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "„Organy celne” oznaczają w Rzeczypospolitej Polskiej: Prezesa Głównego Urzędu Cet, a w Republice Czeskiej: Ministerstwo Finansów — Dyrekcję Generalną Cet.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "„Organ celny występujący z wnioskiem” oznacza organ celny występujący z wnioskiem o udzielenie pomocy w sprawach celnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "„Organ celny proszony o pomoc” oznacza organ celny, do którego zwrócono się z wnioskiem o udzielenie pomocy w sprawach celnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_1/ust_6",
+     "text": "„Należności celne” oznaczają wszelkie cła, podatki i inne opłaty wymierzane i pobierane zgodnie z przepisami celnymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_1/ust_7",
+     "text": "„Osoba” oznacza zarówno osobę fizyczną, jak i osobę prawną, a w Rzeczypospolitej Polskiej — również jednostki organizacyjne nie posiadające osobowości prawnej, dokonujące obrotu towarowego z zagranicą na własny rachunek i we własnym imieniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_1/ust_8",
+     "text": "„Środki odurzające i substancje psychotropowe” oznaczają środki i substancje wymienione w Konwencji Narodów Zjednoczonych o zwalczaniu nielegalnego obrotu środkami odurzającymi i substancjami psychotropowymi, sporządzonej w Wiedniu dnia 20 grudnia 1988 r.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Organy celne udzielać sobie będą wzajemnej pomocy, zgodnie z postanowieniami niniejszej umowy, w ramach swoich uprawnień i możliwości oraz zgodnie ze swoim ustawodawstwem wewnętrznym w celu:",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zakres stosowania umowy",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "zapewniania właściwego przestrzegania przepisów celnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "prowadzenia dochodzeń, zapobiegania i zwalczania wszelkich działań sprzecznych z przepisami celnymi,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "właściwego wymiaru i poboru ceł, podatków i innych opłat,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "wymiany informacji i dokumentów związanych ze stosowaniem przepisów celnych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "szkolenia i doskonalenia umiejętności zawodowych funkcjonariuszy celnych oraz zapoznawania ich ze środkami technicznymi wykorzystywanymi w pracy służb celnych.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Organy celne udzielać sobie będą wzajemnej pomocy, zgodnie z postanowieniami niniejszej umowy, w ramach swoich uprawnień i możliwości oraz zgodnie ze swoim ustawodawstwem wewnętrznym w celu:",
      "children": [
       {
-       "type": "text",
-       "text": "Przekazywanie informacji"
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "zapewniania właściwego przestrzegania przepisów celnych,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Artykuł 3"
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_1/lit_b",
+       "text": "prowadzenia dochodzeń, zapobiegania i zwalczania wszelkich działań sprzecznych z przepisami celnymi,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/ust_1/lit_c",
+       "text": "właściwego wymiaru i poboru ceł, podatków i innych opłat,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/ust_1/lit_d",
+       "text": "wymiany informacji i dokumentów związanych ze stosowaniem przepisów celnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_2/ust_1/lit_e",
+       "text": "szkolenia i doskonalenia umiejętności zawodowych funkcjonariuszy celnych oraz zapoznawania ich ze środkami technicznymi wykorzystywanymi w pracy służb celnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Przekazywanie informacji"
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Organy celne będą, na wniosek, przekazywać sobie wzajemnie wszelkie informacje mogące pomóc w zapewnieniu prawidłowego:",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "poboru cet, podatków i innych opłat, a w szczególności informacje potrzebne do określania wartości celnej i klasyfikacji taryfowej,",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Organy celne będą, na wniosek, przekazywać sobie wzajemnie wszelkie informacje mogące pomóc w zapewnieniu prawidłowego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/ust_1/lit_a",
+       "text": "poboru cet, podatków i innych opłat, a w szczególności informacje potrzebne do określania wartości celnej i klasyfikacji taryfowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/ust_1/lit_b",
+       "text": "stosowania zakazów i ograniczeń przywozowych i wywozowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/ust_1/lit_c",
+       "text": "stosowania reguł pochodzenia towarów.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "stosowania zakazów i ograniczeń przywozowych i wywozowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "stosowania reguł pochodzenia towarów.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Jeżeli organ celny proszony o pomoc nie posiada danych informacji, podejmie działania w celu ich uzyskania, zgodnie ze swoim ustawodawstwem wewnętrznym.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli organ celny proszony o pomoc nie posiada danych informacji, podejmie działania w celu ich uzyskania, zgodnie ze swoim ustawodawstwem wewnętrznym.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Organy celne będą, na wniosek, przekazywać sobie wzajemnie wszelkie informacje potwierdzające, że:",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Organy celne będą, na wniosek, przekazywać sobie wzajemnie wszelkie informacje potwierdzające, że:"
-    },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_4/lit_a",
      "text": "towary przywiezione na terytorium jednej Umawiającej się Strony zostały wywiezione z terytorium drugiej Umawiającej się Strony zgodnie z jej ustawodawstwem wewnętrznym,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_4/lit_b",
      "text": "towary wywiezione z terytorium jednej Umawiającej się Strony zostały przywiezione na terytorium drugiej Umawiającej się Strony zgodnie z jej ustawodawstwem wewnętrznym,",
      "children": [
       {
@@ -270,94 +275,99 @@
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_4/lit_c",
      "text": "towary, wobec których zastosowano preferencje celne przy wywozie z terytorium jednej Umawiającej się Strony, zostały przywiezione na terytorium drugiej Umawiającej się Strony zgodnie z jej ustawodawstwem wewnętrznym.",
      "children": [
       {
        "type": "text",
        "text": "Oznacza to, że przekazywane informacje będą dotyczyły także wszelkich środków kontrolnych, jakim podlegały towary."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 5"
-      },
-      {
-       "type": "text",
-       "text": "Organy celne, na wniosek, udzielają sobie wzajemnie wszelkich informacji o stwierdzonych — dokonanych lub planowanych — działaniach naruszających"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "lub mogących naruszyć przepisy celne, a w szczególności o:"
       }
      ]
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Organy celne, na wniosek, udzielają sobie wzajemnie wszelkich informacji o stwierdzonych — dokonanych lub planowanych — działaniach naruszających",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "lub mogących naruszyć przepisy celne, a w szczególności o:"
     },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_5/lit_a",
      "text": "osobach, o których wiadomo lub które podejrzewa się, że naruszyły lub usiłują naruszyć przepisy celne drugiej Umawiającej się Strony,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_5/lit_b",
      "text": "nowych środkach i metodach wykorzystywanych do naruszania przepisów celnych,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_5/lit_c",
      "text": "towarach, o których wiadomo, że są przedmiotem naruszania przepisów celnych,",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_2/lit_d",
+     "path": "art_5/lit_d",
      "text": "środkach transportu, o których wiadomo, że są lub mogą być wykorzystywane do naruszania przepisów celnych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 6"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Organy celne będą przekazywać sobie wzajemnie — z własnej inicjatywy lub na wniosek — poświadczone kopie dokumentów, zawierających informacje o ujawnionych lub planowanych transakcjach, które naruszają lub co do których istnieje podejrzenie, że mogą naruszyć przepisy celne drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "O przekazanie oryginałów dokumentów można występować tylko w przypadkach, gdy poświadczone kopie nie będą wystarczające. Przekazane oryginały dokumentów zostaną zwrócone w jak najkrótszym czasie, chyba że organ celny proszony o pomoc zrezygnuje z ich zwrotu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dokumenty, o których mowa w niniejszej umowie, mogą być zastąpione danymi sporządzonymi z zastosowaniem techniki elektronicznego przetwarzania danych. Wszelkie istotne informacje dotyczące interpretacji lub wykorzystania tych dokumentów powinny być przekazane jednocześnie.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Organy celne będą przekazywać sobie wzajemnie — z własnej inicjatywy lub na wniosek — poświadczone kopie dokumentów, zawierających informacje o ujawnionych lub planowanych transakcjach, które naruszają lub co do których istnieje podejrzenie, że mogą naruszyć przepisy celne drugiej Umawiającej się Strony.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Nadzór nad osobami, towarami i środkami transportu"
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "O przekazanie oryginałów dokumentów można występować tylko w przypadkach, gdy poświadczone kopie nie będą wystarczające. Przekazane oryginały dokumentów zostaną zwrócone w jak najkrótszym czasie, chyba że organ celny proszony o pomoc zrezygnuje z ich zwrotu.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Dokumenty, o których mowa w niniejszej umowie, mogą być zastąpione danymi sporządzonymi z zastosowaniem techniki elektronicznego przetwarzania danych. Wszelkie istotne informacje dotyczące interpretacji lub wykorzystania tych dokumentów powinny być przekazane jednocześnie.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Nadzór nad osobami, towarami i środkami transportu",
+   "children": [
     {
      "type": "text",
      "text": "Organy celne, w ramach swoich uprawnień i możliwości oraz zgodnie ze swoim ustawodawstwem wewnętrznym, będą, na wniosek, wykonywać nadzór nad:"
@@ -365,63 +375,63 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_3/lit_a",
+     "path": "art_7/lit_a",
      "text": "osobami, co do których istnieją dowody, że naruszyły lub naruszają przepisy celne,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
+     "path": "art_7/lit_b",
      "text": "towarem, którego przywóz, wywóz lub przewóz może spowodować naruszenie przepisów celnych,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_3/lit_c",
+     "path": "art_7/lit_c",
      "text": "środkami transportu i kontenerami, co do których istnieje podejrzenie, że były, są lub mogą zostać wykorzystane z naruszeniem przepisów celnych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Czynności wyjaśniające"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Organ celny proszony o pomoc przeprowadza czynności wyjaśniające w sprawach o naruszenie przepisów celnych. Wyniki czynności wyjaśniających przekazuje organowi celnemu występującemu z wnioskiem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Czynności wyjaśniające, o których mowa w ustępie 1 niniejszego artykułu, zostaną przeprowadzone zgodnie z ustawodawstwem tej Umawiającej się Strony, której organ celny jest proszony o pomoc.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Organ celny proszony o pomoc może zezwolić funkcjonariuszom organu celnego występującego z wnioskiem na uczestniczenie w czynnościach wyjaśniających.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Czynności wyjaśniające",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Organ celny proszony o pomoc przeprowadza czynności wyjaśniające w sprawach o naruszenie przepisów celnych. Wyniki czynności wyjaśniających przekazuje organowi celnemu występującemu z wnioskiem.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Eksperci i świadkowie"
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Czynności wyjaśniające, o których mowa w ustępie 1 niniejszego artykułu, zostaną przeprowadzone zgodnie z ustawodawstwem tej Umawiającej się Strony, której organ celny jest proszony o pomoc.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Organ celny proszony o pomoc może zezwolić funkcjonariuszom organu celnego występującego z wnioskiem na uczestniczenie w czynnościach wyjaśniających.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Eksperci i świadkowie",
+   "children": [
     {
      "type": "text",
      "text": "Organy celne, na wniosek, mogą upoważnić funkcjonariuszy celnych do występowania w charakterze ekspertów lub świadków w postępowaniu administracyjnym lub sądowym, w ramach udzielonego przez organy celne pełnomocnictwa, w sprawach obiętych niniejszą umową."
@@ -429,45 +439,46 @@
     {
      "type": "text",
      "text": "Wniosek taki musi szczegółowo wskazywać, w jakiej sprawie, w jakim zakresie lub w jakim charakterze upoważniony funkcjonariusz celny będzie występować."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Wykorzystanie informacji i dokumentów"
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Informacje i dokumenty, otrzymane w ramach niniejszej umowy, nie będą wykorzystywane w innych celach niż te, które są określone w umowie, bez pisemnej zgody organów celnych, które je dostarczyły. Postanowienie to nie ma zastosowania do informacji i dokumentów dotyczących naruszania przepisów celnych, odnoszących się do środków odurzających i substancji psychotropowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda informacja przekazana w jakiejkolwiek formie, w ramach niniejszej umowy, będzie posiadała poufny charakter. Informacja taka będzie objęta obowiązkiem zachowania tajemnicy służbowej zgodnie z ustawodawstwem wewnętrznym Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Organy celne mogą — zgodnie z celami i zakresem niniejszej umowy — wykorzystać informacje i dokumenty, otrzymane zgodnie z niniejszą umową, jako dowody w postępowaniu administracyjnym i sądowym. Dowody mogą być wykorzystane tylko zgodnie z ustawodawstwem wewnętrznym Umawiających się Stron.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Wykorzystanie informacji i dokumentów",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Informacje i dokumenty, otrzymane w ramach niniejszej umowy, nie będą wykorzystywane w innych celach niż te, które są określone w umowie, bez pisemnej zgody organów celnych, które je dostarczyły. Postanowienie to nie ma zastosowania do informacji i dokumentów dotyczących naruszania przepisów celnych, odnoszących się do środków odurzających i substancji psychotropowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Powiadamianie/Doręczanie"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Każda informacja przekazana w jakiejkolwiek formie, w ramach niniejszej umowy, będzie posiadała poufny charakter. Informacja taka będzie objęta obowiązkiem zachowania tajemnicy służbowej zgodnie z ustawodawstwem wewnętrznym Umawiających się Stron.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Organy celne mogą — zgodnie z celami i zakresem niniejszej umowy — wykorzystać informacje i dokumenty, otrzymane zgodnie z niniejszą umową, jako dowody w postępowaniu administracyjnym i sądowym. Dowody mogą być wykorzystane tylko zgodnie z ustawodawstwem wewnętrznym Umawiających się Stron.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Powiadamianie/Doręczanie",
+   "children": [
     {
      "type": "text",
      "text": "Organ celny proszony o pomoc, na wniosek, zgodnie z ustawodawstwem wewnętrznym i w ramach niniejszej umowy, powiadomi osoby lub doręczy osobom, o których mowa w ustępie 7 artykułu 1 niniejszej umowy, dokumenty i decyzje przekazane przez organ celny występujący z wnioskiem."
@@ -475,208 +486,211 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Forma i treść wniosków o pomoc"
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wnioski, zgodnie z niniejszą umową, przekazywane będą w formie pisemnej. Do wniosków zataczane będą dokumenty niezbędne do ich realizacji. Pilne wnioski mogą być przekazane ustnie, pod warunkiem niezwłocznego potwierdzenia w formie pisemnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wnioski, o których mowa w ustępie 1 niniejszego artykułu, zawierać będą następujące dane:",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Forma i treść wniosków o pomoc",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "organ celny występujący z wnioskiem,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Wnioski, zgodnie z niniejszą umową, przekazywane będą w formie pisemnej. Do wniosków zataczane będą dokumenty niezbędne do ich realizacji. Pilne wnioski mogą być przekazane ustnie, pod warunkiem niezwłocznego potwierdzenia w formie pisemnej.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "charakter postępowania,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Wnioski, o których mowa w ustępie 1 niniejszego artykułu, zawierać będą następujące dane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_12/ust_2/lit_a",
+       "text": "organ celny występujący z wnioskiem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_12/ust_2/lit_b",
+       "text": "charakter postępowania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_12/ust_2/lit_c",
+       "text": "przedmiot i przyczynę wniosku,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "d)krótki opis rozpatrywanej sprawy oraz kwestie prawne z nią związane,"
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_12/ust_2/lit_e",
+       "text": "możliwie dokładne i wyczerpujące wskazówki dotyczące osób, których dotyczy postępowanie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_12/ust_2/lit_f",
+       "text": "streszczenie istotnych faktów, z wyjątkiem przypadków przewidzianych w artykule 11.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Wnioski przedkładane będą w języku urzędowym organu celnego występującego z wnioskiem lub w innym języku możliwym do przyjęcia przez organ celny proszony o pomoc.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "przedmiot i przyczynę wniosku,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "d)krótki opis rozpatrywanej sprawy oraz kwestie prawne z nią związane,"
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "możliwie dokładne i wyczerpujące wskazówki dotyczące osób, których dotyczy postępowanie,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "streszczenie istotnych faktów, z wyjątkiem przypadków przewidzianych w artykule 11.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "W przypadku gdy wniosek nie spetnia wymogów, o których mowa w ustępie 1, 2 i 3 niniejszego artykułu, można żądać jego poprawienia lub uzupełnienia.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wnioski przedkładane będą w języku urzędowym organu celnego występującego z wnioskiem lub w innym języku możliwym do przyjęcia przez organ celny proszony o pomoc.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "W przypadku gdy wniosek nie spetnia wymogów, o których mowa w ustępie 1, 2 i 3 niniejszego artykułu, można żądać jego poprawienia lub uzupełnienia.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Wyjątki od obowiązku udzielania pomocy",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "W przypadkach gdy organ celny proszony o pomoc uzna, że pomoc, o którą wystąpiono, naruszyłaby suwerenność, porządek publiczny, bezpieczeństwo lub inne istotne interesy jego Państwa, może odmówić udzielenia pomocy, udzielić jej częściowo lub pod pewnymi warunkami.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wyjątki od obowiązku udzielania pomocy"
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Jeżeli wniosek o pomoc nie może zostać spełniony, organ celny występujący z wnioskiem będzie o tym niezwłocznie powiadomiony oraz poinformowany o przyczynach odmowy udzielenia pomocy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "W przypadkach gdy organ celny prosi o pomoc, której sam nie mógłby udzielić, gdyby zwrócił się o nią organ celny drugiej Umawiającej się Strony, powinien w swoim wniosku zwrócić uwagę na tę okoliczność. Spełnienie takiej prośby będzie zależało od uznania organu celnego proszonego o pomoc.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W przypadkach gdy organ celny proszony o pomoc uzna, że pomoc, o którą wystąpiono, naruszyłaby suwerenność, porządek publiczny, bezpieczeństwo lub inne istotne interesy jego Państwa, może odmówić udzielenia pomocy, udzielić jej częściowo lub pod pewnymi warunkami.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli wniosek o pomoc nie może zostać spełniony, organ celny występujący z wnioskiem będzie o tym niezwłocznie powiadomiony oraz poinformowany o przyczynach odmowy udzielenia pomocy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W przypadkach gdy organ celny prosi o pomoc, której sam nie mógłby udzielić, gdyby zwrócił się o nią organ celny drugiej Umawiającej się Strony, powinien w swoim wniosku zwrócić uwagę na tę okoliczność. Spełnienie takiej prośby będzie zależało od uznania organu celnego proszonego o pomoc.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Koszty",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Koszty"
-    },
     {
      "type": "text",
      "text": "Organy celne zrzekną się wszelkich roszczeń o zwrot kosztów poniesionych przy wykonywaniu niniejszej umowy, z wyjątkiem wydatków poniesionych na ekspertów, tłumaczy i świadków innych niż urzędnicy państwowi."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Udzielanie pomocy"
-    },
-    {
-     "type": "text",
-     "text": "Pomoc przewidziana niniejszą umową będzie realizowana bezpośrednio między organami celnymi. Organy te mogą dokonać szczegółowych ustaleń co do jej stosowania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie i wypowiedzenie"
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega ratyfikacji. Wymiana dokumentów ratyfikacyjnych nastąpi w Pradze.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa wejdzie w życie 30 dnia od dnia, w którym Umawiające się Strony dokonały wymiany dokumentów ratyfikacyjnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza umowa zawarta jest na czas nie określony. Może być w każdym czasie wypowiedziana w drodze dyplomatycznej. Umowa traci moc po upływie 6 miesięcy od dnia otrzymania wypowiedzenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Z dniem wejścia w życie niniejszej umowy w stosunkach między Umawiającymi się Stronami traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Czechosłowackiej o wspédtpracy i wzajemnej pomocy w sprawach celnych, podpisana w Warszawie dnia 25 listopada 1958 r.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Udzielanie pomocy",
    "children": [
     {
      "type": "text",
-     "text": "Sporządzono w Warszawie dnia 15 maja 1996 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i czeskim, przy czym obydwa teksty mają jednakową moc obowiązującą."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Czeskiej M. Nogaj M. Karnik"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jaki i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 17 października 1996 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski L.S."
+     "text": "Pomoc przewidziana niniejszą umową będzie realizowana bezpośrednio między organami celnymi. Organy te mogą dokonać szczegółowych ustaleń co do jej stosowania."
     }
-   ]
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wejście w życie i wypowiedzenie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Niniejsza umowa podlega ratyfikacji. Wymiana dokumentów ratyfikacyjnych nastąpi w Pradze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Niniejsza umowa wejdzie w życie 30 dnia od dnia, w którym Umawiające się Strony dokonały wymiany dokumentów ratyfikacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Niniejsza umowa zawarta jest na czas nie określony. Może być w każdym czasie wypowiedziana w drodze dyplomatycznej. Umowa traci moc po upływie 6 miesięcy od dnia otrzymania wypowiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_16/ust_4",
+     "text": "Z dniem wejścia w życie niniejszej umowy w stosunkach między Umawiającymi się Stronami traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Czechosłowackiej o wspédtpracy i wzajemnej pomocy w sprawach celnych, podpisana w Warszawie dnia 25 listopada 1958 r.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 15 maja 1996 r. w dwóch oryginalnych egzemplarzach, każdy w językach polskim i czeskim, przy czym obydwa teksty mają jednakową moc obowiązującą."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Czeskiej M. Nogaj M. Karnik"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną zarówno w całości, jaki i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 17 października 1996 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski L.S."
   },
   {
    "type": "signature",

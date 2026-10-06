@@ -61,746 +61,782 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Osobami, do których niniejsze porozumienie ma zastosowanie, są:",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "przedstawiciele Układających się Stron oraz asystujący im doradcy i adwokaci,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Osobami, do których niniejsze porozumienie ma zastosowanie, są:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_1/lit_a",
+       "text": "przedstawiciele Układających się Stron oraz asystujący im doradcy i adwokaci,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_1/lit_b",
+       "text": "osoby uczestniczące w postępowaniu wszczętym przed Komisją zgodnie z artykułem 25 Konwencji w imieniu własnym bądź w imieniu jednego ze skarżących, wymienionych w artykule 25,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_1/lit_c",
+       "text": "adwokaci, doradcy prawni lub profesorowie prawa, uczestniczący w postępowaniu jako pomocnicy jednej z osób wymienionych w lit. b),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_1/lit_d",
+       "text": "osoby wybrane przez delegatów Komisji do pomocy w postępowaniu przed Trybunałem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_1/lit_e",
+       "text": "świadkowie, biegli i inne osoby wezwane przez Komisję lub Trybunał do uczestnictwa w postępowaniu przed Komisją lub Trybunałem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "W rozumieniu niniejszego porozumienia określenia „Komisja” i „Trybunał” oznaczają także „podkomisję” lub „izbę” bądź członków tych ciał wykonujących swe obowiązki zgodnie z postanowieniami Konwencji albo regulaminów Komisji lub Trybunału; określenie „uczestnictwo w postępowaniu” będzie oznaczać także wszelką korespondencję wstępną, poprzedzającą wniesienie skargi przeciwko państwu, które uznało prawo do skargi indywidualnej zgodnie z artykułem 25 Konwencji.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "osoby uczestniczące w postępowaniu wszczętym przed Komisją zgodnie z artykułem 25 Konwencji w imieniu własnym bądź w imieniu jednego ze skarżących, wymienionych w artykule 25,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "adwokaci, doradcy prawni lub profesorowie prawa, uczestniczący w postępowaniu jako pomocnicy jednej z osób wymienionych w lit. b),",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "osoby wybrane przez delegatów Komisji do pomocy w postępowaniu przed Trybunałem,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "świadkowie, biegli i inne osoby wezwane przez Komisję lub Trybunał do uczestnictwa w postępowaniu przed Komisją lub Trybunałem.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Jeżeli w czasie wypełniania przez Komitet Ministrów swych funkcji na podstawie artykułu 32 Konwencji jakakolwiek z osób wymienionych w ustępie 1 niniejszego artykułu wezwana będzie do stawienia się przed Komitetem Ministrów lub przedłożenia mu pisemnych wyjaśnień, postanowienia niniejszego porozumienia będą również miały zastosowanie do tej osoby.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "W rozumieniu niniejszego porozumienia określenia „Komisja” i „Trybunał” oznaczają także „podkomisję” lub „izbę” bądź członków tych ciał wykonujących swe obowiązki zgodnie z postanowieniami Konwencji albo regulaminów Komisji lub Trybunału; określenie „uczestnictwo w postępowaniu” będzie oznaczać także wszelką korespondencję wstępną, poprzedzającą wniesienie skargi przeciwko państwu, które uznało prawo do skargi indywidualnej zgodnie z artykułem 25 Konwencji.",
-   "children": []
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Osoby wymienione w ustępie 1 artykułu 1 niniejszego porozumienia będą korzystały z immunitetu procesowego w zakresie składanych oświadczeń, zarówno ustnych, jak i pisemnych, oraz dokumentów i dowodów przedkładanych przez nie Komisji lub Trybunatowi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Considering that it is expedient for the better fulfilment of the purposes of the Convention that persons taking part in proceedings before the European Commission of Human Rights (hereinafter referred to as \"the Commission”) or the European Court of Human Rights (hereinafter referred to as \"the Court”) shall be accorded certain immunities and facilities;"
+      },
+      {
+       "type": "text",
+       "text": "Desiring to conclude an Agreement for this purpose,"
+      },
+      {
+       "type": "text",
+       "text": "Have agreed as follows:"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "The persons to whom this Agreement applies",
+     "children": [
+      {
+       "type": "text",
+       "text": "are:"
+      },
+      {
+       "type": "text",
+       "text": "(a) agents of the Contracting Parties and advisers and advocates assisting them;"
+      },
+      {
+       "type": "text",
+       "text": "(b) persons taking part in proceedings instituted before the Commission under Article 25 of the Convention, whether in their own name or as representatives of one of the applicants enumerated in the said Article 25;"
+      },
+      {
+       "type": "text",
+       "text": "(c) barristers, solicitors or professors of law, taking part in proceedings in order to assist one of the persons enumerated in sub-paragraph (b) above;"
+      },
+      {
+       "type": "text",
+       "text": "(d)persons chosen by the delegates of the Commission to assist them in proceedings before the Court;"
+      },
+      {
+       "type": "text",
+       "text": "(e) witnesses, experts and other persons called upon by the Commission or the Court to take part in proceedings before the Commission or the Court."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "For the purposes of this Agreement, the terms “Commission” and “Court” shall include a Sub- -Commission or Chamber, or members of either body carrying out their duties under the terms of the Convention or of the rules of the Commission or of the Court, as the case may be; and the term \"taking part in proceedings” shall include making communications with a view to a complaint against a State which has recognised the right of individual petition under",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 25 of the Convention."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "If, in the course of the exercise by the Committee of Ministers of its functions under Article 32 of the Convention, any person mentioned in paragraph 1 of this Article is called upon to appear before, or to submit written statements to the Committee of Ministers, the provisions ofthis Agreement shall apply in relation to him.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "The persons referred to in paragraph 1 of",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 1 of this Agreement shall have immunity from legal process in respect of oral or written statements made, or documents or other evidence submitted by them before or to the Commission or the Court."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Immunitetu tego nie stosuje się w wypadku przekazania przez osobę, której ten immunitet przysługuje na podstawie poprzedniego ustępu, albo przez osobę przez nią uprawnioną każdego takiego oświadczenia, wyjaśnienia lub informacji, dokumentu albo dowodu, bądź ich części, poza Komisję lub Trybunał.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli w czasie wypełniania przez Komitet Ministrów swych funkcji na podstawie artykułu 32 Konwencji jakakolwiek z osób wymienionych w ustępie 1 niniejszego artykułu wezwana będzie do stawienia się przed Komitetem Ministrów lub przedłożenia mu pisemnych wyjaśnień, postanowienia niniejszego porozumienia będą również miały zastosowanie do tej osoby.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoby wymienione w ustępie 1 artykułu 1 niniejszego porozumienia będą korzystały z immunitetu procesowego w zakresie składanych oświadczeń, zarówno ustnych, jak i pisemnych, oraz dokumentów i dowodów przedkładanych przez nie Komisji lub Trybunatowi.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Considering that it is expedient for the better fulfilment of the purposes of the Convention that persons taking part in proceedings before the European Commission of Human Rights (hereinafter referred to as \"the Commission”) or the European Court of Human Rights (hereinafter referred to as \"the Court”) shall be accorded certain immunities and facilities;"
-    },
-    {
-     "type": "text",
-     "text": "Desiring to conclude an Agreement for this purpose,"
-    },
-    {
-     "type": "text",
-     "text": "Have agreed as follows:"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The persons to whom this Agreement applies",
-   "children": [
-    {
-     "type": "text",
-     "text": "are:"
-    },
-    {
-     "type": "text",
-     "text": "(a) agents of the Contracting Parties and advisers and advocates assisting them;"
-    },
-    {
-     "type": "text",
-     "text": "(b) persons taking part in proceedings instituted before the Commission under Article 25 of the Convention, whether in their own name or as representatives of one of the applicants enumerated in the said Article 25;"
-    },
-    {
-     "type": "text",
-     "text": "(c) barristers, solicitors or professors of law, taking part in proceedings in order to assist one of the persons enumerated in sub-paragraph (b) above;"
-    },
-    {
-     "type": "text",
-     "text": "(d)persons chosen by the delegates of the Commission to assist them in proceedings before the Court;"
-    },
-    {
-     "type": "text",
-     "text": "(e) witnesses, experts and other persons called upon by the Commission or the Court to take part in proceedings before the Commission or the Court."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "For the purposes of this Agreement, the terms “Commission” and “Court” shall include a Sub- -Commission or Chamber, or members of either body carrying out their duties under the terms of the Convention or of the rules of the Commission or of the Court, as the case may be; and the term \"taking part in proceedings” shall include making communications with a view to a complaint against a State which has recognised the right of individual petition under",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 25 of the Convention."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "If, in the course of the exercise by the Committee of Ministers of its functions under Article 32 of the Convention, any person mentioned in paragraph 1 of this Article is called upon to appear before, or to submit written statements to the Committee of Ministers, the provisions ofthis Agreement shall apply in relation to him.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The persons referred to in paragraph 1 of",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 1 of this Agreement shall have immunity from legal process in respect of oral or written statements made, or documents or other evidence submitted by them before or to the Commission or the Court."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Immunitetu tego nie stosuje się w wypadku przekazania przez osobę, której ten immunitet przysługuje na podstawie poprzedniego ustępu, albo przez osobę przez nią uprawnioną każdego takiego oświadczenia, wyjaśnienia lub informacji, dokumentu albo dowodu, bądź ich części, poza Komisję lub Trybunał.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Układające się Strony zapewnią osobom wymienionym w ustępie 1 artykułu 1 niniejszego porozumienia swobodę korespondencji z Komisją i Trybunatem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W odniesieniu do osób pozbawionych wolności wykonywanie tego prawa będzie w szczególności oznaczać, że:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "w przypadku kontroli ich korespondencji przez kompetentne władze, jej nadanie i dostarczenie zostanie dokonane bez zbędnej zwłoki i bez wprowadzania w niej zmian;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Układające się Strony zapewnią osobom wymienionym w ustępie 1 artykułu 1 niniejszego porozumienia swobodę korespondencji z Komisją i Trybunatem.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "osoby te nie będą poddane środkom dyscyplinarnym w jakiejkolwiek formie z powodu jakiejkolwiek korespondencji wystosowanej we właściwym trybie do Komisji lub Trybunału;",
-     "children": []
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "W odniesieniu do osób pozbawionych wolności wykonywanie tego prawa będzie w szczególności oznaczać, że:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/ust_2/lit_a",
+       "text": "w przypadku kontroli ich korespondencji przez kompetentne władze, jej nadanie i dostarczenie zostanie dokonane bez zbędnej zwłoki i bez wprowadzania w niej zmian;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/ust_2/lit_b",
+       "text": "osoby te nie będą poddane środkom dyscyplinarnym w jakiejkolwiek formie z powodu jakiejkolwiek korespondencji wystosowanej we właściwym trybie do Komisji lub Trybunału;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/ust_2/lit_c",
+       "text": "osoby te będą miały prawo korespondować i konsultować się, w sposób uniemożliwiający zapoznanie się osobom trzecim z treścią rozmowy, z adwokatem uprawnionym do występowania przed sądami kraju, w którym są zatrzymane, w zakresie skargi skierowanej do Komisji lub jakiegokolwiek postępowania z niej wynikającego.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "osoby te będą miały prawo korespondować i konsultować się, w sposób uniemożliwiający zapoznanie się osobom trzecim z treścią rozmowy, z adwokatem uprawnionym do występowania przed sądami kraju, w którym są zatrzymane, w zakresie skargi skierowanej do Komisji lub jakiegokolwiek postępowania z niej wynikającego.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Stosowanie poprzednich ustępów odbywać się będzie bez ingerencji władz publicznych, z wyjątkiem przewidzianych prawem i niezbędnych w społeczeństwie demokratycznym w interesie bezpieczeństwa narodowego, dla wykrycia lub ścigania przestępstwa lub dla ochrony zdrowia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "a) Układające się Strony zobowiązują się nie utrudniać swobody przemieszczania się i podróżowania dla celów uczestniczenia w postępowaniu przed Komisją i Trybunatem oraz powrotu osobom, wymienionym w ustępie 1 artykułu 1 niniejszego porozumienia, których obecność Komisja lub Trybunał wcześniej usankcjonują.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "Niedozwolone będzie nakładanie jakichkolwiek ograniczeń na swobodę poruszania się i podróżowania tych osób, z wyjątkiem takich, które są zgodne z prawem i które są niezbędne w społeczeństwie demokratycznym w interesie bezpieczeństwa narodowego lub publicznego, dla utrzymania porządku publicznego, dla zapobieżenia przestępstwu, dla ochrony zdrowia lub moralności lub dla ochrony praw i wolności innych osób.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Stosowanie poprzednich ustępów odbywać się będzie bez ingerencji władz publicznych, z wyjątkiem przewidzianych prawem i niezbędnych w społeczeństwie demokratycznym w interesie bezpieczeństwa narodowego, dla wykrycia lub ścigania przestępstwa lub dla ochrony zdrowia.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "a) Osoby takie nie będą, w państwach tranzytowych i w państwie, w którym toczyć się będzie postę-",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This immunity does not apply to the communication, outside the Commission or the Court, by or on behalf of any person entitled to immunity under the preceding paragraph, of any such statements, documents or evidence or any part thereof submitted by that person to the Commission or the Court.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Contracting Parties shall respect the right of the persons referred to in paragraph 1 of Article 1 of this Agreement to correspond freely with the Commission and the Court.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "As regards persons under detention, the exercise of this right shall in particular imply that:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) if their correspondence is examined by the competent authorities, its despatch and delivery shall nevertheless take place without undue delay and without alteration;"
-    },
-    {
-     "type": "text",
-     "text": "(b) such persons shall not be subject to disciplinary measures in any form on account of any communication sent through the proper channels to the Commission or the Court;"
-    },
-    {
-     "type": "text",
-     "text": "(c) such persons shall have the right to correspond, and consult out of hearing of other persons, with a lawyer qualified to appear before the courts of the country where they are detained in regard to an application to the Commision, or any proceedings resulting therefrom."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "In application of the preceding paragraphs, there shall be no interference by a public authority except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, for the detection or prosecution of a criminal offence or for the protection of health.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "(a) The Contracting Parties undertake not to hinder the free movement and travel, for the purpose of attending and returning from proceedings before the Commission or the Court, of persons referred to in paragraph 1 of Article 1 of this Agreement whose presence has in advance been authorised by the Commission or the Court.",
-   "children": [
-    {
-     "type": "text",
-     "text": "(b) No restrictions shall be placed on their movement and travel other than such as are in accordance with the law and necessary in a democratic society in the interests of national security or public safety, for the maintenance of ordre public, for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "(a) Such persons shall not, in countries of transit and in the country where the proceedings take place,",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "powanie, ścigane lub zatrzymane ani poddane jakimkolwiek innym ograniczeniom ich wolności osobistej w odniesieniu do czynów popełnionych lub wyroków wydanych przed rozpoczęciem podróży."
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "Każda Uktadająca się Strona może w czasie podpisania lub ratyfikacji niniejszego porozumienia oświadczyć, że postanowienia niniejszego ustępu nie będą miały zastosowania do jej obywateli. Oświadczenie takie może być cofnięte w każdym czasie, w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Układające się Strony zobowiązują się zezwolić na powrót na ich terytorium każdej osobie, która rozpoczęła z niego podróż.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępów 1 i 2 niniejszego artykułu przestaną mieć zastosowanie w przypadkach, w których osoba zainteresowana miała przez 15 kolejnych dni — od dnia, w którym jej obecność nie była już wymagana przez Komisję lub Trybunał — możliwość powrotu do kraju, z którego rozpoczęła podróż.",
-   "children": []
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "a) Układające się Strony zobowiązują się nie utrudniać swobody przemieszczania się i podróżowania dla celów uczestniczenia w postępowaniu przed Komisją i Trybunatem oraz powrotu osobom, wymienionym w ustępie 1 artykułu 1 niniejszego porozumienia, których obecność Komisja lub Trybunał wcześniej usankcjonują.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_1/lit_b",
+       "text": "Niedozwolone będzie nakładanie jakichkolwiek ograniczeń na swobodę poruszania się i podróżowania tych osób, z wyjątkiem takich, które są zgodne z prawem i które są niezbędne w społeczeństwie demokratycznym w interesie bezpieczeństwa narodowego lub publicznego, dla utrzymania porządku publicznego, dla zapobieżenia przestępstwu, dla ochrony zdrowia lub moralności lub dla ochrony praw i wolności innych osób.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "a) Osoby takie nie będą, w państwach tranzytowych i w państwie, w którym toczyć się będzie postę-",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "This immunity does not apply to the communication, outside the Commission or the Court, by or on behalf of any person entitled to immunity under the preceding paragraph, of any such statements, documents or evidence or any part thereof submitted by that person to the Commission or the Court.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "The Contracting Parties shall respect the right of the persons referred to in paragraph 1 of Article 1 of this Agreement to correspond freely with the Commission and the Court.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "As regards persons under detention, the exercise of this right shall in particular imply that:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) if their correspondence is examined by the competent authorities, its despatch and delivery shall nevertheless take place without undue delay and without alteration;"
+      },
+      {
+       "type": "text",
+       "text": "(b) such persons shall not be subject to disciplinary measures in any form on account of any communication sent through the proper channels to the Commission or the Court;"
+      },
+      {
+       "type": "text",
+       "text": "(c) such persons shall have the right to correspond, and consult out of hearing of other persons, with a lawyer qualified to appear before the courts of the country where they are detained in regard to an application to the Commision, or any proceedings resulting therefrom."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "In application of the preceding paragraphs, there shall be no interference by a public authority except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, for the detection or prosecution of a criminal offence or for the protection of health.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "(a) The Contracting Parties undertake not to hinder the free movement and travel, for the purpose of attending and returning from proceedings before the Commission or the Court, of persons referred to in paragraph 1 of Article 1 of this Agreement whose presence has in advance been authorised by the Commission or the Court.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(b) No restrictions shall be placed on their movement and travel other than such as are in accordance with the law and necessary in a democratic society in the interests of national security or public safety, for the maintenance of ordre public, for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "(a) Such persons shall not, in countries of transit and in the country where the proceedings take place,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "powanie, ścigane lub zatrzymane ani poddane jakimkolwiek innym ograniczeniom ich wolności osobistej w odniesieniu do czynów popełnionych lub wyroków wydanych przed rozpoczęciem podróży."
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_2/lit_b",
+       "text": "Każda Uktadająca się Strona może w czasie podpisania lub ratyfikacji niniejszego porozumienia oświadczyć, że postanowienia niniejszego ustępu nie będą miały zastosowania do jej obywateli. Oświadczenie takie może być cofnięte w każdym czasie, w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Układające się Strony zobowiązują się zezwolić na powrót na ich terytorium każdej osobie, która rozpoczęła z niego podróż.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "Postanowienia ustępów 1 i 2 niniejszego artykułu przestaną mieć zastosowanie w przypadkach, w których osoba zainteresowana miała przez 15 kolejnych dni — od dnia, w którym jej obecność nie była już wymagana przez Komisję lub Trybunał — możliwość powrotu do kraju, z którego rozpoczęła podróż.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_4/ust_5",
+     "text": "W przypadkach jakichkolwiek rozbieżności między obowiązkami Układającej się Strony, wynikającymi z ustępu 2 niniejszego artykułu, a obowiązkami wynikającymi z jakiejkolwiek konwencji Rady Europy lub z traktatu ekstradycyjnego albo innego traktatu dotyczącego pomocy wzajemnej w sprawach karnych z inną Umawiającą się Stroną, postanowienia ustępu 2 niniejszego artykułu będą miały pierwszeństwo.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "W przypadkach jakichkolwiek rozbieżności między obowiązkami Układającej się Strony, wynikającymi z ustępu 2 niniejszego artykułu, a obowiązkami wynikającymi z jakiejkolwiek konwencji Rady Europy lub z traktatu ekstradycyjnego albo innego traktatu dotyczącego pomocy wzajemnej w sprawach karnych z inną Umawiającą się Stroną, postanowienia ustępu 2 niniejszego artykułu będą miały pierwszeństwo.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Immunitety i ułatwienia przyznawane są osobom wymienionym w ustępie 1 artykułu 1 niniejszego porozumienia wyłącznie w celu zapewnienia im wolności wypowiadania się oraz niezależności niezbędnej dla wypełnienia ich funkcji, zadań bądź obowiązków lub wykonania swych praw wobec Komisji i Trybunału.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "a) Komisja lub Trybunał, w zależności od okoliczności, będą uprawnione do uchylenia, w całości lub w części, immunitetu przewidzianego ustępem 1 artykułu 2 niniejszego porozumienia; mają one nie tylko prawo, lecz także obowiązek uchylić immunitet w każdym przypadku, w którym, w ich opinii, immunitet taki uniemożliwiłby wymierzenie sprawiedliwości, a uchylenie w całości lub w części nie byłoby sprzeczne z celami określonymi w ustępie 1 niniejszego artykułu.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "Immunitet może zostać uchylony przez Komisję lub Trybunał z urzędu lub na wniosek jakiejkolwiek Umawiającej się Strony bądź zainteresowanej osoby, skierowany do Sekretarza Generalnego Rady Europy.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Immunitety i ułatwienia przyznawane są osobom wymienionym w ustępie 1 artykułu 1 niniejszego porozumienia wyłącznie w celu zapewnienia im wolności wypowiadania się oraz niezależności niezbędnej dla wypełnienia ich funkcji, zadań bądź obowiązków lub wykonania swych praw wobec Komisji i Trybunału.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "Do decyzji uchylającej immunitet lub odmawiającej jego uchylenia dołączone będzie uzasadnienie.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "a) Komisja lub Trybunał, w zależności od okoliczności, będą uprawnione do uchylenia, w całości lub w części, immunitetu przewidzianego ustępem 1 artykułu 2 niniejszego porozumienia; mają one nie tylko prawo, lecz także obowiązek uchylić immunitet w każdym przypadku, w którym, w ich opinii, immunitet taki uniemożliwiłby wymierzenie sprawiedliwości, a uchylenie w całości lub w części nie byłoby sprzeczne z celami określonymi w ustępie 1 niniejszego artykułu.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_2/lit_b",
+       "text": "Immunitet może zostać uchylony przez Komisję lub Trybunał z urzędu lub na wniosek jakiejkolwiek Umawiającej się Strony bądź zainteresowanej osoby, skierowany do Sekretarza Generalnego Rady Europy.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/ust_2/lit_c",
+       "text": "Do decyzji uchylającej immunitet lub odmawiającej jego uchylenia dołączone będzie uzasadnienie.",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "by prosecuted or detained or be subjected to any other restriction of their personal liberty in respect of acts or convictions prior to the commencement of the journey."
+      },
+      {
+       "type": "text",
+       "text": "(b) Any Contracting Party may at the time of signature or ratification of this Agreement declare that the provisions of this paragraph will not apply to its own nationals. Such a declaration may be withdrawn at any time by means of a notification addressed to the Secretary General of the Council of Europe."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "The Contracting Parties undertake to re-admiton his return to their territory any such person who commenced his journey in the said territory.",
      "children": []
     },
     {
-     "type": "text",
-     "text": "by prosecuted or detained or be subjected to any other restriction of their personal liberty in respect of acts or convictions prior to the commencement of the journey."
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "The provisions of paragraphs 1 and 2 of this Article shall cease to apply when the person concerned has had for a period of 15 consecutive days from the date when his presence is no longer required by the Commission or the Court the opportunity of returning to the country from which his journey commenced.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) Any Contracting Party may at the time of signature or ratification of this Agreement declare that the provisions of this paragraph will not apply to its own nationals. Such a declaration may be withdrawn at any time by means of a notification addressed to the Secretary General of the Council of Europe."
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Where there is any conflict between the obligations of a Contracting Party resulting from paragraph 2 of this Article and those resulting from a Council of Europe Convention or from an extradition treaty or other treaty concerning mutual assistance in criminal matters with other Contracting Parties, the provisions of paragraph 2 of this Article shall prevail.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Immunities and facilities are accorded to the persons referred to in paragraph 1 of Article 1 of this Agreement solely in order to ensure for them the freedom of speech and the independence necessary for the discharge of their functions, tasks or duties, or the exercise of their rights in relation to the Commission and the Court.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "(a) The Commission or the Court, as the case may be, shall alone be competent to waive, in whole or in part, the immunity provided for in paragraph 1 of",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2 of this Agreement; they have not only the right but the duty to waive immunity in any case where, in their opinion, such immunity would impede the course of justice and waiver in whole or in part would not prejudice the purpose defined in paragraph 1 of this Article."
+      },
+      {
+       "type": "text",
+       "text": "(b) The immunity may be waived by the Commission or by the Court, either ex officio or at the request, addressed to the Secretary General of the Council of Europe, of any Contracting Party or of any person concerned."
+      },
+      {
+       "type": "text",
+       "text": "(c) Decisions waiving immunity or refusing the waiver shall be accompanied by a statement of"
+      },
+      {
+       "type": "text",
+       "text": "reasons."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Jeżeli Uktadająca się Strona zaświadczy, że uchylenie immunitetu przewidzianego w ustępie 1 artykułu 2 niniejszego porozumienia jest niezbędne dla celów postępowania w odniesieniu do przestępstwa przeciwko bezpieczeństwu narodowemu, Komisja lub Trybunał uchylą immunitet w zakresie określonym w zaświadczeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "W razie wykrycia faktu, który mógłby mieć rozstrzygający wpływ na decyzję odmawiającą uchylenia immunitetu, a który w chwili podejmowania tej decyzji nie był znany wnioskodawcy, ten ostatni może wystąpić z wnioskiem ponownym.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The Contracting Parties undertake to re-admiton his return to their territory any such person who commenced his journey in the said territory.",
-   "children": []
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Zadne z postanowień niniejszego porozumienia nie będzie interpretowane jako ograniczające bądź uchylające jakiekolwiek zobowiązanie przyjęte przez Układające się Strony na podstawie Konwencji.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The provisions of paragraphs 1 and 2 of this Article shall cease to apply when the person concerned has had for a period of 15 consecutive days from the date when his presence is no longer required by the Commission or the Court the opportunity of returning to the country from which his journey commenced.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Where there is any conflict between the obligations of a Contracting Party resulting from paragraph 2 of this Article and those resulting from a Council of Europe Convention or from an extradition treaty or other treaty concerning mutual assistance in criminal matters with other Contracting Parties, the provisions of paragraph 2 of this Article shall prevail.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Niniejsze porozumienie jest otwarte do podpisu dla państw członkowskich Rady Europy, które mogą stać się jego stroną przez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_1/lit_a",
+       "text": "podpisanie bez zastrzeżenia ratyfikacji lub przyjęcia lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_1/lit_b",
+       "text": "podpisanie z zastrzeżeniem ratyfikacji lub przyjęcia i następnie ratyfikowanie lub przyjęcie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Dokumenty ratyfikacyjne lub przyjęcia składa się Sekretarzowi Generalnemu Rady Europy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Immunities and facilities are accorded to the persons referred to in paragraph 1 of Article 1 of this Agreement solely in order to ensure for them the freedom of speech and the independence necessary for the discharge of their functions, tasks or duties, or the exercise of their rights in relation to the Commission and the Court.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "(a) The Commission or the Court, as the case may be, shall alone be competent to waive, in whole or in part, the immunity provided for in paragraph 1 of",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 2 of this Agreement; they have not only the right but the duty to waive immunity in any case where, in their opinion, such immunity would impede the course of justice and waiver in whole or in part would not prejudice the purpose defined in paragraph 1 of this Article."
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Niniejsze porozumienie wejdzie w życie po upływie miesiąca od dnia, w którym pięć państw członkowskich Rady Europy stanie się jego stroną zgodnie z postanowieniem artykułu 7.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) The immunity may be waived by the Commission or by the Court, either ex officio or at the request, addressed to the Secretary General of the Council of Europe, of any Contracting Party or of any person concerned."
-    },
-    {
-     "type": "text",
-     "text": "(c) Decisions waiving immunity or refusing the waiver shall be accompanied by a statement of"
-    },
-    {
-     "type": "text",
-     "text": "reasons."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Wobec każdego państwa członkowskiego, które w terminie późniejszym podpisze porozumienie bez zastrzeżenia ratyfikacji lub przyjęcia lub które je ratyfikuje, lub przyjmie, porozumienie wejdzie w życie po upływie miesiąca od dnia takiego podpisania albo złożenia dokumentu ratyfikacyjnego lub przyjęcia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli Uktadająca się Strona zaświadczy, że uchylenie immunitetu przewidzianego w ustępie 1 artykułu 2 niniejszego porozumienia jest niezbędne dla celów postępowania w odniesieniu do przestępstwa przeciwko bezpieczeństwu narodowemu, Komisja lub Trybunał uchylą immunitet w zakresie określonym w zaświadczeniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "W razie wykrycia faktu, który mógłby mieć rozstrzygający wpływ na decyzję odmawiającą uchylenia immunitetu, a który w chwili podejmowania tej decyzji nie był znany wnioskodawcy, ten ostatni może wystąpić z wnioskiem ponownym.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Każda Układająca się Strona może w czasie podpisania lub składania swego dokumentu ratyfikacyjnego lub przyjęcia wskazać terytorium lub terytoria, wobec których ma zastosowanie niniejsze porozumienie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Zadne z postanowień niniejszego porozumienia nie będzie interpretowane jako ograniczające bądź uchylające jakiekolwiek zobowiązanie przyjęte przez Układające się Strony na podstawie Konwencji."
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Każda Układająca się Strona może w czasie składania dokumentu ratyfikacyjnego lub przyjęcia lub w jakimkolwiek terminie późniejszym, poprzez oświadczenie skierowane do Sekretarza Generalnego Rady Europy, rozciągnąć stosowanie niniejszego poro-",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "If a Contracting Party certifies that waiver of the immunity provided for in paragraph 1 of Article 2 of this Agreement is necessary for the purpose of proceedings in respect of an offence against national security, the Commission or the Court shall waive immunity to the extent specified in the certificate.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "In the event of the discovery of a fact which might, by its nature, have a decisive influence and which at the time of the decision refusing waiver of immunity was unknown to the author of the request, the latter may make a new request to the Commission or the Court.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Nothing in this Agreement shall be construed as limiting or derogating from any of the obligations assumed by the Contracting Parties under the Convention."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "This Agreement shall be open to signature by the member States of the Council of Europe, who may become Parties to it either by:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) signature without reservation in respect of ratification or acceptance, or"
+      },
+      {
+       "type": "text",
+       "text": "(b) signature with reservation in respect of ratification or acceptance, followed by ratification or acceptance."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "This Agreement shall enter into force one month after the date on which five member States of the Council shall have become Parties to the Agreement, in accordance with the provisions of Article 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "As regards any member States who shall subsequently sign the Agreement without reservation in respect of ratification or acceptance or who shall ratify or accept it, the Agreement shall enter into force one month after the date of such signature or after the date of deposit of the instrument of ratification or acceptance.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 9"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Any Contracting Party may at the time of signature or when depositing its instrument of ratification or acceptance, specify the territory or territories to which this Agreement shall apply.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Any Contracting Party may, when depositing its instrument of ratification or acceptance or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Agreement to any other territory or territories",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "z umienia na jakiekolwiek inne terytorium lub terytoria wymienione w tym oświadczeniu, za których stosunki międzynarodowe ponosi odpowiedzialność lub w których imieniu ma prawo podejmować zobowiązania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Każde oświadczenie złożone zgodnie z poprzednim ustępem może, wobec jakiegokolwiek terytorium wymienionego w takim oświadczeniu, zostać cofnięte w sposób przewidziany w artykule 10 niniejszego porozumienia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie jest otwarte do podpisu dla państw członkowskich Rady Europy, które mogą stać się jego stroną przez:",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Niniejsze porozumienie obowiązywać będzie przez czas nieokreślony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Każda Uktadajgca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejsze porozumienie w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Wypowiedzenie takie stanie się skuteczne po sześciu miesiącach od otrzymania przez Sekretarza Generalnego takiej notyfikacji. Wypowiedzenie takie nie będzie zwalniać Układających się Stron od jakichkolwiek zobowiązań, które powstały na podstawie niniejszego porozumienia w odniesieniu do jakiejkolwiek osoby wymienionej w ustępie 1 artykułu 1.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Sekretarz Generalny Rady Europy powiadomi w drodze notyfikacji państwa członkowskie Rady o:",
    "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "podpisanie bez zastrzeżenia ratyfikacji lub przyjęcia lub",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "podpisanie z zastrzeżeniem ratyfikacji lub przyjęcia i następnie ratyfikowanie lub przyjęcie.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokumenty ratyfikacyjne lub przyjęcia składa się Sekretarzowi Generalnemu Rady Europy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie wejdzie w życie po upływie miesiąca od dnia, w którym pięć państw członkowskich Rady Europy stanie się jego stroną zgodnie z postanowieniem artykułu 7.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wobec każdego państwa członkowskiego, które w terminie późniejszym podpisze porozumienie bez zastrzeżenia ratyfikacji lub przyjęcia lub które je ratyfikuje, lub przyjmie, porozumienie wejdzie w życie po upływie miesiąca od dnia takiego podpisania albo złożenia dokumentu ratyfikacyjnego lub przyjęcia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda Układająca się Strona może w czasie podpisania lub składania swego dokumentu ratyfikacyjnego lub przyjęcia wskazać terytorium lub terytoria, wobec których ma zastosowanie niniejsze porozumienie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda Układająca się Strona może w czasie składania dokumentu ratyfikacyjnego lub przyjęcia lub w jakimkolwiek terminie późniejszym, poprzez oświadczenie skierowane do Sekretarza Generalnego Rady Europy, rozciągnąć stosowanie niniejszego poro-",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "If a Contracting Party certifies that waiver of the immunity provided for in paragraph 1 of Article 2 of this Agreement is necessary for the purpose of proceedings in respect of an offence against national security, the Commission or the Court shall waive immunity to the extent specified in the certificate.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "In the event of the discovery of a fact which might, by its nature, have a decisive influence and which at the time of the decision refusing waiver of immunity was unknown to the author of the request, the latter may make a new request to the Commission or the Court.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Nothing in this Agreement shall be construed as limiting or derogating from any of the obligations assumed by the Contracting Parties under the Convention."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall be open to signature by the member States of the Council of Europe, who may become Parties to it either by:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) signature without reservation in respect of ratification or acceptance, or"
-    },
-    {
-     "type": "text",
-     "text": "(b) signature with reservation in respect of ratification or acceptance, followed by ratification or acceptance."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall enter into force one month after the date on which five member States of the Council shall have become Parties to the Agreement, in accordance with the provisions of Article 7.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "As regards any member States who shall subsequently sign the Agreement without reservation in respect of ratification or acceptance or who shall ratify or accept it, the Agreement shall enter into force one month after the date of such signature or after the date of deposit of the instrument of ratification or acceptance.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 9"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any Contracting Party may at the time of signature or when depositing its instrument of ratification or acceptance, specify the territory or territories to which this Agreement shall apply.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any Contracting Party may, when depositing its instrument of ratification or acceptance or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Agreement to any other territory or territories",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "z umienia na jakiekolwiek inne terytorium lub terytoria wymienione w tym oświadczeniu, za których stosunki międzynarodowe ponosi odpowiedzialność lub w których imieniu ma prawo podejmować zobowiązania."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każde oświadczenie złożone zgodnie z poprzednim ustępem może, wobec jakiegokolwiek terytorium wymienionego w takim oświadczeniu, zostać cofnięte w sposób przewidziany w artykule 10 niniejszego porozumienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsze porozumienie obowiązywać będzie przez czas nieokreślony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda Uktadajgca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejsze porozumienie w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wypowiedzenie takie stanie się skuteczne po sześciu miesiącach od otrzymania przez Sekretarza Generalnego takiej notyfikacji. Wypowiedzenie takie nie będzie zwalniać Układających się Stron od jakichkolwiek zobowiązań, które powstały na podstawie niniejszego porozumienia w odniesieniu do jakiejkolwiek osoby wymienionej w ustępie 1 artykułu 1.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Sekretarz Generalny Rady Europy powiadomi w drodze notyfikacji państwa członkowskie Rady o:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
+     "path": "art_11/lit_a",
      "text": "każdym podpisaniu bez zastrzeżenia ratyfikacji lub przyjęcia,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
+     "path": "art_11/lit_b",
      "text": "każdym podpisaniu z zastrzeżeniem ratyfikacji lub przyjęcia,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_3/lit_c",
+     "path": "art_11/lit_c",
      "text": "złożeniu każdego dokumentu ratyfikacyjnego lub przyjęcia,",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_3/lit_d",
+     "path": "art_11/lit_d",
      "text": "każdej dacie wejścia w życie niniejszego porozumienia zgodnie z jego artykułem 8,",
      "children": []
     },
     {
      "type": "lit",
      "num": "e",
-     "path": "ust_3/lit_e",
+     "path": "art_11/lit_e",
      "text": "każdym oświadczeniu otrzymanym zgodnie z postanowieniami ustępu 2 artykułu 4 i ustępami 2i3 artykułu 9,",
      "children": []
     },
     {
      "type": "lit",
      "num": "f",
-     "path": "ust_3/lit_f",
+     "path": "art_11/lit_f",
      "text": "każdej notyfikacji dotyczącej wycofania oświadczenia zgodnie z postanowieniami ustępu 2 artykułu 4 i każdej notyfikacji otrzymanej zgodnie z postanowieniami artykułu 10 oraz o dacie, w której każde wypowiedzenie staje się skuteczne.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Na dowód czego niżej podpisani, będąc w tym celu należycie upoważnieni, podpisali niniejsze porozumienie."
-      },
-      {
-       "type": "text",
-       "text": "Sporządzono w Londynie dnia 6 maja 1969 r. w językach angielskim i francuskim, przy czym obydwa teksty mają jednakową moc, w jednym egzemplarzu, który zostanie złożony w archiwach Rady Europy. Sekretarz Generalny Rady Europy przekaże uwierzytelnione kopie każdemu z państw sygnatariuszy."
-      },
-      {
-       "type": "text",
-       "text": "specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings."
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani, będąc w tym celu należycie upoważnieni, podpisali niniejsze porozumienie."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Londynie dnia 6 maja 1969 r. w językach angielskim i francuskim, przy czym obydwa teksty mają jednakową moc, w jednym egzemplarzu, który zostanie złożony w archiwach Rady Europy. Sekretarz Generalny Rady Europy przekaże uwierzytelnione kopie każdemu z państw sygnatariuszy."
+  },
+  {
+   "type": "text",
+   "text": "specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings."
   },
   {
    "type": "ust",
@@ -893,20 +929,20 @@
     {
      "type": "text",
      "text": "— porozumienie ze zgłoszonymi zastrzeżeniami będzie niezmiennie zachowywane."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 27 lutego 1996 r."
-    },
-    {
-     "type": "text",
-     "text": "LS, Minister Spraw Zagranicznych: D. Rosati"
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 27 lutego 1996 r."
+  },
+  {
+   "type": "text",
+   "text": "LS, Minister Spraw Zagranicznych: D. Rosati"
   },
   {
    "type": "signature",

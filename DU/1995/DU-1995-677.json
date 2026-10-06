@@ -57,156 +57,160 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Przedmiot umowy"
-  },
-  {
-   "type": "text",
-   "text": "(1) Rozbudowywane w rejonie granicy państwowej polska autostrada A 2 z Warszawy w kierunku zachodnim i niemiecka autostrada A 12 z Berlina w kierunku wschodnim powinny być połączone w rejonie Swiecka i Frankfurtu nad Odrą."
-  },
-  {
-   "type": "text",
-   "text": "(2) W tym celu zostaną wykonane następujące przedsięwzięcia budowlane:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "na terytorium Rzeczypospolitej Polskiej i na terytorium Republiki Federalnej Niemiec: — budowa części mostu dla ruchu w kierunku jazdy z Warszawy do Berlina i — przebudowa istniejącej części mostu przez Odrę dla kierunku jazdy z Berlina do Warszawy dla przekraczającego granicę mostu,",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "b"
-  },
-  {
-   "type": "text",
-   "text": "= na terytorium Rzeczypospolitej Polskiej: — dobudowanie po obydwu stronach autostrady A 2 dodatkowych tącznic na odcinku między istniejacymi obiektami odprawy celnej i potaczeniem z droga krajowg nr 275, — przebudowa wezta komunikacyjnego taczacego autostradę A 2 z drogą krajową nr 275, — rozbudowa drogi krajowej nr 275 na odcinku między autostradą A 2 a kilometrem 6,2 (potaczenia dróg)."
-  },
-  {
-   "type": "text",
-   "text": "(3) Umawiające się Strony będą dążyć do tego, by budowa mostu granicznego i połączenia drogowe zostały zakończone w roku 1996."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Planowanie i wykonawstwo"
-  },
-  {
-   "type": "text",
-   "text": "(1) Republika Federalna Niemiec przejmuje wykonanie następujących czynności:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "wykonanie prac pomiarowych,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "wykonanie prac planistycznych i projektowych,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "ogłoszenie przetargu,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "zlecenie robót budowlanych,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "sprawdzenie dokumentacji wykonawczej,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "sprawowanie nadzoru budowlanego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "g",
-   "path": "lit_g",
-   "text": "sprawdzenie rozliczenia prac zleconych umowami, dotyczących mostu granicznego, po każdorazowym uzgodnieniu z Rzecząpospolitą Polską.",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przedmiot umowy",
    "children": [
     {
      "type": "text",
-     "text": "(2) Za wykonanie czynności wymienionych w ustępie 1 litery od a) do d) Rzeczpospolita Polska nie ponosi żadnych kosztów. Koszty wykonanych czynności wymienionych w ustępie 1 litery od e) do g) ponoszą Umawiające się Strony, dzieląc je między sobą odpowiednio do długości części mostu granicznego między terytoriami obydwu Umawiających się Stron. Przy określeniu wielkości kosztów ponoszonych przez Rzeczpospolitą Polską nie będzie uwzględniany niemiecki podatek obrotowy ani podobne podatki pośrednie."
+     "text": "(1) Rozbudowywane w rejonie granicy państwowej polska autostrada A 2 z Warszawy w kierunku zachodnim i niemiecka autostrada A 12 z Berlina w kierunku wschodnim powinny być połączone w rejonie Swiecka i Frankfurtu nad Odrą."
     },
     {
      "type": "text",
-     "text": "(3) Rzeczpospolita Polska przejmuje wykonanie wymienionych w ustępie 1 czynności dla połączeń drogowych na swoim terytorium."
+     "text": "(2) W tym celu zostaną wykonane następujące przedsięwzięcia budowlane:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "na terytorium Rzeczypospolitej Polskiej i na terytorium Republiki Federalnej Niemiec: — budowa części mostu dla ruchu w kierunku jazdy z Warszawy do Berlina i — przebudowa istniejącej części mostu przez Odrę dla kierunku jazdy z Berlina do Warszawy dla przekraczającego granicę mostu,",
+     "children": []
     },
     {
      "type": "text",
-     "text": "(4) Przy budowie i przebudowie mostu granicznego wykonawcy będą zobowiązani w umowie do wystawiania oddzielnych faktur za wykonanie:"
+     "text": "b"
     },
     {
      "type": "text",
-     "text": "— wszystkich przyczółków i filarów na terytorium każdej z Umawiających się Stron,"
+     "text": "= na terytorium Rzeczypospolitej Polskiej: — dobudowanie po obydwu stronach autostrady A 2 dodatkowych tącznic na odcinku między istniejacymi obiektami odprawy celnej i potaczeniem z droga krajowg nr 275, — przebudowa wezta komunikacyjnego taczacego autostradę A 2 z drogą krajową nr 275, — rozbudowa drogi krajowej nr 275 na odcinku między autostradą A 2 a kilometrem 6,2 (potaczenia dróg)."
     },
     {
      "type": "text",
-     "text": "— górnych elementów mostu (ustrój niosący), włącznie z tymi pracami, które odnoszą się tylko do całej konstrukcji, odpowiednio do długości części mostu granicznego mierzonych wzdłuż osi mostu między osiami skrajnych podpór a granicą między terytoriami obydwu Umawiających się Stron."
-    },
+     "text": "(3) Umawiające się Strony będą dążyć do tego, by budowa mostu granicznego i połączenia drogowe zostały zakończone w roku 1996."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Planowanie i wykonawstwo",
+   "children": [
     {
      "type": "text",
-     "text": "(5) Most graniczny będzie projektowany, wykonany i odebrany według norm i przepisów budowlanych obowiązujących w Republice Federalnej Niemiec. Dla pojedynczych elementów konstrukcji mostu Umawiające się Strony mogą uzgodnić zastosowanie polskich przepisów budowlanych. Połączenia drogowe będą projektowane, wykonane i odebrane według norm i przepisów budowlanych obowiązujących w Rzeczypospolitej Polskiej."
+     "text": "(1) Republika Federalna Niemiec przejmuje wykonanie następujących czynności:"
     },
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "wykonanie prac pomiarowych,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Pozyskanie gruntów"
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "wykonanie prac planistycznych i projektowych,",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "ogłoszenie przetargu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "zlecenie robót budowlanych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "sprawdzenie dokumentacji wykonawczej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_2/lit_f",
+     "text": "sprawowanie nadzoru budowlanego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_2/lit_g",
+     "text": "sprawdzenie rozliczenia prac zleconych umowami, dotyczących mostu granicznego, po każdorazowym uzgodnieniu z Rzecząpospolitą Polską.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Za wykonanie czynności wymienionych w ustępie 1 litery od a) do d) Rzeczpospolita Polska nie ponosi żadnych kosztów. Koszty wykonanych czynności wymienionych w ustępie 1 litery od e) do g) ponoszą Umawiające się Strony, dzieląc je między sobą odpowiednio do długości części mostu granicznego między terytoriami obydwu Umawiających się Stron. Przy określeniu wielkości kosztów ponoszonych przez Rzeczpospolitą Polską nie będzie uwzględniany niemiecki podatek obrotowy ani podobne podatki pośrednie."
+      },
+      {
+       "type": "text",
+       "text": "(3) Rzeczpospolita Polska przejmuje wykonanie wymienionych w ustępie 1 czynności dla połączeń drogowych na swoim terytorium."
+      },
+      {
+       "type": "text",
+       "text": "(4) Przy budowie i przebudowie mostu granicznego wykonawcy będą zobowiązani w umowie do wystawiania oddzielnych faktur za wykonanie:"
+      },
+      {
+       "type": "text",
+       "text": "— wszystkich przyczółków i filarów na terytorium każdej z Umawiających się Stron,"
+      },
+      {
+       "type": "text",
+       "text": "— górnych elementów mostu (ustrój niosący), włącznie z tymi pracami, które odnoszą się tylko do całej konstrukcji, odpowiednio do długości części mostu granicznego mierzonych wzdłuż osi mostu między osiami skrajnych podpór a granicą między terytoriami obydwu Umawiających się Stron."
+      },
+      {
+       "type": "text",
+       "text": "(5) Most graniczny będzie projektowany, wykonany i odebrany według norm i przepisów budowlanych obowiązujących w Republice Federalnej Niemiec. Dla pojedynczych elementów konstrukcji mostu Umawiające się Strony mogą uzgodnić zastosowanie polskich przepisów budowlanych. Połączenia drogowe będą projektowane, wykonane i odebrane według norm i przepisów budowlanych obowiązujących w Rzeczypospolitej Polskiej."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Pozyskanie gruntów",
+   "children": [
     {
      "type": "text",
      "text": "Każda z Umawiających się Stron zadba, aby uzyskać na swoim terytorium, na stałe lub na czas określony, niezbędne tereny dla budowy i przebudowy obiektów wymienionych w artykule 1 ustęp 2 i przekazać je do dyspozycji w odpowiednim czasie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Odbiór"
-    },
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Odbiór",
+   "children": [
     {
      "type": "text",
      "text": "Odbiór robót budowlanych będzie wykonany przez odpowiednio właściwe administracje Umawiających się Stron (tj. obecnie Generalną Dyrekcję Dróg Publicznych ze strony polskiej i Zarząd Drogowy Landu Brandenburgii ze strony niemieckiej), oddzielnie dla każdej części mostu i dla połączeń drogowych. Po każdym zakończeniu prac budowlanych część mostu będzie odbierana według niemieckich przepisów prawa, a połączenia drogowe — według polskich przepisów prawa stosowanych w umowach dotyczących robót budowlanych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Utrzymanie"
-    },
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Utrzymanie",
+   "children": [
     {
      "type": "text",
      "text": "(1) Utrzymanie, naprawy i remonty mostu granicznego oraz utrzymanie zimowe na moście granicznym zostaną uregulowane oddzielnie."
@@ -218,15 +222,16 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Koszty"
-    },
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Koszty",
+   "children": [
     {
      "type": "text",
      "text": "(1) Każda z Umawiających się Stron ponosi koszty budowy i przebudowy mostu granicznego, włącznie z kosztami pozyskania gruntów dla tej części mostu, która znajduje się na jej terytorium. W związku z tym Republika Federalna Niemiec ponosi około 60%, a Rzeczpospolita Polska około 40% kosztów. Przy podziale tych kosztów nie należy uwzględniać wydatków ponoszonych na czynności wymienione w artykule 2 ustęp 1 litery od a) do d) oraz niemieckiego podatku obrotowego ani podobnych podatków pośrednich. Podatki te będą obciążały tylko Republikę Federalną Niemiec."
@@ -238,15 +243,16 @@
     {
      "type": "text",
      "text": "(3) Rzeczpospolita Polska ponosi koszty rozbudowy i przebudowy, włącznie z pozyskaniem gruntów, oraz utrzymania, napraw i remontów połączeń drogowych na swoim terytorium."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Płatności"
-    },
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Płatności",
+   "children": [
     {
      "type": "text",
      "text": "(1) Republika Federalna Niemiec stawia do dyspozycji Rzeczypospolitej Polskiej wkład finansowy w kwocie 40 mln DM (słownie: czterdzieści milionów marek niemieckich), które Rzeczpospolita Polska przeznaczy, przede wszystkim, na finansowanie budowy i przebudowy mostu granicznego, jak również rozbudowy i przebudowy połączeń drogowych."
@@ -258,15 +264,16 @@
     {
      "type": "text",
      "text": "(3) Potrzeby finansowe przewidywane do prowadzenia przez Rzeczpospolitą Polską prac przy rozbudowie i przebudowie połączeń drogowych będą zgłaszane Republice Federalnej Niemiec, reprezentowanej przez Federalne Ministerstwo Komunikacji, z dwumiesięcznym wyprzedzeniem i będą przekazywane z budżetu Federalnego Ministerstwa Komunikacji na podane konto."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Prawo przekraczania granicy"
-    },
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Prawo przekraczania granicy",
+   "children": [
     {
      "type": "text",
      "text": "(1) Obywatele każdej z Umawiających się Stron, zatrudnieni przy budowie oraz przebudowie mostu granicznego, jak również obywatele państw członkowskich Wspólnot Europejskich, którzy w stosunku do"
@@ -294,15 +301,16 @@
     {
      "type": "text",
      "text": "(5) Postanowienia tego artykułu będą obowiązywały dopóty, dopóki Umawiające się Strony nie zawrą nowego porozumienia dotyczącego przekraczania granicy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia podatkowe"
-    },
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Postanowienia podatkowe",
+   "children": [
     {
      "type": "text",
      "text": "(1) Przy dostarczaniu urządzeń i materiałów oraz przy świadczeniach służących do budowy i przebudowy mostu granicznego będzie stosowane prawo o podatku obrotowym Republiki Federalnej Niemiec. Przy obrocie tymi urządzeniami i materiałami nie będzie pobierany ze strony polskiej podatek obrotowy ani inne podatki pośrednie."
@@ -326,15 +334,16 @@
     {
      "type": "text",
      "text": "(5) Postanowienia niniejszej umowy nie naruszają Umowy z dnia 18 grudnia 1972 r. między Polską Rzecząpospolitą Ludową a Republiką Federalną Niemiec w sprawie zapobieżenia podwójnemu opodatkowaniu w zakresie podatków od dochodu i majątku oraz Protokołu do tej umowy z tego samego dnia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Komisja Mieszana"
-    },
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Komisja Mieszana",
+   "children": [
     {
      "type": "text",
      "text": "(1) Do spraw budowy i przebudowy mostu granicznego zostanie utworzona polsko-niemiecka Komisja Mieszana. Składać się ona będzie z przewodniczących obu delegacji oraz innych członków delegowanych na posiedzenia przez każdą z Umawiających się Stron. Umawiające się Strony poinformują się wzajemnie o wyznaczeniu przewodniczących delegacji do Komisji Mieszanej. Każdy przewodniczący delegacji może zwołać pod swoim przewodnictwem posiedzenie Komisji w porozumieniu z przewodniczącym delegacji drugiej Umawiającej się Strony. Posiedzenie takie musi odbyć się w ciągu jednego miesiąca od wystąpienia z wnioskiem o jego zwołanie."
@@ -342,96 +351,98 @@
     {
      "type": "text",
      "text": "(2) Zadaniem Komisji Mieszanej jest wyjaśnienie podstawowych problemów dotyczących budowy i przebudowy mostu granicznego, jak również przedstawianie Umawiającym się Stronom zaleceń, w szczególności w sprawach:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_10/lit_a",
+     "text": "konstrukcji i wymiarów mostu granicznego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_10/lit_b",
+     "text": "określenia zakresu wspólnych prac,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_10/lit_c",
+     "text": "sprawdzenia projektu obiektu budowlanego i propozycji przydziału zleceń,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_10/lit_d",
+     "text": "zgodności realizowanych płatności,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_10/lit_e",
+     "text": "odbioru obiektu budowlanego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_10/lit_f",
+     "text": "podziału kosztów dotyczących budowy i przebudowy mostu granicznego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_10/lit_g",
+     "text": "przekazania i przyjęcia wykonanego obiektu budowlanego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_10/lit_h",
+     "text": "interpretacji lub stosowania niniejszej umowy w przypadkach sporów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) Każda delegacja w ramach Komisji Mieszanej może zażądać od właściwych władz administracyjnych drugiej Umawiającej się Strony przedłożenia stosownych dokumentów, które uzna za niezbędne dla przygotowania decyzji Komisji."
+      },
+      {
+       "type": "text",
+       "text": "szać ekspertów na posiedzenie Komisji Mieszanej."
+      },
+      {
+       "type": "text",
+       "text": "(5) Komisja Mieszana podejmuje swoje decyzje na zasadzie wzajemnego porozumienia."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "konstrukcji i wymiarów mostu granicznego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "określenia zakresu wspólnych prac,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "sprawdzenia projektu obiektu budowlanego i propozycji przydziału zleceń,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "zgodności realizowanych płatności,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "odbioru obiektu budowlanego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "f",
-   "path": "lit_f",
-   "text": "podziału kosztów dotyczących budowy i przebudowy mostu granicznego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "g",
-   "path": "lit_g",
-   "text": "przekazania i przyjęcia wykonanego obiektu budowlanego,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "h",
-   "path": "lit_h",
-   "text": "interpretacji lub stosowania niniejszej umowy w przypadkach sporów.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Rozbieżności",
    "children": [
     {
      "type": "text",
-     "text": "(3) Każda delegacja w ramach Komisji Mieszanej może zażądać od właściwych władz administracyjnych drugiej Umawiającej się Strony przedłożenia stosownych dokumentów, które uzna za niezbędne dla przygotowania decyzji Komisji."
-    },
-    {
-     "type": "text",
-     "text": "szać ekspertów na posiedzenie Komisji Mieszanej."
-    },
-    {
-     "type": "text",
-     "text": "(5) Komisja Mieszana podejmuje swoje decyzje na zasadzie wzajemnego porozumienia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Rozbieżności"
-    },
-    {
-     "type": "text",
      "text": "Rozbieżności dotyczące interpretacji lub stosowania niniejszej umowy powinny być rozstrzygane przez właściwe władze Umawiających się Stron. Każda z Umawiających się Stron może zasięgnąć opinii Komisji Mieszanej w tych sprawach. Wyjątkowo może być wykorzystana droga dyplomatyczna."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Pozostałe przedsięwzięcia budowlane"
-    },
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Pozostałe przedsięwzięcia budowlane",
+   "children": [
     {
      "type": "text",
      "text": "(1) W celu uzyskania właściwej wydajności oraz funkcjonalności odpraw granicznych towarów (wwóz, wywóz i przewóz towarów tranzytem, włącznie ze środkami transportu) jest wymagana budowa urządzeń odprawy granicznej (budynki, parkingi i inne urządzenia). Powinny być one zlokalizowane na terytorium Rzeczypospolitej Polskiej."
@@ -443,15 +454,16 @@
     {
      "type": "text",
      "text": "(3) Urządzenia odprawy granicznej powinny zostać wybudowane w roku 1994."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie umowy"
-    },
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Wejście w życie umowy",
+   "children": [
     {
      "type": "text",
      "text": "(1) Umowa niniejsza podlega ratyfikacji; wymiana dokumentów ratyfikacyjnych nastąpi możliwie szybko w Bonn."
@@ -459,15 +471,16 @@
     {
      "type": "text",
      "text": "(2) Niniejsza umowa wejdzie w życie w pierwszym dniu drugiego miesiąca po wymianie dokumentów ratyfikacyjnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Okres obowiązywania i zmiany umowy"
-    },
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Okres obowiązywania i zmiany umowy",
+   "children": [
     {
      "type": "text",
      "text": "(1) Niniejsza umowa jest zawarta na czas nieokreślony. Może być ona zmieniona lub uzupełniona tylko za zgodą Umawiających się Stron."
@@ -479,16 +492,17 @@
     {
      "type": "note",
      "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Słubicach dnia 23 kwietnia 1993 r. w dwóch egzemplarzach, każdy w językach polskim i niemieckim, przy czym obydwa teksty mają jednakową moc. Za Za Rzeczpospolitą Polska Republikę Federalną Niemiec Z. Jaworski F. Bertele G. Krause"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 3 września 1993 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
     }
-   ]
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Słubicach dnia 23 kwietnia 1993 r. w dwóch egzemplarzach, każdy w językach polskim i niemieckim, przy czym obydwa teksty mają jednakową moc. Za Za Rzeczpospolitą Polska Republikę Federalną Niemiec Z. Jaworski F. Bertele G. Krause"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 3 września 1993 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

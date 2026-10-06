@@ -113,72 +113,80 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Rzad Polski wyraza niniejszym zgodę na ustanowienie Przedstawicielstwa Komisji na terytorium Rzeczypospolitej Polskiej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Każda ze Wspólnot Europejskich — Europejska Wspólnota Węgla i Stali, Europejska Wspólnota Gospodarcza oraz Europejska Wspólnota Energii Atomowej — posiadać będzie osobowość prawną na terytorium Rzeczypospolitej Polskiej.",
-   "children": []
+   "path": "art_1",
+   "text": "Rzad Polski wyraza niniejszym zgodę na ustanowienie Przedstawicielstwa Komisji na terytorium Rzeczypospolitej Polskiej.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Wspólnoty będą zatem miały zdolność do zawierania umów, do nabywania i zbywania nieruchomości i ruchomości w zakresie niezbędnym dla skutecznego spełniania swoich obowiązków, do wykonywania czynności prawnych i będą reprezentowane w tych celach przez Komisję.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Każda ze Wspólnot Europejskich — Europejska Wspólnota Węgla i Stali, Europejska Wspólnota Gospodarcza oraz Europejska Wspólnota Energii Atomowej — posiadać będzie osobowość prawną na terytorium Rzeczypospolitej Polskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Wspólnoty będą zatem miały zdolność do zawierania umów, do nabywania i zbywania nieruchomości i ruchomości w zakresie niezbędnym dla skutecznego spełniania swoich obowiązków, do wykonywania czynności prawnych i będą reprezentowane w tych celach przez Komisję.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przedstawicielstwo Komisji, jego szef i jego członkowie, jak również członkowie ich rodzin pozostający z nimi we wspólnocie domowej, będą na terytorium Rzeczypospolitej Polskiej korzystać z takich samych praw, przywilejów i immunitetów oraz podlegać takim samym obowiązkom, jakie odpowiadają tym, które zostały ustalone w Konwencji wiedeńskiej o stosunkach dyplomatycznych z dnia 18 kwietnia 1961 r. oraz przyznane i przyjęte przez misje dyplomatyczne akredytowane w Rzeczypospolitej Polskiej, szefów i członków tych misji, jak również członków ich rodzin, pozostających z nimi we wspólnocie domowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Inne postanowienia Konwencji wiedeńskiej o stosunkach dyplomatycznych z dnia 18 kwietnia 1961 r. stosuje się mutatis mutandis.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Prawa te oraz przywileje i immunitety dyplomatyczne będą przyznane pod warunkiem, że zgodnie z postanowieniami artykułu 17 Protokołu w sprawie przywilejów i immunitetów Wspólnot Europejskich załączonego do traktatu ustanawiającego jedną Radę i jedną Komisję Wspólnot Europejskich, sporządzonego w Brukseli dnia 8 kwietnia 1965 r., Państwa Członkowskie Wspólnot Europejskich przyznają takie same prawa oraz przywileje i immunitety Przedstawicielstwu Rzeczypospolitej Polskiej, jego szefowi, jego członkom, jak również członkom ich rodzin pozostającym z nimi we wspólnocie domowej.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Przedstawicielstwo Komisji, jego szef i jego członkowie, jak również członkowie ich rodzin pozostający z nimi we wspólnocie domowej, będą na terytorium Rzeczypospolitej Polskiej korzystać z takich samych praw, przywilejów i immunitetów oraz podlegać takim samym obowiązkom, jakie odpowiadają tym, które zostały ustalone w Konwencji wiedeńskiej o stosunkach dyplomatycznych z dnia 18 kwietnia 1961 r. oraz przyznane i przyjęte przez misje dyplomatyczne akredytowane w Rzeczypospolitej Polskiej, szefów i członków tych misji, jak również członków ich rodzin, pozostających z nimi we wspólnocie domowej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rząd Polski uznaje niniejszym laissez-passer, wydawane przez Wspólnoty Europejskie ich urzędnikom i innym pracownikom ich instytucji, za ważne dokumenty podróży."
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Inne postanowienia Konwencji wiedeńskiej o stosunkach dyplomatycznych z dnia 18 kwietnia 1961 r. stosuje się mutatis mutandis.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Wszelkie spory dotyczące stosowania lub interpretacji niniejszej umowy będą rozstrzygane w drodze konsultacji między obu Stronami w celu doprowadzenia do postępowania pojednawczego."
-    },
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Prawa te oraz przywileje i immunitety dyplomatyczne będą przyznane pod warunkiem, że zgodnie z postanowieniami artykułu 17 Protokołu w sprawie przywilejów i immunitetów Wspólnot Europejskich załączonego do traktatu ustanawiającego jedną Radę i jedną Komisję Wspólnot Europejskich, sporządzonego w Brukseli dnia 8 kwietnia 1965 r., Państwa Członkowskie Wspólnot Europejskich przyznają takie same prawa oraz przywileje i immunitety Przedstawicielstwu Rzeczypospolitej Polskiej, jego szefowi, jego członkom, jak również członkom ich rodzin pozostającym z nimi we wspólnocie domowej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Rząd Polski uznaje niniejszym laissez-passer, wydawane przez Wspólnoty Europejskie ich urzędnikom i innym pracownikom ich instytucji, za ważne dokumenty podróży.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wszelkie spory dotyczące stosowania lub interpretacji niniejszej umowy będą rozstrzygane w drodze konsultacji między obu Stronami w celu doprowadzenia do postępowania pojednawczego.",
+   "children": [
     {
      "type": "text",
      "text": "Article 1"
@@ -190,111 +198,112 @@
     {
      "type": "text",
      "text": "Article 2"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "The European Communities — the European Coal and Steel Community, the European Economic Community and the European Atomic Energy Community — shall each have legal personality on the territory of the Republic of Poland.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "The Communities shall, thus, have the capacity to conclude contracts, to acquire and dispose of immovable and movable property as necessary for the effective fulfilment of their duties and to conduct legal proceedings, and shall be represented for that purpose by the Commission.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "The Delegation of the Commission, its head and its members, as well as the members of their families forming part of their respective households, shall, on the territory of the Republic of Poland, enjoy such rights, privileges and immunities and be subject to such obligations as correspond to those laid down in the Vienna Convention of 18 April 1961 on Diplomatic Relations and respectively accorded to and assumed by Diplomatic Missions accredited to the Republic of Poland, the heads and members of those Missions, as well as the members of their families forming part of their respective households.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "The other provisions of the Vienna Convention of 18 April 1961 on Diplomatic Relations shall be applicable mutatis mutandis.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Those rights and diptomatic privileges and immunities shall be accorded on condition that, in conformity with the provisions of article 17 of the Protocol on the privileges and immunities of the European Communities annexed to the treaty establishing a single Council and a single Commission of the European Communities done at Brussels on 8 April 1965, the Member States of the European Communities accord the same rights and diplomatic privileges and immunities to the Mission of the Republic of Poland, to its head and to its members, as well as to the members of their families forming part of their respective households.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "The Polish Government hereby recognizes the laissez- -passer issued by the European Communities to officials and other servants of its institutions as valid travel documents."
+      },
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Any dispute concerning the interpretation or application of this Agreement shall be settled by consultations between the two Parties with the aim of arriving at a conciliation."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The European Communities — the European Coal and Steel Community, the European Economic Community and the European Atomic Energy Community — shall each have legal personality on the territory of the Republic of Poland.",
-   "children": []
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Każda Umawiająca się Strona zawiadomi drugą Stronę o wypełnieniu odnośnych wymogów proceduralnych niezbędnych dla przyjęcia niniejszej umowy, która wejdzie w życie w dniu otrzymania drugiej notyfikacji.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Communities shall, thus, have the capacity to conclude contracts, to acquire and dispose of immovable and movable property as necessary for the effective fulfilment of their duties and to conduct legal proceedings, and shall be represented for that purpose by the Commission.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    }
-   ]
+   "type": "text",
+   "text": "Na dowód czego niżej wymienieni, wyposażeni w należyte pełnomocnictwa, podpisali niniejszą umowę. Sporządzono w Brukseli dnia 21 czerwca 1990 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym obydwa teksty mają jednakową moc."
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Delegation of the Commission, its head and its members, as well as the members of their families forming part of their respective households, shall, on the territory of the Republic of Poland, enjoy such rights, privileges and immunities and be subject to such obligations as correspond to those laid down in the Vienna Convention of 18 April 1961 on Diplomatic Relations and respectively accorded to and assumed by Diplomatic Missions accredited to the Republic of Poland, the heads and members of those Missions, as well as the members of their families forming part of their respective households.",
-   "children": []
+   "type": "text",
+   "text": "Za Rząd Rzeczypospolitej Polskiej J. Makarczyk Za Komisję Wspólnot Europejskich F. Andriessen"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The other provisions of the Vienna Convention of 18 April 1961 on Diplomatic Relations shall be applicable mutatis mutandis.",
-   "children": []
+   "type": "text",
+   "text": "Article 6"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Those rights and diptomatic privileges and immunities shall be accorded on condition that, in conformity with the provisions of article 17 of the Protocol on the privileges and immunities of the European Communities annexed to the treaty establishing a single Council and a single Commission of the European Communities done at Brussels on 8 April 1965, the Member States of the European Communities accord the same rights and diplomatic privileges and immunities to the Mission of the Republic of Poland, to its head and to its members, as well as to the members of their families forming part of their respective households.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "The Polish Government hereby recognizes the laissez- -passer issued by the European Communities to officials and other servants of its institutions as valid travel documents."
-    },
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Any dispute concerning the interpretation or application of this Agreement shall be settled by consultations between the two Parties with the aim of arriving at a conciliation."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Każda Umawiająca się Strona zawiadomi drugą Stronę o wypełnieniu odnośnych wymogów proceduralnych niezbędnych dla przyjęcia niniejszej umowy, która wejdzie w życie w dniu otrzymania drugiej notyfikacji."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego niżej wymienieni, wyposażeni w należyte pełnomocnictwa, podpisali niniejszą umowę. Sporządzono w Brukseli dnia 21 czerwca 1990 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Za Rząd Rzeczypospolitej Polskiej J. Makarczyk Za Komisję Wspólnot Europejskich F. Andriessen"
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Each Contracting Party shall notify the other of the completion of the respective procedures necessary for the approval of the present Agreement, which will enter into force on the date of reception of the second notification."
-    },
-    {
-     "type": "text",
-     "text": "In witness whereof the undersigned, duly authorised to this effect, have signed this Agreement. Done at Brussels on 21 June 1990 in duplicate in the Polish and English languages, both texts being equally authentic."
-    },
-    {
-     "type": "text",
-     "text": "For the Government of the Republic of Poland J. Makarczyk For the Commission of the European Communities F. Andriessen"
-    },
-    {
-     "type": "text",
-     "text": "“ Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 12 sierpnia 1990 r.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski L.S.",
-     "quoted": true
-    }
-   ]
+   "type": "text",
+   "text": "Each Contracting Party shall notify the other of the completion of the respective procedures necessary for the approval of the present Agreement, which will enter into force on the date of reception of the second notification."
+  },
+  {
+   "type": "text",
+   "text": "In witness whereof the undersigned, duly authorised to this effect, have signed this Agreement. Done at Brussels on 21 June 1990 in duplicate in the Polish and English languages, both texts being equally authentic."
+  },
+  {
+   "type": "text",
+   "text": "For the Government of the Republic of Poland J. Makarczyk For the Commission of the European Communities F. Andriessen"
+  },
+  {
+   "type": "text",
+   "text": "“ Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 12 sierpnia 1990 r.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: W. Jaruzelski L.S.",
+   "quoted": true
   },
   {
    "type": "signature",

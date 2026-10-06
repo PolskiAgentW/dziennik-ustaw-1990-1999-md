@@ -65,116 +65,120 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Umawiające się Strony będą rozwijać współpracę w dziedzinie edukacji, nauki, kultury, sztuki, dziennikarstwa, sportu i kontaktów młodzieżowych.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać współpracę w dziedzinie edukacji, nauki, kultury, sztuki, dziennikarstwa, sportu i kontaktów młodzieżowych."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony będą popierać rozwój kontaktów w dziedzinie edukacji, w szczególności poprzez wymianę wizyt pracowników akademickich i studentów, naukowców i nauczycieli z instytucji specjalistycznych i naukowych, a także poprzez przyznawanie stypendiów i szkolenie specjalistyczne.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W tym celu będą wymieniane podręczniki, programy nauczania oraz materiały pedagogiczne i metodyczne."
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony będą wzajemnie popierać studiowanie języka, literatury, kultury i historii drugiego Państ-",
+   "children": [
+    {
+     "type": "text",
+     "text": "wa."
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać rozwój kontaktów w dziedzinie edukacji, w szczególności poprzez wymianę wizyt pracowników akademickich i studentów, naukowców i nauczycieli z instytucji specjalistycznych i naukowych, a także poprzez przyznawanie stypendiów i szkolenie specjalistyczne."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą starać się ułatwiać rozwój stosunków naukowych pomiędzy obydwoma Państwami. W tym celu będą wymieniać wizyty naukowców w celach studyjnych i na wykłady oraz literaturę i publikacje naukowe.",
+   "children": [],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "W tym celu będą wymieniane podręczniki, programy nauczania oraz materiały pedagogiczne i metodyczne."
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą popierać rozwój kontaktów w dziedzinie nauk medycznych i zdrowia publicznego poprzez wymianę specjalistów i informacji.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W celu wzajemnego zapoznawania narodów obu Państw z życiem, tradycjami i kulturą Umawiające się Strony będą popierać rozwój współpracy pomiędzy nimi w dziedzinie kultury i sztuki. Będą w szczególności ułatwiać wymianę wystaw oraz informacji o życiu, na temat historii i współczesnych osiągnięć kultury obu Państw.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Takie kontakty powinny być również rozwijane pomiędzy pracownikami muzeów, bibliotek, archiwów, a także pomiędzy twórcami i artystami."
+    }
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą wzajemnie popierać studiowanie języka, literatury, kultury i historii drugiego Państ-"
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą popierać współpracę między dziennikarzami i organizacjami radiowymi i telewizyjnymi obu Państw, w tym wymianę programów radiowych i telewizyjnych oraz wizyt delegacji i poszczególnych specjalistów w dziedzinie telewizji i radiofonii.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "wa."
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie sportu, szczególnie w drodze wymiany sportowców, trenerów i organizowania spotkań oraz uczestnictwa w spotkaniach i zawodach sportowych organizowanych w drugim Państwie.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Umawiające się Strony będą popierać kontakty między organizacjami młodzieżowymi, mając na celu pogłębienie wzajemnego zrozumienia między obydwoma narodami.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą starać się ułatwiać rozwój stosunków naukowych pomiędzy obydwoma Państwami. W tym celu będą wymieniać wizyty naukowców w celach studyjnych i na wykłady oraz literaturę i publikacje naukowe."
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Niniejsza umowa nie wyklucza innych przedsięwzięć zgodnych z zasadami niniejszej umowy, które zostaną uzgodnione przez Umawiające się Strony.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "W celu realizacji niniejszej umowy Umawiające się Strony będą uzgadniać programy współpracy na ściśle określone okresy, obejmujące konkretne formy współpracy, przedsięwzięcia i wymianę, jak również warunki organizacyjne i finansowe ich realizacji.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać rozwój kontaktów w dziedzinie nauk medycznych i zdrowia publicznego poprzez wymianę specjalistów i informacji."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6"
-  },
-  {
-   "type": "text",
-   "text": "W celu wzajemnego zapoznawania narodów obu Państw z życiem, tradycjami i kulturą Umawiające się Strony będą popierać rozwój współpracy pomiędzy nimi w dziedzinie kultury i sztuki. Będą w szczególności ułatwiać wymianę wystaw oraz informacji o życiu, na temat historii i współczesnych osiągnięć kultury obu Państw."
-  },
-  {
-   "type": "text",
-   "text": "Takie kontakty powinny być również rozwijane pomiędzy pracownikami muzeów, bibliotek, archiwów, a także pomiędzy twórcami i artystami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę między dziennikarzami i organizacjami radiowymi i telewizyjnymi obu Państw, w tym wymianę programów radiowych i telewizyjnych oraz wizyt delegacji i poszczególnych specjalistów w dziedzinie telewizji i radiofonii."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie sportu, szczególnie w drodze wymiany sportowców, trenerów i organizowania spotkań oraz uczestnictwa w spotkaniach i zawodach sportowych organizowanych w drugim Państwie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać kontakty między organizacjami młodzieżowymi, mając na celu pogłębienie wzajemnego zrozumienia między obydwoma narodami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Niniejsza umowa nie wyklucza innych przedsięwzięć zgodnych z zasadami niniejszej umowy, które zostaną uzgodnione przez Umawiające się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "W celu realizacji niniejszej umowy Umawiające się Strony będą uzgadniać programy współpracy na ściśle określone okresy, obejmujące konkretne formy współpracy, przedsięwzięcia i wymianę, jak również warunki organizacyjne i finansowe ich realizacji."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Za dzień wejścia w życie umowy uważać się będzie dzień otrzymania noty późniejszej."
-  },
-  {
-   "type": "text",
-   "text": "Umowa jest zawarta na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci moc po upływie sześciu miesięcy od dnia wypowiedzenia."
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Niniejsza umowa podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron, co zostanie stwierdzone w drodze wymiany not. Za dzień wejścia w życie umowy uważać się będzie dzień otrzymania noty późniejszej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umowa jest zawarta na czas nieokreślony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci moc po upływie sześciu miesięcy od dnia wypowiedzenia."
+    }
+   ],
+   "label": "Artykuł 12"
   },
   {
    "type": "text",

@@ -77,154 +77,159 @@
    "text": "przyjmuje dnia dwudziestego dziewiątego października tysiąc dziewięćset siedemdziesiątego szóstego roku następującą konwencję, która otrzyma nazwę: Konwencja dotycząca statków handlowych (normy minimalne), z 1976 r.:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli niniejszy artykuł nie stanowi inaczej, konwencja ma zastosowanie do każdego statku morskiego będącego własnością publiczną lub prywatną, używanego w celach handlowych do przewozu towarów lub pasażerów albo do innych celów handlowych.",
-   "children": []
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Jeżeli niniejszy artykuł nie stanowi inaczej, konwencja ma zastosowanie do każdego statku morskiego będącego własnością publiczną lub prywatną, używanego w celach handlowych do przewozu towarów lub pasażerów albo do innych celów handlowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Ustawodawstwo krajowe określi, kiedy statki mają być uważane za statki morskie w rozumieniu niniejszej konwencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Niniejsza konwencja ma zastosowanie do holowników morskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Niniejsza konwencja nie ma zastosowania do:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) statków poruszanych głównie za pomocą żagli, bez względu nato, czy statki są wyposażone w maszyny pomocnicze;"
+      },
+      {
+       "type": "text",
+       "text": "(b) statków używanych do rybołówstwa, połowu wielorybów lub do podobnych czynności;"
+      },
+      {
+       "type": "text",
+       "text": "(c) statków o małym tonażu i do statków takich, jak platformy wiertnicze i eksploatacyjne, gdy nie są używane do żeglugi; decyzję co do tego, które statki są objęte niniejszym punktem, podejmie właściwa władza każdego kraju, po konsultacji z najbardziej reprezentatywnymi organizacjami armatorów i marynarzy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Żadne z postanowień niniejszej konwencji nie będzie uważane za rozszerzające zakres stosowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "CONVENTION 147"
+      },
+      {
+       "type": "text",
+       "text": "Convention Concerning Minimum Standards in Merchant Ships"
+      },
+      {
+       "type": "text",
+       "text": "The General Conference of the International Labour Organisation,"
+      },
+      {
+       "type": "text",
+       "text": "Having been convened at Geneva by the Governing Body of the International Labour Office and having met in its Sixty-second Session on 13 October 1976, and"
+      },
+      {
+       "type": "text",
+       "text": "Recalling the provisions of the Seafarers’ Engagement (Foreign Vessels) Recommendation, 1958, and of the Social Conditions and Safety (Seafarers) Recommendation, 1958, and"
+      },
+      {
+       "type": "text",
+       "text": "Having decided upon the adoption of certain proposals with regard to substandard vessels, particularly those registered under flags of convenience, which is the fifth item on the agenda of the session, and"
+      },
+      {
+       "type": "text",
+       "text": "Having determined that these proposals shall take the form of an international Convention,"
+      },
+      {
+       "type": "text",
+       "text": "adopts this twenty-ninth day of October of the year one thousand nine hundred and seventy-six the following Convention, which may be cited as the Merchant Shipping (Minimum Standards) Convention, 1976:"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Except as otherwise provided in this Article, this Convention applies to every sea-going ship, whether publicly or privately owned, which is engaged in the transport of cargo or passengers for the purpose of trade or is employed for any other commercial purpose.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "National laws or regulations shall determine when ships are to be regarded as sea-going ships for the purpose of this Convention.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "This Convention applies to sea-going tugs.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, This Convention does not apply to —"
+      },
+      {
+       "type": "text",
+       "text": "(a) ships primarily propelled by sail, whether or not they are fitted with auxiliary engines;"
+      },
+      {
+       "type": "text",
+       "text": "(b) ships engaged in fishing or in whaling or in similar pursuits;"
+      },
+      {
+       "type": "text",
+       "text": "(c) small vessels and vessels such as oil rigs and drilling platforms when not engaged in navigation, the decision as to which vessels are covered by this subparagraph to be taken by the competent authority in each country in consultation with the most representative organisations of shipowners and seafarers."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Nothing in this Convention shall be deemed to extend the scope of the Conventions referred to in the",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "konwencji wymienionych w załączniku do tej konwencji lub postanowień w nich zawartych."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Ustawodawstwo krajowe określi, kiedy statki mają być uważane za statki morskie w rozumieniu niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza konwencja ma zastosowanie do holowników morskich.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejsza konwencja nie ma zastosowania do:",
+   "path": "art_2",
+   "text": "Każdy Członek, który ratyfikuje niniejszą konwencję, zobowiązuje się:",
    "children": [
-    {
-     "type": "text",
-     "text": "(a) statków poruszanych głównie za pomocą żagli, bez względu nato, czy statki są wyposażone w maszyny pomocnicze;"
-    },
-    {
-     "type": "text",
-     "text": "(b) statków używanych do rybołówstwa, połowu wielorybów lub do podobnych czynności;"
-    },
-    {
-     "type": "text",
-     "text": "(c) statków o małym tonażu i do statków takich, jak platformy wiertnicze i eksploatacyjne, gdy nie są używane do żeglugi; decyzję co do tego, które statki są objęte niniejszym punktem, podejmie właściwa władza każdego kraju, po konsultacji z najbardziej reprezentatywnymi organizacjami armatorów i marynarzy."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Żadne z postanowień niniejszej konwencji nie będzie uważane za rozszerzające zakres stosowania",
-   "children": [
-    {
-     "type": "text",
-     "text": "CONVENTION 147"
-    },
-    {
-     "type": "text",
-     "text": "Convention Concerning Minimum Standards in Merchant Ships"
-    },
-    {
-     "type": "text",
-     "text": "The General Conference of the International Labour Organisation,"
-    },
-    {
-     "type": "text",
-     "text": "Having been convened at Geneva by the Governing Body of the International Labour Office and having met in its Sixty-second Session on 13 October 1976, and"
-    },
-    {
-     "type": "text",
-     "text": "Recalling the provisions of the Seafarers’ Engagement (Foreign Vessels) Recommendation, 1958, and of the Social Conditions and Safety (Seafarers) Recommendation, 1958, and"
-    },
-    {
-     "type": "text",
-     "text": "Having decided upon the adoption of certain proposals with regard to substandard vessels, particularly those registered under flags of convenience, which is the fifth item on the agenda of the session, and"
-    },
-    {
-     "type": "text",
-     "text": "Having determined that these proposals shall take the form of an international Convention,"
-    },
-    {
-     "type": "text",
-     "text": "adopts this twenty-ninth day of October of the year one thousand nine hundred and seventy-six the following Convention, which may be cited as the Merchant Shipping (Minimum Standards) Convention, 1976:"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Except as otherwise provided in this Article, this Convention applies to every sea-going ship, whether publicly or privately owned, which is engaged in the transport of cargo or passengers for the purpose of trade or is employed for any other commercial purpose.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "National laws or regulations shall determine when ships are to be regarded as sea-going ships for the purpose of this Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "This Convention applies to sea-going tugs.",
-   "children": [
-    {
-     "type": "text",
-     "text": "4, This Convention does not apply to —"
-    },
-    {
-     "type": "text",
-     "text": "(a) ships primarily propelled by sail, whether or not they are fitted with auxiliary engines;"
-    },
-    {
-     "type": "text",
-     "text": "(b) ships engaged in fishing or in whaling or in similar pursuits;"
-    },
-    {
-     "type": "text",
-     "text": "(c) small vessels and vessels such as oil rigs and drilling platforms when not engaged in navigation, the decision as to which vessels are covered by this subparagraph to be taken by the competent authority in each country in consultation with the most representative organisations of shipowners and seafarers."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Nothing in this Convention shall be deemed to extend the scope of the Conventions referred to in the",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "konwencji wymienionych w załączniku do tej konwencji lub postanowień w nich zawartych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Każdy Członek, który ratyfikuje niniejszą konwencję, zobowiązuje się:"
-    },
     {
      "type": "text",
      "text": "(a) do wydania ustawodawstwa ustalającego w odniesieniu do statków zarejestrowanych na jego terytorium:"
@@ -344,413 +349,438 @@
     {
      "type": "text",
      "text": "(g) do przeprowadzania urzędowego dochodzenia w sprawie każdego poważnego wypadku morskiego, obejmującego statki zarejestrowane na jego terytorium, zwłaszcza gdy wypadek spowodował uszkodzenie ciała lub utratę życia; sprawozdanie końcowe z takiego dochodzenia powinno być normalnie opublikowane."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Każdy Członek, który ratyfikował niniejszą konwencję, będzie, w miarę możliwości, informował swoich obywateli o problemach, jakie mogą wyniknąć z zaciągnięcia się na statek zarejestrowany w państwie, które nie ratyfikowało tej konwencji, chyba ze dojdzie do przekonania, iż stosowane normy są równoważne z ustalonymi przez tę konwencję. Srodki podjęte w tym zakresie przez państwo, które ratyfikowało niniejszą konwencję, nie mogą być sprzeczne z zasadą swobodnego przemieszczania się pracowników, ustanowioną w umowach, których stronami byłyby oba państwa."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli Członek, który ratyfikował niniejszą konwencję i do portu którego zawija statek w normalnym",
-   "children": [
-    {
-     "type": "text",
-     "text": "(ii) adequate procedures-subject to over-all supervision by the competent authority, after tripartite consultation amongst that authority and the representative organisations of shipowners and seafarers where appropriate — exist for the investigation of any complaint made in connection with and, if possible, at the time of the engagement in its territory of seafarers of its own nationality on ships registered in a foreign country, and that such complaint as well as any complaint made in connection with and, if possible, at the time of the engagement in its territory of foreign seafarers on ships registered in a foreign country, is promptly reported by its competent authority to the competent authority of the country in which the ship is registered, with a copy to the Director-General of the International Labour Office;"
-    },
-    {
-     "type": "text",
-     "text": "(e)to ensure that seafarers employed on ships registered in its territory are properly qualified or trained for the duties for which they are engaged, due regard being had to the Vocational Training (Seafarers) Recommendation, 1970;"
-    },
-    {
-     "type": "text",
-     "text": "(f) to verify by inspection or other appropriate means that ships registered in its territory comply with applicable international labour Conventions in force which it has ratified, with the laws and regulations required by subparagraph (a) of this Article and, as may be appropriate under national law, with applicable collective agreements;"
-    },
-    {
-     "type": "text",
-     "text": "(g) to hold an official inquiry into any serious marine casualty involving ships registered in its territory, particularly those involving injury and/or loss of life, the final report of such inquiry normally to be made public."
-    },
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "Any Member which has ratiffied this Convention shall, in so far as practicable, advise its nationals on the possible problems of signing on a ship registered in a State which has not ratified the Convention, until it is satisfied that standards equivalent to those fixed by this Convention are being applied. Measures taken by the ratifying State to this effect shall not be in contradiction with the principle of free movement of workers stipulated by the treaties to which the two States concerned may be parties."
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "If a Member which has ratified this Convention and in whose port a ship calls in the normal course of",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "toku swej działalności lub z powodów związanych z eksploatacją statku, otrzyma skargę lub uzyska dowód, że statek nie wypetnia norm, przewidzianych w niniejszej konwencji, po jej wejściu w życie, może skierować do rządu kraju, w którym statek jest zarejestrowany, raport o tym z kopią do Dyrektora Generalnego Międzynarodowego Biura Pracy oraz może podjąć środki niezbędne do poprawienia jakichkolwiek \" warunków na statku, wyraźnie zagrażających bezpieczeństwu lub zdrowiu."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "O podjęciu takich środków Członek powinien bezzwłocznie poinformować najbliższego przedstawiciela morskiego, konsularnego lub dyplomatycznego państwa bandery i zapewnić obecność takiego przedstawiciela, jeżeli jest to możliwe. Nie powinien on powodować bezzasadnego zatrzymania lub opóźnienia statku.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Dla celów niniejszego artykułu „skarga” oznacza jakąkolwiek informację przedstawioną przez członka załogi, organ zawodowy, zrzeszenie, związek zawodowy lub w ogóle przez każdą osobę zainteresowaną bezpieczeństwem statku, w tym również ryzykiem w zakresie bezpieczeństwa lub zdrowia załogi.",
+   "path": "art_3",
+   "text": "Każdy Członek, który ratyfikował niniejszą konwencję, będzie, w miarę możliwości, informował swoich obywateli o problemach, jakie mogą wyniknąć z zaciągnięcia się na statek zarejestrowany w państwie, które nie ratyfikowało tej konwencji, chyba ze dojdzie do przekonania, iż stosowane normy są równoważne z ustalonymi przez tę konwencję. Srodki podjęte w tym zakresie przez państwo, które ratyfikowało niniejszą konwencję, nie mogą być sprzeczne z zasadą swobodnego przemieszczania się pracowników, ustanowioną w umowach, których stronami byłyby oba państwa.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Jeżeli Członek, który ratyfikował niniejszą konwencję i do portu którego zawija statek w normalnym",
+     "children": [
+      {
+       "type": "text",
+       "text": "(ii) adequate procedures-subject to over-all supervision by the competent authority, after tripartite consultation amongst that authority and the representative organisations of shipowners and seafarers where appropriate — exist for the investigation of any complaint made in connection with and, if possible, at the time of the engagement in its territory of seafarers of its own nationality on ships registered in a foreign country, and that such complaint as well as any complaint made in connection with and, if possible, at the time of the engagement in its territory of foreign seafarers on ships registered in a foreign country, is promptly reported by its competent authority to the competent authority of the country in which the ship is registered, with a copy to the Director-General of the International Labour Office;"
+      },
+      {
+       "type": "text",
+       "text": "(e)to ensure that seafarers employed on ships registered in its territory are properly qualified or trained for the duties for which they are engaged, due regard being had to the Vocational Training (Seafarers) Recommendation, 1970;"
+      },
+      {
+       "type": "text",
+       "text": "(f) to verify by inspection or other appropriate means that ships registered in its territory comply with applicable international labour Conventions in force which it has ratified, with the laws and regulations required by subparagraph (a) of this Article and, as may be appropriate under national law, with applicable collective agreements;"
+      },
+      {
+       "type": "text",
+       "text": "(g) to hold an official inquiry into any serious marine casualty involving ships registered in its territory, particularly those involving injury and/or loss of life, the final report of such inquiry normally to be made public."
+      },
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "Any Member which has ratiffied this Convention shall, in so far as practicable, advise its nationals on the possible problems of signing on a ship registered in a State which has not ratified the Convention, until it is satisfied that standards equivalent to those fixed by this Convention are being applied. Measures taken by the ratifying State to this effect shall not be in contradiction with the principle of free movement of workers stipulated by the treaties to which the two States concerned may be parties."
+      },
+      {
+       "type": "text",
+       "text": "Article 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "If a Member which has ratified this Convention and in whose port a ship calls in the normal course of",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "toku swej działalności lub z powodów związanych z eksploatacją statku, otrzyma skargę lub uzyska dowód, że statek nie wypetnia norm, przewidzianych w niniejszej konwencji, po jej wejściu w życie, może skierować do rządu kraju, w którym statek jest zarejestrowany, raport o tym z kopią do Dyrektora Generalnego Międzynarodowego Biura Pracy oraz może podjąć środki niezbędne do poprawienia jakichkolwiek \" warunków na statku, wyraźnie zagrażających bezpieczeństwu lub zdrowiu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "O podjęciu takich środków Członek powinien bezzwłocznie poinformować najbliższego przedstawiciela morskiego, konsularnego lub dyplomatycznego państwa bandery i zapewnić obecność takiego przedstawiciela, jeżeli jest to możliwe. Nie powinien on powodować bezzasadnego zatrzymania lub opóźnienia statku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Dla celów niniejszego artykułu „skarga” oznacza jakąkolwiek informację przedstawioną przez członka załogi, organ zawodowy, zrzeszenie, związek zawodowy lub w ogóle przez każdą osobę zainteresowaną bezpieczeństwem statku, w tym również ryzykiem w zakresie bezpieczeństwa lub zdrowia załogi.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja jest otwarta do ratyfikacji dla Członków, którzy:",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) są stronami Międzynarodowej konwencji o bezpieczeństwie życia na morzu, z 1960 r., lub Międzynarodowej konwencji o bezpieczeństwie życia na morzu, z 1974 r., albo jakiejkolwiek konwencji rewidującej następnie te konwencje, i"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Niniejsza konwencja jest otwarta do ratyfikacji dla Członków, którzy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) są stronami Międzynarodowej konwencji o bezpieczeństwie życia na morzu, z 1960 r., lub Międzynarodowej konwencji o bezpieczeństwie życia na morzu, z 1974 r., albo jakiejkolwiek konwencji rewidującej następnie te konwencje, i"
+      },
+      {
+       "type": "text",
+       "text": "(b) są stronami Międzynarodowej konwencji o liniach ładunkowych, z 1966 r., lub jakiejkolwiek konwencji rewidującej następnie tę konwencję; i"
+      },
+      {
+       "type": "text",
+       "text": "(c) są stronami lub realizują postanowienia Przepisów oO zapobieganiu zderzeniom na morzu, z 1960 r., lub Konwencji w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu, z 1972 r., albo jakiejkolwiek konwencji rewidującej następnie te umowy międzynarodowe."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) są stronami Międzynarodowej konwencji o liniach ładunkowych, z 1966 r., lub jakiejkolwiek konwencji rewidującej następnie tę konwencję; i"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Niniejsza konwencja jest ponadto otwarta do ratyfikacji dla każdego Cztonka, który w czasie ratyfikacji zobowiązuje się spełnić wymogi określone w ustępie 1 niniejszego artykułu, a które nie zostały jeszcze spełnione.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(c) są stronami lub realizują postanowienia Przepisów oO zapobieganiu zderzeniom na morzu, z 1960 r., lub Konwencji w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu, z 1972 r., albo jakiejkolwiek konwencji rewidującej następnie te umowy międzynarodowe."
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zostanie poinformowany o formalnych ratyfikacjach niniejszej konwencji w celu ich zarejestrowania.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza konwencja jest ponadto otwarta do ratyfikacji dla każdego Cztonka, który w czasie ratyfikacji zobowiązuje się spełnić wymogi określone w ustępie 1 niniejszego artykułu, a które nie zostały jeszcze spełnione.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zostanie poinformowany o formalnych ratyfikacjach niniejszej konwencji w celu ich zarejestrowania.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Niniejsza konwencja będzie obowiązywała tylko tych Członków Międzynarodowej Organizacji Pracy, których ratyfikacje zostaną zarejestrowane przez Dyrektora Generalnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Wejdzie ona w życie po upływie dwunastu miesięcy od daty zarejestrowania ratyfikacji co najmniej przez dziesięciu Członków, posiadających tącznie 25% pojemności brutto światowej floty handlowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "its business or for operational reasons receives a complaint or obtains evidence that the ship does not conform to the standards of this Convention, after it has come into force, it may prepare a report addressed to the government of the country in which the ship is registered, with a copy to the Director-General of the International Labour Office, and may take measures necessary to rectify any conditions on board which are clearly hazardous to safety or health."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "In taking such measures, the Member shall forthwith notify the nearest maritime, consular or diplomatic representative of the flag State and shall, if possible, have such representative present. It shall not unreasonably detain or delay the ship.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "For the purpose of this Article, \"complaint\" means information submitted by a member of the crew, a professional body, an association, a trade union or, generally, any person with an interest in the safety of the ship, including an interest in safety or health hazards to its crew.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "This Convention is open to the ratification of Members which —",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) are parties to the International Convention for the Safety of Life at Sea, 1960, or the International Convention for the Safety of Life at Sea, 1974, or any Convention subsequently revising these Conventions; and"
+      },
+      {
+       "type": "text",
+       "text": "(b) are parties to the International Convention on Load Lines, 1966, or any Convention subsequently revising that Convention; and"
+      },
+      {
+       "type": "text",
+       "text": "(c) are parties to, or have implemented the provisions of, the Regulations for Preventing Collisions at Sea of 1960, or the Convention on the International Regulations for Preventing Collisions at Sea, 1972, or any Convention subsequently revising these international instruments."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "This Convention is further open to the ratification of any Member which, on ratification, undertakes to fulfil the requirements to which ratification is made subject by paragraph 1 of this Article and which are not yet satisfied.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "It shall come into force twelve months after the date on which there have been registered ratifications by at least ten Members with a total share in world shipping gross tonnage of 25 per cent.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Następnie niniejsza konwencja wejdzie w życie dla każdego Członka po upływie dwunastu miesięcy od daty zarejestrowania jego ratyfikacji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja będzie obowiązywała tylko tych Członków Międzynarodowej Organizacji Pracy, których ratyfikacje zostaną zarejestrowane przez Dyrektora Generalnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wejdzie ona w życie po upływie dwunastu miesięcy od daty zarejestrowania ratyfikacji co najmniej przez dziesięciu Członków, posiadających tącznie 25% pojemności brutto światowej floty handlowej.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "its business or for operational reasons receives a complaint or obtains evidence that the ship does not conform to the standards of this Convention, after it has come into force, it may prepare a report addressed to the government of the country in which the ship is registered, with a copy to the Director-General of the International Labour Office, and may take measures necessary to rectify any conditions on board which are clearly hazardous to safety or health."
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Każdy Członek, który ratyfikował niniejszą konwencję, może ją wypowiedzieć po upływie okresu dziesięciu lat od daty początkowego wejścia jej w życie aktem przekazanym Dyrektorowi Generalnemu Międzynarodowego Biura Pracy i przez niego zarejestrowanym. Wypowiedzenie to nabierze mocy dopiero po upływie jednego roku od daty jego zarejestrowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Każdy Członek, który ratyfikował niniejszą konwencję, a który w ciągu jednego roku po upływie okresu dziesięciu lat, wymienionego w poprzednim ustępie, nie skorzysta z prawa do wypowiedzenia przewidzianego w niniejszym artykule, będzie związany postanowieniami niniejszej konwencji na nowy okres dziesięciu lat i następnie będzie mógł wypowiedzieć konwencję po upływie każdego okresu dziesięciu lat, z zachowaniem warunków przewidzianych w niniejszym artykule.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "In taking such measures, the Member shall forthwith notify the nearest maritime, consular or diplomatic representative of the flag State and shall, if possible, have such representative present. It shall not unreasonably detain or delay the ship.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "For the purpose of this Article, \"complaint\" means information submitted by a member of the crew, a professional body, an association, a trade union or, generally, any person with an interest in the safety of the ship, including an interest in safety or health hazards to its crew.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zawiadomi wszystkich członków Międzynarodowej Organizacji Pracy o zarejestrowaniu wszystkich ratyfikacji i aktów wypowiedzenia przekazanych mu przez Członków Organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Gdy warunki przewidziane w artykule 6 ustęp 2 zostaną spełnione, Dyrektor Generalny zwróci uwagę Członków Organizacji na datę wejścia w życie niniejszej konwencji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention is open to the ratification of Members which —",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy udzieli Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych w celu zarejestrowania, zgodnie z artykułem 102 Karty Narodów Zjednoczonych, wyczerpujących informacji o wszystkich ratyfikacjach i aktach wypowiedzenia, jakie zarejestrował zgodnie z postanowieniami poprzednich artykułów.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Rada Administracyjna Międzynarodowego Biura Pracy, w każdym przypadku, gdy uzna to za potrzebne, przedstawi Konferencji Ogólnej sprawozdanie ze stosowania niniejszej konwencji i rozpatrzy, czy należy wpisać do porządku dziennego Konferencji sprawę całkowitej lub częściowej rewizji tej konwencji.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) are parties to the International Convention for the Safety of Life at Sea, 1960, or the International Convention for the Safety of Life at Sea, 1974, or any Convention subsequently revising these Conventions; and"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "W razie przyjęcia przez Konferencję nowej konwencji wprowadzającej całkowitą lub częściową rewizję niniejszej konwencji i jeżeli nowa konwencja nie stanowi inaczej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) ratyfikacja przez Członka nowej konwencji wprowadzającej rewizję spowoduje z mocy samego prawa, bez względu na postanowienia artykułu 7,"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) are parties to the International Convention on Load Lines, 1966, or any Convention subsequently revising that Convention; and"
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(c) are parties to, or have implemented the provisions of, the Regulations for Preventing Collisions at Sea of 1960, or the Convention on the International Regulations for Preventing Collisions at Sea, 1972, or any Convention subsequently revising these international instruments."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of then years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "When the conditions provided for in Article 6, paragraph 2, above have been fulfilled, the Director- -General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with"
+      },
+      {
+       "type": "text",
+       "text": "Article 102 of the Charter of the United Nations full particulars of all ratifications and acts of denunciation registred by him in accordance with the provisions of the preceding Articles."
+      },
+      {
+       "type": "text",
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part."
+      },
+      {
+       "type": "text",
+       "text": "Article 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides —",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) the ratification by a Member of the new revising Convention shall ipso jure involve the immediate denunciation of this Convention, notwithstanding"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "natychmiastowe wypowiedzenie niniejszej konwencji, z zastrzeżeniem, że nowa konwencja wprowadzająca rewizję wejdzie w życie;"
+      },
+      {
+       "type": "text",
+       "text": "(b) począwszy od daty wejścia w życie nowej konwencji wprowadzającej rewizję, niniejsza konwencja przestanie być otwarta do ratyfikacji dla członków."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Niniejsza konwencja pozostanie w każdym razie w mocy w swej formie i treści dla tych Członków, którzy ją ratyfikowali, a nie ratyfikowali konwencji wprowadzającej rewizję.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Convention is further open to the ratification of any Member which, on ratification, undertakes to fulfil the requirements to which ratification is made subject by paragraph 1 of this Article and which are not yet satisfied.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Teksty angielski i francuski niniejszej konwencji są jednakowo wiarygodne.",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "It shall come into force twelve months after the date on which there have been registered ratifications by at least ten Members with a total share in world shipping gross tonnage of 25 per cent.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Następnie niniejsza konwencja wejdzie w życie dla każdego Członka po upływie dwunastu miesięcy od daty zarejestrowania jego ratyfikacji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy Członek, który ratyfikował niniejszą konwencję, może ją wypowiedzieć po upływie okresu dziesięciu lat od daty początkowego wejścia jej w życie aktem przekazanym Dyrektorowi Generalnemu Międzynarodowego Biura Pracy i przez niego zarejestrowanym. Wypowiedzenie to nabierze mocy dopiero po upływie jednego roku od daty jego zarejestrowania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy Członek, który ratyfikował niniejszą konwencję, a który w ciągu jednego roku po upływie okresu dziesięciu lat, wymienionego w poprzednim ustępie, nie skorzysta z prawa do wypowiedzenia przewidzianego w niniejszym artykule, będzie związany postanowieniami niniejszej konwencji na nowy okres dziesięciu lat i następnie będzie mógł wypowiedzieć konwencję po upływie każdego okresu dziesięciu lat, z zachowaniem warunków przewidzianych w niniejszym artykule.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zawiadomi wszystkich członków Międzynarodowej Organizacji Pracy o zarejestrowaniu wszystkich ratyfikacji i aktów wypowiedzenia przekazanych mu przez Członków Organizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Gdy warunki przewidziane w artykule 6 ustęp 2 zostaną spełnione, Dyrektor Generalny zwróci uwagę Członków Organizacji na datę wejścia w życie niniejszej konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Dyrektor Generalny Międzynarodowego Biura Pracy udzieli Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych w celu zarejestrowania, zgodnie z artykułem 102 Karty Narodów Zjednoczonych, wyczerpujących informacji o wszystkich ratyfikacjach i aktach wypowiedzenia, jakie zarejestrował zgodnie z postanowieniami poprzednich artykułów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Rada Administracyjna Międzynarodowego Biura Pracy, w każdym przypadku, gdy uzna to za potrzebne, przedstawi Konferencji Ogólnej sprawozdanie ze stosowania niniejszej konwencji i rozpatrzy, czy należy wpisać do porządku dziennego Konferencji sprawę całkowitej lub częściowej rewizji tej konwencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W razie przyjęcia przez Konferencję nowej konwencji wprowadzającej całkowitą lub częściową rewizję niniejszej konwencji i jeżeli nowa konwencja nie stanowi inaczej:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) ratyfikacja przez Członka nowej konwencji wprowadzającej rewizję spowoduje z mocy samego prawa, bez względu na postanowienia artykułu 7,"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of then years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "When the conditions provided for in Article 6, paragraph 2, above have been fulfilled, the Director- -General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with"
-    },
-    {
-     "type": "text",
-     "text": "Article 102 of the Charter of the United Nations full particulars of all ratifications and acts of denunciation registred by him in accordance with the provisions of the preceding Articles."
-    },
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part."
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides —",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) the ratification by a Member of the new revising Convention shall ipso jure involve the immediate denunciation of this Convention, notwithstanding"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "natychmiastowe wypowiedzenie niniejszej konwencji, z zastrzeżeniem, że nowa konwencja wprowadzająca rewizję wejdzie w życie;"
-    },
-    {
-     "type": "text",
-     "text": "(b) począwszy od daty wejścia w życie nowej konwencji wprowadzającej rewizję, niniejsza konwencja przestanie być otwarta do ratyfikacji dla członków."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza konwencja pozostanie w każdym razie w mocy w swej formie i treści dla tych Członków, którzy ją ratyfikowali, a nie ratyfikowali konwencji wprowadzającej rewizję.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Teksty angielski i francuski niniejszej konwencji są jednakowo wiarygodne."
-    },
     {
      "type": "text",
      "text": "ZAŁĄCZNIK"
@@ -818,112 +848,113 @@
     {
      "type": "text",
      "text": "(b)as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 12"
     },
     {
-     "type": "text",
-     "text": "The English and French versions of the text of this Convention are equally authoritative."
-    },
-    {
-     "type": "text",
-     "text": "APPENDIX"
-    },
-    {
-     "type": "text",
-     "text": "Minimum Age Convention, 1973 (No. 138), or"
-    },
-    {
-     "type": "text",
-     "text": "Minimum Age (Sea) Convention (Revised), 1936 (No. 58), or"
-    },
-    {
-     "type": "text",
-     "text": "Minimum Age (Sea) Convention, 1920 (No. 7);"
-    },
-    {
-     "type": "text",
-     "text": "Shipowners' Liability (Sick and Injured Seamen) Convention, 1936 (No. 55), or"
-    },
-    {
-     "type": "text",
-     "text": "Sickness Insurance (Sea) Convention, 1936 (No. 56), or"
-    },
-    {
-     "type": "text",
-     "text": "Medical Care and Sickness Benefits Convention, 1969 (No. 130);"
-    },
-    {
-     "type": "text",
-     "text": "Medical Examination (Seafarers) Convention, 1946 (No. 73);"
-    },
-    {
-     "type": "text",
-     "text": "Prevention of Accidents (Seafarers) Convention, 1970 (No. 134) (Articles 4 and 7);"
-    },
-    {
-     "type": "text",
-     "text": "Accommodation of Crews Convention (Revised), 1949 (No. 92);"
-    },
-    {
-     "type": "text",
-     "text": "Food and Catering (Ships’ Crews) Convention, 1946 (No. 68) (Article 5);"
-    },
-    {
-     "type": "text",
-     "text": "Officers’ Competency Certificates Convention, 1936 (No. 53) (Articles 3 and 4)!;"
-    },
-    {
-     "type": "text",
-     "text": "Seamen's Articles of Agreement Convention, 1926 (No. 22);"
-    },
-    {
-     "type": "text",
-     "text": "Repatriation of Seamen Convention, 1926 (No. 23);"
-    },
-    {
-     "type": "text",
-     "text": "Freedom of Association and Protection ofthe Right to Organise Conventiion, 1948 (No. 87);"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "\"9951 —"
-    },
-    {
-     "type": "text",
-     "text": "Konwencja nr 98 dotycząca prawa organizowania się i rokowań zbiorowych, z 1949 r."
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "W przypadku gdy ścisłe przestrzeganie odpowiednich postanowień Konwencji dotyczącej świadectw kwalifikacji zawodowych oficerów, z 1936 r., naruszałoby systemy lub procedury wydawania świadectw kwalifikacyjnych, ustanowione przez państwo, będzie stosowana zasada rzeczywistej równoważności w celu uniknięcia konfliktu z układami ustanowionymi przez to państwo w tym zakresie.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.",
      "children": [
       {
        "type": "text",
-       "text": "Powyższy tekst jest autentycznym tekstem Konwencji przyjętej należycie przez Konferencję Ogólną międzynarodowej Organizacji Pracy na jej sześćdziesiątej drugiej sesji, która odbyła się w Genewie i zostaia ogtoszona za zamkniętą dnia dwudziestego dziewiątego października 1976 r."
+       "text": "Article 12"
       },
       {
        "type": "text",
-       "text": "Na dowód czego dnia jedenastego listopada 1976 r. złożyli swe podpisy:"
+       "text": "The English and French versions of the text of this Convention are equally authoritative."
+      },
+      {
+       "type": "text",
+       "text": "APPENDIX"
+      },
+      {
+       "type": "text",
+       "text": "Minimum Age Convention, 1973 (No. 138), or"
+      },
+      {
+       "type": "text",
+       "text": "Minimum Age (Sea) Convention (Revised), 1936 (No. 58), or"
+      },
+      {
+       "type": "text",
+       "text": "Minimum Age (Sea) Convention, 1920 (No. 7);"
+      },
+      {
+       "type": "text",
+       "text": "Shipowners' Liability (Sick and Injured Seamen) Convention, 1936 (No. 55), or"
+      },
+      {
+       "type": "text",
+       "text": "Sickness Insurance (Sea) Convention, 1936 (No. 56), or"
+      },
+      {
+       "type": "text",
+       "text": "Medical Care and Sickness Benefits Convention, 1969 (No. 130);"
+      },
+      {
+       "type": "text",
+       "text": "Medical Examination (Seafarers) Convention, 1946 (No. 73);"
+      },
+      {
+       "type": "text",
+       "text": "Prevention of Accidents (Seafarers) Convention, 1970 (No. 134) (Articles 4 and 7);"
+      },
+      {
+       "type": "text",
+       "text": "Accommodation of Crews Convention (Revised), 1949 (No. 92);"
+      },
+      {
+       "type": "text",
+       "text": "Food and Catering (Ships’ Crews) Convention, 1946 (No. 68) (Article 5);"
+      },
+      {
+       "type": "text",
+       "text": "Officers’ Competency Certificates Convention, 1936 (No. 53) (Articles 3 and 4)!;"
+      },
+      {
+       "type": "text",
+       "text": "Seamen's Articles of Agreement Convention, 1926 (No. 22);"
+      },
+      {
+       "type": "text",
+       "text": "Repatriation of Seamen Convention, 1926 (No. 23);"
+      },
+      {
+       "type": "text",
+       "text": "Freedom of Association and Protection ofthe Right to Organise Conventiion, 1948 (No. 87);"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "\"9951 —"
+      },
+      {
+       "type": "text",
+       "text": "Konwencja nr 98 dotycząca prawa organizowania się i rokowań zbiorowych, z 1949 r."
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_12/ust_2/pkt_1",
+       "text": "W przypadku gdy ścisłe przestrzeganie odpowiednich postanowień Konwencji dotyczącej świadectw kwalifikacji zawodowych oficerów, z 1936 r., naruszałoby systemy lub procedury wydawania świadectw kwalifikacyjnych, ustanowione przez państwo, będzie stosowana zasada rzeczywistej równoważności w celu uniknięcia konfliktu z układami ustanowionymi przez to państwo w tym zakresie.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Powyższy tekst jest autentycznym tekstem Konwencji przyjętej należycie przez Konferencję Ogólną międzynarodowej Organizacji Pracy na jej sześćdziesiątej drugiej sesji, która odbyła się w Genewie i zostaia ogtoszona za zamkniętą dnia dwudziestego dziewiątego października 1976 r."
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego dnia jedenastego listopada 1976 r. złożyli swe podpisy:"
   },
   {
    "type": "signature",

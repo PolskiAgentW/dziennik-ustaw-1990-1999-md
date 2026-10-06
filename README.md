@@ -53,7 +53,7 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 19:12 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -72,7 +72,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 7117, razem 28654 z 291
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 46.
 
 Rodzaje aktów: Rozporządzenie 6303, Oświadczenie rządowe 362, Umowa międzynarodowa 182, Uchwała 91, Konwencja 87, Protokół 24, Traktat 20, Porozumienie 20, Zarządzenie 15, Układ 8, Statut 3, Ustawa 1, Postanowienie 1.
-Wersje konwertera: eli2md 0.6.37 (5515), eli2md 0.6.38 (1602).
+Wersje konwertera: eli2md 0.6.37 (5491), eli2md 0.6.38 (1596), eli2md 0.6.39 (30).
 <!-- stats:end -->
 
 ## Akty obowiązujące
@@ -82,6 +82,18 @@ jest w front matter każdego pliku (`status_pl`) i w kolumnie `legal_status` w P
 go nie ma). Wybór w klonie repozytorium: `grep -l '^status_pl: "obowiązujący"' DU/*/*.md`. Status nie jest
 aktualizowany po konwersji. Teksty są w brzmieniu ogłoszonym w Dzienniku Ustaw, bez późniejszych zmian (tekst
 jednolity, jeśli go ogłoszono, jest osobną pozycją Dziennika Ustaw).
+
+## Zmiana 2026-10-07
+
+eli2md 0.6.39 (opis w [README eli2md](https://github.com/PolskiAgentW/eli2md), wpis „0.6.39”). Zmienione pliki 321 aktów:
+- 30 aktów przeliczonych z PDF (`converter`: eli2md 0.6.39). Pozycje list 50–59 i 80–89 nie są już nagłówkami
+  „§ 0.”–„§ 9.” (DU/1995/495: znów „80. Malezja,”). Innych zmian tekstu nie ma: po sprowadzeniu „§ N.” i numerów list
+  do jednej postaci każdy z 30 plików jest taki sam jak przed zmianą (słowa: zgubione 0, nowe 0). Wśród nich 6 aktów
+  spoza listy z 2026-10-06 (1993/362, 1994/138, 1994/175, 1995/630, 1999/880, 1999/973).
+- 292 umowy międzynarodowe i podobne akty: w JSON „Artykuł N” jest węzłem `art` z polem `label`. W 291 z nich `.md`
+  się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`;
+  `.json` zbudowano z niego kodem drzewa 0.6.39. Słowa w drzewach: zgubione 0.
+- Pozostałe akty bez zmian (porównanie 0.6.38 i 0.6.39 na wszystkich 7 117 aktach zbioru).
 
 ## Zmiana 2026-10-05 (wieczór)
 
@@ -148,12 +160,11 @@ i łamy są czytane we właściwej kolejności. Próba jest mała: odsetka błę
   „ogłoszenia”), oddziela jednoliterowe przyimki („Wrozporządzeniu”) i poprawia „§” na początku akapitu i po
   przyimku („w § 1”); słowa, dla których poprawka nie jest jednoznaczna, zostają z błędem.
 - Na stronach z OCR numer pozycji listy od 50 do 59 albo od 80 do 89 bywa zamieniony na „§ 0.”–„§ 9.”: konwerter
-  bierze sklejoną cyfrę „8” albo „5” za „§” (DU/1995/495: zamiast „80. Malezja,” jest nagłówek „§ 0.” i akapit
-  „Malezja,”; w JSON węzeł `par` o numerze 0). Tekst pozycji zostaje, ginie pierwsza cyfra numeru. Znalezione
-  2026-10-06: co najmniej 241 takich wierszy w 25 aktach (1990/342, 1991/4, 1991/288, 1991/412, 1994/151, 1994/152,
-  1994/153, 1994/242, 1995/89, 1995/495, 1996/100, 1996/207, 1996/288, 1996/322, 1996/592, 1996/694, 1996/792,
-  1997/158, 1997/535, 1997/536, 1998/7, 1998/915, 1998/955, 1998/1158, 1999/1270), w tym 1 obowiązujący
-  (1996/207). Poprawka czeka na następną wersję konwertera. Lista może nie być pełna.
+  bierze sklejoną cyfrę „8” albo „5” za „§” (w JSON węzeł `par`; tekst pozycji zostaje, ginie pierwsza cyfra numeru).
+  Wykrywacz z 2026-10-06 (pozycja listy N, a zaraz po niej „§ d.”, gdzie „8d” albo „5d” to N + 1) znalazł 241 takich
+  wierszy w 25 aktach. Od eli2md 0.6.39 (2026-10-07) pozycja zostaje pozycją listy, jeśli lista ciągnie się na tej
+  samej stronie. Zostało 13 wierszy w 2 aktach: DU/1998/7 i DU/1998/1158 (lista przechodzi na następną stronę).
+  Wykrywacz może nie znajdować wszystkich.
 - Akt może zawierać fragment sąsiedniego aktu z tych samych stron, gdy OCR nie odczyta numeru pozycji, a podpis
   ani nagłówek z datą nie wyznaczą granicy (np. dwa akty tego samego organu z tego samego dnia o prawie tym samym
   temacie, DU/1993/299). Miara zgrubna: akty z co najmniej dwoma nagłówkami rodzaju aktu wersalikami (część to akty
@@ -166,9 +177,10 @@ i łamy są czytane we właściwej kolejności. Próba jest mała: odsetka błę
   gdzie OCR ułożył strony w złej kolejności.
 - W tekście 122 aktów jest fragment stopki zeszytu („Egzemplarze bieżące i z lat ubiegłych…”, adres sprzedaży),
   nie zawsze na końcu.
-- Umowy międzynarodowe, konwencje i podobne akty numerują jednostki „Artykuł N” w osobnym wierszu. Konwerter ich nie
-  rozpoznaje: zostają akapitami, a w JSON nie ma węzłów `art`. Dotyczy 297 aktów (wiersz „Artykuł N”, żadnego nagłówka
-  artykułu), w tym 250 z 692 obowiązujących (stan 2026-10-05).
+- Umowy międzynarodowe, konwencje i podobne akty numerują jednostki „Artykuł N” w osobnym wierszu. W `.md` zostają
+  akapitami. W JSON od eli2md 0.6.39 (2026-10-07) są węzłami `art` (292 akty). Ograniczenia: wersje obcojęzyczne
+  („Article N”) trafiają pod ostatni polski artykuł, a „Artykuł” zniekształcony przez OCR („Artykuf 23”) nie jest
+  artykułem, więc numeracja ma luki (69 aktów).
 - PDF części aktów w API ELI nie zawiera ich pierwszych stron: zaczyna się później, a początek aktu (numer, tytuł,
   pierwsze przepisy) jest tylko w PDF poprzedniej pozycji. W zbiorze te akty nie mają początku. Sprawdzone po numerach
   stron w nagłówkach (strona, na której akt się zaczyna, jest wcześniejsza niż pierwsza strona jego PDF): 21 aktów

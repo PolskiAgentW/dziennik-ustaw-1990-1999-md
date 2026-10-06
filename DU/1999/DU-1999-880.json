@@ -1,7 +1,7 @@
 {
  "eli": "DU/1999/880",
  "title": "Rozporządzenie Ministra Finansów z dnia 23 września 1999 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/880/text.pdf",
  "body": [
   {
@@ -271,23 +271,23 @@
    ]
   },
   {
-   "type": "par",
-   "num": "0",
-   "path": "par_0",
+   "type": "ust",
+   "num": "80",
+   "path": "ust_80",
    "text": "Regionalne izby obrachunkowe",
    "children": []
   },
   {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
+   "type": "ust",
+   "num": "81",
+   "path": "ust_81",
    "text": "Rezerwa ogólna",
    "children": []
   },
   {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
+   "type": "ust",
+   "num": "82",
+   "path": "ust_82",
    "text": "Subwencje ogólne dla jednostek samorządu terytorialnego '83. Rezerwy celowe",
    "children": [
     {
@@ -305,183 +305,183 @@
     {
      "type": "text",
      "text": "Celem oznakowania poszczególnych części budżetów samorządowych kolegiów odwoławczych jako trzecią i czwartą cyfrę (w miejsce 00) przyjmuje się symbol:"
-    },
-    {
-     "type": "ust",
-     "num": "01",
-     "path": "par_2/ust_01",
-     "text": "Samorządowe Kolegium Odwoławcze w Warszawie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "03",
-     "path": "par_2/ust_03",
-     "text": "Samorządowe Kolegium Odwoławcze w Białej Podlaskiej",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "05",
-     "path": "par_2/ust_05",
-     "text": "Samorządowe Kolegium Odwoławcze w Białymstoku",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "07",
-     "path": "par_2/ust_07",
-     "text": "Samorządowe Kolegium Odwoławcze w Bielsku- -Białej",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "09",
-     "path": "par_2/ust_09",
-     "text": "Samorządowe Kolegium Odwoławcze w Bydgoszczy",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "11",
-     "path": "par_2/ust_11",
-     "text": "Samorządowe Kolegium Odwoławcze w Chełmie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "13",
-     "path": "par_2/ust_13",
-     "text": "Samorządowe Kolegium Odwoławcze w Ciechanowie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "15",
-     "path": "par_2/ust_15",
-     "text": "Samorządowe Kolegium Odwoławcze w Częstochowie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "17",
-     "path": "par_2/ust_17",
-     "text": "Samorządowe Kolegium Odwoławcze w Elblągu",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "19",
-     "path": "par_2/ust_19",
-     "text": "Samorządowe Kolegium Odwoławcze w Gdańsku",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "21",
-     "path": "par_2/ust_21",
-     "text": "Samorządowe Kolegium Odwoławcze w Gorzowie Wielkopolskim",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "23",
-     "path": "par_2/ust_23",
-     "text": "Samorządowe Kolegium Odwoławcze w Jeleniej Górze",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "25",
-     "path": "par_2/ust_25",
-     "text": "Samorządowe Kolegium Odwoławcze w Kaliszu",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "27",
-     "path": "par_2/ust_27",
-     "text": "Samorządowe Kolegium Odwoławcze w Katowicach",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "29",
-     "path": "par_2/ust_29",
-     "text": "Samorządowe Kolegium Odwoławcze w Kielcach",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "31",
-     "path": "par_2/ust_31",
-     "text": "Samorządowe Kolegium Odwoławcze w Koninie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "33",
-     "path": "par_2/ust_33",
-     "text": "Samorządowe Kolegium Odwoławcze w Koszalinie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "35",
-     "path": "par_2/ust_35",
-     "text": "Samorządowe Kolegium Odwoławcze w Krakowie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "37",
-     "path": "par_2/ust_37",
-     "text": "Samorządowe Kolegium Odwoławcze w Krośnie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "39",
-     "path": "par_2/ust_39",
-     "text": "Samorządowe Kolegium Odwoławcze w Legnicy",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "41",
-     "path": "par_2/ust_41",
-     "text": "Samorządowe Kolegium Odwoławcze w Lesznie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "43",
-     "path": "par_2/ust_43",
-     "text": "Samorządowe Kolegium Odwoławcze w Lublinie",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "45",
-     "path": "par_2/ust_45",
-     "text": "Samorządowe Kolegium Odwoławcze w Łomży",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "47",
-     "path": "par_2/ust_47",
-     "text": "Samorządowe Kolegium Odwoławcze w Łodzi",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "49",
-     "path": "par_2/ust_49",
-     "text": "Samorządowe Kolegium Odwoławcze w Nowym Sączu",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "ust",
+   "num": "01",
+   "path": "ust_01",
+   "text": "Samorządowe Kolegium Odwoławcze w Warszawie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "03",
+   "path": "ust_03",
+   "text": "Samorządowe Kolegium Odwoławcze w Białej Podlaskiej",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "05",
+   "path": "ust_05",
+   "text": "Samorządowe Kolegium Odwoławcze w Białymstoku",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "07",
+   "path": "ust_07",
+   "text": "Samorządowe Kolegium Odwoławcze w Bielsku- -Białej",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "09",
+   "path": "ust_09",
+   "text": "Samorządowe Kolegium Odwoławcze w Bydgoszczy",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "Samorządowe Kolegium Odwoławcze w Chełmie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "13",
+   "path": "ust_13",
+   "text": "Samorządowe Kolegium Odwoławcze w Ciechanowie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "Samorządowe Kolegium Odwoławcze w Częstochowie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "Samorządowe Kolegium Odwoławcze w Elblągu",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "19",
+   "path": "ust_19",
+   "text": "Samorządowe Kolegium Odwoławcze w Gdańsku",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "21",
+   "path": "ust_21",
+   "text": "Samorządowe Kolegium Odwoławcze w Gorzowie Wielkopolskim",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "23",
+   "path": "ust_23",
+   "text": "Samorządowe Kolegium Odwoławcze w Jeleniej Górze",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "25",
+   "path": "ust_25",
+   "text": "Samorządowe Kolegium Odwoławcze w Kaliszu",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "27",
+   "path": "ust_27",
+   "text": "Samorządowe Kolegium Odwoławcze w Katowicach",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "29",
+   "path": "ust_29",
+   "text": "Samorządowe Kolegium Odwoławcze w Kielcach",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "31",
+   "path": "ust_31",
+   "text": "Samorządowe Kolegium Odwoławcze w Koninie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "33",
+   "path": "ust_33",
+   "text": "Samorządowe Kolegium Odwoławcze w Koszalinie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "35",
+   "path": "ust_35",
+   "text": "Samorządowe Kolegium Odwoławcze w Krakowie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "37",
+   "path": "ust_37",
+   "text": "Samorządowe Kolegium Odwoławcze w Krośnie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "39",
+   "path": "ust_39",
+   "text": "Samorządowe Kolegium Odwoławcze w Legnicy",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "41",
+   "path": "ust_41",
+   "text": "Samorządowe Kolegium Odwoławcze w Lesznie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "43",
+   "path": "ust_43",
+   "text": "Samorządowe Kolegium Odwoławcze w Lublinie",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "45",
+   "path": "ust_45",
+   "text": "Samorządowe Kolegium Odwoławcze w Łomży",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "47",
+   "path": "ust_47",
+   "text": "Samorządowe Kolegium Odwoławcze w Łodzi",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "49",
+   "path": "ust_49",
+   "text": "Samorządowe Kolegium Odwoławcze w Nowym Sączu",
+   "children": []
   },
   {
    "type": "par",
@@ -586,22 +586,22 @@
      "path": "par_9/ust_79",
      "text": "Samorządowe Kolegium Odwoławcze w Suwałkach",
      "children": []
+    },
+    {
+     "type": "ust",
+     "num": "81",
+     "path": "par_9/ust_81",
+     "text": "Samorządowe Kolegium Odwoławcze w Szczecinie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "83",
+     "path": "par_9/ust_83",
+     "text": "Samorządowe Kolegium Odwoławcze w Tarnobrzegu",
+     "children": []
     }
    ]
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Samorządowe Kolegium Odwoławcze w Szczecinie",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
-   "text": "Samorządowe Kolegium Odwoławcze w Tarnobrzegu",
-   "children": []
   },
   {
    "type": "par",

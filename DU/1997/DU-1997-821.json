@@ -57,138 +57,139 @@
    "text": "postanowiły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Przedmiot umowy"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Polska autostrada A 12 w kierunku zachodnim i niemiecka autostrada A 15 w kierunku wschodnim powinny być rozbudowane w rejonie Olszyny i Forstu.",
-   "children": []
+   "path": "art_1",
+   "text": "Przedmiot umowy",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Polska autostrada A 12 w kierunku zachodnim i niemiecka autostrada A 15 w kierunku wschodnim powinny być rozbudowane w rejonie Olszyny i Forstu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "W tym celu na terytorium Rzeczypospolitej Polskiej i na terytorium Republiki Federalnej Niemiec wybudowany zostanie nowy most autostradowy dla kierunku jazdy z Wrocławia do Berlina oraz przebudowany zostanie autostradowy most graniczny przez rzekę Nysę dla kierunku jazdy z Berlina do Wrocławia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Umawiające się Strony dążą, aby przedsięwzięcia budowlane wymienione w ustępie 2 zostały zakończone na terytorium polskim i niemieckim w 1998 r.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "W tym celu na terytorium Rzeczypospolitej Polskiej i na terytorium Republiki Federalnej Niemiec wybudowany zostanie nowy most autostradowy dla kierunku jazdy z Wrocławia do Berlina oraz przebudowany zostanie autostradowy most graniczny przez rzekę Nysę dla kierunku jazdy z Berlina do Wrocławia.",
-   "children": []
+   "path": "art_2",
+   "text": "Planowanie i wykonawstwo",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Rzeczpospolita Polska przejmie wykonanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "prac pomiarowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_1/lit_b",
+       "text": "prac planistycznych i projektowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/ust_1/lit_c",
+       "text": "ogłoszenia przetargu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/ust_1/lit_d",
+       "text": "zlecenia robót budowlanych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_2/ust_1/lit_e",
+       "text": "sprawdzenia dokumentacji wykonawczej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_2/ust_1/lit_f",
+       "text": "sprawowania nadzoru budowlanego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_2/ust_1/lit_g",
+       "text": "sprawdzenia rozliczenia prac zleconych umowami dotyczących mostu granicznego, każdorazowo w porozumieniu z Republiką Federalną Niemiec.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Przy budowie i przebudowie mostu granicznego przedsiębiorstwa realizujące zlecenie zostaną zobowiązane w umowie o robotach budowlanych do wystawiania oddzielnych rachunków za wykonanie: — przyczdtkow i filarów na terytorium każdej z Umawiających się Stron,",
+     "children": [
+      {
+       "type": "text",
+       "text": "— górnych elementów mostu, tącznie z tymi pracami, które mogą być wykonane tylko dla całego obiektu budowlanego, odpowiednio do długości części mostu granicznego mierzonych wzdłuż osi mostu między osiami skrajnych podpór a granicą między terytoriami Umawiających się Stron."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Most graniczny będzie projektowany, wykonany i odebrany według norm i przepisów budowlanych obowiązujących w Rzeczypospolitej Polskiej. Nośność mostu granicznego zostanie sprawdzona według niemieckiej normy DIN 1072 przez przeprowadzenie obliczeń porównawczych. Federalne Ministerstwo Komunikacji Republiki Federalnej Niemiec udostępni stronie polskiej tekst tej normy. Dla pojedynczych elementów budowlanych Umawiające się Strony mogą uzgodnić zastosowanie niemieckich norm i przepisów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony dążą, aby przedsięwzięcia budowlane wymienione w ustępie 2 zostały zakończone na terytorium polskim i niemieckim w 1998 r.",
+   "path": "art_3",
+   "text": "Pozyskanie gruntów",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Planowanie i wykonawstwo"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Rzeczpospolita Polska przejmie wykonanie:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "prac pomiarowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "prac planistycznych i projektowych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "ogłoszenia przetargu,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "zlecenia robót budowlanych,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "sprawdzenia dokumentacji wykonawczej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "sprawowania nadzoru budowlanego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "sprawdzenia rozliczenia prac zleconych umowami dotyczących mostu granicznego, każdorazowo w porozumieniu z Republiką Federalną Niemiec.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przy budowie i przebudowie mostu granicznego przedsiębiorstwa realizujące zlecenie zostaną zobowiązane w umowie o robotach budowlanych do wystawiania oddzielnych rachunków za wykonanie: — przyczdtkow i filarów na terytorium każdej z Umawiających się Stron,",
-   "children": [
-    {
-     "type": "text",
-     "text": "— górnych elementów mostu, tącznie z tymi pracami, które mogą być wykonane tylko dla całego obiektu budowlanego, odpowiednio do długości części mostu granicznego mierzonych wzdłuż osi mostu między osiami skrajnych podpór a granicą między terytoriami Umawiających się Stron."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Most graniczny będzie projektowany, wykonany i odebrany według norm i przepisów budowlanych obowiązujących w Rzeczypospolitej Polskiej. Nośność mostu granicznego zostanie sprawdzona według niemieckiej normy DIN 1072 przez przeprowadzenie obliczeń porównawczych. Federalne Ministerstwo Komunikacji Republiki Federalnej Niemiec udostępni stronie polskiej tekst tej normy. Dla pojedynczych elementów budowlanych Umawiające się Strony mogą uzgodnić zastosowanie niemieckich norm i przepisów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Pozyskanie gruntów"
-    },
     {
      "type": "text",
      "text": "Każda z Umawiających się Stron zadba, aby na jej terytorium zostały w odpowiednim czasie przekazane do dyspozycji, na state lub na czas określony, niezbędne tereny dla budowy i przebudowy mostu granicznego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Odbiór"
-    },
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Odbiór",
+   "children": [
     {
      "type": "text",
      "text": "Odbiór robót budowlanych dokonywany będzie przez właściwe administracje obydwu Umawiających"
@@ -200,341 +201,344 @@
     {
      "type": "text",
      "text": "się Stron, w obecności przedsiębiorstw realizujących zlecenia, według prawa polskiego stosowanego w umowach dotyczących robót budowlanych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Utrzymanie"
-    },
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Utrzymanie",
+   "children": [
     {
      "type": "text",
      "text": "Zasady utrzymania (utrzymanie bieżące i odnowa) mostu granicznego, jak również oczyszczanie i utrzymanie zimowe na moście granicznym zostaną uregulowane oddzielnie przez Umawiające się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Koszty"
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron ponosi koszty pozyskania gruntów, budowy i przebudowy mostu granicznego, jak również koszty czynności wyszczególnionych w artykule 2 ustęp 1, dla tej części mostu, która znajduje się na jej terytorium. Przy podziale tych kosztów nie należy uwzględniać polskiego podatku od towarów i usług. Podatek ten będzie obciazat wyłącznie Rzeczpospolitą Polską. Koszty czynności wyszczególnionych w artykule 2 ustęp 1 będą wynosiły 10% kosztów budowy i przebudowy mostu, bez uwzględnienia polskiego podatku od towarów i usług.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Istniejąca dokumentacja niezbędna do planowania i projektowania mostu granicznego zostanie bezpłatnie przekazana wzajemnie do dyspozycji. W szczególności chodzi tu o dokumentację geodezyjną oraz badania gruntu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Płatności"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Republika Federalna Niemiec będzie przekazywała Rzeczypospolitej Polskiej przypadające na nią części płatności zaliczkowych dotyczących mostu granicznego, które dokonywane będą na rzecz zleceniobiorców odpowiednio do postępu prac budowlanych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Rzeczpospolita Polska powiadamiać będzie Republikę Federalną Niemiec z dwumiesięcznym wyprzedzeniem o szacunkowym zapotrzebowaniu na środki finansowe dla płatności zaliczkowych oraz informować o stanie wypłat, przedstawiając zestawienia, w których wykazane będą wysokości i daty wypłat.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Republika Federalna Niemiec zapłaci resztę swego udziału w kosztach po odbiorze końcowym i rozliczeniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Wszystkie płatności Republiki Federalnej Niemiec dokonywane będą w markach niemieckich.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Powstanie rozbieżności nie wstrzymuje płatności kwot nie będących przedmiotem sporu.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "6",
-   "path": "ust_6",
-   "text": "Republika Federalna Niemiec otrzyma kopie umów budowlanych zamówień i potwierdzonych dokumentów rozliczeniowych.",
+   "path": "art_6",
+   "text": "Koszty",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Prawo przekraczania granicy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Pracownicy każdej z Umawiających się Stron, zatrudnieni przy budowie i przebudowie mostu granicznego, oraz wszyscy inni biorący udział w budowie i przebudowie obywatele Umawiających się Stron i obywatele państw członkowskich Unii Europejskiej, które z Rzecząpospolitą Polską nie posiadają obowiązku wizowego, mogą dla realizacji tego zadania przekraczać granicę w rejonie placu budowy mostu granicznego oraz przebywać na tej części placu budowy, która znajduje się na terytorium drugiej Umawiającej się Strony, bez konieczności posiadania w tym celu zezwolenia na pobyt. Obywatele innych państw, którzy są zatrudnieni przy budowie i przebudowie mostu granicznego, mogą przekraczać granicę w rejonie placu budowy, jeśli posiadają przy sobie dokumenty i pozwolenia wymagane według ustaleń Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Osoby zatrudnione, o których mowa w ustępie 1 oraz inne osoby wymienione w tym ustępie, muszą posiadać ze sobą dokument uprawniający do przekraczania granicy między Rzecząpospolitą Polską a Republiką Federalną Niemiec, uznany przez każdą z Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Pracownicy wymienieni w ustępie 1 oraz inne zatrudnione osoby wymienione w tym ustępie podlegają polskim przepisom prawnym w zakresie uzyskiwania zezwoleń na pracę dla cudzoziemców, niezależnie od tego, czy prace wykonywane będą na terytorium Rzeczypospolitej Polskiej czy Republiki Federalnej Niemiec.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda z Umawiających się Stron będzie zawsze i bez formalności przejmować osoby, które wskutek naruszenia postanowień niniejszej umowy znalazły się na terytorium drugiej Umawiającej się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Szczegółowe zagadnienia dotyczące utrzymania bezpieczeństwa i porządku w rejonie placu budowy mostu granicznego zostaną uregulowane przez właściwe miejscowe władze graniczne we wzajemnym porozumieniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Niniejsze ustalenia będą obowiązywały dopóty, dopóki Umawiające się Strony nie zawrą odrębnych porozumień dotyczących przekraczania granicy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia podatkowe"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dla dostaw towarów i usług, które dokonywane będą w związku z budową i przebudową mostu granicznego, należy stosować polskie prawo o podatku od towarów i usług. Od obrotów tych nie będzie pobierany niemiecki podatek obrotowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zatowary wwożone z terytorium jednej Umawiającej się Strony na terytorium drugiej Umawiającej się Strony nie będą pobierane żadne opłaty wwozowe, z wyjątkiem opłat celnych, jeżeli towary te będą użyte do budowy oraz przebudowy mostu granicznego. Obo-",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "wiązuje to od czasu rozpoczęcia budowy. Gwarancje nie są wymagane. Postanowienia zdania pierwszego nie obowiązują przy wwozie towarów przeznaczonych dla publicznych administracji budowlanych."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Towary potrzebne do budowy i przebudowy mostu granicznego nie podlegają przy wwozie i wywozie żadnym ograniczeniom i zakazom.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Właściwe władze podatkowe i celne obu Umawiających się Stron będą się porozumiewać i przekazywać sobie wszelkie niezbędne informacje oraz udzielać wzajemnie pomocy przy stosowaniu obowiązujących ich przepisów prawnych i administracyjnych w ramach postanowień ustępów od 1 do 3. Przedstawiciele tych władz będą uprawnieni do przebywania na placu budowy mostu granicznego i podejmowania tam działań w ramach postanowień ustępów od 1 do 3, które określono w ich przepisach prawnych i administracyjnych. Poza tym prawa suwerenności Umawiających się Stron pozostają nienaruszone.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Nienaruszone pozostają postanowienia Umowy z dnia 18 grudnia 1972 r. między Polską Rzecząpospolitą Ludową a Republiką Federalną Niemiec w sprawie zapobieżenia podwójnemu opodatkowaniu w zakresie podatków od dochodu i majątku oraz Protokotu do tej umowy z dnia 18 grudnia 1972 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Komisja Mieszana"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Do spraw budowy i przebudowy mostu granicznego zostanie utworzona polsko-niemiecka Komisja Mieszana. Składać się ona będzie z przewodniczących obu delegacji oraz z członków delegowanych na posiedzenia przez każdą z Umawiających się Stron. Umawiające się Strony poinformują się wzajemnie o wyznaczeniu przewodniczących delegacji do Komisji Mieszanej. Każdy przewodniczący delegacji może zwołać pod swym przewodnictwem posiedzenie Komisji, w porozumieniu z przewodniczącym delegacji drugiej Umawiającej się Strony. Posiedzenie takie musi odbyć się w ciągu jednego miesiąca od wystąpienia z wnioskiem o jego zwołanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zadaniem Komisji Mieszanej jest wyjaśnianie podstawowych problemów dotyczących budowy i przebudowy mostu granicznego, jak również przedstawianie Umawiającym się Stronom zaleceń, w szczególności w sprawach:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "konstrukcji i wymiarów mostu granicznego,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Każda z Umawiających się Stron ponosi koszty pozyskania gruntów, budowy i przebudowy mostu granicznego, jak również koszty czynności wyszczególnionych w artykule 2 ustęp 1, dla tej części mostu, która znajduje się na jej terytorium. Przy podziale tych kosztów nie należy uwzględniać polskiego podatku od towarów i usług. Podatek ten będzie obciazat wyłącznie Rzeczpospolitą Polską. Koszty czynności wyszczególnionych w artykule 2 ustęp 1 będą wynosiły 10% kosztów budowy i przebudowy mostu, bez uwzględnienia polskiego podatku od towarów i usług.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "określenia zakresu wspólnych prac,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "sprawdzenia projektu budowlanego i propozycji zlecenia prac,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "osiągnięcia wspólnego stanowiska odnośnie do płatności i warunków płatności,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "odbioru obiektu budowlanego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "podziału kosztów budowy i przebudowy mostu granicznego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_2/lit_g",
-     "text": "przekazania i przyjęcia obiektu budowlanego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_2/lit_h",
-     "text": "interpretacji lub stosowania niniejszej umowy w przypadkach sporów.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Istniejąca dokumentacja niezbędna do planowania i projektowania mostu granicznego zostanie bezpłatnie przekazana wzajemnie do dyspozycji. W szczególności chodzi tu o dokumentację geodezyjną oraz badania gruntu.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każda delegacja w Komisji Mieszanej może zażądać od właściwych władz administracyjnych drugiej Umawiającej się Strony przedłożenia dokumentów, które uzna za niezbędne do przygotowania decyzji Komisji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każda z Umawiających się Stron może zapraszać ekspertów na posiedzenia Komisji Mieszanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Komisja Mieszana podejmuje decyzje we wzajemnym porozumieniu.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Płatności",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Republika Federalna Niemiec będzie przekazywała Rzeczypospolitej Polskiej przypadające na nią części płatności zaliczkowych dotyczących mostu granicznego, które dokonywane będą na rzecz zleceniobiorców odpowiednio do postępu prac budowlanych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ochrona danych osobowych"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Rzeczpospolita Polska powiadamiać będzie Republikę Federalną Niemiec z dwumiesięcznym wyprzedzeniem o szacunkowym zapotrzebowaniu na środki finansowe dla płatności zaliczkowych oraz informować o stanie wypłat, przedstawiając zestawienia, w których wykazane będą wysokości i daty wypłat.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Republika Federalna Niemiec zapłaci resztę swego udziału w kosztach po odbiorze końcowym i rozliczeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Wszystkie płatności Republiki Federalnej Niemiec dokonywane będą w markach niemieckich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_7/ust_5",
+     "text": "Powstanie rozbieżności nie wstrzymuje płatności kwot nie będących przedmiotem sporu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_7/ust_6",
+     "text": "Republika Federalna Niemiec otrzyma kopie umów budowlanych zamówień i potwierdzonych dokumentów rozliczeniowych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Prawo przekraczania granicy",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Pracownicy każdej z Umawiających się Stron, zatrudnieni przy budowie i przebudowie mostu granicznego, oraz wszyscy inni biorący udział w budowie i przebudowie obywatele Umawiających się Stron i obywatele państw członkowskich Unii Europejskiej, które z Rzecząpospolitą Polską nie posiadają obowiązku wizowego, mogą dla realizacji tego zadania przekraczać granicę w rejonie placu budowy mostu granicznego oraz przebywać na tej części placu budowy, która znajduje się na terytorium drugiej Umawiającej się Strony, bez konieczności posiadania w tym celu zezwolenia na pobyt. Obywatele innych państw, którzy są zatrudnieni przy budowie i przebudowie mostu granicznego, mogą przekraczać granicę w rejonie placu budowy, jeśli posiadają przy sobie dokumenty i pozwolenia wymagane według ustaleń Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Osoby zatrudnione, o których mowa w ustępie 1 oraz inne osoby wymienione w tym ustępie, muszą posiadać ze sobą dokument uprawniający do przekraczania granicy między Rzecząpospolitą Polską a Republiką Federalną Niemiec, uznany przez każdą z Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Pracownicy wymienieni w ustępie 1 oraz inne zatrudnione osoby wymienione w tym ustępie podlegają polskim przepisom prawnym w zakresie uzyskiwania zezwoleń na pracę dla cudzoziemców, niezależnie od tego, czy prace wykonywane będą na terytorium Rzeczypospolitej Polskiej czy Republiki Federalnej Niemiec.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Każda z Umawiających się Stron będzie zawsze i bez formalności przejmować osoby, które wskutek naruszenia postanowień niniejszej umowy znalazły się na terytorium drugiej Umawiającej się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Szczegółowe zagadnienia dotyczące utrzymania bezpieczeństwa i porządku w rejonie placu budowy mostu granicznego zostaną uregulowane przez właściwe miejscowe władze graniczne we wzajemnym porozumieniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_8/ust_6",
+     "text": "Niniejsze ustalenia będą obowiązywały dopóty, dopóki Umawiające się Strony nie zawrą odrębnych porozumień dotyczących przekraczania granicy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Postanowienia podatkowe",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Dla dostaw towarów i usług, które dokonywane będą w związku z budową i przebudową mostu granicznego, należy stosować polskie prawo o podatku od towarów i usług. Od obrotów tych nie będzie pobierany niemiecki podatek obrotowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Zatowary wwożone z terytorium jednej Umawiającej się Strony na terytorium drugiej Umawiającej się Strony nie będą pobierane żadne opłaty wwozowe, z wyjątkiem opłat celnych, jeżeli towary te będą użyte do budowy oraz przebudowy mostu granicznego. Obo-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wiązuje to od czasu rozpoczęcia budowy. Gwarancje nie są wymagane. Postanowienia zdania pierwszego nie obowiązują przy wwozie towarów przeznaczonych dla publicznych administracji budowlanych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Towary potrzebne do budowy i przebudowy mostu granicznego nie podlegają przy wwozie i wywozie żadnym ograniczeniom i zakazom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Właściwe władze podatkowe i celne obu Umawiających się Stron będą się porozumiewać i przekazywać sobie wszelkie niezbędne informacje oraz udzielać wzajemnie pomocy przy stosowaniu obowiązujących ich przepisów prawnych i administracyjnych w ramach postanowień ustępów od 1 do 3. Przedstawiciele tych władz będą uprawnieni do przebywania na placu budowy mostu granicznego i podejmowania tam działań w ramach postanowień ustępów od 1 do 3, które określono w ich przepisach prawnych i administracyjnych. Poza tym prawa suwerenności Umawiających się Stron pozostają nienaruszone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Nienaruszone pozostają postanowienia Umowy z dnia 18 grudnia 1972 r. między Polską Rzecząpospolitą Ludową a Republiką Federalną Niemiec w sprawie zapobieżenia podwójnemu opodatkowaniu w zakresie podatków od dochodu i majątku oraz Protokotu do tej umowy z dnia 18 grudnia 1972 r.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Komisja Mieszana",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Do spraw budowy i przebudowy mostu granicznego zostanie utworzona polsko-niemiecka Komisja Mieszana. Składać się ona będzie z przewodniczących obu delegacji oraz z członków delegowanych na posiedzenia przez każdą z Umawiających się Stron. Umawiające się Strony poinformują się wzajemnie o wyznaczeniu przewodniczących delegacji do Komisji Mieszanej. Każdy przewodniczący delegacji może zwołać pod swym przewodnictwem posiedzenie Komisji, w porozumieniu z przewodniczącym delegacji drugiej Umawiającej się Strony. Posiedzenie takie musi odbyć się w ciągu jednego miesiąca od wystąpienia z wnioskiem o jego zwołanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Zadaniem Komisji Mieszanej jest wyjaśnianie podstawowych problemów dotyczących budowy i przebudowy mostu granicznego, jak również przedstawianie Umawiającym się Stronom zaleceń, w szczególności w sprawach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_10/ust_2/lit_a",
+       "text": "konstrukcji i wymiarów mostu granicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_10/ust_2/lit_b",
+       "text": "określenia zakresu wspólnych prac,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_10/ust_2/lit_c",
+       "text": "sprawdzenia projektu budowlanego i propozycji zlecenia prac,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_10/ust_2/lit_d",
+       "text": "osiągnięcia wspólnego stanowiska odnośnie do płatności i warunków płatności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_10/ust_2/lit_e",
+       "text": "odbioru obiektu budowlanego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_10/ust_2/lit_f",
+       "text": "podziału kosztów budowy i przebudowy mostu granicznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_10/ust_2/lit_g",
+       "text": "przekazania i przyjęcia obiektu budowlanego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_10/ust_2/lit_h",
+       "text": "interpretacji lub stosowania niniejszej umowy w przypadkach sporów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Każda delegacja w Komisji Mieszanej może zażądać od właściwych władz administracyjnych drugiej Umawiającej się Strony przedłożenia dokumentów, które uzna za niezbędne do przygotowania decyzji Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_10/ust_4",
+     "text": "Każda z Umawiających się Stron może zapraszać ekspertów na posiedzenia Komisji Mieszanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_10/ust_5",
+     "text": "Komisja Mieszana podejmuje decyzje we wzajemnym porozumieniu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Ochrona danych osobowych",
+   "children": [
     {
      "type": "text",
      "text": "Jeśli na podstawie niniejszej umowy, zgodnie z regulacjami prawa każdej z Umawiających się Stron, przekazywane będą dane osobowe, obowiązują w odniesieniu do nich przy przestrzeganiu przepisów prawnych każdej z Umawiających się Stron ustalenia zawarte w załączniku do tej umowy. Załącznik jest częścią składową niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Pozostałe przedsięwzięcia budowlane"
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu uzyskania wymaganej wydajności oraz funkcjonalności odpraw granicznych towarów (wwóz, wywóz i przewozy towarów tranzytem, tącznie ze środkami transportu) wymagana jest budowa urządzeń odprawy granicznej (budynki, parkingi i inne urządzenia). Powinny być one zlokalizowane na terytorium Rzeczypospolitej Polskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Budowa urządzeń odprawy granicznej oraz problemy z nią związane będą uregulowane oddzielnie między Umawiającymi się Stronami na podstawie Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec z dnia 29 lipca 1992 r. o ułatwieniach w odprawie granicznej.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Pozostałe przedsięwzięcia budowlane",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "W celu uzyskania wymaganej wydajności oraz funkcjonalności odpraw granicznych towarów (wwóz, wywóz i przewozy towarów tranzytem, tącznie ze środkami transportu) wymagana jest budowa urządzeń odprawy granicznej (budynki, parkingi i inne urządzenia). Powinny być one zlokalizowane na terytorium Rzeczypospolitej Polskiej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Rozbieżności"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Budowa urządzeń odprawy granicznej oraz problemy z nią związane będą uregulowane oddzielnie między Umawiającymi się Stronami na podstawie Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec z dnia 29 lipca 1992 r. o ułatwieniach w odprawie granicznej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Rozbieżności",
+   "children": [
     {
      "type": "text",
      "text": "Rozbieżności dotyczące interpretacji lub stosowania niniejszej umowy powinny być rozstrzygane przez właściwe władze Umawiających się Stron. Każda z Umawiających się Stron może zasięgnąć opinii Komisji Mieszanej w tych sprawach. Wyjątkowo może być wykorzystana droga dyplomatyczna."
@@ -546,152 +550,152 @@
     {
      "type": "text",
      "text": "Okres obowiązywania i zmiana umowy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa jest zawarta na czas nieokre- Słony. Moze byé ona zmieniona, uzupetniona albo uchylona tylko za zgodą Umawiających się Stron.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli podczas realizacji umowy ujawnią się znaczne trudności lub zmienią się zasadniczo warunki, na jakich była ona zawarta, to na żądanie jednej z Umawiających się Stron Strony podejmą negocjacje w sprawie ustalenia nowych uregulowań.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 15"
     },
     {
-     "type": "text",
-     "text": "Wejście w życie umowy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega ratyfikacji; wymiana dokumentów ratyfikacyjnych nastąpi tak szybko, jak będzie to tylko możliwe w Bonn.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa wejdzie w życie w pierwszym dniu drugiego miesiąca po wymianie dokumentów ratyfikacyjnych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 20 marca 1995 r. w dwóch egzemplarzach, każdy w języku polskim i niemieckim, przy czym obydwa teksty mają jednakową"
-    },
-    {
-     "type": "text",
-     "text": "moc."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Federalnej Niemiec"
-    },
-    {
-     "type": "text",
-     "text": "J. Bauch B. Liberadzki M. Wismann"
-    },
-    {
-     "type": "text",
-     "text": "Załącznik do Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o połączeniu autostrad oraz o budowie i przebudowie mostu granicznego w rejonie Olszyny i Forstu"
-    },
-    {
-     "type": "text",
-     "text": "OCHRONA DANYCH OSOBOWYCH"
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Wykorzystanie danych przez odbiorcę dopuszczalne jest jedynie w podanym celu oraz przy zachowaniu warunków określonych przez tę z Umawiających się Stron, która dane te przekazuje.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Na prośbę odbiorca informuje Umawiającą się Stronę, która przekazuje dane, o sposobie ich wykorzystania oraz o osiągniętych dzięki temu rezultatach.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "Dane osobowe mogą być przekazywane wyłącznie tym jednostkom, które są upoważnione do ich odbioru. Dalsze przekazywanie danych innym jednostkom może nastąpić jedynie po uprzednim wyrażeniu zgody przez jednostkę przekazującą da-",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "ne."
-    },
-    {
-     "type": "text",
-     "text": "Umawiająca się Strona przekazująca dane zobo- 4 wiązana jest do zwrócenia uwagi na ich prawidłowość oraz potrzebę ich dostarczenia, z uwzględnieniem celu, któremu ma służyć przekazanie tych danych. Należy przy tym przestrzegać obowiązujących zakazów przekazywania danych według prawa każdej z Umawiających się Stron. Jeśli okaże się, że przekazano dane nieprawidłowe albo dane, których nie wolno było przekazać, należy powiadomić o tym niezwłocznie odbiorcę. Zobowiązany on jest do poprawienia albo zniszczenia danych."
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_2/pkt_5",
-     "text": "Na wniosek zainteresowanego należy poinformować go o istniejących danych, które dotyczą jego osoby oraz o zamierzonym celu ich wykorzystania. Obowiązek informowania nie istnieje, jeśli okaże się, że w przypadku nieudzielenia informacji interes publiczny przeważa nad interesem osoby, której udzielono by informacji. Poza tym prawo zainteresowanego do otrzymania informacji o istniejących danych dotyczących jego osoby respektowane jest według prawa tej Umawiającej się Strony, na której terytorium złożono wniosek o udzielenie informacji.",
-     "children": [
-      {
-       "type": "text",
-       "text": "6"
-      },
-      {
-       "type": "text",
-       "text": ">"
-      },
-      {
-       "type": "text",
-       "text": "Jeśli ktoś poniesie szkody wskutek sprzecznego z prawem rozpowszechniania informacji pozyskanych w ramach wymiany danych według niniejszej umowy, odpowiedzialność wobec niego spoczywa na Stronie odbierającej dane zgodnie z obowiązującym ją prawem. Dla oczyszczenia się z zarzutów nie może ona w stosunku do poszkodowanego powoływać się na to, że szkoda spowodowana została przez Stronę przekazującą dane."
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "ust_2/pkt_7",
-     "text": "Umawiajaca się Strona, która przekazuje dane, informuje przy przekazywaniu o terminach ich likwidacji obowiązujących według jej prawa. Niezależnie od tych terminów należy zlikwidować przekazane dane osobowe, w przypadku gdy dla tego celu, dla którego zostały przekazane, nie są już wymagane.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "8",
-     "path": "ust_2/pkt_8",
-     "text": "Umawiające się Strony są zobowiązane do udokumentowania w aktach faktu przekazania i odbioru danych osobowych.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "9",
-     "path": "ust_2/pkt_9",
-     "text": "Umawiające się Strony są zobowiązane do skutecznego chronienia przekazanych danych osobowych przed nieupoważnionym dostępem, nieupoważnioną zmianą i nieupoważnionym podaniem do wiadomości.",
+     "path": "art_13/ust_1",
+     "text": "Niniejsza umowa jest zawarta na czas nieokre- Słony. Moze byé ona zmieniona, uzupetniona albo uchylona tylko za zgodą Umawiających się Stron.",
      "children": [
       {
        "type": "note",
-       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "PROTOKÓŁ Rzeczpospolita Polska i Republika Federalna Niemiec przy okazji podpisania Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o połączeniu autostrad oraz o budowie i przebudowie mostu granicznego w rejonie Olszyny i Forstu, przyjęty następujące uzgodnienia, które stanowią integralną część tej umowy:"
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Jeżeli podczas realizacji umowy ujawnią się znaczne trudności lub zmienią się zasadniczo warunki, na jakich była ona zawarta, to na żądanie jednej z Umawiających się Stron Strony podejmą negocjacje w sprawie ustalenia nowych uregulowań.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Wejście w życie umowy",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Umowa niniejsza podlega ratyfikacji; wymiana dokumentów ratyfikacyjnych nastąpi tak szybko, jak będzie to tylko możliwe w Bonn.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Niniejsza umowa wejdzie w życie w pierwszym dniu drugiego miesiąca po wymianie dokumentów ratyfikacyjnych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 20 marca 1995 r. w dwóch egzemplarzach, każdy w języku polskim i niemieckim, przy czym obydwa teksty mają jednakową"
+  },
+  {
+   "type": "text",
+   "text": "moc."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Federalnej Niemiec"
+  },
+  {
+   "type": "text",
+   "text": "J. Bauch B. Liberadzki M. Wismann"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o połączeniu autostrad oraz o budowie i przebudowie mostu granicznego w rejonie Olszyny i Forstu"
+  },
+  {
+   "type": "text",
+   "text": "OCHRONA DANYCH OSOBOWYCH"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Wykorzystanie danych przez odbiorcę dopuszczalne jest jedynie w podanym celu oraz przy zachowaniu warunków określonych przez tę z Umawiających się Stron, która dane te przekazuje.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Na prośbę odbiorca informuje Umawiającą się Stronę, która przekazuje dane, o sposobie ich wykorzystania oraz o osiągniętych dzięki temu rezultatach.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Dane osobowe mogą być przekazywane wyłącznie tym jednostkom, które są upoważnione do ich odbioru. Dalsze przekazywanie danych innym jednostkom może nastąpić jedynie po uprzednim wyrażeniu zgody przez jednostkę przekazującą da-",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "ne."
+  },
+  {
+   "type": "text",
+   "text": "Umawiająca się Strona przekazująca dane zobo- 4 wiązana jest do zwrócenia uwagi na ich prawidłowość oraz potrzebę ich dostarczenia, z uwzględnieniem celu, któremu ma służyć przekazanie tych danych. Należy przy tym przestrzegać obowiązujących zakazów przekazywania danych według prawa każdej z Umawiających się Stron. Jeśli okaże się, że przekazano dane nieprawidłowe albo dane, których nie wolno było przekazać, należy powiadomić o tym niezwłocznie odbiorcę. Zobowiązany on jest do poprawienia albo zniszczenia danych."
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "Na wniosek zainteresowanego należy poinformować go o istniejących danych, które dotyczą jego osoby oraz o zamierzonym celu ich wykorzystania. Obowiązek informowania nie istnieje, jeśli okaże się, że w przypadku nieudzielenia informacji interes publiczny przeważa nad interesem osoby, której udzielono by informacji. Poza tym prawo zainteresowanego do otrzymania informacji o istniejących danych dotyczących jego osoby respektowane jest według prawa tej Umawiającej się Strony, na której terytorium złożono wniosek o udzielenie informacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "6"
+    },
+    {
+     "type": "text",
+     "text": ">"
+    },
+    {
+     "type": "text",
+     "text": "Jeśli ktoś poniesie szkody wskutek sprzecznego z prawem rozpowszechniania informacji pozyskanych w ramach wymiany danych według niniejszej umowy, odpowiedzialność wobec niego spoczywa na Stronie odbierającej dane zgodnie z obowiązującym ją prawem. Dla oczyszczenia się z zarzutów nie może ona w stosunku do poszkodowanego powoływać się na to, że szkoda spowodowana została przez Stronę przekazującą dane."
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "Umawiajaca się Strona, która przekazuje dane, informuje przy przekazywaniu o terminach ich likwidacji obowiązujących według jej prawa. Niezależnie od tych terminów należy zlikwidować przekazane dane osobowe, w przypadku gdy dla tego celu, dla którego zostały przekazane, nie są już wymagane.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "Umawiające się Strony są zobowiązane do udokumentowania w aktach faktu przekazania i odbioru danych osobowych.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "Umawiające się Strony są zobowiązane do skutecznego chronienia przekazanych danych osobowych przed nieupoważnionym dostępem, nieupoważnioną zmianą i nieupoważnionym podaniem do wiadomości.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "PROTOKÓŁ Rzeczpospolita Polska i Republika Federalna Niemiec przy okazji podpisania Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o połączeniu autostrad oraz o budowie i przebudowie mostu granicznego w rejonie Olszyny i Forstu, przyjęty następujące uzgodnienia, które stanowią integralną część tej umowy:"
     }
    ]
   },

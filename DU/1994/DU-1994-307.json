@@ -1431,98 +1431,102 @@
     {
      "type": "note",
      "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 28 Article 28"
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Article 28",
+   "children": [
     {
      "type": "text",
      "text": "Stosunki między niniejszą konwencją a porozumieniami dwustronnymi"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_28/ust_1",
+     "text": "Niniejsza konwencja uchyla postanowienia traktatów, umów lub porozumień dwustronnych, które w stosunkach między dwiema Umawiającymi się Stronami regulują zagadnienia ekstradycji, w odniesieniu do terytoriów, do których ma ona zastosowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_28/ust_2",
+     "text": "Umawiające się Strony mogą zawierać między sobą porozumienia dwu- lub wielostronne jedynie w celu uzupełnienia postanowień niniejszej konwencji lub ułatwienia stosowania zawartych w niej zasad.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_28/ust_3",
+     "text": "Jeżeli w stosunkach między dwiema lub więcej Umawiającymi się Stronami wydanie następuje na podstawie jednolitego ustawodawstwa, Strony te mogą uregulować swoje wzajemne stosunki w zakresie wydania, opierając się wyłącznie na tym systemie, niezależnie od postanowień niniejszej konwencji. Taką samą zasadę stosuje się do dwóch lub więcej Umawiających się Stron, jeżeli w każdej z nich obowiązują przepisy prawne przewidujące wykonywanie na jej terytorium nakazów aresztowania wydanych na terytorium innej lub innych Stron. Umawiające się Strony, które wyłączyły lub zamierzają wyłączyć w swoich wzajemnych stosunkach stosowanie niniejszej konwencji, powinny na mocy postanowień niniejszego ustępu zawiadomić o tym w drodze notyfikacji Sekretarza Generalnego Rady Europy. Sekretarz Generalny zawiadamia inne Umawiające się Strony o wszelkich notyfikacjach przekazanych na mocy niniejszego ustępu.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 28"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja uchyla postanowienia traktatów, umów lub porozumień dwustronnych, które w stosunkach między dwiema Umawiającymi się Stronami regulują zagadnienia ekstradycji, w odniesieniu do terytoriów, do których ma ona zastosowanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony mogą zawierać między sobą porozumienia dwu- lub wielostronne jedynie w celu uzupełnienia postanowień niniejszej konwencji lub ułatwienia stosowania zawartych w niej zasad.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli w stosunkach między dwiema lub więcej Umawiającymi się Stronami wydanie następuje na podstawie jednolitego ustawodawstwa, Strony te mogą uregulować swoje wzajemne stosunki w zakresie wydania, opierając się wyłącznie na tym systemie, niezależnie od postanowień niniejszej konwencji. Taką samą zasadę stosuje się do dwóch lub więcej Umawiających się Stron, jeżeli w każdej z nich obowiązują przepisy prawne przewidujące wykonywanie na jej terytorium nakazów aresztowania wydanych na terytorium innej lub innych Stron. Umawiające się Strony, które wyłączyły lub zamierzają wyłączyć w swoich wzajemnych stosunkach stosowanie niniejszej konwencji, powinny na mocy postanowień niniejszego ustępu zawiadomić o tym w drodze notyfikacji Sekretarza Generalnego Rady Europy. Sekretarz Generalny zawiadamia inne Umawiające się Strony o wszelkich notyfikacjach przekazanych na mocy niniejszego ustępu.",
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Podpisanie, ratyfikacja i wejście w życie",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 29"
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "Niniejsza konwencja jest otwarta do podpisu dla Państw Członkowskich Rady Europy. Podlega ona ratyfikacji. Dokumenty ratyfikacyjne będą złożone Sekretarzowi Generalnemu Rady.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Podpisanie, ratyfikacja i wejście w życie"
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Konwencja wchodzi w życie po upływie 90 dni od daty złożenia trzeciego dokumentu ratyfikacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_29/ust_3",
+     "text": "Dla każdego Sygnatariusza, który ratyfikuje konwencję w terminie późniejszym, wchodzi ona w życie po upływie 90 dni od daty złożenia przez niego dokumentu ratyfikacyjnego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 29"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja jest otwarta do podpisu dla Państw Członkowskich Rady Europy. Podlega ona ratyfikacji. Dokumenty ratyfikacyjne będą złożone Sekretarzowi Generalnemu Rady.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Konwencja wchodzi w życie po upływie 90 dni od daty złożenia trzeciego dokumentu ratyfikacyjnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dla każdego Sygnatariusza, który ratyfikuje konwencję w terminie późniejszym, wchodzi ona w życie po upływie 90 dni od daty złożenia przez niego dokumentu ratyfikacyjnego.",
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Przystąpienie",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 30"
+     "type": "ust",
+     "num": "1",
+     "path": "art_30/ust_1",
+     "text": "Komitet Ministrów Rady Europy może zaprosić każde Państwo nie będące Członkiem Rady do przystąpienia do niniejszej konwencji. Uchwała dotycząca tego zaproszenia musi uzyskać jednomyślną zgodę Członków Rady, którzy ratyfikowali konwencję.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Przystąpienie"
+     "type": "ust",
+     "num": "2",
+     "path": "art_30/ust_2",
+     "text": "Przystąpienie następuje przez złożenie Sekretarzowi Generalnemu Rady dokumentu przystąpienia, który nabiera mocy po upływie 90 dni od daty jego złożenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 30"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Komitet Ministrów Rady Europy może zaprosić każde Państwo nie będące Członkiem Rady do przystąpienia do niniejszej konwencji. Uchwała dotycząca tego zaproszenia musi uzyskać jednomyślną zgodę Członków Rady, którzy ratyfikowali konwencję.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przystąpienie następuje przez złożenie Sekretarzowi Generalnemu Rady dokumentu przystąpienia, który nabiera mocy po upływie 90 dni od daty jego złożenia.",
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "Wypowiedzenie",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 31"
-    },
-    {
-     "type": "text",
-     "text": "Wypowiedzenie"
-    },
     {
      "type": "text",
      "text": ". Każda Umawiająca się Strona może wypowiedzieć niniejszą konwencję, w zakresie jej dotyczącym, w drodze"
@@ -1530,110 +1534,111 @@
     {
      "type": "text",
      "text": "Relations between this Convention and bilateral agreements"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "This Convention shall, in respect of those countries to which it applies, supersede the provisions of any bilateral treaties, conventions or agreements governing extradition between any two Contracting Parties.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "The Contracting Parties may conclude between themselves bilateral or multilateral agreements only in order to supplement the provisions of this Convention or to facilitate the application of the principles contained therein.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_31/ust_3",
+     "text": "Where, as between two or more Contracting Parties, extradition takes place on the basis of a uniform law, the Parties shall be free to regulate their mutual relations in respect of extradition exclusively in accordance with such a system notwithstanding the provisions of this Convention. The same principle shall apply as between two or more Contracting Parties each of which has in force a law providing for the execution in its territory of warrants of arrest issued in the territory of the other Party or Parties. Contracting Parties which exclude or may in the future exclude the application of this Convention as between themselves in accordance with this paragraph shall notify the Secretary- -General of the Council of Europe accordingly. The Secretary-General shall inform the other Contracting Parties of any notification received in accordance with this paragraph.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 29"
+      },
+      {
+       "type": "text",
+       "text": "Signature, ratification and entry into force"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "This Convention shall be open to signature by the Members of the Council of Europe. It shall be ratified. The instruments of ratification shall be deposited with the Secretary-General of the Council.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "The Convention shall come into force 90 days after the date of deposit of the third instrument of ratification.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_31/ust_3",
+     "text": "As regards any signatory ratifying subsequently the Convention shall come into force 90 days after the date of the deposit of its instrument of ratification.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 30"
+      },
+      {
+       "type": "text",
+       "text": "Accession"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "The Committee of Ministers of the Council of Europe may invite any State not a Member of the Council to accede to this Convention, provided that the resolution containing such invitation receives the unanimous agreement of the Members of the Council who have ratified the Convention.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "Accession shall be by deposit with the Secretary- -General of the Council of an instrument of accession, which shall take effect 90 days after the date of its deposit.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 31"
+      },
+      {
+       "type": "text",
+       "text": "Denunciation"
+      },
+      {
+       "type": "text",
+       "text": "Any Contracting Party may denounce this Convention in so far as it is concerned by giving notice to the Secretary-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "zawiadomienia skierowanego do Sekretarza Generalnego Rady Europy. Wypowiedzenie nabiera mocy po upływie sześciu miesięcy od daty otrzymania takiej notyfikacji przez Sekretarza Generalnego Rady."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 31"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall, in respect of those countries to which it applies, supersede the provisions of any bilateral treaties, conventions or agreements governing extradition between any two Contracting Parties.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Contracting Parties may conclude between themselves bilateral or multilateral agreements only in order to supplement the provisions of this Convention or to facilitate the application of the principles contained therein.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Where, as between two or more Contracting Parties, extradition takes place on the basis of a uniform law, the Parties shall be free to regulate their mutual relations in respect of extradition exclusively in accordance with such a system notwithstanding the provisions of this Convention. The same principle shall apply as between two or more Contracting Parties each of which has in force a law providing for the execution in its territory of warrants of arrest issued in the territory of the other Party or Parties. Contracting Parties which exclude or may in the future exclude the application of this Convention as between themselves in accordance with this paragraph shall notify the Secretary- -General of the Council of Europe accordingly. The Secretary-General shall inform the other Contracting Parties of any notification received in accordance with this paragraph.",
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Notyfikacje",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 29"
-    },
-    {
-     "type": "text",
-     "text": "Signature, ratification and entry into force"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall be open to signature by the Members of the Council of Europe. It shall be ratified. The instruments of ratification shall be deposited with the Secretary-General of the Council.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Convention shall come into force 90 days after the date of deposit of the third instrument of ratification.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "As regards any signatory ratifying subsequently the Convention shall come into force 90 days after the date of the deposit of its instrument of ratification.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 30"
-    },
-    {
-     "type": "text",
-     "text": "Accession"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Committee of Ministers of the Council of Europe may invite any State not a Member of the Council to accede to this Convention, provided that the resolution containing such invitation receives the unanimous agreement of the Members of the Council who have ratified the Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Accession shall be by deposit with the Secretary- -General of the Council of an instrument of accession, which shall take effect 90 days after the date of its deposit.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 31"
-    },
-    {
-     "type": "text",
-     "text": "Denunciation"
-    },
-    {
-     "type": "text",
-     "text": "Any Contracting Party may denounce this Convention in so far as it is concerned by giving notice to the Secretary-"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "zawiadomienia skierowanego do Sekretarza Generalnego Rady Europy. Wypowiedzenie nabiera mocy po upływie sześciu miesięcy od daty otrzymania takiej notyfikacji przez Sekretarza Generalnego Rady."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 32"
-    },
-    {
-     "type": "text",
-     "text": "Notyfikacje"
-    },
     {
      "type": "text",
      "text": "Sekretarz Generalny Rady Europy zawiadamia w drodze notyfikacji Państwa Członkowskie Rady oraz rząd każdego Państwa, które przystąpiło do niniejszej konwencji, o:"
@@ -1661,785 +1666,118 @@
     {
      "type": "text",
      "text": "(f) każdej notyfikacji o wypowiedzeniu otrzymanej zgodnie z postanowieniami artykułu 31 oraz o dacie, w której wypowiedzenie nabierze mocy."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód powyższego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejszą konwencję."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Paryżu dnia 13 grudnia 1957 r. w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy rządom Państw-Sygnatariuszy."
-    },
-    {
-     "type": "text",
-     "text": "PROTOKÓŁ DODATKOWY DO EUROPEJSKIEJ KONWENCJI O EKSTRADYCJI"
-    },
-    {
-     "type": "text",
-     "text": "Państwa Członkowskie Rady Europy, Sygnatariusze niniejszego protokołu,"
-    },
-    {
-     "type": "text",
-     "text": "mając na uwadze postanowienia Europejskiej konwencji o ekstradycji, otwartej do podpisu w Paryżu dnia 13 grudnia 1957 r. (zwanej dalej konwencją), a w szczególności jej artykuły 3i9,"
-    },
-    {
-     "type": "text",
-     "text": "uważając, że pożądane jest uzupełnienie tych artykułów w celu wzmocnienia ochrony ogólnoludzkiej społeczności oraz jednostki,"
-    },
-    {
-     "type": "text",
-     "text": "uzgodniły, co następuje:"
     }
-   ]
+   ],
+   "label": "Artykuł 32"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód powyższego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejszą konwencję."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Paryżu dnia 13 grudnia 1957 r. w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy rządom Państw-Sygnatariuszy."
+  },
+  {
+   "type": "text",
+   "text": "PROTOKÓŁ DODATKOWY DO EUROPEJSKIEJ KONWENCJI O EKSTRADYCJI"
+  },
+  {
+   "type": "text",
+   "text": "Państwa Członkowskie Rady Europy, Sygnatariusze niniejszego protokołu,"
+  },
+  {
+   "type": "text",
+   "text": "mając na uwadze postanowienia Europejskiej konwencji o ekstradycji, otwartej do podpisu w Paryżu dnia 13 grudnia 1957 r. (zwanej dalej konwencją), a w szczególności jej artykuły 3i9,"
+  },
+  {
+   "type": "text",
+   "text": "uważając, że pożądane jest uzupełnienie tych artykułów w celu wzmocnienia ochrony ogólnoludzkiej społeczności oraz jednostki,"
+  },
+  {
+   "type": "text",
+   "text": "uzgodniły, co następuje:"
   },
   {
    "type": "heading",
    "label": "Rozdział I",
-   "text": "Artykuł 1"
+   "text": ""
   },
   {
-   "type": "text",
-   "text": "W celu stosowania artykułu 3 konwencji nie będą uznawane za przestępstwa polityczne:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "zbrodnie przeciwko ludzkości, określone w konwencji o zapobieganiu i karaniu zbrodni ludobójstwa, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych w dniu 9 grudnia 1948 r.;",
-   "children": [
-    {
-     "type": "text",
-     "text": "-General of the Council of Europe. Denunciation shall take effect six months after the date when the Secretary-General of the Council received such notification."
-    },
-    {
-     "type": "text",
-     "text": "Article 32"
-    },
-    {
-     "type": "text",
-     "text": "Notifications"
-    },
-    {
-     "type": "text",
-     "text": "The Secretary-General of the Council of Europe shall notify the Members of the Council and the Government of any State which has acceded to this Convention of:"
-    },
-    {
-     "type": "text",
-     "text": "(a) the deposit of any instrument ofratification or accession;"
-    },
-    {
-     "type": "text",
-     "text": "(b) the date of entry into force of this Convention;"
-    },
-    {
-     "type": "text",
-     "text": "(c) any declaration made in accordance with the provisions of Article 6, paragraph 1, and of Article 21, paragraph 5;"
-    },
-    {
-     "type": "text",
-     "text": "(d) any reservation made in accordance with Article 26,"
-    },
-    {
-     "type": "text",
-     "text": "— wo paragraph 1;"
-    },
-    {
-     "type": "text",
-     "text": "the withdrawal of any reservation in accordance with (e"
-    },
-    {
-     "type": "text",
-     "text": "Article 26, paragraph 2;"
-    },
-    {
-     "type": "text",
-     "text": "any notification of denunciation received in accordance"
-    },
-    {
-     "type": "text",
-     "text": "(f — with the provisions of Article 31 and the date on which such denunciation will take effect."
-    },
-    {
-     "type": "text",
-     "text": "In witness whereof the undersigned, being duly authorised thereto, have signed this Convention."
-    },
-    {
-     "type": "text",
-     "text": "Done at Paris, this 13th day of December 1957, in English and French, both texts being equally authentic, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the signatory Governments."
-    },
-    {
-     "type": "text",
-     "text": "ADDITIONAL PROTOCOL TO THE EUROPEAN CONVENTION ON EXTRADITION"
-    },
-    {
-     "type": "text",
-     "text": "The member States of the Council of Europe, signatory to this Protocol,"
-    },
-    {
-     "type": "text",
-     "text": "Having regard to the provisions of the European Convention on Extradition opened for signature in Paris on 13 December 1957 (hereinafter referred to as ''the Convention ') and in particular Articles 3 and 9 thereof;"
-    },
-    {
-     "type": "text",
-     "text": "Considering that it is desirable to supplement these Articles with a view to strengthening the protection of humanity and of individuals,"
-    },
-    {
-     "type": "text",
-     "text": "Have agreed as follows:"
-    },
-    {
-     "type": "text",
-     "text": "Chapter I"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "For the application of Article 3 of the Convention, political offences shall not be considered to include the following:"
-    }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "the crimes against humanity specified in the Convention on the Prevention and Punishment of the Crime of Genocide adopted on 9 December 1948 by the General Assembly of the United Nations;",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "przestępstwa określone w artykule 50 Konwencji genewskiej o polepszeniu losu rannych i chorych w armiach czynnych z 1949 r., artykule 51 Konwencji genewskiej o polepszeniu losu rannych, chorych i rozbitków sił zbrojnych na morzu z 1949 r., artykule 130 Konwencji genewskiej o traktowaniu jeńców wojennych z 1949 r. i artykule 147 Konwencji genewskiej o ochronie osób cywilnych w czasie wojny z 1949 r.,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "inne podobne naruszenia prawa wojennego, obowiązującego w chwili wejścia w życie niniejszego protokołu, oraz zwyczajów wojennych istniejących w tym samym czasie, nie uregulowanych już przez postanowienia wyżej wymienionych konwencji genewskich.",
-   "children": []
-  },
-  {
-   "type": "heading",
-   "label": "Rozdział Il",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9 konwencji zostaje uzupełniony następującym tekstem: Dotychczasowa treść artykułu 9 staje się ustępem 1 tego artykułu, a poniższe postanowienia tworzą odpowiednio ustępy 2, 3 i 4:"
-  },
-  {
-   "type": "text",
-   "text": "„2. Wydanie osoby nie może nastąpić, jeżeli w Państwie trzecim, Stronie konwencji, w sprawie o przestępstwo lub przestępstwa, w odniesieniu do których wniosek został złożony, zostało wydane prawomocne orzeczenie i jeżeli:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) oskarżonego uniewinniono;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) karę pozbawienia wolności lub inny orzeczony środek:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "i) wykonano w całości,",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "ii) zastosowano ułaskawienie lub amnestię co do całości lub nie wykonanej części kary;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) sąd skazując oskarżonego odstąpił od wymierzenia kary.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Jednakże w wypadkach wskazanych w ustępie 2 wydanie może nastąpić, jeżeli:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) przestępstwo, za które zapadło orzeczenie, zostało popełnione przeciwko osobie, instytucji lub dobru o charakterze publicznym w Państwie wzywającym;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) osoba, wobec której zapadło orzeczenie, jest osobą publiczną w Państwie wzywającym;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) przestępstwo, za które zapadło orzeczenie, popełniono w całości lub w części na terytorium Państwa wzywającego albo w miejscu traktowanym jak jego terytorium.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "4. Postanowienia ustępów 2 i 3 nie wyłączają stosowania szerszych uregulowań wewnętrznych, odnoszących się do zasady ne bis in idem, dotyczących zagranicznych orzeczeń w sprawach karnych.\"",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Rozdział Ill",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Niniejszy protokół jest otwarty do podpisu dla Państw Członkowskich Rady Europy, które podpisały konwencję. Podlega on ratyfikacji, przyjęciu lub zatwierdzeniu.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) the violations specified in Article 50 of the 1949 Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, Article 51 of the 1949 Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, Article 130 of the 1949 Geneva Convention relative to the Treatment of Prisoners of War and Article 147 of the 1949 Geneva Convention relative to the Protection of Civilian Persons in Time of War;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) any comparable violations of the laws of war having effect at the time when this Protocol enters into force and of customs of war existing at that time, which are not already provided for in the above-mentioned provisions of the Geneva Conventions.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter II",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 2",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 9 ofthe Convention shall be supplemented by the following text, the original Article 9 of the Convention becoming paragraph 1 and the under-mentioned provisions \"becoming paragraphs 2, 3 and 4:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. The extradition of a person against whom a final judgment has been rendered in a third State, Contracting Party to the Convention, for the offence or offences in respect of which the claim was made, shall not be granted:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) if the afore-mentioned judgment resulted in his acquittal;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) if the term of imprisonment or other measure to which he was sentenced:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "i) has been completely enforced;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "ii) has been wholly, or with respect to the part not enforced, the subject of a pardon or an amnesty;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) if the court convicted the offender without imposing a sanction.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. However, in the cases referred to in paragraph 2, extradition may be granted:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) if the offence in respect of which judgment has been rendered was committed against a person, an institution or any thing having public status in the requesting State;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) if the person on whom judgment was passed had himself a public status in the requesting State;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) if the offence in respect of which judgment was passed was committed completely or partly in the territory of the requesting State or in a place treated as its territory.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "4. The provisions of paragraphs 2 and 3 shall not prevent the application of wider domestic provisions relating to the effect of ne bis in idem attached to foreign criminal judgments.”",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter Ill"
-  },
-  {
-   "type": "text",
-   "text": "Article 3"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "This Protocol shall be open to signature by the member States of the Council of Europe which have signed the Convention. It shall be subject to ratification, acceptance",
+   "path": "art_1",
+   "text": "W celu stosowania artykułu 3 konwencji nie będą uznawane za przestępstwa polityczne:",
    "children": [
-    {
-     "type": "note",
-     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "[e"
-    },
-    {
-     "type": "text",
-     "text": "eee"
-    },
-    {
-     "type": "text",
-     "text": "Dokumenty ratyfikacyjne, przyjęcia lub zatwierdzenia będą składane Sekretarzowi Generalnemu Rady Europy."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Protokół wchodzi w życie po upływie 90 dni od daty złożenia trzeciego dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W odniesieniu do Państwa, które podpisało protokół, a następnie go ratyfikuje, przyjmie lub zatwierdzi, wchodzi on w życie po upływie 90 dni od daty złożenia przez nie dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Żadne Państwo Członkowskie Rady Europy nie może ratyfikować, przyjąć lub zatwierdzić niniejszego protokołu bez równoczesnej lub uprzedniej ratyfikacji konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde Państwo, które przystąpiło do konwencji, może przystąpić do niniejszego protokołu po jego wejściu w życie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przystąpienie następuje przez złożenie Sekretarzowi Generalnemu Rady Europy dokumentu przystąpienia, który nabiera mocy po upływie 90 dni od daty jego złożenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia określić terytorium lub terytoria, do których stosuje się niniejszy protokół.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każde Państwo może w chwili składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia albo w terminie późniejszym, w drodze oświadczenia skierowanego do Sekretarza Generalnego Rady Europy, rozszerzyć stosowanie niniejszego protokołu na terytorium inne niż określone w oświadczeniu, które reprezentuje w stosunkach międzynarodowych albo w imieniu którego ma prawo podejmowania takich działań.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każde oświadczenie złożone w trybie ustępu poprzedzającego może być wycofane w odniesieniu do określonego w nim terytorium, zgodnie z procedurą ustaloną w artykule 8 niniejszego protokołu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia oświadczyć, że nie przyjmuje rozdziału 1 lub rozdziału Il.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda Umawiająca się Strona może wycofać oświadczenie złożone przez nią w trybie ustępu poprzedzającego, w drodze oświadczenia skierowanego do Sekretarza Genera- Inego Rady Europy, które nabierze mocy od daty jego otrzymania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Składanie zastrzeżeń do postanowień niniejszego protokołu nie jest dopuszczalne.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Europejski Komitet do Spraw Problematyki Przestępczości (CDPC) Rady Europy powinien być informowany o stosowaniu niniejszego protokołu i powinien dołożyć wszelkich starań dla ułatwienia polubownego rozstrzygania wszelkich sporów, jakie mogą wyniknąć w trakcie jego stosowania."
-    },
-    {
-     "type": "text",
-     "text": "or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the Council of Europe."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Protocol shall enter into force 90 days after the date of the deposit of the third instrument of ratification, acceptance or approval.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "In respect of a signatory State ratifying, accepting or approving subsequently, the Protocol shall enter into force 90 days after the date of the deposit of its instrument of ratification, acceptance or approval.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "A member State of the Council of Europe may not ratify, accept or approve this Protocol without having, simultaneously or previously, ratified the Convention.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any State which has acceded to the Convention may accede to this Protocol after the Protocol has entered into force.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Such accession shall be effected by depositing with the Secretary- General of the Council of Europe an instrument of accession which shall take effect 90 days after the date of its deposit.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Protocol shall apply.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary-General of the Council of Europe, extend this Protocol to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 8 of this Protocol.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it does not accept one or the other of Chapters | or II.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any Contracting Party may withdraw a declaration it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary- General of the Council of Europe which shall become effective as from the date of its receipt.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "No reservation may be made to the provisions of this Protocol.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Protocol and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda Umawiająca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejszy protokół w drodze zawiadomienia skierowanego do Sekretarza Generalnego Rady Europy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenie to nabierze mocy po upływie sześciu miesięcy od daty otrzymania zawiadomienia przez Sekretarza Generalnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wypowiedzenie konwencji powoduje automatycznie wypowiedzenie niniejszego protokołu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Sekretarz Generalny Rady Europy zawiadamia w drodze notyfikacji Państwa Członkowskie Rady oraz każde Państwo, które przystąpiło do konwencji, o:"
-    },
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "podpisaniu niniejszego protokołu;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "złożeniu każdego dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "każdej dacie wejścia w życie niniejszego protokołu, zgodnie z artykułem 3;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "każdym oświadczeniu otrzymanym zgodnie z postanowieniami artykułu 5 i o każdym wycofaniu takiego oświadczenia;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_3/lit_e",
-     "text": "każdym oświadczeniu złożonym w myśl postanowień artykułu 6 ustęp 1;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_3/lit_f",
-     "text": "wycofaniu każdego oświadczenia, dokonanym w myśl postanowień artykułu 6 ustęp 2;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_3/lit_g",
-     "text": "każdym zawiadomieniu otrzymanym w myśl postanowień artykułu 8 oraz o dacie, w której wypowiedzenie nabierze mocy.",
+     "path": "art_1/lit_a",
+     "text": "zbrodnie przeciwko ludzkości, określone w konwencji o zapobieganiu i karaniu zbrodni ludobójstwa, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych w dniu 9 grudnia 1948 r.;",
      "children": [
       {
        "type": "text",
-       "text": "Na dowód powyższego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejszy protokół."
+       "text": "-General of the Council of Europe. Denunciation shall take effect six months after the date when the Secretary-General of the Council received such notification."
       },
       {
        "type": "text",
-       "text": "Sporządzono w Strasburgu dnia 15 października 1975 r. w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy Państwom-Sygnatariuszom oraz Państwom, które przystąpiły do protokołu."
+       "text": "Article 32"
       },
       {
        "type": "text",
-       "text": "DRUGI PROTOKÓŁ DODATKOWY DO EUROPEJS- KIEJ KONWENCJI O EKSTRADYCJI"
+       "text": "Notifications"
       },
       {
        "type": "text",
-       "text": "Państwa Członkowskie Rady Europy, Sygnatariusze niniejszego protokołu,"
+       "text": "The Secretary-General of the Council of Europe shall notify the Members of the Council and the Government of any State which has acceded to this Convention of:"
       },
       {
        "type": "text",
-       "text": "dążąc do ułatwienia stosowania w zakresie przestępstw skarbowych Europejskiej konwencji o ekstradycji, otwartej do podpisu dnia 13 grudnia 1957 r. (zwanej dalej „konwencją”),"
+       "text": "(a) the deposit of any instrument ofratification or accession;"
       },
       {
        "type": "text",
-       "text": "uważając również za pożądane uzupełnienie konwencji w niektórych innych kwestiach,"
+       "text": "(b) the date of entry into force of this Convention;"
       },
       {
        "type": "text",
-       "text": "uzgodniły, co następuje:"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "heading",
-   "label": "Rozdział I",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Ustęp 2 artykułu 2 konwencji uzupełnia się następującym postanowieniem:"
-  },
-  {
-   "type": "text",
-   "text": "Article 8"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any Contracting Party may, in so far as it is concerned, denounce this Protocol by means of a notification addressed to the Secretary-General of the Council of Europe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Such denunciation shall take effect six months after the date of receipt by the Secretary-General of such notification.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Denunciation ofthe Convention entails automatically denunciation of this Protocol.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "The Secretary-General of the Council of Europe shall notify the member States of the Council and any State which has acceded to the Convention of:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "any signature;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "any deposit of an instrument of ratification, acceptance, approval or accession;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "any date of entry into force of this Protocol in accordance with Article 3 thereof;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "any declaration received in pursuance of the provisions of Article 5 and any withdrawal of such a declaration;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_3/lit_e",
-     "text": "any declaration made in pursuance of the provisions of Article 6, paragraph 1;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_3/lit_f",
-     "text": "the withdrawal of any declaration carried out in pursuance of the provisions of Article 6, paragraph 2;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_3/lit_g",
-     "text": "any notification received in pursuance of the provisions of Article 8 and the date on which denunciation takes effect.",
-     "children": [
-      {
-       "type": "text",
-       "text": "In witness whereof, the undersigned, being duly authorised thereto, have signed this Protocol."
+       "text": "(c) any declaration made in accordance with the provisions of Article 6, paragraph 1, and of Article 21, paragraph 5;"
       },
       {
        "type": "text",
-       "text": "Done at Strasbourg, this 15th day of October 1975, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary-General of the Council of Europe shall transmit certified copies to each of the signatory and acceding States."
+       "text": "(d) any reservation made in accordance with Article 26,"
       },
       {
        "type": "text",
-       "text": "SECOND ADDITIONAL PROTOCOL TO THE EURO- PEAN CONVENTION ON EXTRADITION"
+       "text": "— wo paragraph 1;"
+      },
+      {
+       "type": "text",
+       "text": "the withdrawal of any reservation in accordance with (e"
+      },
+      {
+       "type": "text",
+       "text": "Article 26, paragraph 2;"
+      },
+      {
+       "type": "text",
+       "text": "any notification of denunciation received in accordance"
+      },
+      {
+       "type": "text",
+       "text": "(f — with the provisions of Article 31 and the date on which such denunciation will take effect."
+      },
+      {
+       "type": "text",
+       "text": "In witness whereof the undersigned, being duly authorised thereto, have signed this Convention."
+      },
+      {
+       "type": "text",
+       "text": "Done at Paris, this 13th day of December 1957, in English and French, both texts being equally authentic, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the signatory Governments."
+      },
+      {
+       "type": "text",
+       "text": "ADDITIONAL PROTOCOL TO THE EUROPEAN CONVENTION ON EXTRADITION"
       },
       {
        "type": "text",
@@ -2447,11 +1785,11 @@
       },
       {
        "type": "text",
-       "text": "Desirous of facilitating the application of the European Convention on Extradition opened for signature in Paris on 13 December 1957 (hereinafter referred to as 'the Convention’’) in the field of fiscal offences;"
+       "text": "Having regard to the provisions of the European Convention on Extradition opened for signature in Paris on 13 December 1957 (hereinafter referred to as ''the Convention ') and in particular Articles 3 and 9 thereof;"
       },
       {
        "type": "text",
-       "text": "Considering it also desirable to supplement the Convention in certain other respects,"
+       "text": "Considering that it is desirable to supplement these Articles with a view to strengthening the protection of humanity and of individuals,"
       },
       {
        "type": "text",
@@ -2467,720 +1805,1424 @@
       },
       {
        "type": "text",
-       "text": "Paragraph 2 of Article 2 of the Convention shall be supplemented by the following provision:"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "1275 = Dziennik Ustaw Nr 70 ——"
-      },
-      {
-       "type": "text",
-       "text": "„Powyższe stosuje się również do przestępstw, które są zagrożone jedynie karami o charakterze finansowym”.",
-       "quoted": true
+       "text": "For the application of Article 3 of the Convention, political offences shall not be considered to include the following:"
       }
      ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "the crimes against humanity specified in the Convention on the Prevention and Punishment of the Crime of Genocide adopted on 9 December 1948 by the General Assembly of the United Nations;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "przestępstwa określone w artykule 50 Konwencji genewskiej o polepszeniu losu rannych i chorych w armiach czynnych z 1949 r., artykule 51 Konwencji genewskiej o polepszeniu losu rannych, chorych i rozbitków sił zbrojnych na morzu z 1949 r., artykule 130 Konwencji genewskiej o traktowaniu jeńców wojennych z 1949 r. i artykule 147 Konwencji genewskiej o ochronie osób cywilnych w czasie wojny z 1949 r.,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "inne podobne naruszenia prawa wojennego, obowiązującego w chwili wejścia w życie niniejszego protokołu, oraz zwyczajów wojennych istniejących w tym samym czasie, nie uregulowanych już przez postanowienia wyżej wymienionych konwencji genewskich.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
    "type": "heading",
    "label": "Rozdział Il",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 5 konwencji zostaje zastąpiony przez następujące postanowienia:"
-  },
-  {
-   "type": "text",
-   "text": "„Przestępstwa skarbowe",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Wydanie za przestępstwa podatkowe, celne i dewizowe pomiędzy Umawiającymi się Stronami następuje zgodnie z postanowieniami konwencji, jeżeli dane przestępstwo, według prawa Strony wezwanej, odpowiada przestępstwu takiego samego rodzaju.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Nie można odmówić wydania na tej podstawie, że prawo Strony wezwanej nie przewiduje takiego samego rodzaju opłaty lub podatku albo nie reguluje w ten sam sposób opłat, podatków, ceł i obrotu dewizowego jak prawo Strony wzywającej.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Rozdział Ill",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Konwencję uzupełnia się następującymi postanowieniami:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "„Orzeczenia zaoczne",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Jeżeli Umawiająca się Strona wystąpiła do innej Umawiającej się Strony o wydanie osoby, w celu wykonania kary lub środka zabezpieczającego, orzeczonych zaocznie, Strona wezwana może odmówić wydania w tym celu, jeżeli uzna, że postępowanie, w którego wyniku zostało wydane orzeczenie, nie zapewniło minimum praw do obrony przysługujących każdej osobie oskarżonej o popełnienie przestępstwa. Jednakże wydanie może nastąpić, jeżeli Strona wzywająca zagwarantuje w sposób uznany za wystarczający, że sprawa osoby, o której wydanie wnosi, będzie ponownie rozpoznana z zagwarantowaniem praw do obrony. Decyzja ta uprawnia Stronę wzywającą do wykonania tego orzeczenia, jeżeli osoba skazana nie wniesie sprzeciwu lub, w razie jej sprzeciwu, do wszczęcia postępowania przeciwko osobie wydanej.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Strona wzywająca nie może traktować jako doręczenia w rozumieniu przepisów postępowania karnego, toczącego się w tym Państwie, zawiadomienia osoby, której wydania żąda, dokonanego przez Stronę wezwaną, o wydanym przeciwko niej orzeczeniu zaocznym.\"",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Rozdział IV",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Konwencję uzupełnia się następującymi postanowieniami:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "„„Amnestia",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Wydanie nie następuje za przestępstwo objęte amnestią w Państwie wezwanym, jeżeli przestępstwo to mogło być ścigane na mocy ustawodawstwa karnego tego Państwa.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "\"This right shall also apply to offences which are subject only to pecuniary sanctions.”",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter II",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 2",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 5 of the Convention shall be replaced by the following provisions:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "\"Fiscal offences",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. For offences in connection with taxes, duties, customs and exchange extradition shall take place between the Contracting Parties in accordance with the provisions of the Convention if the offence, under the law of the requested Party, corresponds to an offence of the same nature.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Extradition may not be refused on the ground that the law of the requested Party does not impose the same kind of tax or duty or does not contain a tax, duty, customs or exchange regulation of the same kind as the law of the requesting Party.”",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter III",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 3",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "The Convention shall be supplemented by the following provisions:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "“Judgments in absentia",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. When a Contracting Party requests from another Contracting Party the extradition of a person for the purpose of carrying out a sentence or detention order imposed by a decision rendered against him in absentia, the requested Party may refuse to extradite for this purpose if, in its opinion, the proceedings leading to the judgment did not satisfy the minimum rights of defence recognised as due to everyone charged with criminal offence. However, extradition shall be granted if the requesting Party gives an assurance considered sufficient to guarantee to the person claimed the right to a retrial which safeguards the rights of defence. This decision will authorise the requesting Party either to enforce the judgment in question if the convicted person does not make an opposition or, if he does, to take proceedings against the person extradited.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. When the requested Party informs the person whose extradition has been requested of the judgment rendered against him in absentia, the requesting Party shall not regard this communication as a formal notification for the purposes of the criminal procedure in that State.”",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter IV",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 4",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "The Convention shall be supplemented by the following provisions:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "“Amnesty",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Extradition shall not be granted for an offence in respect of which an amnesty has been declared in the requested State and which that State had competence to prosecute under its own criminal law.\"",
-   "quoted": true
-  },
-  {
-   "type": "note",
-   "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Rozdział V",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 5",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Ustęp 1 artykułu 12 konwencji zostaje zastąpiony przez następujące postanowienia:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "„Wniosek sporządza się na piśmie i przekazuje przez Ministerstwo Sprawiedliwości Strony wzywającej do Ministerstwa Sprawiedliwości Strony wezwanej; jednakże korzystanie z drogi dyplomatycznej nie jest wyłączone. Dwie lub więcej Stron mogą uzgodnić między sobą bezpośrednio inne sposoby porozumiewania się.\"",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Rozdział VI",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Niniejszy protokół jest otwarty do podpisu dla Państw Członkowskich Rady Europy, które podpisały konwencję. Podlega on ratyfikacji, przyjęciu lub zatwierdzeniu. Dokumenty ratyfikacyjne, przyjęcia lub zatwierdzenia będą składane Sekretarzowi Generalnemu Rady Europy.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Protokół wchodzi z życie po upływie 90 dni od daty złożenia trzeciego dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. W odniesieniu do Państwa, które podpisało protokół, a następnie go ratyfikuje, przyjmie lub zatwierdzi, wchodzi on w życie po upływie 90 dni od daty złożenia przez nie dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "4. Żadne Państwo Członkowskie Rady Europy nie może ratyfikować, przyjąć lub zatwierdzić niniejszego protokołu bez równoczesnej lub uprzedniej ratyfikacji konwencji.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Każde Państwo, które przystąpiło do konwencji, może przystąpić do niniejszego protokołu po jego wejściu w życie.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Przystąpienie następuje przez złożenie Sekretarzowi Generalnemu Rady Europy dokumentu przystąpienia, który nabiera mocy po upływie 90 dni od daty jego złożenia.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia określić terytorium lub terytoria, do których stosuje się niniejszy protokół.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Każde Państwo może, w chwili składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia albo w terminie późniejszym, w drodze oświadczenia skierowanego do Sekretarza Generalnego Rady Europy, rozszerzyć stosowanie niniejszego protokołu na terytorium inne niż określone w oświadczeniu, które reprezentuje w stosunkach międzynarodowych albo w imieniu którego ma prawo podejmowania takich działań.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Każde oświadczenie złożone w trybie ustępu poprzedzającego może być wycofane w odniesieniu do określonego w nim terytorium w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy. Wycofanie nabierze",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter V",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 5",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Paragraph 1 of Article 12 of the Convention shall be replaced by the following provisions:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "\"The request shall be in writing and shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party; however, use of the diplomatic channel is not excluded. Other means of communication may be arranged by direct agreement between two or more Parties.”",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Chapter VI",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 6",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. This Protocol shall be open to signature by the member States of the Council of Europe which have signed the Convention. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the Council of Europe.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. The Protocol shall enter into force 90 days after the date of the deposit of the third instrument of ratification, acceptance or approval.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. In respect of a signatory State ratifying, accepting or approving subsequently, the Protocol shall enter into force 90 days after the date of the deposit of its instrument of ratification, acceptance or approval.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "4. A member State of the Council of Europe may not ratify, accept or approve this Protocol without having, simultaneously or previously, ratified the Convention.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 7",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Any State which has acceded to the Convention may accede to this Protocol after the Protocol has entered into force.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Such accession shall be effected by depositing with the Secretary-General of the Council of Europe an instrument of accession which shall take effect 90 days after the date of its deposit.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 8",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Protocol shall apply.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary-General of the Council of Europe, extend this Protocol to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn by means of a notification addressed to the Secretary-General of the Council of Europe. Such",
-   "quoted": true
-  },
-  {
-   "type": "note",
-   "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "mocy po upływie sześciu miesięcy od daty otrzymania notyfikacji przez Sekretarza Generalnego Rady Europy.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Zastrzeżenia złożone przez Państwo w stosunku do jakiegokolwiek postanowienia konwencji odnoszą się również do niniejszego protokołu, chyba że Państwo złoży oświadczenie odmiennej treści w chwili składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia oświadczyć, że zastrzega sobie prawo do:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) nieprzyjęcia rozdziału 1;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) nieprzyjęcia rozdziału Il lub przyjęcia go jedynie w zakresie niektórych przestępstw albo niektórych kategorii przestępstw określonych w artykule 2;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) nieprzyjęcia rozdziału Ill lub przyjęcia jedynie ustępu 1 artykułu 3;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "d) nieprzyjęcia rozdziału IV;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "e) nieprzyjęcia rozdziału V.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Każda Umawiająca się Strona może wycofać zastrzeżenie złożone przez nią w trybie ustępu poprzedzającego, w drodze oświadczenia skierowanego do Sekretarza Generalnego Rady Europy, które nabierze mocy od daty jego otrzymania.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "4. Umawiająca się Strona, która złożyła do niniejszego protokołu zastrzeżenie odnoszące się do jednego z postanowień konwencji lub która złożyła zastrzeżenie odnoszące się do jednego z postanowień niniejszego protokołu, nie może żądać stosowania tego postanowienia przez inną Umawiającą się Stronę; może jednak, jeżeli jej zastrzeżenie jest częściowe lub warunkowe, domagać się stosowania tego postanowienia w takim zakresie, w jakim sama je przyjęła.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "5. Żadne inne zastrzeżenie do postanowień niniejszego protokołu nie jest dopuszczalne.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10",
-   "quoted": true
-  },
-  {
-   "type": "text",
+   "text": ""
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Artykuł 9 konwencji zostaje uzupełniony następującym tekstem: Dotychczasowa treść artykułu 9 staje się ustępem 1 tego artykułu, a poniższe postanowienia tworzą odpowiednio ustępy 2, 3 i 4:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„2. Wydanie osoby nie może nastąpić, jeżeli w Państwie trzecim, Stronie konwencji, w sprawie o przestępstwo lub przestępstwa, w odniesieniu do których wniosek został złożony, zostało wydane prawomocne orzeczenie i jeżeli:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) oskarżonego uniewinniono;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) karę pozbawienia wolności lub inny orzeczony środek:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "i) wykonano w całości,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "ii) zastosowano ułaskawienie lub amnestię co do całości lub nie wykonanej części kary;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) sąd skazując oskarżonego odstąpił od wymierzenia kary.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Jednakże w wypadkach wskazanych w ustępie 2 wydanie może nastąpić, jeżeli:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) przestępstwo, za które zapadło orzeczenie, zostało popełnione przeciwko osobie, instytucji lub dobru o charakterze publicznym w Państwie wzywającym;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) osoba, wobec której zapadło orzeczenie, jest osobą publiczną w Państwie wzywającym;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) przestępstwo, za które zapadło orzeczenie, popełniono w całości lub w części na terytorium Państwa wzywającego albo w miejscu traktowanym jak jego terytorium.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Postanowienia ustępów 2 i 3 nie wyłączają stosowania szerszych uregulowań wewnętrznych, odnoszących się do zasady ne bis in idem, dotyczących zagranicznych orzeczeń w sprawach karnych.\"",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział Ill",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 3",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Niniejszy protokół jest otwarty do podpisu dla Państw Członkowskich Rady Europy, które podpisały konwencję. Podlega on ratyfikacji, przyjęciu lub zatwierdzeniu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) the violations specified in Article 50 of the 1949 Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, Article 51 of the 1949 Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, Article 130 of the 1949 Geneva Convention relative to the Treatment of Prisoners of War and Article 147 of the 1949 Geneva Convention relative to the Protection of Civilian Persons in Time of War;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) any comparable violations of the laws of war having effect at the time when this Protocol enters into force and of customs of war existing at that time, which are not already provided for in the above-mentioned provisions of the Geneva Conventions.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter II",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 2",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 9 ofthe Convention shall be supplemented by the following text, the original Article 9 of the Convention becoming paragraph 1 and the under-mentioned provisions \"becoming paragraphs 2, 3 and 4:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. The extradition of a person against whom a final judgment has been rendered in a third State, Contracting Party to the Convention, for the offence or offences in respect of which the claim was made, shall not be granted:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) if the afore-mentioned judgment resulted in his acquittal;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) if the term of imprisonment or other measure to which he was sentenced:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "i) has been completely enforced;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "ii) has been wholly, or with respect to the part not enforced, the subject of a pardon or an amnesty;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) if the court convicted the offender without imposing a sanction.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. However, in the cases referred to in paragraph 2, extradition may be granted:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) if the offence in respect of which judgment has been rendered was committed against a person, an institution or any thing having public status in the requesting State;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) if the person on whom judgment was passed had himself a public status in the requesting State;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) if the offence in respect of which judgment was passed was committed completely or partly in the territory of the requesting State or in a place treated as its territory.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. The provisions of paragraphs 2 and 3 shall not prevent the application of wider domestic provisions relating to the effect of ne bis in idem attached to foreign criminal judgments.”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter Ill"
+    },
+    {
+     "type": "text",
+     "text": "Article 3"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "This Protocol shall be open to signature by the member States of the Council of Europe which have signed the Convention. It shall be subject to ratification, acceptance",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "[e"
+      },
+      {
+       "type": "text",
+       "text": "eee"
+      },
+      {
+       "type": "text",
+       "text": "Dokumenty ratyfikacyjne, przyjęcia lub zatwierdzenia będą składane Sekretarzowi Generalnemu Rady Europy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Protokół wchodzi w życie po upływie 90 dni od daty złożenia trzeciego dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "W odniesieniu do Państwa, które podpisało protokół, a następnie go ratyfikuje, przyjmie lub zatwierdzi, wchodzi on w życie po upływie 90 dni od daty złożenia przez nie dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Żadne Państwo Członkowskie Rady Europy nie może ratyfikować, przyjąć lub zatwierdzić niniejszego protokołu bez równoczesnej lub uprzedniej ratyfikacji konwencji.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Każde Państwo, które przystąpiło do konwencji, może przystąpić do niniejszego protokołu po jego wejściu w życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Przystąpienie następuje przez złożenie Sekretarzowi Generalnemu Rady Europy dokumentu przystąpienia, który nabiera mocy po upływie 90 dni od daty jego złożenia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia określić terytorium lub terytoria, do których stosuje się niniejszy protokół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Każde Państwo może w chwili składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia albo w terminie późniejszym, w drodze oświadczenia skierowanego do Sekretarza Generalnego Rady Europy, rozszerzyć stosowanie niniejszego protokołu na terytorium inne niż określone w oświadczeniu, które reprezentuje w stosunkach międzynarodowych albo w imieniu którego ma prawo podejmowania takich działań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Każde oświadczenie złożone w trybie ustępu poprzedzającego może być wycofane w odniesieniu do określonego w nim terytorium, zgodnie z procedurą ustaloną w artykule 8 niniejszego protokołu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia oświadczyć, że nie przyjmuje rozdziału 1 lub rozdziału Il.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Każda Umawiająca się Strona może wycofać oświadczenie złożone przez nią w trybie ustępu poprzedzającego, w drodze oświadczenia skierowanego do Sekretarza Genera- Inego Rady Europy, które nabierze mocy od daty jego otrzymania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Składanie zastrzeżeń do postanowień niniejszego protokołu nie jest dopuszczalne.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
    "text": "Europejski Komitet do Spraw Problematyki Przestępczości (CDPC) Rady Europy powinien być informowany o stosowaniu niniejszego protokołu i powinien dołożyć wszelkich starań dla ułatwienia polubownego rozstrzygania wszelkich sporów, jakie mogą wyniknąć w trakcie jego stosowania.",
-   "quoted": true
+   "children": [
+    {
+     "type": "text",
+     "text": "or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the Council of Europe."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "The Protocol shall enter into force 90 days after the date of the deposit of the third instrument of ratification, acceptance or approval.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "In respect of a signatory State ratifying, accepting or approving subsequently, the Protocol shall enter into force 90 days after the date of the deposit of its instrument of ratification, acceptance or approval.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "A member State of the Council of Europe may not ratify, accept or approve this Protocol without having, simultaneously or previously, ratified the Convention.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Any State which has acceded to the Convention may accede to this Protocol after the Protocol has entered into force.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Such accession shall be effected by depositing with the Secretary- General of the Council of Europe an instrument of accession which shall take effect 90 days after the date of its deposit.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Protocol shall apply.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary-General of the Council of Europe, extend this Protocol to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 8 of this Protocol.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it does not accept one or the other of Chapters | or II.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Any Contracting Party may withdraw a declaration it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary- General of the Council of Europe which shall become effective as from the date of its receipt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "No reservation may be made to the provisions of this Protocol.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Protocol and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "Artykuł 11",
-   "quoted": true
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Każda Umawiająca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejszy protokół w drodze zawiadomienia skierowanego do Sekretarza Generalnego Rady Europy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Wypowiedzenie to nabierze mocy po upływie sześciu miesięcy od daty otrzymania zawiadomienia przez Sekretarza Generalnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Wypowiedzenie konwencji powoduje automatycznie wypowiedzenie niniejszego protokołu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "1. Każda Umawiająca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejszy protokół w drodze zawiadomienia skierowanego do Sekretarza Generalnego Rady Europy.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Wypowiedzenie nabierze mocy po upływie sześciu miesięcy od daty otrzymania zawiadomienia przez Sekretarza Generalnego.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Wypowiedzenie konwencji powoduje automatycznie wypowiedzenie niniejszego protokołu.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "withdrawal shall take effect six months after the date of receipt by the Secretary-General of the Council of Europe of the notification.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 9",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Reservations made by a State to a provision of the Convention shall be applicable also to this Protocol, unless that State otherwise declares at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it reserves the right:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) not to accept Chapter I;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) not to accept Chapter II, or to accept it only in respect of certain offences or certain categories of the offences referred to in Article 2;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) notto accept Chapter III, or to accept only paragraph 1 of",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 3;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "d) not to accept Chapter IV;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "e) not to accept Chapter V.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Any Contracting Party may withdraw a reservation it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary-General of the Council of Europe which shall become effective as from the date of its receipt.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "4. A Contracting Party which has applied to this Protocol a reservation made in respect of a provision of the Convention or which has made a reservation in respect of a provision of this Protocol may not claim the application of that provision by another Contracting Party; it may, however, if its reservations is partial or conditional claim, the application of that provision in so far as it has itself accepted it.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "5. No other reservation may be made to the provisions of this Protocol.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 10",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Protocol and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Article 11",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "1. Any Contracting Party may, in so far as it is concerned, denounce this Protocol by means of a notification addressed to the Secretary- General of the Council of Europe.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "2. Such denunciation shall take effect six months after the date of receipt by the Secretary-General of such notification.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "3. Denunciation of the Convention entails automatically denunciation of this Protocol.",
-   "quoted": true
-  },
-  {
-   "type": "note",
-   "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "1278 = Dziennik Ustaw Nr 70 —",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12",
-   "quoted": true
-  },
-  {
-   "type": "text",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
    "text": "Sekretarz Generalny Rady Europy zawiadamia w drodze notyfikacji Państwa Członkowskie Rady oraz każde Państwo, które przystąpiło do konwencji, o:",
-   "quoted": true
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_9/lit_a",
+     "text": "podpisaniu niniejszego protokołu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_9/lit_b",
+     "text": "złożeniu każdego dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_9/lit_c",
+     "text": "każdej dacie wejścia w życie niniejszego protokołu, zgodnie z artykułem 3;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_9/lit_d",
+     "text": "każdym oświadczeniu otrzymanym zgodnie z postanowieniami artykułu 5 i o każdym wycofaniu takiego oświadczenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_9/lit_e",
+     "text": "każdym oświadczeniu złożonym w myśl postanowień artykułu 6 ustęp 1;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_9/lit_f",
+     "text": "wycofaniu każdego oświadczenia, dokonanym w myśl postanowień artykułu 6 ustęp 2;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_9/lit_g",
+     "text": "każdym zawiadomieniu otrzymanym w myśl postanowień artykułu 8 oraz o dacie, w której wypowiedzenie nabierze mocy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
   },
   {
    "type": "text",
-   "text": "a) każdym podpisaniu niniejszego protokołu;",
-   "quoted": true
+   "text": "Na dowód powyższego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejszy protokół."
   },
   {
    "type": "text",
-   "text": "b) złożeniu każdego dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia;",
-   "quoted": true
+   "text": "Sporządzono w Strasburgu dnia 15 października 1975 r. w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy Państwom-Sygnatariuszom oraz Państwom, które przystąpiły do protokołu."
   },
   {
    "type": "text",
-   "text": "c) każdej dacie wejścia w życie niniejszego protokołu, zgodnie z artykułami 6 i 7;",
-   "quoted": true
+   "text": "DRUGI PROTOKÓŁ DODATKOWY DO EUROPEJS- KIEJ KONWENCJI O EKSTRADYCJI"
   },
   {
    "type": "text",
-   "text": "d) każdym oświadczeniu otrzymanym zgodnie z postanowieniami artykułu 8 ustępy 2 i 3;",
-   "quoted": true
+   "text": "Państwa Członkowskie Rady Europy, Sygnatariusze niniejszego protokołu,"
   },
   {
    "type": "text",
-   "text": "e) każdym oświadczeniu otrzymanym zgodnie z postanowieniami artykułu 9 ustęp 1;",
-   "quoted": true
+   "text": "dążąc do ułatwienia stosowania w zakresie przestępstw skarbowych Europejskiej konwencji o ekstradycji, otwartej do podpisu dnia 13 grudnia 1957 r. (zwanej dalej „konwencją”),"
   },
   {
    "type": "text",
-   "text": "f) każdym zastrzeżeniu złożonym zgodnie z postanowieniami artykułu 9 ustęp 2;",
-   "quoted": true
+   "text": "uważając również za pożądane uzupełnienie konwencji w niektórych innych kwestiach,"
   },
   {
    "type": "text",
-   "text": "g) wycofaniu każdego zastrzeżenia, dokonanym w myśl postanowień artykułu 9 ustęp 3;",
-   "quoted": true
+   "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "h) każdym zawiadomieniu otrzymanym zgodnie z postanowieniami artykułu 11 oraz o dacie, w której wypowiedzenie nabierze mocy.",
-   "quoted": true
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": ""
   },
   {
-   "type": "text",
-   "text": "Na dowód powyższego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejszy protokół.",
-   "quoted": true
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Ustęp 2 artykułu 2 konwencji uzupełnia się następującym postanowieniem:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Article 8"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Any Contracting Party may, in so far as it is concerned, denounce this Protocol by means of a notification addressed to the Secretary-General of the Council of Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Such denunciation shall take effect six months after the date of receipt by the Secretary-General of such notification.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Denunciation ofthe Convention entails automatically denunciation of this Protocol.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "The Secretary-General of the Council of Europe shall notify the member States of the Council and any State which has acceded to the Convention of:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_3/lit_a",
+       "text": "any signature;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_3/lit_b",
+       "text": "any deposit of an instrument of ratification, acceptance, approval or accession;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_3/lit_c",
+       "text": "any date of entry into force of this Protocol in accordance with Article 3 thereof;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_3/lit_d",
+       "text": "any declaration received in pursuance of the provisions of Article 5 and any withdrawal of such a declaration;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_3/lit_e",
+       "text": "any declaration made in pursuance of the provisions of Article 6, paragraph 1;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/ust_3/lit_f",
+       "text": "the withdrawal of any declaration carried out in pursuance of the provisions of Article 6, paragraph 2;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_1/ust_3/lit_g",
+       "text": "any notification received in pursuance of the provisions of Article 8 and the date on which denunciation takes effect.",
+       "children": [
+        {
+         "type": "text",
+         "text": "In witness whereof, the undersigned, being duly authorised thereto, have signed this Protocol."
+        },
+        {
+         "type": "text",
+         "text": "Done at Strasbourg, this 15th day of October 1975, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary-General of the Council of Europe shall transmit certified copies to each of the signatory and acceding States."
+        },
+        {
+         "type": "text",
+         "text": "SECOND ADDITIONAL PROTOCOL TO THE EURO- PEAN CONVENTION ON EXTRADITION"
+        },
+        {
+         "type": "text",
+         "text": "The member States of the Council of Europe, signatory to this Protocol,"
+        },
+        {
+         "type": "text",
+         "text": "Desirous of facilitating the application of the European Convention on Extradition opened for signature in Paris on 13 December 1957 (hereinafter referred to as 'the Convention’’) in the field of fiscal offences;"
+        },
+        {
+         "type": "text",
+         "text": "Considering it also desirable to supplement the Convention in certain other respects,"
+        },
+        {
+         "type": "text",
+         "text": "Have agreed as follows:"
+        },
+        {
+         "type": "text",
+         "text": "Chapter I"
+        },
+        {
+         "type": "text",
+         "text": "Article 1"
+        },
+        {
+         "type": "text",
+         "text": "Paragraph 2 of Article 2 of the Convention shall be supplemented by the following provision:"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "1275 = Dziennik Ustaw Nr 70 ——"
+        },
+        {
+         "type": "text",
+         "text": "„Powyższe stosuje się również do przestępstw, które są zagrożone jedynie karami o charakterze finansowym”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Sporządzono w Strasburgu dnia 17 marca 1978 r., w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy Państwom-Sygnatariuszom oraz Państwom, które przystąpiły do protokołu.",
-   "quoted": true
+   "type": "heading",
+   "label": "Rozdział Il",
+   "text": ""
   },
   {
-   "type": "text",
-   "text": "Article 12",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "The Secretary-General of the Council of Europe shall notify the member States of the Council and any State which has acceded to the Convention of:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "a) any signature of this Protocol;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "b) any deposit of an instrument of ratification, acceptance, approval or accession;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "c) any date of entry into force of this Protocol in accordance with Articles 6 and 7;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "d) any declaration received in pursuance of the provisions of paragraphs 2 and 3 of Article 8;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "e) any declaration received in pursuance of the provisions of paragraph 1 of Article 9;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "f) any reservation made in pursuance of the provisions of paragraph 2 of Article 9;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "g) the withdrawal of any reservation carried out in pursuance of the provisions of paragraph 3 of Article 9;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "h) any notification received in pursuance of the provisions of Article 11 and the date on which denunciation takes effect.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Done at Strasbourg, this 17th day of March 1978, in English and French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary-General of the Council of Europe shall transmit certified copies to each of the signatory and acceding States.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Po zaznajomieniu się z powyższą konwencją i protokołami, w imieniu Rzeczypospolitej Polskiej oświadczam, że:",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "— konwencja i protokoły zostały uznane za słuszne w całości, jak i każde z postanowień w nich zawartych;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "— są przyjęte, ratyfikowane i potwierdzone;",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "— będą one niezmiennie zachowywane, z uwzględnieniem oświadczeń dotyczących odmowy w każdym przypadku wydawania własnych obywateli, a także określenia pojęcia „obywatele”, oznaczającego również cudzoziemców, którzy uzyskali w Polsce azyl.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Dano w Warszawie dnia 30 kwietnia 1993 r.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S.",
-   "quoted": true
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Artykuł 5 konwencji zostaje zastąpiony przez następujące postanowienia:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Przestępstwa skarbowe",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Wydanie za przestępstwa podatkowe, celne i dewizowe pomiędzy Umawiającymi się Stronami następuje zgodnie z postanowieniami konwencji, jeżeli dane przestępstwo, według prawa Strony wezwanej, odpowiada przestępstwu takiego samego rodzaju.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Nie można odmówić wydania na tej podstawie, że prawo Strony wezwanej nie przewiduje takiego samego rodzaju opłaty lub podatku albo nie reguluje w ten sam sposób opłat, podatków, ceł i obrotu dewizowego jak prawo Strony wzywającej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział Ill",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 3",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Konwencję uzupełnia się następującymi postanowieniami:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "„Orzeczenia zaoczne",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Jeżeli Umawiająca się Strona wystąpiła do innej Umawiającej się Strony o wydanie osoby, w celu wykonania kary lub środka zabezpieczającego, orzeczonych zaocznie, Strona wezwana może odmówić wydania w tym celu, jeżeli uzna, że postępowanie, w którego wyniku zostało wydane orzeczenie, nie zapewniło minimum praw do obrony przysługujących każdej osobie oskarżonej o popełnienie przestępstwa. Jednakże wydanie może nastąpić, jeżeli Strona wzywająca zagwarantuje w sposób uznany za wystarczający, że sprawa osoby, o której wydanie wnosi, będzie ponownie rozpoznana z zagwarantowaniem praw do obrony. Decyzja ta uprawnia Stronę wzywającą do wykonania tego orzeczenia, jeżeli osoba skazana nie wniesie sprzeciwu lub, w razie jej sprzeciwu, do wszczęcia postępowania przeciwko osobie wydanej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Strona wzywająca nie może traktować jako doręczenia w rozumieniu przepisów postępowania karnego, toczącego się w tym Państwie, zawiadomienia osoby, której wydania żąda, dokonanego przez Stronę wezwaną, o wydanym przeciwko niej orzeczeniu zaocznym.\"",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział IV",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 4",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Konwencję uzupełnia się następującymi postanowieniami:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "„„Amnestia",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Wydanie nie następuje za przestępstwo objęte amnestią w Państwie wezwanym, jeżeli przestępstwo to mogło być ścigane na mocy ustawodawstwa karnego tego Państwa.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "\"This right shall also apply to offences which are subject only to pecuniary sanctions.”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter II",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 2",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 5 of the Convention shall be replaced by the following provisions:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "\"Fiscal offences",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. For offences in connection with taxes, duties, customs and exchange extradition shall take place between the Contracting Parties in accordance with the provisions of the Convention if the offence, under the law of the requested Party, corresponds to an offence of the same nature.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Extradition may not be refused on the ground that the law of the requested Party does not impose the same kind of tax or duty or does not contain a tax, duty, customs or exchange regulation of the same kind as the law of the requesting Party.”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter III",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 3",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "The Convention shall be supplemented by the following provisions:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "“Judgments in absentia",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. When a Contracting Party requests from another Contracting Party the extradition of a person for the purpose of carrying out a sentence or detention order imposed by a decision rendered against him in absentia, the requested Party may refuse to extradite for this purpose if, in its opinion, the proceedings leading to the judgment did not satisfy the minimum rights of defence recognised as due to everyone charged with criminal offence. However, extradition shall be granted if the requesting Party gives an assurance considered sufficient to guarantee to the person claimed the right to a retrial which safeguards the rights of defence. This decision will authorise the requesting Party either to enforce the judgment in question if the convicted person does not make an opposition or, if he does, to take proceedings against the person extradited.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. When the requested Party informs the person whose extradition has been requested of the judgment rendered against him in absentia, the requesting Party shall not regard this communication as a formal notification for the purposes of the criminal procedure in that State.”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter IV",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 4",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "The Convention shall be supplemented by the following provisions:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "“Amnesty",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Extradition shall not be granted for an offence in respect of which an amnesty has been declared in the requested State and which that State had competence to prosecute under its own criminal law.\"",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Rozdział V",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 5",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Ustęp 1 artykułu 12 konwencji zostaje zastąpiony przez następujące postanowienia:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "„Wniosek sporządza się na piśmie i przekazuje przez Ministerstwo Sprawiedliwości Strony wzywającej do Ministerstwa Sprawiedliwości Strony wezwanej; jednakże korzystanie z drogi dyplomatycznej nie jest wyłączone. Dwie lub więcej Stron mogą uzgodnić między sobą bezpośrednio inne sposoby porozumiewania się.\"",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział VI",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 6",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Niniejszy protokół jest otwarty do podpisu dla Państw Członkowskich Rady Europy, które podpisały konwencję. Podlega on ratyfikacji, przyjęciu lub zatwierdzeniu. Dokumenty ratyfikacyjne, przyjęcia lub zatwierdzenia będą składane Sekretarzowi Generalnemu Rady Europy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Protokół wchodzi z życie po upływie 90 dni od daty złożenia trzeciego dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. W odniesieniu do Państwa, które podpisało protokół, a następnie go ratyfikuje, przyjmie lub zatwierdzi, wchodzi on w życie po upływie 90 dni od daty złożenia przez nie dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Żadne Państwo Członkowskie Rady Europy nie może ratyfikować, przyjąć lub zatwierdzić niniejszego protokołu bez równoczesnej lub uprzedniej ratyfikacji konwencji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 7",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Każde Państwo, które przystąpiło do konwencji, może przystąpić do niniejszego protokołu po jego wejściu w życie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Przystąpienie następuje przez złożenie Sekretarzowi Generalnemu Rady Europy dokumentu przystąpienia, który nabiera mocy po upływie 90 dni od daty jego złożenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 8",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia określić terytorium lub terytoria, do których stosuje się niniejszy protokół.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Każde Państwo może, w chwili składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia albo w terminie późniejszym, w drodze oświadczenia skierowanego do Sekretarza Generalnego Rady Europy, rozszerzyć stosowanie niniejszego protokołu na terytorium inne niż określone w oświadczeniu, które reprezentuje w stosunkach międzynarodowych albo w imieniu którego ma prawo podejmowania takich działań.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Każde oświadczenie złożone w trybie ustępu poprzedzającego może być wycofane w odniesieniu do określonego w nim terytorium w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy. Wycofanie nabierze",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter V",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 5",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Paragraph 1 of Article 12 of the Convention shall be replaced by the following provisions:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "\"The request shall be in writing and shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party; however, use of the diplomatic channel is not excluded. Other means of communication may be arranged by direct agreement between two or more Parties.”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Chapter VI",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 6",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. This Protocol shall be open to signature by the member States of the Council of Europe which have signed the Convention. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the Council of Europe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. The Protocol shall enter into force 90 days after the date of the deposit of the third instrument of ratification, acceptance or approval.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. In respect of a signatory State ratifying, accepting or approving subsequently, the Protocol shall enter into force 90 days after the date of the deposit of its instrument of ratification, acceptance or approval.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. A member State of the Council of Europe may not ratify, accept or approve this Protocol without having, simultaneously or previously, ratified the Convention.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 7",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Any State which has acceded to the Convention may accede to this Protocol after the Protocol has entered into force.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Such accession shall be effected by depositing with the Secretary-General of the Council of Europe an instrument of accession which shall take effect 90 days after the date of its deposit.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 8",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Protocol shall apply.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary-General of the Council of Europe, extend this Protocol to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn by means of a notification addressed to the Secretary-General of the Council of Europe. Such",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "mocy po upływie sześciu miesięcy od daty otrzymania notyfikacji przez Sekretarza Generalnego Rady Europy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 9",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Zastrzeżenia złożone przez Państwo w stosunku do jakiegokolwiek postanowienia konwencji odnoszą się również do niniejszego protokołu, chyba że Państwo złoży oświadczenie odmiennej treści w chwili składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Każde Państwo może w chwili podpisania lub składania dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia oświadczyć, że zastrzega sobie prawo do:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) nieprzyjęcia rozdziału 1;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) nieprzyjęcia rozdziału Il lub przyjęcia go jedynie w zakresie niektórych przestępstw albo niektórych kategorii przestępstw określonych w artykule 2;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) nieprzyjęcia rozdziału Ill lub przyjęcia jedynie ustępu 1 artykułu 3;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) nieprzyjęcia rozdziału IV;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) nieprzyjęcia rozdziału V.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Każda Umawiająca się Strona może wycofać zastrzeżenie złożone przez nią w trybie ustępu poprzedzającego, w drodze oświadczenia skierowanego do Sekretarza Generalnego Rady Europy, które nabierze mocy od daty jego otrzymania.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Umawiająca się Strona, która złożyła do niniejszego protokołu zastrzeżenie odnoszące się do jednego z postanowień konwencji lub która złożyła zastrzeżenie odnoszące się do jednego z postanowień niniejszego protokołu, nie może żądać stosowania tego postanowienia przez inną Umawiającą się Stronę; może jednak, jeżeli jej zastrzeżenie jest częściowe lub warunkowe, domagać się stosowania tego postanowienia w takim zakresie, w jakim sama je przyjęła.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5. Żadne inne zastrzeżenie do postanowień niniejszego protokołu nie jest dopuszczalne.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 10",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Europejski Komitet do Spraw Problematyki Przestępczości (CDPC) Rady Europy powinien być informowany o stosowaniu niniejszego protokołu i powinien dołożyć wszelkich starań dla ułatwienia polubownego rozstrzygania wszelkich sporów, jakie mogą wyniknąć w trakcie jego stosowania.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 11",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Każda Umawiająca się Strona może, w zakresie jej dotyczącym, wypowiedzieć niniejszy protokół w drodze zawiadomienia skierowanego do Sekretarza Generalnego Rady Europy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Wypowiedzenie nabierze mocy po upływie sześciu miesięcy od daty otrzymania zawiadomienia przez Sekretarza Generalnego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Wypowiedzenie konwencji powoduje automatycznie wypowiedzenie niniejszego protokołu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "withdrawal shall take effect six months after the date of receipt by the Secretary-General of the Council of Europe of the notification.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 9",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Reservations made by a State to a provision of the Convention shall be applicable also to this Protocol, unless that State otherwise declares at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it reserves the right:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) not to accept Chapter I;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) not to accept Chapter II, or to accept it only in respect of certain offences or certain categories of the offences referred to in Article 2;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) notto accept Chapter III, or to accept only paragraph 1 of",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 3;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) not to accept Chapter IV;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) not to accept Chapter V.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Any Contracting Party may withdraw a reservation it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary-General of the Council of Europe which shall become effective as from the date of its receipt.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. A Contracting Party which has applied to this Protocol a reservation made in respect of a provision of the Convention or which has made a reservation in respect of a provision of this Protocol may not claim the application of that provision by another Contracting Party; it may, however, if its reservations is partial or conditional claim, the application of that provision in so far as it has itself accepted it.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5. No other reservation may be made to the provisions of this Protocol.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 10",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Protocol and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 11",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Any Contracting Party may, in so far as it is concerned, denounce this Protocol by means of a notification addressed to the Secretary- General of the Council of Europe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Such denunciation shall take effect six months after the date of receipt by the Secretary-General of such notification.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Denunciation of the Convention entails automatically denunciation of this Protocol.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "1278 = Dziennik Ustaw Nr 70 —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 12",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Sekretarz Generalny Rady Europy zawiadamia w drodze notyfikacji Państwa Członkowskie Rady oraz każde Państwo, które przystąpiło do konwencji, o:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) każdym podpisaniu niniejszego protokołu;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) złożeniu każdego dokumentu ratyfikacyjnego, przyjęcia, zatwierdzenia lub przystąpienia;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) każdej dacie wejścia w życie niniejszego protokołu, zgodnie z artykułami 6 i 7;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) każdym oświadczeniu otrzymanym zgodnie z postanowieniami artykułu 8 ustępy 2 i 3;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) każdym oświadczeniu otrzymanym zgodnie z postanowieniami artykułu 9 ustęp 1;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) każdym zastrzeżeniu złożonym zgodnie z postanowieniami artykułu 9 ustęp 2;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "g) wycofaniu każdego zastrzeżenia, dokonanym w myśl postanowień artykułu 9 ustęp 3;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "h) każdym zawiadomieniu otrzymanym zgodnie z postanowieniami artykułu 11 oraz o dacie, w której wypowiedzenie nabierze mocy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Na dowód powyższego niżej podpisani, należycie w tym celu upełnomocnieni, podpisali niniejszy protokół.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Sporządzono w Strasburgu dnia 17 marca 1978 r., w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy Państwom-Sygnatariuszom oraz Państwom, które przystąpiły do protokołu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 12",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "The Secretary-General of the Council of Europe shall notify the member States of the Council and any State which has acceded to the Convention of:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) any signature of this Protocol;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) any deposit of an instrument of ratification, acceptance, approval or accession;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) any date of entry into force of this Protocol in accordance with Articles 6 and 7;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) any declaration received in pursuance of the provisions of paragraphs 2 and 3 of Article 8;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) any declaration received in pursuance of the provisions of paragraph 1 of Article 9;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) any reservation made in pursuance of the provisions of paragraph 2 of Article 9;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "g) the withdrawal of any reservation carried out in pursuance of the provisions of paragraph 3 of Article 9;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "h) any notification received in pursuance of the provisions of Article 11 and the date on which denunciation takes effect.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Done at Strasbourg, this 17th day of March 1978, in English and French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary-General of the Council of Europe shall transmit certified copies to each of the signatory and acceding States.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Po zaznajomieniu się z powyższą konwencją i protokołami, w imieniu Rzeczypospolitej Polskiej oświadczam, że:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— konwencja i protokoły zostały uznane za słuszne w całości, jak i każde z postanowień w nich zawartych;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— są przyjęte, ratyfikowane i potwierdzone;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— będą one niezmiennie zachowywane, z uwzględnieniem oświadczeń dotyczących odmowy w każdym przypadku wydawania własnych obywateli, a także określenia pojęcia „obywatele”, oznaczającego również cudzoziemców, którzy uzyskali w Polsce azyl.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Dano w Warszawie dnia 30 kwietnia 1993 r.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S.",
+     "quoted": true
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
    "type": "signature",

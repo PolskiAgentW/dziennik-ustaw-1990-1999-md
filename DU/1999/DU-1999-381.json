@@ -53,208 +53,215 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Umawiające się Strony będą popierać różne formy współpracy w dziedzinie kultury, nauki, oświaty, turystyki i sportu na zasadach partnerstwa i wzajemnego poszanowania.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać różne formy współpracy w dziedzinie kultury, nauki, oświaty, turystyki i sportu na zasadach partnerstwa i wzajemnego poszanowania."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony zobowiązują się do wzajemnej pomocy w zakresie ochrony i konserwacji zabytków oraz zapewnienia integralności dziedzictwa kulturalnego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony uzgadniają, że dobra kultury nielegalnie wywiezione z terytorium państwowego jednej ze Stron i nielegalnie wwiezione na terytorium państwowe drugiej Strony podlegają zwrotowi."
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony będą popierać współpracę między związkami twórczymi, instytucjami i organizacjami kulturalnymi oraz bezpośrednie kontakty pomiędzy działaczami kultury obu Państw.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą również sprzyjać nawiązywaniu kontaktów między muzeami, archiwami, bibliotekami i teatrami."
+    },
+    {
+     "type": "text",
+     "text": "Każda z Umawiających się Stron będzie sprzyjać popularyzacji książek i wydawnictw kraju drugiej Strony oraz rozwojowi kontaktów między wydawcami i organizacjami upowszechniania książek, gwarantując, zgodnie z własnym ustawodawstwem, pełną ochronę praw autorskich i praw pokrewnych."
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony zobowiązują się do wzajemnej pomocy w zakresie ochrony i konserwacji zabytków oraz zapewnienia integralności dziedzictwa kulturalnego."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą sprzyjać prowadzeniu bezpośredniej współpracy instytucji i organizacji filmowych obu krajów, ze szczególnym uwzględnieniem współpracy między środowiskami twórczymi polskich i mołdawskich filmowców.",
+   "children": [],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony uzgadniają, że dobra kultury nielegalnie wywiezione z terytorium państwowego jednej ze Stron i nielegalnie wwiezione na terytorium państwowe drugiej Strony podlegają zwrotowi."
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą popierać współpracę pomiędzy ośrodkami i instytucjami naukowymi, zwłaszcza w dziedzinie nauk stosowanych, a także nauk humanistycznych i społecznych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać współpracę naukową pomiędzy placówkami Polskiej Akademii Nauk i placówkami Akademii Nauk Republiki Motdowa na podstawie zawartych porozumień."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą sprzyjać realizacji wspólnych programów naukowo-badawczych, organizowaniu konferencji, sympozjów i spotkań dotyczących konkretnych problemów, będących przedmiotem zainteresowań obu Stron."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą sprzyjać wymianie informacji naukowej, technicznej oraz publikacji i dokumentacji naukowej, a także udostępnianiu zasobów archiwalnych, zbiorów bibliotecznych i innych materiałów źródłowych oraz tworzeniu wspólnych zespołów i placówek badawczych. Będą też prowadziły wymianę specjalistów, naukowców, stażystów i stypendystów."
+    }
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Umawiające się Strony będą współdziałać w celu rozwoju współpracy w dziedzinie oświaty i szkolnictwa wyższego, między innymi poprzez nawiązywanie bez-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "pośrednich kontaktów między szkołami i szkołami wyższymi, wymianę uczniów, studentów i stażystów."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą współpracować w dziedzinie wymiany, szkolenia i podnoszenia kwalifikacji nauczycieli i nauczycieli akademickich oraz w dziedzinie opracowywania i wymiany literatury naukowej, szkoleniowej, metodycznej, podręczników oraz innych pomocy naukowych."
+    }
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę między związkami twórczymi, instytucjami i organizacjami kulturalnymi oraz bezpośrednie kontakty pomiędzy działaczami kultury obu Państw."
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony uzgadniają, że do czasu zawarcia Umowy w sprawie wzajemnego uznawania okresów nauki i studiów, egzaminów, a także dyplomów szkół, w tym szkół wyższych, tytułów zawodowych, stopni i tytułów naukowych nadawanych w obu Państwach, stosowane będą w stosunkach między obu Państwami postanowienia:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Konwencji o wzajemnym uznawaniu równoważności dokumentów ukończenia szkół średnich, szkół średnich zawodowych i szkół wyższych, a także dokumentów o nadawaniu stopni i tytułów naukowych, sporządzonej w Pradze dnia 7 czerwca 1972 r.,"
+    },
+    {
+     "type": "text",
+     "text": "— Porozumienia między Rządem Polskiej Rzeczypospolitej Ludowej i Rządem Związku Socjalistycznych Republik Radzieckich o równoważności dokumentów o wykształceniu, stopniach i tytułach naukowych wydawanych w PRL i ZSRR, podpisanego w Warszawie dnia 10 maja 1974 r., z wyjątkiem dokumentów wyższych szkół medycznych oraz stopni i tytułów naukowych w dziedzinie medycyny."
+    }
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą również sprzyjać nawiązywaniu kontaktów między muzeami, archiwami, bibliotekami i teatrami."
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą wspierać upowszechnianie wiedzy o języku, literaturze, historii i geografii drugiego Państwa i ich nauczanie.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "Każda z Umawiających się Stron będzie sprzyjać popularyzacji książek i wydawnictw kraju drugiej Strony oraz rozwojowi kontaktów między wydawcami i organizacjami upowszechniania książek, gwarantując, zgodnie z własnym ustawodawstwem, pełną ochronę praw autorskich i praw pokrewnych."
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każda z Umawiających się Stron będzie podejmować niezbędne działania, mające na celu wspieranie obywateli Republiki Mołdowa, należących do polskiej mniejszości narodowej, i obywateli Rzeczypospolitej Polskiej pochodzenia mołdawskiego w podtrzymywaniu i rozwijaniu ich tożsamości narodowej, kulturalnej i językowej poprzez:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— udzielanie wszechstronnego poparcia działalności społeczno-kulturalnej wymienionych wyżej osób;"
+    },
+    {
+     "type": "text",
+     "text": "— udzielanie wszechstronnego poparcia organizacjom społeczno-kulturalnym i oświatowym obu Umawiających się Stron;"
+    },
+    {
+     "type": "text",
+     "text": "— zagwarantowanie możliwości uzyskania przez nie pomocy — również finansowej — z kraju i zagranicy;"
+    },
+    {
+     "type": "text",
+     "text": "— upowszechnianie znajomości języka polskiego w Republice Motdowa i podnoszenia poziomu jego nauczania na wszystkich szczeblach edukacji;"
+    },
+    {
+     "type": "text",
+     "text": "— zapewnienie możliwości nauczania języka polskiego lub w języku polskim w ramach własnych instytucji oświatowych mniejszości polskiej lub publicznego systemu oświatowego;"
+    },
+    {
+     "type": "text",
+     "text": "— umożliwienie zatrudnienia nauczycieli z Polski w szkołach na terytorium Republiki Motdowa, w których prowadzone jest nauczanie języka polskiego lub w języku polskim;"
+    },
+    {
+     "type": "text",
+     "text": "— kształcenie i doskonalenie kadr nauczycielskich dla tych szkół."
+    }
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony będą sprzyjać współpracy w dziedzinie środków masowego przekazu: telewizji, radia i agencji informacyjnych.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą sprzyjać prowadzeniu bezpośredniej współpracy instytucji i organizacji filmowych obu krajów, ze szczególnym uwzględnieniem współpracy między środowiskami twórczymi polskich i mołdawskich filmowców."
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie sportu, w tym organizowanie zawodów i spotkań sportowych, wymianę pomiędzy organizacjami sportowymi, klubami i związkami sportowymi, sportowcami, trenerami i specjalistami z dziedziny sportu, a także będą sprzyjać wymianie turystycznej między obu państwami.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie archiwistyki, w szczególności w zakresie dostępu do archiwów, wymiany doświadczeń, publikacji i mikrofilmów.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę pomiędzy ośrodkami i instytucjami naukowymi, zwłaszcza w dziedzinie nauk stosowanych, a także nauk humanistycznych i społecznych."
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Warunki współpracy i wymiany kulturalno-naukowej przewidzianej niniejszą umową, w tym zasady i warunki finansowe, na jakich wymiana będzie się odbywać, zostaną szczegółowo ustalone w okresowych programach wykonawczych.",
+   "children": [],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę naukową pomiędzy placówkami Polskiej Akademii Nauk i placówkami Akademii Nauk Republiki Motdowa na podstawie zawartych porozumień."
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Umowa niniejsza wchodzi w życie w dniu otrzymania późniejszej noty o dopełnieniu przez Umawiające się Strony procedur wewnątrzpaństwowych, koniecznych dla jej wejścia w życie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umowa niniejsza zostaje zawarta na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na kolejne okresy pięcioletnie, jeżeli żadna z Umawiających się"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Stron nie notyfikuje drugiej Stronie, nie później niż na sześć miesięcy przed upływem kolejnego okresu ważności niniejszej umowy, swojego zamiaru wypowiedzenia jej."
+    }
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą sprzyjać realizacji wspólnych programów naukowo-badawczych, organizowaniu konferencji, sympozjów i spotkań dotyczących konkretnych problemów, będących przedmiotem zainteresowań obu Stron."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą sprzyjać wymianie informacji naukowej, technicznej oraz publikacji i dokumentacji naukowej, a także udostępnianiu zasobów archiwalnych, zbiorów bibliotecznych i innych materiałów źródłowych oraz tworzeniu wspólnych zespołów i placówek badawczych. Będą też prowadziły wymianę specjalistów, naukowców, stażystów i stypendystów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współdziałać w celu rozwoju współpracy w dziedzinie oświaty i szkolnictwa wyższego, między innymi poprzez nawiązywanie bez-"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "pośrednich kontaktów między szkołami i szkołami wyższymi, wymianę uczniów, studentów i stażystów."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współpracować w dziedzinie wymiany, szkolenia i podnoszenia kwalifikacji nauczycieli i nauczycieli akademickich oraz w dziedzinie opracowywania i wymiany literatury naukowej, szkoleniowej, metodycznej, podręczników oraz innych pomocy naukowych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony uzgadniają, że do czasu zawarcia Umowy w sprawie wzajemnego uznawania okresów nauki i studiów, egzaminów, a także dyplomów szkół, w tym szkół wyższych, tytułów zawodowych, stopni i tytułów naukowych nadawanych w obu Państwach, stosowane będą w stosunkach między obu Państwami postanowienia:"
-  },
-  {
-   "type": "text",
-   "text": "— Konwencji o wzajemnym uznawaniu równoważności dokumentów ukończenia szkół średnich, szkół średnich zawodowych i szkół wyższych, a także dokumentów o nadawaniu stopni i tytułów naukowych, sporządzonej w Pradze dnia 7 czerwca 1972 r.,"
-  },
-  {
-   "type": "text",
-   "text": "— Porozumienia między Rządem Polskiej Rzeczypospolitej Ludowej i Rządem Związku Socjalistycznych Republik Radzieckich o równoważności dokumentów o wykształceniu, stopniach i tytułach naukowych wydawanych w PRL i ZSRR, podpisanego w Warszawie dnia 10 maja 1974 r., z wyjątkiem dokumentów wyższych szkół medycznych oraz stopni i tytułów naukowych w dziedzinie medycyny."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą wspierać upowszechnianie wiedzy o języku, literaturze, historii i geografii drugiego Państwa i ich nauczanie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Każda z Umawiających się Stron będzie podejmować niezbędne działania, mające na celu wspieranie obywateli Republiki Mołdowa, należących do polskiej mniejszości narodowej, i obywateli Rzeczypospolitej Polskiej pochodzenia mołdawskiego w podtrzymywaniu i rozwijaniu ich tożsamości narodowej, kulturalnej i językowej poprzez:"
-  },
-  {
-   "type": "text",
-   "text": "— udzielanie wszechstronnego poparcia działalności społeczno-kulturalnej wymienionych wyżej osób;"
-  },
-  {
-   "type": "text",
-   "text": "— udzielanie wszechstronnego poparcia organizacjom społeczno-kulturalnym i oświatowym obu Umawiających się Stron;"
-  },
-  {
-   "type": "text",
-   "text": "— zagwarantowanie możliwości uzyskania przez nie pomocy — również finansowej — z kraju i zagranicy;"
-  },
-  {
-   "type": "text",
-   "text": "— upowszechnianie znajomości języka polskiego w Republice Motdowa i podnoszenia poziomu jego nauczania na wszystkich szczeblach edukacji;"
-  },
-  {
-   "type": "text",
-   "text": "— zapewnienie możliwości nauczania języka polskiego lub w języku polskim w ramach własnych instytucji oświatowych mniejszości polskiej lub publicznego systemu oświatowego;"
-  },
-  {
-   "type": "text",
-   "text": "— umożliwienie zatrudnienia nauczycieli z Polski w szkołach na terytorium Republiki Motdowa, w których prowadzone jest nauczanie języka polskiego lub w języku polskim;"
-  },
-  {
-   "type": "text",
-   "text": "— kształcenie i doskonalenie kadr nauczycielskich dla tych szkół."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą sprzyjać współpracy w dziedzinie środków masowego przekazu: telewizji, radia i agencji informacyjnych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie sportu, w tym organizowanie zawodów i spotkań sportowych, wymianę pomiędzy organizacjami sportowymi, klubami i związkami sportowymi, sportowcami, trenerami i specjalistami z dziedziny sportu, a także będą sprzyjać wymianie turystycznej między obu państwami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie archiwistyki, w szczególności w zakresie dostępu do archiwów, wymiany doświadczeń, publikacji i mikrofilmów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Warunki współpracy i wymiany kulturalno-naukowej przewidzianej niniejszą umową, w tym zasady i warunki finansowe, na jakich wymiana będzie się odbywać, zostaną szczegółowo ustalone w okresowych programach wykonawczych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "Umowa niniejsza wchodzi w życie w dniu otrzymania późniejszej noty o dopełnieniu przez Umawiające się Strony procedur wewnątrzpaństwowych, koniecznych dla jej wejścia w życie."
-  },
-  {
-   "type": "text",
-   "text": "Umowa niniejsza zostaje zawarta na okres pięciu lat. Ulega ona automatycznemu przedłużeniu na kolejne okresy pięcioletnie, jeżeli żadna z Umawiających się"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Stron nie notyfikuje drugiej Stronie, nie później niż na sześć miesięcy przed upływem kolejnego okresu ważności niniejszej umowy, swojego zamiaru wypowiedzenia jej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 15"
-  },
-  {
-   "type": "text",
-   "text": "Z dniem wejścia w życie niniejszej umowy traci moc w odniesieniu do obu Umawiających się Stron Umowa między Polską Rzecząpospolitą Ludową a Związkiem Socjalistycznych Republik Radzieckich o współpracy kulturalnej i naukowej, podpisana w Moskwie dnia 14 grudnia 1970 r."
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Z dniem wejścia w życie niniejszej umowy traci moc w odniesieniu do obu Umawiających się Stron Umowa między Polską Rzecząpospolitą Ludową a Związkiem Socjalistycznych Republik Radzieckich o współpracy kulturalnej i naukowej, podpisana w Moskwie dnia 14 grudnia 1970 r.",
+   "children": [],
+   "label": "Artykuł 15"
   },
   {
    "type": "text",

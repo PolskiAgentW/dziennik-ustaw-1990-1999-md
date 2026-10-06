@@ -91,406 +91,408 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Cele Konferencji"
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Cele Konferencji",
+   "children": [
     {
      "type": "text",
      "text": "Celami Konferencji są:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "podejmowanie wszelkich kroków na skalę ogólną lub lokalną, zmierzających do maksymalnego wykorzystania i najbardziej racjonalnego rozwoju lądowych przewozów europejskich o znaczeniu międzynarodowym,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "koordynacja i promocja działań organizacji międzynarodowych zainteresowanych europejskimi przewozami lądowymi, z uwzględnieniem prac organów ponadnarodowych w tej dziedzinie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "podejmowanie wszelkich kroków na skalę ogólną lub lokalną, zmierzających do maksymalnego wykorzystania i najbardziej racjonalnego rozwoju lądowych przewozów europejskich o znaczeniu międzynarodowym,",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "koordynacja i promocja działań organizacji międzynarodowych zainteresowanych europejskimi przewozami lądowymi, z uwzględnieniem prac organów ponadnarodowych w tej dziedzinie.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Członkowie oraz członkowie stowarzyszeni Konferencji",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Członkami Konferencji są strony zawierające niniejszy protokół.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Członkowie oraz członkowie stowarzyszeni Konferencji"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Członkami stowarzyszonymi Konferencji są rząd Stanów Zjednoczonych Ameryki oraz rząd Kanady, jeśli tego zechcą, oraz każdy inny rząd, którego wniosek o przyjęcie w charakterze członka stowarzyszonego zostanie zaakceptowany jednomyślnie przez Radę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Członkowie stowarzyszeni mogą być reprezentowani przez obserwatorów na wszystkich posiedzeniach Rady i Komitetu. Wszystkie dokumenty pochodzące z Konferencji będą im komunikowane.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Członkami Konferencji są strony zawierające niniejszy protokół.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Członkami stowarzyszonymi Konferencji są rząd Stanów Zjednoczonych Ameryki oraz rząd Kanady, jeśli tego zechcą, oraz każdy inny rząd, którego wniosek o przyjęcie w charakterze członka stowarzyszonego zostanie zaakceptowany jednomyślnie przez Radę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Członkowie stowarzyszeni mogą być reprezentowani przez obserwatorów na wszystkich posiedzeniach Rady i Komitetu. Wszystkie dokumenty pochodzące z Konferencji będą im komunikowane.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Rada Ministrów",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Rada Ministrów"
-    },
     {
      "type": "text",
      "text": "Rada składa się z ministrów, których kompetencje w ich własnym rządzie obejmują przewozy lądowe. Jeśli w jakimś rządzie sprawy dotyczące przewozów lądowych należą do kompetencji dwóch lub kilku ministrów, każdy z nich może uczestniczyć w pracach Rady, z tym jednak, że żaden rząd będący członkiem nie ma w Radzie głosów więcej niż jeden."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Komitet Zastępców"
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Komitet składa się z funkcjonariuszy wyznaczonych w proporcji jednego zastępcy na każdego ministra, z tym jednak że żaden rząd będący członkiem nie ma w Komitecie głosów więcej niż jeden.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Komitet Zastępców",
    "children": [
     {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "Objectifs de la Conference"
-    },
-    {
-     "type": "text",
-     "text": "La Conference a pour objectifs:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "De prendre toutes mesures destinees a realiser, dans un cadre général ou régional, la meilleure utilisation et le développement le plusrationnel des transports intérieurs européens d‘impattance internationale;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "De coordonner et de promouvoir les travaux des Organisations internationales s'intćressant aux transports intérieurs europsens, compte tenu de l'activité des autorités suprénationales dans ce domaine.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Komitet składa się z funkcjonariuszy wyznaczonych w proporcji jednego zastępcy na każdego ministra, z tym jednak że żaden rząd będący członkiem nie ma w Komitecie głosów więcej niż jeden.",
      "children": [
       {
        "type": "text",
-       "text": "Article 4"
+       "text": "Article 3"
       },
       {
        "type": "text",
-       "text": "Membres et membres associés de la Conférence"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Sont membres de la Conférence les Parties Contractantes au présent Protocole.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sont membres associés de la Conférence le Gouvernement des Etats-Unis d’Amérique et le Gouvernement du Canada, s'ils en font la demande, ainsi que tout autre gouvernement dont la demande d’adhésion comme membre associé aura été approuvée a I'unanimite par le Conseil.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Les membres associés peuvent se faire représenter par des observateurs a toutes les reunions du Conseil et du Comité. Tous les documents émanant de la Conférence leur sont communiqućs.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Conseil des Ministres"
-    },
-    {
-     "type": "text",
-     "text": "Le Conseil se compose des Ministres qui ont les transports interieurs dans leurs attributions au sein de leur propre gouvernement. Au cas ou, dans un gouvernement, diverses questions de transports intérieurs relevent de la compétence de deux ou plusieurs Ministres, ceux-ci peuvent participer aus travaux du Conseil, sous réserve qu' aucun gouvernement membre ne dispose de plus d’une voix au Conseil."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Comité des Supleants"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Comité se compose de fonctionnaires désignés a raison d'un Suppléant par Ministre, étant entendu qu'aucun gouvernement membre ne dispose de plus d’une voix au Comité.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Komitet ma za zadanie:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "przygotowywać posiedzenia Rady,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "załatwiać sprawy powierzone mu przez Radę,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "informować Radę o środkach zastosowanych w poszczególnych krajach w celu wprowadzenia w życie postanowień powziętych w ramach Rady.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 7"
+       "text": "Objectifs de la Conference"
       },
       {
        "type": "text",
-       "text": "Postanowienia administracyjne"
+       "text": "La Conference a pour objectifs:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_6/ust_1/lit_a",
+       "text": "De prendre toutes mesures destinees a realiser, dans un cadre général ou régional, la meilleure utilisation et le développement le plusrationnel des transports intérieurs européens d‘impattance internationale;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_6/ust_1/lit_b",
+       "text": "De coordonner et de promouvoir les travaux des Organisations internationales s'intćressant aux transports intérieurs europsens, compte tenu de l'activité des autorités suprénationales dans ce domaine.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 4"
+        },
+        {
+         "type": "text",
+         "text": "Membres et membres associés de la Conférence"
+        }
+       ]
       }
      ]
     },
     {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Sont membres de la Conférence les Parties Contractantes au présent Protocole.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Sont membres associés de la Conférence le Gouvernement des Etats-Unis d’Amérique et le Gouvernement du Canada, s'ils en font la demande, ainsi que tout autre gouvernement dont la demande d’adhésion comme membre associé aura été approuvée a I'unanimite par le Conseil.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Les membres associés peuvent se faire représenter par des observateurs a toutes les reunions du Conseil et du Comité. Tous les documents émanant de la Conférence leur sont communiqućs.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Conseil des Ministres"
+      },
+      {
+       "type": "text",
+       "text": "Le Conseil se compose des Ministres qui ont les transports interieurs dans leurs attributions au sein de leur propre gouvernement. Au cas ou, dans un gouvernement, diverses questions de transports intérieurs relevent de la compétence de deux ou plusieurs Ministres, ceux-ci peuvent participer aus travaux du Conseil, sous réserve qu' aucun gouvernement membre ne dispose de plus d’une voix au Conseil."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Comité des Supleants"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Le Comité se compose de fonctionnaires désignés a raison d'un Suppléant par Ministre, étant entendu qu'aucun gouvernement membre ne dispose de plus d’une voix au Comité.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Komitet ma za zadanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_6/ust_2/lit_a",
+       "text": "przygotowywać posiedzenia Rady,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_6/ust_2/lit_b",
+       "text": "załatwiać sprawy powierzone mu przez Radę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_6/ust_2/lit_c",
+       "text": "informować Radę o środkach zastosowanych w poszczególnych krajach w celu wprowadzenia w życie postanowień powziętych w ramach Rady.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Postanowienia administracyjne",
+   "children": [
+    {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_7/lit_a",
      "text": "Administracyjną siedzibę Konferencji ustanowiono w Paryżu. Rada zbiera się w administracyjnej siedzibie Konferencji lub w innym miejscu, stosownie do własnej decyzji. Komitet zbiera się normalnie w administracyjnej siedzibie Konferencji. Może on zbierać się również w innym miejscu, jeśli tak postanowi Rada za zgodą odnośnego rządu.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_7/lit_b",
      "text": "Sekretariat Administracyjny jest włączony administracyjnie do Sekretariatu Organizacji Współpracy Gospodarczej i Rozwoju (OECD), ale w wykonywaniu*swych czynności zależy wyłącznie od Konferencji. Sekretarze administracyjni mianowani są za zgodą Konferencji. Są oni odpowiedzialni za redagowanie porządków dziennych, sprawozdań i protokołów z posiedzeń Rady i Komitetu. Wprowadzają oni do protokołu decyzje Konferencji i są odpowiedzią- Ini za rozprowadzanie dokumentów i za gromadzenie archiwów Konferencji.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Grupy robocze"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Grupy robocze",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_8/lit_a",
      "text": "W celu zainicjowania i dyskutowania w ramach Konferencji problemów, którymi są szczególnie zainteresowani niektórzy członkowie i które pokrywają się z celami Konferencji, mogą być tworzone grupy robocze.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_8/lit_b",
      "text": "Rada powinna być powiadomiona o utworzeniu grupy roboczej i informowana o ogólnym przebiegu prac tej grupy.",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_8/lit_c",
      "text": "Inni członkowie — jeśli wyrażą zainteresowanie — będą dopuszczeni do uczestniczenia w badaniach i dyskusjach prowadzonych przez grupę roboczą, ale nie będą mogli przeciwstawić się ich kontynuowaniu w ramach Konferencji.",
      "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Le Comité a pour róle:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_2/lit_a",
+       "text": "De preparer les séances du Conseil;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_2/lit_b",
+       "text": "De traiter lesquelles une les questions pour delegation lui serait donnée par le Conseil;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_8/ust_2/lit_c",
+       "text": "D'informer le Conseil des mesures prises dans les divers pays pour donner effet aux conclusions prises au sein de la Conférence.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 7"
+        },
+        {
+         "type": "text",
+         "text": "Dispositions administratives"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_2/lit_a",
+       "text": "Le siege administratif de la Conférence est fixe a Paris. Le Conseil se reunit au siege administratif de la Conference ou en un autre lieu, selon qu'il en decidera. Le Comite se reunit normalement au siege administratif de la Conférence; il peut se reunir en uh autre lieu si le Conseil en decide ainsi, en accord avec le gouvernement intóressć.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_2/lit_b",
+       "text": "Le Secretariat administratif est rattache administrativement au Secrétariat de I' Organisation Européenne de Coopóration Economique, mais, dans I'exercise de ses fonctions, il depend uniquement de la Conférence. Les Secretaires administratifs sont nommes avec I'agrement de la Conférence. Ils sont chargés de la rédaction des ordres du jour, comptes rendus et proces verbaux des reunions du Conseil et du Comité. Ils consignent les conclusions de la Conference et sont chargés de la distribution des documents et de la conservation des archives de la Conférence.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 8"
+        },
+        {
+         "type": "text",
+         "text": "Groupes restreints"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_2/lit_a",
+       "text": "Des groupes restreints peuvent étre formés pour mettre a I'étude et poursuivre la discussion, dans le cadre de la Conférence, de questions présentant pour certains membres un intérét particulier et rentrant dans les objectifs de la Conference.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_2/lit_b",
+       "text": "La formation d'un groupe restreint doit étre notifiée au Conseil, qui sera tenu informe de la marche générale des travaux de ce groupe.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_8/ust_2/lit_c",
+       "text": "Les autres membres, s'ils s'estiment intéressés, seront admis a suivre les études et discussions du Groupe restreint, mais ne pourront s'opposer a ce qu'elles soient poursuivies dans le cadre de la Conférence.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Le Comité a pour róle:",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Wnioski Konferencji",
    "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "De preparer les séances du Conseil;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "De traiter lesquelles une les questions pour delegation lui serait donnée par le Conseil;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "D'informer le Conseil des mesures prises dans les divers pays pour donner effet aux conclusions prises au sein de la Conférence.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 7"
-      },
-      {
-       "type": "text",
-       "text": "Dispositions administratives"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "Le siege administratif de la Conférence est fixe a Paris. Le Conseil se reunit au siege administratif de la Conference ou en un autre lieu, selon qu'il en decidera. Le Comite se reunit normalement au siege administratif de la Conférence; il peut se reunir en uh autre lieu si le Conseil en decide ainsi, en accord avec le gouvernement intóressć.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "Le Secretariat administratif est rattache administrativement au Secrétariat de I' Organisation Européenne de Coopóration Economique, mais, dans I'exercise de ses fonctions, il depend uniquement de la Conférence. Les Secretaires administratifs sont nommes avec I'agrement de la Conférence. Ils sont chargés de la rédaction des ordres du jour, comptes rendus et proces verbaux des reunions du Conseil et du Comité. Ils consignent les conclusions de la Conference et sont chargés de la distribution des documents et de la conservation des archives de la Conférence.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 8"
-      },
-      {
-       "type": "text",
-       "text": "Groupes restreints"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "Des groupes restreints peuvent étre formés pour mettre a I'étude et poursuivre la discussion, dans le cadre de la Conférence, de questions présentant pour certains membres un intérét particulier et rentrant dans les objectifs de la Conference.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "La formation d'un groupe restreint doit étre notifiée au Conseil, qui sera tenu informe de la marche générale des travaux de ce groupe.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "Les autres membres, s'ils s'estiment intéressés, seront admis a suivre les études et discussions du Groupe restreint, mais ne pourront s'opposer a ce qu'elles soient poursuivies dans le cadre de la Conférence.",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      },
-      {
-       "type": "text",
-       "text": "Wnioski Konferencji"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_9/lit_a",
      "text": "Wnioski przyjęte w łonie Konferencji są wdrażane w krajach członkowskich; w tym celu zainteresowani ministrowie transportu, działając indywidualnie w ramach ich kompetencji krajowej, podejmą lub zaproponują środki, które w ich opinii są najbardziej odpowiednie.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_9/lit_b",
      "text": "Jeśli wydaje się, że konieczne jest zawarcie międzynarodowego porozumienia o charakterze ogólnym lub ograniczonym, każdy zainteresowany minister transportu zwraca się do swego rządu o udzielenie mu albo jednej lub kilku specjalnie w tym celu wyznaczonym osobom pełnomocnictw do zawarcia tego międzynarodowego porozumienia. Każde międzynarodowe porozumienie zawarte w tym trybie pomiędzy pewną liczbą rządów członkowskich będzie otwarte dla innych rządów członkowskich, które zechcą do niego przystąpić.",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_9/lit_c",
      "text": "W niektórych szczególnych przypadkach Konferencja lub grupa robocza mogą przez jednomyślne głosowanie i bez względu na postanowienia ustępów a) i b) przekazać swe wnioski międzynarodowej organizacji wyposażonej w moc decydowania i zwrócić się do niej o przyjęcie takiego wniosku w charakterze jej własnej decyzji.",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_2/lit_d",
+     "path": "art_9/lit_d",
      "text": "Każdy rząd będący członkiem Konferencji, ale nie należący do międzynarodowej organizacji podejmującej decyzję na mocy ustaleń zgodnie z ustępem c), może powiadomić Konferencję o swej woli działania, tak jakby był on tą decyzją zobowiązany.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 10"
-      },
-      {
-       "type": "text",
-       "text": "System finansowania"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "System finansowania",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_10/lit_a",
      "text": "Organizacja Współpracy Gospodarczej i Rozwoju będzie proszona o ponoszenie kosztów uposażeń i wydatków Sekretariatu Administracyjnego oraz o dostarczenie materialnych środków niezbędnych do sprawnego działania Konferencji. Jeżeli jednak którykolwiek z organów Konferencji zbierze się poza swą siedzibą, kraj zapraszający poniesie koszty tego spotkania, z wyłączeniem płac Sekretariatu Administracyjnego, które pokrywa Organizacja Współpracy Gospodarczej i Rozwoju.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_10/lit_b",
      "text": "Rządy będące członkami Konferencji, ale nie należące do Organizacji Współpracy Gospodarczej i Rozwoju, będą uczestniczyły w wydatkach Konferencji zgodnie ze specjalnymi porozumieniami, jakie zostaną zawarte między tym rządami a Organizacją Współpracy Gospodarczej i Rozwoju.",
      "children": [
       {
@@ -506,28 +508,28 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_10/lit_a",
      "text": "Les Conclusions prises au sein de la Conférence sont mises en application dans les pays qui s'y sont ralliés; a cet effet, les Ministres des Transports intéressés prendront ou proposeront, chacun en ce qui le concerne et dans la limite de sa compétence nationale, toutes mesures adéquates.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_10/lit_b",
      "text": "Sila conclusion d'un accord international général ou restreint appardit necessaire, chaque Ministre des Transports intóressć demande a son gouvernement que des pleins pouvoirs soient accordés a lui-méme, ou a une ou plusieurs personnes spécialement désignées a cet effet, pour conclure cet accord international. Tout accord international ainsi conclu entre un certain nombre de gouvernements membres sera ouvert a l’adhésion des autres gouvernements membres.",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_10/lit_c",
      "text": "Dans certains cas particuliers, la Conférence ou un Groupe restreint peut, par un vote ćmis a I'unanimitć, et nonobstant les dispositions des alinéas a) et b) ci-dessus, transmettre ses conclusions a une organisation internationale investie d'ur. pouvoir de dócision, en lui demandant d'adopter cette conclusion, a titre de décision propre.",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_2/lit_d",
+     "path": "art_10/lit_d",
      "text": "Tout gouvernement membre de la Conférence, mais n'adhćrant pas a une organisation internationale qui aurait pris une decision en vertu des dispositions de I'alinea c) ci-dessus, peut notifier a la Conference son intention d'agir comme s'il était lié par cette décision.",
      "children": [
       {
@@ -543,14 +545,14 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_10/lit_a",
      "text": "L'Organisation Européenne de Coopération Economique sera invitée a prendre a sa charge les traitements et dépenses du Secrétariat administratif et a fournir les moyens matériels nécessaires au bon fonctionnement de la Confórence. Toutefois, lorsqu’un des organes de la Conférence se reunit en dehors de son siege, le pays invitant supporte les frais entrainés par la reunion, sous réserve des traitements du Secrétariat administratif, qui sont a la charge de I'Organisation Européenne de Cooperation Economique.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_10/lit_b",
      "text": "Les gouvernements membres de la Conférence qui ne sont pas membres de I'Organisation Européenne de Coopóration Economique contribueront aux dépenses de la Conférence selon les dispositions spéciales a arréter entre ces gouvernements et I Organisation Européenne de Cooperation Economique.",
      "children": [
       {
@@ -562,351 +564,353 @@
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_10/lit_c",
      "text": "Warunki stosowania niniejszego artykułu oraz artykułu 7 będą przedmiotem porozumienia między Konferencją a Organizacją Współpracy Gospodarczej i Rozwoju.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 11"
-      },
-      {
-       "type": "text",
-       "text": "Stosunki z organizacjami międzynarodowymi"
-      }
-     ]
-    },
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Stosunki z organizacjami międzynarodowymi",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_11/lit_a",
      "text": "Konferencja może nawiązać stosunki z każdą ponadnarodową międzyrządową oraz pozarządową organizacją międzynarodową, zainteresowaną sprawami lądowych przewozów europejskich.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_11/lit_b",
      "text": "Jeśli Konferencja zajęła się określonymi sprawami technicznymi, które mogą wymagać podjęcia specjalnych badań, Rada lub Komitet za każdym razem, gdy to będzie możliwe, i w sposób, jaki uzna za najbardziej właściwy, powierzy przeprowadzenie niezbędnych badań kompetentnej organizacji międzynarodowej, międzyrządowej lub pozarządowej, zainteresowanej sprawami lądowych przewozów europejskich. Na podstawie tych badań Komitet przedstawi wnioski Radzie do akceptacji.",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_11/lit_c",
      "text": "i) Uznaje się, że Konferencja jest żywo zainteresowana konsultacją z Organizacją Współpracy Gospodarczej i Rozwoju w sprawach lądowych przewozów europejskich o ogólnym znaczeniu gospodarczym oraz konsultacjami z innymi organizacjami wspomnianymi w ustępie a) w sprawach przewozów dotyczących ich odnośnych zakresów działań. Taka konsultacja będzie miała charakter wzajemny zawsze, gdy to będzie możliwe.",
      "children": []
     },
     {
      "type": "lit",
      "num": "ii",
-     "path": "ust_2/lit_ii",
+     "path": "art_11/lit_ii",
      "text": "Jeśli Organizacja Współpracy Gospodarczej i Rozwoju uzna, że sprawa rozpatrywana przez Konferencję ma ogólne znaczenie gospodarcze, może jednogłośnie zażądać przekonsultowania z nią tej sprawy, z tym że Konferencja będzie mogła na zasadzie wzajemności w sprawach z jej własnego zakresu kompetencji zażądać w tych samych warunkach konsultacji ze strony Organizacji Współpracy Gospodarczej i Rozwoju.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 12"
-      },
-      {
-       "type": "text",
-       "text": "Regulamin wewnętrzny"
-      }
-     ]
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Regulamin wewnętrzny załączony do niniejszego protokołu reguluje prace Konferencji.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Regulamin wewnętrzny",
    "children": [
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "Les conditions d' application du present article et de l'article 7 ci-dessus feront l'objet d'un arrangement entre la Conférence et I' Organisation Européenne de Coopóration Economique.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Regulamin wewnętrzny załączony do niniejszego protokołu reguluje prace Konferencji.",
      "children": [
       {
-       "type": "text",
-       "text": "Article 11"
+       "type": "lit",
+       "num": "c",
+       "path": "art_12/ust_1/lit_c",
+       "text": "Les conditions d' application du present article et de l'article 7 ci-dessus feront l'objet d'un arrangement entre la Conférence et I' Organisation Européenne de Coopóration Economique.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 11"
+        },
+        {
+         "type": "text",
+         "text": "Relations avec les organisations internationales"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "Relations avec les organisations internationales"
+       "type": "lit",
+       "num": "a",
+       "path": "art_12/ust_1/lit_a",
+       "text": "La Conférence peut établir des relations avec les organisations internationales, supranationales, intergouvernementales et non gouvernementales s' intóressant aux questions de transports interieurs européens.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_12/ust_1/lit_b",
+       "text": "\\Si la Conférence est saisie de questions techniques déterminées qui peuvent nécessiter une étude particuliére, le Conseil ou le Comité confie, chaque fois que cela est possible et de la maniére qui lui pardit la plus appropriée, a une organisation internationale intergouvernementale ou non gouvernementale compétente, s‘intéressant aux transports intérieurs européens, le soin d'effectuer les études nécessaires. Se fondant sur ces études, le Comité soumet ses conclusions au Conseil pour approbation.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_12/ust_1/lit_c",
+       "text": "i) Il est reconnu que la Conférence a un intérét majeur a consulter I' Organisation Européenne de Coopóration Economique sur les questions de transports interieurs européens présentant un intérét Economique général, et a consulter également les autres organisations visées au paragraphe a) ci-dessus sur les problémes de transport qui sont de leur domaine respectif. Cette consultation aura un caractére de réciprocité chaque fois que cela est possible.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_12/ust_1/lit_ii",
+       "text": "Si ‘Organisation Européenne de Coopération Economique estime qu'une question étudiée par la Conférence présente un intérét économique général, elle pourra demander a I'unanimite a étre consultée, étant entendu que la Conférence pourra également, sur les problémes de sa propre compétence, demander dans les mémes conditons a €tre consultée par I Organisation Europeenne de Coopération Economique.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 12"
+        },
+        {
+         "type": "text",
+         "text": "Reglement interieur"
+        }
+       ]
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "La Conférence peut établir des relations avec les organisations internationales, supranationales, intergouvernementales et non gouvernementales s' intóressant aux questions de transports interieurs européens.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "\\Si la Conférence est saisie de questions techniques déterminées qui peuvent nécessiter une étude particuliére, le Conseil ou le Comité confie, chaque fois que cela est possible et de la maniére qui lui pardit la plus appropriée, a une organisation internationale intergouvernementale ou non gouvernementale compétente, s‘intéressant aux transports intérieurs européens, le soin d'effectuer les études nécessaires. Se fondant sur ces études, le Comité soumet ses conclusions au Conseil pour approbation.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "i) Il est reconnu que la Conférence a un intérét majeur a consulter I' Organisation Européenne de Coopóration Economique sur les questions de transports interieurs européens présentant un intérét Economique général, et a consulter également les autres organisations visées au paragraphe a) ci-dessus sur les problémes de transport qui sont de leur domaine respectif. Cette consultation aura un caractére de réciprocité chaque fois que cela est possible.",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_1/lit_ii",
-     "text": "Si ‘Organisation Européenne de Coopération Economique estime qu'une question étudiée par la Conférence présente un intérét économique général, elle pourra demander a I'unanimite a étre consultée, étant entendu que la Conférence pourra également, sur les problémes de sa propre compétence, demander dans les mémes conditons a €tre consultée par I Organisation Europeenne de Coopération Economique.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Le Reglement intérieur annexé au présent Protocole régit les travaux de la Conférence.",
      "children": [
       {
-       "type": "text",
-       "text": "Article 12"
-      },
-      {
-       "type": "text",
-       "text": "Reglement interieur"
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Reglement intérieur annexé au présent Protocole régit les travaux de la Conférence.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Rada może jednomyślną uchwałą zmieniać lub uzupełniać regulamin.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
     },
     {
-     "type": "text",
-     "text": "Poprawki"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Rada może jednomyślną uchwałą zmieniać lub uzupełniać regulamin.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Poprawki",
+   "children": [
     {
      "type": "text",
      "text": "Niniejszy protokół może zostać zmieniony przez Radę, przy czym ministrowie muszą działać jednomyślnie i posiadać pełnomocnictwa ich rządów. Poprawki wchodzą w życie z chwilą przyjęcia ich przez wszystkie rządy będące członkami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Podpisanie, ratyfikacja i wejście w życie"
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy protokół będzie wyłożony do podpisu w Brukseli do dnia 1 maja 1954 r. dla wszystkich rządów reprezentowanych na Europejskiej Konferencji Ministrów Transportu, jaka odbyła się w Brukseli w dniach od 13 do 17 października 1953 r.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy z tych rządów może stać się Umawiającą się Stroną niniejszego protokołu:",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Podpisanie, ratyfikacja i wejście w życie",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "przez podpisanie go bez zastrzeżenia ratyfikacji,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Niniejszy protokół będzie wyłożony do podpisu w Brukseli do dnia 1 maja 1954 r. dla wszystkich rządów reprezentowanych na Europejskiej Konferencji Ministrów Transportu, jaka odbyła się w Brukseli w dniach od 13 do 17 października 1953 r.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "przez podpisanie z zastrzeżeniem ratyfikacji i następnie ratyfikację.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W przypadkach wymienionych w ustępie 2 pkt b) niniejszego artykułu dokumenty ratyfikacyjne będą składane na ręce rządu belgijskiego i ratyfikacja zostanie uznana z chwilą złożenia tych dokumentów. Rząd belgijski dokona notyfikacji rządom wymienionym w ustępie 1.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejszy protokół wejdzie w życie z chwilą ostatecznego przyjęcia go przez co najmniej sześć rządów przez podpisanie bez zastrzeżenia ratyfikacji lub przez podpisanie i następnie ratyfikację. Dla każdego rządu, który po wejściu w życie niniejszego protokołu podpisze go bez zastrzeżeń ratyfikacji lub dokona jego ratyfikacji, protokół wejdzie w życie z chwilą złożenia podpisu lub dokonania ratyfikacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "W oczekiwaniu na wejście w życie niniejszego protokołu rządy, które go podpisały z zastrzeżeniem ratyfikacji, ustalają jednak dla uniknięcia wszelkiej zwłoki, że zacznie on obowiązywać prowizorycznie od chwili jego podpisania, jeśli pozwalają na to ich odnośne przepisy konstytucyjne.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Każdy z tych rządów może stać się Umawiającą się Stroną niniejszego protokołu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_2/lit_a",
+       "text": "przez podpisanie go bez zastrzeżenia ratyfikacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_2/lit_b",
+       "text": "przez podpisanie z zastrzeżeniem ratyfikacji i następnie ratyfikację.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Przystąpienie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy rząd europejski, który nie jest sygnatariuszem, może stać się Umawiającą się Stroną niniejszego protokołu przez przystąpienie do niego po zaakceptowaniu przez Radę jego wniosku o przyjęcie do Konferencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Le Conseil peut réviser ou compléter le Réglement intérieur par une décision prise a I'unanimite.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 13"
-    },
-    {
-     "type": "text",
-     "text": "Amendements"
-    },
-    {
-     "type": "text",
-     "text": "Le present Protocole peut étre amende par le Conseil, les Ministres devant se prononcer a l’unanimité et étre munis de pleins pouvoirs de leur gouvernement; les amendements entrent en vigueur dés que tous les gouvernements membres les ont approuvćs."
-    },
-    {
-     "type": "text",
-     "text": "Article 14"
-    },
-    {
-     "type": "text",
-     "text": "Signature, ratification et entrée en vigueur"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le présent Protocole restera ouvert a la signature a Bruxelles jusqu'au 1% mai 1954 a tous les gouvernements représentés a la Conférence Européenne des Ministres des Transports tenue a Bruxelles du 13 au 17 octobre 1953.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Chacun de ces gouvernements peut devenir Partie Contractante au présent Protocole:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "Par signature sans réserve de ratifiation;",
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "W przypadkach wymienionych w ustępie 2 pkt b) niniejszego artykułu dokumenty ratyfikacyjne będą składane na ręce rządu belgijskiego i ratyfikacja zostanie uznana z chwilą złożenia tych dokumentów. Rząd belgijski dokona notyfikacji rządom wymienionym w ustępie 1.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "Par signature sous réserve de ratification, suivie de ratification.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Niniejszy protokół wejdzie w życie z chwilą ostatecznego przyjęcia go przez co najmniej sześć rządów przez podpisanie bez zastrzeżenia ratyfikacji lub przez podpisanie i następnie ratyfikację. Dla każdego rządu, który po wejściu w życie niniejszego protokołu podpisze go bez zastrzeżeń ratyfikacji lub dokona jego ratyfikacji, protokół wejdzie w życie z chwilą złożenia podpisu lub dokonania ratyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "W oczekiwaniu na wejście w życie niniejszego protokołu rządy, które go podpisały z zastrzeżeniem ratyfikacji, ustalają jednak dla uniknięcia wszelkiej zwłoki, że zacznie on obowiązywać prowizorycznie od chwili jego podpisania, jeśli pozwalają na to ich odnośne przepisy konstytucyjne.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dans les cas visés au paragraphe 2b) du présent article, les instruments de ratification seront déposés auprés du Gouvernement belge et la ratification prendra effet a la date du dćpót des instruments. Notification en sera faite par le Gouvernement belge aux gouvernements visés au paragraphe 1 ci-dessus.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Le présent Protocole entrera en vigueur dés que six gouvernements au moins I'auront approuvć a titre définitif soit par signature sans réserve de ratification, soit par signature suivie de ratification. Pour chaque gouvernement qui, apres I'entrće en vigueur du présent Protocole, le signera sans réserve de ratification ou le ratifiera, le Protocole entrera en vigueur au moment de cette signature ou de cette ratification.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Toutefois, en attendant I'entree en vigueur du present Protocole, les gouvernements qui I'auront signé sous reserve de ratification conviennent, afin d’éviter tout retard, de le mettre en application dés sa signature, a titre provisoire, pour autant que leurs régles constitutionnelles respectives le leur permettent.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Przystąpienie",
    "children": [
     {
-     "type": "text",
-     "text": "Article 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Każdy rząd europejski, który nie jest sygnatariuszem, może stać się Umawiającą się Stroną niniejszego protokołu przez przystąpienie do niego po zaakceptowaniu przez Radę jego wniosku o przyjęcie do Konferencji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Adhésion"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Le Conseil peut réviser ou compléter le Réglement intérieur par une décision prise a I'unanimite.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      },
+      {
+       "type": "text",
+       "text": "Amendements"
+      },
+      {
+       "type": "text",
+       "text": "Le present Protocole peut étre amende par le Conseil, les Ministres devant se prononcer a l’unanimité et étre munis de pleins pouvoirs de leur gouvernement; les amendements entrent en vigueur dés que tous les gouvernements membres les ont approuvćs."
+      },
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "Signature, ratification et entrée en vigueur"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Le présent Protocole restera ouvert a la signature a Bruxelles jusqu'au 1% mai 1954 a tous les gouvernements représentés a la Conférence Européenne des Ministres des Transports tenue a Bruxelles du 13 au 17 octobre 1953.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Chacun de ces gouvernements peut devenir Partie Contractante au présent Protocole:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_15/ust_2/lit_a",
+       "text": "Par signature sans réserve de ratifiation;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_15/ust_2/lit_b",
+       "text": "Par signature sous réserve de ratification, suivie de ratification.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Dans les cas visés au paragraphe 2b) du présent article, les instruments de ratification seront déposés auprés du Gouvernement belge et la ratification prendra effet a la date du dćpót des instruments. Notification en sera faite par le Gouvernement belge aux gouvernements visés au paragraphe 1 ci-dessus.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_15/ust_4",
+     "text": "Le présent Protocole entrera en vigueur dés que six gouvernements au moins I'auront approuvć a titre définitif soit par signature sans réserve de ratification, soit par signature suivie de ratification. Pour chaque gouvernement qui, apres I'entrće en vigueur du présent Protocole, le signera sans réserve de ratification ou le ratifiera, le Protocole entrera en vigueur au moment de cette signature ou de cette ratification.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_15/ust_5",
+     "text": "Toutefois, en attendant I'entree en vigueur du present Protocole, les gouvernements qui I'auront signé sous reserve de ratification conviennent, afin d’éviter tout retard, de le mettre en application dés sa signature, a titre provisoire, pour autant que leurs régles constitutionnelles respectives le leur permettent.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 15"
+      },
+      {
+       "type": "text",
+       "text": "Adhésion"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Tout gouvernement européen non signataire peut devenir Partie Contractante au présent Protocole, en y adhérant aprés que sa demande de faire partie da la Conférence aura été approuvće a I'unanimitć par le Conseil.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Dokumenty przystąpienia będą złożone na ręce rządu belgijskiego i przystąpienie nastąpi z chwilą ich złożenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Tout gouvernement européen non signataire peut devenir Partie Contractante au présent Protocole, en y adhérant aprés que sa demande de faire partie da la Conférence aura été approuvće a I'unanimitć par le Conseil.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wypowiedzenie",
    "children": [
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokumenty przystąpienia będą złożone na ręce rządu belgijskiego i przystąpienie nastąpi z chwilą ich złożenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Wypowiedzenie"
-    },
     {
      "type": "text",
      "text": "Każdy rząd będący członkiem może wypowiedzieć niniejszy protokół, zawiadamiając o tym z sześciomiesięcznym wyprzedzeniem rząd belgijski, który dokona notyfikacji innym rządom będącym członkami."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego niżej podpisani pełnomocnicy, należycie upoważnieni w tej sprawie, podpisali niniejszy protokół."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Brukseli dnia 17 października 1953 r. w językach francuskim i angielskim, oba teksty o tej samej mocy obowiązującej, w jednym tylko egzemplarzu, zdeponowanym w archiwach rządu Belgii, który przekaże uczestniczącym rządom kopię potwierdzoną za zgodność."
     }
-   ]
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani pełnomocnicy, należycie upoważnieni w tej sprawie, podpisali niniejszy protokół."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Brukseli dnia 17 października 1953 r. w językach francuskim i angielskim, oba teksty o tej samej mocy obowiązującej, w jednym tylko egzemplarzu, zdeponowanym w archiwach rządu Belgii, który przekaże uczestniczącym rządom kopię potwierdzoną za zgodność."
   },
   {
    "type": "ust",
@@ -933,24 +937,24 @@
     {
      "type": "text",
      "text": "Fait a Bruxelles, le 17 octobre 1953, en frangais et en anglais, les deux textes faisant également foi, en un seul exemplaire qui restera déposé aux archives du Gouvernement de la Belgique, qui en communiquera copie certifiee conforme a tous les gouvernements participants."
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższym protokołem w imieniu Rzeczypospolitej Polskiej oświadczam, ze: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — Rzeczpospolita Polska postanawia przystąpić do powyższego protokołu, — przyrzeka, że będzie on niezmiennie zachowywany."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 31 maja 1993 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższym protokołem w imieniu Rzeczypospolitej Polskiej oświadczam, ze: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — Rzeczpospolita Polska postanawia przystąpić do powyższego protokołu, — przyrzeka, że będzie on niezmiennie zachowywany."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 31 maja 1993 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

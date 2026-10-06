@@ -61,78 +61,78 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "W rozumieniu niniejszej umowy:"
-  },
-  {
-   "type": "text",
-   "text": "(1) określenie „inwestycja” oznacza wszelkie mienie zainwestowane przez inwestorów jednej Umawiającej się Strony, pod warunkiem że ta inwestycja została dokonana zgodnie z ustawodawstwem drugiej Umawiającej się Strony, a w szczególności, choć nie wyłącznie:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "ruchomości i nieruchomości, jak również inne prawa rzeczowe, takie jak hipoteka, prawo zatrzymania, zastawu, użytkowania i podobne prawa;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "udziały i inne rodzaje uczestnictwa w spółkach;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "roszczenia pieniężne i świadczenia mające wartość gospodarczą;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "d",
-   "path": "lit_d",
-   "text": "patenty, inne prawa własności przemysłowej, procesy techniczne, nazwy handlowe, know-how i inne prawa własności intelektualnej, jak również good-will;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "e",
-   "path": "lit_e",
-   "text": "koncesje gospodarcze, które są wymagane dla prowadzenia działalności gospodarczej, wynikające z prawa, decyzji administracyjnej lub umów, włączając koncesje na poszukiwanie, uprawianie, wydobywanie i eksploatację zasobów naturalnych;",
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozumieniu niniejszej umowy:",
    "children": [
     {
      "type": "text",
-     "text": "(2) określenie „inwestor” oznacza:"
+     "text": "(1) określenie „inwestycja” oznacza wszelkie mienie zainwestowane przez inwestorów jednej Umawiającej się Strony, pod warunkiem że ta inwestycja została dokonana zgodnie z ustawodawstwem drugiej Umawiającej się Strony, a w szczególności, choć nie wyłącznie:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "ruchomości i nieruchomości, jak również inne prawa rzeczowe, takie jak hipoteka, prawo zatrzymania, zastawu, użytkowania i podobne prawa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "udziały i inne rodzaje uczestnictwa w spółkach;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "roszczenia pieniężne i świadczenia mające wartość gospodarczą;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "patenty, inne prawa własności przemysłowej, procesy techniczne, nazwy handlowe, know-how i inne prawa własności intelektualnej, jak również good-will;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "koncesje gospodarcze, które są wymagane dla prowadzenia działalności gospodarczej, wynikające z prawa, decyzji administracyjnej lub umów, włączając koncesje na poszukiwanie, uprawianie, wydobywanie i eksploatację zasobów naturalnych;",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) określenie „inwestor” oznacza:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "każdą osobę fizyczną, która jest obywatelem Umawiającej się Strony zgodnie z jej prawem, i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "każdą osobę prawną mającą siedzibę na terytorium drugiej Umawiającej się Strony lub państwa trzeciego, w której przeważa interes inwestora jednej z Umawiających się Stron. O przewadze interesu nie mogą jednakże stanowić czysto umowne stosunki. Osoba prawna nie podlega ochronie na mocy tej umowy, jeżeli wcześniej skorzystała ze środków przysługujących jej stosownie do innej umowy o ochronie inwestycji, zawartej z odpowiednim państwem trzecim. ‘",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "każdą osobę fizyczną, która jest obywatelem Umawiającej się Strony zgodnie z jej prawem, i",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "każdą osobę prawną mającą siedzibę na terytorium drugiej Umawiającej się Strony lub państwa trzeciego, w której przeważa interes inwestora jednej z Umawiających się Stron. O przewadze interesu nie mogą jednakże stanowić czysto umowne stosunki. Osoba prawna nie podlega ochronie na mocy tej umowy, jeżeli wcześniej skorzystała ze środków przysługujących jej stosownie do innej umowy o ochronie inwestycji, zawartej z odpowiednim państwem trzecim. ‘",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "(1) Każda z Umawiających się Stron zapewni we wszystkich wypadkach sprawiedliwe i właściwe traktowanie inwestycji inwestorów drugiej Umawiającej się Strony i nie będzie utrudniać zarządzania, utrzymania, wykorzystania, osiągania korzyści lub rozporządzania nimi w nieuzasadniony sposób. Za taki nieuzasadniony sposób uważa się: ograniczenia w nabywaniu surowców, części składowych i podzespołów, części zamiennych, energii i paliw, jak również środków produkcji i działalności wszelkiego rodzaju. Nie powinno się wprowadzać przeszkód w sprzedaży produktów w kraju lub za granicą, lub w inny sposób. Wprowadzenie generalnych ograniczeń podyktowanych sytuacją gospodarczą, np. brakami, nie uważa się za nieuzasadniony sposób.",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "(1) Każda z Umawiających się Stron zapewni we wszystkich wypadkach sprawiedliwe i właściwe traktowanie inwestycji inwestorów drugiej Umawiającej się Strony i nie będzie utrudniać zarządzania, utrzymania, wykorzystania, osiągania korzyści lub rozporządzania nimi w nieuzasadniony sposób. Za taki nieuzasadniony sposób uważa się: ograniczenia w nabywaniu surowców, części składowych i podzespołów, części zamiennych, energii i paliw, jak również środków produkcji i działalności wszelkiego rodzaju. Nie powinno się wprowadzać przeszkód w sprzedaży produktów w kraju lub za granicą, lub w inny sposób. Wprowadzenie generalnych ograniczeń podyktowanych sytuacją gospodarczą, np. brakami, nie uważa się za nieuzasadniony sposób."
-    },
     {
      "type": "text",
      "text": "recognizing that the promotion and protection of such investments favour the expansion of the economic relations between the two Contracting Parties and stimulate investment initiatives,"
@@ -220,458 +220,465 @@
     {
      "type": "text",
      "text": "(6) Inwestycja dokonana zgodnie z ustawodawstwem Umawiającej się Strony, na której terytorium została podjęta, korzysta z pełnej ochrony niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "(1) Każda Umawiająca się Strona będzie traktować inwestycje dokonywane na swoim terytorium przez inwestorów drugiej Umawiającej się Strony nie mniej korzystnie niż w wypadku inwestycji dokonywanych przez inwestora z państwa trzeciego."
-    },
-    {
-     "type": "text",
-     "text": "(2) Niezależnie od postanowień ustępu (1) niniejszego artykułu, Umawiająca się Strona,"
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "która zawarła umowę dotyczącą utworzenia unii celnej, wspólnego rynku lub strefy wolnego handlu, lub",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "która zawarła wielostronne porozumienie o współpracy gospodarczej w dziedzinie wzajemnej pomocy gospodarczej,",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "ma prawo przyznać bardziej korzystne traktowanie inwestycjom inwestora z państwa lub państw, które są również stronami wyżej wymienionych umów, lub inwestorom niektórych tych państw."
-  },
-  {
-   "type": "text",
-   "text": "(3) Traktowanie przyznane inwestycjom podlegającym umowom handlowym, które Królestwo Szwecji zawarło z Wybrzeżem Kości Słoniowej 27 sierpnia 1965 r., z Madagaskarem 2 kwietnia 1966r. iz Senegalem 24 lutego 1967 r., nie będzie powoływane jako podstawa do stosowania klauzuli największego uprzywilejowania, o której mowa w artykule 3, w stosunku do polskich inwestorów."
-  },
-  {
-   "type": "text",
-   "text": "(4) Postanowienia ustępu (1) niniejszego artykułu nie będą rozumiane jako zobowiązanie jednej Umawiającej się"
-  },
-  {
-   "type": "text",
-   "text": "(2) In connection with the transport of goods or of personnel associated with an investment, the investor shall have the right to freely select the carrier. In cases where permission is required for such transport, this shall be granted without regard to any possible quotas. Concerning transportation through third countries, permission will be granted in accordance with applicable international law and agreements."
-  },
-  {
-   "type": "text",
-   "text": "(3) Subject to the laws and regulations relating to the entry and sojourn of aliens, nationals of one Contracting Party, together with family members of their household, shall be permitted to enter into, remain and leave the territory of the other Contracting Party for the purpose of carrying out activities associated with investments in the territory of the latter Contracting Party."
-  },
-  {
-   "type": "text",
-   "text": "(4) Each Contracting Party shall, subject to its general policy in the field of foreign investment, promote in its territory investments by investors of the other Contracting Party and shall admit such investments in accordance with its legislation."
-  },
-  {
-   "type": "text",
-   "text": "(5) In order to create favourable conditions for assessing the financial position and the results of activities which are based on investments under this agreement, the Contracting Parties shall permit, as far as is possible within the framework of their national legislation, harmonization of the investors’ accounting procedures with the International Accounting Standards (IAS) drawn up by the International Accounting Standards Committee (IASC)."
-  },
-  {
-   "type": "text",
-   "text": "(6) An investment made in accordance with the laws and regulations of the Contracting Party in whose territory the investment is undertaken, enjoys the full protection of the present Agreement."
-  },
-  {
-   "type": "text",
-   "text": "Article 3"
-  },
-  {
-   "type": "text",
-   "text": "(1) Each Contracting Party shall apply to investments in its territory by investors of the other Contracting Party a treatment which is no less favourable than that accorded to investments by investors of third States."
-  },
-  {
-   "type": "text",
-   "text": "(2) Notwithstanding the provisions of Paragraph (1) of this Article, a Contracting Party"
-  },
-  {
-   "type": "text",
-   "text": "(a) which has concluded an agreement regarding the formation of a customs union, common market or a free-trade area, or"
-  },
-  {
-   "type": "text",
-   "text": "(b) which has concluded a multilateral agreement on economic co-operation for mutual economic assistance,"
-  },
-  {
-   "type": "text",
-   "text": "shall be free to grant more favourable treatment to investments by an investor of the State or States which are also parties to the aforesaid agreements, or by investors of some of these States."
-  },
-  {
-   "type": "text",
-   "text": "(3) The treatment granted to investments under the Commercial Agreements which the Kingdom of Sweden has concluded with the Ivory Coast on 27 August 1965, with Madagascar on 2 April 1966 and with Senegal on 24 February 1967 shall not be invoked as the basis most- -favoured-nation treatment under Article 3 by Polish investors."
-  },
-  {
-   "type": "text",
-   "text": "(4) The provision of Paragraph (1) of this Article shall not be construed so as to oblige one Contracting Party to"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Strony do rozciągnięcia na inwestora drugiej Umawiającej się Strony korzyści wynikających z traktowania, pierwszeństwa lub uprzywilejowania, będących rezultatem jakiejkolwiek międzynarodowej umowy lub układu dotyczącego w całości lub głównie opodatkowania albo przepisów wewnętrznych dotyczących w całości lub głównie opodatkowania."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "(1) Żadna z Umawiających się Stron nie będzie przedsiębrać środków pozbawiających, bezpośrednio lub pośrednio, inwestora drugiej Umawiającej się Strony inwestycji, chyba że nastąpi to z zachowaniem następujących warunków:"
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "środki te zostaną podjęte w interesie publicznym i zgodnie z prawem;",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "b",
-   "path": "lit_b",
-   "text": "środki te będą formalne i nie dyskryminacyjne; i",
-   "children": []
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "środki te zostaną podjęte wraz z postanowieniami o płatności niezwłocznego, właściwego i efektywnego odszkodowania, podlegającego transferowi, bez zbędnej zwłoki, w walucie wymienialanej.",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "(1) Każda Umawiająca się Strona będzie traktować inwestycje dokonywane na swoim terytorium przez inwestorów drugiej Umawiającej się Strony nie mniej korzystnie niż w wypadku inwestycji dokonywanych przez inwestora z państwa trzeciego.",
    "children": [
     {
      "type": "text",
-     "text": "(2) Postanowienia ustępu (1) niniejszego artykułu stosuje się również do bieżących dochodów z inwestycji, jak również, w razie likwidacji, do przychodów uzyskanych z likwidacji."
+     "text": "(2) Niezależnie od postanowień ustępu (1) niniejszego artykułu, Umawiająca się Strona,"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "która zawarła umowę dotyczącą utworzenia unii celnej, wspólnego rynku lub strefy wolnego handlu, lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "która zawarła wielostronne porozumienie o współpracy gospodarczej w dziedzinie wzajemnej pomocy gospodarczej,",
+     "children": []
     },
     {
      "type": "text",
-     "text": "(3) Inwestorzy każdej Umawiającej się Strony, których inwestycje doznały uszczerbku na terytorium drugiej Umawiającej się Strony w wyniku wojny lub innego konfliktu zbrojnego, klęski żywiołowej, rewolty, powstania lub buntu, będą — w odniesieniu do odtworzenia, odszkodowania, kompensaty lub innego uregulowania — traktowani nie mniej korzystnie niż obywatele lub spółki któregokolwiek państwa trzeciego. Ewentualne płatności z powyższych tytułów będą podlegały transferowi w walucie wymienialnej bez zbędnej zwłoki."
+     "text": "ma prawo przyznać bardziej korzystne traktowanie inwestycjom inwestora z państwa lub państw, które są również stronami wyżej wymienionych umów, lub inwestorom niektórych tych państw."
     },
     {
      "type": "text",
-     "text": "Artykuł 5"
+     "text": "(3) Traktowanie przyznane inwestycjom podlegającym umowom handlowym, które Królestwo Szwecji zawarło z Wybrzeżem Kości Słoniowej 27 sierpnia 1965 r., z Madagaskarem 2 kwietnia 1966r. iz Senegalem 24 lutego 1967 r., nie będzie powoływane jako podstawa do stosowania klauzuli największego uprzywilejowania, o której mowa w artykule 3, w stosunku do polskich inwestorów."
     },
     {
      "type": "text",
-     "text": "(1) Każda Umawiająca się Strona dopuści bez zwłoki transfer w walucie wymienialnej, zgodnie i w stopniu dopuszczonym przez jej ustawodawstwo:"
+     "text": "(4) Postanowienia ustępu (1) niniejszego artykułu nie będą rozumiane jako zobowiązanie jednej Umawiającej się"
+    },
+    {
+     "type": "text",
+     "text": "(2) In connection with the transport of goods or of personnel associated with an investment, the investor shall have the right to freely select the carrier. In cases where permission is required for such transport, this shall be granted without regard to any possible quotas. Concerning transportation through third countries, permission will be granted in accordance with applicable international law and agreements."
+    },
+    {
+     "type": "text",
+     "text": "(3) Subject to the laws and regulations relating to the entry and sojourn of aliens, nationals of one Contracting Party, together with family members of their household, shall be permitted to enter into, remain and leave the territory of the other Contracting Party for the purpose of carrying out activities associated with investments in the territory of the latter Contracting Party."
+    },
+    {
+     "type": "text",
+     "text": "(4) Each Contracting Party shall, subject to its general policy in the field of foreign investment, promote in its territory investments by investors of the other Contracting Party and shall admit such investments in accordance with its legislation."
+    },
+    {
+     "type": "text",
+     "text": "(5) In order to create favourable conditions for assessing the financial position and the results of activities which are based on investments under this agreement, the Contracting Parties shall permit, as far as is possible within the framework of their national legislation, harmonization of the investors’ accounting procedures with the International Accounting Standards (IAS) drawn up by the International Accounting Standards Committee (IASC)."
+    },
+    {
+     "type": "text",
+     "text": "(6) An investment made in accordance with the laws and regulations of the Contracting Party in whose territory the investment is undertaken, enjoys the full protection of the present Agreement."
+    },
+    {
+     "type": "text",
+     "text": "Article 3"
+    },
+    {
+     "type": "text",
+     "text": "(1) Each Contracting Party shall apply to investments in its territory by investors of the other Contracting Party a treatment which is no less favourable than that accorded to investments by investors of third States."
+    },
+    {
+     "type": "text",
+     "text": "(2) Notwithstanding the provisions of Paragraph (1) of this Article, a Contracting Party"
+    },
+    {
+     "type": "text",
+     "text": "(a) which has concluded an agreement regarding the formation of a customs union, common market or a free-trade area, or"
+    },
+    {
+     "type": "text",
+     "text": "(b) which has concluded a multilateral agreement on economic co-operation for mutual economic assistance,"
+    },
+    {
+     "type": "text",
+     "text": "shall be free to grant more favourable treatment to investments by an investor of the State or States which are also parties to the aforesaid agreements, or by investors of some of these States."
+    },
+    {
+     "type": "text",
+     "text": "(3) The treatment granted to investments under the Commercial Agreements which the Kingdom of Sweden has concluded with the Ivory Coast on 27 August 1965, with Madagascar on 2 April 1966 and with Senegal on 24 February 1967 shall not be invoked as the basis most- -favoured-nation treatment under Article 3 by Polish investors."
+    },
+    {
+     "type": "text",
+     "text": "(4) The provision of Paragraph (1) of this Article shall not be construed so as to oblige one Contracting Party to"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Strony do rozciągnięcia na inwestora drugiej Umawiającej się Strony korzyści wynikających z traktowania, pierwszeństwa lub uprzywilejowania, będących rezultatem jakiejkolwiek międzynarodowej umowy lub układu dotyczącego w całości lub głównie opodatkowania albo przepisów wewnętrznych dotyczących w całości lub głównie opodatkowania."
     }
-   ]
-  },
-  {
-   "type": "lit",
-   "num": "a",
-   "path": "lit_a",
-   "text": "bieżących dochodów pochodzących z inwestycji inwestorów drugiej Umawiającej się Strony, włączając w szczególności, choć nie wyłącznie, dochody z kapitału, zysk, odsetki, dywidendy, należności licencyjne, honoraria lub opłaty;",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "b"
-  },
-  {
-   "type": "text",
-   "text": "— należności z całkowitej lub częściowej likwidacji każdej inwestycji inwestora drugiej Umawiającej się Strony;"
-  },
-  {
-   "type": "lit",
-   "num": "c",
-   "path": "lit_c",
-   "text": "kwot pochodzących ze spłaty pożyczek, które obie Umawiające się Strony uznały za inwestycję;",
-   "children": []
-  },
-  {
-   "type": "text",
-   "text": "d"
-  },
-  {
-   "type": "text",
-   "text": "— wynagrodzeń obywateli drugiej Umawiającej się Strony, którzy zostali zatrudnieni w związku z inwestycją na jej terytorium, i innych sum przeznaczonych na pokrycie wydatków związanych z zarządzaniem inwestycją."
-  },
-  {
-   "type": "text",
-   "text": "(2) Umawiające się Strony będą traktować transfery, o których mowa w ustępie (1) niniejszego artykułu, nie mniej korzystnie niż transfery pochodzące z inwestycji dokonanych przez inwestorów któregokolwiek państwa trzeciego."
-  },
-  {
-   "type": "text",
-   "text": "extend to an investor of the other Contracting Party the benefit of any treatment, preference or privilege resulting from any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation."
-  },
-  {
-   "type": "text",
-   "text": "Article 4"
-  },
-  {
-   "type": "text",
-   "text": "(1) Neither Contracting Party shall take any measures depriving, directly or indirectly, an investor of the other Contracting Party of an investment unless the following conditions are complied with:"
-  },
-  {
-   "type": "text",
-   "text": "(a) the measures are taken in the public interest and under due process of law;"
-  },
-  {
-   "type": "text",
-   "text": "(b) the measures are distinct and not discriminatory; and"
-  },
-  {
-   "type": "text",
-   "text": "(c) the measures are accompanied by provision for the payment of prompt, adequate and effective compensation, which shall be transferable without undue delay in a freely convertible currency."
-  },
-  {
-   "type": "text",
-   "text": "(2) The provisions of Paragraph (1) of this Article shall also apply to the current income from an investment as well as, in the event of liquidation, to the proceeds from the liquidation."
-  },
-  {
-   "type": "text",
-   "text": "(3) Investors of either Contracting Party who suffer losses of their investments in the territory of the other Contracting Party due to war or other armed conflict, a state of national emergency, revolt, insurrection or riot shall be accorded, with respect to restitution, indemnification, compensation or other settlement, a treatment which is no less favourable than that accorded to nationals or companies of any third State. Resulting payments, if any, shall be transferable in a freely convertible currency without undue delay."
-  },
-  {
-   "type": "text",
-   "text": "Article 5"
-  },
-  {
-   "type": "text",
-   "text": "(1) Each Contracting Party shall allow without delay the transfer in a freely convertible currency, subject to and to the extent permitted by its laws and regulations, of:"
-  },
-  {
-   "type": "text",
-   "text": "(a) the current income accruing from any investment by investors of the other Contracting Party, including in particular, though not exclusively, capital gains, profit, interests, dividends, licenses, royalties or fees;"
-  },
-  {
-   "type": "text",
-   "text": "(b) the proceeds from a total or partial liquidation of any investment by an investor of the other Contracting Party;"
-  },
-  {
-   "type": "text",
-   "text": "funds in repayment of loans which both Contracting —"
-  },
-  {
-   "type": "text",
-   "text": "(c Parties have recognized as investment;"
-  },
-  {
-   "type": "text",
-   "text": "(d) the earnings of nationals of the other Contracting Party who are allowed to work in connection with an investment in its territory and other amounts appropriated for the coverage of expenses connected with the management of the investment."
-  },
-  {
-   "type": "text",
-   "text": "(2) The Contracting Parties undertake to accord to transfers referred to in Paragraph (1) of this Article a treatment no less favourable than that accorded to transfers originating from investments made by investors of any third State."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "(3) Transfer będzie dopuszczony bez zbędnej zwłoki, nie później jednak niż w ciągu miesiąca od daty złożenia wniosku o dokonanie transferu."
-  },
-  {
-   "type": "text",
-   "text": "(4) Każdy transfer, o którym mowa w niniejszej umowie, zostanie dokonany według oficjalnego kursu obowiązującego w dniu dokonania transferu."
-  },
-  {
-   "type": "text",
-   "text": "(5) Jeżeli właściwe władze polskie udzieliły według własnego uznania wcześniejszego zezwolenia, Narodowy Bank Polski zapewni w granicach, w jakich przychód z inwestycji inwestora szwedzkiego na terytorium Polskiej Rzeczypospolitej Ludowej jest osiągany w walucie wymienialnej, ekwiwalentną kwotę w walucie wymienialnej potrzebną dla dokonania transferu takiego przychodu w zamian za płatność w tej samej walucie niewymienialnej."
-  },
-  {
-   "type": "text",
-   "text": "(6) Stwierdza się, że szwedzcy inwestorzy mogą wykorzystywać mechanizmy rynkowe, np. przetargi, dla zakupu lub sprzedaży walut obcych zgodnie z ustawodawstwem Polskiej Rzeczypospolitej Ludowej. Do uzyskanych w ten sposób walut obcych kurs, o którym mov .'w ustępie (4), nie ma zastosowania."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6"
-  },
-  {
-   "type": "text",
-   "text": "Jeżeli Umawiająca się Strona lub jeden z jej organów dokona na rzecz jej inwestora płatności z tytułu gwarancji udzielonej w odniesieniu do inwestycji dokonanej na terytorium drugiej Umawiającej się Strony, druga Umawiająca się Strona, nie naruszając praw pierwszej Umawiającej się Strony wynikających z artykułu 7, uzna przejście wszelkich praw lub roszczeń tego inwestora na pierwszą Umawiającą się Stronę lub jej organ i przejęcie przez pierwszą Umawiającą się Stronę lub jej organ tych praw i roszczeń, z zastrzeżeniem prawa drugiej Umawiającej się Strony do potrącenia wymagalnych podatków lub innych ciężarów publicznych należnych od inwestora."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "(1) Każdy spór pomiędzy Umawiającymi się Stronami dotyczący interpretacji lub stosowania niniejszej umowy będzie, jeżeli to możliwe, rozstrzygany w drodze negocjacji pomiędzy rządami obu Umawiających się Stron."
-  },
-  {
-   "type": "text",
-   "text": "(2) Jeżeli spór nie może być w ten sposób rozstrzygnięty w ciągu sześciu miesięcy, zostanie on, na żądanie którejkolwiek Umawiającej się Strony, przedłożony do rozstrzygnięcia trybunałowi arbitrażowemu."
-  },
-  {
-   "type": "text",
-   "text": "(3) Trybunał arbitrażony będzie powoływany ad hoc. Każda Umawiająca się Strona wyznaczy jednego członka, aci dwaj członkowie uzgodnią obywatela państwa trzeciego, które utrzymuje stosunki dyplomatyczne z obiema Umawiającymi się Stronami, jako ich przewodniczącego, który zostanie wyznaczony przez rządy tych dwóch Umawiających się Stron. Członkowie zostaną wyznaczeni w ciągu dwóch miesięcy, a przewodniczący w ciągu czterech miesięcy od daty zawiadomienia przez jedną Umawiającą się Stronę drugiej Umawiającej się Strony o woli poddania sporu do rozstrzygnięcia trybunałowi arbitrażowemu."
-  },
-  {
-   "type": "text",
-   "text": "(4) Jeżeli terminy, o których mowa w ustępie (3) niniejszego artykułu, nie zostaną zachowane, każda Umawiająca się Strona może, w razie braku innych odpowiednich uzgodnień, zwrócić się do Przewodniczącego Międzynarodowego Trybunału Sprawiedliwości o dokonanie niezbędnych nominacji."
-  },
-  {
-   "type": "text",
-   "text": "(3) The transfer shall be allowed without undue delay and, in any event, within a period of time not exceeding one month from the date on which the request for the transfer is made."
-  },
-  {
-   "type": "text",
-   "text": "(4) Any transfer referred to in this Agreement shall be effected at the official exchange rates prevailing on the day the transfer is made."
-  },
-  {
-   "type": "text",
-   "text": "(5) To the extent any return from an investment in the territory of the Polish People's Republic by a Swedish investors realized in a non-convertible currency, where the competent Polish authorities have at their discretion given prior permission, the equivalent amount in convertible currency required for effecting the transfer of such a return shall be provided by the Polish National Bank against payment in the same non-convertible currency."
-  },
-  {
-   "type": "text",
-   "text": "(6) It is further noted that Swedish investors may use market mechanisms, e.g. auctions, to buy and sell foreign currency in accordance with laws and regulations of the Polish People's Republic. When foreign currency is obtained in this way the exchange rate referred to in Paragraph (4) is not applicable."
-  },
-  {
-   "type": "text",
-   "text": "Article 6"
-  },
-  {
-   "type": "text",
-   "text": "If a Contracting Party or one of its organs makes a payment to any of its investors under a guarantee it has granted in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall, without prejudice to the rights of the former Contracting Party under"
-  },
-  {
-   "type": "text",
-   "text": "Article 7, recognize the transfer of any right or title of such an investor to the former Contracting Party or its organ and the subrogation of the former Contracting Party or its organ to any such right or title, subject to the other Contracting Party's right to deduct taxes and other public charges due and payable by the investor."
-  },
-  {
-   "type": "text",
-   "text": "Article 7"
-  },
-  {
-   "type": "text",
-   "text": "(1) Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, if possible, be settled by negotiations between the Governments of the two Contracting Parties."
-  },
-  {
-   "type": "text",
-   "text": "(2) If the dispute cannot thus be settled within six months, it shall at the request of either Contracting Party be submitted to an arbitration tribunal."
-  },
-  {
-   "type": "text",
-   "text": "(3) The arbitration tribunal shall be set up from case to case, each Contracting Party appointing one member, and these two members shall then agree upon a national of a third State which maintains diplomatic relations with both Contracting Parties as their Chairman, to be appointed by the Governments of the Contracting Parties. The members shall be appointed within two months, and the Chairman within four months, from the date either Contracting Party has advised the other Contracting Party of its wish to submit the dispute to an arbitration tribunal."
-  },
-  {
-   "type": "text",
-   "text": "(4) If the time limits referred to in Paragraph (3) of this Article have not been complied with, either Contracting Party may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "(5) Jeżeli Przewodniczący Międzynarodowego Trybunału Sprawiedliwości nie może wypełnić przewidzianej w ustępie (4) niniejszego artykułu funkcji lub jest obywatelem jednej z Umawiających się Stron, do dokonania niezbędnych nominacji zostanie zaproszony Wiceprzewodniczący. Jeżeli Wiceprzewodniczący nie może wypełnić powyższej funkcji lub jest obywatelem jednej z Umawiających się Stron, do dokonania niezbędnych nominacji zostanie zaproszony najstarszy rangą członek Trybunału, który jest w stanie wypełnić powyższą funkcję, a nie jest obywatelem żadnej z Umawiających się Stron."
-  },
-  {
-   "type": "text",
-   "text": "(6) Trybunał arbitrażowy orzeka większością głosów; orzeczenia są ostateczne i wiążące dla Umawiających się Stron. Każda Umawiająca się Strona ponosi koszty udziału członka wyznaczonego przez tę Stronę, jak również koszty jej reprezentacji w postępowaniu arbitrażowym; koszty udziału przewodniczącego, jak również wszelkie inne koszty ponoszą obie Umawiające się Strony w częściach równych. Trybunał arbitrażowy może jednak w orzeczeniu ustalić większy udział w kosztach jednej z Umawiających się Stron. We wszystkich innych kwestiach procedurę trybunału arbitrażowego określa sam trybunał."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "(1) Każda Umawiająca się Strona zgadza się poddać rozstrzygnięciu trybunału arbitrażowego wszelkie spory prawne wynikające z artykułu 4 niniejszej umowy, powstałe między tą Umawiającą się Stroną a inwestorem drugiej Umawiającej się Strony, dotyczące inwestycji tego ostatniego na jej terytorium."
-  },
-  {
-   "type": "text",
-   "text": "(2) Spór nie wymieniony w ustępie (1) niniejszego artykułu, który powstaje między jedną Umawiającą się Stroną a inwestorem drugiej Umawiającej się Strony, dotyczący inwestycji tego drugiego na jej terytorium, zostanie za porozumieniem obu stron sporu poddany rozstrzygnięciu trybunału arbitrażowego."
-  },
-  {
-   "type": "text",
-   "text": "(3) Trybunał arbitrażowy w zakresie tego artykułu będzie powoływany ad hoc w następujący sposób: każda strona sporu wyznaczy jednego członka, a ci dwaj członkowie wybiorą następnie obywatela państwa trzeciego jako przewodniczącego, który nie może jednak pełnić funkcji przewodniczącego lub członka trybunału w sytuacji, gdy nie są utrzymywane stosunki dyplomatyczne pomiędzy tym państwem a którąkolwiek z obu Umawiających się Stron. Członkowie zostaną wyznaczeni w ciągu dwóch miesięcy, a przewodniczący w ciągu trzech miesięcy, od daty zawiadomienia przez inwestora — stronę sporu według definicji zawartej w ustępie (1) niniejszego artykułu — drugiej strony sporu o woli poddania sporu rozstrzygnięciu trybunału arbitrażowego lub od daty, kiedy obie strony sporu, według definicji zawartej w ustępie (2) niniejszego artykułu, uzgodniły poddanie sporu rozstrzygnięciu trybunału arbitrażowego."
-  },
-  {
-   "type": "text",
-   "text": "(4) Jeżeli terminy, o których mowa w ustępie (3) tego artykułu, nie zostaną zachowane, każda strona sporu może, w braku innych odpowiednich porozumień, zwrócić się do Przewodniczącego Międzynarodowego Trybunału Sprawiedliwości o dokonanie niezbędnych nominacji."
-  },
-  {
-   "type": "text",
-   "text": "(5) Trybunał arbitrażowy utworzony zgodnie z tym artykułem będzie, przy orzekaniu w sporze poddanym rozstrzygnięciu, stosować procedurę arbitrażową przewidzianą regułami arbitrażowymi Komisji Organizacji Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego; przyjętymi przez Zgromadzenie Ogólne dnia 15 grudnia"
-  },
-  {
-   "type": "text",
-   "text": "(5) If the President of the International Court of Justice is prevented from discharging the function provided for in Paragraph (4) of this Article or is a national of either Contracting Party, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is prevented from discharging the said function or is a national of either Contracting Party, the most senior member of the Court who is not incapacitated or a national of either Contracting Party shall be invited to make the necessary appointments."
-  },
-  {
-   "type": "text",
-   "text": "(6) The arbitration tribunal shall reach its decision by a majority of votes, the decision being final and binding on the Contracting Parties. Each Contracting Party shall bear the cost of the member appointed by that party as well as the costs for its representation in the arbitration proceedings; the cost of the Chairman as well as any other costs shall be borne in equal parts by the two Contracting Parties. The arbitration tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the Contracting Parties. In all other respects, the procedure of the arbitration tribunal shall be determined by the tribunal itself."
-  },
-  {
-   "type": "text",
-   "text": "Article 8"
-  },
-  {
-   "type": "text",
-   "text": "(1) Each Contracting Party consents to submit for settlement by an arbitration tribunal any legal dispute arising under Article 4 of this Agreement between that Contracting Party and an investor of the other Contracting Party concerning an investment by the latter in the territory of the former."
-  },
-  {
-   "type": "text",
-   "text": "(2) In the event of a dispute not referred to in Paragraph"
-  },
-  {
-   "type": "text",
-   "text": "(1) of this Article which arises between one Contracting Party and an investor of the other Contracting Party concerning an investment by the latter in the territory of the former, it shall upon agreement by both parties to the dispute be submitted to an arbitration tribunal for settlement."
-  },
-  {
-   "type": "text",
-   "text": "(3) An arbitration tribunal in terms of this Article shall be set up from case to case as follows: Each Party to the dispute shall appoint one member and these two members shall then appoint a national of a third State as their Chairman, a national of such a state not being eligible as chairman or member of the tribunal if diplomatic relations do not exist between that state and either of the two Contracting Parties. The members shall be appointed within two months, and the chairman within three months, from the date an investor, party to a dispute as defined in Paragraph (1) of this Article, has advised the other party to the dispute of the wish of the former to have the dispute submitted to an arbitration tribunal, or else, from the date both parties to a dispute as defined in Paragraph (2) of this Article have agreed that the dispute be submitted to an arbitration tribunal."
-  },
-  {
-   "type": "text",
-   "text": "(4) If the time-limits referred to in Paragraph (3) of this Article have not been complied with, either party to the dispute may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments."
-  },
-  {
-   "type": "text",
-   "text": "(5) An arbitration tribunal set up in accordance with this Article shall, in deciding a dispute submitted to it, apply the arbitral procedure provided in the Arbitration Rules of the United Nations Commission on International Trade Law as adopted by the General Assembly on 15 December 1976 and shall, where otherwise necessary, determine its own proce-"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "1976 r., a w innych koniecznych przypadkach będzie określał swoją własną procedurę. Trybunał arbitrażowy orzeka większością głosów. Orzeczenia są ostateczne i wiążące."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Jeżeli regulacje prawne jednej Umawiającej się Strony lub istniejące aktualnie czy powstałe w przyszłości pomiędzy Umawiającymi się Stronami zobowiązania wynikające z prawa międzynarodowego zawierają w zakresie uregulowanym niniejszą umową postanowienia ogólne lub szczegółowe, uprawniające inwestycje inwestora drugiej Umawiającej się Strony do traktowania bardziej korzystnego niż przewidziane niniejszą umową, takie postanowienie w zakresie, w jakim jest bardziej korzystne, będzie miało pierwszeństwo przed niniejszą umową."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Postanowienia niniejszej umowy mają zastosowanie do inwestycji dokonanych przez inwestorów jednej Umawiającej się Strony na terytorium drugiej Umawiającej się Strony po dniu 26 maja 1976 r."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "(1) Umowaniniejsza wchodzi w życie w dniu, w którym Rządy obu Umawiających się Stron notyfikują sobie wzajemnie, że ich konstytucyjne wymogi dotyczące wejścia w życie niniejszej umowy zostały spełnione."
-  },
-  {
-   "type": "text",
-   "text": "(2) Umowa niniejsza zawarta jest na okres dwudziestu lat. Po tym okresie umowa będzie mogła być w dowolnym terminie wypowiedziana w drodze notyfikacji przez każdą Umawiającą się Stronę; w takim przypadku utraci ona moc po upływie 12 miesięcy od dnia wypowiedzenia."
-  },
-  {
-   "type": "text",
-   "text": "(3) W odniesieniu do inwestycji dokonanych przed datą wygaśnięcia niniejszej umowy, postanowienia artykułów od 1 do 10 pozostają w mocy na dalszy okres dwudziestu lat od tej daty."
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "(1) Żadna z Umawiających się Stron nie będzie przedsiębrać środków pozbawiających, bezpośrednio lub pośrednio, inwestora drugiej Umawiającej się Strony inwestycji, chyba że nastąpi to z zachowaniem następujących warunków:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "środki te zostaną podjęte w interesie publicznym i zgodnie z prawem;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "środki te będą formalne i nie dyskryminacyjne; i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_4/lit_c",
+     "text": "środki te zostaną podjęte wraz z postanowieniami o płatności niezwłocznego, właściwego i efektywnego odszkodowania, podlegającego transferowi, bez zbędnej zwłoki, w walucie wymienialanej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Postanowienia ustępu (1) niniejszego artykułu stosuje się również do bieżących dochodów z inwestycji, jak również, w razie likwidacji, do przychodów uzyskanych z likwidacji."
+      },
+      {
+       "type": "text",
+       "text": "(3) Inwestorzy każdej Umawiającej się Strony, których inwestycje doznały uszczerbku na terytorium drugiej Umawiającej się Strony w wyniku wojny lub innego konfliktu zbrojnego, klęski żywiołowej, rewolty, powstania lub buntu, będą — w odniesieniu do odtworzenia, odszkodowania, kompensaty lub innego uregulowania — traktowani nie mniej korzystnie niż obywatele lub spółki któregokolwiek państwa trzeciego. Ewentualne płatności z powyższych tytułów będą podlegały transferowi w walucie wymienialnej bez zbędnej zwłoki."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "(1) Każda Umawiająca się Strona dopuści bez zwłoki transfer w walucie wymienialnej, zgodnie i w stopniu dopuszczonym przez jej ustawodawstwo:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_5/lit_a",
+     "text": "bieżących dochodów pochodzących z inwestycji inwestorów drugiej Umawiającej się Strony, włączając w szczególności, choć nie wyłącznie, dochody z kapitału, zysk, odsetki, dywidendy, należności licencyjne, honoraria lub opłaty;",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "b"
+    },
+    {
+     "type": "text",
+     "text": "— należności z całkowitej lub częściowej likwidacji każdej inwestycji inwestora drugiej Umawiającej się Strony;"
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_5/lit_c",
+     "text": "kwot pochodzących ze spłaty pożyczek, które obie Umawiające się Strony uznały za inwestycję;",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "d"
+    },
+    {
+     "type": "text",
+     "text": "— wynagrodzeń obywateli drugiej Umawiającej się Strony, którzy zostali zatrudnieni w związku z inwestycją na jej terytorium, i innych sum przeznaczonych na pokrycie wydatków związanych z zarządzaniem inwestycją."
+    },
+    {
+     "type": "text",
+     "text": "(2) Umawiające się Strony będą traktować transfery, o których mowa w ustępie (1) niniejszego artykułu, nie mniej korzystnie niż transfery pochodzące z inwestycji dokonanych przez inwestorów któregokolwiek państwa trzeciego."
+    },
+    {
+     "type": "text",
+     "text": "extend to an investor of the other Contracting Party the benefit of any treatment, preference or privilege resulting from any international agreement or arrangement relating wholly or mainly to taxation or any domestic legislation relating wholly or mainly to taxation."
+    },
+    {
+     "type": "text",
+     "text": "Article 4"
+    },
+    {
+     "type": "text",
+     "text": "(1) Neither Contracting Party shall take any measures depriving, directly or indirectly, an investor of the other Contracting Party of an investment unless the following conditions are complied with:"
+    },
+    {
+     "type": "text",
+     "text": "(a) the measures are taken in the public interest and under due process of law;"
+    },
+    {
+     "type": "text",
+     "text": "(b) the measures are distinct and not discriminatory; and"
+    },
+    {
+     "type": "text",
+     "text": "(c) the measures are accompanied by provision for the payment of prompt, adequate and effective compensation, which shall be transferable without undue delay in a freely convertible currency."
+    },
+    {
+     "type": "text",
+     "text": "(2) The provisions of Paragraph (1) of this Article shall also apply to the current income from an investment as well as, in the event of liquidation, to the proceeds from the liquidation."
+    },
+    {
+     "type": "text",
+     "text": "(3) Investors of either Contracting Party who suffer losses of their investments in the territory of the other Contracting Party due to war or other armed conflict, a state of national emergency, revolt, insurrection or riot shall be accorded, with respect to restitution, indemnification, compensation or other settlement, a treatment which is no less favourable than that accorded to nationals or companies of any third State. Resulting payments, if any, shall be transferable in a freely convertible currency without undue delay."
+    },
+    {
+     "type": "text",
+     "text": "Article 5"
+    },
+    {
+     "type": "text",
+     "text": "(1) Each Contracting Party shall allow without delay the transfer in a freely convertible currency, subject to and to the extent permitted by its laws and regulations, of:"
+    },
+    {
+     "type": "text",
+     "text": "(a) the current income accruing from any investment by investors of the other Contracting Party, including in particular, though not exclusively, capital gains, profit, interests, dividends, licenses, royalties or fees;"
+    },
+    {
+     "type": "text",
+     "text": "(b) the proceeds from a total or partial liquidation of any investment by an investor of the other Contracting Party;"
+    },
+    {
+     "type": "text",
+     "text": "funds in repayment of loans which both Contracting —"
+    },
+    {
+     "type": "text",
+     "text": "(c Parties have recognized as investment;"
+    },
+    {
+     "type": "text",
+     "text": "(d) the earnings of nationals of the other Contracting Party who are allowed to work in connection with an investment in its territory and other amounts appropriated for the coverage of expenses connected with the management of the investment."
+    },
+    {
+     "type": "text",
+     "text": "(2) The Contracting Parties undertake to accord to transfers referred to in Paragraph (1) of this Article a treatment no less favourable than that accorded to transfers originating from investments made by investors of any third State."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "(3) Transfer będzie dopuszczony bez zbędnej zwłoki, nie później jednak niż w ciągu miesiąca od daty złożenia wniosku o dokonanie transferu."
+    },
+    {
+     "type": "text",
+     "text": "(4) Każdy transfer, o którym mowa w niniejszej umowie, zostanie dokonany według oficjalnego kursu obowiązującego w dniu dokonania transferu."
+    },
+    {
+     "type": "text",
+     "text": "(5) Jeżeli właściwe władze polskie udzieliły według własnego uznania wcześniejszego zezwolenia, Narodowy Bank Polski zapewni w granicach, w jakich przychód z inwestycji inwestora szwedzkiego na terytorium Polskiej Rzeczypospolitej Ludowej jest osiągany w walucie wymienialnej, ekwiwalentną kwotę w walucie wymienialnej potrzebną dla dokonania transferu takiego przychodu w zamian za płatność w tej samej walucie niewymienialnej."
+    },
+    {
+     "type": "text",
+     "text": "(6) Stwierdza się, że szwedzcy inwestorzy mogą wykorzystywać mechanizmy rynkowe, np. przetargi, dla zakupu lub sprzedaży walut obcych zgodnie z ustawodawstwem Polskiej Rzeczypospolitej Ludowej. Do uzyskanych w ten sposób walut obcych kurs, o którym mov .'w ustępie (4), nie ma zastosowania."
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Jeżeli Umawiająca się Strona lub jeden z jej organów dokona na rzecz jej inwestora płatności z tytułu gwarancji udzielonej w odniesieniu do inwestycji dokonanej na terytorium drugiej Umawiającej się Strony, druga Umawiająca się Strona, nie naruszając praw pierwszej Umawiającej się Strony wynikających z artykułu 7, uzna przejście wszelkich praw lub roszczeń tego inwestora na pierwszą Umawiającą się Stronę lub jej organ i przejęcie przez pierwszą Umawiającą się Stronę lub jej organ tych praw i roszczeń, z zastrzeżeniem prawa drugiej Umawiającej się Strony do potrącenia wymagalnych podatków lub innych ciężarów publicznych należnych od inwestora.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "(1) Każdy spór pomiędzy Umawiającymi się Stronami dotyczący interpretacji lub stosowania niniejszej umowy będzie, jeżeli to możliwe, rozstrzygany w drodze negocjacji pomiędzy rządami obu Umawiających się Stron.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Jeżeli spór nie może być w ten sposób rozstrzygnięty w ciągu sześciu miesięcy, zostanie on, na żądanie którejkolwiek Umawiającej się Strony, przedłożony do rozstrzygnięcia trybunałowi arbitrażowemu."
+    },
+    {
+     "type": "text",
+     "text": "(3) Trybunał arbitrażony będzie powoływany ad hoc. Każda Umawiająca się Strona wyznaczy jednego członka, aci dwaj członkowie uzgodnią obywatela państwa trzeciego, które utrzymuje stosunki dyplomatyczne z obiema Umawiającymi się Stronami, jako ich przewodniczącego, który zostanie wyznaczony przez rządy tych dwóch Umawiających się Stron. Członkowie zostaną wyznaczeni w ciągu dwóch miesięcy, a przewodniczący w ciągu czterech miesięcy od daty zawiadomienia przez jedną Umawiającą się Stronę drugiej Umawiającej się Strony o woli poddania sporu do rozstrzygnięcia trybunałowi arbitrażowemu."
+    },
+    {
+     "type": "text",
+     "text": "(4) Jeżeli terminy, o których mowa w ustępie (3) niniejszego artykułu, nie zostaną zachowane, każda Umawiająca się Strona może, w razie braku innych odpowiednich uzgodnień, zwrócić się do Przewodniczącego Międzynarodowego Trybunału Sprawiedliwości o dokonanie niezbędnych nominacji."
+    },
+    {
+     "type": "text",
+     "text": "(3) The transfer shall be allowed without undue delay and, in any event, within a period of time not exceeding one month from the date on which the request for the transfer is made."
+    },
+    {
+     "type": "text",
+     "text": "(4) Any transfer referred to in this Agreement shall be effected at the official exchange rates prevailing on the day the transfer is made."
+    },
+    {
+     "type": "text",
+     "text": "(5) To the extent any return from an investment in the territory of the Polish People's Republic by a Swedish investors realized in a non-convertible currency, where the competent Polish authorities have at their discretion given prior permission, the equivalent amount in convertible currency required for effecting the transfer of such a return shall be provided by the Polish National Bank against payment in the same non-convertible currency."
+    },
+    {
+     "type": "text",
+     "text": "(6) It is further noted that Swedish investors may use market mechanisms, e.g. auctions, to buy and sell foreign currency in accordance with laws and regulations of the Polish People's Republic. When foreign currency is obtained in this way the exchange rate referred to in Paragraph (4) is not applicable."
+    },
+    {
+     "type": "text",
+     "text": "Article 6"
+    },
+    {
+     "type": "text",
+     "text": "If a Contracting Party or one of its organs makes a payment to any of its investors under a guarantee it has granted in respect of an investment in the territory of the other Contracting Party, the latter Contracting Party shall, without prejudice to the rights of the former Contracting Party under"
+    },
+    {
+     "type": "text",
+     "text": "Article 7, recognize the transfer of any right or title of such an investor to the former Contracting Party or its organ and the subrogation of the former Contracting Party or its organ to any such right or title, subject to the other Contracting Party's right to deduct taxes and other public charges due and payable by the investor."
+    },
+    {
+     "type": "text",
+     "text": "Article 7"
+    },
+    {
+     "type": "text",
+     "text": "(1) Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, if possible, be settled by negotiations between the Governments of the two Contracting Parties."
+    },
+    {
+     "type": "text",
+     "text": "(2) If the dispute cannot thus be settled within six months, it shall at the request of either Contracting Party be submitted to an arbitration tribunal."
+    },
+    {
+     "type": "text",
+     "text": "(3) The arbitration tribunal shall be set up from case to case, each Contracting Party appointing one member, and these two members shall then agree upon a national of a third State which maintains diplomatic relations with both Contracting Parties as their Chairman, to be appointed by the Governments of the Contracting Parties. The members shall be appointed within two months, and the Chairman within four months, from the date either Contracting Party has advised the other Contracting Party of its wish to submit the dispute to an arbitration tribunal."
+    },
+    {
+     "type": "text",
+     "text": "(4) If the time limits referred to in Paragraph (3) of this Article have not been complied with, either Contracting Party may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "(5) Jeżeli Przewodniczący Międzynarodowego Trybunału Sprawiedliwości nie może wypełnić przewidzianej w ustępie (4) niniejszego artykułu funkcji lub jest obywatelem jednej z Umawiających się Stron, do dokonania niezbędnych nominacji zostanie zaproszony Wiceprzewodniczący. Jeżeli Wiceprzewodniczący nie może wypełnić powyższej funkcji lub jest obywatelem jednej z Umawiających się Stron, do dokonania niezbędnych nominacji zostanie zaproszony najstarszy rangą członek Trybunału, który jest w stanie wypełnić powyższą funkcję, a nie jest obywatelem żadnej z Umawiających się Stron."
+    },
+    {
+     "type": "text",
+     "text": "(6) Trybunał arbitrażowy orzeka większością głosów; orzeczenia są ostateczne i wiążące dla Umawiających się Stron. Każda Umawiająca się Strona ponosi koszty udziału członka wyznaczonego przez tę Stronę, jak również koszty jej reprezentacji w postępowaniu arbitrażowym; koszty udziału przewodniczącego, jak również wszelkie inne koszty ponoszą obie Umawiające się Strony w częściach równych. Trybunał arbitrażowy może jednak w orzeczeniu ustalić większy udział w kosztach jednej z Umawiających się Stron. We wszystkich innych kwestiach procedurę trybunału arbitrażowego określa sam trybunał."
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "(1) Każda Umawiająca się Strona zgadza się poddać rozstrzygnięciu trybunału arbitrażowego wszelkie spory prawne wynikające z artykułu 4 niniejszej umowy, powstałe między tą Umawiającą się Stroną a inwestorem drugiej Umawiającej się Strony, dotyczące inwestycji tego ostatniego na jej terytorium.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Spór nie wymieniony w ustępie (1) niniejszego artykułu, który powstaje między jedną Umawiającą się Stroną a inwestorem drugiej Umawiającej się Strony, dotyczący inwestycji tego drugiego na jej terytorium, zostanie za porozumieniem obu stron sporu poddany rozstrzygnięciu trybunału arbitrażowego."
+    },
+    {
+     "type": "text",
+     "text": "(3) Trybunał arbitrażowy w zakresie tego artykułu będzie powoływany ad hoc w następujący sposób: każda strona sporu wyznaczy jednego członka, a ci dwaj członkowie wybiorą następnie obywatela państwa trzeciego jako przewodniczącego, który nie może jednak pełnić funkcji przewodniczącego lub członka trybunału w sytuacji, gdy nie są utrzymywane stosunki dyplomatyczne pomiędzy tym państwem a którąkolwiek z obu Umawiających się Stron. Członkowie zostaną wyznaczeni w ciągu dwóch miesięcy, a przewodniczący w ciągu trzech miesięcy, od daty zawiadomienia przez inwestora — stronę sporu według definicji zawartej w ustępie (1) niniejszego artykułu — drugiej strony sporu o woli poddania sporu rozstrzygnięciu trybunału arbitrażowego lub od daty, kiedy obie strony sporu, według definicji zawartej w ustępie (2) niniejszego artykułu, uzgodniły poddanie sporu rozstrzygnięciu trybunału arbitrażowego."
+    },
+    {
+     "type": "text",
+     "text": "(4) Jeżeli terminy, o których mowa w ustępie (3) tego artykułu, nie zostaną zachowane, każda strona sporu może, w braku innych odpowiednich porozumień, zwrócić się do Przewodniczącego Międzynarodowego Trybunału Sprawiedliwości o dokonanie niezbędnych nominacji."
+    },
+    {
+     "type": "text",
+     "text": "(5) Trybunał arbitrażowy utworzony zgodnie z tym artykułem będzie, przy orzekaniu w sporze poddanym rozstrzygnięciu, stosować procedurę arbitrażową przewidzianą regułami arbitrażowymi Komisji Organizacji Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego; przyjętymi przez Zgromadzenie Ogólne dnia 15 grudnia"
+    },
+    {
+     "type": "text",
+     "text": "(5) If the President of the International Court of Justice is prevented from discharging the function provided for in Paragraph (4) of this Article or is a national of either Contracting Party, the Vice-President shall be invited to make the necessary appointments. If the Vice-President is prevented from discharging the said function or is a national of either Contracting Party, the most senior member of the Court who is not incapacitated or a national of either Contracting Party shall be invited to make the necessary appointments."
+    },
+    {
+     "type": "text",
+     "text": "(6) The arbitration tribunal shall reach its decision by a majority of votes, the decision being final and binding on the Contracting Parties. Each Contracting Party shall bear the cost of the member appointed by that party as well as the costs for its representation in the arbitration proceedings; the cost of the Chairman as well as any other costs shall be borne in equal parts by the two Contracting Parties. The arbitration tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the Contracting Parties. In all other respects, the procedure of the arbitration tribunal shall be determined by the tribunal itself."
+    },
+    {
+     "type": "text",
+     "text": "Article 8"
+    },
+    {
+     "type": "text",
+     "text": "(1) Each Contracting Party consents to submit for settlement by an arbitration tribunal any legal dispute arising under Article 4 of this Agreement between that Contracting Party and an investor of the other Contracting Party concerning an investment by the latter in the territory of the former."
+    },
+    {
+     "type": "text",
+     "text": "(2) In the event of a dispute not referred to in Paragraph"
+    },
+    {
+     "type": "text",
+     "text": "(1) of this Article which arises between one Contracting Party and an investor of the other Contracting Party concerning an investment by the latter in the territory of the former, it shall upon agreement by both parties to the dispute be submitted to an arbitration tribunal for settlement."
+    },
+    {
+     "type": "text",
+     "text": "(3) An arbitration tribunal in terms of this Article shall be set up from case to case as follows: Each Party to the dispute shall appoint one member and these two members shall then appoint a national of a third State as their Chairman, a national of such a state not being eligible as chairman or member of the tribunal if diplomatic relations do not exist between that state and either of the two Contracting Parties. The members shall be appointed within two months, and the chairman within three months, from the date an investor, party to a dispute as defined in Paragraph (1) of this Article, has advised the other party to the dispute of the wish of the former to have the dispute submitted to an arbitration tribunal, or else, from the date both parties to a dispute as defined in Paragraph (2) of this Article have agreed that the dispute be submitted to an arbitration tribunal."
+    },
+    {
+     "type": "text",
+     "text": "(4) If the time-limits referred to in Paragraph (3) of this Article have not been complied with, either party to the dispute may, in the absence of any other relevant arrangement, invite the President of the International Court of Justice to make the necessary appointments."
+    },
+    {
+     "type": "text",
+     "text": "(5) An arbitration tribunal set up in accordance with this Article shall, in deciding a dispute submitted to it, apply the arbitral procedure provided in the Arbitration Rules of the United Nations Commission on International Trade Law as adopted by the General Assembly on 15 December 1976 and shall, where otherwise necessary, determine its own proce-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "1976 r., a w innych koniecznych przypadkach będzie określał swoją własną procedurę. Trybunał arbitrażowy orzeka większością głosów. Orzeczenia są ostateczne i wiążące."
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Jeżeli regulacje prawne jednej Umawiającej się Strony lub istniejące aktualnie czy powstałe w przyszłości pomiędzy Umawiającymi się Stronami zobowiązania wynikające z prawa międzynarodowego zawierają w zakresie uregulowanym niniejszą umową postanowienia ogólne lub szczegółowe, uprawniające inwestycje inwestora drugiej Umawiającej się Strony do traktowania bardziej korzystnego niż przewidziane niniejszą umową, takie postanowienie w zakresie, w jakim jest bardziej korzystne, będzie miało pierwszeństwo przed niniejszą umową.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Postanowienia niniejszej umowy mają zastosowanie do inwestycji dokonanych przez inwestorów jednej Umawiającej się Strony na terytorium drugiej Umawiającej się Strony po dniu 26 maja 1976 r.",
+   "children": [],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "(1) Umowaniniejsza wchodzi w życie w dniu, w którym Rządy obu Umawiających się Stron notyfikują sobie wzajemnie, że ich konstytucyjne wymogi dotyczące wejścia w życie niniejszej umowy zostały spełnione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Umowa niniejsza zawarta jest na okres dwudziestu lat. Po tym okresie umowa będzie mogła być w dowolnym terminie wypowiedziana w drodze notyfikacji przez każdą Umawiającą się Stronę; w takim przypadku utraci ona moc po upływie 12 miesięcy od dnia wypowiedzenia."
+    },
+    {
+     "type": "text",
+     "text": "(3) W odniesieniu do inwestycji dokonanych przed datą wygaśnięcia niniejszej umowy, postanowienia artykułów od 1 do 10 pozostają w mocy na dalszy okres dwudziestu lat od tej daty."
+    }
+   ],
+   "label": "Artykuł 11"
   },
   {
    "type": "text",

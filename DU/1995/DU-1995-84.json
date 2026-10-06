@@ -81,256 +81,266 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii będą pogłębiać i umacniać współpracę opartą na zasadach przyjaźni, zaufania i wzajemnego szacunku między obu Narodami.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii będą pogłębiać i umacniać współpracę opartą na zasadach przyjaźni, zaufania i wzajemnego szacunku między obu Narodami."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony, działając w myśl postanowień Konferencji Bezpieczeństwa i Współpracy w Europie, będą się przyczyniały do rozwoju procesu rozbrojeniowego oraz umacniały zaufanie na kontynencie europejskim.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony w swoich poczynaniach będą się kierowały Kartą Narodów Zjednoczonych, Aktem końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Paryską Kartą dla Nowej Europy, a zwłaszcza zasadami suwerennej równości, powstrzymania się od groźby użycia siły lub użycia siły, nienaruszalności granic, integralności terytorialnej państw, pokojowego załatwiania sporów i nieingerencji w sprawy wewnętrzne, poszanowania praw człowieka łącznie z wolnością myśli, sumienia, religii i przekonań, równouprawnienia i prawa narodów do samostanowienia, współpracy między państwami oraz wykonywania w dobrej wierze zobowiązań wynikających z prawa międzynarodowego.",
+   "children": [],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony, działając w myśl postanowień Konferencji Bezpieczeństwa i Współpracy w Europie, będą się przyczyniały do rozwoju procesu rozbrojeniowego oraz umacniały zaufanie na kontynencie europejskim."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą współpracować na rzecz utrzymania pokoju i umocnienia bezpieczeństwa w Europie. W ramach KBWE będą przyczyniać się do wzrostu stabilizacji na kontynencie europejskim i do kontynuowania procesu rozbrojenia, pogłębiania zaufania i stosowania zasady przejrzystości. W swoim działaniu kierować się będą zasadą wystarczalności obronnej i przesłankami warunków bezpieczeństwa europejskiego. Umawiające się Strony popierają struktury i mechanizmy instytucjonalne, podnoszące skuteczność procesu KBWE i przyczyniające się do zapewnienia autentycznego i niepodzielnego bezpieczeństwa wszystkim państwom europejskim.",
+   "children": [],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą rozwijać i pogłębiać stosunki w dziedzinie obronności. W tym celu będą popierać kontakty między ministerstwami obrony i siłami zbrojnymi.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony w swoich poczynaniach będą się kierowały Kartą Narodów Zjednoczonych, Aktem końcowym Konferencji Bezpieczeństwa i Współpracy w Europie oraz Paryską Kartą dla Nowej Europy, a zwłaszcza zasadami suwerennej równości, powstrzymania się od groźby użycia siły lub użycia siły, nienaruszalności granic, integralności terytorialnej państw, pokojowego załatwiania sporów i nieingerencji w sprawy wewnętrzne, poszanowania praw człowieka łącznie z wolnością myśli, sumienia, religii i przekonań, równouprawnienia i prawa narodów do samostanowienia, współpracy między państwami oraz wykonywania w dobrej wierze zobowiązań wynikających z prawa międzynarodowego."
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W przypadku powstania sytuacji, która w przekonaniu jednej z Umawiających się Stron może zagrozić pokojowi i bezpieczeństwu międzynarodowemu przez wzmożenie napięcia międzynarodowego, Rząd Rzeczypospolitej Polskiej i Rząd Królestwa Hiszpanii nawiążą pilnie kontakt kanałami, które uznają za właściwe, w celu wymiany poglądów w sprawie podjęcia działań mogących obniżyć napięcie i zaradzić powstałej sytuacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jeśli jedna z Umawiających się Stron uzna, że jej interesy bezpieczeństwa zostały naruszone, może zaproponować drugiej Umawiającej się Stronie natychmiastowe przeprowadzenie konsultacji dwustronnych."
+    }
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą przywiązywać specjalną wagę do pogłębienia stosunków między parlamentami Rzeczypospolitej Polskiej i Królestwa Hiszpanii.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Biorąc pod uwagę systemy konstytucyjne obydwu Państw, Umawiające się Strony będą popierać bezpośrednie kontakty między ich władzami, a także rozwój współpracy na wszystkich szczeblach."
+    },
+    {
+     "type": "text",
+     "text": "W tym samym duchu Umawiające się Strony będą ułatwiać współpracę między organizacjami politycznymi, społecznymi i związkowymi obu Państw."
+    }
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą współpracować na rzecz utrzymania pokoju i umocnienia bezpieczeństwa w Europie. W ramach KBWE będą przyczyniać się do wzrostu stabilizacji na kontynencie europejskim i do kontynuowania procesu rozbrojenia, pogłębiania zaufania i stosowania zasady przejrzystości. W swoim działaniu kierować się będą zasadą wystarczalności obronnej i przesłankami warunków bezpieczeństwa europejskiego. Umawiające się Strony popierają struktury i mechanizmy instytucjonalne, podnoszące skuteczność procesu KBWE i przyczyniające się do zapewnienia autentycznego i niepodzielnego bezpieczeństwa wszystkim państwom europejskim."
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą organizować konsultacje na różnych szczeblach w celu zapewnienia rozwoju stosunków dwustronnych, a także uzgadniać, w miarę możliwości, stanowiska w sprawach międzynarodowych będących przedmiotem ich wspólnego zainteresowania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Spotkania na najwyższym szczeblu politycznym będą się odbywać, gdy Umawiające się Strony uznają to za konieczne."
+    },
+    {
+     "type": "text",
+     "text": "Ministrowie Spraw Zagranicznych będą się spotykać przynajmniej raz w roku."
+    },
+    {
+     "type": "text",
+     "text": "Spotkania między innymi członkami rządów będą się odbywać w miarę potrzeby."
+    },
+    {
+     "type": "text",
+     "text": "Okresowe konsultacje na szczeblu ekspertów będą się odbywać zawsze, gdy zajdzie taka potrzeba."
+    }
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Królestwo Hiszpanii, biorąc pod uwagę cel stopniowej integracji Rzeczypospolitej Polskiej ze Wspólnotami Europejskimi, będzie się przyczyniać do skutecznego stosowania Układu europejskiego o stowarzyszeniu zawartego między nimi.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Obie Strony ustanowią ścisłą współpracę w dziedzinach o specjalnym znaczeniu z punktu widzenia procesów integracji europejskiej."
+    },
+    {
+     "type": "text",
+     "text": "Zarazem Królestwo Hiszpanii będzie popierać wysiłki Rzeczypospolitej Polskiej dla stworzenia warunków jej pełnej integracji ze Wspólnotami Europejskimi."
+    }
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać i pogłębiać stosunki w dziedzinie obronności. W tym celu będą popierać kontakty między ministerstwami obrony i siłami zbrojnymi."
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii sprzyjają rozwojowi stosunków gospodarczych i finansowych i nadają im charakter priorytetowy w ramach dwustronnej współpracy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać ustanawianie bezpośrednich związków między podmiotami gospodarczymi obu krajów i będą stwarzać sprzyjające warunki do realizacji wspólnych projektów i przedsięwzięć. Zwłaszcza będą chroniły inwestycje dokonane przez drugą Stronę oraz przez przedsiębiorstwa mieszane, w których może także brać udział kapitał krajów trzecich."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą rozwijać współpracę, zwłaszcza w dziedzinach zarządzania gospodarczego, kształcenia kadr i techników oraz wprowadzania mechanizmów gospodarki rynkowej."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony stworzą warunki współpracy i działania na swoich terytoriach, w szczególności dla małych i średnich przedsiębiorstw polskich i hiszpańskich."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony nawiążą ze sobą i z innymi państwami współpracę w ramach instytucji ekonomicznych, takich jak Międzynarodowy Fundusz Walutowy, Bank Światowy oraz Europejski Bank Odbudowy i Rozwoju."
+    }
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Artykuł 6"
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii sprzyjają zacieśnianiu dwustronnych kontaktów w dziedzinach: handlu zagranicznego, przemysłu, finansów, rolnictwa, ochrony środowiska, ochrony zdrowia, prawodawstwa, administracji państwowej, turystyki oraz w innych, jeżeli obie Strony uznają to za właściwe.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "W przypadku powstania sytuacji, która w przekonaniu jednej z Umawiających się Stron może zagrozić pokojowi i bezpieczeństwu międzynarodowemu przez wzmożenie napięcia międzynarodowego, Rząd Rzeczypospolitej Polskiej i Rząd Królestwa Hiszpanii nawiążą pilnie kontakt kanałami, które uznają za właściwe, w celu wymiany poglądów w sprawie podjęcia działań mogących obniżyć napięcie i zaradzić powstałej sytuacji."
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Zgodnie z systemem prawnym i porozumieniami międzynarodowymi w tej dziedzinie każda z Umawiających się Stron zapewni obywatelom drugiej Strony, którzy przebywają i pracują legalnie na jej terytorium, ochronę ich praw, włącznie z prawem do opieki społecznej.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "text",
-   "text": "Jeśli jedna z Umawiających się Stron uzna, że jej interesy bezpieczeństwa zostały naruszone, może zaproponować drugiej Umawiającej się Stronie natychmiastowe przeprowadzenie konsultacji dwustronnych."
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii będą umacniać współpracę w dziedzinie kultury, nauki, oświaty i techniki.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą współuczestniczyć i pomagać w nawiązywaniu bezpośrednich kontaktów między placówkami rządowymi, instytucjami kultury, związkami i stowarzyszeniami twórczymi, uniwersytetami, innymi placówkami szkolnictwa wyższego, ośrodkami badawczymi, fundacjami, organizacjami prywatnymi oraz ludźmi kultury, nauki i oświaty."
+    },
+    {
+     "type": "text",
+     "text": "Umawiające się Strony zwrócą szczególną uwagę na wzajemne upowszechnianie wiedzy o narodowym dorobku w dziedzinie kultury i sztuki. W tym celu będą oprócz innych działań organizować wymianę osobową, ze szczególnym uwzględnieniem wymiany młodzieżowej."
+    }
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Artykuł 7"
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Umawiające się Strony dostrzegają fundamentalną rolę, jaką w zbliżeniu między narodami odgrywa wzajemne poznanie języków i literatur. W związku z tym Umawiające się Strony rozważą w przyszłości, w miarę swoich możliwości, otwarcie ośrodków kultury, których zakres i formy działania określi porozumienie międzyrządowe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony udzielą poparcia inicjatywie tworzenia szkół lub klas dwujęzycznych."
+    }
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą przywiązywać specjalną wagę do pogłębienia stosunków między parlamentami Rzeczypospolitej Polskiej i Królestwa Hiszpanii."
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Umawiające się Strony stworzą warunki do współpracy między radiem, telewizją i innymi środkami masowego prze-. kazu obu Państw.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą promowały działalność w sferze wydawnictw i przekładów, polegającą na prezentacji najlepszych dzieł literackich obu krajów."
+    }
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "text",
-   "text": "Biorąc pod uwagę systemy konstytucyjne obydwu Państw, Umawiające się Strony będą popierać bezpośrednie kontakty między ich władzami, a także rozwój współpracy na wszystkich szczeblach."
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Umawiające się Strony zobowiązują się do wymiany doświadczeń i wzajemnej pomocy w zakresie ochrony i renowacji dóbr kulturalnych i dzieł sztuki.",
+   "children": [],
+   "label": "Artykuł 16"
   },
   {
-   "type": "text",
-   "text": "W tym samym duchu Umawiające się Strony będą ułatwiać współpracę między organizacjami politycznymi, społecznymi i związkowymi obu Państw."
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Umawiające się Strony podejmą współpracę w walce ze zorganizowaną przestępczością i przemytem narkotyków. W tym celu będą wymieniały doświadczenia i informacje.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony zobowiązują się także współpracować w zwalczaniu terroryzmu, porwań środków transportu powietrznego i morskiego oraz przemytu, włączając w to nielegalne przekazywanie, wwóz i wywóz nabytych dóbr kultury."
+    }
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "text",
-   "text": "Artykuł 8"
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Niniejszy traktat nie jest skierowany przeciwko państwom trzecim. Nie narusza on praw i obowiązków, wynikających z umów dwustronnych i wielostronnych, zawartych przez Umawiające się Strony z innymi państwami.",
+   "children": [],
+   "label": "Artykuł 18"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą organizować konsultacje na różnych szczeblach w celu zapewnienia rozwoju stosunków dwustronnych, a także uzgadniać, w miarę możliwości, stanowiska w sprawach międzynarodowych będących przedmiotem ich wspólnego zainteresowania."
-  },
-  {
-   "type": "text",
-   "text": "Spotkania na najwyższym szczeblu politycznym będą się odbywać, gdy Umawiające się Strony uznają to za konieczne."
-  },
-  {
-   "type": "text",
-   "text": "Ministrowie Spraw Zagranicznych będą się spotykać przynajmniej raz w roku."
-  },
-  {
-   "type": "text",
-   "text": "Spotkania między innymi członkami rządów będą się odbywać w miarę potrzeby."
-  },
-  {
-   "type": "text",
-   "text": "Okresowe konsultacje na szczeblu ekspertów będą się odbywać zawsze, gdy zajdzie taka potrzeba."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Królestwo Hiszpanii, biorąc pod uwagę cel stopniowej integracji Rzeczypospolitej Polskiej ze Wspólnotami Europejskimi, będzie się przyczyniać do skutecznego stosowania Układu europejskiego o stowarzyszeniu zawartego między nimi."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Obie Strony ustanowią ścisłą współpracę w dziedzinach o specjalnym znaczeniu z punktu widzenia procesów integracji europejskiej."
-  },
-  {
-   "type": "text",
-   "text": "Zarazem Królestwo Hiszpanii będzie popierać wysiłki Rzeczypospolitej Polskiej dla stworzenia warunków jej pełnej integracji ze Wspólnotami Europejskimi."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii sprzyjają rozwojowi stosunków gospodarczych i finansowych i nadają im charakter priorytetowy w ramach dwustronnej współpracy."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać ustanawianie bezpośrednich związków między podmiotami gospodarczymi obu krajów i będą stwarzać sprzyjające warunki do realizacji wspólnych projektów i przedsięwzięć. Zwłaszcza będą chroniły inwestycje dokonane przez drugą Stronę oraz przez przedsiębiorstwa mieszane, w których może także brać udział kapitał krajów trzecich."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać współpracę, zwłaszcza w dziedzinach zarządzania gospodarczego, kształcenia kadr i techników oraz wprowadzania mechanizmów gospodarki rynkowej."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony stworzą warunki współpracy i działania na swoich terytoriach, w szczególności dla małych i średnich przedsiębiorstw polskich i hiszpańskich."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony nawiążą ze sobą i z innymi państwami współpracę w ramach instytucji ekonomicznych, takich jak Międzynarodowy Fundusz Walutowy, Bank Światowy oraz Europejski Bank Odbudowy i Rozwoju."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii sprzyjają zacieśnianiu dwustronnych kontaktów w dziedzinach: handlu zagranicznego, przemysłu, finansów, rolnictwa, ochrony środowiska, ochrony zdrowia, prawodawstwa, administracji państwowej, turystyki oraz w innych, jeżeli obie Strony uznają to za właściwe."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Zgodnie z systemem prawnym i porozumieniami międzynarodowymi w tej dziedzinie każda z Umawiających się Stron zapewni obywatelom drugiej Strony, którzy przebywają i pracują legalnie na jej terytorium, ochronę ich praw, włącznie z prawem do opieki społecznej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Rzeczpospolita Polska i Królestwo Hiszpanii będą umacniać współpracę w dziedzinie kultury, nauki, oświaty i techniki."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współuczestniczyć i pomagać w nawiązywaniu bezpośrednich kontaktów między placówkami rządowymi, instytucjami kultury, związkami i stowarzyszeniami twórczymi, uniwersytetami, innymi placówkami szkolnictwa wyższego, ośrodkami badawczymi, fundacjami, organizacjami prywatnymi oraz ludźmi kultury, nauki i oświaty."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony zwrócą szczególną uwagę na wzajemne upowszechnianie wiedzy o narodowym dorobku w dziedzinie kultury i sztuki. W tym celu będą oprócz innych działań organizować wymianę osobową, ze szczególnym uwzględnieniem wymiany młodzieżowej."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony dostrzegają fundamentalną rolę, jaką w zbliżeniu między narodami odgrywa wzajemne poznanie języków i literatur. W związku z tym Umawiające się Strony rozważą w przyszłości, w miarę swoich możliwości, otwarcie ośrodków kultury, których zakres i formy działania określi porozumienie międzyrządowe."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony udzielą poparcia inicjatywie tworzenia szkół lub klas dwujęzycznych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 15"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony stworzą warunki do współpracy między radiem, telewizją i innymi środkami masowego prze-. kazu obu Państw."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą promowały działalność w sferze wydawnictw i przekładów, polegającą na prezentacji najlepszych dzieł literackich obu krajów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony zobowiązują się do wymiany doświadczeń i wzajemnej pomocy w zakresie ochrony i renowacji dóbr kulturalnych i dzieł sztuki."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 17"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony podejmą współpracę w walce ze zorganizowaną przestępczością i przemytem narkotyków. W tym celu będą wymieniały doświadczenia i informacje."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony zobowiązują się także współpracować w zwalczaniu terroryzmu, porwań środków transportu powietrznego i morskiego oraz przemytu, włączając w to nielegalne przekazywanie, wwóz i wywóz nabytych dóbr kultury."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 18"
-  },
-  {
-   "type": "text",
-   "text": "Niniejszy traktat nie jest skierowany przeciwko państwom trzecim. Nie narusza on praw i obowiązków, wynikających z umów dwustronnych i wielostronnych, zawartych przez Umawiające się Strony z innymi państwami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 19"
-  },
-  {
-   "type": "text",
-   "text": "Niniejszy traktat będzie ratyfikowany przez każdą z Umawiających się Stron i wejdzie w życie trzydzieści dni po dniu wymiany dokumentów ratyfikacyjnych."
-  },
-  {
-   "type": "text",
-   "text": "Niniejszy traktat jest zawarty na okres dziesięciu lat. Jego ważność będzie przedłużana automatycznie na okresy pięcioletnie, o ile jedna z Umawiających się Stron nie powiadomi drugiej Umawiającej się Strony pisemnie, przynajmniej na rok przed upływem kolejnego okresu ważności, o swoim zamiarze nieprzedłużania go."
-  },
-  {
-   "type": "text",
-   "text": "Niniejszy traktat sporządzono w Madrycie dnia 26 października 1992 r. w dwóch egzemplarzach, każdy w językach polskim i hiszpańskim, przy czym obydwa teksty są jednakowo ważne."
-  },
-  {
-   "type": "text",
-   "text": "Za Rzeczpospolitą Polską Za Królestwo Hiszpanii K. Skubiszewski J. S. Madariaga"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Po zapoznaniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 14 grudnia 1992 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L. S. Minister Spraw Zagranicznych: K. Skubiszewski 85 OŚWIADCZENIE RZĄDOWE z dnia 9 listopada 1994 r. w sprawie wymiany dokumentów ratyfikacyjnych Traktatu o przyjaźni i współpracy między Rzecząpospolitą Polską a Królestwem Hiszpanii, sporządzonego w Madrycie dnia 26 października 1992 r. Podaje się niniejszym do wiadomości, że zgodnie z artykułem 19 Traktatu o przyjaźni i współpracy między Rzecząpospolitą Polską a Królestwem Hiszpanii, sporządzonego w Madrycie dnia 26 października 1992 r., nastąpiła w Warszawie dnia 4 listopada 1994 r. wymiana dokumentów ratyfikacyjnych wymienionego traktatu. Powyższy traktat wchodzi w życie dnia 4 grudnia 1994 r. Minister Spraw Zagranicznych: A. Olechowski 86 KONWENCJA o ułatwieniu dostępu do wymiaru sprawiedliwości w stosunkach międzynarodowych, sporządzona w Hadze w dniu 25 października 1980 r. W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 25 października 1980 r. została sporządzona w Hadze Konwencja o ułatwieniu dostępu do wymiaru sprawiedliwości w stosunkach międzynarodowych w następującym brzmieniu: Przekład"
-  },
-  {
-   "type": "text",
-   "text": "KONWENCJA o ułatwieniu dostępu do wymiaru sprawiedliwości w stosunkach międzynarodowych Państwa-sygnatariusze niniejszej konwencji, pragnąc ułatwić dostęp do wymiaru sprawiedliwości w stosunkach międzynarodowych, postanowiły zawrzeć w tym celu konwencję i zgodziły się na następujące postanowienia:"
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Niniejszy traktat będzie ratyfikowany przez każdą z Umawiających się Stron i wejdzie w życie trzydzieści dni po dniu wymiany dokumentów ratyfikacyjnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Niniejszy traktat jest zawarty na okres dziesięciu lat. Jego ważność będzie przedłużana automatycznie na okresy pięcioletnie, o ile jedna z Umawiających się Stron nie powiadomi drugiej Umawiającej się Strony pisemnie, przynajmniej na rok przed upływem kolejnego okresu ważności, o swoim zamiarze nieprzedłużania go."
+    },
+    {
+     "type": "text",
+     "text": "Niniejszy traktat sporządzono w Madrycie dnia 26 października 1992 r. w dwóch egzemplarzach, każdy w językach polskim i hiszpańskim, przy czym obydwa teksty są jednakowo ważne."
+    },
+    {
+     "type": "text",
+     "text": "Za Rzeczpospolitą Polską Za Królestwo Hiszpanii K. Skubiszewski J. S. Madariaga"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Po zapoznaniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 14 grudnia 1992 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L. S. Minister Spraw Zagranicznych: K. Skubiszewski 85 OŚWIADCZENIE RZĄDOWE z dnia 9 listopada 1994 r. w sprawie wymiany dokumentów ratyfikacyjnych Traktatu o przyjaźni i współpracy między Rzecząpospolitą Polską a Królestwem Hiszpanii, sporządzonego w Madrycie dnia 26 października 1992 r. Podaje się niniejszym do wiadomości, że zgodnie z artykułem 19 Traktatu o przyjaźni i współpracy między Rzecząpospolitą Polską a Królestwem Hiszpanii, sporządzonego w Madrycie dnia 26 października 1992 r., nastąpiła w Warszawie dnia 4 listopada 1994 r. wymiana dokumentów ratyfikacyjnych wymienionego traktatu. Powyższy traktat wchodzi w życie dnia 4 grudnia 1994 r. Minister Spraw Zagranicznych: A. Olechowski 86 KONWENCJA o ułatwieniu dostępu do wymiaru sprawiedliwości w stosunkach międzynarodowych, sporządzona w Hadze w dniu 25 października 1980 r. W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: W dniu 25 października 1980 r. została sporządzona w Hadze Konwencja o ułatwieniu dostępu do wymiaru sprawiedliwości w stosunkach międzynarodowych w następującym brzmieniu: Przekład"
+    },
+    {
+     "type": "text",
+     "text": "KONWENCJA o ułatwieniu dostępu do wymiaru sprawiedliwości w stosunkach międzynarodowych Państwa-sygnatariusze niniejszej konwencji, pragnąc ułatwić dostęp do wymiaru sprawiedliwości w stosunkach międzynarodowych, postanowiły zawrzeć w tym celu konwencję i zgodziły się na następujące postanowienia:"
+    }
+   ],
+   "label": "Artykuł 19"
   },
   {
    "type": "heading",

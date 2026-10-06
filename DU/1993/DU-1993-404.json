@@ -41,196 +41,201 @@
    "text": "— postanowiły zawrzeć niniejszą umowę i uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Umawiające się Strony będą popierać inicjatywy i formy wszechstronnej współpracy podejmowane przez państwowe, społeczne i prywatne instytucje, organizacje i stowarzyszenia oraz osoby indywidualne na rzecz tworzenia wspólnych polsko-albańskich organizacji i fundacji służących osiągnięciu celów niniejszej umowy i wzajemnemu zbliżeniu społeczeństw obu Państw.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać inicjatywy i formy wszechstronnej współpracy podejmowane przez państwowe, społeczne i prywatne instytucje, organizacje i stowarzyszenia oraz osoby indywidualne na rzecz tworzenia wspólnych polsko-albańskich organizacji i fundacji służących osiągnięciu celów niniejszej umowy i wzajemnemu zbliżeniu społeczeństw obu Państw."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony ustanowią kontakty między Komitetem Badań Naukowych Rzeczypospolitej Polskiej i Komitetem Nauk i Technologii Republiki Albanii w celu nawiązania bezpośredniej współpracy i zawarcia międzyrządowej umowy o współpracy w dziedzinie nauki i techniki.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony będą popierać współpracę Polskiej Akademii Nauk i Albańskiej Akademii Nauk oraz innych organizacji i instytutów naukowych, realizowaną na podstawie zawieranych przez nie odpowiednich porozumień. Strony udzielać będą wzajemnej pomocy uczonym, prowadzącym badania nad językiem, historią, kulturą Polski i Albanii, poprzez:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— wymianę pracowników naukowych,"
+    },
+    {
+     "type": "text",
+     "text": "— udostępnianie i publikację wyników badań,"
+    },
+    {
+     "type": "text",
+     "text": "— organizowanie wspólnych konferencji i ekspedycji naukowych,"
+    },
+    {
+     "type": "text",
+     "text": "— wymianę informacji i dokumentacji naukowej."
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony ustanowią kontakty między Komitetem Badań Naukowych Rzeczypospolitej Polskiej i Komitetem Nauk i Technologii Republiki Albanii w celu nawiązania bezpośredniej współpracy i zawarcia międzyrządowej umowy o współpracy w dziedzinie nauki i techniki."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Ministerstwo Edukacji Narodowej Rzeczypospolitej Polskiej i Ministerstwo Edukacji Republiki Albanii nawiążą bezpośrednie kontakty w celu zapoznania się z poziomem oraz systemami oświaty i szkolnictwa wyższego w obydwu krajach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Strony będą popierać i ułatwiać bezpośrednią współpracę między uniwersytetami, szkołami zawodowymi i innymi instytucjami szkolnictwa wszystkich szczebli obu krajów. W ramach tej współpracy będą popierać wymianę wykładowców uczelni, nauczycieli, studentów i uczniów."
+    },
+    {
+     "type": "text",
+     "text": "Strony będą sobie przyznawać wzajemnie miejsca na studia wyższe i staże naukowe na zasadach i warunkach uprzednio uzgodnionych między nimi."
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą zachęcać i pomagać w podejmowaniu studiów języka i literatury polskiej w Albanii oraz języka i literatury albańskiej w Polsce.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę Polskiej Akademii Nauk i Albańskiej Akademii Nauk oraz innych organizacji i instytutów naukowych, realizowaną na podstawie zawieranych przez nie odpowiednich porozumień. Strony udzielać będą wzajemnej pomocy uczonym, prowadzącym badania nad językiem, historią, kulturą Polski i Albanii, poprzez:"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Umawiające się Strony nawiążą bezpośrednie kontakty między Ministerstwem Kultury i Sztuki oraz Urzędem Kultury Fizycznej i Turystyki Rzeczypospolitej Polskiej i Ministerstwem Kultury, Młodzieży i Sportu Republiki Albanii w celu nawiązania współpracy w dziedzinach wspólnego zainteresowania.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "— wymianę pracowników naukowych,"
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą popierać zainteresowanie dziedzictwem kulturalnym i współczesnymi osiągnięciami kulturalnymi drugiej Umawiającej się Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać podejmowanie przez właściwe organy i instytucje rządowe oraz przez organizacje i instytucje pozarządowe przedsięwzięć służących zbliżeniu obu Państw, w szczególności poprzez:"
+    },
+    {
+     "type": "text",
+     "text": "— wzajemne kontakty między instytucjami kulturalnymi, stowarzyszeniami, uniami, związkami zrzeszającymi pisarzy, tłumaczy, muzyków, kompozytorów, artystów teatru i filmu, artystów plastyków, przedstawicieli archeologii, konserwacji zabytków, muzeów, bibliotek itp.,"
+    },
+    {
+     "type": "text",
+     "text": "— wymianę wystaw i innych prezentacji o charakterze kulturalnym, edukacyjnym i informacyjnym,"
+    },
+    {
+     "type": "text",
+     "text": "— tłumaczenie i publikację dzieł naukowych, literackich i artystycznych autorów drugiego Państwa,"
+    },
+    {
+     "type": "text",
+     "text": "— wymianę informacji — publikacji, książek, czasopism i pozostałych nośników informacji, w tym środków audiowizualnych,"
+    },
+    {
+     "type": "text",
+     "text": "— uczestnictwo swych przedstawicieli w festiwalach, konkursach, przeglądach, konfrontacjach i spotkaniach o charakterze kulturalnym, organizowanych przez drugą Umawiającą się Stronę."
+    }
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "— udostępnianie i publikację wyników badań,"
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "W celu ułatwienia upowszechniania i popularyzacji wartości intelektualnych i kulturalnych każda z Umawiających się Stron zapewni obywatelom drugiego Państwa ustawową ochronę praw autorskich, zgodnie z międzynarodowymi konwencjami.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "— organizowanie wspólnych konferencji i ekspedycji naukowych,"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Umawiające się Strony będą sprzyjać umacnianiu kontaktów między federacjami sportowymi i innymi instytucjami, a także inspirować i popierać różnorodne formy kontaktów i wymiany młodzieży obu krajów.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "— wymianę informacji i dokumentacji naukowej."
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony będą popierać wzajemny swobodny przepływ informacji o życiu politycznym, społecznym, kulturalnym i naukowym drugiego Państwa dla zapewnienia obiektywnej i wszechstronnej informacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W tym celu będą popierać współpracę instytucji radiowych i telewizyjnych oraz dążyć do podpisania porozumień w tym zakresie."
+    },
+    {
+     "type": "text",
+     "text": "Popierać będą również współpracę agencji prasowych, stowarzyszeń dziennikarskich, wydawnictw prasowych i redakcji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Umawiające się Strony będą popierać bezpośrednią współpracę między swoimi Komitetami Narodowymi do spraw UNESCO, a w szczególności dążyć do rozwoju sieci szkół stowarzyszonych oraz klubów UNESCO, jak również sprzyjać ich kontaktom bilateralnym.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "Ministerstwo Edukacji Narodowej Rzeczypospolitej Polskiej i Ministerstwo Edukacji Republiki Albanii nawiążą bezpośrednie kontakty w celu zapoznania się z poziomem oraz systemami oświaty i szkolnictwa wyższego w obydwu krajach."
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie archiwistyki, a w szczególności w zakresie wymiany doświadczeń, publikacji, mikrofilmów oraz dostępu do archiwów.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "text",
-   "text": "Strony będą popierać i ułatwiać bezpośrednią współpracę między uniwersytetami, szkołami zawodowymi i innymi instytucjami szkolnictwa wszystkich szczebli obu krajów. W ramach tej współpracy będą popierać wymianę wykładowców uczelni, nauczycieli, studentów i uczniów."
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Współpraca w dziedzinie ochrony zdrowia i medycyny realizowana będzie na podstawie porozumienia zawartego między ministerstwami zdrowia obu krajów.",
+   "children": [],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Strony będą sobie przyznawać wzajemnie miejsca na studia wyższe i staże naukowe na zasadach i warunkach uprzednio uzgodnionych między nimi."
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Umawiające się Strony będą opracowywać okresowe programy wykonawcze do umowy, określające warunki finansowe i organizacyjne.",
+   "children": [],
+   "label": "Artykuł 14"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie w dniu wymiany not stwierdzających to przyjęcie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Z dniem wejścia w życie niniejszej umowy traci moc Umowa o współpracy kulturalnej między Rzecząpospolitą Polską a Albańską Republiką Ludową, podpisana w Tiranie dnia 2 grudnia 1950r."
+    }
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą zachęcać i pomagać w podejmowaniu studiów języka i literatury polskiej w Albanii oraz języka i literatury albańskiej w Polsce."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony nawiążą bezpośrednie kontakty między Ministerstwem Kultury i Sztuki oraz Urzędem Kultury Fizycznej i Turystyki Rzeczypospolitej Polskiej i Ministerstwem Kultury, Młodzieży i Sportu Republiki Albanii w celu nawiązania współpracy w dziedzinach wspólnego zainteresowania."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać zainteresowanie dziedzictwem kulturalnym i współczesnymi osiągnięciami kulturalnymi drugiej Umawiającej się Strony."
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać podejmowanie przez właściwe organy i instytucje rządowe oraz przez organizacje i instytucje pozarządowe przedsięwzięć służących zbliżeniu obu Państw, w szczególności poprzez:"
-  },
-  {
-   "type": "text",
-   "text": "— wzajemne kontakty między instytucjami kulturalnymi, stowarzyszeniami, uniami, związkami zrzeszającymi pisarzy, tłumaczy, muzyków, kompozytorów, artystów teatru i filmu, artystów plastyków, przedstawicieli archeologii, konserwacji zabytków, muzeów, bibliotek itp.,"
-  },
-  {
-   "type": "text",
-   "text": "— wymianę wystaw i innych prezentacji o charakterze kulturalnym, edukacyjnym i informacyjnym,"
-  },
-  {
-   "type": "text",
-   "text": "— tłumaczenie i publikację dzieł naukowych, literackich i artystycznych autorów drugiego Państwa,"
-  },
-  {
-   "type": "text",
-   "text": "— wymianę informacji — publikacji, książek, czasopism i pozostałych nośników informacji, w tym środków audiowizualnych,"
-  },
-  {
-   "type": "text",
-   "text": "— uczestnictwo swych przedstawicieli w festiwalach, konkursach, przeglądach, konfrontacjach i spotkaniach o charakterze kulturalnym, organizowanych przez drugą Umawiającą się Stronę."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "W celu ułatwienia upowszechniania i popularyzacji wartości intelektualnych i kulturalnych każda z Umawiających się Stron zapewni obywatelom drugiego Państwa ustawową ochronę praw autorskich, zgodnie z międzynarodowymi konwencjami."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą sprzyjać umacnianiu kontaktów między federacjami sportowymi i innymi instytucjami, a także inspirować i popierać różnorodne formy kontaktów i wymiany młodzieży obu krajów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać wzajemny swobodny przepływ informacji o życiu politycznym, społecznym, kulturalnym i naukowym drugiego Państwa dla zapewnienia obiektywnej i wszechstronnej informacji."
-  },
-  {
-   "type": "text",
-   "text": "W tym celu będą popierać współpracę instytucji radiowych i telewizyjnych oraz dążyć do podpisania porozumień w tym zakresie."
-  },
-  {
-   "type": "text",
-   "text": "Popierać będą również współpracę agencji prasowych, stowarzyszeń dziennikarskich, wydawnictw prasowych i redakcji."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać bezpośrednią współpracę między swoimi Komitetami Narodowymi do spraw UNESCO, a w szczególności dążyć do rozwoju sieci szkół stowarzyszonych oraz klubów UNESCO, jak również sprzyjać ich kontaktom bilateralnym."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę w dziedzinie archiwistyki, a w szczególności w zakresie wymiany doświadczeń, publikacji, mikrofilmów oraz dostępu do archiwów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Współpraca w dziedzinie ochrony zdrowia i medycyny realizowana będzie na podstawie porozumienia zawartego między ministerstwami zdrowia obu krajów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą opracowywać okresowe programy wykonawcze do umowy, określające warunki finansowe i organizacyjne."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 15"
-  },
-  {
-   "type": "text",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie w dniu wymiany not stwierdzających to przyjęcie."
-  },
-  {
-   "type": "text",
-   "text": "Z dniem wejścia w życie niniejszej umowy traci moc Umowa o współpracy kulturalnej między Rzecząpospolitą Polską a Albańską Republiką Ludową, podpisana w Tiranie dnia 2 grudnia 1950r."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "text",
-   "text": "Umowę niniejszą zawiera się na okres 5 lat. Ulega ona automatycznemu przedłużeniu na następne 5-letnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu ważności."
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Umowę niniejszą zawiera się na okres 5 lat. Ulega ona automatycznemu przedłużeniu na następne 5-letnie okresy, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu ważności.",
+   "children": [],
+   "label": "Artykuł 16"
   },
   {
    "type": "text",

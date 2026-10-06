@@ -69,81 +69,86 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł I"
+   "type": "art",
+   "num": "I",
+   "path": "art_I",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_I/ust_1",
+     "text": "Strony będą promować współpracę między instytucjami działającymi w dziedzinach edukacji, sztuki, kultury, młodzieży, rekreacji, wychowania fizycznego i sportu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_I/ust_2",
+     "text": "W procesie realizacji projektów współpracy Strony umożliwią udział instytucji i organizacji społecznych, szkół wyższych, instytucji edukacyjnych, ośrodków badawczych, archiwów, muzeów, instytucji zajmujących się młodzieżą, rekreacją, wychowaniem fizycznym i sportem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_I/ust_3",
+     "text": "Strony będą w szczególności popierać realizację wspólnych projektów oraz porozumień o bezpośredniej współpracy między instytucjami.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł I"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą promować współpracę między instytucjami działającymi w dziedzinach edukacji, sztuki, kultury, młodzieży, rekreacji, wychowania fizycznego i sportu.",
-   "children": []
+   "type": "art",
+   "num": "II",
+   "path": "art_II",
+   "text": "Strony będą dokładać starań na rzecz podwyższenia poziomu znajomości i nauczania języka, historii, geografii, literatury i kultury drugiego kraju w swoich szkołach, uniwersytetach oraz instytucjach oświatowych i kulturalnych.",
+   "children": [],
+   "label": "Artykuł II"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W procesie realizacji projektów współpracy Strony umożliwią udział instytucji i organizacji społecznych, szkół wyższych, instytucji edukacyjnych, ośrodków badawczych, archiwów, muzeów, instytucji zajmujących się młodzieżą, rekreacją, wychowaniem fizycznym i sportem.",
-   "children": []
+   "type": "art",
+   "num": "III",
+   "path": "art_III",
+   "text": "Strony będą sprzyjać lepszemu poznaniu aspektów historycznych, geograficznych i kulturalnych dotyczących drugiego kraju, zawartych w podręcznikach szkolnych, encyklopediach i innych publikacjach.",
+   "children": [],
+   "label": "Artykuł III"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony będą w szczególności popierać realizację wspólnych projektów oraz porozumień o bezpośredniej współpracy między instytucjami.",
+   "type": "art",
+   "num": "IV",
+   "path": "art_IV",
+   "text": "Strony będą kontynuować i intensyfikować program wzajemnej wymiany stypendiów w celu umożliwienia obywatelom obu krajów odbycia studiów podyplomowych, specjalizacyjnych lub przeprowadzenia badań w państwowych uczelniach wyższych, w tym w szkołach artystycznych.",
+   "children": [],
+   "label": "Artykuł IV"
+  },
+  {
+   "type": "art",
+   "num": "V",
+   "path": "art_V",
+   "text": "Strony rozważą możliwość podpisania umowy w sprawie wzajemnego uznawania, dla celów akademickich, świadectw szkolnych, dyplomów ukończenia studiów wyższych i dyplomów o nadaniu tytułów naukowych.",
+   "children": [],
+   "label": "Artykuł V"
+  },
+  {
+   "type": "art",
+   "num": "VI",
+   "path": "art_VI",
+   "text": "Strony będą współpracować w celu niedopuszczenia do nielegalnego wwozu, wywozu i przekazywania dóbr stanowiących ich dziedzictwo kulturalne, zgodnie z przepisami prawnymi obowiązującymi w danym kraju, a także zgodnie z umowami międzynarodowymi, których są stronami.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł II"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą dokładać starań na rzecz podwyższenia poziomu znajomości i nauczania języka, historii, geografii, literatury i kultury drugiego kraju w swoich szkołach, uniwersytetach oraz instytucjach oświatowych i kulturalnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł III"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać lepszemu poznaniu aspektów historycznych, geograficznych i kulturalnych dotyczących drugiego kraju, zawartych w podręcznikach szkolnych, encyklopediach i innych publikacjach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł IV"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą kontynuować i intensyfikować program wzajemnej wymiany stypendiów w celu umożliwienia obywatelom obu krajów odbycia studiów podyplomowych, specjalizacyjnych lub przeprowadzenia badań w państwowych uczelniach wyższych, w tym w szkołach artystycznych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł V"
-    },
-    {
-     "type": "text",
-     "text": "Strony rozważą możliwość podpisania umowy w sprawie wzajemnego uznawania, dla celów akademickich, świadectw szkolnych, dyplomów ukończenia studiów wyższych i dyplomów o nadaniu tytułów naukowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VI"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą współpracować w celu niedopuszczenia do nielegalnego wwozu, wywozu i przekazywania dóbr stanowiących ich dziedzictwo kulturalne, zgodnie z przepisami prawnymi obowiązującymi w danym kraju, a także zgodnie z umowami międzynarodowymi, których są stronami."
-    },
-    {
-     "type": "text",
      "text": "Strony będą popierać zwrot dóbr kultury, które zostały wywiezione nielegalnie z terytorium kraju jednej ze Stron lub znalazły się nielegalnie na terytorium kraju drugiej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VII"
-    },
-    {
-     "type": "text",
-     "text": "Strony udzielą odpowiedniej ochrony w dziedzinie praw autorskich i praw pokrewnych oraz zapewnią niezbędne środki i procedury dla właściwego przestrzega-"
-    },
+    }
+   ],
+   "label": "Artykuł VI"
+  },
+  {
+   "type": "art",
+   "num": "VII",
+   "path": "art_VII",
+   "text": "Strony udzielą odpowiedniej ochrony w dziedzinie praw autorskich i praw pokrewnych oraz zapewnią niezbędne środki i procedury dla właściwego przestrzega-",
+   "children": [
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
@@ -151,316 +156,328 @@
     {
      "type": "text",
      "text": "nią tych praw, zgodnie ze swymi przepisami wewnętrznymi oraz umowami międzynarodowymi, których są stronami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VIII"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać rozpowszechnianiu twórczości artystycznej drugiego kraju, zwłaszcza w dziedzinie sztuk plastycznych, scenicznych i muzyki."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł IX"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać lepszemu i szerszemu poznaniu literatury drugiego kraju poprzez dokonywanie przekładów dzieł literackich i naukowych oraz umacnianie więzi między wydawnictwami obu krajów w celu wzbogacenia ich działalności wydawniczej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł X"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać nawiązanie bezpośrednich kontaktów między archiwami, bibliotekami, muzeami oraz innymi organizacjami i instytucjami kulturalnymi, a także będą wspierać wymianę doświadczeń w dziedzinie ochrony, konserwacji, restauracji i popularyzacji dziedzictwa kulturalnego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XI"
-    },
-    {
-     "type": "text",
-     "text": "Strony udzielą poparcia współpracy między instytucjami, organizacjami i stowarzyszeniami działającymi w dziedzinie radiofonii, telewizji i kinematografii."
-    },
+    }
+   ],
+   "label": "Artykuł VII"
+  },
+  {
+   "type": "art",
+   "num": "VIII",
+   "path": "art_VIII",
+   "text": "Strony będą sprzyjać rozpowszechnianiu twórczości artystycznej drugiego kraju, zwłaszcza w dziedzinie sztuk plastycznych, scenicznych i muzyki.",
+   "children": [],
+   "label": "Artykuł VIII"
+  },
+  {
+   "type": "art",
+   "num": "IX",
+   "path": "art_IX",
+   "text": "Strony będą sprzyjać lepszemu i szerszemu poznaniu literatury drugiego kraju poprzez dokonywanie przekładów dzieł literackich i naukowych oraz umacnianie więzi między wydawnictwami obu krajów w celu wzbogacenia ich działalności wydawniczej.",
+   "children": [],
+   "label": "Artykuł IX"
+  },
+  {
+   "type": "art",
+   "num": "X",
+   "path": "art_X",
+   "text": "Strony będą popierać nawiązanie bezpośrednich kontaktów między archiwami, bibliotekami, muzeami oraz innymi organizacjami i instytucjami kulturalnymi, a także będą wspierać wymianę doświadczeń w dziedzinie ochrony, konserwacji, restauracji i popularyzacji dziedzictwa kulturalnego.",
+   "children": [],
+   "label": "Artykuł X"
+  },
+  {
+   "type": "art",
+   "num": "XI",
+   "path": "art_XI",
+   "text": "Strony udzielą poparcia współpracy między instytucjami, organizacjami i stowarzyszeniami działającymi w dziedzinie radiofonii, telewizji i kinematografii.",
+   "children": [
     {
      "type": "text",
      "text": "Strony będą popierać wymianę informacji na temat instytucji zajmujących się działalnością produkcyjną w dziedzinie kultury, a także będą inicjować i wspomagać realizację wspólnych projektów w tej dziedzinie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XII"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać rozpowszechnianie wiedzy o życiu społeczno-ekonomicznym, politycznym i kulturalnym drugiego Państwa za pośrednictwem swych środków masowego przekazu oraz będą sprzyjać nawiązywaniu bezpośredniej współpracy między instytucjami i organizacjami obu krajów dla realizacji wspólnych projektów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XIII"
-    },
-    {
-     "type": "text",
-     "text": "Strony udzielą poparcia współpracy między instytucjami działającymi w obu krajach w sprawach młodzieży, rekreacji, wychowania fizycznego i sportu."
-    },
+    }
+   ],
+   "label": "Artykuł XI"
+  },
+  {
+   "type": "art",
+   "num": "XII",
+   "path": "art_XII",
+   "text": "Strony będą popierać rozpowszechnianie wiedzy o życiu społeczno-ekonomicznym, politycznym i kulturalnym drugiego Państwa za pośrednictwem swych środków masowego przekazu oraz będą sprzyjać nawiązywaniu bezpośredniej współpracy między instytucjami i organizacjami obu krajów dla realizacji wspólnych projektów.",
+   "children": [],
+   "label": "Artykuł XII"
+  },
+  {
+   "type": "art",
+   "num": "XIII",
+   "path": "art_XIII",
+   "text": "Strony udzielą poparcia współpracy między instytucjami działającymi w obu krajach w sprawach młodzieży, rekreacji, wychowania fizycznego i sportu.",
+   "children": [
     {
      "type": "text",
      "text": "Strony będą wspomagać bezpośrednie kontakty między związkami i klubami sportowymi obu krajów dla realizacji wspólnych projektów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XIV"
-    },
-    {
-     "type": "text",
-     "text": "Dla osiągnięcia celów niniejszej umowy współpraca między Stronami w dziedzinie edukacji i kultury będzie mogła przyjąć następujące formy:"
-    },
+    }
+   ],
+   "label": "Artykuł XIII"
+  },
+  {
+   "type": "art",
+   "num": "XIV",
+   "path": "art_XIV",
+   "text": "Dla osiągnięcia celów niniejszej umowy współpraca między Stronami w dziedzinie edukacji i kultury będzie mogła przyjąć następujące formy:",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_3/lit_a",
+     "path": "art_XIV/lit_a",
      "text": "wspólna lub koordynowana realizacja projektów współpracy w poszczególnych dziedzinach;",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
+     "path": "art_XIV/lit_b",
      "text": "wymiana ekspertów, profesorów, badaczy, twórców, grup artystycznych oraz solistów;",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_3/lit_c",
+     "path": "art_XIV/lit_c",
      "text": "wymiana ekip i materiałów niezbędnych do wykonania konkretnych projektów;",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_3/lit_d",
+     "path": "art_XIV/lit_d",
      "text": "organizowanie kursów w zakresie szkolenia i doskonalenia kadr;",
      "children": []
     },
     {
      "type": "lit",
      "num": "e",
-     "path": "ust_3/lit_e",
+     "path": "art_XIV/lit_e",
      "text": "organizowanie kongresów, seminariów, konferencji oraz innych imprez akademickich i kulturalnych, w których będą uczestniczyć specjaliści obu krajów;",
      "children": []
     },
     {
      "type": "lit",
      "num": "f",
-     "path": "ust_3/lit_f",
+     "path": "art_XIV/lit_f",
      "text": "udział w imprezach kulturalnych i festiwalach międzynarodowych, a także w targach książki i spotkaniach literackich, które będą się odbywać w obu krajach;",
      "children": []
     },
     {
      "type": "lit",
      "num": "g",
-     "path": "ust_3/lit_g",
+     "path": "art_XIV/lit_g",
      "text": "wzajemna organizacja i eksponowanie wystaw prezentujących sztukę i kulturę obu krajów;",
      "children": []
     },
     {
      "type": "lit",
      "num": "h",
-     "path": "ust_3/lit_h",
+     "path": "art_XIV/lit_h",
      "text": "tłumaczenie i koedycja utworów literackich drugiego kraju;",
      "children": []
     },
     {
      "type": "lit",
      "num": "i",
-     "path": "ust_3/lit_i",
+     "path": "art_XIV/lit_i",
      "text": "wymiana materiałów informacyjnych, dokumentalnych i audiowizualnych z dziedziny edukacji, sztuki i kultury;",
      "children": []
     },
     {
      "type": "lit",
      "num": "j",
-     "path": "ust_3/lit_j",
+     "path": "art_XIV/lit_j",
      "text": "wymiana materiałów audiowizualnych, programów radiowych i telewizyjnych w celach oświatowych i kulturalnych;",
      "children": []
     },
     {
      "type": "lit",
      "num": "k",
-     "path": "ust_3/lit_k",
+     "path": "art_XIV/lit_k",
      "text": "prowadzenie wspólnej działalności w ramach współpracy oświatowej i kulturalnej w krajach trzecich oraz",
      "children": [
       {
        "type": "text",
        "text": "|) wszelkie inne formy współpracy uzgodnione przez obie Strony."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł XV"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł XIV"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dla realizacji celów niniejszej umowy Strony postanowiły utworzyć Komisję Mieszaną do Spraw Współpracy Edukacyjnej i Kulturalnej — koordynowaną przez Ministerstwo Spraw Zagranicznych w Polsce i Sekretariat Stosunków Zagranicznych w Meksyku — której członkami będą przedstawiciele obu krajów. Sesje Komisji odbywać się będą na przemian w Warszawie i w mieście Meksyk, co najmniej co cztery lata, w terminie uzgodnionym przez obie Strony. Komisja Mieszana do Spraw Współpracy Edukacyjnej i Kulturalnej będzie pełnić następujące funkcje:",
+   "type": "art",
+   "num": "XV",
+   "path": "art_XV",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "ocena i ustalanie dziedzin priorytetowych, w których realizowane będą poszczególne projekty współpracy w dziedzinach edukacji, kultury, młodzieży i sportu,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "przygotowywanie, akceptacja i ocena realizacji programów wykonawczych do niniejszej umowy, w których zawarte będą między innymi sposoby finansowania poszczególnych przedsięwzięć,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "nadzór nad właściwą realizacją niniejszej umowy,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_XV/ust_1",
+     "text": "Dla realizacji celów niniejszej umowy Strony postanowiły utworzyć Komisję Mieszaną do Spraw Współpracy Edukacyjnej i Kulturalnej — koordynowaną przez Ministerstwo Spraw Zagranicznych w Polsce i Sekretariat Stosunków Zagranicznych w Meksyku — której członkami będą przedstawiciele obu krajów. Sesje Komisji odbywać się będą na przemian w Warszawie i w mieście Meksyk, co najmniej co cztery lata, w terminie uzgodnionym przez obie Strony. Komisja Mieszana do Spraw Współpracy Edukacyjnej i Kulturalnej będzie pełnić następujące funkcje:",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "lit",
+       "num": "a",
+       "path": "art_XV/ust_1/lit_a",
+       "text": "ocena i ustalanie dziedzin priorytetowych, w których realizowane będą poszczególne projekty współpracy w dziedzinach edukacji, kultury, młodzieży i sportu,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "a także"
+       "type": "lit",
+       "num": "b",
+       "path": "art_XV/ust_1/lit_b",
+       "text": "przygotowywanie, akceptacja i ocena realizacji programów wykonawczych do niniejszej umowy, w których zawarte będą między innymi sposoby finansowania poszczególnych przedsięwzięć,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_XV/ust_1/lit_c",
+       "text": "nadzór nad właściwą realizacją niniejszej umowy,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "a także"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_XV/ust_1/lit_d",
+       "text": "przedstawianie Stronom zaleceń uznanych za stosowne.",
+       "children": []
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "przedstawianie Stronom zaleceń uznanych za stosowne.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_XV/ust_2",
+     "text": "Niezależnie od przedsięwzięć przewidzianych w ustępie 1 niniejszego artykułu, każda ze Stron będzie mogła, w dowolnym momencie, przedstawić drugiej Stronie, drogą dyplomatyczną, dodatkowe projekty współpracy edukacyjnej i kulturalnej w celu odpowiedniego ich przestudiowania i późniejszego przyjęcia na forum Komisji Mieszanej.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł XV"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niezależnie od przedsięwzięć przewidzianych w ustępie 1 niniejszego artykułu, każda ze Stron będzie mogła, w dowolnym momencie, przedstawić drugiej Stronie, drogą dyplomatyczną, dodatkowe projekty współpracy edukacyjnej i kulturalnej w celu odpowiedniego ich przestudiowania i późniejszego przyjęcia na forum Komisji Mieszanej.",
+   "type": "art",
+   "num": "XVI",
+   "path": "art_XVI",
+   "text": "Dla realizacji projektów i programów podjętych na podstawie niniejszej umowy Strony będą mogły, jeśli uznają to za konieczne, wystąpić o pomoc finansową ze zrodet zewnętrznych, takich jak organizacje międzynarodowe i kraje trzecie.",
+   "children": [],
+   "label": "Artykuł XVI"
+  },
+  {
+   "type": "art",
+   "num": "XVII",
+   "path": "art_XVII",
+   "text": "Każda ze Stron udzieli wszelkiej niezbędnej pomocy w realizacji przyjazdu, pobytu i wyjazdu osób, które będą oficjalnie uczestniczyć w projektach współpracy. Osoby te będą podlegać przepisom migracyjnym, sanitarnym oraz bezpieczeństwa narodowego, obowiązującym w kraju przyjmującym, i nie będą mogły podejmować innej działalności bez uprzedniego uzyskania zgody obu Stron.",
+   "children": [],
+   "label": "Artykuł XVII"
+  },
+  {
+   "type": "art",
+   "num": "XVIII",
+   "path": "art_XVIII",
+   "text": "Strony udzielą sobie, zgodnie ze swymi przepisami wewnętrznymi, wszelkiej pomocy administracyjnej i podatkowej, niezbędnej przy wwozie i wywozie sprzętu i materiałów, które będą używane do realizacji poszczególnych przedsięwzięć.",
+   "children": [],
+   "label": "Artykuł XVIII"
+  },
+  {
+   "type": "art",
+   "num": "XIX",
+   "path": "art_XIX",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł XVI"
+     "type": "ust",
+     "num": "1",
+     "path": "art_XIX/ust_1",
+     "text": "Niniejsza umowa wejdzie w życie w dniu, w którym obie Strony notyfikują, drogą dyplomatyczną, o jej przyjęciu przez odpowiednie organy państwowe. Za dzień wejścia w życie umowy uważać się będzie dzień otrzymania noty późniejszej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Dla realizacji projektów i programów podjętych na podstawie niniejszej umowy Strony będą mogły, jeśli uznają to za konieczne, wystąpić o pomoc finansową ze zrodet zewnętrznych, takich jak organizacje międzynarodowe i kraje trzecie."
+     "type": "ust",
+     "num": "2",
+     "path": "art_XIX/ust_2",
+     "text": "Niniejsza umowa pozostanie w mocy przez dziesięć lat i ulega automatycznemu przedłużaniu na dalsze okresy dziesięcioletnie. Każda ze Stron może wypowiedzieć niniejszą umowę w drodze notyfikacji z sześciomiesięcznym wyprzedzeniem.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł XVII"
+     "type": "ust",
+     "num": "3",
+     "path": "art_XIX/ust_3",
+     "text": "Wypowiedzenie umowy nie wpłynie na dokończenie programów i projektów, rozpoczętych w okresie obowiązywania umowy, chyba że Strony postanowią inaczej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każda ze Stron udzieli wszelkiej niezbędnej pomocy w realizacji przyjazdu, pobytu i wyjazdu osób, które będą oficjalnie uczestniczyć w projektach współpracy. Osoby te będą podlegać przepisom migracyjnym, sanitarnym oraz bezpieczeństwa narodowego, obowiązującym w kraju przyjmującym, i nie będą mogły podejmować innej działalności bez uprzedniego uzyskania zgody obu Stron."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XVIII"
-    },
-    {
-     "type": "text",
-     "text": "Strony udzielą sobie, zgodnie ze swymi przepisami wewnętrznymi, wszelkiej pomocy administracyjnej i podatkowej, niezbędnej przy wwozie i wywozie sprzętu i materiałów, które będą używane do realizacji poszczególnych przedsięwzięć."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł XIX"
+     "type": "ust",
+     "num": "4",
+     "path": "art_XIX/ust_4",
+     "text": "Niniejsza umowa może być zmieniona w drodze pisemnego uzgodnienia między Stronami. Wspomniane zmiany wejdą w życie w dniu, w którym obie Strony powiadomią się wzajemnie, w drodze wymiany not dyplomatycznych, o spełnieniu warunków wymaganych przez swoje ustawodawstwo wewnętrzne.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł XIX"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa wejdzie w życie w dniu, w którym obie Strony notyfikują, drogą dyplomatyczną, o jej przyjęciu przez odpowiednie organy państwowe. Za dzień wejścia w życie umowy uważać się będzie dzień otrzymania noty późniejszej.",
-   "children": []
+   "type": "art",
+   "num": "XX",
+   "path": "art_XX",
+   "text": "Z dniem wejścia w życie niniejszej umowy traci moc Umowa o wymianie kulturalnej, naukowej i technicznej między Polską Rzecząpospolitą Ludową i Stanami Zjednoczonymi Meksyku, podpisana w Warszawie dnia 24 lipca 1970 r., w części dotyczącej wymiany edukacyjnej i kulturalnej.",
+   "children": [],
+   "label": "Artykuł XX"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa pozostanie w mocy przez dziesięć lat i ulega automatycznemu przedłużaniu na dalsze okresy dziesięcioletnie. Każda ze Stron może wypowiedzieć niniejszą umowę w drodze notyfikacji z sześciomiesięcznym wyprzedzeniem.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 12 czerwca tysiąc dziewięćset dziewięćdziesiątego siódmego roku w dwóch oryginalnych egzemplarzach, każdy w językach polskim i hiszpańskim, przy czym oba teksty mają jednakową moc."
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wypowiedzenie umowy nie wpłynie na dokończenie programów i projektów, rozpoczętych w okresie obowiązywania umowy, chyba że Strony postanowią inaczej.",
-   "children": []
+   "type": "text",
+   "text": "Z upoważnienia Rządu"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejsza umowa może być zmieniona w drodze pisemnego uzgodnienia między Stronami. Wspomniane zmiany wejdą w życie w dniu, w którym obie Strony powiadomią się wzajemnie, w drodze wymiany not dyplomatycznych, o spełnieniu warunków wymaganych przez swoje ustawodawstwo wewnętrzne.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł XX"
-    },
-    {
-     "type": "text",
-     "text": "Z dniem wejścia w życie niniejszej umowy traci moc Umowa o wymianie kulturalnej, naukowej i technicznej między Polską Rzecząpospolitą Ludową i Stanami Zjednoczonymi Meksyku, podpisana w Warszawie dnia 24 lipca 1970 r., w części dotyczącej wymiany edukacyjnej i kulturalnej."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 12 czerwca tysiąc dziewięćset dziewięćdziesiątego siódmego roku w dwóch oryginalnych egzemplarzach, każdy w językach polskim i hiszpańskim, przy czym oba teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu"
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Meksykańskich Stanów Rzeczypospolitej Zjednoczonych Polskiej"
-    },
-    {
-     "type": "text",
-     "text": "Javier Trevino Cantu R. Mroziewicz Podsekretarz do Spraw Podsekretarz Stanu Współpracy Międzynarodowej w Ministerstwie Spraw w Sekretariacie Stosunków Zagranicznych Zagranicznych"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 15 lipca 1997 r."
-    }
-   ]
+   "type": "text",
+   "text": "Z upoważnienia Rządu Meksykańskich Stanów Rzeczypospolitej Zjednoczonych Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Javier Trevino Cantu R. Mroziewicz Podsekretarz do Spraw Podsekretarz Stanu Współpracy Międzynarodowej w Ministerstwie Spraw w Sekretariacie Stosunków Zagranicznych Zagranicznych"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 15 lipca 1997 r."
   },
   {
    "type": "signature",

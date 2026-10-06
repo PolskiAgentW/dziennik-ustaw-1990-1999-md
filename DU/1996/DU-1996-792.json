@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/792",
  "title": "Rozporządzenie Rady Ministrów z dnia 23 grudnia 1996 r. w sprawie określenia przedsiębiorstw państwowych oraz jednoosobowych spółek Skarbu Państwa o szczególnym znaczeniu dla gospodarki państwa.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/792/text.pdf",
  "body": [
   {
@@ -594,160 +594,159 @@
      "children": []
     },
     {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
+     "type": "ust",
+     "num": "50",
+     "path": "ust_50",
      "text": "Przedsiębiorstwo Eksportu i Importu Kopex SA",
      "children": []
     },
     {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
+     "type": "ust",
+     "num": "51",
+     "path": "ust_51",
      "text": "Przedsiębiorstwo Górnictwa Naftowego i Gazownictwa SA w Warszawie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
      "text": "Przedsiębiorstwo Sprzętu Ochronnego Maskpol SA w Konieczkach",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "53",
+     "path": "ust_53",
      "text": "Przemysłowe Centrum Optyki SA w Warszawie",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "54",
+     "path": "ust_54",
      "text": "Rudzka Spółka Węglowa SA w Rudzie Sląskiej",
      "children": []
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "55",
+     "path": "ust_55",
      "text": "Rybnicka Spółka Węglowa SA w Rybniku",
      "children": []
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
      "text": "Rzeszowski Zakład Energetyczny SA",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "57",
+     "path": "ust_57",
      "text": "Siarkopol Gdańsk SA w Gdańsku",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "58",
+     "path": "ust_58",
      "text": "Stołeczny Zakład Energetyczny SA",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "59",
+     "path": "ust_59",
      "text": "Stomil Poznań SA w Poznaniu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "Tłocznia Metali Pressta SA w Bolechowie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "61",
+     "path": "ust_61",
+     "text": "Wytwórnia Sprzętu Komunikacyjnego PZŁ-Mielec SA w Mielcu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "62",
+     "path": "ust_62",
+     "text": "Wytwórnia Sprzętu Komunikacyjnego PZŁ-Rzeszów SA w Rzeszowie",
      "children": [
       {
-       "type": "ust",
-       "num": "60",
-       "path": "par_9/ust_60",
-       "text": "Tłocznia Metali Pressta SA w Bolechowie",
+       "type": "text",
+       "text": ". Wytwórnia Sprzętu Komunikacyjnego PZŁ-War- 63 szawa II SA w Warszawie . Zakład Energetyczny Białystok SA 64 . Zakład Energetyczny Bydgoszcz SA 65 . Zakład Energetyczny Częstochowa SA 66 . Zakład Energetyczny Gorzów SA 67 . Zakład Energetyczny Jelenia Góra SA 68 . Energetyka Kalisz SA 69 . Zakład Energetyczny Koszalin SA 70 . Zakład Energetyczny Kraków SA 71 . Zakład Energetyczny Legnica SA 72 . Zakład Energetyczny Lublin SA 73 . Zakład Energetyczny Łódź-Teren SA 74 . Zakład Energetyczny Olsztyn SA 75 . Zakład Energetyczny Opole SA 76 . Zakład Energetyczny Płock SA 77 . Zakład Energetyczny Słupsk SA 78 . Zakład Energetyczny Szczecin SA 79 . Zakład Energetyczny Tarnów SA 80 . Zakład Energetyczny Toruń SA 81 . Zakład Energetyczny Wałbrzych SA 82 . Zakład Energetyczny Warszawa Teren SA 83 . Zakład Energetyczny Wrociaw SA 84 . Zakład Energetyczny Zamość SA 85 . Zakłady Azotowe Kędzierzyn SA w Kędzierzynie- 86 -Koźlu . Zakłady Azotowe Puławy SA w Puławach 87 . Zakłady Azotowe w Tarnowie-Mościcach SA 88 w Tarnowie . Zakłady Chemiczne Nitro-Chem SA w Bydgoszczy 89 . Zakłady Elektroniczne Ware! SA w Warszawie 90 . Zakłady Energetyczne Okręgu Radomsko-Kielec- 91 kiego SA . Zakłady Mechaniczne Bumar-Łabędy SA w Gliwi- 92 cach . Zakłady Mechaniczne PZŁ-Wola SA w Warszawie 93 . Zakłady Mechaniczne Tarnów SA w Tarnowie 94 . Zakłady Metalowe Łucznik SA w Radomiu 95 . Zakłady Metalowe Męsko SA w Skarżysku-Ka- 96 miennej . Zakłady Radiowe Radmor SA w Gdyni 97 . Zakłady Sprzętu Precyzyjnego Niewiadów SA 98 . Zakłady Sprzętu Przeciwpożarowego Progaz SA 99 w Łodzi Zakłady Tworzyw Sztucznych Erg-Bieruń SA 100 ' w Tychach Zakłady Tworzyw Sztucznych Gamrat SA w Jaśle 101 102. Zakłady Tworzyw Sztucznych Nitron SA w Krup- ‘ skim Miynie aj Tworzyw Sztucznych Pronit SA w Pion- 103. ac Zespół Elektrowni Dolna Odra SA w Nowym Czar- 104. nowie k. Gryfina | Zespół Elektrowni Wodnych Dychów SA 105. Zespół Elektrowni Wodnych Porąbka Żar SA 106. Zielonogórskie Zakłady Energetyczne SA. 107."
+      },
+      {
+       "type": "text",
+       "text": "2)dla których ministrem właściwym, z którym ze względu na przedmiot działania spółki wymagane są uzgodnienia w sprawach statutów i składu rad nadzorczych spółek, jest Minister Transportu i Gospodarki Morskiej:"
+      },
+      {
+       "type": "text",
+       "text": "Morski Port Handlowy Gdynia SA w Gdyni 108. 109."
+      },
+      {
+       "type": "text",
+       "text": "Polska Zegluga Battycka SA w Kołobrzegu Polskie Linie Lotnicze LOT SA w Warszawie 110."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "111",
+     "path": "ust_111",
+     "text": "Przedsiębiorstwo Eksportu Budownictwa Komunikacyjnego Dromex SA Szczecińska Stocznia Remontowa Gryfia Szczecin SA 112: Zarząd Portu Gdańsk SA w Gdańsku 113. Zarząd Portu Szczecin-Świnoujście SA w Szczeci- 114. nie;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_111/pkt_3",
+       "text": "dla których ministrem właściwym, z którym ze względu na przedmiot działania spółki wymagane są uzgodnienia w sprawach statutów i składu rad nadzorczych spółek, jest Minister Łączności:",
        "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "115",
+     "path": "ust_115",
+     "text": "Polskie Radio SA w Warszawie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "116",
+     "path": "ust_116",
+     "text": "Telekomunikacja Polska SA w Warszawie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "117",
+     "path": "ust_117",
+     "text": "Telewizja Polska w Warszawie;",
+     "children": [
+      {
+       "type": "text",
+       "text": "4)dla których ministrem właściwym, z którym ze względu na przedmiot działania spółki wymagane są uzgodnienia w sprawach statutów i składu rad nadzorczych spółek, jest Minister Finansów:"
       },
       {
-       "type": "ust",
-       "num": "61",
-       "path": "par_9/ust_61",
-       "text": "Wytwórnia Sprzętu Komunikacyjnego PZŁ-Mielec SA w Mielcu",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "62",
-       "path": "par_9/ust_62",
-       "text": "Wytwórnia Sprzętu Komunikacyjnego PZŁ-Rzeszów SA w Rzeszowie",
-       "children": [
-        {
-         "type": "text",
-         "text": ". Wytwórnia Sprzętu Komunikacyjnego PZŁ-War- 63 szawa II SA w Warszawie . Zakład Energetyczny Białystok SA 64 . Zakład Energetyczny Bydgoszcz SA 65 . Zakład Energetyczny Częstochowa SA 66 . Zakład Energetyczny Gorzów SA 67 . Zakład Energetyczny Jelenia Góra SA 68 . Energetyka Kalisz SA 69 . Zakład Energetyczny Koszalin SA 70 . Zakład Energetyczny Kraków SA 71 . Zakład Energetyczny Legnica SA 72 . Zakład Energetyczny Lublin SA 73 . Zakład Energetyczny Łódź-Teren SA 74 . Zakład Energetyczny Olsztyn SA 75 . Zakład Energetyczny Opole SA 76 . Zakład Energetyczny Płock SA 77 . Zakład Energetyczny Słupsk SA 78 . Zakład Energetyczny Szczecin SA 79 . Zakład Energetyczny Tarnów SA 80 . Zakład Energetyczny Toruń SA 81 . Zakład Energetyczny Wałbrzych SA 82 . Zakład Energetyczny Warszawa Teren SA 83 . Zakład Energetyczny Wrociaw SA 84 . Zakład Energetyczny Zamość SA 85 . Zakłady Azotowe Kędzierzyn SA w Kędzierzynie- 86 -Koźlu . Zakłady Azotowe Puławy SA w Puławach 87 . Zakłady Azotowe w Tarnowie-Mościcach SA 88 w Tarnowie . Zakłady Chemiczne Nitro-Chem SA w Bydgoszczy 89 . Zakłady Elektroniczne Ware! SA w Warszawie 90 . Zakłady Energetyczne Okręgu Radomsko-Kielec- 91 kiego SA . Zakłady Mechaniczne Bumar-Łabędy SA w Gliwi- 92 cach . Zakłady Mechaniczne PZŁ-Wola SA w Warszawie 93 . Zakłady Mechaniczne Tarnów SA w Tarnowie 94 . Zakłady Metalowe Łucznik SA w Radomiu 95 . Zakłady Metalowe Męsko SA w Skarżysku-Ka- 96 miennej . Zakłady Radiowe Radmor SA w Gdyni 97 . Zakłady Sprzętu Precyzyjnego Niewiadów SA 98 . Zakłady Sprzętu Przeciwpożarowego Progaz SA 99 w Łodzi Zakłady Tworzyw Sztucznych Erg-Bieruń SA 100 ' w Tychach Zakłady Tworzyw Sztucznych Gamrat SA w Jaśle 101 102. Zakłady Tworzyw Sztucznych Nitron SA w Krup- ‘ skim Miynie aj Tworzyw Sztucznych Pronit SA w Pion- 103. ac Zespół Elektrowni Dolna Odra SA w Nowym Czar- 104. nowie k. Gryfina | Zespół Elektrowni Wodnych Dychów SA 105. Zespół Elektrowni Wodnych Porąbka Żar SA 106. Zielonogórskie Zakłady Energetyczne SA. 107."
-        },
-        {
-         "type": "text",
-         "text": "2)dla których ministrem właściwym, z którym ze względu na przedmiot działania spółki wymagane są uzgodnienia w sprawach statutów i składu rad nadzorczych spółek, jest Minister Transportu i Gospodarki Morskiej:"
-        },
-        {
-         "type": "text",
-         "text": "Morski Port Handlowy Gdynia SA w Gdyni 108. 109."
-        },
-        {
-         "type": "text",
-         "text": "Polska Zegluga Battycka SA w Kołobrzegu Polskie Linie Lotnicze LOT SA w Warszawie 110."
-        },
-        {
-         "type": "note",
-         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "111",
-       "path": "par_9/ust_111",
-       "text": "Przedsiębiorstwo Eksportu Budownictwa Komunikacyjnego Dromex SA Szczecińska Stocznia Remontowa Gryfia Szczecin SA 112: Zarząd Portu Gdańsk SA w Gdańsku 113. Zarząd Portu Szczecin-Świnoujście SA w Szczeci- 114. nie;",
-       "children": [
-        {
-         "type": "pkt",
-         "num": "3",
-         "path": "par_9/ust_111/pkt_3",
-         "text": "dla których ministrem właściwym, z którym ze względu na przedmiot działania spółki wymagane są uzgodnienia w sprawach statutów i składu rad nadzorczych spółek, jest Minister Łączności:",
-         "children": []
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "115",
-       "path": "par_9/ust_115",
-       "text": "Polskie Radio SA w Warszawie",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "116",
-       "path": "par_9/ust_116",
-       "text": "Telekomunikacja Polska SA w Warszawie",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "117",
-       "path": "par_9/ust_117",
-       "text": "Telewizja Polska w Warszawie;",
-       "children": [
-        {
-         "type": "text",
-         "text": "4)dla których ministrem właściwym, z którym ze względu na przedmiot działania spółki wymagane są uzgodnienia w sprawach statutów i składu rad nadzorczych spółek, jest Minister Finansów:"
-        },
-        {
-         "type": "text",
-         "text": "Bank Handlowy SA w Warszawie 118. Bank Zachodni SA we Wrocławiu 119. Mennica Państwowa SA w Warszawie 120. Polska Kasa Opieki SA w Warszawie 121. Polska Wytwórnia Papierów Wartościowych SA 122. w Warszawie Powszechny Bank Kredytowy SA w Warszawie 123. Powszechny Zakład Ubezpieczeń SA w Warsza- 124. wie."
-        }
-       ]
+       "type": "text",
+       "text": "Bank Handlowy SA w Warszawie 118. Bank Zachodni SA we Wrocławiu 119. Mennica Państwowa SA w Warszawie 120. Polska Kasa Opieki SA w Warszawie 121. Polska Wytwórnia Papierów Wartościowych SA 122. w Warszawie Powszechny Bank Kredytowy SA w Warszawie 123. Powszechny Zakład Ubezpieczeń SA w Warsza- 124. wie."
       }
      ]
     }

@@ -45,30 +45,34 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą kształtować swoje stosunki w duchu dobrego sąsiedztwa i przyjaźni. Dążą do ścisłej pokojowej i partnerskiej współpracy we wszystkich dziedzinach. Świadome odpowiedzialności europejskiej do- \" łożą starań, aby urzeczywistnić pragnienie obu Narodów osiągnięcia trwałego porozumienia i pojednania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony dążą do stworzenia Europy, \"w której przestrzegane są prawa człowieka i podstawowe wolności, a granice utracą dzielący charakter, również w wyniku przezwyciężenia różnic gospodarczych i społecznych.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Umawiające się Strony będą kształtować swoje stosunki w duchu dobrego sąsiedztwa i przyjaźni. Dążą do ścisłej pokojowej i partnerskiej współpracy we wszystkich dziedzinach. Świadome odpowiedzialności europejskiej do- \" łożą starań, aby urzeczywistnić pragnienie obu Narodów osiągnięcia trwałego porozumienia i pojednania.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony kierują się w kształtowaniu swych stosunków, a także w sprawach pokoju, bezpieczeństwa i współpracy w Europie i na świecie, przede wszystkim następującymi zasadami:"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Umawiające się Strony dążą do stworzenia Europy, \"w której przestrzegane są prawa człowieka i podstawowe wolności, a granice utracą dzielący charakter, również w wyniku przezwyciężenia różnic gospodarczych i społecznych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony kierują się w kształtowaniu swych stosunków, a także w sprawach pokoju, bezpieczeństwa i współpracy w Europie i na świecie, przede wszystkim następującymi zasadami:",
+   "children": [
     {
      "type": "text",
      "text": "Uberzeugt von der Notwendigkeit, die Trennung Europas endgiltig zu iiberwinden und eine gerechte und dauerhafte europdische Friedensordnung zu schaffen,"
@@ -164,1101 +168,1173 @@
     {
      "type": "text",
      "text": "— potwierdzają bezpośrednie obowiązywanie powszechnych norm prawa międzynarodowego w prawie krajowym i w stosunkach międzynarodowych oraz są zdecydowane sumiennie wypełniać swe zobowiązania umowne; będą we wszystkich. dziedzinach urzeczywistniać Akt końcowy KBWE, Paryską kartę dla nowej Europy oraz pozostałe dokumenty KBWE."
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Umawiające się Strony będą przeprowadzać regularne konsultacje w celu zapewnienia dalszego rozwoju i pogłębiania stosunków dwustronnych oraz uzgadniania ich stanowiska w sprawach międzynarodowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Konsultacje szefów Rządów będą się odbywać tak często, jak to będzie potrzebne, co najmniej jednak raz w roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Ministrowie Spraw Zagranicznych sprawują pieczę nad realizacją całości niniejszego traktatu. Będą oni odbywać konsultacje co najmniej raz w roku. Wyżsi urzędnicy obu Ministerstw Spraw Zagranicznych, zajmujący się sprawami politycznymi, gospodarczymi i kulturalnymi, będą odbywać regularne konsultacje co najmniej raz w roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_3/ust_4",
+     "text": "Ministrowie innych resortów, w tym Ministrowie Obrony, będą utrzymywać regularne kontakty. To samo dotyczy wyższych urzędników tych resortów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_3/ust_5",
+     "text": "Istniejące dotychczas wspólne komisje zintensyfikują w miarę możliwości swoje prace. W razie potrzeby, w wyniku wzajemnego uzgodnienia, będą tworzone nowe komisje mieszane.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Oberstes Ziel ihrer Politik ist es, den Frieden zu wahren und zu festigen und jede Art von Krieg zuverlassig zu verhindern."
+      },
+      {
+       "type": "text",
+       "text": "Sie handeln in Ubereinstimmung mit dem Vólkerrecht, insbesondere der Charta der Vereinten Nationen, sowie mit der SchluBakte von Helsinki vom 1. August 1975, der Charta von Paris fiir ein neues Europa vom 21. November 1990 sowie den Dokumenten der KSZE-Folgetreffen."
+      },
+      {
+       "type": "text",
+       "text": "Sie achten gegenseitig ihre souverdne Gleichheit, ihre territoriale Integritat, die Unantastbarkeit ihrer Grenzen, ihre politische Unabhangigkeit sowie den Grundsatz des Verbots der Drohung mit oder Anwendung von Gewalt."
+      },
+      {
+       "type": "text",
+       "text": "Sie bekraftigen das Recht aller Vólker und Staaten, ihr Schicksal frei und ohne duere Einmischung zu bestimmen und ihre politische, wirtschaftliche, soziale und kulturelle Entwicklung nach eigenen Wiinschen zu gestalten."
+      },
+      {
+       "type": "text",
+       "text": "Sie stellen den Menschen mit seiner Wiirde und mit seinen Rechten, die Sorge fiir das Uberleben der Menschheit und die Erhaltung der natiirlichen Umwelt in den Mittelpunkt ihrer Politik."
+      },
+      {
+       "type": "text",
+       "text": "Sie verurteilen klar und unmifverstandlich Totalitarismus,RassenhaB und HaB zwischen Volksgruppen, Antisemitismus, FremdenhaB und Diskriminierung irgendeines Menschen sowie die Verfolgung aus religiósen und ideologischen Griinden."
+      },
+      {
+       "type": "text",
+       "text": "Sie betrachten Minderheiten und gleichgestellte Gruppen als natirliche Briicken zwischen dem polnischen und dem deutschen Volk und sind zuversichtlich, da& diese Minderheiten und Gruppen einen wertvollen Beitrag zum Leben ihrer Gesellschaften leisten."
+      },
+      {
+       "type": "text",
+       "text": "Sie bekraftigen die unmittelbare Geltung der allgemeinen Regeln des Vólkerrechts im innerstaatlichen Recht und in den internationalen Beziehungen und sind entschlossen, ihre vertraglichen Verpflichtungen gewissenhaft zu erfiillen. Sie werden die SchluBakte von Helsinki, die Charta von Paris fiir ein neues Europa und die anderen KSZE-Dokumente in allen Bereichen verwirklichen."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 3"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden regelmaRige Konsultationen abhalten, um eine Weiterentwicklung und Vertiefung der bilateralen Beziehungen sicherzustellen und ihre Haltung zu internationalen Fragen abzustimmen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Konsultationen auf der Ebene der Regierungschefs finden so oft wie erforderlich, mindestens einmal jahrlich statt."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die AuRenminister tragen fiir die Durchfiihrung dieses Vertrags in seiner Gesamtheit Sorge. Sie werden mindestens einmal jahrlich zu Konsultationen zusammentreffen. Leitende Beamte der beiden AuRenministerien, denen politische, wirtschaftliche und kulturelle Angelegenheiten obliegen, treffen regelmaBig, mindestens einmal jahrlich, zu Konsultationen zusammen."
+      },
+      {
+       "type": "text",
+       "text": "(4) Die Minister anderer Ressorts, darunter die Verteidigungsminister, werden regelmaBig miteinander in Kontakt treten. Dąs gleiche gilt fiir die leitenden Beamten dieser Ressorts."
+      },
+      {
+       "type": "text",
+       "text": "(5) Die bereits bestehenden gemeinsamen Kommissionen werden ihre Arbeit nach Móglichkeit intensivieren. Neue gemischte Kommissionen werden bei Bedarf nach gegenseitiger Absprache gebildet."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą przeprowadzać regularne konsultacje w celu zapewnienia dalszego rozwoju i pogłębiania stosunków dwustronnych oraz uzgadniania ich stanowiska w sprawach międzynarodowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Konsultacje szefów Rządów będą się odbywać tak często, jak to będzie potrzebne, co najmniej jednak raz w roku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Ministrowie Spraw Zagranicznych sprawują pieczę nad realizacją całości niniejszego traktatu. Będą oni odbywać konsultacje co najmniej raz w roku. Wyżsi urzędnicy obu Ministerstw Spraw Zagranicznych, zajmujący się sprawami politycznymi, gospodarczymi i kulturalnymi, będą odbywać regularne konsultacje co najmniej raz w roku.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Ministrowie innych resortów, w tym Ministrowie Obrony, będą utrzymywać regularne kontakty. To samo dotyczy wyższych urzędników tych resortów.",
-   "children": []
+   "path": "art_4",
+   "text": "Umawiające się Strony popierają kontakty i wymianę doświadczeń między parlamentami w celu rozwoju stosunków dwustronnych oraz mając na względzie międzynarodową współpracę parlamentarną.",
+   "children": [],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Istniejące dotychczas wspólne komisje zintensyfikują w miarę możliwości swoje prace. W razie potrzeby, w wyniku wzajemnego uzgodnienia, będą tworzone nowe komisje mieszane.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Oberstes Ziel ihrer Politik ist es, den Frieden zu wahren und zu festigen und jede Art von Krieg zuverlassig zu verhindern."
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Umawiające się Strony potwierdzają, że będą się powstrzymywać od użycia siły lub grożby jej użycia przeciwko integralności terytorialnej lub politycznej niezawisłości drugiej Umawiającej się Strony lub w jakikolwiek inny sposób niezgodny z celami i zasadami Karty Narodów Zjednoczonych lub z Aktem końcowym KBWE.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sie handeln in Ubereinstimmung mit dem Vólkerrecht, insbesondere der Charta der Vereinten Nationen, sowie mit der SchluBakte von Helsinki vom 1. August 1975, der Charta von Paris fiir ein neues Europa vom 21. November 1990 sowie den Dokumenten der KSZE-Folgetreffen."
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Umawiające się Strony będą rozstrzygały swe spory wyłącznie przy pomocy środków pokojowych i nigdy nie użyją żadnych ze swych broni, chyba że dla indywidualnej albo zbiorowej samoobrony. Nigdy i w żadnych okolicznościach jako pierwsze nie skierują sił zbrojnych przeciwko sobie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sie achten gegenseitig ihre souverdne Gleichheit, ihre territoriale Integritat, die Unantastbarkeit ihrer Grenzen, ihre politische Unabhangigkeit sowie den Grundsatz des Verbots der Drohung mit oder Anwendung von Gewalt."
-    },
-    {
-     "type": "text",
-     "text": "Sie bekraftigen das Recht aller Vólker und Staaten, ihr Schicksal frei und ohne duere Einmischung zu bestimmen und ihre politische, wirtschaftliche, soziale und kulturelle Entwicklung nach eigenen Wiinschen zu gestalten."
-    },
-    {
-     "type": "text",
-     "text": "Sie stellen den Menschen mit seiner Wiirde und mit seinen Rechten, die Sorge fiir das Uberleben der Menschheit und die Erhaltung der natiirlichen Umwelt in den Mittelpunkt ihrer Politik."
-    },
-    {
-     "type": "text",
-     "text": "Sie verurteilen klar und unmifverstandlich Totalitarismus,RassenhaB und HaB zwischen Volksgruppen, Antisemitismus, FremdenhaB und Diskriminierung irgendeines Menschen sowie die Verfolgung aus religiósen und ideologischen Griinden."
-    },
-    {
-     "type": "text",
-     "text": "Sie betrachten Minderheiten und gleichgestellte Gruppen als natirliche Briicken zwischen dem polnischen und dem deutschen Volk und sind zuversichtlich, da& diese Minderheiten und Gruppen einen wertvollen Beitrag zum Leben ihrer Gesellschaften leisten."
-    },
-    {
-     "type": "text",
-     "text": "Sie bekraftigen die unmittelbare Geltung der allgemeinen Regeln des Vólkerrechts im innerstaatlichen Recht und in den internationalen Beziehungen und sind entschlossen, ihre vertraglichen Verpflichtungen gewissenhaft zu erfiillen. Sie werden die SchluBakte von Helsinki, die Charta von Paris fiir ein neues Europa und die anderen KSZE-Dokumente in allen Bereichen verwirklichen."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 3"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden regelmaRige Konsultationen abhalten, um eine Weiterentwicklung und Vertiefung der bilateralen Beziehungen sicherzustellen und ihre Haltung zu internationalen Fragen abzustimmen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Konsultationen auf der Ebene der Regierungschefs finden so oft wie erforderlich, mindestens einmal jahrlich statt."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die AuRenminister tragen fiir die Durchfiihrung dieses Vertrags in seiner Gesamtheit Sorge. Sie werden mindestens einmal jahrlich zu Konsultationen zusammentreffen. Leitende Beamte der beiden AuRenministerien, denen politische, wirtschaftliche und kulturelle Angelegenheiten obliegen, treffen regelmaBig, mindestens einmal jahrlich, zu Konsultationen zusammen."
-    },
-    {
-     "type": "text",
-     "text": "(4) Die Minister anderer Ressorts, darunter die Verteidigungsminister, werden regelmaBig miteinander in Kontakt treten. Dąs gleiche gilt fiir die leitenden Beamten dieser Ressorts."
-    },
-    {
-     "type": "text",
-     "text": "(5) Die bereits bestehenden gemeinsamen Kommissionen werden ihre Arbeit nach Móglichkeit intensivieren. Neue gemischte Kommissionen werden bei Bedarf nach gegenseitiger Absprache gebildet."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony popierają kontakty i wymianę doświadczeń między parlamentami w celu rozwoju stosunków dwustronnych oraz mając na względzie międzynarodową współpracę parlamentarną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Umawiające się Strony będą umacniać pokój przez tworzenie kooperacyjnych struktur bezpieczeństwa dla całej Europy. W związku z tym, realizując w pełni Akt końcowy KBWE, Paryską kartę dla nowej Europy oraz pozostałe dokumenty KBWE, będą popierać w miarę swych sił proces bezpieczeństwa i współpracy w Europie oraz nadal umacniać i rozwijać ten proces przy współudziale wszystkich państw uczestniczących w KBWE.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony potwierdzają, że będą się powstrzymywać od użycia siły lub grożby jej użycia przeciwko integralności terytorialnej lub politycznej niezawisłości drugiej Umawiającej się Strony lub w jakikolwiek inny sposób niezgodny z celami i zasadami Karty Narodów Zjednoczonych lub z Aktem końcowym KBWE.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą rozstrzygały swe spory wyłącznie przy pomocy środków pokojowych i nigdy nie użyją żadnych ze swych broni, chyba że dla indywidualnej albo zbiorowej samoobrony. Nigdy i w żadnych okolicznościach jako pierwsze nie skierują sił zbrojnych przeciwko sobie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą umacniać pokój przez tworzenie kooperacyjnych struktur bezpieczeństwa dla całej Europy. W związku z tym, realizując w pełni Akt końcowy KBWE, Paryską kartę dla nowej Europy oraz pozostałe dokumenty KBWE, będą popierać w miarę swych sił proces bezpieczeństwa i współpracy w Europie oraz nadal umacniać i rozwijać ten proces przy współudziale wszystkich państw uczestniczących w KBWE.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "W zmieniających się warunkach politycznych i militarnych w Europie wspólnym celem Umawiających się Stron jest działanie na rzecz umocnienia stabilności i zwiększenia bezpieczeństwa. Strony będą zwłaszcza współpracować, aby wykorzystać pojawiające się nowe możliwości podejmowania wspólnych wysiłków w dziedzinie bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Umawiające się Strony opowiadają się za tym, aby w drodze wiążących i dających się skutecznie kontrolować porozumień siły zbrojne i zbrojenia zostały zredukowane do możliwie najniższego poziomu, wystarczającego do obrony, lecz nie dającego możliwości ataku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Umawiające się Strony będą się angażować, również wspólnie, na rzecz wielostronnego i dwustronnego rozszerzania środków budowy zaufania i stabilizacji, a także innych politycznych środków kontroli zbrojeń, umacniających stabilność i zaufanie oraz prowadzących ku większej otwartości.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W zmieniających się warunkach politycznych i militarnych w Europie wspólnym celem Umawiających się Stron jest działanie na rzecz umocnienia stabilności i zwiększenia bezpieczeństwa. Strony będą zwłaszcza współpracować, aby wykorzystać pojawiające się nowe możliwości podejmowania wspólnych wysiłków w dziedzinie bezpieczeństwa.",
-   "children": []
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "W przypadku powstania sytuacji, która zdaniem jednej z Umawiających się Stron stanowi zagrożenie lub naruszenie pokoju albo może wywołać niebezpieczne międzynarodowe powikłania, Umawiające się Strony nawiążą ze sobą niezwłocznie kontakt oraz będą starały się uzgodnić swe stanowiska i osiągnąć porozumienie co do właściwych środków, aby poprawić lub opanować tę sytuację.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony opowiadają się za tym, aby w drodze wiążących i dających się skutecznie kontrolować porozumień siły zbrojne i zbrojenia zostały zredukowane do możliwie najniższego poziomu, wystarczającego do obrony, lecz nie dającego możliwości ataku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą się angażować, również wspólnie, na rzecz wielostronnego i dwustronnego rozszerzania środków budowy zaufania i stabilizacji, a także innych politycznych środków kontroli zbrojeń, umacniających stabilność i zaufanie oraz prowadzących ku większej otwartości.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Umawiające się Strony przywiązują najwyższe znaczenie do jedności europejskiej opartej na prawach człowie-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 4"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien unterstiitzen die Kontakte und den Erfahrungsaustausch zwischen den Parlamenten zur Fórderung der bilateralen Beziehungen und im Hinblick auf die internationale parlamentarische Zusammenarbeit."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 5"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien bekraftigen, daB sie sich der Drohung mit oder Anwendung von Gewalt enthalten werden, die gegen die territoriale Integritat oder die politische Unabhangigkeit der jeweils anderen Vertragspartei gerichtet oder auf irgendeine andere Art und Weise mit den Zielen und Prinzipien der Charta der Vereinten Nationen oder mit der SchluBakte von Helsinki unvereinbar ist."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden ihre Streitigkeiten ausschlieBlich mit friedlichen Mitteln lósen und keine ihrer Waffen jemals anwenden, es sei denn zur individuellen oder kollektiven Selbstverteidigung. Sie werden niemals und unter keinen Umstanden als erste Streitkrafte gegeneinander einsetzen."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien werden den Frieden durch den Aufbau kooperativer Strukturen der Sicherheit fiir ganz Europa festigen. Sie werden dementsprechend in voller Verwirklichung der SchluBakte von Helsinki, der Charta von Paris fiir ein neues Europa sowie der anderen KSZE-Dokumente den Proze& der Sicherheit und Zusammenarbeit in Europa nach Kraften unterstiitzen und unter Mitwirkung aller Teilnehmerstaaten der KSZE weiter starken und entwickeln."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 6"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien haben in einem sich wandelnden politischen und militarischen Umfeld in Europa das gemeinsame Ziel, auf eine Starkung der Stabilitat und Erhóhung der Sicherheit hinzuwirken. Sie werden insbesondere zusammenarbeiten, um die sich ergebenden neuen Móglichkeiten gemeinsamer Anstrengungen im Bereich der Sicherheit zu nutzen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien treten dafiir ein, daB Streitkrafte und Riistungen durch verbindliche und wirksam iiberpriifbare Vereinbarungen auf ein móglichst niedriges Niveau reduziert werden, das zur Verteidigung ausreicht, aber nicht zum Angriff befahigt."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien werden sich, auch gemeinsam, fiir den multilateralen und bilateralen Ausbau vertrauensbildender und stabilisierender sowie anderer riistungskontrol- Ipolitischer MaBnahmen einsetzen, die Stabilitit und Vertrauen starken und zu gróBerer Offenheit fiihren."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 7"
+      },
+      {
+       "type": "text",
+       "text": "Falls eine Situation entsteht, die nach Meinung einer Vertragspartei eine Bedrohung fiir den Frieden oder eine Verletzung des Friedens darstellt oder gefahrliche internationale Verwicklungen hervorrufen kann, so werden beide Vertragsparteien unverziiglich miteinander Verbindung aufnehmen und bemiiht sein, ihre Positionen abzustimmen und Einverstandnis iiber MaBnahmen zu erzielen, die geeignet sind, die Lage zu verbessern oder zu bewaltigen."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 8"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien messen dem Ziel der Europaischen Einheit auf der Grundlage der Menschenrechte,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ka, demokracji i idei państwa prawa oraz będą działać na rzecz osiągnięcia tej jedności."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "W przypadku powstania sytuacji, która zdaniem jednej z Umawiających się Stron stanowi zagrożenie lub naruszenie pokoju albo może wywołać niebezpieczne międzynarodowe powikłania, Umawiające się Strony nawiążą ze sobą niezwłocznie kontakt oraz będą starały się uzgodnić swe stanowiska i osiągnąć porozumienie co do właściwych środków, aby poprawić lub opanować tę sytuację."
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Wspólnoty Europejskie, ich państwa członkowskie oraz Rzeczpospolita Polska stwarzają przez zawarcie Umowy o stowarzyszeniu między Wspólnotami Europejskimi a Rzecząpospolitą Polską podstawę dla politycznego i gospodarczego przyłączania Rzeczypospolitej Polskiej do Wspólnoty Europejskiej. Republika Federalna Niemiec będzie wspierać to przyłączanie w miarę sił i możliwości.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Republika Federalna Niemiec odnosi się pozytywnie do perspektywy przystąpienia Rzeczypospolitej Polskiej do Wspólnoty Europejskiej, gdy tylko powstaną ku temu przesłanki.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony przywiązują najwyższe znaczenie do jedności europejskiej opartej na prawach człowie-",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artikel 4"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Umawiające się Strony będą działać na rzecz rozszerzania i wzbogacania wzajemnych stosunków gospodarczych we wszystkich dziedzinach. Stworzą, w ramach ustawodawstwa krajowego oraz ich zobowiązań wynikających z umów międzynarodowych, w tym zobowiązań Republiki Federalnej Niemiec wynikających z członkostwa we Wspólnocie Europejskiej, najdogodniejsze przesłanki, w szczególności gospodarcze, prawne i organizacyjne, dla działalności gospodarczej, w tym przemysłowej i usługowej, osób fizycznych oraz prawnych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Die Vertragsparteien unterstiitzen die Kontakte und den Erfahrungsaustausch zwischen den Parlamenten zur Fórderung der bilateralen Beziehungen und im Hinblick auf die internationale parlamentarische Zusammenarbeit."
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Umawiające się Strony są zgodne co do tego, iż zapoczątkowany w Rzeczypospolitej Polskiej proces przeobrażeń gospodarczych powinien zostać wsparty współpracą międzynarodową. Republika Federalna Niemiec jest gotowa działać na płaszczyźnie zarówno dwustronnej, jak i wielostronnej, na rzecz wspierania rozwoju gospodarczego Polski, w ramach w pełni rozwiniętej społecznej gospodarki rynkowej. Tym samym powinny również zostać stworzone warunki dla istotnego zmniejszenia różnic rozwojowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artikel 5"
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Umawiające się Strony będą w szczególności popierać rozwój współpracy inwestycyjnej i kapitałowej oraz kooperacji przemysłowej przedsiębiorstw polskich i niemieckich, wykorzystując w pełni wszystkie dostępne środki promocji. Szczególna uwaga będzie skierowana na współpracę małych i średnich przedsiębiorstw i zakładów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien bekraftigen, daB sie sich der Drohung mit oder Anwendung von Gewalt enthalten werden, die gegen die territoriale Integritat oder die politische Unabhangigkeit der jeweils anderen Vertragspartei gerichtet oder auf irgendeine andere Art und Weise mit den Zielen und Prinzipien der Charta der Vereinten Nationen oder mit der SchluBakte von Helsinki unvereinbar ist."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden ihre Streitigkeiten ausschlieBlich mit friedlichen Mitteln lósen und keine ihrer Waffen jemals anwenden, es sei denn zur individuellen oder kollektiven Selbstverteidigung. Sie werden niemals und unter keinen Umstanden als erste Streitkrafte gegeneinander einsetzen."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien werden den Frieden durch den Aufbau kooperativer Strukturen der Sicherheit fiir ganz Europa festigen. Sie werden dementsprechend in voller Verwirklichung der SchluBakte von Helsinki, der Charta von Paris fiir ein neues Europa sowie der anderen KSZE-Dokumente den Proze& der Sicherheit und Zusammenarbeit in Europa nach Kraften unterstiitzen und unter Mitwirkung aller Teilnehmerstaaten der KSZE weiter starken und entwickeln."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 6"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien haben in einem sich wandelnden politischen und militarischen Umfeld in Europa das gemeinsame Ziel, auf eine Starkung der Stabilitat und Erhóhung der Sicherheit hinzuwirken. Sie werden insbesondere zusammenarbeiten, um die sich ergebenden neuen Móglichkeiten gemeinsamer Anstrengungen im Bereich der Sicherheit zu nutzen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien treten dafiir ein, daB Streitkrafte und Riistungen durch verbindliche und wirksam iiberpriifbare Vereinbarungen auf ein móglichst niedriges Niveau reduziert werden, das zur Verteidigung ausreicht, aber nicht zum Angriff befahigt."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien werden sich, auch gemeinsam, fiir den multilateralen und bilateralen Ausbau vertrauensbildender und stabilisierender sowie anderer riistungskontrol- Ipolitischer MaBnahmen einsetzen, die Stabilitit und Vertrauen starken und zu gróBerer Offenheit fiihren."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 7"
-    },
-    {
-     "type": "text",
-     "text": "Falls eine Situation entsteht, die nach Meinung einer Vertragspartei eine Bedrohung fiir den Frieden oder eine Verletzung des Friedens darstellt oder gefahrliche internationale Verwicklungen hervorrufen kann, so werden beide Vertragsparteien unverziiglich miteinander Verbindung aufnehmen und bemiiht sein, ihre Positionen abzustimmen und Einverstandnis iiber MaBnahmen zu erzielen, die geeignet sind, die Lage zu verbessern oder zu bewaltigen."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 8"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien messen dem Ziel der Europaischen Einheit auf der Grundlage der Menschenrechte,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ka, demokracji i idei państwa prawa oraz będą działać na rzecz osiągnięcia tej jedności."
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Umawiające się Strony uważają, że współpraca w zakresie kształcenia i doskonalenia zawodowego kadr fachowych i kierowniczych w gospodarce ma duże znaczenie dla ukształtowania stosunków dwustronnych, oraz gotowe są znacznie ją rozbudować i pogłębić.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wspólnoty Europejskie, ich państwa członkowskie oraz Rzeczpospolita Polska stwarzają przez zawarcie Umowy o stowarzyszeniu między Wspólnotami Europejskimi a Rzecząpospolitą Polską podstawę dla politycznego i gospodarczego przyłączania Rzeczypospolitej Polskiej do Wspólnoty Europejskiej. Republika Federalna Niemiec będzie wspierać to przyłączanie w miarę sił i możliwości.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Republika Federalna Niemiec odnosi się pozytywnie do perspektywy przystąpienia Rzeczypospolitej Polskiej do Wspólnoty Europejskiej, gdy tylko powstaną ku temu przesłanki.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Umawiające się Strony doceniają znaczenie normalnych stosunków finansowych i kredytowych jako czynnika w procesie przeobrażeń gospodarczych w Rzeczypospolitej Polskiej oraz dla umocnienia i ożywienia całokształtu ich stosunków. Zgodnie z ich międzynarodowymi zobowiązaniami umownymi i normami prawa krajowego będą kontynuować wysiłki w celu stworzenia dogodnych przesłanek dla dalszego rozwoju ich współpracy finansowej. W tym kontekście świadome są znaczenia, jakie dla umocnienia ich stosunków gospodarczych mają eksportowe gwarancje kredytowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Demokratie und Rechtsstaatlichkeit hóchste Bedeutung bei und werden sich fiir die Erreichung dieser Einheit einsetzen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Mit dem AbschluB eines Assoziierungsabkommens zwischen den Europdischen Gemeinschaften und der Republik Polen legen die Europdischen Gemeinschaften, ihre Mitgliedstaaten und die Republik Polen die Grundlage fir eine politische und wirtschaftliche Heranfiihrung der Republik Polen an die Europadische Gemeinschaft. Die Heranfiihrung wird von der Bundesrepublik Deutschland im Rahmen ihrer Móglichkeiten nach Kraften gefórdert."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Bundesrepublik Deutschland steht positiv żur Perspektive eines Beitritts der Republik Poleń żur Europdischen Gemeinschaft, sobald die Voraussetzungen dafiir gegeben sind."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 9"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden sich fiir die Ausweitung und Diversifizierung ihrer wirtschaftlichen Beziehungen in allen Bereichen einsetzen. Sie werden im Rahmen ihrer innerstaatlichen Gesetzgebung und ihrer Verpflichtungen aus internationalen Vertragen, darunter den Verpflichtungen der Bundesrepublik Deutschland aus der Mitgliedschaft in der Europdischen Gemeinschaft, die giinstigsten Rahmenbedingungen, insbesondere auf wirtschaftlichem, rechtlichem und organisatorischem Gebiet, fiir natiirliche und juristische Personen fiir wirtschaftliche, darunter unternehmerische Tatigkeiten schaffen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien sind sich einig dariiber, daB der in der Republik Polen eingeleitete wirtschaftliche UmgestaltungsprozeB durch internationale Zusammenarbeit gefórdert werden soll. Die Bundesrepublik Deutschland ist bereit, sowohl bilateral wie auch multilateral auf die Unterstiitzung der wirtschaftlichen Entwicklung Polens im Rahmen einer voll entwickelten sozialen Marktwirtschaft hinzuwirken. Damit sollen auch die Bedingungen fir eine wesentliche Verringerung der Entwicklungsunterschiede geschaffen werden."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien werden insbesondere die Entwicklung der Zusammenarbeit in den Bereichen Investitionen und Kapitalanlagen sowie industrieller Kooperationen zwischen polnischen und deutschen Unternehmen unter voller Ausnutzung aller verfiigbaren Fórderungsinstrumente unterstiitzen. Dabei wird der Zusammenarbeit zwischen kleinen und mittleren Firmen und Betrieben besondere Aufmerksamkeit gelten."
+      },
+      {
+       "type": "text",
+       "text": "(4) Die Vertragsparteien messen der Zusammenarbeit in der Aus- und Weiterbildung von Fach- und Fiihrungskraften der Wirtschaft eine wichtige Bedeutung fiir die Ausgestaltung der bilateralen Beziehungen bei und sind bereit, sie wesentlich auszubauen und zu vertiefen."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 10"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien:erkennen die Bedeutung normaler Finanz- und Kreditbeziehungen als einen Faktor fir den ProzeB der wirtschaftlichen Umgestaltung in der Republik Polen sowie fiir die Festigung und Belebung ihrer Gesamtbeziehungen an. Sie werden im Rahmen ihrer Verpflichtungen aus internationalen Ubereinkiinften und im Rahmen ihrer innerstaatlichen Regeln ihre Anstrengungen fortsetzen, um giinstige Voraussetzungen fiir die weitere Entwicklung ihrer finanziellen Zusammenarbeit zu schaffen. In diesem Zusammenhang sind sie sich der Bedeutung bewuft, die den Exportkreditgewahrleistungen fiir die Starkung ihrer Wirtschaftsbeziehungen zukommt."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Umawiające się Strony, uwzględniając obopólne interesy oraz istniejącą współpracę każdej z nich z innymi państwami, potwierdzają gotowość współpracy w ramach Europejskiego Banku Odbudowy i Rozwoju oraz innych wielostronnych instytucji finansowych, w szczególności Międzynarodowego Funduszu Walutowego i Banku Światowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Umawiające się Strony uważają, że rozwiązanie problemu polskiego zadłużenia stanowi ważną przesłankę powodzenia reform gospodarczych, zapoczątkowanych w Rzeczypospolitej Polskiej. Stosownie do tego będą nadal współpracować w tej dziedzinie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą działać na rzecz rozszerzania i wzbogacania wzajemnych stosunków gospodarczych we wszystkich dziedzinach. Stworzą, w ramach ustawodawstwa krajowego oraz ich zobowiązań wynikających z umów międzynarodowych, w tym zobowiązań Republiki Federalnej Niemiec wynikających z członkostwa we Wspólnocie Europejskiej, najdogodniejsze przesłanki, w szczególności gospodarcze, prawne i organizacyjne, dla działalności gospodarczej, w tym przemysłowej i usługowej, osób fizycznych oraz prawnych.",
-   "children": []
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Umawiające się Strony są zgodne co do szczególnego znaczenia współpracy między nimi w wytwarzaniu produków rolnych, ich przetwórstwie, transporcie i przechowalnictwie, a także w tworzeniu i popieraniu nowoczesnych, wysokowydajnych gospodarstw rolnych, utrzymujących stosunki kooperacyjne z przemysłem spożywczym, przetwórczym oraz handlem.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony są zgodne co do tego, iż zapoczątkowany w Rzeczypospolitej Polskiej proces przeobrażeń gospodarczych powinien zostać wsparty współpracą międzynarodową. Republika Federalna Niemiec jest gotowa działać na płaszczyźnie zarówno dwustronnej, jak i wielostronnej, na rzecz wspierania rozwoju gospodarczego Polski, w ramach w pełni rozwiniętej społecznej gospodarki rynkowej. Tym samym powinny również zostać stworzone warunki dla istotnego zmniejszenia różnic rozwojowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą w szczególności popierać rozwój współpracy inwestycyjnej i kapitałowej oraz kooperacji przemysłowej przedsiębiorstw polskich i niemieckich, wykorzystując w pełni wszystkie dostępne środki promocji. Szczególna uwaga będzie skierowana na współpracę małych i średnich przedsiębiorstw i zakładów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony uważają, że współpraca w zakresie kształcenia i doskonalenia zawodowego kadr fachowych i kierowniczych w gospodarce ma duże znaczenie dla ukształtowania stosunków dwustronnych, oraz gotowe są znacznie ją rozbudować i pogłębić.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Umawiające się Strony przywiązują duże znaczenie do partnerskiej współpracy między regionami, miastami, gminami i innymi jednostkami terytorialnymi, w szczególności na obszarach przygranicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Umawiające się Strony będą ułatwiać i wspierać tę współpracę we wszystkich dziedzinach, w szczególności działalność komisji międzyrządowej do spraw współpracy regionalnej i przygranicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Umawiające się Strony kierują się we współpracy regionalnej i przygranicznej w szczególności odnośnymi konwencjami Rady Europy. Będą dążyć do włączenia tej współpracy do działalności odpowiednich gremiów europejskich.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony doceniają znaczenie normalnych stosunków finansowych i kredytowych jako czynnika w procesie przeobrażeń gospodarczych w Rzeczypospolitej Polskiej oraz dla umocnienia i ożywienia całokształtu ich stosunków. Zgodnie z ich międzynarodowymi zobowiązaniami umownymi i normami prawa krajowego będą kontynuować wysiłki w celu stworzenia dogodnych przesłanek dla dalszego rozwoju ich współpracy finansowej. W tym kontekście świadome są znaczenia, jakie dla umocnienia ich stosunków gospodarczych mają eksportowe gwarancje kredytowe.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Umawiające się Strony są zgodne co do tego, że w jednoczącej się Europie istnieje konieczność uzgadniania polityki poszczególnych państw w dziedzinie gospodarki przestrzennej, w szczególności między państwami bezpośrednio sąsiadującymi. Z tego też względu Umawiające się Strony będą realizować współpracę transgraniczną na wszystkich szczeblach w dziedzinie gospodarki przestrzennej i planowania przestrzennego.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Demokratie und Rechtsstaatlichkeit hóchste Bedeutung bei und werden sich fiir die Erreichung dieser Einheit einsetzen."
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Umawiające się Strony będą rozszerzać i pogłębiać wzajemne stosunki na podstawie zawartych przez nie umów w dziedzinie zabezpieczenia społecznego oraz współpracy w zakresie pracy i polityki socjalnej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(2) Mit dem AbschluB eines Assoziierungsabkommens zwischen den Europdischen Gemeinschaften und der Republik Polen legen die Europdischen Gemeinschaften, ihre Mitgliedstaaten und die Republik Polen die Grundlage fir eine politische und wirtschaftliche Heranfiihrung der Republik Polen an die Europadische Gemeinschaft. Die Heranfiihrung wird von der Bundesrepublik Deutschland im Rahmen ihrer Móglichkeiten nach Kraften gefórdert."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Bundesrepublik Deutschland steht positiv żur Perspektive eines Beitritts der Republik Poleń żur Europdischen Gemeinschaft, sobald die Voraussetzungen dafiir gegeben sind."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 9"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden sich fiir die Ausweitung und Diversifizierung ihrer wirtschaftlichen Beziehungen in allen Bereichen einsetzen. Sie werden im Rahmen ihrer innerstaatlichen Gesetzgebung und ihrer Verpflichtungen aus internationalen Vertragen, darunter den Verpflichtungen der Bundesrepublik Deutschland aus der Mitgliedschaft in der Europdischen Gemeinschaft, die giinstigsten Rahmenbedingungen, insbesondere auf wirtschaftlichem, rechtlichem und organisatorischem Gebiet, fiir natiirliche und juristische Personen fiir wirtschaftliche, darunter unternehmerische Tatigkeiten schaffen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien sind sich einig dariiber, daB der in der Republik Polen eingeleitete wirtschaftliche UmgestaltungsprozeB durch internationale Zusammenarbeit gefórdert werden soll. Die Bundesrepublik Deutschland ist bereit, sowohl bilateral wie auch multilateral auf die Unterstiitzung der wirtschaftlichen Entwicklung Polens im Rahmen einer voll entwickelten sozialen Marktwirtschaft hinzuwirken. Damit sollen auch die Bedingungen fir eine wesentliche Verringerung der Entwicklungsunterschiede geschaffen werden."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien werden insbesondere die Entwicklung der Zusammenarbeit in den Bereichen Investitionen und Kapitalanlagen sowie industrieller Kooperationen zwischen polnischen und deutschen Unternehmen unter voller Ausnutzung aller verfiigbaren Fórderungsinstrumente unterstiitzen. Dabei wird der Zusammenarbeit zwischen kleinen und mittleren Firmen und Betrieben besondere Aufmerksamkeit gelten."
-    },
-    {
-     "type": "text",
-     "text": "(4) Die Vertragsparteien messen der Zusammenarbeit in der Aus- und Weiterbildung von Fach- und Fiihrungskraften der Wirtschaft eine wichtige Bedeutung fiir die Ausgestaltung der bilateralen Beziehungen bei und sind bereit, sie wesentlich auszubauen und zu vertiefen."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 10"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien:erkennen die Bedeutung normaler Finanz- und Kreditbeziehungen als einen Faktor fir den ProzeB der wirtschaftlichen Umgestaltung in der Republik Polen sowie fiir die Festigung und Belebung ihrer Gesamtbeziehungen an. Sie werden im Rahmen ihrer Verpflichtungen aus internationalen Ubereinkiinften und im Rahmen ihrer innerstaatlichen Regeln ihre Anstrengungen fortsetzen, um giinstige Voraussetzungen fiir die weitere Entwicklung ihrer finanziellen Zusammenarbeit zu schaffen. In diesem Zusammenhang sind sie sich der Bedeutung bewuft, die den Exportkreditgewahrleistungen fiir die Starkung ihrer Wirtschaftsbeziehungen zukommt."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Republika Federalna Niemiec będzie udzielać poradnictwa i pomocy Rzeczypospolitej Polskiej w przekształcaniu systemu zabezpieczenia społecznego, aktywizacji zawodowej oraz w dziedzinie stosunków pracy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 14"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony, uwzględniając obopólne interesy oraz istniejącą współpracę każdej z nich z innymi państwami, potwierdzają gotowość współpracy w ramach Europejskiego Banku Odbudowy i Rozwoju oraz innych wielostronnych instytucji finansowych, w szczególności Międzynarodowego Funduszu Walutowego i Banku Światowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony uważają, że rozwiązanie problemu polskiego zadłużenia stanowi ważną przesłankę powodzenia reform gospodarczych, zapoczątkowanych w Rzeczypospolitej Polskiej. Stosownie do tego będą nadal współpracować w tej dziedzinie.",
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Umawiające się Strony będą rozwijać i ułatwiać współpracę naukową i techniczną między obydwoma Państ-",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien bestatigen ihre Bereitschaft, unter Beriicksichtigung der beiderseitigen Interessen und der beiderseits bestehenden Zusammenarbeit mit anderen Landern, im Rahmen der Europaischen Bank fir Wiederaufbau und Entwicklung sowie anderer multilateraler Finanzinstitutionen, insbesondere des Internationalen Wahrungsfonds und der Weltbank, zusammenzuarbeiten."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien sind der Auffassung, dak die Lósung des Problems der polnischen Verschuldung eine wichtige Voraussetzung fiir den Erfolg der in der Republik Polen eingeleiteten Wirtschaftsreformen ist. Dementsprechend werden sie in diesem Bereich weiter zusammenarbeiten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 11"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien sind sich einig Uber die besondere Bedeutung ihrer Zusammenarbeit bei der Produktion landwirtschaftlicher Erzeugnisse, bei deren Verarbeitung, Transport und Lagerung sowie der Schaffung und Fórderung moderner, hochleistungsfahiger landwirtschaftlicher Betriebe, die Kooperationsbeziehungen mit der Nahrungsmittelund Verarbeitungsindustrie sowie dem Handel unterhalten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 12"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien messen der partnerschaftlichen Zusammenarbeit zwischen Regionen, Stadten, Gemeinden und anderen Gebietskórperschaften, insbesondere im grenznahen Bereich, hohe Bedeutung bei."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden diese Zusammenarbeit, insbesondere die Tatigkeit der Regierungskommission fiir regionale und grenznahe Zusammenarbeit, auf allen Gebieten erleichtern und fórdern."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien lassen sich in der regionalen und grenznahen, Zusammenarbeit insbesondere von den entsprechenden Konventionen des Europarats leiten. Sie streben die Einbeziehung dieser Zusammenarbeit in die Tatigkeit der entsprechenden europdischen Gremien an."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 13"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien stimmen darin iiberein, daB in einem zusammenwachsenden Europa die Abstimmung der Raumordnungspolitik der einzelnen Staaten, insbesondere zwischen unmittelbaren Nachbarstaaten, notwendig ist. Sie werden deshalb in der Raumordnung und der raumlichen Planung auf allen Ebenen grenziiberschreitend zusammenarbeiten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 14"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden auf der Grundlage ihrer Ubereinkiinfte im Bereich der sozialen Sicherung und der arbeits- und sozialpolitischen Zusammenarbeit ihre Beziehungen ausbauen und vertiefen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Bundesrepublik Deutschland wird der Republik Polen bei der Umgestaltung der Systeme der sozialen Sicherung, der Arbeitsfórderung und der Arbeitsbeziehungen beratende Hilfestellung leisten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 15"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden die wissenschaftliche und technische Zusammenarbeit zwischen beiden Staaten"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "\" wami na zasadach równouprawnienia i wzajemnych korzyści, uwzględniając możliwości nowoczesnej nauki i techniki, dla dobra człowieka, w celach pokojowych i dla pomnażania dobrobytu."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony są zgodne co do szczególnego znaczenia współpracy między nimi w wytwarzaniu produków rolnych, ich przetwórstwie, transporcie i przechowalnictwie, a także w tworzeniu i popieraniu nowoczesnych, wysokowydajnych gospodarstw rolnych, utrzymujących stosunki kooperacyjne z przemysłem spożywczym, przetwórczym oraz handlem."
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Umawiające się Strony będą rozszerzać współpracę w tych dziedzinach na podstawie istniejących umów oraz wykorzystywać jej wyniki w drodze wspólnych przedsięwzięć.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Umawiające się Strony będą popierać inicjatywy naukowców i instytucji badawczych, zmierzające do dynamicznego, harmonijnego i wszechstronnego rozwoju tej współpracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_15/ust_4",
+     "text": "Umawiające się Strony będą popierać intensywną wymianę informacji i dokumentacji naukowo-technicznej, a także ułatwiać dostęp do instytutów naukowo-badawczych, archiwów, bibliotek i podobnych instytucji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony przywiązują duże znaczenie do partnerskiej współpracy między regionami, miastami, gminami i innymi jednostkami terytorialnymi, w szczególności na obszarach przygranicznych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą ułatwiać i wspierać tę współpracę we wszystkich dziedzinach, w szczególności działalność komisji międzyrządowej do spraw współpracy regionalnej i przygranicznej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony kierują się we współpracy regionalnej i przygranicznej w szczególności odnośnymi konwencjami Rady Europy. Będą dążyć do włączenia tej współpracy do działalności odpowiednich gremiów europejskich.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Umawiające się Strony przywiązują duże znaczenie do zapobiegania zagrożeniom środowiska i do utrzymania naturalnych podstaw życia również w interesie przyszłych pokoleń. Potwierdzają swe zdecydowanie kontynuowania współpracy w dziedzinie ochrony środowiska na podstawie istniejących umów, a także jej dalszego rozszerzania w drodze umownej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony są zgodne co do tego, że w jednoczącej się Europie istnieje konieczność uzgadniania polityki poszczególnych państw w dziedzinie gospodarki przestrzennej, w szczególności między państwami bezpośrednio sąsiadującymi. Z tego też względu Umawiające się Strony będą realizować współpracę transgraniczną na wszystkich szczeblach w dziedzinie gospodarki przestrzennej i planowania przestrzennego."
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Pierwszoplanowe znaczenie w tej współpracy należy nadać ustaleniu i likwidacji obciążeń środowiska na obszarach przygranicznych, w szczególności w dorzeczu Odry.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 14"
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Umawiające się Strony będą się ponadto angażować na rzecz rozwijania uzgodnionych strategii dotyczących regionalnej i międzynarodowej polityki ochrony środowiska w celu zapewnienia trwałego, sprzyjającego środowisku rozwoju w Europie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą rozszerzać i pogłębiać wzajemne stosunki na podstawie zawartych przez nie umów w dziedzinie zabezpieczenia społecznego oraz współpracy w zakresie pracy i polityki socjalnej.",
-   "children": []
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Umawiające się Strony będą współdziałać w celu wzajemnego świadczenia pomocy w razie klęsk i ciężkich wypadków.",
+   "children": [],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Republika Federalna Niemiec będzie udzielać poradnictwa i pomocy Rzeczypospolitej Polskiej w przekształcaniu systemu zabezpieczenia społecznego, aktywizacji zawodowej oraz w dziedzinie stosunków pracy.",
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Umawiające się Strony dążą do rozszerzenia połączeń transportowych w ruchu powietrznym, kolejowym, drogowym oraz w żegludze morskiej i śródlądowej, wykorzystując najnowocześniejsze technologie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_18/ust_2",
+     "text": "Umawiające się Strony dołożą starań, aby stworzyć dogodne warunki dla korzystania z ich szlaków komunikacyjnych w transporcie między ich terytoriami oraz w tranzycie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_18/ust_3",
+     "text": "Umawiające się Strony dążą do rozszerzenia, usprawnienia i zharmonizowania połączeń telekomunikacyjnych, uwzględniając stan rozwoju europejskich i międzynarodowych norm technicznych oraz technologii. Dotyczy to w szczególności połączeń telefonicznych, teleksowych i elektronicznego przekazywania danych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą rozwijać i ułatwiać współpracę naukową i techniczną między obydwoma Państ-",
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien bestatigen ihre Bereitschaft, unter Beriicksichtigung der beiderseitigen Interessen und der beiderseits bestehenden Zusammenarbeit mit anderen Landern, im Rahmen der Europaischen Bank fir Wiederaufbau und Entwicklung sowie anderer multilateraler Finanzinstitutionen, insbesondere des Internationalen Wahrungsfonds und der Weltbank, zusammenzuarbeiten."
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Umawiające się Strony podejmą wszelkie stosowne działania w celu popierania i ułatwiania ruchu osobowego i turystyki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "nach den Prinzipien der Gleichberechtigung und des gegenseitigen Nutzens unter Beriicksichtigung der Móglichkeiten moderner Wissenschaft und Technologie zum Wohl der Menschen, zu friedlichen Zwecken und zur Mehrung des Wohlstands entwickeln und erleichtern."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden auf der Grundlage bestehender Ubereinkiinfte die Zusammenarbeit auf diesen Gebieten erweitern und ihre Ergebnisse in gemeinsamen Vorhaben umsetzen."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien werden Initiativen von Wissenschaftlern und Forschungseinrichtungen unterstiitzen, die auf eine dynamische, harmonische und umfassende Entwicklung dieser Zusammenarbeit gerichtet sind."
+      },
+      {
+       "type": "text",
+       "text": "(4) Die Vertragsparteien werden den intensiven Austausch von Informationen und wissenschaftlich-technischer Dokumentation unterstitzen und den Zugang zu wissenschaftlichen Forschungsinstituten, Archiven, Bibliotheken und ahnlichen Einrichtungen erleichtern."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 16"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien messen der Abwehr drohender Gefahren fiir die Umwelt und der Erhaltung der natiirlichen Lebensgrundlagen auch im Interesse kiinftiger Generationen groBe Bedeutung bei. Sie bekraftigen ihre Entschlossenheit, die Zusammenarbeit auf dem Gebiet des Umweltschutzes auf der Grundlage bestehender Ubereinkiinfte fortzusetzen und auch vertraglich weiter auszubauen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Im Vordergrund der Zusammenarbeit soll die Erfassung und Beseitigung von Umweltbelastungen in der Grenzregion, insbesondere im Einzugsgebiet der Oder, stehen."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien werden sich dariiber hinaus fiir die Entwicklung abgestimmter Strategien fiir eine regionale und internationale Umweltpolitik einsetzen mit dem Ziel einer dauerhaften und umweltvertraglichen Entwicklung in Europa."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 17"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien werden zusammenwirken, um sich gegenseitig bei Katastrophen und schweren Ungliicksfallen Hilfe zu leisten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 18"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien streben eine Erweiterung der Transportverbindungen im Luft-, Eisenbahn- und Straenverkehr sowie in der See- und Binnenschiffahrt unter Nutzung modernster Technologien an."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien bemiihen sich, giinstige Rahmenbedingungen fiir die Nutzung ihrer Verkehrswege bei Befórderungen zwischen ihren Hoheitsgebieten und im Durchgangsverkehr zu schaffen."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vetragsparteien streben eine Erweiterung, Verbesserung und Harmonisierung der Kommunikationsverbindungen unter Beriicksichtigung der europaischen und internationalen Entwicklung in Normung und Technologie an. Das gilt insbesondere fiir Telefon-, Telex- und. Datenverbindungen."
+      },
+      {
+       "type": "text",
+       "text": "- Artikel 19"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden ałle geeigneten MaBnahmen treffen, um den Reise- und Fremdenverkehr zu fórdern und zu erleichtern. '"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "_ Dziennik Ustaw Nr 14 ="
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien sind der Auffassung, dak die Lósung des Problems der polnischen Verschuldung eine wichtige Voraussetzung fiir den Erfolg der in der Republik Polen eingeleiteten Wirtschaftsreformen ist. Dementsprechend werden sie in diesem Bereich weiter zusammenarbeiten."
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Umawiające się Strony dołożą starań dla usprawnienia i przyspieszenia, na zasadzie wzajemności, odpraw celnych i granicznych oraz dalszego rozwoju współpracy właściwych organów administracji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artikel 11"
-    },
-    {
-     "type": "text",
-     "text": "Die Vertragsparteien sind sich einig Uber die besondere Bedeutung ihrer Zusammenarbeit bei der Produktion landwirtschaftlicher Erzeugnisse, bei deren Verarbeitung, Transport und Lagerung sowie der Schaffung und Fórderung moderner, hochleistungsfahiger landwirtschaftlicher Betriebe, die Kooperationsbeziehungen mit der Nahrungsmittelund Verarbeitungsindustrie sowie dem Handel unterhalten."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 12"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien messen der partnerschaftlichen Zusammenarbeit zwischen Regionen, Stadten, Gemeinden und anderen Gebietskórperschaften, insbesondere im grenznahen Bereich, hohe Bedeutung bei."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden diese Zusammenarbeit, insbesondere die Tatigkeit der Regierungskommission fiir regionale und grenznahe Zusammenarbeit, auf allen Gebieten erleichtern und fórdern."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien lassen sich in der regionalen und grenznahen, Zusammenarbeit insbesondere von den entsprechenden Konventionen des Europarats leiten. Sie streben die Einbeziehung dieser Zusammenarbeit in die Tatigkeit der entsprechenden europdischen Gremien an."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 13"
-    },
-    {
-     "type": "text",
-     "text": "Die Vertragsparteien stimmen darin iiberein, daB in einem zusammenwachsenden Europa die Abstimmung der Raumordnungspolitik der einzelnen Staaten, insbesondere zwischen unmittelbaren Nachbarstaaten, notwendig ist. Sie werden deshalb in der Raumordnung und der raumlichen Planung auf allen Ebenen grenziiberschreitend zusammenarbeiten."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 14"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden auf der Grundlage ihrer Ubereinkiinfte im Bereich der sozialen Sicherung und der arbeits- und sozialpolitischen Zusammenarbeit ihre Beziehungen ausbauen und vertiefen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Bundesrepublik Deutschland wird der Republik Polen bei der Umgestaltung der Systeme der sozialen Sicherung, der Arbeitsfórderung und der Arbeitsbeziehungen beratende Hilfestellung leisten."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 15"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden die wissenschaftliche und technische Zusammenarbeit zwischen beiden Staaten"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "\" wami na zasadach równouprawnienia i wzajemnych korzyści, uwzględniając możliwości nowoczesnej nauki i techniki, dla dobra człowieka, w celach pokojowych i dla pomnażania dobrobytu."
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "Umawiające się Strony zamierzają, w zależności od nasilenia ruchu, rozbudować i zmodernizować istniejące oraz otwierać nowe potrzebne przejścia graniczne.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą rozszerzać współpracę w tych dziedzinach na podstawie istniejących umów oraz wykorzystywać jej wyniki w drodze wspólnych przedsięwzięć.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą popierać inicjatywy naukowców i instytucji badawczych, zmierzające do dynamicznego, harmonijnego i wszechstronnego rozwoju tej współpracy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony będą popierać intensywną wymianę informacji i dokumentacji naukowo-technicznej, a także ułatwiać dostęp do instytutów naukowo-badawczych, archiwów, bibliotek i podobnych instytucji.",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Członkowie mniejszości niemieckiej w Rzeczypospolitej Polskiej, to znaczy osoby posiadające polskie obywatelstwo, które są niemieckiego pochodzenia albo przyznają się do języka, kultury lub tradycji niemieckiej, a także osoby w Republice Federalnej Niemiec, posiadające niemieckie obywatelstwo, które są polskiego pochodzenia albo przyznają się do języka, kultury lub tradycji polskiej, mają prawo, indywidualnie lub wespół z innymi członkami swej grupy, do swobodnego wyrażania, zachowania i rozwijania swej tożsamości etnicznej, kulturalnej, językowej i religijnej bez jakiejkolwiek próby asymilacji wbrew ich woli. Mają oni prawo do pełnego i skutecznego korzystania z praw człowiekai podstawowych wolności bez jakiejkolwiek dyskryminacji i w warunkach pełnej równości wobec prawa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Umawiające się Strony realizują prawa i obowiązki zgodnie ze standardami międzynarodowymi dotyczącymi mniejszości, w szczególności zgodnie z Powszechną deklaracją praw człowieka Narodów Zjednoczonych z 10 grudnia 1948 r., Europejską konwencją o ochronie praw człowieka i podstawowych wolności z 4 listopada 1950 r., Konwencją o zwalczaniu wszelkich form dyskryminacji rasowej z 7 marca 1966 r., Międzynarodowym paktem praw obywatelskich i politycznych z 16 grudnia 1966 r., Aktem końcowym KBWE z 1 sierpnia 1975 r., Dokumentem kopenhaskiego spotkania w sprawie ludzkiego wymiaru KBWEz 29 czerwca 1990 r., jak również Paryską kartą dla nowej Europy z 21 listopada 1990 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Umawiające się Strony oświadczają, że osoby wymienione w ustępie 1 mają w szczególności prawo, indywidualnie lub wespół z innymi członkami swej grupy, do:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— swobodnego posługiwania się językiem ojczystym w życiu prywatnym i publicznie, dostępu do informacji w tym języku, jej rozpowszechniania i wymiany,"
+      },
+      {
+       "type": "text",
+       "text": "— zakładania i utrzymywania własnych instytucji, organizacji lub stowarzyszeń oświatowych, kulturalnych i religijnych, które mogą się ubiegać o dobrowolne wkłady finansowe i inne, jak również o pomoc publiczną, zgodnie z prawem krajowym, oraz które posiadają równoprawny dostęp do środków przekazu swojego regionu,"
+      },
+      {
+       "type": "text",
+       "text": "— wyznawania i praktykowania swej religii, w tym nabywania, posiadania i wykorzystywania materiałów religijnych oraz prowadzenia oświatowej działalności religijnej w języku ojczystym,"
+      },
+      {
+       "type": "text",
+       "text": "— ustanawiania i utrzymywania nie zakłóconych kontaktów między sobą w obrębie swego kraju, jak również kontaktów poprzez granice z obywatelami innych państw, z którymi łączą ich wspólne pochodzenie etniczne lub narodowe, dziedzictwo kulturalne lub przekonania religijne,"
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden sich bemihen, die Zollund Grenzabfertigung auf der Grundlage der Gegenseitigkeit zu verbessern und zu beschleunigen sowie die Zusammenarbeit der jeweiligen Verwaltungen weiter zu entwickeln."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien beabsichtigen, bestehende Grenziibergdnge entsprechend dem Verkehrsaufkommen auszubauen und zu modernisieren sowie neue erforderliche Grenziibergange einzurichten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 20"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Angehórigen der deutschen Minderheit in der Republik Polen, das heiBt Personen polnischer Staatsangehórigkeit, die deutscher Abstammung sind oder die sich zur deutschen Sprache, Kultur oder Tradition bekennen, sowie Personen deutscher Staatsangehórigkeit in der Bundesrepublik Deutschland, die polnischer Abstammung sind oder die sich zur polnischen Sprache, Kultur oder Tradition bekennen, haben das Recht, einzeln oder in Gemeinschaft mit anderen Mitgliedern ihrer Gruppe ihre ethnische, kulturelle, sprachliche und religióse Identitat frei zum Ausdruck zu bringen, zu bewahren und weiterzuentwickeln, frei von jeglichen Versuchen, gegen ihren Willen assimiliert zu werden. Sie haben das Recht, ihre Menschenrechte und Grundfreiheiten ohne jegliche Diskriminierung und in voller Gleichheit vor dem Gesetz voll und wirksam auszuiiben."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien verwirklichen die Rechte und Verpflichtungen des internationalen Standards fiir Minderheiten, insbesondere gemdB der Allgemeinen Erklarung der Menschenrechte der Vereinten Nationen vom 10. Dezember 1948, der Europdischen Konvention vom 4. November 1950 zum Schutz der Menschenrechte und Grundfreiheiten, des Internationalen Ubereinkommens vom 7. Marz 1966 zur Beseitigung jeder Form von Rassendiskriminierung, des Internationalen Pakts vom 16. Dezember 1966 iber biirgerliche und politische Rechte, der SchluBakte von Helsinki vom 1. August 1975, des Dokuments des Kopenhagener Treffens iiber die menschliche Dimension der KSZE vom 29. Juni 1990 sowie der Charta von Paris fiir ein neues Europa vom 21. November 1990."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien erkldren, da& die in Absatz 1 genannten Personen insbesondere das Recht haben, einzeln oder in Gemeinschaft mit anderen Mitgliedern ihrer Gruppe"
+      },
+      {
+       "type": "text",
+       "text": "— sich privat und in der Offentlichkeit ihrer Muttersprache frei zu bedienen, in ihr Informationen zu verbreiten und auszutauschen und dazu Zugang zu haben,"
+      },
+      {
+       "type": "text",
+       "text": "— ihre eigenen Bildungs-, Kultur- und Religionseinrichtungen, -organisationen oder -vereinigungen zu griinden und zu unterhalten, die um freiwillige Beitrage finanzieller oder anderer Art sowie óffentliche Unterstiitzung im Einklang mit den nationalen Rechtsvorschriften ersuchen kónnen und gleichberechtigten Zugang zu den Medien ihrer Region haben,"
+      },
+      {
+       "type": "text",
+       "text": "— sich zu ihrer Religion zu bekennen und diese auszuiiben, einschlieBlich des Erwerbs und Besitzes sowie der Verwendung religiósen Materials, und den Religionsunterricht in ihrer Muttersprache abzuhalten,"
+      },
+      {
+       "type": "text",
+       "text": "— untereinander ungehinderte Kontakte innerhalb des Landes sowie Kontakte liber Grenzen hinweg mit Biirgern anderer Staaten herzustellen und zu pflegen, mit denen sie eine gemeinsame ethnische oder nationale Herkunft, ein gemeinsames kulturelles Erbe oder religidses Bekenntnis teilen,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— używania swych imion i nazwisk w brzmieniu jezyka ojczystego,"
+      },
+      {
+       "type": "text",
+       "text": "— zakładania i utrzymywania organizacji lub stowarzyszeń w obrebie swojego kraju oraz uczestniczenia w międzynarodowych organizacjach pozarządowych,"
+      },
+      {
+       "type": "text",
+       "text": "— korzystania na równi z innymi ze skutecznych środków prawnych dla urzeczywistniania swoich praw, zgodnie z prawem krajowym."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_20/ust_4",
+     "text": "Umawiające się Strony potwierdzają, że przynależność do grup wymienionych w ustępie 1 jest sprawą indywidualnego wyboru osoby i że nie mogą z niego wynikać żadne niekorzystne następstwa.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 20"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony przywiązują duże znaczenie do zapobiegania zagrożeniom środowiska i do utrzymania naturalnych podstaw życia również w interesie przyszłych pokoleń. Potwierdzają swe zdecydowanie kontynuowania współpracy w dziedzinie ochrony środowiska na podstawie istniejących umów, a także jej dalszego rozszerzania w drodze umownej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pierwszoplanowe znaczenie w tej współpracy należy nadać ustaleniu i likwidacji obciążeń środowiska na obszarach przygranicznych, w szczególności w dorzeczu Odry.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą się ponadto angażować na rzecz rozwijania uzgodnionych strategii dotyczących regionalnej i międzynarodowej polityki ochrony środowiska w celu zapewnienia trwałego, sprzyjającego środowisku rozwoju w Europie.",
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 17"
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Umawiające się Strony będą na swych terytoriach chroniły tożsamość etniczną, kulturalną, językową i religijną grup wymienionych w artykule 20 ustęp 1 oraz tworzyły warunki do wspierania tej tożsamości. Doceniają szczególne znaczenie wzmożonej konstruktywnej współpracy w tej dziedzinie. Współpraca ta powinna umacniać pokojowe współżycie i dobre sąsiedztwo narodów polskiego i niemieckiego oraz przyczyniać się do porozumienia i pojednania między nimi.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony będą współdziałać w celu wzajemnego świadczenia pomocy w razie klęsk i ciężkich wypadków."
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Umawiające się Strony będą w szczególności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w ramach obowiązujących ustaw wzajemnie umożliwiać i ułatwiać podejmowanie działań na rzecz wspierania członków grup wymienionych w artykule 20 ustęp 1 lub ich organizacji,"
+      },
+      {
+       "type": "text",
+       "text": "— mimo konieczności uczenia się oficjalnego języka odnośnego Państwa, dążyć zgodnie z właściwymi przepisami prawa krajowego do zapewnienia członkom grup wymienionych w artykule 20 ustęp 1 odpowiednich możliwości nauczania ich języka ojczystego lub w ich języku ojczystym w publicznych placówkach oświatowych, jak również tam, gdzie to jest możliwe i konieczne, posługiwania się nim wobec władz publicznych,"
+      },
+      {
+       "type": "text",
+       "text": "— uwzględniać historię i kulturę grup wymienionych w artykule 20 ustęp 1 w związku z nauczaniem historii i kultury w placówkach oświatowych,"
+      },
+      {
+       "type": "text",
+       "text": "— szanować prawo członków grup wymienionych w artykule 20 ustęp 1 do skutecznego uczestnictwa w sprawach publicznych, łącznie z udziałem w sprawach dotyczących ochrony i wspierania ich tożsamości,"
+      },
+      {
+       "type": "text",
+       "text": "— podejmować niezbędne środki w tym celu po należytej konsultacji, zgodnie z procedurą podejmowania decyzji w danym Państwie, łącznie z kontaktami z organizacjami lub stowarzyszeniami grup wymienionych w artykule 20 ustęp 1."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 18"
+     "type": "ust",
+     "num": "3",
+     "path": "art_21/ust_3",
+     "text": "Umawiające się Strony będą stosować postanowienia artykułu 3 w odniesieniu do spraw określonych w niniejszym artykule oraz w artykułach 20 i 22.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 21"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony dążą do rozszerzenia połączeń transportowych w ruchu powietrznym, kolejowym, drogowym oraz w żegludze morskiej i śródlądowej, wykorzystując najnowocześniejsze technologie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony dołożą starań, aby stworzyć dogodne warunki dla korzystania z ich szlaków komunikacyjnych w transporcie między ich terytoriami oraz w tranzycie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony dążą do rozszerzenia, usprawnienia i zharmonizowania połączeń telekomunikacyjnych, uwzględniając stan rozwoju europejskich i międzynarodowych norm technicznych oraz technologii. Dotyczy to w szczególności połączeń telefonicznych, teleksowych i elektronicznego przekazywania danych.",
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 19"
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "Żadnego z zobowiązań wynikających z artykułów 20 i 21 nie można interpretować jako pociągającego za sobą",
+     "children": [
+      {
+       "type": "text",
+       "text": "— ihre Vor- und Familiennamen in der Form der Muttersprache zu fiihren,"
+      },
+      {
+       "type": "text",
+       "text": "— Organisationen oder Vereinigungen in ihrem Land einzurichten und zu unterhalten und in internationalen nichtstaatlichen Organisationen mitzuarbeiten,"
+      },
+      {
+       "type": "text",
+       "text": "— sich wie jedermann wirksamer Rechtsmittel zur Verwirklichung ihrer Rechte im Einklang mit den nationalen Rechtsvorschriften zu bedienen."
+      },
+      {
+       "type": "text",
+       "text": "(4) Die Vertragsparteien bekraftigen, da& die Zugehórigkeit zu den in Absatz 1 genannten Gruppen Angelegenheit der persónlichen Entscheidung eines Menschen ist, die fiir ihn keinen Nachteil mit sich bringen darf."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 21"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden die ethnische, kulturelle, sprachliche und religióse Identitat der in Artikel 20 Absatz 1 genannten Gruppen auf ihrem Hoheitsgebiet schiitzen und Bedingungen fir die Fórderung dieser Identitat schaffen. Sie erkennen die besondere Bedeutung einer verstarkten konstruktiven Zusammenarbeit in diesem Bereich an. Diese soll das friedliche Zusammenleben und die gute Nachbarschaft des polnischen und des deutschen Volkes verstarken und zur Verstandigung und Versóhnung zwischen ihnen beitragen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden insbesondere"
+      },
+      {
+       "type": "text",
+       "text": "— im Rahmen der geltenden Gesetze einander FórderungsmaBnahmen zugunsten der Angehórigen der in Artikel 20 Absatz 1 genannten Gruppen oder ihrer Organisationen ermóglichen und erleichtern,"
+      },
+      {
+       "type": "text",
+       "text": "— sich bemiihen, den Angehórigen der in Artikel 20 Absatz 1 genannten Gruppen, ungeachtet der Notwendigkeit, die offizielle Sprache des betreffenden Staates zu erlernen, in Einklang mit den anwendbaren nationalen Rechtsvorschriften entsprechende Móglichkeiten fiir den Unterricht ihrer Muttersprache oder in ihrer Muttersprache in óffentlichen Bildungseinrichtungen sowie, wo immer dies móglich und notwendig ist, fiir deren Gebrauch bei Behórden zu gewahrleisten, -"
+      },
+      {
+       "type": "text",
+       "text": "— im Zusammenhang mit dem Unterricht von Geschichte und Kultur in Bildungseinrichtungen die Geschichte und Kultur der in Artikel 20 Absatz 1 genannten Gruppen beriicksichtigen,"
+      },
+      {
+       "type": "text",
+       "text": "— das Recht der Angehórigen der in Artikel 20 Absatz 1 genannten Gruppen achten, wirksam an óffentlichen Angelegenheiten teilzunehmen, einschlieBlich der Mitwirkung in Angelegenheiten betreffend den Schutz und die Fórderung ihrer Identitat,"
+      },
+      {
+       "type": "text",
+       "text": "— diesbeziiglich die notwendigen MaBnahmen ergreifen, und zwar nach entsprechenden Konsultationen im Einklang mit den Entscheidungsverfahren des jeweiligen Staates, wobei diese Konsultationen Kontakte mit Organisationen oder Vereinigungen der in Artikel 20 Absatz 1 genannten Gruppen einschlieBen."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien werden im Hinblick auf die in diesem Artikel und in den Artikeln 20 und 22 angesprochenen Fragen die Bestimmungen von Artikel 3 anwenden."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 22"
+      },
+      {
+       "type": "text",
+       "text": "(1) Keine der Verpflichtungen aus den Artikeln 20 und 21 darf so ausgelegt werden, daB się dąs Recht begriindet,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "am"
+      },
+      {
+       "type": "text",
+       "text": "prawo do angażowania się w jakąkolwiek działalność lub prowadzenia jakichkolwiek działań wbrew celom i zasadom Karty Narodów Zjednoczonych, innym zobowiązaniom wynikającym z prawa międzynarodowego lub wbrew postanowieniom Aktu końcowego KBWE, łącznie z zasadą integralności terytorialnej państw."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Każda osoba należąca w Rzeczypospolitej Polskiej bądź w Republice Federalnej Niemiec do grup wymienionych w artykule 20 ustęp 1 jest odpowiednio do powyższych postanowień obowiązana, jak każdy obywatel, lojalnie postępować wobec odnośnego Państwa, kierując się obowiązkami wynikającymi z ustawodawstwa tego Państwa. ,",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 22"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony podejmą wszelkie stosowne działania w celu popierania i ułatwiania ruchu osobowego i turystyki.",
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "' 1. Umawiające się Strony będą, na podstawie istniejących między nimi umów i programów, intensyfikować i rozbudowywać wymianę kulturalną we wszystkich dziedzinach i na wszystkich szczeblach, wnosząc tym samym wkład do europejskiej tożsamości kulturowej. Będą w szczególności popierać współpracę między stowarzyszeniami twórców i artystów oraz instytucjami i organizacjami kulturalnymi, jak również bezpośrednie kontakty między polskimi i niemieckimi twórcami i artystami.",
    "children": [
     {
-     "type": "text",
-     "text": "nach den Prinzipien der Gleichberechtigung und des gegenseitigen Nutzens unter Beriicksichtigung der Móglichkeiten moderner Wissenschaft und Technologie zum Wohl der Menschen, zu friedlichen Zwecken und zur Mehrung des Wohlstands entwickeln und erleichtern."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden auf der Grundlage bestehender Ubereinkiinfte die Zusammenarbeit auf diesen Gebieten erweitern und ihre Ergebnisse in gemeinsamen Vorhaben umsetzen."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien werden Initiativen von Wissenschaftlern und Forschungseinrichtungen unterstiitzen, die auf eine dynamische, harmonische und umfassende Entwicklung dieser Zusammenarbeit gerichtet sind."
-    },
-    {
-     "type": "text",
-     "text": "(4) Die Vertragsparteien werden den intensiven Austausch von Informationen und wissenschaftlich-technischer Dokumentation unterstitzen und den Zugang zu wissenschaftlichen Forschungsinstituten, Archiven, Bibliotheken und ahnlichen Einrichtungen erleichtern."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 16"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien messen der Abwehr drohender Gefahren fiir die Umwelt und der Erhaltung der natiirlichen Lebensgrundlagen auch im Interesse kiinftiger Generationen groBe Bedeutung bei. Sie bekraftigen ihre Entschlossenheit, die Zusammenarbeit auf dem Gebiet des Umweltschutzes auf der Grundlage bestehender Ubereinkiinfte fortzusetzen und auch vertraglich weiter auszubauen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Im Vordergrund der Zusammenarbeit soll die Erfassung und Beseitigung von Umweltbelastungen in der Grenzregion, insbesondere im Einzugsgebiet der Oder, stehen."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien werden sich dariiber hinaus fiir die Entwicklung abgestimmter Strategien fiir eine regionale und internationale Umweltpolitik einsetzen mit dem Ziel einer dauerhaften und umweltvertraglichen Entwicklung in Europa."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 17"
-    },
-    {
-     "type": "text",
-     "text": "Die Vertragsparteien werden zusammenwirken, um sich gegenseitig bei Katastrophen und schweren Ungliicksfallen Hilfe zu leisten."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 18"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien streben eine Erweiterung der Transportverbindungen im Luft-, Eisenbahn- und Straenverkehr sowie in der See- und Binnenschiffahrt unter Nutzung modernster Technologien an."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien bemiihen sich, giinstige Rahmenbedingungen fiir die Nutzung ihrer Verkehrswege bei Befórderungen zwischen ihren Hoheitsgebieten und im Durchgangsverkehr zu schaffen."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vetragsparteien streben eine Erweiterung, Verbesserung und Harmonisierung der Kommunikationsverbindungen unter Beriicksichtigung der europaischen und internationalen Entwicklung in Normung und Technologie an. Das gilt insbesondere fiir Telefon-, Telex- und. Datenverbindungen."
-    },
-    {
-     "type": "text",
-     "text": "- Artikel 19"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden ałle geeigneten MaBnahmen treffen, um den Reise- und Fremdenverkehr zu fórdern und zu erleichtern. '"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "_ Dziennik Ustaw Nr 14 ="
+     "type": "ust",
+     "num": "2",
+     "path": "art_23/ust_2",
+     "text": "Istniejąca Komisja Mieszana będzie spotykać się co najmniej raz w roku, w celu zbadania stanu wymiany kulturalnej we wszystkich dziedzinach oraz dokonania uzgodnień co do dalszych przedsięwzięć. :",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 23"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony dołożą starań dla usprawnienia i przyspieszenia, na zasadzie wzajemności, odpraw celnych i granicznych oraz dalszego rozwoju współpracy właściwych organów administracji.",
-   "children": []
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Umawiające się Strony będą urzeczywistniać i w pełni wykorzystywać umowę o utworzeniu i działalności instytutów kultury.",
+   "children": [],
+   "label": "Artykuł 24"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony zamierzają, w zależności od nasilenia ruchu, rozbudować i zmodernizować istniejące oraz otwierać nowe potrzebne przejścia graniczne.",
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 20"
+     "type": "ust",
+     "num": "1",
+     "path": "art_25/ust_1",
+     "text": "Umawiające się Strony potwierdzają swą gotowość do umożliwienia wszystkim zainteresowanym osobom pełnego dostępu do języka i kultury drugiego kraju i będą popierać odpowiednie państwowe oraz prywatne inicjatywy i instytucje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_25/ust_2",
+     "text": "Umawiające się Strony będą w większej mierze popierać upowszechnianie literatury klasycznej i współczesnej drugiego kraju zarówno w języku oryginału, jak i w przekładzie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_25/ust_3",
+     "text": "Umawiające się Strony opowiadają się zdecydowanie za rozszerzeniem możliwości nauki języka drugiego kraju w szkołach, uczelniach i innych placówkach oświatowych. Będzie się przy tym również dążyć do zakładania szkół, w których nauczanie będzie się odbywać w obu językach. Dołożą one ponadto starań na rzecz rozszerzenia możliwości studiów polonistycznych i germanistycznych w uczelniach drugiego kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_25/ust_4",
+     "text": "Umawiające się Strony będą współpracować w delegowaniu nauczycieli, w kształceniu i doskonaleniu zawodowym pracowników dydaktycznych oraz w rozwijaniu i udostępnianiu pomocy naukowych, łącznie z wykorzystaniem telewizji, radia, techniki audiowizualnej i komputerowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_25/ust_5",
+     "text": "Prace niezależnej polsko-niemieckiej komisji do spraw podręczników szkolnych będą nadal popierane.",
+     "children": [
+      {
+       "type": "text",
+       "text": "eine Tatigkeit auszuliiben oder eine Handlung zu begehen, die in Widerspruch zu den Zielen und Prinzipien der Charta der Vereinten Nationen, anderen vólkerrechtlichen Verpflichtungen oder den Bestimmungen der SchluBakte von Helsinki einschlieBlich des Prinzips der territorialen Integritat der Staaten steht."
+      },
+      {
+       "type": "text",
+       "text": "(2) Jeder Angehórige der in Artikel 20 Absatz 1 genannten Gruppen in der Republik Polen beziehungsweise in der Bundesrepublik Deutschland ist nach MaBgabe vorstehender Bestimmungen gehalten, sich wie jeder Staatsbiirger loyal gegeniiber dem jeweiligen Staat zu verhalten, indem er sich nach den Verpflichtungen richtet, die sich aufgrund der Gesetze dieses Staates ergeben."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 23"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden auf der Grundlage der zwischen ihnen bestehenden Abkommen und Programme den Kulturaustausch in allen Bereichen und auf allen Ebenen intensivieren und ausbauen und damit zur europdischen kulturellen Identitat beitragen. Sie werden insbesondere die Zusammenarbeit zwischen Vereinigungen von Kiinstlern, kulturellen Institutionen und Organisationen unterstiitzen sowie die direkten Kontakte zwischen polnischen und deutschen Kiinstlern fórdern."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die bestehende Gemischte Kommission wird mindestens einmal jahrlich zusammentreten, um den Stand des Kulturaustauschs in allen Bereichen zu priifen und Vereinbarungen Uber die nachsten Vorhaben zu treffen."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 24"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien werden das Abkommen iiber die Errichtung und die Tatigkeit von Kulturinstituten mit Leben erfiillen und voll ausschópfen."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 25"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien bekraftigen ihre Bereitschaft, allen interessierten Personen umfassenden Zugang zur Sprache und Kultur des anderen Landes zu ermóglichen, und sie unterstitzen entsprechende staatliche und private Initiativen und Institutionen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden die Verbreitung von klassischer und zeitgenóssischer Literatur des anderen Landes in Originalsprache und Ubersetzung verstarkt fórdern."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien setzen sich nachdriicklich dafiir ein, die Móglichkeiten auszubauen, in Schulen, Hochschulen und anderen Bildungseinrichtungen die Sprache des anderen Landes zu erlernen. Dabei wird auch die Griindung von Schulen angestrebt, in denen in beiden Sprachen unterrichtet wird. Weiterhin werden sie sich bemiihen, die Móglichkeiten des Studiums der Polonistik und Germanistik an den Hochschulen des anderen Landes auszuweiten."
+      },
+      {
+       "type": "text",
+       "text": "(4) Die Vertragsparteien werden bei der Entsendung von Lehrern, der Aus- und Fortbildung von Lehrkraften sowie der Entwicklung und Bereitstellung von Lehrmaterial, einschliedlich des Einsatzes von Fernsehen, Hórfunk, Audio-, Video- und Computertechnik zusammenarbeiten."
+      },
+      {
+       "type": "text",
+       "text": "(5) Die Arbeit der unabhangigen polnisch-deutschen Schulbuchkommission wird weiterhin gefórdert."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 25"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Członkowie mniejszości niemieckiej w Rzeczypospolitej Polskiej, to znaczy osoby posiadające polskie obywatelstwo, które są niemieckiego pochodzenia albo przyznają się do języka, kultury lub tradycji niemieckiej, a także osoby w Republice Federalnej Niemiec, posiadające niemieckie obywatelstwo, które są polskiego pochodzenia albo przyznają się do języka, kultury lub tradycji polskiej, mają prawo, indywidualnie lub wespół z innymi członkami swej grupy, do swobodnego wyrażania, zachowania i rozwijania swej tożsamości etnicznej, kulturalnej, językowej i religijnej bez jakiejkolwiek próby asymilacji wbrew ich woli. Mają oni prawo do pełnego i skutecznego korzystania z praw człowiekai podstawowych wolności bez jakiejkolwiek dyskryminacji i w warunkach pełnej równości wobec prawa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony realizują prawa i obowiązki zgodnie ze standardami międzynarodowymi dotyczącymi mniejszości, w szczególności zgodnie z Powszechną deklaracją praw człowieka Narodów Zjednoczonych z 10 grudnia 1948 r., Europejską konwencją o ochronie praw człowieka i podstawowych wolności z 4 listopada 1950 r., Konwencją o zwalczaniu wszelkich form dyskryminacji rasowej z 7 marca 1966 r., Międzynarodowym paktem praw obywatelskich i politycznych z 16 grudnia 1966 r., Aktem końcowym KBWE z 1 sierpnia 1975 r., Dokumentem kopenhaskiego spotkania w sprawie ludzkiego wymiaru KBWEz 29 czerwca 1990 r., jak również Paryską kartą dla nowej Europy z 21 listopada 1990 r.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony oświadczają, że osoby wymienione w ustępie 1 mają w szczególności prawo, indywidualnie lub wespół z innymi członkami swej grupy, do:",
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "— swobodnego posługiwania się językiem ojczystym w życiu prywatnym i publicznie, dostępu do informacji w tym języku, jej rozpowszechniania i wymiany,"
+     "type": "ust",
+     "num": "1",
+     "path": "art_26/ust_1",
+     "text": "Umawiające się Strony podkreślają konieczność znacznego rozszerzenia współpracy w dziedzinie nauki i szkol-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 26"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vetragsparteien unterstreichen die Notwendigkeit einer erheblichen Erweiterung der wissenschaftlichen nictwa. Będą w szczególności wspierać i nadal rozszerzać bezpośrednią współpracę i wymianę między szkołami, uczelund schulischen Zusammenarbeit. Sie werden insbesondere die direkte Zusammenarbeit und den Austausch zwischen niami oraz naukowymi instytucjami badawczymi, zarówno"
+      },
+      {
+       "type": "text",
+       "text": "Schulen, Hochschulen und wissenschaftlichen Forschungpoprzez wymianę uczniów, studentów, nauczycieli, pracowseinrichtungen fórdern und weiter ausbauen, und zwar ników naukowych, jak i wspólne przedsięwzięcia. sowohl durch den Austausch von Schilern, Studenten, Lehrern und wissenschaftlichen Lehrkraften als auch durch gemeinsame Vorhaben."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "— zakładania i utrzymywania własnych instytucji, organizacji lub stowarzyszeń oświatowych, kulturalnych i religijnych, które mogą się ubiegać o dobrowolne wkłady finansowe i inne, jak również o pomoc publiczną, zgodnie z prawem krajowym, oraz które posiadają równoprawny dostęp do środków przekazu swojego regionu,"
-    },
-    {
-     "type": "text",
-     "text": "— wyznawania i praktykowania swej religii, w tym nabywania, posiadania i wykorzystywania materiałów religijnych oraz prowadzenia oświatowej działalności religijnej w języku ojczystym,"
-    },
-    {
-     "type": "text",
-     "text": "— ustanawiania i utrzymywania nie zakłóconych kontaktów między sobą w obrębie swego kraju, jak również kontaktów poprzez granice z obywatelami innych państw, z którymi łączą ich wspólne pochodzenie etniczne lub narodowe, dziedzictwo kulturalne lub przekonania religijne,"
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden sich bemihen, die Zollund Grenzabfertigung auf der Grundlage der Gegenseitigkeit zu verbessern und zu beschleunigen sowie die Zusammenarbeit der jeweiligen Verwaltungen weiter zu entwickeln."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien beabsichtigen, bestehende Grenziibergdnge entsprechend dem Verkehrsaufkommen auszubauen und zu modernisieren sowie neue erforderliche Grenziibergange einzurichten."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 20"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Angehórigen der deutschen Minderheit in der Republik Polen, das heiBt Personen polnischer Staatsangehórigkeit, die deutscher Abstammung sind oder die sich zur deutschen Sprache, Kultur oder Tradition bekennen, sowie Personen deutscher Staatsangehórigkeit in der Bundesrepublik Deutschland, die polnischer Abstammung sind oder die sich zur polnischen Sprache, Kultur oder Tradition bekennen, haben das Recht, einzeln oder in Gemeinschaft mit anderen Mitgliedern ihrer Gruppe ihre ethnische, kulturelle, sprachliche und religióse Identitat frei zum Ausdruck zu bringen, zu bewahren und weiterzuentwickeln, frei von jeglichen Versuchen, gegen ihren Willen assimiliert zu werden. Sie haben das Recht, ihre Menschenrechte und Grundfreiheiten ohne jegliche Diskriminierung und in voller Gleichheit vor dem Gesetz voll und wirksam auszuiiben."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien verwirklichen die Rechte und Verpflichtungen des internationalen Standards fiir Minderheiten, insbesondere gemdB der Allgemeinen Erklarung der Menschenrechte der Vereinten Nationen vom 10. Dezember 1948, der Europdischen Konvention vom 4. November 1950 zum Schutz der Menschenrechte und Grundfreiheiten, des Internationalen Ubereinkommens vom 7. Marz 1966 zur Beseitigung jeder Form von Rassendiskriminierung, des Internationalen Pakts vom 16. Dezember 1966 iber biirgerliche und politische Rechte, der SchluBakte von Helsinki vom 1. August 1975, des Dokuments des Kopenhagener Treffens iiber die menschliche Dimension der KSZE vom 29. Juni 1990 sowie der Charta von Paris fiir ein neues Europa vom 21. November 1990."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien erkldren, da& die in Absatz 1 genannten Personen insbesondere das Recht haben, einzeln oder in Gemeinschaft mit anderen Mitgliedern ihrer Gruppe"
-    },
-    {
-     "type": "text",
-     "text": "— sich privat und in der Offentlichkeit ihrer Muttersprache frei zu bedienen, in ihr Informationen zu verbreiten und auszutauschen und dazu Zugang zu haben,"
-    },
-    {
-     "type": "text",
-     "text": "— ihre eigenen Bildungs-, Kultur- und Religionseinrichtungen, -organisationen oder -vereinigungen zu griinden und zu unterhalten, die um freiwillige Beitrage finanzieller oder anderer Art sowie óffentliche Unterstiitzung im Einklang mit den nationalen Rechtsvorschriften ersuchen kónnen und gleichberechtigten Zugang zu den Medien ihrer Region haben,"
-    },
-    {
-     "type": "text",
-     "text": "— sich zu ihrer Religion zu bekennen und diese auszuiiben, einschlieBlich des Erwerbs und Besitzes sowie der Verwendung religiósen Materials, und den Religionsunterricht in ihrer Muttersprache abzuhalten,"
-    },
-    {
-     "type": "text",
-     "text": "— untereinander ungehinderte Kontakte innerhalb des Landes sowie Kontakte liber Grenzen hinweg mit Biirgern anderer Staaten herzustellen und zu pflegen, mit denen sie eine gemeinsame ethnische oder nationale Herkunft, ein gemeinsames kulturelles Erbe oder religidses Bekenntnis teilen,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— używania swych imion i nazwisk w brzmieniu jezyka ojczystego,"
-    },
-    {
-     "type": "text",
-     "text": "— zakładania i utrzymywania organizacji lub stowarzyszeń w obrebie swojego kraju oraz uczestniczenia w międzynarodowych organizacjach pozarządowych,"
-    },
-    {
-     "type": "text",
-     "text": "— korzystania na równi z innymi ze skutecznych środków prawnych dla urzeczywistniania swoich praw, zgodnie z prawem krajowym."
+     "type": "ust",
+     "num": "2",
+     "path": "art_26/ust_2",
+     "text": "Umawiające się Strony potwierdzają zamiar zbadania możliwości wzajemnego uznawania okresów studiów",
+     "children": [
+      {
+       "type": "text",
+       "text": "' (2) Die Vertragsparteien bekraftigen ihre Absicht, die Moglichkeiten gegenseitiger Anerkennung von Studienzeiten und Hochschulabschliissen zu priifen. i dyplomów uczelni."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 26"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony potwierdzają, że przynależność do grup wymienionych w ustępie 1 jest sprawą indywidualnego wyboru osoby i że nie mogą z niego wynikać żadne niekorzystne następstwa.",
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Umawiające się Strony przywiązują dużą wagę do współpracy w zakresie kształcenia zawodowego; będą ją znacznie rozszerzać i pogłębiać, zawierając odpowiednie",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą na swych terytoriach chroniły tożsamość etniczną, kulturalną, językową i religijną grup wymienionych w artykule 20 ustęp 1 oraz tworzyły warunki do wspierania tej tożsamości. Doceniają szczególne znaczenie wzmożonej konstruktywnej współpracy w tej dziedzinie. Współpraca ta powinna umacniać pokojowe współżycie i dobre sąsiedztwo narodów polskiego i niemieckiego oraz przyczyniać się do porozumienia i pojednania między nimi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą w szczególności:",
-   "children": [
-    {
-     "type": "text",
-     "text": "— w ramach obowiązujących ustaw wzajemnie umożliwiać i ułatwiać podejmowanie działań na rzecz wspierania członków grup wymienionych w artykule 20 ustęp 1 lub ich organizacji,"
-    },
-    {
-     "type": "text",
-     "text": "— mimo konieczności uczenia się oficjalnego języka odnośnego Państwa, dążyć zgodnie z właściwymi przepisami prawa krajowego do zapewnienia członkom grup wymienionych w artykule 20 ustęp 1 odpowiednich możliwości nauczania ich języka ojczystego lub w ich języku ojczystym w publicznych placówkach oświatowych, jak również tam, gdzie to jest możliwe i konieczne, posługiwania się nim wobec władz publicznych,"
-    },
-    {
-     "type": "text",
-     "text": "— uwzględniać historię i kulturę grup wymienionych w artykule 20 ustęp 1 w związku z nauczaniem historii i kultury w placówkach oświatowych,"
-    },
-    {
-     "type": "text",
-     "text": "— szanować prawo członków grup wymienionych w artykule 20 ustęp 1 do skutecznego uczestnictwa w sprawach publicznych, łącznie z udziałem w sprawach dotyczących ochrony i wspierania ich tożsamości,"
-    },
-    {
-     "type": "text",
-     "text": "— podejmować niezbędne środki w tym celu po należytej konsultacji, zgodnie z procedurą podejmowania decyzji w danym Państwie, łącznie z kontaktami z organizacjami lub stowarzyszeniami grup wymienionych w artykule 20 ustęp 1."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą stosować postanowienia artykułu 3 w odniesieniu do spraw określonych w niniejszym artykule oraz w artykułach 20 i 22.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 22"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Żadnego z zobowiązań wynikających z artykułów 20 i 21 nie można interpretować jako pociągającego za sobą",
-   "children": [
-    {
-     "type": "text",
-     "text": "— ihre Vor- und Familiennamen in der Form der Muttersprache zu fiihren,"
-    },
-    {
-     "type": "text",
-     "text": "— Organisationen oder Vereinigungen in ihrem Land einzurichten und zu unterhalten und in internationalen nichtstaatlichen Organisationen mitzuarbeiten,"
-    },
-    {
-     "type": "text",
-     "text": "— sich wie jedermann wirksamer Rechtsmittel zur Verwirklichung ihrer Rechte im Einklang mit den nationalen Rechtsvorschriften zu bedienen."
-    },
-    {
-     "type": "text",
-     "text": "(4) Die Vertragsparteien bekraftigen, da& die Zugehórigkeit zu den in Absatz 1 genannten Gruppen Angelegenheit der persónlichen Entscheidung eines Menschen ist, die fiir ihn keinen Nachteil mit sich bringen darf."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 21"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden die ethnische, kulturelle, sprachliche und religióse Identitat der in Artikel 20 Absatz 1 genannten Gruppen auf ihrem Hoheitsgebiet schiitzen und Bedingungen fir die Fórderung dieser Identitat schaffen. Sie erkennen die besondere Bedeutung einer verstarkten konstruktiven Zusammenarbeit in diesem Bereich an. Diese soll das friedliche Zusammenleben und die gute Nachbarschaft des polnischen und des deutschen Volkes verstarken und zur Verstandigung und Versóhnung zwischen ihnen beitragen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden insbesondere"
-    },
-    {
-     "type": "text",
-     "text": "— im Rahmen der geltenden Gesetze einander FórderungsmaBnahmen zugunsten der Angehórigen der in Artikel 20 Absatz 1 genannten Gruppen oder ihrer Organisationen ermóglichen und erleichtern,"
-    },
-    {
-     "type": "text",
-     "text": "— sich bemiihen, den Angehórigen der in Artikel 20 Absatz 1 genannten Gruppen, ungeachtet der Notwendigkeit, die offizielle Sprache des betreffenden Staates zu erlernen, in Einklang mit den anwendbaren nationalen Rechtsvorschriften entsprechende Móglichkeiten fiir den Unterricht ihrer Muttersprache oder in ihrer Muttersprache in óffentlichen Bildungseinrichtungen sowie, wo immer dies móglich und notwendig ist, fiir deren Gebrauch bei Behórden zu gewahrleisten, -"
-    },
-    {
-     "type": "text",
-     "text": "— im Zusammenhang mit dem Unterricht von Geschichte und Kultur in Bildungseinrichtungen die Geschichte und Kultur der in Artikel 20 Absatz 1 genannten Gruppen beriicksichtigen,"
-    },
-    {
-     "type": "text",
-     "text": "— das Recht der Angehórigen der in Artikel 20 Absatz 1 genannten Gruppen achten, wirksam an óffentlichen Angelegenheiten teilzunehmen, einschlieBlich der Mitwirkung in Angelegenheiten betreffend den Schutz und die Fórderung ihrer Identitat,"
-    },
-    {
-     "type": "text",
-     "text": "— diesbeziiglich die notwendigen MaBnahmen ergreifen, und zwar nach entsprechenden Konsultationen im Einklang mit den Entscheidungsverfahren des jeweiligen Staates, wobei diese Konsultationen Kontakte mit Organisationen oder Vereinigungen der in Artikel 20 Absatz 1 genannten Gruppen einschlieBen."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien werden im Hinblick auf die in diesem Artikel und in den Artikeln 20 und 22 angesprochenen Fragen die Bestimmungen von Artikel 3 anwenden."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 22"
-    },
-    {
-     "type": "text",
-     "text": "(1) Keine der Verpflichtungen aus den Artikeln 20 und 21 darf so ausgelegt werden, daB się dąs Recht begriindet,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "am"
-    },
-    {
-     "type": "text",
-     "text": "prawo do angażowania się w jakąkolwiek działalność lub prowadzenia jakichkolwiek działań wbrew celom i zasadom Karty Narodów Zjednoczonych, innym zobowiązaniom wynikającym z prawa międzynarodowego lub wbrew postanowieniom Aktu końcowego KBWE, łącznie z zasadą integralności terytorialnej państw."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda osoba należąca w Rzeczypospolitej Polskiej bądź w Republice Federalnej Niemiec do grup wymienionych w artykule 20 ustęp 1 jest odpowiednio do powyższych postanowień obowiązana, jak każdy obywatel, lojalnie postępować wobec odnośnego Państwa, kierując się obowiązkami wynikającymi z ustawodawstwa tego Państwa. ,",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "' 1. Umawiające się Strony będą, na podstawie istniejących między nimi umów i programów, intensyfikować i rozbudowywać wymianę kulturalną we wszystkich dziedzinach i na wszystkich szczeblach, wnosząc tym samym wkład do europejskiej tożsamości kulturowej. Będą w szczególności popierać współpracę między stowarzyszeniami twórców i artystów oraz instytucjami i organizacjami kulturalnymi, jak również bezpośrednie kontakty między polskimi i niemieckimi twórcami i artystami."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Istniejąca Komisja Mieszana będzie spotykać się co najmniej raz w roku, w celu zbadania stanu wymiany kulturalnej we wszystkich dziedzinach oraz dokonania uzgodnień co do dalszych przedsięwzięć. :",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 24"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą urzeczywistniać i w pełni wykorzystywać umowę o utworzeniu i działalności instytutów kultury."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 25"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony potwierdzają swą gotowość do umożliwienia wszystkim zainteresowanym osobom pełnego dostępu do języka i kultury drugiego kraju i będą popierać odpowiednie państwowe oraz prywatne inicjatywy i instytucje.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą w większej mierze popierać upowszechnianie literatury klasycznej i współczesnej drugiego kraju zarówno w języku oryginału, jak i w przekładzie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony opowiadają się zdecydowanie za rozszerzeniem możliwości nauki języka drugiego kraju w szkołach, uczelniach i innych placówkach oświatowych. Będzie się przy tym również dążyć do zakładania szkół, w których nauczanie będzie się odbywać w obu językach. Dołożą one ponadto starań na rzecz rozszerzenia możliwości studiów polonistycznych i germanistycznych w uczelniach drugiego kraju.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiające się Strony będą współpracować w delegowaniu nauczycieli, w kształceniu i doskonaleniu zawodowym pracowników dydaktycznych oraz w rozwijaniu i udostępnianiu pomocy naukowych, łącznie z wykorzystaniem telewizji, radia, techniki audiowizualnej i komputerowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Prace niezależnej polsko-niemieckiej komisji do spraw podręczników szkolnych będą nadal popierane.",
-   "children": [
-    {
-     "type": "text",
-     "text": "eine Tatigkeit auszuliiben oder eine Handlung zu begehen, die in Widerspruch zu den Zielen und Prinzipien der Charta der Vereinten Nationen, anderen vólkerrechtlichen Verpflichtungen oder den Bestimmungen der SchluBakte von Helsinki einschlieBlich des Prinzips der territorialen Integritat der Staaten steht."
-    },
-    {
-     "type": "text",
-     "text": "(2) Jeder Angehórige der in Artikel 20 Absatz 1 genannten Gruppen in der Republik Polen beziehungsweise in der Bundesrepublik Deutschland ist nach MaBgabe vorstehender Bestimmungen gehalten, sich wie jeder Staatsbiirger loyal gegeniiber dem jeweiligen Staat zu verhalten, indem er sich nach den Verpflichtungen richtet, die sich aufgrund der Gesetze dieses Staates ergeben."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 23"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden auf der Grundlage der zwischen ihnen bestehenden Abkommen und Programme den Kulturaustausch in allen Bereichen und auf allen Ebenen intensivieren und ausbauen und damit zur europdischen kulturellen Identitat beitragen. Sie werden insbesondere die Zusammenarbeit zwischen Vereinigungen von Kiinstlern, kulturellen Institutionen und Organisationen unterstiitzen sowie die direkten Kontakte zwischen polnischen und deutschen Kiinstlern fórdern."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die bestehende Gemischte Kommission wird mindestens einmal jahrlich zusammentreten, um den Stand des Kulturaustauschs in allen Bereichen zu priifen und Vereinbarungen Uber die nachsten Vorhaben zu treffen."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 24"
-    },
-    {
-     "type": "text",
-     "text": "Die Vertragsparteien werden das Abkommen iiber die Errichtung und die Tatigkeit von Kulturinstituten mit Leben erfiillen und voll ausschópfen."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 25"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien bekraftigen ihre Bereitschaft, allen interessierten Personen umfassenden Zugang zur Sprache und Kultur des anderen Landes zu ermóglichen, und sie unterstitzen entsprechende staatliche und private Initiativen und Institutionen."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden die Verbreitung von klassischer und zeitgenóssischer Literatur des anderen Landes in Originalsprache und Ubersetzung verstarkt fórdern."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien setzen sich nachdriicklich dafiir ein, die Móglichkeiten auszubauen, in Schulen, Hochschulen und anderen Bildungseinrichtungen die Sprache des anderen Landes zu erlernen. Dabei wird auch die Griindung von Schulen angestrebt, in denen in beiden Sprachen unterrichtet wird. Weiterhin werden sie sich bemiihen, die Móglichkeiten des Studiums der Polonistik und Germanistik an den Hochschulen des anderen Landes auszuweiten."
-    },
-    {
-     "type": "text",
-     "text": "(4) Die Vertragsparteien werden bei der Entsendung von Lehrern, der Aus- und Fortbildung von Lehrkraften sowie der Entwicklung und Bereitstellung von Lehrmaterial, einschliedlich des Einsatzes von Fernsehen, Hórfunk, Audio-, Video- und Computertechnik zusammenarbeiten."
-    },
-    {
-     "type": "text",
-     "text": "(5) Die Arbeit der unabhangigen polnisch-deutschen Schulbuchkommission wird weiterhin gefórdert."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 26"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony podkreślają konieczność znacznego rozszerzenia współpracy w dziedzinie nauki i szkol-",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artikel 26"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vetragsparteien unterstreichen die Notwendigkeit einer erheblichen Erweiterung der wissenschaftlichen nictwa. Będą w szczególności wspierać i nadal rozszerzać bezpośrednią współpracę i wymianę między szkołami, uczelund schulischen Zusammenarbeit. Sie werden insbesondere die direkte Zusammenarbeit und den Austausch zwischen niami oraz naukowymi instytucjami badawczymi, zarówno"
-    },
-    {
-     "type": "text",
-     "text": "Schulen, Hochschulen und wissenschaftlichen Forschungpoprzez wymianę uczniów, studentów, nauczycieli, pracowseinrichtungen fórdern und weiter ausbauen, und zwar ników naukowych, jak i wspólne przedsięwzięcia. sowohl durch den Austausch von Schilern, Studenten, Lehrern und wissenschaftlichen Lehrkraften als auch durch gemeinsame Vorhaben."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony potwierdzają zamiar zbadania możliwości wzajemnego uznawania okresów studiów",
-   "children": [
-    {
-     "type": "text",
-     "text": "' (2) Die Vertragsparteien bekraftigen ihre Absicht, die Moglichkeiten gegenseitiger Anerkennung von Studienzeiten und Hochschulabschliissen zu priifen. i dyplomów uczelni."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 27"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony przywiązują dużą wagę do współpracy w zakresie kształcenia zawodowego; będą ją znacznie rozszerzać i pogłębiać, zawierając odpowiednie"
-    },
     {
      "type": "text",
      "text": "Artikel 27"
@@ -1266,203 +1342,226 @@
     {
      "type": "text",
      "text": "Die Vetragsparteien messen der Zusammenarbeit in der beruflichen Bildung groRe Bedeutung bei und werden się durch entsprechende Vereinbarungen wesentlich ausbauen porozumienia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 28"
     }
-   ]
+   ],
+   "label": "Artykuł 27"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą współpracować w zakresie zachowania i opieki nad europejskim dziedzictwem kulturowym. Będą dbać o ochronę zabytków.",
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "und vertiefen. *"
+     "type": "ust",
+     "num": "1",
+     "path": "art_28/ust_1",
+     "text": "Umawiające się Strony będą współpracować w zakresie zachowania i opieki nad europejskim dziedzictwem kulturowym. Będą dbać o ochronę zabytków.",
+     "children": [
+      {
+       "type": "text",
+       "text": "und vertiefen. *"
+      },
+      {
+       "type": "text",
+       "text": "Artikel 28"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden bei der Erhaltung und Pflege des europdischen kulturellen Erbes zusammenarbeiten. Sie werden sich fiir die Denkmalpflege einsetzen."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artikel 28"
+     "type": "ust",
+     "num": "2",
+     "path": "art_28/ust_2",
+     "text": "Umawiające się Strony otoczą szczególną opieką znajdujące się na ich terytoriach miejsca i dobra kultury,",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden sich der auf ihrem Gebiet befindlichen Orte und Kulturgiter, die von geschichtświadczące o wydarzeniach historycznych oraz osiągnięlichen Ereignissen sowie kulturellen und wissenschaftlichen ciach i tradycjach kulturalnych i naukowych drugiej strony, oraz zapewnią do nich swobodny i nieskrępowany dostęp"
+      },
+      {
+       "type": "text",
+       "text": "Leistungen und Traditionen der anderen Seite zeugen, besonders annehmen und zu ihnen freien und ungehinderten bądź zadbają o taki dostęp w przypadkach, gdy jego zapew-"
+      },
+      {
+       "type": "text",
+       "text": "Zugang gewahrleisten beziehungsweise sich fiir einen solnienie nie należy do kompetencji Państwa. Wspomniane chen Zugang einsetzen, soweit dieser nicht in staatlicher miejsca i dobra kultury znajdują się pod ochroną prawa"
+      },
+      {
+       "type": "text",
+       "text": "Zustandigkeit geregelt werden kann. Die genannten Orte und każdej ze stron. Umawiające się Strony będą realizować w tym zakresie wspólne inicjatywy w duchu porozumienia"
+      },
+      {
+       "type": "text",
+       "text": "Kulturgiiter stehen unter dem Schutz der Gesetze der jeweiligen Vertragspartei. Die Vertragsparteien werden gemeini pojednania."
+      },
+      {
+       "type": "text",
+       "text": "same Initiativen in diesem Bereich im Geiste der Verstandigung und der Versóhnung verwirklichen."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden bei der Erhaltung und Pflege des europdischen kulturellen Erbes zusammenarbeiten. Sie werden sich fiir die Denkmalpflege einsetzen."
+     "type": "ust",
+     "num": "3",
+     "path": "art_28/ust_3",
+     "text": "Umawiające się Strony będą dążyć w takim samym duchu do rozwiązywania problemów związanych z dobrami",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) Im gleichen Geiste sind die Vertragsparteien bestrebt, die Probleme im Zusammenhang mit Kulturgiitern und kultury i archiwaliami, poczynając od pojedynczych przypad- Archivalien, beginnend mit Einzelfallen, zu lósen. ków."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 28"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony otoczą szczególną opieką znajdujące się na ich terytoriach miejsca i dobra kultury,",
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden sich der auf ihrem Gebiet befindlichen Orte und Kulturgiter, die von geschichtświadczące o wydarzeniach historycznych oraz osiągnięlichen Ereignissen sowie kulturellen und wissenschaftlichen ciach i tradycjach kulturalnych i naukowych drugiej strony, oraz zapewnią do nich swobodny i nieskrępowany dostęp"
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "Umawiające się Strony będą popierać wszechstronne kontakty osobiste między ich obywatelami, żywiąc przekona-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artikel 29"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien werden in der Uberzeugung, daB die Entwicklung zwischenmenschlicher Kontakte eine nie, że rozwój kontaktów międzyludzkich jest niezbędną przesłanką porozumienia i pojednania obu Narodów."
+      },
+      {
+       "type": "text",
+       "text": "unerlaRliche Voraussetzung fiir die Verstandigung und Versóhnung beider Volker ist, umfassende persónliche Begeg-"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Leistungen und Traditionen der anderen Seite zeugen, besonders annehmen und zu ihnen freien und ungehinderten bądź zadbają o taki dostęp w przypadkach, gdy jego zapew-"
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Umawiające się Strony będą popierać ściślejszą współpracę między partiami, związkami zawodowymi, kośnungen zwischen ihren Biirgern férdern.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien unterstiitzen eine engere Zusammenarbeit zwischen den Parteien, Gewerkschaften, Kirciołami i związkami wyznaniowymi, organizacjami sportochen und Glaubensgemeinschaften, Sportorganisationen, wymi, fundacjami oraz innymi organizacjami i zrzeszeniami społecznymi."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Zugang gewahrleisten beziehungsweise sich fiir einen solnienie nie należy do kompetencji Państwa. Wspomniane chen Zugang einsetzen, soweit dieser nicht in staatlicher miejsca i dobra kultury znajdują się pod ochroną prawa"
-    },
-    {
-     "type": "text",
-     "text": "Zustandigkeit geregelt werden kann. Die genannten Orte und każdej ze stron. Umawiające się Strony będą realizować w tym zakresie wspólne inicjatywy w duchu porozumienia"
-    },
-    {
-     "type": "text",
-     "text": "Kulturgiiter stehen unter dem Schutz der Gesetze der jeweiligen Vertragspartei. Die Vertragsparteien werden gemeini pojednania."
-    },
-    {
-     "type": "text",
-     "text": "same Initiativen in diesem Bereich im Geiste der Verstandigung und der Versóhnung verwirklichen."
+     "type": "ust",
+     "num": "3",
+     "path": "art_29/ust_3",
+     "text": "Umawiające się Strony popierają działalność Forum Polsko- Niemieckiego. Witają z zadowoleniem jego starania, aby przy udziale wszystkich reprezentatywnych sił politycznych i społecznych w Rzeczypospolitej Polskiej i w Republice Federalnej Niemiec opracowywać koncepcje dalszego rozwoju stosunków polsko-niemieckich i podejmować odpowiednie inicjatywy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stiftungen sowie anderen gesellschaftlichen Organisationen und Verbanden."
+      },
+      {
+       "type": "text",
+       "text": "(3) Die Vertragsparteien unterstiitzen die Tatigkeit des Polnisch-Deutschen Forums. Sie begriiBen seine Bemiihungen, unter Einbeziehung aller reprasentativen politischen und gesellschaftlichen Krafte in der Republik Polen und der Bundesrepublik Deutschland, Konzeptionen fiir die Weiterentwicklung der polnisch-deutschen Beziehungen zu entwerfen und entsprechende Initiativen zu ergreifen."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 29"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony będą dążyć w takim samym duchu do rozwiązywania problemów związanych z dobrami",
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(3) Im gleichen Geiste sind die Vertragsparteien bestrebt, die Probleme im Zusammenhang mit Kulturgiitern und kultury i archiwaliami, poczynając od pojedynczych przypad- Archivalien, beginnend mit Einzelfallen, zu lósen. ków."
+     "type": "ust",
+     "num": "1",
+     "path": "art_30/ust_1",
+     "text": "Umawiające się Strony sq przekonane, ze wzajemne poznanie i zrozumienie młodych pokoleń ma podstawowe znaczenie dla nadania trwałego charakteru porozumieniu i pojednaniu Narodów polskiego i niemieckiego. Przywiązują . dlatego szczególnie dużą wagę do możliwie szerokich kontaktów i ścisłego współdziałania młodzieży polskiej i niemieckiej. W tym celu Umawiające się Strony będą, w granicach możliwości finansowych, wszelkimi sposobami wspierać kontakty i wymianę młodzieżową. Cała młodzież i jej organizacje w obu Państwach mają możliwość udziału w spotkaniach i wspólnych przedsięwzięciach.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 29"
+     "type": "ust",
+     "num": "2",
+     "path": "art_30/ust_2",
+     "text": "Umawiające się Strony tworzą polsko-niemiecką instytucję młodzieżową. Jej forma prawna, zadania i finansowanie zostaną ustalone w odrębnej umowie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 30"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą popierać wszechstronne kontakty osobiste między ich obywatelami, żywiąc przekona-",
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artikel 29"
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "Umawiające się Strony będą działać na rzecz współpracy środków przekazu, w szczególności telewizji, radia oraz prasy i wydawnictw. Współpraca ta powinna przede wszystkim służyć porozumieniu i pojednaniu między Polakami i Niemcami.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien werden in der Uberzeugung, daB die Entwicklung zwischenmenschlicher Kontakte eine nie, że rozwój kontaktów międzyludzkich jest niezbędną przesłanką porozumienia i pojednania obu Narodów."
-    },
-    {
-     "type": "text",
-     "text": "unerlaRliche Voraussetzung fiir die Verstandigung und Versóhnung beider Volker ist, umfassende persónliche Begeg-"
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "Umawiające się Strony są zgodne co do tego, że publikacje, a także dodatki do dzienników i tygodników redagowańe w języku drugiego kraju mogą być swobodnie wydawane, rozpowszechniane i czytane. Publikacje z drugiego Państwa mogę być bez przeszkód wwożone i rozpowszechniane zgodnie z artykułami 19 i 20 Międzynarodowego paktu praw obywatelskich i politycznych. Dotyczy to również bezpłatnej prenumeraty oraz publikacji rozprowadzanych przez ich przedstawicielstwa zagraniczne.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 31"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony będą popierać ściślejszą współpracę między partiami, związkami zawodowymi, kośnungen zwischen ihren Biirgern férdern.",
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien unterstiitzen eine engere Zusammenarbeit zwischen den Parteien, Gewerkschaften, Kirciołami i związkami wyznaniowymi, organizacjami sportochen und Glaubensgemeinschaften, Sportorganisationen, wymi, fundacjami oraz innymi organizacjami i zrzeszeniami społecznymi."
+     "type": "ust",
+     "num": "1",
+     "path": "art_32/ust_1",
+     "text": "Republika Federalna Niemiec oświadcza, że polskie groby znajdujące się w Republice Federalnej Niemiec są otoczone szacunkiem oraz umożliwiona jest opieka nad nimi. Groby polskich ofiar wojen i tyranii, znajdujące się w Repub: lice Federalnej Niemiec, podlegają ochronie prawa niemieckiego oraz będą zachowane i pielęgnowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_32/ust_2",
+     "text": "Rzeczpospolita Polska oświadcza, że niemieckie groby znajdujące się w Rzeczypospolitej Polskiej są otoczone szacunkiem oraz umożliwiona jest opieka nad nimi. Groby niemieckich ofiar wojen i tyranii, znajdujące się w Rzeczypospolitej Polskiej, podlegają ochronie prawa polskiego oraz będą zachowane i pielęgnowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_32/ust_3",
+     "text": "Umawiające się Strony popierają współpracę organizacji i instytucji odpowiedzialnych w obu Państwach za groby ofiar wojen i tyranii. Umożliwiają w szczególności tym organizacjom i instytucjom rejestrację, uporządkowanie oraz opiekę nad takimi grobami.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 32"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony popierają działalność Forum Polsko- Niemieckiego. Witają z zadowoleniem jego starania, aby przy udziale wszystkich reprezentatywnych sił politycznych i społecznych w Rzeczypospolitej Polskiej i w Republice Federalnej Niemiec opracowywać koncepcje dalszego rozwoju stosunków polsko-niemieckich i podejmować odpowiednie inicjatywy.",
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "JI Umawiające się Strony będą rozwijać, intensyfikować i upraszczać z korzyścią dla ich obywateli stosunki prawne i konsularne, w tym obrót prawny w sprawach",
    "children": [
-    {
-     "type": "text",
-     "text": "Stiftungen sowie anderen gesellschaftlichen Organisationen und Verbanden."
-    },
-    {
-     "type": "text",
-     "text": "(3) Die Vertragsparteien unterstiitzen die Tatigkeit des Polnisch-Deutschen Forums. Sie begriiBen seine Bemiihungen, unter Einbeziehung aller reprasentativen politischen und gesellschaftlichen Krafte in der Republik Polen und der Bundesrepublik Deutschland, Konzeptionen fiir die Weiterentwicklung der polnisch-deutschen Beziehungen zu entwerfen und entsprechende Initiativen zu ergreifen."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 30"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony sq przekonane, ze wzajemne poznanie i zrozumienie młodych pokoleń ma podstawowe znaczenie dla nadania trwałego charakteru porozumieniu i pojednaniu Narodów polskiego i niemieckiego. Przywiązują . dlatego szczególnie dużą wagę do możliwie szerokich kontaktów i ścisłego współdziałania młodzieży polskiej i niemieckiej. W tym celu Umawiające się Strony będą, w granicach możliwości finansowych, wszelkimi sposobami wspierać kontakty i wymianę młodzieżową. Cała młodzież i jej organizacje w obu Państwach mają możliwość udziału w spotkaniach i wspólnych przedsięwzięciach.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony tworzą polsko-niemiecką instytucję młodzieżową. Jej forma prawna, zadania i finansowanie zostaną ustalone w odrębnej umowie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 31"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą działać na rzecz współpracy środków przekazu, w szczególności telewizji, radia oraz prasy i wydawnictw. Współpraca ta powinna przede wszystkim służyć porozumieniu i pojednaniu między Polakami i Niemcami.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony są zgodne co do tego, że publikacje, a także dodatki do dzienników i tygodników redagowańe w języku drugiego kraju mogą być swobodnie wydawane, rozpowszechniane i czytane. Publikacje z drugiego Państwa mogę być bez przeszkód wwożone i rozpowszechniane zgodnie z artykułami 19 i 20 Międzynarodowego paktu praw obywatelskich i politycznych. Dotyczy to również bezpłatnej prenumeraty oraz publikacji rozprowadzanych przez ich przedstawicielstwa zagraniczne.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 32"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Republika Federalna Niemiec oświadcza, że polskie groby znajdujące się w Republice Federalnej Niemiec są otoczone szacunkiem oraz umożliwiona jest opieka nad nimi. Groby polskich ofiar wojen i tyranii, znajdujące się w Repub: lice Federalnej Niemiec, podlegają ochronie prawa niemieckiego oraz będą zachowane i pielęgnowane.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Rzeczpospolita Polska oświadcza, że niemieckie groby znajdujące się w Rzeczypospolitej Polskiej są otoczone szacunkiem oraz umożliwiona jest opieka nad nimi. Groby niemieckich ofiar wojen i tyranii, znajdujące się w Rzeczypospolitej Polskiej, podlegają ochronie prawa polskiego oraz będą zachowane i pielęgnowane.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiające się Strony popierają współpracę organizacji i instytucji odpowiedzialnych w obu Państwach za groby ofiar wojen i tyranii. Umożliwiają w szczególności tym organizacjom i instytucjom rejestrację, uporządkowanie oraz opiekę nad takimi grobami.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 33"
-    },
-    {
-     "type": "text",
-     "text": "JI Umawiające się Strony będą rozwijać, intensyfikować i upraszczać z korzyścią dla ich obywateli stosunki prawne i konsularne, w tym obrót prawny w sprawach"
-    },
     {
      "type": "text",
      "text": "Artikel 30"
@@ -1522,181 +1621,191 @@
     {
      "type": "text",
      "text": "2.: Umawiające się Strony będą współdziałać w zwalczaniu zorganizowanej przestępczości, terroryzmu, przestępczości gospodarczej, przestępczości związanej z narkotykami, karalnego handlu dziełami sztuki, bezprawnych naruszeń bezpieczeństwa cywilnej żeglugi powietrznej i morskiej oraz wytwarzania i wprowadzania do obiegu fałszywych środków płatniczych. Procedura* i warunki tej współpracy zostaną uzgodnione odrębnie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 34"
     }
-   ]
+   ],
+   "label": "Artykuł 33"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą popierać wszechstronną współpracę w określonych dziedzinach profilaktyki zdrowotnej oraz we wspólnym zwalczaniu chorób zakaźnych i innych chorób, jak na przykład schorzeń serca i układu krążenia, nowotworów i AIDS.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Republika Federalna Niemiec będzie udzielać Rzeczypospolitej Polskiej pomocy w przejściu od państwowego systemu ochrony zdrowia do systemu powszechnego ubezpieczenia zdrowotnego.",
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 35"
+     "type": "ust",
+     "num": "1",
+     "path": "art_34/ust_1",
+     "text": "Umawiające się Strony będą popierać wszechstronną współpracę w określonych dziedzinach profilaktyki zdrowotnej oraz we wspólnym zwalczaniu chorób zakaźnych i innych chorób, jak na przykład schorzeń serca i układu krążenia, nowotworów i AIDS.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony ustanawiają wspólną nagrodę za szczególne zasługi dla rozwoju stosunków polsko-niemieckich. Nagrodę tę będzie przyznawać corocznie komitet, którego statut zostanie ustalony w odrębnym porozumieniu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 36"
-    },
-    {
-     "type": "text",
-     "text": "Umawiające się Strony będą umacniać współpracę w ramach organizacji międzynarodowych, ze szczególnym uwzględnieniem organizacji europejskich. Będą wzajemnie udzielać sobie pomocy w rozwijaniu współpracy z międzynarodowymi, zwłaszcza europejskimi, organizacjami i instytucjami, których członkiem jest jedna ze Stron, w przypadku gdy druga Strona wyrazi odpowiednie zainteresowanie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 37"
-    },
-    {
-     "type": "text",
-     "text": "Niniejszy traktat nie jest wymierzony przeciw komukolwiek. Nie narusza on praw i zobowiązań, które wynikają z obowiązujących umów dwustronnych i wielostronnych, zawartych przez każdą z Umawiających się Stron z innymi państwami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 38"
+     "type": "ust",
+     "num": "2",
+     "path": "art_34/ust_2",
+     "text": "Republika Federalna Niemiec będzie udzielać Rzeczypospolitej Polskiej pomocy w przejściu od państwowego systemu ochrony zdrowia do systemu powszechnego ubezpieczenia zdrowotnego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 34"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Traktat niniejszy podlega ratyfikacji. Wymiana dokumentów ratyfikacyjnych nastąpi w Warszawie, w możliwie bliskim terminie.",
-   "children": []
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "Umawiające się Strony ustanawiają wspólną nagrodę za szczególne zasługi dla rozwoju stosunków polsko-niemieckich. Nagrodę tę będzie przyznawać corocznie komitet, którego statut zostanie ustalony w odrębnym porozumieniu.",
+   "children": [],
+   "label": "Artykuł 35"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Traktat niniejszy wchodzi w życie w dniu wymiany dokumentów ratyfikacyjnych.",
-   "children": []
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "Umawiające się Strony będą umacniać współpracę w ramach organizacji międzynarodowych, ze szczególnym uwzględnieniem organizacji europejskich. Będą wzajemnie udzielać sobie pomocy w rozwijaniu współpracy z międzynarodowymi, zwłaszcza europejskimi, organizacjami i instytucjami, których członkiem jest jedna ze Stron, w przypadku gdy druga Strona wyrazi odpowiednie zainteresowanie.",
+   "children": [],
+   "label": "Artykuł 36"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Traktat niniejszy obowiązuje przez dziesięć lat. Ulega on następnie automatycznemu przedłużaniu na okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie go w drodze notyfikacji na rok przed upływem danego okresu obowiązywania.",
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "Niniejszy traktat nie jest wymierzony przeciw komukolwiek. Nie narusza on praw i zobowiązań, które wynikają z obowiązujących umów dwustronnych i wielostronnych, zawartych przez każdą z Umawiających się Stron z innymi państwami.",
+   "children": [],
+   "label": "Artykuł 37"
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "gelegenheiten unter Beriicksichtigung ihrer Rechtsordnungen sowie bestehender multilateraler und bilateraler Ubereinkiinfte, insbesondere der Konventionen des Europarats, weiterentwickeln, intensivieren und zum Nutzen ihrer Birger vereinfachen."
+     "type": "ust",
+     "num": "1",
+     "path": "art_38/ust_1",
+     "text": "Traktat niniejszy podlega ratyfikacji. Wymiana dokumentów ratyfikacyjnych nastąpi w Warszawie, w możliwie bliskim terminie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(2) Die Vertragsparteien werden zusammenwirken bei der Bekampfung des organisierten Verbrechens, des Terrorismus, der Wirtschaftskriminalitat, der Rauschgiftkriminalitat, des strafbaren Handels mit Kunstwerken, der rechtswidrigen Eingriffe in die Zivilluftfahrt und in die Seeschiffahrt sowie der Herstellung und Verbreitung von Falschgeld. Verfahren und Bedingungen fiir diese Zusammenarbeit werden gesondert vereinbart."
+     "type": "ust",
+     "num": "2",
+     "path": "art_38/ust_2",
+     "text": "Traktat niniejszy wchodzi w życie w dniu wymiany dokumentów ratyfikacyjnych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artikel 34"
-    },
-    {
-     "type": "text",
-     "text": "(1) Die Vertragsparteien fordern eine umfassende Zusammenarbeit auf bestimmten Gebieten der Gesundheitsvorsorge und bei der gemeinsamen Bekaémpfung von Seuchen sowie Krankheiten, wie zum Beispiel Herz-, Kreislauf- und Krebserkrankungen und Aids."
-    },
-    {
-     "type": "text",
-     "text": "(2) Die Bundesrepublik Deutschland wird der Republik Polen Hilfestellung bei der Umstellung des staatlichen Gesundheitssystems auf ein Krankenversicherungssystem leisten."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 35"
-    },
-    {
-     "type": "text",
-     "text": "Die Vertragsparteien stiften einen gemeinsamen Preis fiir besondere Verdienste um die Entwicklung der polnisch- -deutschen Beziehungen. Der Preis wird alljahrlich von einem Komitee verliehen, iiber dessen Statut eine gesonderte Vereinbarung geschlossen wird."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 36"
-    },
-    {
-     "type": "text",
-     "text": "Die Vertragsparteien werden ihre Zusammenarbeit im Rahmen internationaler Organisationen, insbesondere europdischer Organisationen, verstarken. Sie werden einander behilflich sein, die Zusammenarbeit mit internationalen, insbesondere europdischen Organisationen und Institutionen, denen eine Vertragspartei als Mitglied angehórt, zu entwickeln, falls die andere Vertragspartei ein entsprechendes Interesse bekundet."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 37"
-    },
-    {
-     "type": "text",
-     "text": "Dieser Vertrag richtet sich gegen niemanden. Er beriihrt nicht die Rechte und Verpflichtungen aus geltenden zweiseitigen und mehrseitigen Ubereinkiinften, die von den Vertrag- * sparteien mit anderen Staaten geschlossen wurden."
-    },
-    {
-     "type": "text",
-     "text": "Artikel 38"
-    },
-    {
-     "type": "text",
-     "text": "(1) Dieser Vertrag bedarf der Ratifikation; die Ratifikationsurkunden werden: so bald wie móglich in Warschau ausgetauscht."
-    },
-    {
-     "type": "text",
-     "text": "(2) Dieser Vertrag tritt am Tage des Austauschs der Ratifikationsurkunden in Kraft."
-    },
-    {
-     "type": "text",
-     "text": "(3) Dieser Vertrag gilt fiir die Dauer von zehn Jahren. Danach verlangert er sich stillschweigend um jeweils weitere fiinf Jahre, sofern nicht eine der Vertragsparteien den Vertrag unter Einhaltung einer Frist von einem Jahr vor Ablauf der jeweiligen Geltungsdauer schriftlich kiindigt. |"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego przedstawiciele Umawiających się Stron podpisali niniejszy traktat i opatrzyli go pieczęciami."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Bonn dnia 17 czerwca 1991 r. w dwóch egzemplarzach, każdy w językach polskim i niemieckim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "Za Za Rzeczpospolitą Polską Republikę Federalną Niemiec J. K. Bielecki H. Kohl K. Skubiszewski H. D. Genscher"
-    },
-    {
-     "type": "text",
-     "text": "Zu Urkund dessen haben die Vertreter der Vertragsparteien diesen Vertrag unterzeichnet und mit Siegeln versehen."
-    },
-    {
-     "type": "text",
-     "text": "Geschehen zu Bonn am 17. Juni 1991 in zwei Urschriften, jede in polnischer und deutscher Sprache, wobei jeder Wortlaut gleichermaBen verbindlich ist."
-    },
-    {
-     "type": "text",
-     "text": "Fir die Fir die Republik Poleń Bundesrepublik Deutschland J. K. Bielecki H. Kohl K. Skubiszewski H. D. Genscher ."
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższym traktatem w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 26 listopada 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
+     "type": "ust",
+     "num": "3",
+     "path": "art_38/ust_3",
+     "text": "Traktat niniejszy obowiązuje przez dziesięć lat. Ulega on następnie automatycznemu przedłużaniu na okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie go w drodze notyfikacji na rok przed upływem danego okresu obowiązywania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "gelegenheiten unter Beriicksichtigung ihrer Rechtsordnungen sowie bestehender multilateraler und bilateraler Ubereinkiinfte, insbesondere der Konventionen des Europarats, weiterentwickeln, intensivieren und zum Nutzen ihrer Birger vereinfachen."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Vertragsparteien werden zusammenwirken bei der Bekampfung des organisierten Verbrechens, des Terrorismus, der Wirtschaftskriminalitat, der Rauschgiftkriminalitat, des strafbaren Handels mit Kunstwerken, der rechtswidrigen Eingriffe in die Zivilluftfahrt und in die Seeschiffahrt sowie der Herstellung und Verbreitung von Falschgeld. Verfahren und Bedingungen fiir diese Zusammenarbeit werden gesondert vereinbart."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 34"
+      },
+      {
+       "type": "text",
+       "text": "(1) Die Vertragsparteien fordern eine umfassende Zusammenarbeit auf bestimmten Gebieten der Gesundheitsvorsorge und bei der gemeinsamen Bekaémpfung von Seuchen sowie Krankheiten, wie zum Beispiel Herz-, Kreislauf- und Krebserkrankungen und Aids."
+      },
+      {
+       "type": "text",
+       "text": "(2) Die Bundesrepublik Deutschland wird der Republik Polen Hilfestellung bei der Umstellung des staatlichen Gesundheitssystems auf ein Krankenversicherungssystem leisten."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 35"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien stiften einen gemeinsamen Preis fiir besondere Verdienste um die Entwicklung der polnisch- -deutschen Beziehungen. Der Preis wird alljahrlich von einem Komitee verliehen, iiber dessen Statut eine gesonderte Vereinbarung geschlossen wird."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 36"
+      },
+      {
+       "type": "text",
+       "text": "Die Vertragsparteien werden ihre Zusammenarbeit im Rahmen internationaler Organisationen, insbesondere europdischer Organisationen, verstarken. Sie werden einander behilflich sein, die Zusammenarbeit mit internationalen, insbesondere europdischen Organisationen und Institutionen, denen eine Vertragspartei als Mitglied angehórt, zu entwickeln, falls die andere Vertragspartei ein entsprechendes Interesse bekundet."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 37"
+      },
+      {
+       "type": "text",
+       "text": "Dieser Vertrag richtet sich gegen niemanden. Er beriihrt nicht die Rechte und Verpflichtungen aus geltenden zweiseitigen und mehrseitigen Ubereinkiinften, die von den Vertrag- * sparteien mit anderen Staaten geschlossen wurden."
+      },
+      {
+       "type": "text",
+       "text": "Artikel 38"
+      },
+      {
+       "type": "text",
+       "text": "(1) Dieser Vertrag bedarf der Ratifikation; die Ratifikationsurkunden werden: so bald wie móglich in Warschau ausgetauscht."
+      },
+      {
+       "type": "text",
+       "text": "(2) Dieser Vertrag tritt am Tage des Austauschs der Ratifikationsurkunden in Kraft."
+      },
+      {
+       "type": "text",
+       "text": "(3) Dieser Vertrag gilt fiir die Dauer von zehn Jahren. Danach verlangert er sich stillschweigend um jeweils weitere fiinf Jahre, sofern nicht eine der Vertragsparteien den Vertrag unter Einhaltung einer Frist von einem Jahr vor Ablauf der jeweiligen Geltungsdauer schriftlich kiindigt. |"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 38"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego przedstawiciele Umawiających się Stron podpisali niniejszy traktat i opatrzyli go pieczęciami."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Bonn dnia 17 czerwca 1991 r. w dwóch egzemplarzach, każdy w językach polskim i niemieckim, przy czym obydwa teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "Za Za Rzeczpospolitą Polską Republikę Federalną Niemiec J. K. Bielecki H. Kohl K. Skubiszewski H. D. Genscher"
+  },
+  {
+   "type": "text",
+   "text": "Zu Urkund dessen haben die Vertreter der Vertragsparteien diesen Vertrag unterzeichnet und mit Siegeln versehen."
+  },
+  {
+   "type": "text",
+   "text": "Geschehen zu Bonn am 17. Juni 1991 in zwei Urschriften, jede in polnischer und deutscher Sprache, wobei jeder Wortlaut gleichermaBen verbindlich ist."
+  },
+  {
+   "type": "text",
+   "text": "Fir die Fir die Republik Poleń Bundesrepublik Deutschland J. K. Bielecki H. Kohl K. Skubiszewski H. D. Genscher ."
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższym traktatem w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 26 listopada 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
   },
   {
    "type": "signature",

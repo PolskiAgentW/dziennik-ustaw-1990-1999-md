@@ -93,426 +93,468 @@
    "text": "postanowiły zawrzeć niniejszy traktat i uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony będą rozwijać stosunki we wszystkich dziedzinach będących przedmiotem wzajemnego zainteresowania, nieprzerwanie i konsekwentnie pogłębiać współpracę, zabiegać o dalsze zbliżenie między narodem polskim i włoskim dla podniesienia ich poziomu życia i silniejszego podkreślenia wspólnego dziedzictwa, tradycji i kultury.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą zawierały, w razie potrzeby, umowy i porozumienia w celu wprowadzenia w życie postanowień niniejszego traktatu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony będą rozwijały wzajemną współpracę, zwłaszcza poprzez dwustronne kontakty zmierzające do uzgodnienia i koordynacji wspólnych inicjatyw na różnych szczeblach.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony będą prowadziły konsultacje na temat ważnych problemów międzynarodowych interesujących obie Strony, w szczególności dotyczących bezpieczeństwa i rozbrojenia w Europie oraz stosunków między Rzecząpospolitą Polską a Wspólnotami Europejskimi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony nadadzą tym konsultacjom charakter regularny i okresowy. W tym celu spotkania na najwyższym szczeblu odbywać się będą corocznie; Ministrowie Spraw Zagranicznych spotykać się będą przynajmniej raz w roku; inni członkowie rządów będą odbywać konsultacje okresowo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Regularne konsultacje będą miały miejsce także na szczeblu przedstawicieli obu Ministerstw Spraw Zagranicznych. Ich tematyka obejmie sprawy międzynarodowe lub dwustronne będące przedmiotem wzajemnego zainteresowania.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Wysokie Umawiające się Strony będą rozwijać stosunki we wszystkich dziedzinach będących przedmiotem wzajemnego zainteresowania, nieprzerwanie i konsekwentnie pogłębiać współpracę, zabiegać o dalsze zbliżenie między narodem polskim i włoskim dla podniesienia ich poziomu życia i silniejszego podkreślenia wspólnego dziedzictwa, tradycji i kultury.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "= HT —"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Strony będą zawierały, w razie potrzeby, umowy i porozumienia w celu wprowadzenia w życie postanowień niniejszego traktatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Strony będą rozwijały wzajemną współpracę, zwłaszcza poprzez dwustronne kontakty zmierzające do uzgodnienia i koordynacji wspólnych inicjatyw na różnych szczeblach.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Wysokie Umawiające się Strony będą prowadziły konsultacje na temat ważnych problemów międzynarodowych interesujących obie Strony, w szczególności dotyczących bezpieczeństwa i rozbrojenia w Europie oraz stosunków między Rzecząpospolitą Polską a Wspólnotami Europejskimi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Strony nadadzą tym konsultacjom charakter regularny i okresowy. W tym celu spotkania na najwyższym szczeblu odbywać się będą corocznie; Ministrowie Spraw Zagranicznych spotykać się będą przynajmniej raz w roku; inni członkowie rządów będą odbywać konsultacje okresowo.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Regularne konsultacje będą miały miejsce także na szczeblu przedstawicieli obu Ministerstw Spraw Zagranicznych. Ich tematyka obejmie sprawy międzynarodowe lub dwustronne będące przedmiotem wzajemnego zainteresowania.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= HT —"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Strony sprzyjać będą także zacieśnianiu stosunków między Parlamentami obu państw.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wysokie Umawiające się Strony stwierdzają, że groźba użycia sity lub jej użycie muszą być wykluczone jako narzędzie rozwiązywania sporów międzynarodowych. Strony sprzyjają wzmocnieniu roli ONZ i jej wyspecjalizowanych organizacji w obliczu narastającej globalizacji i współzależności międzynarodowych wydarzeń. W związku z tym przywiązują one wielkie znaczenie do pełnego poszanowania Karty Narodów Zjednoczonych przez wszystkie państwa—sygnatariuszy i uważają, iż ONZ dysponuje właściwymi środkami dla zabezpieczenia pokoju na świecie.",
+   "children": [],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Strony sprzyjać będą także zacieśnianiu stosunków między Parlamentami obu państw.",
+   "path": "art_4",
+   "text": "Wysokie Umawiające się Strony wzmogą wysiłki na rzecz ustanowienia nowego ładu europejskiego, poprzez równowagę wojskową lub coraz niższe poziomy zbrojeń, zgodnie z zasadami zachowania stabilności, niezbędnego poziomu wystarczalności zbrojeń oraz zmniejszenia zależności od broni nuklearnej. W tym celu Strony pragną zawarcia nowych porozumień dotyczących rozbrojenia, umocnienia zaufania i bezpieczeństwa, a także ich pełnej realizacji.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wysokie Umawiające się Strony są przekonane o konieczności wzmocnienia wzajemnych stosunków w dziedzinie bezpieczeństwa dla pogłębienia zaufania i stabilizacji w Europie. W tym celu Strony będą rozwijały kontakty w dziedzinie wojskowej na różnych poziomach, poprzez regularne wizyty ministrów obrony, szefów sztabów generalnych, delegacji i jednostek różnych broni oraz słuchaczy polskich i włoskich akademii wojskowych.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W przypadku sytuacji lub sporu, które według jednej ze Stron mogłyby zagrozić pokojowi i bezpieczeństwu międzynarodowemu, Wysokie Umawiające się Strony zobowiązują się przyjąć wspólne stanowisko, w granicach możliwości, przy podejmowaniu najbardziej odpowiednich środków dla złagodzenia napięcia. Jeśli jedna ze Stron uzna, że określona sytuacja lub określony spór zagraża jej najwyższym interesom bezpieczeństwa, może ona zwrócić się do drugiej Strony o bezzwłoczne konsultacje dwustronne, również w celu znalezienia, jeśli pojawi się taka konieczność, odpowiednich form pomocy dla Strony, która uważa się za zagrożoną.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Wysokie Umawiające się Strony są zdecydowane wzmacniać, poprzez Konferencję Bezpieczeństwa i Współpracy w Europie, demokrację i rządy prawa, wspierać ustanowienie przyjaznych stosunków między wszystkimi państwami, umacniać bezpieczeństwo i zasady humanitaryzmu, współpracę gospodarczą, kulturalną i ekologiczną na kontynencie europejskim. Są one przeświadczone, że wyniki Paryskiego Spotkania",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Wysokie Umawiające się Strony stwierdzają, że groźba użycia sity lub jej użycie muszą być wykluczone jako narzędzie rozwiązywania sporów międzynarodowych. Strony sprzyjają wzmocnieniu roli ONZ i jej wyspecjalizowanych organizacji w obliczu narastającej globalizacji i współzależności międzynarodowych wydarzeń. W związku z tym przywiązują one wielkie znaczenie do pełnego poszanowania Karty Narodów Zjednoczonych przez wszystkie państwa—sygnatariuszy i uważają, iż ONZ dysponuje właściwymi środkami dla zabezpieczenia pokoju na świecie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Wysokie Umawiające się Strony wzmogą wysiłki na rzecz ustanowienia nowego ładu europejskiego, poprzez równowagę wojskową lub coraz niższe poziomy zbrojeń, zgodnie z zasadami zachowania stabilności, niezbędnego poziomu wystarczalności zbrojeń oraz zmniejszenia zależności od broni nuklearnej. W tym celu Strony pragną zawarcia nowych porozumień dotyczących rozbrojenia, umocnienia zaufania i bezpieczeństwa, a także ich pełnej realizacji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Wysokie Umawiające się Strony są przekonane o konieczności wzmocnienia wzajemnych stosunków w dziedzinie bezpieczeństwa dla pogłębienia zaufania i stabilizacji w Europie. W tym celu Strony będą rozwijały kontakty w dziedzinie wojskowej na różnych poziomach, poprzez regularne wizyty ministrów obrony, szefów sztabów generalnych, delegacji i jednostek różnych broni oraz słuchaczy polskich i włoskich akademii wojskowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "W przypadku sytuacji lub sporu, które według jednej ze Stron mogłyby zagrozić pokojowi i bezpieczeństwu międzynarodowemu, Wysokie Umawiające się Strony zobowiązują się przyjąć wspólne stanowisko, w granicach możliwości, przy podejmowaniu najbardziej odpowiednich środków dla złagodzenia napięcia. Jeśli jedna ze Stron uzna, że określona sytuacja lub określony spór zagraża jej najwyższym interesom bezpieczeństwa, może ona zwrócić się do drugiej Strony o bezzwłoczne konsultacje dwustronne, również w celu znalezienia, jeśli pojawi się taka konieczność, odpowiednich form pomocy dla Strony, która uważa się za zagrożoną."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Wysokie Umawiające się Strony są zdecydowane wzmacniać, poprzez Konferencję Bezpieczeństwa i Współpracy w Europie, demokrację i rządy prawa, wspierać ustanowienie przyjaznych stosunków między wszystkimi państwami, umacniać bezpieczeństwo i zasady humanitaryzmu, współpracę gospodarczą, kulturalną i ekologiczną na kontynencie europejskim. Są one przeświadczone, że wyniki Paryskiego Spotkania"
-    },
     {
      "type": "text",
      "text": "KBWE z 1990 r., do których Rzeczpospolita Polska i Republika Włoska wniosły swój czynny wkład, oraz w szczególności polepszenie współpracy w Europie poprzez ustanowienie nowych stałych struktur doprowadzą do umocnienia pokoju na naszym kontynencie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony zintensyfikują działania na rzecz jedności na kontynencie europejskim, opartej na zasadach demokracji, wolności, pluralizmu, poszanowania praw ludzkich, i będą sprzyjać pogłębieniu europejskich procesów integracyjnych, umożliwiających między innymi poprawę zbiorowego bytu materialnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W szczególności pragną one dalszego wzmocnienia Wspólnot Europejskich i ich powiązań z innymi państwami Europy poprzez układy o stowarzyszeniu, włącznie z perspektywą ich członkostwa — w czasie i trybie, jakie okażą się najwłaściwsze.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Obie Strony wyrażają przekonanie, iż rychłe stowarzyszenie Rzeczypospolitej Polskiej ze Wspólnotami Europejskimi stanowi ważny etap w rozwoju procesu integracji europejskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Republika Wtoska uważa za pozytywne wyrażone przez Rzeczpospolitą Polską pragnienie członkostwa we Wspólnotach Europejskich, stosownie do warunków przewidzianych przez traktaty.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Republika Włoska udzieli Rzeczypospolitej Polskiej, w ramach swych możliwości, niezbędnej pomocy w dostosowywaniu polskiego ustawodawstwa do norm i reguł wspólnotowych.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Wysokie Umawiające się Strony zintensyfikują działania na rzecz jedności na kontynencie europejskim, opartej na zasadach demokracji, wolności, pluralizmu, poszanowania praw ludzkich, i będą sprzyjać pogłębieniu europejskich procesów integracyjnych, umożliwiających między innymi poprawę zbiorowego bytu materialnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "W szczególności pragną one dalszego wzmocnienia Wspólnot Europejskich i ich powiązań z innymi państwami Europy poprzez układy o stowarzyszeniu, włącznie z perspektywą ich członkostwa — w czasie i trybie, jakie okażą się najwłaściwsze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Obie Strony wyrażają przekonanie, iż rychłe stowarzyszenie Rzeczypospolitej Polskiej ze Wspólnotami Europejskimi stanowi ważny etap w rozwoju procesu integracji europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Republika Wtoska uważa za pozytywne wyrażone przez Rzeczpospolitą Polską pragnienie członkostwa we Wspólnotach Europejskich, stosownie do warunków przewidzianych przez traktaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Republika Włoska udzieli Rzeczypospolitej Polskiej, w ramach swych możliwości, niezbędnej pomocy w dostosowywaniu polskiego ustawodawstwa do norm i reguł wspólnotowych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony przyjmują z zadowoleniem intensyfikowanie ich współpracy gospodarczej, finansowej, naukowo-technicznej, menadżerskiej i ekologicznej. Zobowigzuja się do jej dalszego pogłębiania, w tym — w najnowocześniejszych technologicznie dziedzinach. Strony uważają, że rozwój ten odpowiada ich wzajemnie uzupełniającym się współzależnym systemom gospodarczym, mogąc stanowić trwały punkt odniesienia także dla pozostałych państw europejskich.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W tym celu Strony zamierzają popierać intensyfikację niezbędnych kontaktów na szczeblu politycznym, technicznym i w sferze przedsiębiorczości, a także sprzyjać tworzeniu odpowiednich struktur instytucjonalnych. Zakładają także nawiązanie ściślejszych powiązań w dziedzinie ustawodawstwa gospodarczego, ze szczególnym uwzględnieniem spółek mieszanych i swobody inwestowania na terytorium Rzeczypospolitej Polskiej i Republiki Włoskiej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każda ze Stron będzie starała się poprawić na swym terytorium warunki działania prywatnych i państwowych przedsiębiorstw partnera, w szczególności w dziedzinie bezpośrednich inwestycji i ochrony zainwestowanego kapitału. Strony będą współdziałały na rzecz zwiększenia udziału kapitału włoskiego, inwestowanego w polską gospodarkę.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Wysokie Umawiające się Strony przyjmują z zadowoleniem intensyfikowanie ich współpracy gospodarczej, finansowej, naukowo-technicznej, menadżerskiej i ekologicznej. Zobowigzuja się do jej dalszego pogłębiania, w tym — w najnowocześniejszych technologicznie dziedzinach. Strony uważają, że rozwój ten odpowiada ich wzajemnie uzupełniającym się współzależnym systemom gospodarczym, mogąc stanowić trwały punkt odniesienia także dla pozostałych państw europejskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "W tym celu Strony zamierzają popierać intensyfikację niezbędnych kontaktów na szczeblu politycznym, technicznym i w sferze przedsiębiorczości, a także sprzyjać tworzeniu odpowiednich struktur instytucjonalnych. Zakładają także nawiązanie ściślejszych powiązań w dziedzinie ustawodawstwa gospodarczego, ze szczególnym uwzględnieniem spółek mieszanych i swobody inwestowania na terytorium Rzeczypospolitej Polskiej i Republiki Włoskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Każda ze Stron będzie starała się poprawić na swym terytorium warunki działania prywatnych i państwowych przedsiębiorstw partnera, w szczególności w dziedzinie bezpośrednich inwestycji i ochrony zainwestowanego kapitału. Strony będą współdziałały na rzecz zwiększenia udziału kapitału włoskiego, inwestowanego w polską gospodarkę.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Strony będą wspierały współpracę prywatnych i państwowych przedsiębiorstw z obu krajów, a w szczególności małych i średnich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_9/ust_5",
+     "text": "Rzeczpospolita Polska zapewni pełne wykorzystanie przedsięwzięć finansowych Rządu Włoskiego dla inwestycji na jej terytorium. Strony będą sprzyjały rozwojowi instytucji finansowych w Polsce, wykorzystując także włoskie doświadczenia na tym polu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_9/ust_6",
+     "text": "Strony zobowiązują się do rozwijania współpracy z wielostronnymi instytucjami gospodarczymi i międzynarodowymi organizacjami finansowymi, w szczególności inicjując formy współpracy w ramach Europejskiego Banku Odbudowy i Rozwoju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_9/ust_7",
+     "text": "Republika Włoska będzie nadal popierała we właściwych gremiach wysiłki mające przynieść rozwiązanie problemu polskiego zadłużenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Strony będą wspierały współpracę prywatnych i państwowych przedsiębiorstw z obu krajów, a w szczególności małych i średnich.",
-   "children": []
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "W celu ułatwienia przejścia polskiej gospodarki do systemu rynkowego Wysokie Umawiające się Strony zobowiązują się do współpracy w zakresie szkolenia zawodowego i menadżerskiego, do rozwijania technicznej współpracy, zwłaszcza w odniesieniu do polityki gospodarczej i prawodawstwa.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Rzeczpospolita Polska zapewni pełne wykorzystanie przedsięwzięć finansowych Rządu Włoskiego dla inwestycji na jej terytorium. Strony będą sprzyjały rozwojowi instytucji finansowych w Polsce, wykorzystując także włoskie doświadczenia na tym polu.",
-   "children": []
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "W ramach istniejących i przyszłych porozumień między Rzecząpospolitą Polską a Wspólnotami Europejskimi i w oparciu o przyjęte w nich uregulowania prawne Wysokie Umawiające się Strony, stosownie do swych kompetencji, zamierzają umacniać współpracę gospodarczą w dziedzinach będących przedmiotem wzajemnego zainteresowania, ze szczególnym uwzględnieniem współpracy przemysłowej. Strony będą sprzyjały poprawie ogólnych warunków kooperacji między przedsiębiorstwami i przedsiębiorcami, promocji i ochronie inwestycji oraz współpracy naukowej i technologicznej, a także w energetyce, petrochemii, rolnictwie i przemyśle rolno-spożywczym, elektronice, telekomunikacji, transporcie, ochronie środowiska, usługach finansowych, turystyce, kształceniu zawodowym i technicznym.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Strony zobowiązują się do rozwijania współpracy z wielostronnymi instytucjami gospodarczymi i międzynarodowymi organizacjami finansowymi, w szczególności inicjując formy współpracy w ramach Europejskiego Banku Odbudowy i Rozwoju.",
-   "children": []
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Każda z Wysokich Umawiających się Stron, zgodnie z jej systemem prawnym i porozumieniami międzynarodowymi w tej dziedzinie, zapewni ochronę praw, włącznie z prawem do opieki społecznej, legalnie przebywającym i zatrudnionym na jej terytorium obywatelom drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Republika Włoska będzie nadal popierała we właściwych gremiach wysiłki mające przynieść rozwiązanie problemu polskiego zadłużenia.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Zobowiązania wynikające dla Republiki Włoskiej z jej dwustronnych umów z Rzecząpospolitą Polską respektują kompetencje Wspólnot Europejskich i postanowienia uchwalone przez ich instytucje, a także inne postanowienia uzgodnione między państwami — członkami EWG, na drodze urzeczywistniania systemu wspólnotowego.",
+   "children": [],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Obie Wysokie Umawiające się Strony pragną, aby rozwojowi współpracy między państwami europejskimi towarzyszyło wzmocnienie więzi solidarności z państwami na pozostałych kontynentach.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Wysokie Umawiające się Strony, świadome wielkiego znaczenia ochrony środowiska dla pomyślnego bytu narodów obu państw, zobowiązują się wspierać każde użyteczne działanie na rzecz ekologicznej ochrony zasobów naturalnych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W celu ułatwienia przejścia polskiej gospodarki do systemu rynkowego Wysokie Umawiające się Strony zobowiązują się do współpracy w zakresie szkolenia zawodowego i menadżerskiego, do rozwijania technicznej współpracy, zwłaszcza w odniesieniu do polityki gospodarczej i prawodawstwa."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "W ramach istniejących i przyszłych porozumień między Rzecząpospolitą Polską a Wspólnotami Europejskimi i w oparciu o przyjęte w nich uregulowania prawne Wysokie Umawiające się Strony, stosownie do swych kompetencji, zamierzają umacniać współpracę gospodarczą w dziedzinach będących przedmiotem wzajemnego zainteresowania, ze szczególnym uwzględnieniem współpracy przemysłowej. Strony będą sprzyjały poprawie ogólnych warunków kooperacji między przedsiębiorstwami i przedsiębiorcami, promocji i ochronie inwestycji oraz współpracy naukowej i technologicznej, a także w energetyce, petrochemii, rolnictwie i przemyśle rolno-spożywczym, elektronice, telekomunikacji, transporcie, ochronie środowiska, usługach finansowych, turystyce, kształceniu zawodowym i technicznym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Każda z Wysokich Umawiających się Stron, zgodnie z jej systemem prawnym i porozumieniami międzynarodowymi w tej dziedzinie, zapewni ochronę praw, włącznie z prawem do opieki społecznej, legalnie przebywającym i zatrudnionym na jej terytorium obywatelom drugiej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Zobowiązania wynikające dla Republiki Włoskiej z jej dwustronnych umów z Rzecząpospolitą Polską respektują kompetencje Wspólnot Europejskich i postanowienia uchwalone przez ich instytucje, a także inne postanowienia uzgodnione między państwami — członkami EWG, na drodze urzeczywistniania systemu wspólnotowego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Obie Wysokie Umawiające się Strony pragną, aby rozwojowi współpracy między państwami europejskimi towarzyszyło wzmocnienie więzi solidarności z państwami na pozostałych kontynentach."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Strony zapewniają się wzajemnie, iż będą ponadto pobudzać i wspierać wszelkie formy współpracy na rzecz ochrony przyrody i zrównoważonego wykorzystywania zasobów naturalnych, w tym — rodzimej flory i fauny oraz ich biologicznych i genetycznych odmian, a także działać na rzecz zabezpieczenia i ochrony przed skażeniami wód morskich i śródlądowych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony, świadome wielkiego znaczenia ochrony środowiska dla pomyślnego bytu narodów obu państw, zobowiązują się wspierać każde użyteczne działanie na rzecz ekologicznej ochrony zasobów naturalnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony zapewniają się wzajemnie, iż będą ponadto pobudzać i wspierać wszelkie formy współpracy na rzecz ochrony przyrody i zrównoważonego wykorzystywania zasobów naturalnych, w tym — rodzimej flory i fauny oraz ich biologicznych i genetycznych odmian, a także działać na rzecz zabezpieczenia i ochrony przed skażeniami wód morskich i śródlądowych.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Wysokie Umawiające się Strony dotoza wszelkich starań dla intensyfikacji swej współpracy naukowej oraz w dziedzinie najnowszych technologii, zarówno w oparciu o już uzgodnione programy, jak i poprzez określenie nowych priorytetowych obszarów współdziałania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Jako priorytetową Strony uznają współpracę w dziedzinie innowacji technologicznych. Zintensyfikują one wzajemne rozpoznanie technologicznych aspektów inicjatyw przemysłowych w tych dziedzinach, ze szczególnym uwzględnieniem energochłonności i modernizacji infrastruktury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Strony dołożą także starań dla doprowadzenia w dziedzinach wymienionych w ustępach 1 i 2 do organicznej współpracy w skali europejskiej, wspierając włączenie polskich struktur do wielostronnych europejskich programów współpracy naukowo-technicznej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony dotoza wszelkich starań dla intensyfikacji swej współpracy naukowej oraz w dziedzinie najnowszych technologii, zarówno w oparciu o już uzgodnione programy, jak i poprzez określenie nowych priorytetowych obszarów współdziałania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jako priorytetową Strony uznają współpracę w dziedzinie innowacji technologicznych. Zintensyfikują one wzajemne rozpoznanie technologicznych aspektów inicjatyw przemysłowych w tych dziedzinach, ze szczególnym uwzględnieniem energochłonności i modernizacji infrastruktury.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony dołożą także starań dla doprowadzenia w dziedzinach wymienionych w ustępach 1 i 2 do organicznej współpracy w skali europejskiej, wspierając włączenie polskich struktur do wielostronnych europejskich programów współpracy naukowo-technicznej.",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 17"
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Opierając się na wielowiekowym procesie wzajemnego wzbogacania kultury obu narodów i ich wkładzie do cywilizacji europejskiej, Rzeczpospolita Polska i Republika Włoska nie będą szczędzić wysiłków dla dalszego rozwijania dwustronnej współpracy kulturalnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Wysokie Umawiające się Strony poświęcą szczególną uwagę wzajemnemu upowszechnianiu wiedzy o narodowym dorobku w dziedzinie kultury i sztuki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Strony podtrzymują zobowiązania wynikające z umowy o ustanowieniu polskiego Instytutu Kultury w Rzymie i włoskiego w Krakowie oraz zapewnią najszersze poparcie rozwojowi ich działalności. Potwierdzają też swą gotowość do ułatwiania dostępu do języka i kultury drugiej Strony poprzez wspieranie państwowych i prywatnych inicjatyw, a także poprzez wymianę stypendystów i studentów.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "pracy między środowiskami akademickimi, kulturalnymi i artystycznymi obu krajów oraz między organizacjami działającymi na tym polu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_17/ust_5",
+     "text": "Strony zobowiązują się do umożliwienia nauczania języka drugiej Strony w szkołach i uczelniach. W tym celu każda ze Stron przekaże do dyspozycji drugiej Strony środki umożliwiające kształcenie i doskonalenie wykładowców oraz pomoce naukowe, włącznie z wykorzystaniem telewizji i radia, środków audiowizualnych i technik informatycznych. Strony udzielą poparcia inicjatywom tworzenia szkół dwujęzycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_17/ust_6",
+     "text": "Strony poprą inicjatywy sprzyjające współpracy w dziedzinie radia, telewizji i innych środków masowego przekazu dla wzajemnego pogłębiania wszechstronnej wiedzy o sobie. Strony będą zachęcały do powstawania cyklicznych emisji dwujęzycznych oraz seriali telewizyjnych poświęconych ważniejszym historycznym wydarzeniom w obu krajach.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Opierając się na wielowiekowym procesie wzajemnego wzbogacania kultury obu narodów i ich wkładzie do cywilizacji europejskiej, Rzeczpospolita Polska i Republika Włoska nie będą szczędzić wysiłków dla dalszego rozwijania dwustronnej współpracy kulturalnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wysokie Umawiające się Strony poświęcą szczególną uwagę wzajemnemu upowszechnianiu wiedzy o narodowym dorobku w dziedzinie kultury i sztuki.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Strony podtrzymują zobowiązania wynikające z umowy o ustanowieniu polskiego Instytutu Kultury w Rzymie i włoskiego w Krakowie oraz zapewnią najszersze poparcie rozwojowi ich działalności. Potwierdzają też swą gotowość do ułatwiania dostępu do języka i kultury drugiej Strony poprzez wspieranie państwowych i prywatnych inicjatyw, a także poprzez wymianę stypendystów i studentów.",
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "pracy między środowiskami akademickimi, kulturalnymi i artystycznymi obu krajów oraz między organizacjami działającymi na tym polu."
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Wysokie Umawiające się Strony zobowiązują się do wzajemnej pomocy w zakresie ochrony i waloryzacji swych zasobów kulturalnych i artystycznych, a także do popierania współpracy między instytucjami ochrony i konserwacji zabytków, muzeami i specjalistycznymi instytucjami z tej dziedziny.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Strony uzgadniają, ze przemycone lub nielegalnie wwiezione na ich terytorium dzieła sztuki mają być zwracane drugiej Wysokiej Umawiającej się Stronie."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Strony zobowiązują się do umożliwienia nauczania języka drugiej Strony w szkołach i uczelniach. W tym celu każda ze Stron przekaże do dyspozycji drugiej Strony środki umożliwiające kształcenie i doskonalenie wykładowców oraz pomoce naukowe, włącznie z wykorzystaniem telewizji i radia, środków audiowizualnych i technik informatycznych. Strony udzielą poparcia inicjatywom tworzenia szkół dwujęzycznych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Strony poprą inicjatywy sprzyjające współpracy w dziedzinie radia, telewizji i innych środków masowego przekazu dla wzajemnego pogłębiania wszechstronnej wiedzy o sobie. Strony będą zachęcały do powstawania cyklicznych emisji dwujęzycznych oraz seriali telewizyjnych poświęconych ważniejszym historycznym wydarzeniom w obu krajach.",
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 18"
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Wysokie Umawiające się Strony będą popierać rozwój bezpośrednich kontaktów między obywatelami i partiami, organizacjami związkowymi, fundacjami, ośrodkami badawczymi, stowarzyszeniami kobiecymi, organizacjami sportowymi, związkami wyznaniowymi, stowarzyszeniami ekologicznymi i innymi. Wszelkimi sposobami wspierać będą wymianę młodzieżową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Strony sprzyjać będą bliźniaczym związkom między miastami i zacieśnianiu kontaktów między poszczególnymi miejscowościami, regionami i innymi jednostkami terytorialnymi i administracyjnymi.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony zobowiązują się do wzajemnej pomocy w zakresie ochrony i waloryzacji swych zasobów kulturalnych i artystycznych, a także do popierania współpracy między instytucjami ochrony i konserwacji zabytków, muzeami i specjalistycznymi instytucjami z tej dziedziny.",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Wysokie Umawiające się Strony podejmą współpracę w zwalczaniu nielegalnego przewozu narkotyków i zorganizowanej przestępczości. W tym celu Strony zobowiązują się, w razie potrzeby, do wymiany niezbędnych informacji.",
+   "children": [],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "2 Strony uzgadniają, ze przemycone lub nielegalnie wwiezione na ich terytorium dzieła sztuki mają być zwracane drugiej Wysokiej Umawiającej się Stronie."
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Zobowiązania wynikające z niniejszego traktatu nie naruszają dwustronnych i wielostronnych zobowiązań traktatowych, jakie Wysokie Umawiające się Strony zaciągnęły przed nabraniem mocy przez niniejszy traktat.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 19"
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Niniejszy traktat nie jest wymierzony przeciwko interesom żadnego trzeciego państwa.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 21"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wysokie Umawiające się Strony będą popierać rozwój bezpośrednich kontaktów między obywatelami i partiami, organizacjami związkowymi, fundacjami, ośrodkami badawczymi, stowarzyszeniami kobiecymi, organizacjami sportowymi, związkami wyznaniowymi, stowarzyszeniami ekologicznymi i innymi. Wszelkimi sposobami wspierać będą wymianę młodzieżową.",
-   "children": []
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Traktat niniejszy podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych, która nastąpi w Rzymie.",
+   "children": [],
+   "label": "Artykuł 22"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony sprzyjać będą bliźniaczym związkom między miastami i zacieśnianiu kontaktów między poszczególnymi miejscowościami, regionami i innymi jednostkami terytorialnymi i administracyjnymi.",
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Traktat niniejszy jest zawarty na okres 20 lat i ulega automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna z Wysokich Umawiających się Stron nie wypowie go drugiej Stronie, na drodze notyfikacji, na jeden rok przed upływem danego okresu.",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    },
-    {
-     "type": "text",
-     "text": "Wysokie Umawiające się Strony podejmą współpracę w zwalczaniu nielegalnego przewozu narkotyków i zorganizowanej przestępczości. W tym celu Strony zobowiązują się, w razie potrzeby, do wymiany niezbędnych informacji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zobowiązania wynikające z niniejszego traktatu nie naruszają dwustronnych i wielostronnych zobowiązań traktatowych, jakie Wysokie Umawiające się Strony zaciągnęły przed nabraniem mocy przez niniejszy traktat.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejszy traktat nie jest wymierzony przeciwko interesom żadnego trzeciego państwa.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 22"
-    },
-    {
-     "type": "text",
-     "text": "Traktat niniejszy podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych, która nastąpi w Rzymie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "Traktat niniejszy jest zawarty na okres 20 lat i ulega automatycznemu przedłużeniu na dalsze pięcioletnie okresy, jeżeli żadna z Wysokich Umawiających się Stron nie wypowie go drugiej Stronie, na drodze notyfikacji, na jeden rok przed upływem danego okresu."
-    },
     {
      "type": "text",
      "text": "Traktat niniejszy sporządzono w Warszawie dnia 11 października 1991 r. w dwóch egzemplarzach, każdy w językach polskim i włoskim, przy czym obydwa teksty są jednakowo autentyczne."
@@ -520,36 +562,37 @@
     {
      "type": "text",
      "text": "Za Rzeczpospolitą Polską: Za Republikę Włoską: K. Skubiszewski G. de Michelis"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęty, ratyfikowany i potwierdzony,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywany."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 4 grudnia 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Watęsa LS."
     }
-   ]
+   ],
+   "label": "Artykuł 23"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższym traktatem, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęty, ratyfikowany i potwierdzony,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywany."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 4 grudnia 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Watęsa LS."
   },
   {
    "type": "signature",

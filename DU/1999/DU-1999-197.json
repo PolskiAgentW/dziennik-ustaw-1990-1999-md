@@ -65,48 +65,52 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron zobowiązuje się do przystosowania swego prawa wewnętrznego — najpóźniej w ciągu dwunastu miesięcy od chwili, gdy niniejsza konwencja wejdzie w życie w stosunku do tej Strony — do zasad wymienionych w załączniku do niniejszej konwencji, dotyczących odpowiedzialności osób utrzymujących hotele za rzeczy wniesione przez gości hotelowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda z Umawiających się Stron zachowuje jednak prawo rozszerzenia zakresu odpowiedzialności osób utrzymujących hotele.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każda z Umawiających się Stron dostarczy Sekretarzowi Generalnemu Rady Europy teksty urzędowe swych aktów prawnych dotyczących spraw uregulowanych niniejszą konwencją. Sekretarz Generalny przekaże pozostałym Stronom odpisy tych tekstów.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Każda z Umawiających się Stron zobowiązuje się do przystosowania swego prawa wewnętrznego — najpóźniej w ciągu dwunastu miesięcy od chwili, gdy niniejsza konwencja wejdzie w życie w stosunku do tej Strony — do zasad wymienionych w załączniku do niniejszej konwencji, dotyczących odpowiedzialności osób utrzymujących hotele za rzeczy wniesione przez gości hotelowych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Każda z Umawiających się Stron ma prawo:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Każda z Umawiających się Stron zachowuje jednak prawo rozszerzenia zakresu odpowiedzialności osób utrzymujących hotele.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Każda z Umawiających się Stron dostarczy Sekretarzowi Generalnemu Rady Europy teksty urzędowe swych aktów prawnych dotyczących spraw uregulowanych niniejszą konwencją. Sekretarz Generalny przekaże pozostałym Stronom odpisy tych tekstów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Każda z Umawiających się Stron ma prawo:",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_3/lit_a",
+     "path": "art_2/lit_a",
      "text": "ustalić, niezależnie od postanowienia artykułu 1 ustęp 3 załącznika, granicę odpowiedzialności osoby utrzymującej hotel na poziomie równowartości co najmniej 100-krotnej ceny wynajęcia pomieszczenia hotelowego na jedną dobę;",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
+     "path": "art_2/lit_b",
      "text": "ograniczyć dla każdej rzeczy, niezależnie od postanowienia artykułu 1 ustęp 3 załącznika, odpowiedzialność osoby utrzymującej hotel do sumy nie niższej od równowartości 1 500 franków w złocie lub — w przypadku stosowania przepisu ustępu poprzedniego — co najmniej 50-krotnej ceny wynajęcia pomieszczenia hotelowego na jedną dobę;",
      "children": [
       {
@@ -138,678 +142,706 @@
        "text": "Article 1"
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each Contracting Party undertakes that, within twelve months of the date of entry into force of the present Convention in respect of that Party, its national law shall conform with the rules on the liability of hotel-keepers concerning the property of their guests set out in the annex to this Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Each Contracting Party shall nevertheless remain free to impose greater liabilities on hotel-keepers.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Each Contracting Party shall transmit to the Secretary General of the Council of Europe the official text of any legislation concerning the matters governed by the Convention. The Secretary General shall transmit copies of the texts to other Parties.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 2"
     },
     {
-     "type": "text",
-     "text": "Each Contracting Party retains the option:"
-    },
-    {
-     "type": "text",
-     "text": "a. notwithstanding the provisions of paragraph 3 of"
-    },
-    {
-     "type": "text",
-     "text": "Article 1 of the annex, to limit the liability of the hotel-keeper to at least 100 times the daily charge for the room;"
-    },
-    {
-     "type": "text",
-     "text": "b. notwithstanding the provisions of paragraph 3 of Article 1 of the annex, to limit the liability in respect of any one article to an amount which is not less than the equivalent of 1 500 gold francs or, where the preceding paragraph of this article applies, to a minimum of 50 times the daily charge for the room;"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "stosować zasadę wyrażoną w artykule 1 ustęp 2 załącznika jedynie do rzeczy znajdujących się w hotelu;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Each Contracting Party undertakes that, within twelve months of the date of entry into force of the present Convention in respect of that Party, its national law shall conform with the rules on the liability of hotel-keepers concerning the property of their guests set out in the annex to this Convention.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "niezależnie od postanowień artykułu 6 załącznika, zezwolić osobom utrzymującym hotele, w przypadkach wymienionych w artykule 2 ustęp 1a) i artykule 4 załącznika, na ograniczenie odpowiedzialności przez zawarcie odrębnego porozumienia z gościem hotelowym, który je podpisuje, z wyjątkiem przypadku, gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa. Porozumienie takie nie może zawierać innego zastrzeżenia. Odpowiedzialność osoby utrzymującej hotel może być jednak ograniczona do kwoty niższej od tej, jaką przewidują przepisy wprowadzone zgodnie z niniejszą konwencją;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Each Contracting Party shall nevertheless remain free to impose greater liabilities on hotel-keepers.",
      "children": []
     },
     {
-     "type": "text",
-     "text": "niezależnie od postanowienia artykułu 7 załącznika,"
-    },
-    {
-     "type": "text",
-     "text": "~— e stosować wymienione w nim zasady do pojazdów i pozostawionych w nich rzeczy oraz do zwierząt żywych albo regulować w inny sposób odpowiedzialność osoby utrzymującej hotel w tym zakresie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Each Contracting Party shall transmit to the Secretary General of the Council of Europe the official text of any legislation concerning the matters governed by the Convention. The Secretary General shall transmit copies of the texts to other Parties.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "Each Contracting Party retains the option:"
+      },
+      {
+       "type": "text",
+       "text": "a. notwithstanding the provisions of paragraph 3 of"
+      },
+      {
+       "type": "text",
+       "text": "Article 1 of the annex, to limit the liability of the hotel-keeper to at least 100 times the daily charge for the room;"
+      },
+      {
+       "type": "text",
+       "text": "b. notwithstanding the provisions of paragraph 3 of Article 1 of the annex, to limit the liability in respect of any one article to an amount which is not less than the equivalent of 1 500 gold francs or, where the preceding paragraph of this article applies, to a minimum of 50 times the daily charge for the room;"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/ust_3/lit_c",
+       "text": "stosować zasadę wyrażoną w artykule 1 ustęp 2 załącznika jedynie do rzeczy znajdujących się w hotelu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/ust_3/lit_d",
+       "text": "niezależnie od postanowień artykułu 6 załącznika, zezwolić osobom utrzymującym hotele, w przypadkach wymienionych w artykule 2 ustęp 1a) i artykule 4 załącznika, na ograniczenie odpowiedzialności przez zawarcie odrębnego porozumienia z gościem hotelowym, który je podpisuje, z wyjątkiem przypadku, gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa. Porozumienie takie nie może zawierać innego zastrzeżenia. Odpowiedzialność osoby utrzymującej hotel może być jednak ograniczona do kwoty niższej od tej, jaką przewidują przepisy wprowadzone zgodnie z niniejszą konwencją;",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "niezależnie od postanowienia artykułu 7 załącznika,"
+      },
+      {
+       "type": "text",
+       "text": "~— e stosować wymienione w nim zasady do pojazdów i pozostawionych w nich rzeczy oraz do zwierząt żywych albo regulować w inny sposób odpowiedzialność osoby utrzymującej hotel w tym zakresie."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja ma zastosowanie do terytoriów metropolitalnych Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każda z Umawiających się Stron może w czasie podpisywania lub składania dokumentu ratyfikacji, przyjęcia lub przystąpienia do konwencji, albo później w każdej innej chwili, złożyć oświadczenie skierowane do Sekretarza Generalnego Rady Europy, że niniejsza konwencja znajdzie zastosowanie do wymienionych w tym oświadczeniu terytoriów, które Strona reprezentuje w stosunkach międzynarodowych lub za które jest uprawniona zawierać umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Oświadczenie złożone na podstawie poprzedniego ustępu może być wycofane odnośnie do każdego terytorium wymienionego w oświadczeniu, na warunkach określonych w artykule 6 niniejszej konwencji.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja jest otwarta do podpisu dla państw-członków Rady Europy. Podlega ona ratyfikacji lub przyjęciu. Dokumenty ratyfikacji lub przyjęcia składa się Sekretarzowi Generalnemu Rady Euro-",
-   "children": [
-    {
-     "type": "text",
-     "text": "py."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Konwencja wchodzi w życie po upływie trzech miesięcy od dnia złożenia trzeciego dokumentu ratyfikacji lub przyjęcia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W odniesieniu do każdego rządu-sygnatariusza, który dokona ratyfikacji lub przyjęcia w dalszej kolejności, konwencja wchodzi w życie po upływie trzech miesięcy od dnia złożenia dokumentu ratyfikacji lub przyjęcia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Komitet Ministrów Rady Europy może zaprosić każde państwo, które nie jest członkiem Rady, do przystąpienia do niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przystąpienia dokonuje się przez złożenie Sekretarzowi Generalnemu Rady dokumentu przystąpienia, który nabiera mocy po upływie trzech miesięcy od daty jego złożenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "c. to adopt the rule laid down in paragraph 2 of Article 1 of the annex only in respect of property which is at the hotel;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Niniejsza konwencja ma zastosowanie do terytoriów metropolitalnych Umawiających się Stron.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "d. notwithstanding the provisions of Article 6 of the annex, to permit hotel-keepers to reduce their liability, in cases to which paragraph 1.a of Article 2 or Article 4 of the annex apply, not being cases where intent or fault tantamount to intent is involved, by an agreement with the guest signed by him and containing no other terms; the liability of the hotel-keeper may not, however, be reduced to an amount which is less than that provided in the relevant legislation enacted in pursuance of this Convention;"
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Każda z Umawiających się Stron może w czasie podpisywania lub składania dokumentu ratyfikacji, przyjęcia lub przystąpienia do konwencji, albo później w każdej innej chwili, złożyć oświadczenie skierowane do Sekretarza Generalnego Rady Europy, że niniejsza konwencja znajdzie zastosowanie do wymienionych w tym oświadczeniu terytoriów, które Strona reprezentuje w stosunkach międzynarodowych lub za które jest uprawniona zawierać umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "e. notwithstanding the provisions of Article 7 of the annex, to apply the rules in the annex to vehicles, property left with them and live animals, or to regulate the hotel-keeper’s liability in this respect in any other way."
-    },
-    {
-     "type": "text",
-     "text": "Article 3"
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Oświadczenie złożone na podstawie poprzedniego ustępu może być wycofane odnośnie do każdego terytorium wymienionego w oświadczeniu, na warunkach określonych w artykule 6 niniejszej konwencji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall apply to the metropolitan territories of the Contracting Parties.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any Contracting Party may, when signing this Convention or when depositing its instrument of ratification, acceptance or accession, or at any later date, declare by notification addressed to the Secretary General of the Council of Europe, that this Convention shall apply to the territory or territories, mentioned in the said declaration, for whose international relations it is responsible or for which it is empowered to legislate.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any declaration made in accordance with the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 6 ofthis Convention.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention is open to signature by the members of the Council of Europe. It shall be ratified or accepted. The instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The Convention shall come into force three months after the date of the deposit of the third instrument of ratification or acceptance.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "In respect of a signatory government ratifying or accepting subsequently, the Convention shall come into force three months after the date of the deposit of its instrument of ratification or acceptance.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Committee of Ministers of the Council of Europe may invite any State not a member of the Council to accede to this Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Accession shall be by deposit with the Secretary General ofthe Council of an instrument of accession which shall take effect three months after the date of its deposit.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Niniejsza konwencja jest otwarta do podpisu dla państw-członków Rady Europy. Podlega ona ratyfikacji lub przyjęciu. Dokumenty ratyfikacji lub przyjęcia składa się Sekretarzowi Generalnemu Rady Euro-",
+     "children": [
+      {
+       "type": "text",
+       "text": "py."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Konwencja wchodzi w życie po upływie trzech miesięcy od dnia złożenia trzeciego dokumentu ratyfikacji lub przyjęcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "W odniesieniu do każdego rządu-sygnatariusza, który dokona ratyfikacji lub przyjęcia w dalszej kolejności, konwencja wchodzi w życie po upływie trzech miesięcy od dnia złożenia dokumentu ratyfikacji lub przyjęcia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiająca się Strona nie może wypowiedzieć konwencji przed upływem pięciu lat od chwili, gdy konwencja weszła w życie w stosunku do niej. Wypowiedzenia dokonuje się przez oświadczenie skierowane do Sekretarza Generalnego Rady Europy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wypowiedzenie nabiera mocy w stosunku do zainteresowanej Umawiającej się Strony po upływie sześciu miesięcy od chwili otrzymania dokumentu przez Sekretarza Generalnego Rady Europy.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Komitet Ministrów Rady Europy może zaprosić każde państwo, które nie jest członkiem Rady, do przystąpienia do niniejszej konwencji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sekretarz Generalny Rady Europy powiadamia członków Rady Europy oraz rządy państw, które przystąpiły do konwencji, o:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Przystąpienia dokonuje się przez złożenie Sekretarzowi Generalnemu Rady dokumentu przystąpienia, który nabiera mocy po upływie trzech miesięcy od daty jego złożenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "c. to adopt the rule laid down in paragraph 2 of Article 1 of the annex only in respect of property which is at the hotel;"
+      },
+      {
+       "type": "text",
+       "text": "d. notwithstanding the provisions of Article 6 of the annex, to permit hotel-keepers to reduce their liability, in cases to which paragraph 1.a of Article 2 or Article 4 of the annex apply, not being cases where intent or fault tantamount to intent is involved, by an agreement with the guest signed by him and containing no other terms; the liability of the hotel-keeper may not, however, be reduced to an amount which is less than that provided in the relevant legislation enacted in pursuance of this Convention;"
+      },
+      {
+       "type": "text",
+       "text": "e. notwithstanding the provisions of Article 7 of the annex, to apply the rules in the annex to vehicles, property left with them and live animals, or to regulate the hotel-keeper’s liability in this respect in any other way."
+      },
+      {
+       "type": "text",
+       "text": "Article 3"
+      }
+     ]
     },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "This Convention shall apply to the metropolitan territories of the Contracting Parties.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Any Contracting Party may, when signing this Convention or when depositing its instrument of ratification, acceptance or accession, or at any later date, declare by notification addressed to the Secretary General of the Council of Europe, that this Convention shall apply to the territory or territories, mentioned in the said declaration, for whose international relations it is responsible or for which it is empowered to legislate.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Any declaration made in accordance with the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 6 ofthis Convention.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "This Convention is open to signature by the members of the Council of Europe. It shall be ratified or accepted. The instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "The Convention shall come into force three months after the date of the deposit of the third instrument of ratification or acceptance.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "In respect of a signatory government ratifying or accepting subsequently, the Convention shall come into force three months after the date of the deposit of its instrument of ratification or acceptance.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "The Committee of Ministers of the Council of Europe may invite any State not a member of the Council to accede to this Convention.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Accession shall be by deposit with the Secretary General ofthe Council of an instrument of accession which shall take effect three months after the date of its deposit.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Umawiająca się Strona nie może wypowiedzieć konwencji przed upływem pięciu lat od chwili, gdy konwencja weszła w życie w stosunku do niej. Wypowiedzenia dokonuje się przez oświadczenie skierowane do Sekretarza Generalnego Rady Europy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Wypowiedzenie nabiera mocy w stosunku do zainteresowanej Umawiającej się Strony po upływie sześciu miesięcy od chwili otrzymania dokumentu przez Sekretarza Generalnego Rady Europy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Sekretarz Generalny Rady Europy powiadamia członków Rady Europy oraz rządy państw, które przystąpiły do konwencji, o:",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_7/lit_a",
      "text": "każdym fakcie podpisania oraz złożenia dokumentów ratyfikacji, przyjęcia lub przystąpienia;",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_7/lit_b",
      "text": "dacie wejścia w życie konwencji dla państw nowo przystępujących,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_7/lit_c",
      "text": "oświadczeniach otrzymanych stosownie do postanowień artykułów 3 i 6.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód powyższego niżej podpisani, właściwie do tego upełnomocnieni, podpisali niniejszą konwencję."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Paryżu dnia 17 grudnia 1962 r. w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy rządom państw-sygnatariuszy oraz państw przystępujących do konwencji."
+  },
+  {
+   "type": "text",
+   "text": "Załącznik"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Osoby utrzymujące hotele są odpowiedzialne za uszkodzenie, zniszczenie lub utratę rzeczy wniesionych do hotelu przez gościa hotelowego, który zatrzymuje się w hotelu i dysponuje w nim pomieszczeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Za rzeczy wniesione do hotelu uważa się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_2/lit_a",
+       "text": "rzeczy znajdujące się w hotelu w czasie, gdy gość hotelowy dysponuje pomieszczeniem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_2/lit_b",
+       "text": "rzeczy znajdujące się poza hotelem, nad którymi osoba utrzymująca hotel lub osoba, za którą jest ona odpowiedzialna, zapewnia nadzór w czasie, gdy gość hotelowy dysponuje pomieszczeniem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_2/lit_c",
+       "text": "rzeczy, nad którymi osoba utrzymująca hotel lub osoba, za którą jest ona odpowiedzialna, zapewnia nadzór w hotelu lub poza hotelem, w rozsądnym okresie poprzedzającym i następującym po czasie, gdy gość dysponował pomieszczeniem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Odpowiedzialność jest ograniczona do równowartości 3 000 franków w złocie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Frank w złocie, o którym mowa w ustępie 3, oznacza jednostkę zawierającą sześćdziesiąt pięć i pół miligrama złota próby 900/1000.",
      "children": [
       {
        "type": "text",
-       "text": "Na dowód powyższego niżej podpisani, właściwie do tego upełnomocnieni, podpisali niniejszą konwencję."
+       "text": "Article 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "A Contracting Party may not denounce this Convention within less than five years from the date on which the Convention entered into force in respect of that Party. Such denunciation shall be effected by notification addressed to the Secretary General of the Council of Europe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "The denunciation shall take effect for the Contracting Party concerned six months after the date on which it is received by the Secretary General of the Council of Europe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 7"
       },
       {
        "type": "text",
-       "text": "Sporządzono w Paryżu dnia 17 grudnia 1962 r. w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne, w jednym egzemplarzu, który zostanie złożony w archiwum Rady Europy. Sekretarz Generalny Rady Europy przekaże jego uwierzytelnione odpisy rządom państw-sygnatariuszy oraz państw przystępujących do konwencji."
+       "text": "The Secretary General of the Council of Europe shall notify members of the Council and the government of any State which has acceded to this Convention of:"
       },
       {
        "type": "text",
-       "text": "Załącznik"
+       "text": "a. any signature and any deposit of an instrument of ratification, acceptance or accession;"
       },
       {
        "type": "text",
-       "text": "Artykuł 1"
+       "text": "b. the date on which the Convention enters into force in respect of any State;"
+      },
+      {
+       "type": "text",
+       "text": "c. notifications which may be received in pursuance of the provisions of Articles 3 and 6."
+      },
+      {
+       "type": "text",
+       "text": "In witness whereof, the undersigned, being duly authorised thereto, have signed this Convention."
+      },
+      {
+       "type": "text",
+       "text": "Done at Paris, this 17th day of December 1962, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General shall transmit certified copies to each of the signatory and acceding governments."
+      },
+      {
+       "type": "text",
+       "text": "Annex"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "A hotel-keeper shall be liable for any damage to or destruction or loss of property brought to the hotel by any guest who stays at the hotel and has sleeping accommodation put at his disposal.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Any property",
+     "children": [
+      {
+       "type": "text",
+       "text": "a. which is at the hotel during the time when the guest has the accommodation at his disposal;"
+      },
+      {
+       "type": "text",
+       "text": "b. of which the hotel-keeper or a person for whom he is responsible takes charge outside the hotel during the period for which the guest has the accommodation at his disposal; or"
+      },
+      {
+       "type": "text",
+       "text": "c. of which the hotel-keeper or a person for whom he is responsible takes charge whether at the hotel or outside it during a reasonable period preceding or following the time when the guest has the accommodation at his disposal; shall be deemed to be property brought to the hotel."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "The liability shall be limited to the equivalent of 3 000 gold francs.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "The gold franc mentioned in the preceding paragraph refers to a unit consisting of sixty-five and a half milligrammes of gold of millesimal fineness nine hundred.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoby utrzymujące hotele są odpowiedzialne za uszkodzenie, zniszczenie lub utratę rzeczy wniesionych do hotelu przez gościa hotelowego, który zatrzymuje się w hotelu i dysponuje w nim pomieszczeniem.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Za rzeczy wniesione do hotelu uważa się:",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Odpowiedzialność osoby utrzymującej hotel nie podlega ograniczeniu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "jeśli rzeczy zostały jej oddane na przechowanie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_1/lit_b",
+       "text": "jeśli odmówiła ona przyjęcia na przechowanie rzeczy, które zobowiązana jest przyjąć.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Osoba utrzymująca hotel zobowiązana jest przyjąć na przechowanie papiery wartościowe, gotówkę i cenne przedmioty. Może ona odmówić przyjęcia tych rzeczy tylko wówczas, gdy zagrażają bezpieczeństwu albo gdy w stosunku do wielkości lub standardu hotelu mają zbyt dużą wartość lub zajmują zbyt dużo miejsca.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Osoba utrzymująca hotel może wymagać, aby rzecz znajdowała się w zamkniętym lub zapieczętowanym pojemniku.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Osoba utrzymująca hotel nie jest odpowiedzialna za uszkodzenie, zniszczenie lub utratę rzeczy, które spowodowane zostały:",
    "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "rzeczy znajdujące się w hotelu w czasie, gdy gość hotelowy dysponuje pomieszczeniem,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "rzeczy znajdujące się poza hotelem, nad którymi osoba utrzymująca hotel lub osoba, za którą jest ona odpowiedzialna, zapewnia nadzór w czasie, gdy gość hotelowy dysponuje pomieszczeniem,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "rzeczy, nad którymi osoba utrzymująca hotel lub osoba, za którą jest ona odpowiedzialna, zapewnia nadzór w hotelu lub poza hotelem, w rozsądnym okresie poprzedzającym i następującym po czasie, gdy gość dysponował pomieszczeniem.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Odpowiedzialność jest ograniczona do równowartości 3 000 franków w złocie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Frank w złocie, o którym mowa w ustępie 3, oznacza jednostkę zawierającą sześćdziesiąt pięć i pół miligrama złota próby 900/1000.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "A Contracting Party may not denounce this Convention within less than five years from the date on which the Convention entered into force in respect of that Party. Such denunciation shall be effected by notification addressed to the Secretary General of the Council of Europe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The denunciation shall take effect for the Contracting Party concerned six months after the date on which it is received by the Secretary General of the Council of Europe.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The Secretary General of the Council of Europe shall notify members of the Council and the government of any State which has acceded to this Convention of:"
-    },
-    {
-     "type": "text",
-     "text": "a. any signature and any deposit of an instrument of ratification, acceptance or accession;"
-    },
-    {
-     "type": "text",
-     "text": "b. the date on which the Convention enters into force in respect of any State;"
-    },
-    {
-     "type": "text",
-     "text": "c. notifications which may be received in pursuance of the provisions of Articles 3 and 6."
-    },
-    {
-     "type": "text",
-     "text": "In witness whereof, the undersigned, being duly authorised thereto, have signed this Convention."
-    },
-    {
-     "type": "text",
-     "text": "Done at Paris, this 17th day of December 1962, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General shall transmit certified copies to each of the signatory and acceding governments."
-    },
-    {
-     "type": "text",
-     "text": "Annex"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "A hotel-keeper shall be liable for any damage to or destruction or loss of property brought to the hotel by any guest who stays at the hotel and has sleeping accommodation put at his disposal.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any property",
-   "children": [
-    {
-     "type": "text",
-     "text": "a. which is at the hotel during the time when the guest has the accommodation at his disposal;"
-    },
-    {
-     "type": "text",
-     "text": "b. of which the hotel-keeper or a person for whom he is responsible takes charge outside the hotel during the period for which the guest has the accommodation at his disposal; or"
-    },
-    {
-     "type": "text",
-     "text": "c. of which the hotel-keeper or a person for whom he is responsible takes charge whether at the hotel or outside it during a reasonable period preceding or following the time when the guest has the accommodation at his disposal; shall be deemed to be property brought to the hotel."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The liability shall be limited to the equivalent of 3 000 gold francs.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The gold franc mentioned in the preceding paragraph refers to a unit consisting of sixty-five and a half milligrammes of gold of millesimal fineness nine hundred.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Odpowiedzialność osoby utrzymującej hotel nie podlega ograniczeniu:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jeśli rzeczy zostały jej oddane na przechowanie,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jeśli odmówiła ona przyjęcia na przechowanie rzeczy, które zobowiązana jest przyjąć.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Osoba utrzymująca hotel zobowiązana jest przyjąć na przechowanie papiery wartościowe, gotówkę i cenne przedmioty. Może ona odmówić przyjęcia tych rzeczy tylko wówczas, gdy zagrażają bezpieczeństwu albo gdy w stosunku do wielkości lub standardu hotelu mają zbyt dużą wartość lub zajmują zbyt dużo miejsca.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Osoba utrzymująca hotel może wymagać, aby rzecz znajdowała się w zamkniętym lub zapieczętowanym pojemniku.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Osoba utrzymująca hotel nie jest odpowiedzialna za uszkodzenie, zniszczenie lub utratę rzeczy, które spowodowane zostały:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
+     "path": "art_3/lit_a",
      "text": "przez gościa hotelowego lub osoby, które mu towarzyszyły, były u niego zatrudnione albo go odwiedzały,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
+     "path": "art_3/lit_b",
      "text": "wskutek siły wyższej,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_3/lit_c",
+     "path": "art_3/lit_c",
      "text": "ze względu na właściwości rzeczy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Osoba utrzymująca hotel jest odpowiedzialna bez ograniczenia przewidzianego w artykule 1 ustęp 3 niniejszego załącznika, jeśli uszkodzenie, zniszczenie lub utrata rzeczy nastąpiły z jej winy umyślnej lub nieumyślnej albo z winy osób, za które jest ona odpowiedzialna.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Z wyjątkiem przewidzianym w artykule 4 załącznika, gość hotelowy traci uprawnienia przysługujące mu na podstawie niniejszych postanowień, jeżeli po stwierdzeniu uszkodzenia, zniszczenia lub utraty rzeczy nie powiadomił o tym osoby utrzymującej hotel bez nieuzasadnionej zwłoki.",
+   "children": [],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Wszelkie ogłoszenie lub umowa wyłączające lub ograniczające z góry odpowiedzialność osoby utrzymującej hotel są nieważne i nie wywołują skutków prawnych.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Postanowień niniejszego załącznika nie stosuje się do pojazdów i pozostawionych w nich rzeczy ani do zwierząt żywych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Article 2"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "The liability of a hotel-keeper shall be unlimited:",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 4"
+       "text": "a. where the property has been deposited with him;"
       },
       {
        "type": "text",
-       "text": "Osoba utrzymująca hotel jest odpowiedzialna bez ograniczenia przewidzianego w artykule 1 ustęp 3 niniejszego załącznika, jeśli uszkodzenie, zniszczenie lub utrata rzeczy nastąpiły z jej winy umyślnej lub nieumyślnej albo z winy osób, za które jest ona odpowiedzialna."
+       "text": "b. where he has refused to receive property which he is bound to receive for safe custody."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "A hotel-keeper shall be bound to receive securities, money and valuable articles; he may only refuse to receive such property if it dangerous or if, having regard to the size or standing of the hotel, it is of excessive value or cumbersome.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "A hotel-keeper shall have the right to require that the article shall be in a fastened or sealed container.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
       },
       {
        "type": "text",
-       "text": "Artykuł 5"
+       "text": "A hotel-keeper shall not be liable in so far as the damage, destruction or loss is due:"
       },
       {
        "type": "text",
-       "text": "Z wyjątkiem przewidzianym w artykule 4 załącznika, gość hotelowy traci uprawnienia przysługujące mu na podstawie niniejszych postanowień, jeżeli po stwierdzeniu uszkodzenia, zniszczenia lub utraty rzeczy nie powiadomił o tym osoby utrzymującej hotel bez nieuzasadnionej zwłoki."
+       "text": "a. to the guest or any person accompanying him or in his employment or any person visiting him;"
       },
       {
        "type": "text",
-       "text": "Artykuł 6"
+       "text": "b. to an unforeseeable and irresistible act of nature or an act of war;"
       },
       {
        "type": "text",
-       "text": "Wszelkie ogłoszenie lub umowa wyłączające lub ograniczające z góry odpowiedzialność osoby utrzymującej hotel są nieważne i nie wywołują skutków prawnych."
+       "text": "c. to the nature of the article."
       },
       {
        "type": "text",
-       "text": "Artykuł 7"
+       "text": "Article 4"
       },
       {
        "type": "text",
-       "text": "Postanowień niniejszego załącznika nie stosuje się do pojazdów i pozostawionych w nich rzeczy ani do zwierząt żywych."
+       "text": "The hotel-keeper shall be liable and shall not have the benefit of the limitation on his liability laid down in paragraph 3 of Article 1 of this annex where the damage, destruction or loss is caused by a wilful act or omission or negligence, on his part or on the part of any person for whose actions he is responsible."
       },
       {
        "type": "text",
-       "text": "Article 2"
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Except in any case to which Article 4 of this annex applies, the guest shall cease to be entitled to the benefit of these provisions if after discovering the damage, destruction or loss he does not inform the hotel - -keeper without undue delay."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Any notice or agreement purporting to exclude or diminish the hotel-keeper’s liability given or made before the damage, destruction or loss has occurred shall be null and void."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      },
+      {
+       "type": "text",
+       "text": "The provisions of this annex shall not apply to vehicles, any property left with a vehicle, or live animals."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Po zapoznaniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+      },
+      {
+       "type": "text",
+       "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+      },
+      {
+       "type": "text",
+       "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+      },
+      {
+       "type": "text",
+       "text": "— będzie niezmiennie zachowywana."
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The liability of a hotel-keeper shall be unlimited:",
-   "children": [
-    {
-     "type": "text",
-     "text": "a. where the property has been deposited with him;"
-    },
-    {
-     "type": "text",
-     "text": "b. where he has refused to receive property which he is bound to receive for safe custody."
-    }
-   ]
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "A hotel-keeper shall be bound to receive securities, money and valuable articles; he may only refuse to receive such property if it dangerous or if, having regard to the size or standing of the hotel, it is of excessive value or cumbersome.",
-   "children": []
+   "type": "text",
+   "text": "Dano w Warszawie dnia 4 lutego 1997 r."
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "A hotel-keeper shall have the right to require that the article shall be in a fastened or sealed container.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "A hotel-keeper shall not be liable in so far as the damage, destruction or loss is due:"
-    },
-    {
-     "type": "text",
-     "text": "a. to the guest or any person accompanying him or in his employment or any person visiting him;"
-    },
-    {
-     "type": "text",
-     "text": "b. to an unforeseeable and irresistible act of nature or an act of war;"
-    },
-    {
-     "type": "text",
-     "text": "c. to the nature of the article."
-    },
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "The hotel-keeper shall be liable and shall not have the benefit of the limitation on his liability laid down in paragraph 3 of Article 1 of this annex where the damage, destruction or loss is caused by a wilful act or omission or negligence, on his part or on the part of any person for whose actions he is responsible."
-    },
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "Except in any case to which Article 4 of this annex applies, the guest shall cease to be entitled to the benefit of these provisions if after discovering the damage, destruction or loss he does not inform the hotel - -keeper without undue delay."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Any notice or agreement purporting to exclude or diminish the hotel-keeper’s liability given or made before the damage, destruction or loss has occurred shall be null and void."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    },
-    {
-     "type": "text",
-     "text": "The provisions of this annex shall not apply to vehicles, any property left with a vehicle, or live animals."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Po zapoznaniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 4 lutego 1997 r."
-    },
-    {
-     "type": "text",
-     "text": "L.S."
-    }
-   ]
+   "type": "text",
+   "text": "L.S."
   },
   {
    "type": "signature",

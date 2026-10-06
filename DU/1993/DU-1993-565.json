@@ -69,212 +69,217 @@
    "text": "— uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Umawiające się Strony będą popierać inicjatywy i formy wszechstronnej i bezpośredniej współpracy, podejmowane przez państwowe, społeczne i prywatne instytucje, organizacje, stowarzyszenia, związki naukowe i twórcze oraz osoby indywidualne, służące osiągnięciu celów niniejszej umowy i wzajemnemu zbliżeniu obu Państw.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać inicjatywy i formy wszechstronnej i bezpośredniej współpracy, podejmowane przez państwowe, społeczne i prywatne instytucje, organizacje, stowarzyszenia, związki naukowe i twórcze oraz osoby indywidualne, służące osiągnięciu celów niniejszej umowy i wzajemnemu zbliżeniu obu Państw."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony będą popierać zainteresowanie dziedzictwem kulturalnym i współczesnymi osiągnięciami kulturalnymi drugiej Strony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą popierać pogłębianie wzajemnego poznania swych kultur poprzez stymulowanie bezpośredniej, w tym indywidualnej, współpracy i wymiany we wszystkich dziedzinach kultury oraz pracy twórczej, w szczególności poprzez:"
+    },
+    {
+     "type": "text",
+     "text": "— tłumaczenie i publikację dzieł naukowych, literackich i artystycznych autorów drugiej Strony,"
+    },
+    {
+     "type": "text",
+     "text": "— wykonywanie, rozpowszechnianie i popularyzację dzieł muzycznych, teatralnych i audiowizualnych,"
+    },
+    {
+     "type": "text",
+     "text": "— ekspozycje dzieł plastycznych,"
+    },
+    {
+     "type": "text",
+     "text": "— wymianę artystów i zespołów artystycznych,"
+    },
+    {
+     "type": "text",
+     "text": "— udział przedstawicieli jednej Strony w festiwalach, konkursach, przeglądach, konferencjach i spotkaniach międzynarodowych o charakterze kulturalnym, organizowanych przez drugą Stronę."
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony zagwarantują swobodny rozwój kultury narodowej Polakom zamieszkującym w Republice Bułgarii oraz Bułgarom zamieszkującym w Rzeczypospolitej Polskiej.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać zainteresowanie dziedzictwem kulturalnym i współczesnymi osiągnięciami kulturalnymi drugiej Strony."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą popierać i rozszerzać współpracę i wymianę w dziedzinie edukacji i nauki oraz stwarzać odpowiednie warunki do bezpośrednich kontaktów między szkołami, instytucjami oświatowymi i naukowymi.",
+   "children": [],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać pogłębianie wzajemnego poznania swych kultur poprzez stymulowanie bezpośredniej, w tym indywidualnej, współpracy i wymiany we wszystkich dziedzinach kultury oraz pracy twórczej, w szczególności poprzez:"
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony będą popierać nauczanie i popularyzowanie języka drugiej Strony w szkołach wyższych i innych placówkach oświatowych, a także podejmowanie wspólnych prac naukowo-badawczych w zakresie języka, literatury, historii i geografii.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "— tłumaczenie i publikację dzieł naukowych, literackich i artystycznych autorów drugiej Strony,"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Umawiające się Strony będą powoływać komisje mieszane dla uzgodnienia materiału naukowego zawartego w podręcznikach szkolnych z zakresu literatury, historii i geografii, w działach dotyczących obu krajów.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "— wykonywanie, rozpowszechnianie i popularyzację dzieł muzycznych, teatralnych i audiowizualnych,"
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony będą popierać współpracę Polskiej Akademii Nauk i Bułgarskiej Akademii Nauk oraz innych organizacji i instytutów naukowych, realizowaną na podstawie zawieranych przez nie porozumień.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "— ekspozycje dzieł plastycznych,"
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą popierać działalność Polskiego Ośrodka Informacji i Kultury w Sofii i Bułgarskiego Ośrodka Kultury i Informacji w Warszawie.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "— wymianę artystów i zespołów artystycznych,"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Umawiające się Strony będą wspierać działalność Stowarzyszenia Kulturalno-Oświatowego imienia Christo Botewa w Polsce oraz Polskiego Stowarzyszenia Kulturalno- -Oświatowego imienia Władysława Warneńczyka w Bułgarii.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "— udział przedstawicieli jednej Strony w festiwalach, konkursach, przeglądach, konferencjach i spotkaniach międzynarodowych o charakterze kulturalnym, organizowanych przez drugą Stronę."
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony będą popierać bezpośrednią współpracę między swoimi Komitetami Narodowymi do spraw UNESCO.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Każda z Umawiających się Stron będzie zapewniać obywatelom drugiej Strony ochronę praw autorskich w celu ułatwienia upowszechniania i popularyzacji wartości intelektualnych i kulturalnych.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony zagwarantują swobodny rozwój kultury narodowej Polakom zamieszkującym w Republice Bułgarii oraz Bułgarom zamieszkującym w Rzeczypospolitej Polskiej."
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Umawiające się Strony będą popierać wzajemny swobodny przepływ informacji o życiu politycznym, społecznym, kulturalnym i naukowym drugiego Państwa dla zapewnienia obiektywnej i wszechstronnej informacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W tym celu obie Strony będą współdziałać w rozwoju współpracy między instytucjami radiowymi i telewizyjnymi, agencjami prasowymi, stowarzyszeniami dziennikarskimi, wydawnictwami prasowymi i redakcjami na podstawie zawartych między nimi roboczych protokołów."
+    }
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "note",
-   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Umawiające się Strony będą współpracowały w dziedzinie ochrony zdrowia i nauk medycznych na podstawie odrębnych bezpośrednich porozumień.",
+   "children": [],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Artykuł 4"
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Naczelna Dyrekcja Archiwów Państwowych Rzeczypospolitej Polskiej i Główny Zarząd Archiwów przy Radzie Ministrów Republiki Bułgarii będą rozwijać współpracę w oparciu o zawarte między nimi porozumienia.",
+   "children": [],
+   "label": "Artykuł 14"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać i rozszerzać współpracę i wymianę w dziedzinie edukacji i nauki oraz stwarzać odpowiednie warunki do bezpośrednich kontaktów między szkołami, instytucjami oświatowymi i naukowymi."
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Umawiające się Strony będą współdziałały w rozwoju bezpośredniej współpracy i wymianie bezdewizowej między organizacjami i stowarzyszeniami młodzieżowymi oraz instytucjami prowadzącymi pracę z młodzieżą w obu krajach.",
+   "children": [],
+   "label": "Artykuł 15"
   },
   {
-   "type": "text",
-   "text": "Artykuł 5"
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Umawiające się Strony będą popierać rozwój współpracy w dziedzinie kultury fizycznej, sportu i turystyki.",
+   "children": [],
+   "label": "Artykuł 16"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać nauczanie i popularyzowanie języka drugiej Strony w szkołach wyższych i innych placówkach oświatowych, a także podejmowanie wspólnych prac naukowo-badawczych w zakresie języka, literatury, historii i geografii."
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Umawiające się Strony będą opracowywać okresowe programy wykonawcze do umowy, określające warunki finansowe i organizacyjne.",
+   "children": [],
+   "label": "Artykuł 17"
   },
   {
-   "type": "text",
-   "text": "Artykuł 6"
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie w dniu otrzymania drugiej noty zawiadamiającej o zatwierdzeniu niniejszej umowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W dniu wejścia w życie niniejszej umowy traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Ludowej Republiki Bułgarii o współpracy kulturalnej i naukowej, podpisana w Sofii dnia 1 lutego 1979 r."
+    }
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą powoływać komisje mieszane dla uzgodnienia materiału naukowego zawartego w podręcznikach szkolnych z zakresu literatury, historii i geografii, w działach dotyczących obu krajów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać współpracę Polskiej Akademii Nauk i Bułgarskiej Akademii Nauk oraz innych organizacji i instytutów naukowych, realizowaną na podstawie zawieranych przez nie porozumień."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać działalność Polskiego Ośrodka Informacji i Kultury w Sofii i Bułgarskiego Ośrodka Kultury i Informacji w Warszawie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą wspierać działalność Stowarzyszenia Kulturalno-Oświatowego imienia Christo Botewa w Polsce oraz Polskiego Stowarzyszenia Kulturalno- -Oświatowego imienia Władysława Warneńczyka w Bułgarii."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać bezpośrednią współpracę między swoimi Komitetami Narodowymi do spraw UNESCO."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Każda z Umawiających się Stron będzie zapewniać obywatelom drugiej Strony ochronę praw autorskich w celu ułatwienia upowszechniania i popularyzacji wartości intelektualnych i kulturalnych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać wzajemny swobodny przepływ informacji o życiu politycznym, społecznym, kulturalnym i naukowym drugiego Państwa dla zapewnienia obiektywnej i wszechstronnej informacji."
-  },
-  {
-   "type": "text",
-   "text": "W tym celu obie Strony będą współdziałać w rozwoju współpracy między instytucjami radiowymi i telewizyjnymi, agencjami prasowymi, stowarzyszeniami dziennikarskimi, wydawnictwami prasowymi i redakcjami na podstawie zawartych między nimi roboczych protokołów."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współpracowały w dziedzinie ochrony zdrowia i nauk medycznych na podstawie odrębnych bezpośrednich porozumień."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "Naczelna Dyrekcja Archiwów Państwowych Rzeczypospolitej Polskiej i Główny Zarząd Archiwów przy Radzie Ministrów Republiki Bułgarii będą rozwijać współpracę w oparciu o zawarte między nimi porozumienia."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 15"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą współdziałały w rozwoju bezpośredniej współpracy i wymianie bezdewizowej między organizacjami i stowarzyszeniami młodzieżowymi oraz instytucjami prowadzącymi pracę z młodzieżą w obu krajach."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać rozwój współpracy w dziedzinie kultury fizycznej, sportu i turystyki."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 17"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą opracowywać okresowe programy wykonawcze do umowy, określające warunki finansowe i organizacyjne."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 18"
-  },
-  {
-   "type": "text",
-   "text": "Umowa niniejsza podlega przyjęciu zgodnie z prawem każdej z Umawiających się Stron i wejdzie w życie w dniu otrzymania drugiej noty zawiadamiającej o zatwierdzeniu niniejszej umowy."
-  },
-  {
-   "type": "text",
-   "text": "W dniu wejścia w życie niniejszej umowy traci moc Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Ludowej Republiki Bułgarii o współpracy kulturalnej i naukowej, podpisana w Sofii dnia 1 lutego 1979 r."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 19"
-  },
-  {
-   "type": "text",
-   "text": "Umowę niniejszą zawiera się na okres dziesięciu lat. Ulega ona automatycznemu przedłużaniu na okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu ważności."
-  },
-  {
-   "type": "text",
-   "text": "Podpisano w Warszawie dnia 25 lutego 1993 r. w dwóch egzemplarzach, każdy w językach polskim i bułgarskim, przy czym obydwa teksty mają jednakową moc."
-  },
-  {
-   "type": "text",
-   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Bułgarii l. Byczewski D. Ikonomow"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Po zapoznaniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 23 marca 1993 r."
-  },
-  {
-   "type": "text",
-   "text": "Prezydent Rzeczypospolitej Polskiej: Ł. Wałęsa L.S."
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Umowę niniejszą zawiera się na okres dziesięciu lat. Ulega ona automatycznemu przedłużaniu na okresy pięcioletnie, jeżeli żadna z Umawiających się Stron nie wypowie jej w drodze notyfikacji na sześć miesięcy przed upływem danego okresu ważności.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Podpisano w Warszawie dnia 25 lutego 1993 r. w dwóch egzemplarzach, każdy w językach polskim i bułgarskim, przy czym obydwa teksty mają jednakową moc."
+    },
+    {
+     "type": "text",
+     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Rzeczypospolitej Polskiej Republiki Bułgarii l. Byczewski D. Ikonomow"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Po zapoznaniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 23 marca 1993 r."
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej Polskiej: Ł. Wałęsa L.S."
+    }
+   ],
+   "label": "Artykuł 19"
   },
   {
    "type": "signature",

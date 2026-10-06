@@ -89,75 +89,87 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Strony zobowiązują się umacniać przyjaźń i współpracę oraz pogłębiać zrozumienie i zaufanie istniejące między nimi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą postępować we wzajemnych stosunkach zgodnie z zasadami suwerennej równości, zakazu stosowania siły lub groźby jej użycia, nienaruszalności granic, integralności terytorialnej państw, pokojowego rozstrzygania sporów, nieingerencji w sprawy wewnętrzne, przestrzegania praw człowieka i podstawowych swobód, równych praw narodów oraz ich prawa do samostanowienia.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Strony zobowiązują się umacniać przyjaźń i współpracę oraz pogłębiać zrozumienie i zaufanie istniejące między nimi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Strony będą postępować we wzajemnych stosunkach zgodnie z zasadami suwerennej równości, zakazu stosowania siły lub groźby jej użycia, nienaruszalności granic, integralności terytorialnej państw, pokojowego rozstrzygania sporów, nieingerencji w sprawy wewnętrzne, przestrzegania praw człowieka i podstawowych swobód, równych praw narodów oraz ich prawa do samostanowienia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą dążyć do umocnienia międzynarodowej stabilizacji, bezpieczeństwa i współpracy, w szczególności na kontynencie europejskim. Będą wspierały skuteczne funkcjonowanie zintegrowanych europejskich i transatlantyckich instytucji i mechanizmów zapewniających bezpieczeństwo i budujących zaufanie. Strony będą także współdziałać w wypracowywaniu dalszych środków w ramach współpracy dwustronnej i regionalnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą współpracować na rzecz osiągnięcia możliwie najniższego poziomu sił zbrojnych i uzbrojenia w Europie w celu eliminacji potencjału umożliwiającego agresję zbrojną, uwzględniając jednocześnie potrzeby uzasadnione obroną i bezpieczeństwem państw, zgodnie z postanowieniami Karty Narodów Zjednoczonych.",
-   "children": []
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Strony będą dążyć do umocnienia międzynarodowej stabilizacji, bezpieczeństwa i współpracy, w szczególności na kontynencie europejskim. Będą wspierały skuteczne funkcjonowanie zintegrowanych europejskich i transatlantyckich instytucji i mechanizmów zapewniających bezpieczeństwo i budujących zaufanie. Strony będą także współdziałać w wypracowywaniu dalszych środków w ramach współpracy dwustronnej i regionalnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Strony będą współpracować na rzecz osiągnięcia możliwie najniższego poziomu sił zbrojnych i uzbrojenia w Europie w celu eliminacji potencjału umożliwiającego agresję zbrojną, uwzględniając jednocześnie potrzeby uzasadnione obroną i bezpieczeństwem państw, zgodnie z postanowieniami Karty Narodów Zjednoczonych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Strony będą działać wspólnie na rzecz umocnienia międzynarodowych mechanizmów mających na celu nierozprzestrzenianie oraz eliminację wszystkich broni masowego rażenia, a także na rzecz popierania uczestnictwa wszystkich państw w tych mechanizmach oraz ich pełnego stosowania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Strony będą działać wspólnie na rzecz umocnienia międzynarodowych mechanizmów mających na celu nierozprzestrzenianie oraz eliminację wszystkich broni masowego rażenia, a także na rzecz popierania uczestnictwa wszystkich państw w tych mechanizmach oraz ich pełnego stosowania.",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Strony będą dążyć do trwałego przekształcenia Europy w kontynent, na którym będą przestrzegane prawa człowieka i podstawowe swobody oraz fundamentalne zasady demokracji i sprawiedliwości. W tym celu będą one współpracować w ramach Konferencji Bezpieczeństwa i Współpracy w Europie, Rady Europy oraz innych organizacji międzynarodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Strony będą działać na rzecz usuwania dzielących Europę różnic w poziomie rozwoju oraz przekształcania kontynentu europejskiego w obszar wspólnego dobrobytu i współpracy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą dążyć do trwałego przekształcenia Europy w kontynent, na którym będą przestrzegane prawa człowieka i podstawowe swobody oraz fundamentalne zasady demokracji i sprawiedliwości. W tym celu będą one współpracować w ramach Konferencji Bezpieczeństwa i Współpracy w Europie, Rady Europy oraz innych organizacji międzynarodowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą działać na rzecz usuwania dzielących Europę różnic w poziomie rozwoju oraz przekształcania kontynentu europejskiego w obszar wspólnego dobrobytu i współpracy.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Strony będą prowadzić regularne konsultacje na różnych szczeblach w celu zapewnienia dalszego rozwoju i pogłębiania stosunków dwustronnych. Konsul-",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą prowadzić regularne konsultacje na różnych szczeblach w celu zapewnienia dalszego rozwoju i pogłębiania stosunków dwustronnych. Konsul-"
-    },
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
@@ -165,117 +177,130 @@
     {
      "type": "text",
      "text": "tacje te będą dotyczyć w szczególności bezpieczeństwa europejskiego i regionalnego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać bezpośrednie kontakty między parlamentami, partiami politycznymi, stowarzyszeniami, organizacjami gospodarczymi oraz związkami zawodowymi."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą popierać współpracę między ich terenowymi jednostkami administracji oraz będą zachęcać do powstawania związków miast bliźniaczych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Strony będą sprzyjać rozwojowi współpracy kulturalnej. Strony otoczą szczególną opieką historyczne miejsca i dobra kultury związane z historią i tradycjami drugiej Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony będą sprzyjać wzajemnie korzystnej współpracy gospodarczej, włączając wymianę handlową opartą na zasadach rynkowych. Stworzą one dogodne warunki takiej współpracy, z uwzględnieniem ochrony inwestycji, technologii, praw autorskich i patentowych; zawrą odpowiednie umowy w zakresie współpracy gospodarczej.",
-   "children": []
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Strony będą popierać bezpośrednie kontakty między parlamentami, partiami politycznymi, stowarzyszeniami, organizacjami gospodarczymi oraz związkami zawodowymi.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą sprzyjać rozwojowi współpracy naukowej i technicznej.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strony będą popierać współpracę między ich terenowymi jednostkami administracji oraz będą zachęcać do powstawania związków miast bliźniaczych.",
+   "children": [],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Strony będą sprzyjać rozwojowi współpracy kulturalnej. Strony otoczą szczególną opieką historyczne miejsca i dobra kultury związane z historią i tradycjami drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 9"
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Strony będą sprzyjać wzajemnie korzystnej współpracy gospodarczej, włączając wymianę handlową opartą na zasadach rynkowych. Stworzą one dogodne warunki takiej współpracy, z uwzględnieniem ochrony inwestycji, technologii, praw autorskich i patentowych; zawrą odpowiednie umowy w zakresie współpracy gospodarczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Strony będą sprzyjać rozwojowi współpracy naukowej i technicznej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strony potwierdzają swoje stanowisko przeciwne wszelkim rodzajom terroryzmu, niezależnie od motywów i celów działania sprawców. Strony uznają, że terroryzm nie może być usprawiedliwiony żadnymi okolicznościami.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strony będą współpracować w zwalczaniu międzynarodowego terroryzmu, zorganizowanej przestępczości oraz przemytu broni, narkotyków i przedmiotów narodowego dziedzictwa, zgodnie z obowiązującym ustawodawstwem wewnętrznym każdej ze Stron.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Strony potwierdzają swoje stanowisko przeciwne wszelkim rodzajom terroryzmu, niezależnie od motywów i celów działania sprawców. Strony uznają, że terroryzm nie może być usprawiedliwiony żadnymi okolicznościami.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Niniejszy układ nie jest wymierzony przeciwko jakiemukolwiek państwu i nie narusza jakichkolwiek praw ani zobowiązań wynikających z umów dwustronnych i wielostronnych obowiązujących w stosunkach każdej ze Stron z innymi państwami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Strony będą współpracować w zwalczaniu międzynarodowego terroryzmu, zorganizowanej przestępczości oraz przemytu broni, narkotyków i przedmiotów narodowego dziedzictwa, zgodnie z obowiązującym ustawodawstwem wewnętrznym każdej ze Stron.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy układ podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych.",
-   "children": []
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Niniejszy układ nie jest wymierzony przeciwko jakiemukolwiek państwu i nie narusza jakichkolwiek praw ani zobowiązań wynikających z umów dwustronnych i wielostronnych obowiązujących w stosunkach każdej ze Stron z innymi państwami.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Układ niniejszy zostaje zawarty na okres 10 lat. Będzie on automatycznie przedłużany na kolejne okresy pięcioletnie, jeżeli żadna ze Stron nie wypowie go w drodze pisemnej notyfikacji skierowanej do drugiej Strony przynajmniej na rok przed upływem kolejnego okresu ważności.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 3 listopada 1993 r. w dwóch egzemplarzach, każdy w językach polskim, tureckim i angielskim, przy czym wszystkie teksty mają jednakową moc. W razie rozbieżności przy ich interpretacji, rozstrzygający będzie tekst w języku angielskim."
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Niniejszy układ podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Tureckiej L. Wałęsa S. Demirel"
-    },
-    {
-     "type": "text",
-     "text": "Po zapoznaniu się z powyższym układem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 1 grudnia 1993 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Układ niniejszy zostaje zawarty na okres 10 lat. Będzie on automatycznie przedłużany na kolejne okresy pięcioletnie, jeżeli żadna ze Stron nie wypowie go w drodze pisemnej notyfikacji skierowanej do drugiej Strony przynajmniej na rok przed upływem kolejnego okresu ważności.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 3 listopada 1993 r. w dwóch egzemplarzach, każdy w językach polskim, tureckim i angielskim, przy czym wszystkie teksty mają jednakową moc. W razie rozbieżności przy ich interpretacji, rozstrzygający będzie tekst w języku angielskim."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu W imieniu Rzeczypospolitej Polskiej Republiki Tureckiej L. Wałęsa S. Demirel"
+  },
+  {
+   "type": "text",
+   "text": "Po zapoznaniu się z powyższym układem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 1 grudnia 1993 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

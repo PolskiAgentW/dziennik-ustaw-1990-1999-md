@@ -1,7 +1,7 @@
 {
  "eli": "DU/1999/973",
  "title": "Rozporządzenie Ministra Finansów z dnia 14 października 1999 r. w sprawie wykazu gwarantów uprawnionych do udzielania gwarancji składanych jako zabezpieczenie pokrycia kwot wynikających z długów celnych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/973/text.pdf",
  "body": [
   {
@@ -378,102 +378,102 @@
      "num": "7",
      "path": "par_7",
      "text": "LG Petro Bank S.A. 58: Lubelski Bank Regionalny S.A.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
-     "text": "LUKAS Bank Świętokrzyski S.A.",
      "children": [
       {
        "type": "ust",
+       "num": "59",
+       "path": "par_7/ust_59",
+       "text": "LUKAS Bank Świętokrzyski S.A.",
+       "children": []
+      },
+      {
+       "type": "ust",
        "num": "60",
-       "path": "par_9/ust_60",
+       "path": "par_7/ust_60",
        "text": "Małopolski Bank Regionalny S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "61",
-       "path": "par_9/ust_61",
+       "path": "par_7/ust_61",
        "text": "Mazowiecki Bank Regionalny S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "62",
-       "path": "par_9/ust_62",
+       "path": "par_7/ust_62",
        "text": "OPEL BANK S.A. |",
        "children": []
       },
       {
        "type": "ust",
        "num": "63",
-       "path": "par_9/ust_63",
+       "path": "par_7/ust_63",
        "text": "Pierwszy Polsko-Amerykański Bank S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "64",
-       "path": "par_9/ust_64",
+       "path": "par_7/ust_64",
        "text": "Polsko-Kanadyjski Bank Św. Stanistawa S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "65",
-       "path": "par_9/ust_65",
+       "path": "par_7/ust_65",
        "text": "Pomorsko-Kujawski Bank Regionalny S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "66",
-       "path": "par_9/ust_66",
+       "path": "par_7/ust_66",
        "text": "Powszechna Kasa Oszczędności — Bank Państwowy",
        "children": []
       },
       {
        "type": "ust",
        "num": "67",
-       "path": "par_9/ust_67",
+       "path": "par_7/ust_67",
        "text": "Powszechny Bank Kredytowy S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "68",
-       "path": "par_9/ust_68",
+       "path": "par_7/ust_68",
        "text": "PROSPER-BANK S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "69",
-       "path": "par_9/ust_69",
+       "path": "par_7/ust_69",
        "text": "Rabobank Polska S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "70",
-       "path": "par_9/ust_70",
+       "path": "par_7/ust_70",
        "text": "Raiffeisen-Centrobank S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "71",
-       "path": "par_9/ust_71",
+       "path": "par_7/ust_71",
        "text": "SOCIETE GENERALE-SUCCURSALE de VARSOVIE",
        "children": []
       },
       {
        "type": "ust",
        "num": "72",
-       "path": "par_9/ust_72",
+       "path": "par_7/ust_72",
        "text": "VOLKSWAGEN BANK POLSKA S.A.",
        "children": [
         {
@@ -485,35 +485,35 @@
       {
        "type": "ust",
        "num": "73",
-       "path": "par_9/ust_73",
+       "path": "par_7/ust_73",
        "text": "Warmińsko-Mazurski Bank Regionalny S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "74",
-       "path": "par_9/ust_74",
+       "path": "par_7/ust_74",
        "text": "Westdeutsche Landesbank Polska S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "75",
-       "path": "par_9/ust_75",
+       "path": "par_7/ust_75",
        "text": "Wielkopolski Bank Kredytowy S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "76",
-       "path": "par_9/ust_76",
+       "path": "par_7/ust_76",
        "text": "Wielkopolski Bank Rolniczy S.A.",
        "children": []
       },
       {
        "type": "ust",
        "num": "77",
-       "path": "par_9/ust_77",
+       "path": "par_7/ust_77",
        "text": "Wschodni Bank Cukrownictwa S.A.",
        "children": [
         {
@@ -525,140 +525,140 @@
       {
        "type": "ust",
        "num": "1",
-       "path": "par_9/ust_1",
+       "path": "par_7/ust_1",
        "text": "AIG Polska Towarzystwo Ubezpieczeń S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "2",
-       "path": "par_9/ust_2",
+       "path": "par_7/ust_2",
        "text": "Korporacja Ubezpieczeniowa FILAR S.A. w Szczecinie",
        "children": []
       },
       {
        "type": "ust",
        "num": "3",
-       "path": "par_9/ust_3",
+       "path": "par_7/ust_3",
        "text": "Towarzystwo Ubezpieczeniowe COMPENSA S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "4",
-       "path": "par_9/ust_4",
+       "path": "par_7/ust_4",
        "text": "Bankowe Towarzystwo Ubezpieczeń i Reasekuracji HEROS S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "par_9/ust_5",
+       "path": "par_7/ust_5",
        "text": "Sopockie Towarzystwo Ubezpieczeniowe HESTIA INSURANCE S.A. w Sopocie",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "par_9/ust_6",
+       "path": "par_7/ust_6",
        "text": "Zakład Ubezpieczeń i Reasekuracji POLONIA S.A. w Łodzi",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
-       "path": "par_9/ust_7",
+       "path": "par_7/ust_7",
        "text": "Towarzystwo Ubezpieczeń i Reasekuracji WARTA S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "8",
-       "path": "par_9/ust_8",
+       "path": "par_7/ust_8",
        "text": "Powszechny Zakład Ubezpieczeń S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "9",
-       "path": "par_9/ust_9",
+       "path": "par_7/ust_9",
        "text": "Towarzystwo Ubezpieczeń w Rolnictwie i Gospodarce Żywnościowej AGROPOLISA S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "10",
-       "path": "par_9/ust_10",
+       "path": "par_7/ust_10",
        "text": "„Gerling Polska” Towarzystwo Ubezpieczeń S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "11",
-       "path": "par_9/ust_11",
+       "path": "par_7/ust_11",
        "text": "Powszechne Towarzystwo Ubezpieczeniowe ENERGO-ASEKURACJA S.A. w Radomiu",
        "children": []
       },
       {
        "type": "ust",
        "num": "12",
-       "path": "par_9/ust_12",
+       "path": "par_7/ust_12",
        "text": "Korporacja Ubezpieczeń Kredytów Eksportowych S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "13",
-       "path": "par_9/ust_13",
+       "path": "par_7/ust_13",
        "text": "Towarzystwo Ubezpieczeń Wzajemnych WIELKO- POLSKA w Poznaniu",
        "children": []
       },
       {
        "type": "ust",
        "num": "14",
-       "path": "par_9/ust_14",
+       "path": "par_7/ust_14",
        "text": "Towarzystwo Ubezpieczeniowe ALLIANZ Polska S.A. w Warszawie |",
        "children": []
       },
       {
        "type": "ust",
        "num": "15",
-       "path": "par_9/ust_15",
+       "path": "par_7/ust_15",
        "text": "DAEWOO Towarzystwo Ubezpieczeniowe S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "16",
-       "path": "par_9/ust_16",
+       "path": "par_7/ust_16",
        "text": "Towarzystwo Ubezpieczeń i Reasekuracji CIGNA STU S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "17",
-       "path": "par_9/ust_17",
+       "path": "par_7/ust_17",
        "text": "Towarzystwo Ubezpieczeniowe INTER-FORTUNA S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "18",
-       "path": "par_9/ust_18",
+       "path": "par_7/ust_18",
        "text": "Towarzystwo Ubezpieczeń i eiekuacjh PARTNER S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "19",
-       "path": "par_9/ust_19",
+       "path": "par_7/ust_19",
        "text": "Commercial Union Polska — Towarzystwo Ubezpieczeń Ogólnych S.A. w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "20",
-       "path": "par_9/ust_20",
+       "path": "par_7/ust_20",
        "text": "Generali Towarzystwo Ubezpieczeń S.A. w Warszawie.",
        "children": []
       }

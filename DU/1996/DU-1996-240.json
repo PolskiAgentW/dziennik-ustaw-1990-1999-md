@@ -65,249 +65,258 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Tytuł umowy zostaje skreślony i zastąpiony następującym tekstem:",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "„Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii w sprawie zapobieżenia podwójnemu opodatkowaniu w zakresie podatków od dochodu i majątku”.",
-     "quoted": true
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Tytuł umowy zostaje skreślony i zastąpiony następującym tekstem:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Danii w sprawie zapobieżenia podwójnemu opodatkowaniu w zakresie podatków od dochodu i majątku”.",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Określenie „Polska Rzeczpospolita Ludowa”, gdziekolwiek występuje w preambule lub w tekście umowy, zostaje skreślone i zastąpione określeniem „Rzeczpospolita Polska”.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „Polska Rzeczpospolita Ludowa”, gdziekolwiek występuje w preambule lub w tekście umowy, zostaje skreślone i zastąpione określeniem „Rzeczpospolita Polska”.",
+   "type": "art",
+   "num": "II",
+   "path": "art_II",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł II"
+     "type": "ust",
+     "num": "1",
+     "path": "art_II/ust_1",
+     "text": "Punkt a) w artykule 2 ustęp 3 zostaje skreślony i zastąpiony następującym tekstem: „a) w Rzeczypospolitej Polskiej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1) podatek dochodowy od osób prawnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) podatek dochodowy od osób fizycznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) podatek rolny,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(zwane dalej „podatkami polskimi"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_II/ust_2",
+     "text": "Punkt b) w artykule 2 ustęp 3 zostaje skreślony i zastąpiony następującym tekstem:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„b) w Królestwie Danii:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) państwowy podatek dochodowy (indkomstskatten til staten),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) komunalny podatek dochodowy (den kommunale indkomstskat),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) podatek dochodowy na rzecz zarządów jednostek administracyjnych (den amstkommunale indkomstskat),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "PROTOKÓŁ",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "to amend the Agreement between the Government of the Polish Peoples's Republic and the Government of the Kingdom of Denmark for the avoidance of double taxation with respect to taxes on income and capital",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "The Government of the Republic of Poland and the Government of the Kingdom of Denmark,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "desiring to conclude a Protocol to amend the Agreement for the avoidance of double taxation with respect to taxes on income and capital signed at Copenhagen on April 6, 1976,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "have agreed as follows:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Article I",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. The title of the Agreement shall be deleted and replaced by the following:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„Agreement between the Government of the Republic of Poland and the Government of the Kingdom of Denmark for the avoidance of double taxation with respect to taxes on income and capital”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. The term „the Polish People's Republic” wherever used in the preamble of the Agreement or in the text of the Agreement shall be deleted and replaced by the term \"the Republic of Poland”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Article II"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_II/ust_1",
+     "text": "Subparagraph a) of paragraph 3 of Article 2 shall be deleted and replaced by the following:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„a) in the Republic of Poland:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. the Corporate Income Tax (podatek dochodowy od osób prawnych);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. the Personal Income Tax (podatek dochodowy od osób fizycznych);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. the Agricultural Tax (podatek rolny);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(hereinafter referred to as \"Polish tax”)”.",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_II/ust_2",
+     "text": "Subparagraph b) of paragraph 3 of Article 2 shall be deleted and replaced by the following: „b) in the Kingdom of Denmark:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1. the Income Tax to the State (indkomstskatten til staten);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. the Municipal Income Tax (den kommunale indkomstskat);",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. the Income Tax to the County Municipalities i (den amtskommunale indkomstskat);",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "4) specjalny podatek dochodowy (den saerlige indkomstskat),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) podatek kościelny (kirkestkatten),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) podatek od dywidend (udbytteskatten),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) podatek od odsetek (renteskatten),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) podatek od należności licencyjnych (royaltyskatten),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) podatki wprowadzone ustawą o podatku od związków węglowodorowych (skatter i henhold til kulbrinteskatteloven),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) państwowy podatek od majątku (formueskatten til staten),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(zwane dalej „podatkami duńskimi”)”.",
+       "quoted": true
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł II"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Punkt a) w artykule 2 ustęp 3 zostaje skreślony i zastąpiony następującym tekstem: „a) w Rzeczypospolitej Polskiej:",
+   "type": "art",
+   "num": "III",
+   "path": "art_III",
+   "text": "Po punkcie c) w artykule 23 ustęp 2 dodaje się następujące punkty:",
    "children": [
-    {
-     "type": "text",
-     "text": "1) podatek dochodowy od osób prawnych,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2) podatek dochodowy od osób fizycznych,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "3) podatek rolny,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "i”",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(zwane dalej „podatkami polskimi"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Punkt b) w artykule 2 ustęp 3 zostaje skreślony i zastąpiony następującym tekstem:",
-   "children": [
-    {
-     "type": "text",
-     "text": "„b) w Królestwie Danii:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1) państwowy podatek dochodowy (indkomstskatten til staten),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2) komunalny podatek dochodowy (den kommunale indkomstskat),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "3) podatek dochodowy na rzecz zarządów jednostek administracyjnych (den amstkommunale indkomstskat),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "PROTOKÓŁ",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "to amend the Agreement between the Government of the Polish Peoples's Republic and the Government of the Kingdom of Denmark for the avoidance of double taxation with respect to taxes on income and capital",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "The Government of the Republic of Poland and the Government of the Kingdom of Denmark,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "desiring to conclude a Protocol to amend the Agreement for the avoidance of double taxation with respect to taxes on income and capital signed at Copenhagen on April 6, 1976,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "have agreed as follows:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Article I",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1. The title of the Agreement shall be deleted and replaced by the following:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "„Agreement between the Government of the Republic of Poland and the Government of the Kingdom of Denmark for the avoidance of double taxation with respect to taxes on income and capital”.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. The term „the Polish People's Republic” wherever used in the preamble of the Agreement or in the text of the Agreement shall be deleted and replaced by the term \"the Republic of Poland”.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Article II"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Subparagraph a) of paragraph 3 of Article 2 shall be deleted and replaced by the following:",
-   "children": [
-    {
-     "type": "text",
-     "text": "„a) in the Republic of Poland:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "1. the Corporate Income Tax (podatek dochodowy od osób prawnych);",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. the Personal Income Tax (podatek dochodowy od osób fizycznych);",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "3. the Agricultural Tax (podatek rolny);",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(hereinafter referred to as \"Polish tax”)”.",
-     "quoted": true
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Subparagraph b) of paragraph 3 of Article 2 shall be deleted and replaced by the following: „b) in the Kingdom of Denmark:",
-   "children": [
-    {
-     "type": "text",
-     "text": "1. the Income Tax to the State (indkomstskatten til staten);",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "2. the Municipal Income Tax (den kommunale indkomstskat);",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "3. the Income Tax to the County Municipalities i (den amtskommunale indkomstskat);",
-     "quoted": true
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "4) specjalny podatek dochodowy (den saerlige indkomstskat),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "5) podatek kościelny (kirkestkatten),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "6) podatek od dywidend (udbytteskatten),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "7) podatek od odsetek (renteskatten),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "8) podatek od należności licencyjnych (royaltyskatten),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "9) podatki wprowadzone ustawą o podatku od związków węglowodorowych (skatter i henhold til kulbrinteskatteloven),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "10) państwowy podatek od majątku (formueskatten til staten),",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(zwane dalej „podatkami duńskimi”)”.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Artykuł III"
-    },
-    {
-     "type": "text",
-     "text": "Po punkcie c) w artykule 23 ustęp 2 dodaje się następujące punkty:"
-    },
     {
      "type": "text",
      "text": "„d) Jeżeli zgodnie z ustawodawstwem Umawiającego się Państwa udzielona zostaje ulga podatkowa w podatkach od dochodu przedsiębiorstwa w celu stworzenia zachęty dla rozwoju gospodarczego w tym Państwie, uznaje się, że zawarte w ustępie 1 i w ustępie 2 pkt a) i b) niniejszego artykułu odniesienia do „podatków zapłaconych” lub „podatku dochodowego zapłaconego” obejmują wszelkie kwoty, które miałyby zostać zapłacone na mocy niniejszej umowy jako podatek za jakikolwiek rok, lecz nie zostały zapłacone z powodu ulgi podatkowej udzielonej w odniesieniu do tego roku, pod warunkiem że takie przedsiębiorstwo (stanowiące zakład) jest zaangażowane w produkcję lub sprzedaż dóbr, towarów lub usług (poza usługami w sektorze finansowym) oraz że nie więcej niż 25% dochodu przedsiębiorstwa pochodzi z odsetek oraz zysków ze sprzedaży akcji i obligacji.",
@@ -381,14 +390,14 @@
     {
      "type": "lit",
      "num": "e",
-     "path": "ust_2/lit_e",
+     "path": "art_III/lit_e",
      "text": "Where dividends are paid by a company which is a resident of Poland to a person (being a company) which is a resident of Denmark, and which owns directly or indirectly not less than 25 per cent of the share capital of the first-mentioned company then such dividends shall be exempt from Danish tax, provided that the company paying the dividends is engaged in the manufacture or sale of goods or merchandise or services (other than services in the financial sector) and that no more than 25 per cent of the company’s income arises from interest and alienation of shares and bonds.",
      "children": []
     },
     {
      "type": "lit",
      "num": "f",
-     "path": "ust_2/lit_f",
+     "path": "art_III/lit_f",
      "text": "The provisions in subparagraphs d) and e) shall apply for the first five years for which the protocol amending the original Ageement between Poland and Denmark is effective. The competent authorities shall consult each other in order to determine whether this period shall be extended. Any such extension shall take effect",
      "children": [
       {
@@ -398,69 +407,74 @@
       {
        "type": "text",
        "text": "dzie obowiązywać od tej daty i będzie podlegać takim zmianom i warunkom, włącznie z warunkami wypowiedzenia, jakie zostaną określone i uzgodnione pomiędzy Umawiającymi się Państwami w notach, które zostaną wymienione drogą dyplomatyczną lub w jakikolwiek inny sposób, zgodnie z procedurami ich prawa konstytucyjnego”."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł IV"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł III"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Państwa przekażą sobie wzajemnie noty o tym, że wymogi prawa konstytucyjnego niezbędne do wejścia w życie niniejszego protokołu zostały spełnione.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejszy protokół, stanowiący integralną część umowy, wejdzie w życie z datą późniejszej z not, o których mowa w ustępie 1, i jego postanowienia będą miały zastosowanie w odniesieniu do Polski — do podatków należnych za rok podatkowy bezpośrednio następujący po roku, w którym protokół wejdzie w życie, i za lata następne, a w odniesieniu do Danii — do podatków należnych za rok dochodowy 1992 i za lata następne.",
+   "type": "art",
+   "num": "IV",
+   "path": "art_IV",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł V"
+     "type": "ust",
+     "num": "1",
+     "path": "art_IV/ust_1",
+     "text": "Umawiające się Państwa przekażą sobie wzajemnie noty o tym, że wymogi prawa konstytucyjnego niezbędne do wejścia w życie niniejszego protokołu zostały spełnione.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Niniejszy protokół pozostaje w mocy tak długo, jak długo pozostaje w mocy umowa, z uwzględnieniem postanowień określonych w artykule Ill niniejszego protokołu."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego niżej podpisani, należycie upoważnieni przez swe odpowiednie Rządy, podpisali niniejszy protokół."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w dwóch egzemplarzach w Warszawie dnia 17 maja 1994 r. w języku angielskim."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu"
-    },
-    {
-     "type": "text",
-     "text": "W imieniu Rządu"
-    },
-    {
-     "type": "text",
-     "text": "Rządu Królestwa Danii"
-    },
-    {
-     "type": "text",
-     "text": "Rzeczypospolitej Polskiej"
-    },
-    {
-     "type": "text",
-     "text": "R. Michalski C. J. Nielsen from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed between the Contracting States in notes to be exchanged through diplomatic channels or in any other manner in accordance with their constitutional procedures.”"
-    },
-    {
-     "type": "text",
-     "text": "Article IV"
+     "type": "ust",
+     "num": "2",
+     "path": "art_IV/ust_2",
+     "text": "Niniejszy protokół, stanowiący integralną część umowy, wejdzie w życie z datą późniejszej z not, o których mowa w ustępie 1, i jego postanowienia będą miały zastosowanie w odniesieniu do Polski — do podatków należnych za rok podatkowy bezpośrednio następujący po roku, w którym protokół wejdzie w życie, i za lata następne, a w odniesieniu do Danii — do podatków należnych za rok dochodowy 1992 i za lata następne.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł IV"
+  },
+  {
+   "type": "art",
+   "num": "V",
+   "path": "art_V",
+   "text": "Niniejszy protokół pozostaje w mocy tak długo, jak długo pozostaje w mocy umowa, z uwzględnieniem postanowień określonych w artykule Ill niniejszego protokołu.",
+   "children": [],
+   "label": "Artykuł V"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani, należycie upoważnieni przez swe odpowiednie Rządy, podpisali niniejszy protokół."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w dwóch egzemplarzach w Warszawie dnia 17 maja 1994 r. w języku angielskim."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu"
+  },
+  {
+   "type": "text",
+   "text": "W imieniu Rządu"
+  },
+  {
+   "type": "text",
+   "text": "Rządu Królestwa Danii"
+  },
+  {
+   "type": "text",
+   "text": "Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "R. Michalski C. J. Nielsen from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed between the Contracting States in notes to be exchanged through diplomatic channels or in any other manner in accordance with their constitutional procedures.”"
+  },
+  {
+   "type": "text",
+   "text": "Article IV"
   },
   {
    "type": "ust",
@@ -518,20 +532,20 @@
     {
      "type": "text",
      "text": "— będzie niezmiennie zachowywany."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 2 listopada 1994 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa LS."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 2 listopada 1994 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa LS."
   },
   {
    "type": "signature",

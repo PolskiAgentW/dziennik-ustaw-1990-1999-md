@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/630",
  "title": "Rozporządzenie Rady Ministrów z dnia 17 października 1995 r. w sprawie nadania statutu Ministerstwu Przemysłu i Handlu.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/630/text.pdf",
  "body": [
   {
@@ -502,47 +502,46 @@
          "text": ". Hutnicze Przedsiębiorstwo Remontowe w Kato-"
         }
        ]
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
-     "text": "Elektrownia SIERSZA w Trzebini 130",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
-     "text": "Elektrownia ŁAZISKA w Łaziskach Górnych wicach Hutnicze Przedsiębiorstwo Remontowe w Cho-",
-     "children": [
+      },
+      {
+       "type": "ust",
+       "num": "88",
+       "path": "par_5/ust_88",
+       "text": "Elektrownia SIERSZA w Trzebini 130",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "89",
+       "path": "par_5/ust_89",
+       "text": "Elektrownia ŁAZISKA w Łaziskach Górnych wicach Hutnicze Przedsiębiorstwo Remontowe w Cho-",
+       "children": []
+      },
       {
        "type": "ust",
        "num": "90",
-       "path": "par_9/ust_90",
+       "path": "par_5/ust_90",
        "text": "Elektrownia JAWORZNO 3 w Jaworznie 131.",
        "children": []
       },
       {
        "type": "ust",
        "num": "91",
-       "path": "par_9/ust_91",
+       "path": "par_5/ust_91",
        "text": "Zespół Elektrowni JAWORZNO w Jaworznie rzowie — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "92",
-       "path": "par_9/ust_92",
+       "path": "par_5/ust_92",
        "text": "Elektrownia HALEMBA w Rudzie Sląskiej 132.",
        "children": []
       },
       {
        "type": "ust",
        "num": "93",
-       "path": "par_9/ust_93",
+       "path": "par_5/ust_93",
        "text": "Elektrownia SKAWINA w Skawinie",
        "children": [
         {
@@ -554,7 +553,7 @@
       {
        "type": "ust",
        "num": "94",
-       "path": "par_9/ust_94",
+       "path": "par_5/ust_94",
        "text": "Elektrownia BLACHOWNIA w Kędzierzynie- 133. -Koźlu",
        "children": [
         {
@@ -566,7 +565,7 @@
       {
        "type": "ust",
        "num": "95",
-       "path": "par_9/ust_95",
+       "path": "par_5/ust_95",
        "text": "Zakład Remontowo-Budowlany Energetyki 134. w Łaziskach Górnych",
        "children": [
         {
@@ -578,7 +577,7 @@
       {
        "type": "ust",
        "num": "96",
-       "path": "par_9/ust_96",
+       "path": "par_5/ust_96",
        "text": "Zakład Remontowy Maszyn Elektrycznych w Gli- 135. wicach",
        "children": [
         {
@@ -590,7 +589,7 @@
       {
        "type": "ust",
        "num": "97",
-       "path": "par_9/ust_97",
+       "path": "par_5/ust_97",
        "text": "Zakład Informatyki, Automatyki i Doskonalenia 136. Zawodowego ZIAD w Bielsku-Białej",
        "children": [
         {
@@ -602,7 +601,7 @@
       {
        "type": "ust",
        "num": "98",
-       "path": "par_9/ust_98",
+       "path": "par_5/ust_98",
        "text": "Kopalnia Węgla Brunatnego TURÓW w Bogaty- 137, ni",
        "children": [
         {
@@ -614,7 +613,7 @@
       {
        "type": "ust",
        "num": "99",
-       "path": "par_9/ust_99",
+       "path": "par_5/ust_99",
        "text": "Kopalnia Węgla Brunatnego KONIN w Klecze- 13g. wie",
        "children": [
         {
@@ -630,14 +629,14 @@
       {
        "type": "ust",
        "num": "100",
-       "path": "par_9/ust_100",
+       "path": "par_5/ust_100",
        "text": "Kopalnia Węgla Brunatnego ADAMÓW w Turku 139,",
        "children": []
       },
       {
        "type": "ust",
        "num": "101",
-       "path": "par_9/ust_101",
+       "path": "par_5/ust_101",
        "text": "Kopalnia Węgla Brunatnego BEŁCHATÓW",
        "children": [
         {
@@ -649,7 +648,7 @@
       {
        "type": "ust",
        "num": "102",
-       "path": "par_9/ust_102",
+       "path": "par_5/ust_102",
        "text": "Zakład Górniczego Wykonawstwa Budowlano-",
        "children": [
         {
@@ -661,7 +660,7 @@
       {
        "type": "ust",
        "num": "103",
-       "path": "par_9/ust_103",
+       "path": "par_5/ust_103",
        "text": "Zakład Robót Górniczych, Odwodnieniowych",
        "children": [
         {
@@ -673,7 +672,7 @@
       {
        "type": "ust",
        "num": "104",
-       "path": "par_9/ust_104",
+       "path": "par_5/ust_104",
        "text": "Główne Biuro Studiów i Projektów Energetycz-",
        "children": [
         {
@@ -685,7 +684,7 @@
       {
        "type": "ust",
        "num": "105",
-       "path": "par_9/ust_105",
+       "path": "par_5/ust_105",
        "text": "Zakład Produkcji Urządzeń Automatyki we Wro- 144. ctawiu",
        "children": [
         {
@@ -697,21 +696,21 @@
       {
        "type": "ust",
        "num": "106",
-       "path": "par_9/ust_106",
+       "path": "par_5/ust_106",
        "text": "Centrum Informatyki Energetyki w Warszawie 145 Zakłady Metalurgiczne SKAWINA w Skawinie",
        "children": []
       },
       {
        "type": "ust",
        "num": "107",
-       "path": "par_9/ust_107",
+       "path": "par_5/ust_107",
        "text": "Centrala Zaopatrzenia Energetyki i Węgla Bru- 146. Huta BĘDZIN w Będzinie natnego w Warszawie 147.",
        "children": []
       },
       {
        "type": "ust",
        "num": "108",
-       "path": "par_9/ust_108",
+       "path": "par_5/ust_108",
        "text": "Przedsiębiorstwo Budownictwa Elektroenerge-",
        "children": [
         {
@@ -723,14 +722,14 @@
       {
        "type": "ust",
        "num": "109",
-       "path": "par_9/ust_109",
+       "path": "par_5/ust_109",
        "text": "Przedsiębiorstwo Stalowych Konstrukcji Elektro- 149. energetycznych ELBUD w Krakowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "110",
-       "path": "par_9/ust_110",
+       "path": "par_5/ust_110",
        "text": "Przedsiębiorstwo Konstrukcji Elektroenerge-",
        "children": [
         {
@@ -742,14 +741,14 @@
       {
        "type": "ust",
        "num": "111",
-       "path": "par_9/ust_111",
+       "path": "par_5/ust_111",
        "text": "Przedsiębiorstwo Produkcyjno-Remontowe wicach-Szopienicach Zakłady Metalurgiczne TRZEBINIA w Trzebini Energetyki ELBUD w Rawiczu 151. Walcownia Metali DZIEDZICE w Czechowicach-",
        "children": []
       },
       {
        "type": "ust",
        "num": "112",
-       "path": "par_9/ust_112",
+       "path": "par_5/ust_112",
        "text": "Przedsiębiorstwo Prefabrykatów Elektroenerge- 152. tycznych ELBUD w Przemyślu",
        "children": [
         {
@@ -761,28 +760,28 @@
       {
        "type": "ust",
        "num": "113",
-       "path": "par_9/ust_113",
+       "path": "par_5/ust_113",
        "text": "Przedsiębiorstwo Techniczno-Usługowe ELBUD 153. w Krakowie w Nowej Soli Koneckie Zakłady Odlewnicze im. Gwardii Ludo-",
        "children": []
       },
       {
        "type": "ust",
        "num": "114",
-       "path": "par_9/ust_114",
+       "path": "par_5/ust_114",
        "text": "Przedsiębiorstwo Państwowe „Polskie Górnic- 154. two Naftowe i Gazownictwo” w Warszawie wej w Końskich Śląskie Zakłady Armatury Przemysłowej AR-",
        "children": []
       },
       {
        "type": "ust",
        "num": "115",
-       "path": "par_9/ust_115",
+       "path": "par_5/ust_115",
        "text": "Huta im. Tadeusza Sendzimira w Krakowie 155.",
        "children": []
       },
       {
        "type": "ust",
        "num": "116",
-       "path": "par_9/ust_116",
+       "path": "par_5/ust_116",
        "text": "Huta BAILDON w Katowicach",
        "children": [
         {
@@ -794,35 +793,35 @@
       {
        "type": "ust",
        "num": "117",
-       "path": "par_9/ust_117",
+       "path": "par_5/ust_117",
        "text": "Huta CZĘSTOCHOWA w Częstochowie 156. Zakłady Górniczo-Metalowe ZĘBIEC w Zębcu Zakłady Wytwórcze Urządzeń Wodociągowych",
        "children": []
       },
       {
        "type": "ust",
        "num": "118",
-       "path": "par_9/ust_118",
+       "path": "par_5/ust_118",
        "text": "Huta BOBREK w Bytomiu 157.",
        "children": []
       },
       {
        "type": "ust",
        "num": "119",
-       "path": "par_9/ust_119",
+       "path": "par_5/ust_119",
        "text": "Huta im. E. Cedlera w Sosnowcu w Mławie",
        "children": []
       },
       {
        "type": "ust",
        "num": "120",
-       "path": "par_9/ust_120",
+       "path": "par_5/ust_120",
        "text": "Huta FLORIAN w Świętochłowicach 158.",
        "children": []
       },
       {
        "type": "ust",
        "num": "121",
-       "path": "par_9/ust_121",
+       "path": "par_5/ust_121",
        "text": "Kombinat Koksochemiczny ZABRZE w Zabrzu",
        "children": [
         {
@@ -834,49 +833,49 @@
       {
        "type": "ust",
        "num": "122",
-       "path": "par_9/ust_122",
+       "path": "par_5/ust_122",
        "text": "Huta KOŚCIUSZKO w Chorzowie 159. Jeleniogórskie Zakłady Optyczne w Jeleniej Gó-",
        "children": []
       },
       {
        "type": "ust",
        "num": "123",
-       "path": "par_9/ust_123",
+       "path": "par_5/ust_123",
        "text": "Huta ŁABĘDY w Gliwicach 160.",
        "children": []
       },
       {
        "type": "ust",
        "num": "124",
-       "path": "par_9/ust_124",
+       "path": "par_5/ust_124",
        "text": "Huta ŁAZISKA w Łaziskach Górnych rze Fabryka Urządzeń Mechanicznych WYKROMET",
        "children": []
       },
       {
        "type": "ust",
        "num": "125",
-       "path": "par_9/ust_125",
+       "path": "par_5/ust_125",
        "text": "Zakłady Koksownicze PRZYJAŹŃ w Dąbrowie 161. Górniczej w Częstochowie Fabryka Wodomierzy i Zegarów METRON w To-",
        "children": []
       },
       {
        "type": "ust",
        "num": "126",
-       "path": "par_9/ust_126",
+       "path": "par_5/ust_126",
        "text": "Huta ANDRZEJ w Zawadzkiem 162.",
        "children": []
       },
       {
        "type": "ust",
        "num": "127",
-       "path": "par_9/ust_127",
+       "path": "par_5/ust_127",
        "text": "Huta ZAWIERCIE w Zawierciu runiu",
        "children": []
       },
       {
        "type": "ust",
        "num": "128",
-       "path": "par_9/ust_128",
+       "path": "par_5/ust_128",
        "text": "Huta 1 MAJA w Gliwicach 163. Huta SZCZECIN w Szczecinie-Glinkach 129:",
        "children": [
         {
@@ -896,63 +895,63 @@
       {
        "type": "ust",
        "num": "197",
-       "path": "par_9/ust_197",
+       "path": "par_5/ust_197",
        "text": "LISZ w Kaliszu Wytwórnia Sprzętu Komunikacyjnego PZŁ-PO- 166.",
        "children": []
       },
       {
        "type": "ust",
        "num": "198",
-       "path": "par_9/ust_198",
+       "path": "par_5/ust_198",
        "text": "ZNAŃ w Poznaniu Wytwórnia Sprzętu Komunikacyjnego PZŁ- 167.",
        "children": []
       },
       {
        "type": "ust",
        "num": "199",
-       "path": "par_9/ust_199",
+       "path": "par_5/ust_199",
        "text": "-KROSNO w Krośnie Warszawskie Zakłady Mechaniczne PZŁ-WZM 168. w Warszawie 200. Zakłady Radiowe im. M. Kasprzaka w Warszawie 169. Naukowo-Produkcyjne Centrum Półprzewodni- 170. ków CEMI w Warszawie 201. Krakowskie Zakłady Elektroniczne TELPOD 171. w Krakowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "202",
-       "path": "par_9/ust_202",
+       "path": "par_5/ust_202",
        "text": "Zakłady Rezystorów w Szczucinie 172. Zakład Podzespołów i Urządzeń Technologicz- 203. 173. nych w Krakowie Zakłady Kineskopowe ZELOS w Piasecznie — w 204. 174. likwidacji Zakłady Telewizyjne ELEMIS Warszawskie 205. 175. w Warszawie Zakłady Wytwórcze Magnetofonów U NITRA- 206. 176. LUBARTÓW w Lubartowie — w likwidacji Przedsiębiorstwo Techniczno-Produkcyjne UNI- 207. 177. TRA-UNITECH w Warszawie Zakład Zespołów Elektronicznych UNICON 208. 178. w Białogardzie",
        "children": []
       },
       {
        "type": "ust",
        "num": "209",
-       "path": "par_9/ust_209",
+       "path": "par_5/ust_209",
        "text": "Zakład Podzespołów Elektro-Mechanicznych 179. U NITRA-Z APEL w Mławie — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "210",
-       "path": "par_9/ust_210",
+       "path": "par_5/ust_210",
        "text": "Przedsiębiorstwo Produkcyjne U NITRA-LIPSK 211. 180. w Lipsku n. Biebrzą— w likwidacji Przedsiębiorstwo Urządzeń Elektro-Mechanicz- 212. 181. nych TOMIO w Żurominie",
        "children": []
       },
       {
        "type": "ust",
        "num": "213",
-       "path": "par_9/ust_213",
+       "path": "par_5/ust_213",
        "text": "Zakłady Ceramiki Radiowej CERAD w Warsza- 182. 214. wie Fabryka Podzespołów Radiowych ELWA w War- 183. szawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "215",
-       "path": "par_9/ust_215",
+       "path": "par_5/ust_215",
        "text": "Zakłady Maszyn i Urządzeń Technologicznych 184. U NITRA-UNIMA w Warszawie 216. Przedsiębiorstwo Modernizacji Przemysłu Podze- 185. społów i Materiałów Elektronicznych U NITRA- 217. -CEMONT w Warszawie Krakowskie Zakłady Teleelektroniczne TELKOM- 218. 186. TELOS w Krakowie Toruński Ośrodek Mikroelektroniki U NITRA--TO- 219. 187. MI w Toruniu Gdańskie Zakłady Teleelektroniczne TELKOM- 220. 188. -TELMOR w Gdańsku Zakłady Radiowe i Telewizyjne Z ARAT w War- 221. 189. 222. szawie Zakład Elektro-Automatyki ELMECH w Górze 223. 190. Sląskiej Zakłady Mechaniczno-Precyzyjne MERA-BtO- 224. 191. NIE w Błoniu k. Warszawy Fabryka Mierników i Komputerów ERA w War- 225. 192. szawie Przedsiębiorstwo Systemów Komputerowych 226. 193. MERA-SYSTEM w Warszawie Zakłady Systemów Automatyki MERAMONT 227. 194. w Poznaniu Poznańskie Przedsiębiorstwo Automatyki ME-",
        "children": []
       },
       {
        "type": "ust",
        "num": "228",
-       "path": "par_9/ust_228",
+       "path": "par_5/ust_228",
        "text": "195. RAMONT w Poznaniu",
        "children": [
         {
@@ -980,7 +979,7 @@
       {
        "type": "ust",
        "num": "281",
-       "path": "par_9/ust_281",
+       "path": "par_5/ust_281",
        "text": "Zakłady Elektrochemiczne EMA-BRZEZIE w Ra- 247. ciborzu 282. Zakłady Wytwórcze Lamp Elektrycznych POLAMP- 248. WARSZAWA w Warszawie — w likwidacji 283. Sląska Fabryka Lamp Żarowych HELIOS w Ka- 249. towicach 284. Przedsiębiorstwo Specjalnych Maszyn Elektrycz- 250. nych Małej Mocy MIKROMA we Wrześni 285. 251.",
        "children": [
         {
@@ -1020,28 +1019,28 @@
       {
        "type": "ust",
        "num": "297",
-       "path": "par_9/ust_297",
+       "path": "par_5/ust_297",
        "text": "Rafineria Nafty JEDLICZE w Jedliczach 333.",
        "children": []
       },
       {
        "type": "ust",
        "num": "298",
-       "path": "par_9/ust_298",
+       "path": "par_5/ust_298",
        "text": "Rafineria Nafty GLIMAR w Gorlicach",
        "children": []
       },
       {
        "type": "ust",
        "num": "299",
-       "path": "par_9/ust_299",
+       "path": "par_5/ust_299",
        "text": "Przedsiębiorstwo Doświadczalno-Produkcyjne 334. NAFTOCHEM w Krakowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "300",
-       "path": "par_9/ust_300",
+       "path": "par_5/ust_300",
        "text": "Centrala Produktów Naftowych CPN w Warsza- 335.",
        "children": [
         {
@@ -1053,224 +1052,224 @@
       {
        "type": "ust",
        "num": "301",
-       "path": "par_9/ust_301",
+       "path": "par_5/ust_301",
        "text": "Przedsiębiorstwo Eksploatacji Rurociągów Naf- 336. towych PRZYJAŹŃ w Płocku 337.",
        "children": []
       },
       {
        "type": "ust",
        "num": "302",
-       "path": "par_9/ust_302",
+       "path": "par_5/ust_302",
        "text": "Huta Szkła WOŁOMIN w Wołominie",
        "children": []
       },
       {
        "type": "ust",
        "num": "303",
-       "path": "par_9/ust_303",
+       "path": "par_5/ust_303",
        "text": "Huta Szkła Gospodarczego ZAWIERCIE w Za- 338. wierciu",
        "children": []
       },
       {
        "type": "ust",
        "num": "304",
-       "path": "par_9/ust_304",
+       "path": "par_5/ust_304",
        "text": "Zespół Zakładów Płytek Ceramicznych O POCZ- 339. NO w Opocznie",
        "children": []
       },
       {
        "type": "ust",
        "num": "305",
-       "path": "par_9/ust_305",
+       "path": "par_5/ust_305",
        "text": "Wytwórnia Form Szklarskich VITROFORM w Ja- 340. w orznie",
        "children": []
       },
       {
        "type": "ust",
        "num": "306",
-       "path": "par_9/ust_306",
+       "path": "par_5/ust_306",
        "text": "Biuro Studiów i Projektów Maszyn Szklarskich i Ceramicznych w Sosnowcu 341.",
        "children": []
       },
       {
        "type": "ust",
        "num": "307",
-       "path": "par_9/ust_307",
+       "path": "par_5/ust_307",
        "text": "Głuchołaskie Zakłady Papiernicze w Głuchołazach",
        "children": []
       },
       {
        "type": "ust",
        "num": "308",
-       "path": "par_9/ust_308",
+       "path": "par_5/ust_308",
        "text": "Kaletańskie Zakłady Celulozowo-Papiernicze w Kaletach 342.",
        "children": []
       },
       {
        "type": "ust",
        "num": "309",
-       "path": "par_9/ust_309",
+       "path": "par_5/ust_309",
        "text": "Ostrołęckie Zakłady Celulozowo-Papiernicze w Ostrołęce 343.",
        "children": []
       },
       {
        "type": "ust",
        "num": "310",
-       "path": "par_9/ust_310",
+       "path": "par_5/ust_310",
        "text": "Poznańskie Zakłady Papiernicze w Poznaniu",
        "children": []
       },
       {
        "type": "ust",
        "num": "311",
-       "path": "par_9/ust_311",
+       "path": "par_5/ust_311",
        "text": "Zakłady Mechaniczne Przemysłu Papierniczego 344. w Krapkowicach",
        "children": []
       },
       {
        "type": "ust",
        "num": "312",
-       "path": "par_9/ust_312",
+       "path": "par_5/ust_312",
        "text": "Pilskie Fabryki Mebli w Trzciance 345.",
        "children": []
       },
       {
        "type": "ust",
        "num": "313",
-       "path": "par_9/ust_313",
+       "path": "par_5/ust_313",
        "text": "Częstochowskie Zakłady Przemysłu Bawełnianego CEBA w Częstochowie — w likwidacji 346.",
        "children": []
       },
       {
        "type": "ust",
        "num": "314",
-       "path": "par_9/ust_314",
+       "path": "par_5/ust_314",
        "text": "Zakłady Przemysłu Bawełnianego CONPOL w Żarach — w likwidacji 347.",
        "children": []
       },
       {
        "type": "ust",
        "num": "315",
-       "path": "par_9/ust_315",
+       "path": "par_5/ust_315",
        "text": "Zakłady Przemysłu Wełnianego im. A. Struga w Łodzi — w likwidacji 348.",
        "children": []
       },
       {
        "type": "ust",
        "num": "316",
-       "path": "par_9/ust_316",
+       "path": "par_5/ust_316",
        "text": "Przędzalnia Czesankowa ARELAN w Łodzi 349.",
        "children": []
       },
       {
        "type": "ust",
        "num": "317",
-       "path": "par_9/ust_317",
+       "path": "par_5/ust_317",
        "text": "Zakłady Przemysłu Wełnianego WOLANA w Zduńskiej Woli 350.",
        "children": []
       },
       {
        "type": "ust",
        "num": "318",
-       "path": "par_9/ust_318",
+       "path": "par_5/ust_318",
        "text": "Zakłady Przemysłu Wełnianego PLEDAN w Skoczowie — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "319",
-       "path": "par_9/ust_319",
+       "path": "par_5/ust_319",
        "text": "Przędzalnia Czesankowa im. A. Kowalczyka IN- 351. TERTEX w Sosnowcu",
        "children": []
       },
       {
        "type": "ust",
        "num": "320",
-       "path": "par_9/ust_320",
+       "path": "par_5/ust_320",
        "text": "Sosnowiecka Przędzalnia Czesankowa POLITEX 352. w Sosnowcu",
        "children": []
       },
       {
        "type": "ust",
        "num": "321",
-       "path": "par_9/ust_321",
+       "path": "par_5/ust_321",
        "text": "Fabryka Wyrobów Włókienniczych MELTON 353. w Żarach",
        "children": []
       },
       {
        "type": "ust",
        "num": "322",
-       "path": "par_9/ust_322",
+       "path": "par_5/ust_322",
        "text": "Olsztyńskie Zakłady Sieci Rybackich w Korszach 354.",
        "children": []
       },
       {
        "type": "ust",
        "num": "323",
-       "path": "par_9/ust_323",
+       "path": "par_5/ust_323",
        "text": "Zakłady Konfekcji Technicznej GUMOWNIA w Trzebini-Sierszy 355.",
        "children": []
       },
       {
        "type": "ust",
        "num": "324",
-       "path": "par_9/ust_324",
+       "path": "par_5/ust_324",
        "text": "Zakłady Sprzętu Technicznego i Turystycznego 356. AVIOTEX w Legionowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "325",
-       "path": "par_9/ust_325",
+       "path": "par_5/ust_325",
        "text": "Zakłady Konfekcji Technicznej POLNAM w Czę- 357. stochowie s",
        "children": []
       },
       {
        "type": "ust",
        "num": "326",
-       "path": "par_9/ust_326",
+       "path": "par_5/ust_326",
        "text": "Zakłady Tekstylno-Konfekcyjne TEOFILÓW 358. w Łodzi",
        "children": []
       },
       {
        "type": "ust",
        "num": "327",
-       "path": "par_9/ust_327",
+       "path": "par_5/ust_327",
        "text": "Zakłady Przemysłu Dziewiarskiego BISTONA w Łodzi — w likwidacji 359.",
        "children": []
       },
       {
        "type": "ust",
        "num": "328",
-       "path": "par_9/ust_328",
+       "path": "par_5/ust_328",
        "text": "Zakłady Przemysłu Dziewiarskiego KARO 360. w Siedlcach",
        "children": []
       },
       {
        "type": "ust",
        "num": "329",
-       "path": "par_9/ust_329",
+       "path": "par_5/ust_329",
        "text": "Zakłady Technicznych Wyrobów Włókienniczych 361. ROLTEX w Łodzi — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "330",
-       "path": "par_9/ust_330",
+       "path": "par_5/ust_330",
        "text": "Zakłady Przemysłu Odzieżowego DANA 362. w Szczecinie 363.",
        "children": []
       },
       {
        "type": "ust",
        "num": "331",
-       "path": "par_9/ust_331",
+       "path": "par_5/ust_331",
        "text": "Zakłady Przemysłu Odzieżowego POLDRES w Żyrardowie 364.",
        "children": []
       },
       {
        "type": "ust",
        "num": "332",
-       "path": "par_9/ust_332",
+       "path": "par_5/ust_332",
        "text": "Pomorskie Zakłady Przemysłu Skórzanego KO- BRA w Bydgoszczy — w likwidacji",
        "children": [
         {
@@ -1298,7 +1297,7 @@
       {
        "type": "ust",
        "num": "398",
-       "path": "par_9/ust_398",
+       "path": "par_5/ust_398",
        "text": "nego w Olsztynie 399. Wielkopolskie Tartaki W ITAR w Poznaniu 367. 368.",
        "children": [
         {
@@ -1310,7 +1309,7 @@
       {
        "type": "ust",
        "num": "402",
-       "path": "par_9/ust_402",
+       "path": "par_5/ust_402",
        "text": "Przedsiębiorstwo Handlowo-Usługowe JUBI- 372. LER w Warszawie 373.",
        "children": [
         {
@@ -1326,7 +1325,7 @@
       {
        "type": "ust",
        "num": "405",
-       "path": "par_9/ust_405",
+       "path": "par_5/ust_405",
        "text": "w Kielcach Przedsiębiorstwo",
        "children": [
         {
@@ -1338,7 +1337,7 @@
       {
        "type": "ust",
        "num": "406",
-       "path": "par_9/ust_406",
+       "path": "par_5/ust_406",
        "text": "w Opolu Przedsiębiorstwo 377.",
        "children": [
         {
@@ -1366,7 +1365,7 @@
       {
        "type": "ust",
        "num": "427",
-       "path": "par_9/ust_427",
+       "path": "par_5/ust_427",
        "text": "KRUSZ w Krakowie — w likwidacji",
        "children": [
         {
@@ -1382,231 +1381,231 @@
       {
        "type": "ust",
        "num": "428",
-       "path": "par_9/ust_428",
+       "path": "par_5/ust_428",
        "text": "Centrum Techniki Okrętowej w Gdańsku 461.",
        "children": []
       },
       {
        "type": "ust",
        "num": "429",
-       "path": "par_9/ust_429",
+       "path": "par_5/ust_429",
        "text": "Dolnośląskie Przedsiębiorstwo Transportu TRANSLEN w Kamiennej Górze 462.",
        "children": []
       },
       {
        "type": "ust",
        "num": "430",
-       "path": "par_9/ust_430",
+       "path": "par_5/ust_430",
        "text": "Biuro Projektów Przemysłu Materiałów Ogniotrwałych BIRPROMOG w Gliwicach— w likwi- 463. dacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "431",
-       "path": "par_9/ust_431",
+       "path": "par_5/ust_431",
        "text": "Zakłady Chemiczne TARNOWSKIE GÓRY w Tar- 464. nowskich Górach — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "432",
-       "path": "par_9/ust_432",
+       "path": "par_5/ust_432",
        "text": "Przedsiębiorstwo Specjalistyczne Budowlano- 465. -Montażowe Przemysłu Chemicznego BUDO- ERG w Bytomiu — w likwidacji 466.",
        "children": []
       },
       {
        "type": "ust",
        "num": "433",
-       "path": "par_9/ust_433",
+       "path": "par_5/ust_433",
        "text": "Huta Szkła Gospodarczego ZĄBKOWICE w Dąbrowie Górniczej 467.",
        "children": []
       },
       {
        "type": "ust",
        "num": "434",
-       "path": "par_9/ust_434",
+       "path": "par_5/ust_434",
        "text": "Zakład Badawczo-Projektowy ENERGOCHEM w Gliwicach 468.",
        "children": []
       },
       {
        "type": "ust",
        "num": "435",
-       "path": "par_9/ust_435",
+       "path": "par_5/ust_435",
        "text": "Zakład Wapienniczy w Płazie k. Chrzanowa",
        "children": []
       },
       {
        "type": "ust",
        "num": "436",
-       "path": "par_9/ust_436",
+       "path": "par_5/ust_436",
        "text": "Przedsiębiorstwo Materiałów lzolacji Budowla- 469. nej IZOLACJA w Ogrodzieńcu",
        "children": []
       },
       {
        "type": "ust",
        "num": "437",
-       "path": "par_9/ust_437",
+       "path": "par_5/ust_437",
        "text": "Cementownia WIEK w Ogrodzieńcu 470.",
        "children": []
       },
       {
        "type": "ust",
        "num": "438",
-       "path": "par_9/ust_438",
+       "path": "par_5/ust_438",
        "text": "Przedsiębiorstwo Handlu Spożywczego w Chrzanowie 471.",
        "children": []
       },
       {
        "type": "ust",
        "num": "439",
-       "path": "par_9/ust_439",
+       "path": "par_5/ust_439",
        "text": "Przedsiębiorstwo Handlowo-Usługowe MERKU- 479. RION w Bytomiu",
        "children": []
       },
       {
        "type": "ust",
        "num": "440",
-       "path": "par_9/ust_440",
+       "path": "par_5/ust_440",
        "text": "Przedsiębiorstwo Dostaw Materiałów Odlewni- 473. czych PEDMO w Tychach",
        "children": []
       },
       {
        "type": "ust",
        "num": "441",
-       "path": "par_9/ust_441",
+       "path": "par_5/ust_441",
        "text": "Przedsiębiorstwo Hurtu Spożywczego w Końskich 474",
        "children": []
       },
       {
        "type": "ust",
        "num": "442",
-       "path": "par_9/ust_442",
+       "path": "par_5/ust_442",
        "text": "Przedsiębiorstwo Hurtu Spożywczego w Busku- i -Zdroju 475",
        "children": []
       },
       {
        "type": "ust",
        "num": "443",
-       "path": "par_9/ust_443",
+       "path": "par_5/ust_443",
        "text": "Przedsiębiorstwo Projektowania i Dostaw Kom- i pletnych Obiektów CHEMADEX w Krakowie 476",
        "children": []
       },
       {
        "type": "ust",
        "num": "444",
-       "path": "par_9/ust_444",
+       "path": "par_5/ust_444",
        "text": "Krakowskie Zakłady Przemysłu Nieorganicznego i BONARKA w Krakowie 477",
        "children": []
       },
       {
        "type": "ust",
        "num": "445",
-       "path": "par_9/ust_445",
+       "path": "par_5/ust_445",
        "text": "Przedsiębiorstwo Produkcji i Eksportu KAMBUD . w Krakowie — w likwidacji 478",
        "children": []
       },
       {
        "type": "ust",
        "num": "446",
-       "path": "par_9/ust_446",
+       "path": "par_5/ust_446",
        "text": "Krakowskie Zakłady Kamienia Budowlanego i w Krzeszowicach 479",
        "children": []
       },
       {
        "type": "ust",
        "num": "447",
-       "path": "par_9/ust_447",
+       "path": "par_5/ust_447",
        "text": "Fabryka Aparatury Przemysłu Spożywczego ' SPOMASZ w Gostyniu",
        "children": []
       },
       {
        "type": "ust",
        "num": "448",
-       "path": "par_9/ust_448",
+       "path": "par_5/ust_448",
        "text": "Lubelskie Przedsiębiorstwo Przemysłowo-Han- 480. dlowe ODCZYNNIKI CHEMICZNE w Lublinie",
        "children": []
       },
       {
        "type": "ust",
        "num": "449",
-       "path": "par_9/ust_449",
+       "path": "par_5/ust_449",
        "text": "Przedsiębiorstwo Usług Informatyczno-Księgo- 481. wych CEKAR w Łodzi — w likwidacji 482.",
        "children": []
       },
       {
        "type": "ust",
        "num": "450",
-       "path": "par_9/ust_450",
+       "path": "par_5/ust_450",
        "text": "Przedsiębiorstwo Handlowo-Usługowe GA- STROPOL w Łodzi — w likwidacji 483.",
        "children": []
       },
       {
        "type": "ust",
        "num": "451",
-       "path": "par_9/ust_451",
+       "path": "par_5/ust_451",
        "text": "Przedsiębiorstwo Remontowo-Produkcyjne PREBUT w Opolu 484.",
        "children": []
       },
       {
        "type": "ust",
        "num": "452",
-       "path": "par_9/ust_452",
+       "path": "par_5/ust_452",
        "text": "Zakład Produkcji Wyrobów z Metali i Kamieni Szlachetnych NAMYSŁÓW w Namysłowie — 485. w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "453",
-       "path": "par_9/ust_453",
+       "path": "par_5/ust_453",
        "text": "Przedsiębiorstwo Kompleksowej Automatyzacji 486. MERAMONT we Wrześni",
        "children": []
       },
       {
        "type": "ust",
        "num": "454",
-       "path": "par_9/ust_454",
+       "path": "par_5/ust_454",
        "text": "Rzeszowskie Zakłady Lamp Wyładowczych PO- 487. LAM-RZESZÓW w Zaczerniu — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "455",
-       "path": "par_9/ust_455",
+       "path": "par_5/ust_455",
        "text": "Przedsiębiorstwo Remontowo-Budowlane CER- 488. BUDOWA w Łowiczu — w likwidacji 489.",
        "children": []
       },
       {
        "type": "ust",
        "num": "456",
-       "path": "par_9/ust_456",
+       "path": "par_5/ust_456",
        "text": "Zakłady Płyt Wiórowych w Suwałkach",
        "children": []
       },
       {
        "type": "ust",
        "num": "457",
-       "path": "par_9/ust_457",
+       "path": "par_5/ust_457",
        "text": "Przedsiębiorstwo Handlu Spożywczego w Augu- 490. stowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "458",
-       "path": "par_9/ust_458",
+       "path": "par_5/ust_458",
        "text": "Zakłady Produkcji Metalowej METALCHEM w Annopolu 491.",
        "children": []
       },
       {
        "type": "ust",
        "num": "459",
-       "path": "par_9/ust_459",
+       "path": "par_5/ust_459",
        "text": "Zakłady Mechaniczne Przemysłu Lniarskiego METALEN w Nowej Soli — w likwidacji 492.",
        "children": []
       },
       {
        "type": "ust",
        "num": "460",
-       "path": "par_9/ust_460",
+       "path": "par_5/ust_460",
        "text": "Fabryka Urządzeń Mechanicznych i Sprężyn FUMIS-BUMAR w Wadowicach",
        "children": [
         {
@@ -1670,14 +1669,14 @@
       {
        "type": "ust",
        "num": "61",
-       "path": "par_9/ust_61",
+       "path": "par_5/ust_61",
        "text": "Instytut Technologii Próżniowej w Warszawie 92.",
        "children": []
       },
       {
        "type": "ust",
        "num": "62",
-       "path": "par_9/ust_62",
+       "path": "par_5/ust_62",
        "text": "Centralny Ośrodek Badawczo-Rozwojowy Elektrycznego Sprzętu Powszechnego Użytku w War- 93. szawie — w likwidacji Ośrodek Badawczo-Rozwojowy Sprzętu Gospo- 63. 94. darstwa Domowego DOMGOS w Chorzowie — w likwidacji 95. Centralny Ośrodek Badawczo-Rozwojowy PO- 64. LAM w Warszawie Ośrodek Badawczo-Rozwojowy Elementów 65. 96. i Układów Pneumatyki w Kielcach Ośrodek Badawczo-Rozwojowy Obrabiarek i Urzą- 66. 97. dzeń Specjalnych w Poznaniu Ośrodek Badawczo-Rozwojowy Motoreduktorów 67. i Reduktorów REDOR w Bielsku-Białej 98. Ośrodek Badawczo-Rozwojowy Maszyn Hutni- 68. czych w Bytomiu — w likwidacji 99. Ośrodek Badawczo-Rozwojowy Budowy Urządzeń 69. Chemicznych CEBEA w Krakowie 100. Centralny Ośrodek Chłodnictwa COCH w Krako- 70.",
        "children": [
         {
@@ -1701,7 +1700,7 @@
       {
        "type": "ust",
        "num": "122",
-       "path": "par_9/ust_122",
+       "path": "par_5/ust_122",
        "text": "Ośrodek Badawczo-Rozwojowy Meblarstwa w Poznaniu — w likwidacji Ośrodek Badawczo-Rozwojowy Mechanizacji Pa- 123. kowania EMPAK w Krakowie Centralny Ośrodek Badawczo-Rozwojowy Prze- 124. mysłu Izolacji Budowlanej w Katowicach Centrum Badań i Promocji Biznesu EKORNO 125. w Łodzi Ośrodek Badawczo-Rozwojowy Przemysłu Płyt 126. Drewnopochodnych w Czarnej Wodzie Ośrodek Badawczo-Rozwojowy Metrologii Elek- 127. trycznej LUMEL w Zielonej Górze Centralny Ośrodek Badawczo-Rozwojowy Opa- 128. kowań w Warszawie Międzyresortowe Centrum Naukowe Eksploata- 129. cji Majątku Trwałego w Radomiu Ośrodek Badawczo-Rozwojowy Przemysłu Ma- 130. szynowego Leśnictwa we Wrocławiu Instytut Optyki Stosowanej w Warszawie 131. Centralne Laboratorium Akumulatorów i Ogniw 132. w Poznaniu Centralne Biuro Konstrukcji Kottów w Tarnowskich 133. Górach — w likwidacji Centralne Laboratorium Naftowe w Warszawie 134.",
        "children": [
         {
@@ -1717,154 +1716,154 @@
       {
        "type": "ust",
        "num": "4",
-       "path": "par_9/ust_4",
+       "path": "par_5/ust_4",
        "text": "Biuro Uruchomień Sprzętu Specjalnego w Warszawie — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "5",
-       "path": "par_9/ust_5",
+       "path": "par_5/ust_5",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Warszawie",
        "children": []
       },
       {
        "type": "ust",
        "num": "6",
-       "path": "par_9/ust_6",
+       "path": "par_5/ust_6",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Bydgoszczy",
        "children": []
       },
       {
        "type": "ust",
        "num": "7",
-       "path": "par_9/ust_7",
+       "path": "par_5/ust_7",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Gdańsku",
        "children": []
       },
       {
        "type": "ust",
        "num": "8",
-       "path": "par_9/ust_8",
+       "path": "par_5/ust_8",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Katowicach",
        "children": []
       },
       {
        "type": "ust",
        "num": "9",
-       "path": "par_9/ust_9",
+       "path": "par_5/ust_9",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Krakowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "10",
-       "path": "par_9/ust_10",
+       "path": "par_5/ust_10",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Poznaniu",
        "children": []
       },
       {
        "type": "ust",
        "num": "11",
-       "path": "par_9/ust_11",
+       "path": "par_5/ust_11",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej w Radomiu",
        "children": []
       },
       {
        "type": "ust",
        "num": "12",
-       "path": "par_9/ust_12",
+       "path": "par_5/ust_12",
        "text": "Okręgowy Inspektorat Gospodarki Energetycznej we Wrocławiu",
        "children": []
       },
       {
        "type": "ust",
        "num": "13",
-       "path": "par_9/ust_13",
+       "path": "par_5/ust_13",
        "text": "Centrum Doskonalenia Kadr Kierowniczych Ministerstwa Przemysłu i Handlu DOSKO w Łodzi",
        "children": []
       },
       {
        "type": "ust",
        "num": "14",
-       "path": "par_9/ust_14",
+       "path": "par_5/ust_14",
        "text": "Ośrodek Doskonalenia Kadr Ministerstwa Przemysłu i Handlu w Konstancinie",
        "children": []
       },
       {
        "type": "ust",
        "num": "15",
-       "path": "par_9/ust_15",
+       "path": "par_5/ust_15",
        "text": "Ośrodek Doskonalenia Kadr Ministerstwa Przemysłu i Handlu w Kępnie",
        "children": []
       },
       {
        "type": "ust",
        "num": "16",
-       "path": "par_9/ust_16",
+       "path": "par_5/ust_16",
        "text": "Ośrodek Doskonalenia Kadr Ministerstwa Przemysłu i Handlu w Mysłowicach",
        "children": []
       },
       {
        "type": "ust",
        "num": "17",
-       "path": "par_9/ust_17",
+       "path": "par_5/ust_17",
        "text": "Ośrodek Doskonalenia Kadr Ministerstwa Przemysłu i Handlu w Chorzowie",
        "children": []
       },
       {
        "type": "ust",
        "num": "18",
-       "path": "par_9/ust_18",
+       "path": "par_5/ust_18",
        "text": "Ośrodek Doskonalenia Kadr Ministerstwa Przemysłu i Handlu w Warszawie — w likwidacji",
        "children": []
       },
       {
        "type": "ust",
        "num": "19",
-       "path": "par_9/ust_19",
+       "path": "par_5/ust_19",
        "text": "Ośrodek Doskonalenia Kadr Specjalistycznych Ministerstwa Przemysłu i Handlu w Łodzi",
        "children": []
       },
       {
        "type": "ust",
        "num": "20",
-       "path": "par_9/ust_20",
+       "path": "par_5/ust_20",
        "text": "Ośrodek Doskonalenia Kadr Specjalistycznych Ministerstwa Przemysłu i Handlu w Chorzowie Batorym",
        "children": []
       },
       {
        "type": "ust",
        "num": "21",
-       "path": "par_9/ust_21",
+       "path": "par_5/ust_21",
        "text": "Ośrodek Doskonalenia Kadr Specjalistycznych Ministerstwa Przemysłu i Handlu w Tychach",
        "children": []
       },
       {
        "type": "ust",
        "num": "22",
-       "path": "par_9/ust_22",
+       "path": "par_5/ust_22",
        "text": "Ośrodek Doskonalenia Kadr Specjalistycznych Ministerstwa Przemysłu i Handlu w Krośnie n. Wisłokiem",
        "children": []
       },
       {
        "type": "ust",
        "num": "23",
-       "path": "par_9/ust_23",
+       "path": "par_5/ust_23",
        "text": "Ośrodek Doskonalenia Kadr Specjalistycznych Ministerstwa Przemysłu i Handlu w Bytomiu",
        "children": []
       },
       {
        "type": "ust",
        "num": "24",
-       "path": "par_9/ust_24",
+       "path": "par_5/ust_24",
        "text": "Muzeum Węgla Kamiennego w Zabrzu",
        "children": []
       },
       {
        "type": "ust",
        "num": "25",
-       "path": "par_9/ust_25",
+       "path": "par_5/ust_25",
        "text": "Muzeum Papiernictwa w Dusznikach.",
        "children": []
       }

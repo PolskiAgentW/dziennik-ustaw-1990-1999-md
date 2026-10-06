@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/362",
  "title": "Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 3 sierpnia 1993 r. w sprawie ustalenia listy odpadów niebezpiecznych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/362/text.pdf",
  "body": [
   {
@@ -168,180 +168,179 @@
      ]
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "82",
+     "path": "ust_82",
      "text": "Odpady zawierające związki fosforu (organiczne i nieorganiczne), w tym fosforki metali.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "83",
+     "path": "ust_83",
      "text": "Odpady z procesów powierzchniowej obróbki tworzyw sztucznych.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "84",
+     "path": "ust_84",
      "text": "Odpady z nutralizacji ścieków z trawienia szkła.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "85",
+     "path": "ust_85",
      "text": "Szlamy pokriolitowe.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "86",
+     "path": "ust_86",
      "text": "Inne odpady zawierające związki fluoru.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "87",
+     "path": "ust_87",
      "text": "Szlamy poługownicze.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "88",
+     "path": "ust_88",
      "text": "Odpady z chemicznej przeróbki drewna.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "89",
+     "path": "ust_89",
      "text": "Odpady smołowe z procesów rafinowania, destylacji i obróbki pirolitycznej.",
-     "children": [
-      {
-       "type": "ust",
-       "num": "90",
-       "path": "par_9/ust_90",
-       "text": "Odpady z przemysłu koksochemicznego.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "91",
-       "path": "par_9/ust_91",
-       "text": "Szlamy poczadnicowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "92",
-       "path": "par_9/ust_92",
-       "text": "Sadze pomazutowe.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "93",
-       "path": "par_9/ust_93",
-       "text": "Pozostałości z czyszczenia kotłów w energetyce.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "94",
-       "path": "par_9/ust_94",
-       "text": "Szlamy pokaustyfikacyjne.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "95",
-       "path": "par_9/ust_95",
-       "text": "Gruz materiałów ogniotrwałych zawierających związki chromu sześciowartościowego.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "96",
-       "path": "par_9/ust_96",
-       "text": "Odpady azbestu, odpady azbestowo-cementowe i inne odpady zawierające azbest.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "97",
-       "path": "par_9/ust_97",
-       "text": "Pozostałości ze spalania odpadów.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "98",
-       "path": "par_9/ust_98",
-       "text": "Pozostałości z innych procesów unieszkodliwiania odpadów przemysłowych.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "99",
-       "path": "par_9/ust_99",
-       "text": "Odpady o charakterze silnie kwaśnym (pH poniżej 3).",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "100",
-       "path": "par_9/ust_100",
-       "text": "Odpady o charakterze silnie zasadowym (pH powyżej 12).",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "101",
-       "path": "par_9/ust_101",
-       "text": "Odpady wydzielające pary lub gazy o działaniu duszącym bądź powodującym inne dolegliwości, np. łzawienie.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "102",
-       "path": "par_9/ust_102",
-       "text": "Odpady o właściwościach wybuchowych lub zawierające substancje zdolne do wybuchu.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "103",
-       "path": "par_9/ust_103",
-       "text": "Odpady wydzielające pary lub gazy stwarzające niebezpieczeństwo pożaru lub wybuchu.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "104",
-       "path": "par_9/ust_104",
-       "text": "Odpady potencjalnie niebezpieczne w zetknięciu z powietrzem lub wodą (stwarzające niebezpieczeństwo wybuchu lub pożaru).",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "105",
-       "path": "par_9/ust_105",
-       "text": "Odpady o właściwościach silnie utleniających.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "106",
-       "path": "par_9/ust_106",
-       "text": "Odpady promieniotwórcze.",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "90",
+     "path": "ust_90",
+     "text": "Odpady z przemysłu koksochemicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "91",
+     "path": "ust_91",
+     "text": "Szlamy poczadnicowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "92",
+     "path": "ust_92",
+     "text": "Sadze pomazutowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "93",
+     "path": "ust_93",
+     "text": "Pozostałości z czyszczenia kotłów w energetyce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "94",
+     "path": "ust_94",
+     "text": "Szlamy pokaustyfikacyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "95",
+     "path": "ust_95",
+     "text": "Gruz materiałów ogniotrwałych zawierających związki chromu sześciowartościowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "96",
+     "path": "ust_96",
+     "text": "Odpady azbestu, odpady azbestowo-cementowe i inne odpady zawierające azbest.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "97",
+     "path": "ust_97",
+     "text": "Pozostałości ze spalania odpadów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "98",
+     "path": "ust_98",
+     "text": "Pozostałości z innych procesów unieszkodliwiania odpadów przemysłowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "99",
+     "path": "ust_99",
+     "text": "Odpady o charakterze silnie kwaśnym (pH poniżej 3).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "100",
+     "path": "ust_100",
+     "text": "Odpady o charakterze silnie zasadowym (pH powyżej 12).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "101",
+     "path": "ust_101",
+     "text": "Odpady wydzielające pary lub gazy o działaniu duszącym bądź powodującym inne dolegliwości, np. łzawienie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "102",
+     "path": "ust_102",
+     "text": "Odpady o właściwościach wybuchowych lub zawierające substancje zdolne do wybuchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "103",
+     "path": "ust_103",
+     "text": "Odpady wydzielające pary lub gazy stwarzające niebezpieczeństwo pożaru lub wybuchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "104",
+     "path": "ust_104",
+     "text": "Odpady potencjalnie niebezpieczne w zetknięciu z powietrzem lub wodą (stwarzające niebezpieczeństwo wybuchu lub pożaru).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "105",
+     "path": "ust_105",
+     "text": "Odpady o właściwościach silnie utleniających.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "106",
+     "path": "ust_106",
+     "text": "Odpady promieniotwórcze.",
+     "children": []
     }
    ]
   }

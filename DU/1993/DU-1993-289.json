@@ -69,71 +69,76 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Układ o przyjaźni, współpracy i pomocy wzajemnej, podpisany w Warszawie dnia 14 maja 1955 r. (dalej zwany Układem Warszawskim) oraz Protokół o przedłużeniu okresu obowiązywania Układu o przyjaźni, współpracy i pomocy wzajemnej, podpisany w Warszawie dnia 26 kwietnia 1985 r., tracą moc z dniem wejścia w życie niniejszego protokołu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2 |"
-  },
-  {
-   "type": "text",
-   "text": "Państwa-Strony niniejszego protokołu oświadczają, że nie mają wobec siebie żadnych roszczeń majątkowych, wynikających z Układu Warszawskiego."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Niniejszy protokół podlega ratyfikacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Oryginał protokołu i dokumenty ratyfikacyjne zostaną złożone na przechowanie Rządowi Czeskiej i Słowackiej Republiki Federacyjnej. Rząd Czeskiej i Słowackiej Republiki Federacyjnej będzie informował pozostałe Państwa-Strony niniejszego protokołu o złożeniu na przechowanie każdego dokumentu ratyfikacyjnego.",
+   "path": "art_1",
+   "text": "Układ o przyjaźni, współpracy i pomocy wzajemnej, podpisany w Warszawie dnia 14 maja 1955 r. (dalej zwany Układem Warszawskim) oraz Protokół o przedłużeniu okresu obowiązywania Układu o przyjaźni, współpracy i pomocy wzajemnej, podpisany w Warszawie dnia 26 kwietnia 1985 r., tracą moc z dniem wejścia w życie niniejszego protokołu.",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 4"
+     "text": "Artykuł 2 |"
     },
     {
      "type": "text",
-     "text": "Protokół wchodzi w życie w dniu przekazania depozytariuszowi ostatniego dokumentu ratyfikacyjnego."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Pradze dnia 1 lipca 1991 r., w jednym egzemplarzu, w językach polskim, bułgarskim, czeskim, rosyjskim, rumuńskim i węgierskim, przy czym wszystkie teksty mają jednakową moc. Uwierzytelnione kopie niniejszego protokołu Rząd Czeskiej i Słowackiej Republiki Federacyjnej przekaże wszystkim pozostałym Państwom-Stronom niniejszego protokołu."
-    },
-    {
-     "type": "text",
-     "text": "Za Rzeczpospolitą Polską: L. Wałęsa Prezydent Rzeczypospolitej Polskiej Za Republikę Bułgarii: Ze/yu Zelev Prezydent Republiki Bułgarii Za Czeską i Słowacką Republikę Federacyjną: Vaclav Havel Prezydent Czeskiej i Słowackiej Republiki Federacyjnej Za Rumunię : /on /liescu Prezydent Rumunii"
-    },
-    {
-     "type": "text",
-     "text": "Za Republikę Węgierską: József Antall Premier Republiki Węgierskiej Za Związek Socjalistycznych Republik Radzieckich: G. I. Janajev , Wiceprezydent Związku Socjalistycznych Republik Radzieckich"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 16 września 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
+     "text": "Państwa-Strony niniejszego protokołu oświadczają, że nie mają wobec siebie żadnych roszczeń majątkowych, wynikających z Układu Warszawskiego."
     }
-   ]
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Niniejszy protokół podlega ratyfikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Oryginał protokołu i dokumenty ratyfikacyjne zostaną złożone na przechowanie Rządowi Czeskiej i Słowackiej Republiki Federacyjnej. Rząd Czeskiej i Słowackiej Republiki Federacyjnej będzie informował pozostałe Państwa-Strony niniejszego protokołu o złożeniu na przechowanie każdego dokumentu ratyfikacyjnego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Protokół wchodzi w życie w dniu przekazania depozytariuszowi ostatniego dokumentu ratyfikacyjnego.",
+   "children": [],
+   "label": "Artykuł 4"
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Pradze dnia 1 lipca 1991 r., w jednym egzemplarzu, w językach polskim, bułgarskim, czeskim, rosyjskim, rumuńskim i węgierskim, przy czym wszystkie teksty mają jednakową moc. Uwierzytelnione kopie niniejszego protokołu Rząd Czeskiej i Słowackiej Republiki Federacyjnej przekaże wszystkim pozostałym Państwom-Stronom niniejszego protokołu."
+  },
+  {
+   "type": "text",
+   "text": "Za Rzeczpospolitą Polską: L. Wałęsa Prezydent Rzeczypospolitej Polskiej Za Republikę Bułgarii: Ze/yu Zelev Prezydent Republiki Bułgarii Za Czeską i Słowacką Republikę Federacyjną: Vaclav Havel Prezydent Czeskiej i Słowackiej Republiki Federacyjnej Za Rumunię : /on /liescu Prezydent Rumunii"
+  },
+  {
+   "type": "text",
+   "text": "Za Republikę Węgierską: József Antall Premier Republiki Węgierskiej Za Związek Socjalistycznych Republik Radzieckich: G. I. Janajev , Wiceprezydent Związku Socjalistycznych Republik Radzieckich"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższym protokołem, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — został on uznany za słuszny zarówno w całości, jak i każde z postanowień w nim zawartych, — jest przyjęty, ratyfikowany i potwierdzony, — będzie niezmiennie zachowywany. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 16 września 1991 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Wałęsa L.S."
   },
   {
    "type": "signature",

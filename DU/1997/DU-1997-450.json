@@ -46,176 +46,189 @@
    "text": "Inspekcja pracy w przemyśle"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Każdy Członek Międzynarodowej Organizacji Pracy, którego obowiązuje niniejsza konwencja, będzie utrzymywał system inspekcji pracy w zakładach przemysłowych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "System inspekcji pracy w zakładach przemysłowych będzie miat zastosowanie do wszystkich zakładów, dla których inspektorzy pracy powołani są do zapewnienia stosowania przepisów prawnych, dotyczących warunków pracy i ochrony pracowników przy wykonywaniu ich zawodu.",
-   "children": []
+   "path": "art_1",
+   "text": "Każdy Członek Międzynarodowej Organizacji Pracy, którego obowiązuje niniejsza konwencja, będzie utrzymywał system inspekcji pracy w zakładach przemysłowych.",
+   "children": [],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Przepisy ustawodawstwa krajowego będą mogły wyłączyć ze stosowania niniejszej konwencji przedsiębiorstwa górnicze i transportowe albo części tych przedsiębiorstw.",
+   "path": "art_2",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "System inspekcji pracy w zakładach przemysłowych będzie miat zastosowanie do wszystkich zakładów, dla których inspektorzy pracy powołani są do zapewnienia stosowania przepisów prawnych, dotyczących warunków pracy i ochrony pracowników przy wykonywaniu ich zawodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Przepisy ustawodawstwa krajowego będą mogły wyłączyć ze stosowania niniejszej konwencji przedsiębiorstwa górnicze i transportowe albo części tych przedsiębiorstw.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Do zadań systemu inspekcji pracy będzie należało:",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) zapewnianie stosowania przepisów prawnych dotyczących warunków pracy i ochrony pracowników przy wykonywaniu ich zawodu, takich jak postanowienia dotyczące czasu pracy, płac, bezpieczeństwa, zdrowia i warunków socjalnych, zatrudnienia dzieci i młodocianych oraz innych spraw z tym związanych, w takim zakresie, w jakim inspektorzy pracy są zobowiązani do zapewnienia stosowania tych postanowień;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Do zadań systemu inspekcji pracy będzie należało:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) zapewnianie stosowania przepisów prawnych dotyczących warunków pracy i ochrony pracowników przy wykonywaniu ich zawodu, takich jak postanowienia dotyczące czasu pracy, płac, bezpieczeństwa, zdrowia i warunków socjalnych, zatrudnienia dzieci i młodocianych oraz innych spraw z tym związanych, w takim zakresie, w jakim inspektorzy pracy są zobowiązani do zapewnienia stosowania tych postanowień;"
+      },
+      {
+       "type": "text",
+       "text": "(b) dostarczanie informacji i porad technicznych pracodawcom i pracownikom co do najskuteczniejszych sposobów przestrzegania przepisów prawnych;"
+      },
+      {
+       "type": "text",
+       "text": "(c) zwracanie uwagi właściwej władzy na uchybienia lub nadużycia nie unormowane szczegółowo w istniejących przepisach prawnych."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) dostarczanie informacji i porad technicznych pracodawcom i pracownikom co do najskuteczniejszych sposobów przestrzegania przepisów prawnych;"
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Inspektorom pracy mogą być powierzone jakiekolwiek inne obowiązki tylko pod warunkiem, że nie będą przeszkadzać w skutecznym wykonywaniu ich zadań głównych ani w jakikolwiek sposób naruszać au-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Thirtieth Session on 19 June 1947, and"
+      },
+      {
+       "type": "text",
+       "text": "Having decided upon the adoption of certain proposals with regard to the organisation of labour inspection in industry and commerce, which is the fourth item on the agenda of the Session, and"
+      },
+      {
+       "type": "text",
+       "text": "Having determined that these proposals shall take the form of an international Convention,"
+      },
+      {
+       "type": "text",
+       "text": "adopts this eleventh day of July of the year one thousand nine hundred and forty-seven the following Convention, which may be cited as the Labour Inspection Convention, 1947:"
+      },
+      {
+       "type": "text",
+       "text": "Part I. Labour Inspection in Industry"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "Each Member of the International Labour Organisation for which this Convention is in force shall maintain a system of labour inspection in industrial workplaces."
+      },
+      {
+       "type": "text",
+       "text": "Article 2"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(c) zwracanie uwagi właściwej władzy na uchybienia lub nadużycia nie unormowane szczegółowo w istniejących przepisach prawnych."
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "The system of labour inspection in industrial workplaces shall apply to all workplaces in respect of which legal provisions relating to conditions of work and the protection of workers while engaged in their work are enforceable by labour inspectors.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "National laws or regulations may exempt mining and transport undertakings or parts of such undertakings from the application of this Convention.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "The functions of the system of labour inspection shall be:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) to secure the enforcement of the legal provisions relating to conditions of work and the protection of workers while engaged in their work, such as provisions relating to hours, wages, safety, health and welfare, the employment of children and young persons, and other connected matters, in so far as such provisions are enforceable by labour inspectors;"
+      },
+      {
+       "type": "text",
+       "text": "(b) to supply technical information and advice to employers and workers concerning the most effective means of complying with the legal provisions;"
+      },
+      {
+       "type": "text",
+       "text": "(c) to bring to the notice of the competent authority defects or abuses not specifically covered by existing legal provisions."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Any further duties which may be entrusted to labour inspectors shall not be such as to interfere with the effective discharge of their primary duties or to prejudice in any way the authority and impartiality",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "torytetu i bezstronności, potrzebnych inspektorom w stosunkach z pracodawcami i pracownikami."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Inspektorom pracy mogą być powierzone jakiekolwiek inne obowiązki tylko pod warunkiem, że nie będą przeszkadzać w skutecznym wykonywaniu ich zadań głównych ani w jakikolwiek sposób naruszać au-",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Thirtieth Session on 19 June 1947, and"
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Jeśli jest to zgodne z praktyką administracyjną Cztonka, inspekcja pracy będzie podlegała nadzorowi i kontroli władzy centralnej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Having decided upon the adoption of certain proposals with regard to the organisation of labour inspection in industry and commerce, which is the fourth item on the agenda of the Session, and"
-    },
-    {
-     "type": "text",
-     "text": "Having determined that these proposals shall take the form of an international Convention,"
-    },
-    {
-     "type": "text",
-     "text": "adopts this eleventh day of July of the year one thousand nine hundred and forty-seven the following Convention, which may be cited as the Labour Inspection Convention, 1947:"
-    },
-    {
-     "type": "text",
-     "text": "Part I. Labour Inspection in Industry"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "Each Member of the International Labour Organisation for which this Convention is in force shall maintain a system of labour inspection in industrial workplaces."
-    },
-    {
-     "type": "text",
-     "text": "Article 2"
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "W przypadku państwa federacyjnego określenie „władza centralna” może oznaczać bądź władzę federalną, bądź wiadze centralną jednostki wchodzącej w skład federacji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The system of labour inspection in industrial workplaces shall apply to all workplaces in respect of which legal provisions relating to conditions of work and the protection of workers while engaged in their work are enforceable by labour inspectors.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "National laws or regulations may exempt mining and transport undertakings or parts of such undertakings from the application of this Convention.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Właściwa władza będzie podejmowała odpowiednie kroki w celu popierania:",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The functions of the system of labour inspection shall be:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) to secure the enforcement of the legal provisions relating to conditions of work and the protection of workers while engaged in their work, such as provisions relating to hours, wages, safety, health and welfare, the employment of children and young persons, and other connected matters, in so far as such provisions are enforceable by labour inspectors;"
-    },
-    {
-     "type": "text",
-     "text": "(b) to supply technical information and advice to employers and workers concerning the most effective means of complying with the legal provisions;"
-    },
-    {
-     "type": "text",
-     "text": "(c) to bring to the notice of the competent authority defects or abuses not specifically covered by existing legal provisions."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any further duties which may be entrusted to labour inspectors shall not be such as to interfere with the effective discharge of their primary duties or to prejudice in any way the authority and impartiality",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "torytetu i bezstronności, potrzebnych inspektorom w stosunkach z pracodawcami i pracownikami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeśli jest to zgodne z praktyką administracyjną Cztonka, inspekcja pracy będzie podlegała nadzorowi i kontroli władzy centralnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadku państwa federacyjnego określenie „władza centralna” może oznaczać bądź władzę federalną, bądź wiadze centralną jednostki wchodzącej w skład federacji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Właściwa władza będzie podejmowała odpowiednie kroki w celu popierania:"
-    },
     {
      "type": "text",
      "text": "(a) skutecznej współpracy między służbami inspekcji a innymi służbami rządowymi oraz instytucjami publicznymi lub prywatnymi, prowadzącymi podobną działalność;"
@@ -223,158 +236,164 @@
     {
      "type": "text",
      "text": "(b) współpracy między urzędnikami inspektoratu pracy a pracodawcami i pracownikami lub ich organizacjami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Personel inspekcji pracy będzie się składał z urzędników publicznych, których status i warunki służby zapewniają stałość zatrudnienia oraz niezależność od wszelkich zmian rządu i od jakichkolwiek niewłaściwych wpływów z zewnątrz."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Z zastrzeżeniem jakichkolwiek warunków przewidzianych w ustawodawstwie krajowym w zakresie naboru do służby publicznej, inspektorzy pracy będą angażowani wyłącznie na podstawie kwalifikacji potrzebnych do wykonywania ich obowiązków.",
-   "children": []
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Personel inspekcji pracy będzie się składał z urzędników publicznych, których status i warunki służby zapewniają stałość zatrudnienia oraz niezależność od wszelkich zmian rządu i od jakichkolwiek niewłaściwych wpływów z zewnątrz.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sposoby sprawdzania tych kwalifikacji ustali właściwa władza.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Inspektorzy pracy otrzymają odpowiednie wyszkolenie, potrzebne do wykonywania ich obowiązków.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 8"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Z zastrzeżeniem jakichkolwiek warunków przewidzianych w ustawodawstwie krajowym w zakresie naboru do służby publicznej, inspektorzy pracy będą angażowani wyłącznie na podstawie kwalifikacji potrzebnych do wykonywania ich obowiązków.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W skład personelu inspekcji pracy mogą wchodzić zarówno mężczyźni, jak i kobiety; w razie potrzeby specjalne zadania mogą być powierzone odpowiednio inspektorom i inspektorkom."
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Sposoby sprawdzania tych kwalifikacji ustali właściwa władza.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Każdy Członek będzie podejmował niezbędne środki w celu zapewnienia, że należycie wykwalifikowani rzeczoznawcy i specjaliści, w tym również specjaliści z zakresu medycyny, mechaniki, elektryczności i chemii, będą włączani w działalność inspekcji pracy w taki sposób, jaki może być uznany za najodpowiedniejszy w warunkach krajowych w celu zapewnienia which are necessary to inspectors in their relations with employers and workers."
-    },
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Inspektorzy pracy otrzymają odpowiednie wyszkolenie, potrzebne do wykonywania ich obowiązków.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "W skład personelu inspekcji pracy mogą wchodzić zarówno mężczyźni, jak i kobiety; w razie potrzeby specjalne zadania mogą być powierzone odpowiednio inspektorom i inspektorkom.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każdy Członek będzie podejmował niezbędne środki w celu zapewnienia, że należycie wykwalifikowani rzeczoznawcy i specjaliści, w tym również specjaliści z zakresu medycyny, mechaniki, elektryczności i chemii, będą włączani w działalność inspekcji pracy w taki sposób, jaki może być uznany za najodpowiedniejszy w warunkach krajowych w celu zapewnienia which are necessary to inspectors in their relations with employers and workers.",
+   "children": [
     {
      "type": "text",
      "text": "Article 4"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "So far as is compatible with the administrative practice of the Member, labour inspection shall be placed under the supervision and control of a central authority.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "In the case of a federal State, the term \"central authority” may mean either a federal authority or a central authority of a federated unit.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "The competent authority shall make appropriate arrangements to promote:"
+      },
+      {
+       "type": "text",
+       "text": "(a) effective co-operation between the inspection services and other government services and public or private institutions engaged in similar activities; and"
+      },
+      {
+       "type": "text",
+       "text": "(b) collaboration between officials of the labour inspectorate and employers and workers or their organisations."
+      },
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "The inspection staff shall be composed of public officials whose status and conditions of service are such that they are assured of stability of employment and are independent of changes of government and of improper external influences."
+      },
+      {
+       "type": "text",
+       "text": "Article 7"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Subject to any conditions for recruitment to the public service which may be prescribed by national laws or regulations, labour inspectors shall be recruited with sole regard to their qualifications for the performance of their duties.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "The means of ascertaining such qualifications shall be determined by the competent authority.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Labour inspectors shall be adequately trained for the performance of their duties.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 8"
+      },
+      {
+       "type": "text",
+       "text": "Both men and women shall be eligible for appointment to the inspection staff; where necessary, special duties may be assigned to men and women inspectors."
+      },
+      {
+       "type": "text",
+       "text": "Article 9"
+      },
+      {
+       "type": "text",
+       "text": "Each Member shall take the necessary measures to ensure that duly qualified technical experts and specialists, including specialists in medicine, engineering, electricity and chemistry, are associated in the work of inspection, in such manner as may be deemed most appropriate under national conditions, for the purpose of securing the enforcement of the legal provisions"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stosowania przepisów prawnych dotyczących ochrony zdrowia i bezpieczeństwa pracowników w czasie wykonywania ich pracy oraz badania skutków stosowanych w pracy procesów, wykorzystywania materiałów i metod pracy dla zdrowia i bezpieczeństwa pracowników."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 9"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "So far as is compatible with the administrative practice of the Member, labour inspection shall be placed under the supervision and control of a central authority.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "In the case of a federal State, the term \"central authority” may mean either a federal authority or a central authority of a federated unit.",
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Liczba inspektorów pracy będzie wystarczająca dla zapewnienia skutecznego wykonywania zadań służby inspektoratu i będzie ustalona z należytym uwzględnieniem:",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "text",
-     "text": "The competent authority shall make appropriate arrangements to promote:"
-    },
-    {
-     "type": "text",
-     "text": "(a) effective co-operation between the inspection services and other government services and public or private institutions engaged in similar activities; and"
-    },
-    {
-     "type": "text",
-     "text": "(b) collaboration between officials of the labour inspectorate and employers and workers or their organisations."
-    },
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "The inspection staff shall be composed of public officials whose status and conditions of service are such that they are assured of stability of employment and are independent of changes of government and of improper external influences."
-    },
-    {
-     "type": "text",
-     "text": "Article 7"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Subject to any conditions for recruitment to the public service which may be prescribed by national laws or regulations, labour inspectors shall be recruited with sole regard to their qualifications for the performance of their duties.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The means of ascertaining such qualifications shall be determined by the competent authority.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Labour inspectors shall be adequately trained for the performance of their duties.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 8"
-    },
-    {
-     "type": "text",
-     "text": "Both men and women shall be eligible for appointment to the inspection staff; where necessary, special duties may be assigned to men and women inspectors."
-    },
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "Each Member shall take the necessary measures to ensure that duly qualified technical experts and specialists, including specialists in medicine, engineering, electricity and chemistry, are associated in the work of inspection, in such manner as may be deemed most appropriate under national conditions, for the purpose of securing the enforcement of the legal provisions"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "stosowania przepisów prawnych dotyczących ochrony zdrowia i bezpieczeństwa pracowników w czasie wykonywania ich pracy oraz badania skutków stosowanych w pracy procesów, wykorzystywania materiałów i metod pracy dla zdrowia i bezpieczeństwa pracowników."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Liczba inspektorów pracy będzie wystarczająca dla zapewnienia skutecznego wykonywania zadań służby inspektoratu i będzie ustalona z należytym uwzględnieniem:"
-    },
     {
      "type": "text",
      "text": "(a) ważności zadań, jakie inspektorzy mają do wykonania, w szczególności:"
@@ -398,234 +417,247 @@
     {
      "type": "text",
      "text": "(c) warunków praktycznych, w jakich powinny odbywać się wizytacje inspekcyjne, tak aby były skuteczne."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwa władza podejmie niezbędne kroki w celu zapewnienia inspektorom pracy:",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) lokalnych biur, odpowiednio wyposażonych zgodnie z wymogami służby i dostępnych dla wszystkich zainteresowanych osób;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Właściwa władza podejmie niezbędne kroki w celu zapewnienia inspektorom pracy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) lokalnych biur, odpowiednio wyposażonych zgodnie z wymogami służby i dostępnych dla wszystkich zainteresowanych osób;"
+      },
+      {
+       "type": "text",
+       "text": "(b) udogodnień transportowych niezbędnych do wykonywania ich obowiązków, w przypadku braku odpowiednich publicznych środków transportu."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) udogodnień transportowych niezbędnych do wykonywania ich obowiązków, w przypadku braku odpowiednich publicznych środków transportu."
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Właściwa władza podejmie niezbędne kroki w celu zwrotu inspektorom pracy wszystkich kosztów przejazdów i wydatków dodatkowych, które mogą być konieczne w związku z wykonywaniem ich zadań.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwa władza podejmie niezbędne kroki w celu zwrotu inspektorom pracy wszystkich kosztów przejazdów i wydatków dodatkowych, które mogą być konieczne w związku z wykonywaniem ich zadań.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 12"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Inspektorzy pracy zaopatrzeni w odpowiednie pełnomocnictwa będą upoważnieni do:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) swobodnego wstępu, bez uprzedniego zawiadomienia, o każdej porze dnia i nocy, do każdego zakładu pracy podlegającego inspekcji;"
+      },
+      {
+       "type": "text",
+       "text": "(b) wstępu w ciągu dnia do wszelkich pomieszczeń, jeżeli mogą oni mieć uzasadnioną podstawę do przypuszczenia, że pomieszczenia te podlegają inspekcji;"
+      },
+      {
+       "type": "text",
+       "text": "(c) prowadzenia wszelkich badań, kontroli lub dochodzeń, jakie mogą uznać za niezbędne dla upewnienia się, że przepisy prawne są ściśle przestrzegane, a w szczególności do:"
+      },
+      {
+       "type": "text",
+       "text": "(i) przesłuchiwania, na osobności lub w obecności świadków, pracodawcy lub personelu przedsiębiorstwa w sprawach dotyczących stosowania przepisów prawnych;"
+      },
+      {
+       "type": "text",
+       "text": "relating to the protection of the health and safety of workers while engaged in their work and of investigating the effects of processes, materials and methods of work on the health and safety of workers."
+      },
+      {
+       "type": "text",
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "The number of labour inspectors shall be sufficient to secure the effective discharge of the duties of the inspectorate and shall be determined with due regard for:"
+      },
+      {
+       "type": "text",
+       "text": "(a) the importance of the duties which inspectors have to perform, in particular —"
+      },
+      {
+       "type": "text",
+       "text": "(i) the number, nature, size and situation of the workplaces liable to inspection;"
+      },
+      {
+       "type": "text",
+       "text": "(ii) the number and classes of workers employed in such workplaces; and"
+      },
+      {
+       "type": "text",
+       "text": "(iii) the number and complexity of the legal provisions to be enforced;"
+      },
+      {
+       "type": "text",
+       "text": "(b) the material means placed at the disposal of the inspectors; and"
+      },
+      {
+       "type": "text",
+       "text": "(c) the practical conditions under which visits of inspection must be carried out in order to be effecti-"
+      },
+      {
+       "type": "text",
+       "text": "ve."
+      },
+      {
+       "type": "text",
+       "text": "Article 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "The competent authority shall make the necessary arrangements to furnish labour inspectors with —",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) local offices, suitably equipped in accordance with the requirements of the service, and accessible to all persons concerned;"
+      },
+      {
+       "type": "text",
+       "text": "(b) the transport facilities necessary for the performance of their duties in cases where suitable public facilities do not exist."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "The competent authority shall make the necessary arrangements to reimburse to labour inspectors any travelling and incidental expenses which may be necessary for the performance of their duties.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 12"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Labour inspectors provided with proper credentials shall be empowered:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) to enter freely and without previous notice at any hour of the day or night any workplace liable to inspection;"
+      },
+      {
+       "type": "text",
+       "text": "(b) to enter by day any premises which they may have reasonable cause to believe to be liable to inspection; and"
+      },
+      {
+       "type": "text",
+       "text": "(c) to carry out any examination, test or enquiry which they may consider necessary in order to satisfy themselves that the legal provisions are being strictly observed, and in particular —"
+      },
+      {
+       "type": "text",
+       "text": "(i) to interrogate, alone or in the presence of witnesses, the employer or the staff of the undertaking on any matters concerning the application of the legal provisions;"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(ii) żądania okazania wszelkich ksiąg, rejestrów lub innych dokumentów, których prowadzenie jest nakazane przez ustawodawstwo krajowe dotyczące warunków pracy, w celu sprawdzenia ich zgodności z przepisami prawnymi oraz ich kopiowania lub sporządzenia z nich wyciągów;"
+      },
+      {
+       "type": "text",
+       "text": "(iii) zapewnienia wywieszania ogłoszeń wymaganych przez przepisy prawne;"
+      },
+      {
+       "type": "text",
+       "text": "(iv) pobierania lub zabierania do analizy próbek materiałów i substancji używanych lub obrabianych, pod warunkiem zawiadomienia pracodawcy lub jego przedstawiciela, że zostały one pobrane lub zabrane w tym celu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "W przypadku kontroli inspektorzy będą zawiadamiać o swojej obecności pracodawcę lub jego przedstawiciela, chyba że uznają, iż takie zawiadomienie może niekorzystnie wpłynąć na wykonywanie ich obowiązków.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Inspektorzy pracy zaopatrzeni w odpowiednie pełnomocnictwa będą upoważnieni do:",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) swobodnego wstępu, bez uprzedniego zawiadomienia, o każdej porze dnia i nocy, do każdego zakładu pracy podlegającego inspekcji;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Inspektorzy pracy będą uprawnieni do podejmowania kroków w celu usunięcia stwierdzonych wad jakichkolwiek urządzeń lub uchybień w metodach pracy, które mogą ze słusznych przyczyn uważać za stanowiące zagrożenie dla zdrowia lub bezpieczeństwa pracowników.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) wstępu w ciągu dnia do wszelkich pomieszczeń, jeżeli mogą oni mieć uzasadnioną podstawę do przypuszczenia, że pomieszczenia te podlegają inspekcji;"
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Aby umożliwić inspektorom pracy podejmowanie takich kroków, będą oni upoważnieni, z zastrzeżeniem możliwości odwołania się do władz sądowych lub administracyjnych, co może przewidywać ustawodawstwo krajowe, do wydawania zarządzeń lub powodowania wydawania zarządzeń nakazujących:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) dokonanie w ściśle określonym terminie zmian w instalacjach i urządzeniach niezbędnych w celu zapewnienia ścisłego stosowania przepisów prawnych, dotyczących ochrony zdrowia i bezpieczeństwa pracowników;"
+      },
+      {
+       "type": "text",
+       "text": "(b) zastosowanie środków o natychmiastowej wykonalności w razie bezpośredniego zagrożenia zdrowia lub bezpieczeństwa pracowników."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(c) prowadzenia wszelkich badań, kontroli lub dochodzeń, jakie mogą uznać za niezbędne dla upewnienia się, że przepisy prawne są ściśle przestrzegane, a w szczególności do:"
-    },
-    {
-     "type": "text",
-     "text": "(i) przesłuchiwania, na osobności lub w obecności świadków, pracodawcy lub personelu przedsiębiorstwa w sprawach dotyczących stosowania przepisów prawnych;"
-    },
-    {
-     "type": "text",
-     "text": "relating to the protection of the health and safety of workers while engaged in their work and of investigating the effects of processes, materials and methods of work on the health and safety of workers."
-    },
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "The number of labour inspectors shall be sufficient to secure the effective discharge of the duties of the inspectorate and shall be determined with due regard for:"
-    },
-    {
-     "type": "text",
-     "text": "(a) the importance of the duties which inspectors have to perform, in particular —"
-    },
-    {
-     "type": "text",
-     "text": "(i) the number, nature, size and situation of the workplaces liable to inspection;"
-    },
-    {
-     "type": "text",
-     "text": "(ii) the number and classes of workers employed in such workplaces; and"
-    },
-    {
-     "type": "text",
-     "text": "(iii) the number and complexity of the legal provisions to be enforced;"
-    },
-    {
-     "type": "text",
-     "text": "(b) the material means placed at the disposal of the inspectors; and"
-    },
-    {
-     "type": "text",
-     "text": "(c) the practical conditions under which visits of inspection must be carried out in order to be effecti-"
-    },
-    {
-     "type": "text",
-     "text": "ve."
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Jeżeli procedura ustalona w ustępie 2 nie jest zgodna z praktyką administracyjną lub sądową Członka, inspektorzy będą mieli prawo zwrócić się do właściwej władzy o wydanie zarządzeń lub podjęcie środków o natychmiastowej wykonalności.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The competent authority shall make the necessary arrangements to furnish labour inspectors with —",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Inspektorat pracy będzie zawiadamiany o wypadkach przy pracy w przemyśle i przypadkach chorób zawodowych, w sytuacjach i w sposób określonych przez ustawodawstwo krajowe.",
+   "children": [],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Z zastrzeżeniem wyjątków, które może przewidzieć ' ustawodawstwo krajowe, inspektorzy pracy:",
    "children": [
-    {
-     "type": "text",
-     "text": "(a) local offices, suitably equipped in accordance with the requirements of the service, and accessible to all persons concerned;"
-    },
-    {
-     "type": "text",
-     "text": "(b) the transport facilities necessary for the performance of their duties in cases where suitable public facilities do not exist."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The competent authority shall make the necessary arrangements to reimburse to labour inspectors any travelling and incidental expenses which may be necessary for the performance of their duties.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 12"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Labour inspectors provided with proper credentials shall be empowered:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) to enter freely and without previous notice at any hour of the day or night any workplace liable to inspection;"
-    },
-    {
-     "type": "text",
-     "text": "(b) to enter by day any premises which they may have reasonable cause to believe to be liable to inspection; and"
-    },
-    {
-     "type": "text",
-     "text": "(c) to carry out any examination, test or enquiry which they may consider necessary in order to satisfy themselves that the legal provisions are being strictly observed, and in particular —"
-    },
-    {
-     "type": "text",
-     "text": "(i) to interrogate, alone or in the presence of witnesses, the employer or the staff of the undertaking on any matters concerning the application of the legal provisions;"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "(ii) żądania okazania wszelkich ksiąg, rejestrów lub innych dokumentów, których prowadzenie jest nakazane przez ustawodawstwo krajowe dotyczące warunków pracy, w celu sprawdzenia ich zgodności z przepisami prawnymi oraz ich kopiowania lub sporządzenia z nich wyciągów;"
-    },
-    {
-     "type": "text",
-     "text": "(iii) zapewnienia wywieszania ogłoszeń wymaganych przez przepisy prawne;"
-    },
-    {
-     "type": "text",
-     "text": "(iv) pobierania lub zabierania do analizy próbek materiałów i substancji używanych lub obrabianych, pod warunkiem zawiadomienia pracodawcy lub jego przedstawiciela, że zostały one pobrane lub zabrane w tym celu."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadku kontroli inspektorzy będą zawiadamiać o swojej obecności pracodawcę lub jego przedstawiciela, chyba że uznają, iż takie zawiadomienie może niekorzystnie wpłynąć na wykonywanie ich obowiązków.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Inspektorzy pracy będą uprawnieni do podejmowania kroków w celu usunięcia stwierdzonych wad jakichkolwiek urządzeń lub uchybień w metodach pracy, które mogą ze słusznych przyczyn uważać za stanowiące zagrożenie dla zdrowia lub bezpieczeństwa pracowników.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Aby umożliwić inspektorom pracy podejmowanie takich kroków, będą oni upoważnieni, z zastrzeżeniem możliwości odwołania się do władz sądowych lub administracyjnych, co może przewidywać ustawodawstwo krajowe, do wydawania zarządzeń lub powodowania wydawania zarządzeń nakazujących:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) dokonanie w ściśle określonym terminie zmian w instalacjach i urządzeniach niezbędnych w celu zapewnienia ścisłego stosowania przepisów prawnych, dotyczących ochrony zdrowia i bezpieczeństwa pracowników;"
-    },
-    {
-     "type": "text",
-     "text": "(b) zastosowanie środków o natychmiastowej wykonalności w razie bezpośredniego zagrożenia zdrowia lub bezpieczeństwa pracowników."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli procedura ustalona w ustępie 2 nie jest zgodna z praktyką administracyjną lub sądową Członka, inspektorzy będą mieli prawo zwrócić się do właściwej władzy o wydanie zarządzeń lub podjęcie środków o natychmiastowej wykonalności.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Inspektorat pracy będzie zawiadamiany o wypadkach przy pracy w przemyśle i przypadkach chorób zawodowych, w sytuacjach i w sposób określonych przez ustawodawstwo krajowe."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Z zastrzeżeniem wyjątków, które może przewidzieć ' ustawodawstwo krajowe, inspektorzy pracy:"
-    },
     {
      "type": "text",
      "text": "(ii) to require the production of any books, registers or other documents the keeping of which is prescribed by national laws or regulations relating to conditions of work, in order to see that they are in conformity with the legal provisions, and to copy such documents or make extracts from them;"
@@ -633,253 +665,266 @@
     {
      "type": "text",
      "text": "(iii) to enforce the posting of notices required by the legal provisions; (iv)to take or remove for purposes of analysis samples of materials and substances used or handled, subject to the employer or his representative being notified of any samples or substances taken or removed for such purpose."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Onthe occasion of an inspection visit, inspectors shall notify the employer or his representative of their presence, unless they consider that such a notification may be prejudicial to the performance of their duties.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Labour inspectors shall be empowered to take steps with a view to remedying defects observed in plant, layout or working methods which they may have reasonable cause to believe constitute a threat to the health or safety of the workers.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "In order to enable inspectors to take such steps they shall be empowered, subject to any right of appeal to a judicial or administrative authority which may be provided by law, to make or to have made orders requiring —",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) such alterations to the installation or plant, to be carried out within a specified time limit, as may be necessary to secure compliance with the legal provisions relating to the health or safety of the workers; or"
+      },
+      {
+       "type": "text",
+       "text": "(b) measures with immediate executory force in the event of imminent danger to the health or safety of the workers."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Where the procedure prescribed in paragraph 2 is not compatible with the administrative or judicial practice of the Member, inspectors shall have the right to apply to the competent authority for the issue of orders or for the initiation of measures with immediate executory force.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "The labour inspectorate shall be notified of industrial accidents and cases of occupational disease in such cases and in such manner as may be prescribed by national laws or regulations."
+      },
+      {
+       "type": "text",
+       "text": "Article 15"
+      },
+      {
+       "type": "text",
+       "text": "Subject to such exceptions as may be made by national laws or regulations, labour inspectors —"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(a) nie mogą być w jakikolwiek sposób, bezpośrednio lub pośrednio, zainteresowani materialnie w przedsiębiorstwach podlegających ich kontroli;"
+      },
+      {
+       "type": "text",
+       "text": "(b) będą zobowiązani, pod groźbą odpowiednich sankcji karnych lub środków dyscyplinarnych, do nieujawniania, nawet po opuszczeniu służby, tajemnic produkcji lub handlu albo metod eksploatacji, które mogli poznać podczas wykonywania swych obowiązków; oraz"
+      },
+      {
+       "type": "text",
+       "text": "(c) będą traktować jako absolutnie poufne źródło jakiejkolwiek skargi informującej ich o naruszeniu lub złamaniu przepisów prawnych i nie dadzą żadnej wskazówki pracodawcy lub jego przedstawicielowi, że inspekcję przeprowadzono w następstwie otrzymania skargi."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Onthe occasion of an inspection visit, inspectors shall notify the employer or his representative of their presence, unless they consider that such a notification may be prejudicial to the performance of their duties.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Przedsiębiorstwa będą kontrolowane tak często i tak starannie, jak to jest konieczne dla zapewnienia skutecznego stosowania odpowiednich przepisów prawnych.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Osoby naruszające lub zaniedbujące przestrzegania przepisów prawnych, których stosowanie kontrolują inspektorzy pracy, będą podlegać natychmiastowym procedurom prawnym bez uprzedniego ostrzeżenia. Jednakże ustawodawstwo krajowe może przewidzieć wyjątki w przypadkach, gdy należy udzielić uprzedniego ostrzeżenia w celu poprawienia sytuacji lub zastosowania środków zapobiegawczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Inspektorzy pracy będą mieli swobodę decydowania, czy należy udzielić ostrzeżenia lub porady zamiast rozpoczęcia lub zalecenia rozpoczęcia odpowiednich procedur.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Labour inspectors shall be empowered to take steps with a view to remedying defects observed in plant, layout or working methods which they may have reasonable cause to believe constitute a threat to the health or safety of the workers.",
-   "children": []
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Będą przewidziane przez ustawodawstwo krajowe i skutecznie stosowane odpowiednie sankcje karne za naruszenia przepisów prawnych, których stosowanie podlega kontroli inspektorów pracy, oraz za sprawianie trudności inspektorom pracy w wykonywaniu ich zadań.",
+   "children": [],
+   "label": "Artykuł 18"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "In order to enable inspectors to take such steps they shall be empowered, subject to any right of appeal to a judicial or administrative authority which may be provided by law, to make or to have made orders requiring —",
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "(a) such alterations to the installation or plant, to be carried out within a specified time limit, as may be necessary to secure compliance with the legal provisions relating to the health or safety of the workers; or"
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Inspektorzy pracy lub lokalne biura inspekcji, w zależności od potrzeb, będą obowiązani przedktadaé centralnej władzy inspekcyjnej okresowe sprawozdania z wyników ich działalności inspekcyjnej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(b) measures with immediate executory force in the event of imminent danger to the health or safety of the workers."
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Sprawozdania te będą sporządzane w sposób ustalony przez władzę centralną i będą obejmowały sprawy wskazywane od czasu do czasu przez tę władzę; będą one przedkładane tak często, jak to ustali władza centralna, w każdym razie nie rzadziej niż raz w roku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Where the procedure prescribed in paragraph 2 is not compatible with the administrative or judicial practice of the Member, inspectors shall have the right to apply to the competent authority for the issue of orders or for the initiation of measures with immediate executory force.",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 14"
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Centralna wiadza inspekcyjna będzie publikowała sprawozdania roczne o charakterze ogólnym z działalności służb inspekcji podlegających jej kontroli.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) shall be prohibited from having any direct or indirect interest in the undertakings under their supervision;"
+      },
+      {
+       "type": "text",
+       "text": "(b) shall be bound on pain of appropriate penalties or disciplinary measures not to reveal, even after leaving the service, any manufacturing or commercial secrets or working processes which may come to their knowledge in the course of their duties; and"
+      },
+      {
+       "type": "text",
+       "text": "(©) shall treat as absolutely confidential the source of any complaint bringing to their notice a defect or breach of legal provisions and shall give no intimation to the employer or his representative that a visit of inspection was made in consequence of the receipt of such a complaint."
+      },
+      {
+       "type": "text",
+       "text": "Article 16"
+      },
+      {
+       "type": "text",
+       "text": "Workplaces shall be inspected as often and as thoroughly as is necessary to ensure the effective application of the relevant legal provisions."
+      },
+      {
+       "type": "text",
+       "text": "Article 17"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "The labour inspectorate shall be notified of industrial accidents and cases of occupational disease in such cases and in such manner as may be prescribed by national laws or regulations."
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Persons who violate or neglect to observe legal provisions enforceable by labour inspectors shall be liable to prompt legal proceedings without previous warning: Provided that exceptions may be made by national laws or regulations in respect of cases in which previous notice to carry out remedial or preventive measures is to be given.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Article 15"
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "It shall be left to the discretion of labour inspectors to give warning and advice instead of instituting or recommending proceedings.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 18"
+      },
+      {
+       "type": "text",
+       "text": "Adequate penalties for violations of the legal provisions enforceable by labour inspectors and for obstructing labour inspectors in the performance of their duties shall be provided for by national laws or regulations and effectively enforced."
+      },
+      {
+       "type": "text",
+       "text": "Article 19"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Subject to such exceptions as may be made by national laws or regulations, labour inspectors —"
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Labour inspectors or local inspection offices, as the case may be, shall be required to submit to the central inspection authority periodical reports on the results of their inspection activities.",
+     "children": []
     },
     {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "These reports shall be drawn up in such manner and deal with such subjects as may from time to time be prescribed by the central authority; they shall be submitted at least as frequently as may be prescribed by that authority and in any case not less frequently than once a year.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 20"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(a) nie mogą być w jakikolwiek sposób, bezpośrednio lub pośrednio, zainteresowani materialnie w przedsiębiorstwach podlegających ich kontroli;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "The central inspection authority shall publish an annual general report on the work of the inspection services under its control,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) będą zobowiązani, pod groźbą odpowiednich sankcji karnych lub środków dyscyplinarnych, do nieujawniania, nawet po opuszczeniu służby, tajemnic produkcji lub handlu albo metod eksploatacji, które mogli poznać podczas wykonywania swych obowiązków; oraz"
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Takie sprawozdania roczne będą publikowane w rozsądnym terminie, nie przekraczającym w żadnym razie dwunastu miesięcy od końca roku, którego dotyczą.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(c) będą traktować jako absolutnie poufne źródło jakiejkolwiek skargi informującej ich o naruszeniu lub złamaniu przepisów prawnych i nie dadzą żadnej wskazówki pracodawcy lub jego przedstawicielowi, że inspekcję przeprowadzono w następstwie otrzymania skargi."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Przedsiębiorstwa będą kontrolowane tak często i tak starannie, jak to jest konieczne dla zapewnienia skutecznego stosowania odpowiednich przepisów prawnych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Kopie sprawozdań rocznych będą przekazywane Dyrektorowi Generalnemu Międzynarodowego Biura Pracy w rozsądnym terminie po ich opublikowaniu, ale w każdym razie w ciągu trzech miesięcy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 20"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoby naruszające lub zaniedbujące przestrzegania przepisów prawnych, których stosowanie kontrolują inspektorzy pracy, będą podlegać natychmiastowym procedurom prawnym bez uprzedniego ostrzeżenia. Jednakże ustawodawstwo krajowe może przewidzieć wyjątki w przypadkach, gdy należy udzielić uprzedniego ostrzeżenia w celu poprawienia sytuacji lub zastosowania środków zapobiegawczych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Inspektorzy pracy będą mieli swobodę decydowania, czy należy udzielić ostrzeżenia lub porady zamiast rozpoczęcia lub zalecenia rozpoczęcia odpowiednich procedur.",
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Sprawozdania roczne publikowane przez centralną władzę inspekcyjną będą dotyczyły następujących zagadnień oraz innych kwestii z nimi związanych, jeżeli podlegają one kontroli tej władzy:",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 18"
-    },
-    {
-     "type": "text",
-     "text": "Będą przewidziane przez ustawodawstwo krajowe i skutecznie stosowane odpowiednie sankcje karne za naruszenia przepisów prawnych, których stosowanie podlega kontroli inspektorów pracy, oraz za sprawianie trudności inspektorom pracy w wykonywaniu ich zadań."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Inspektorzy pracy lub lokalne biura inspekcji, w zależności od potrzeb, będą obowiązani przedktadaé centralnej władzy inspekcyjnej okresowe sprawozdania z wyników ich działalności inspekcyjnej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sprawozdania te będą sporządzane w sposób ustalony przez władzę centralną i będą obejmowały sprawy wskazywane od czasu do czasu przez tę władzę; będą one przedkładane tak często, jak to ustali władza centralna, w każdym razie nie rzadziej niż raz w roku.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Centralna wiadza inspekcyjna będzie publikowała sprawozdania roczne o charakterze ogólnym z działalności służb inspekcji podlegających jej kontroli.",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) shall be prohibited from having any direct or indirect interest in the undertakings under their supervision;"
-    },
-    {
-     "type": "text",
-     "text": "(b) shall be bound on pain of appropriate penalties or disciplinary measures not to reveal, even after leaving the service, any manufacturing or commercial secrets or working processes which may come to their knowledge in the course of their duties; and"
-    },
-    {
-     "type": "text",
-     "text": "(©) shall treat as absolutely confidential the source of any complaint bringing to their notice a defect or breach of legal provisions and shall give no intimation to the employer or his representative that a visit of inspection was made in consequence of the receipt of such a complaint."
-    },
-    {
-     "type": "text",
-     "text": "Article 16"
-    },
-    {
-     "type": "text",
-     "text": "Workplaces shall be inspected as often and as thoroughly as is necessary to ensure the effective application of the relevant legal provisions."
-    },
-    {
-     "type": "text",
-     "text": "Article 17"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Persons who violate or neglect to observe legal provisions enforceable by labour inspectors shall be liable to prompt legal proceedings without previous warning: Provided that exceptions may be made by national laws or regulations in respect of cases in which previous notice to carry out remedial or preventive measures is to be given.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "It shall be left to the discretion of labour inspectors to give warning and advice instead of instituting or recommending proceedings.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 18"
-    },
-    {
-     "type": "text",
-     "text": "Adequate penalties for violations of the legal provisions enforceable by labour inspectors and for obstructing labour inspectors in the performance of their duties shall be provided for by national laws or regulations and effectively enforced."
-    },
-    {
-     "type": "text",
-     "text": "Article 19"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Labour inspectors or local inspection offices, as the case may be, shall be required to submit to the central inspection authority periodical reports on the results of their inspection activities.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "These reports shall be drawn up in such manner and deal with such subjects as may from time to time be prescribed by the central authority; they shall be submitted at least as frequently as may be prescribed by that authority and in any case not less frequently than once a year.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 20"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The central inspection authority shall publish an annual general report on the work of the inspection services under its control,",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Takie sprawozdania roczne będą publikowane w rozsądnym terminie, nie przekraczającym w żadnym razie dwunastu miesięcy od końca roku, którego dotyczą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Kopie sprawozdań rocznych będą przekazywane Dyrektorowi Generalnemu Międzynarodowego Biura Pracy w rozsądnym terminie po ich opublikowaniu, ale w każdym razie w ciągu trzech miesięcy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    },
-    {
-     "type": "text",
-     "text": "Sprawozdania roczne publikowane przez centralną władzę inspekcyjną będą dotyczyły następujących zagadnień oraz innych kwestii z nimi związanych, jeżeli podlegają one kontroli tej władzy:"
-    },
     {
      "type": "text",
      "text": "(a) ustawodawstwa dotyczącego działalności inspekcji pracy,"
@@ -908,7 +953,8 @@
      "type": "text",
      "text": "(g) danych statystycznych dotyczących chorób zawodowych."
     }
-   ]
+   ],
+   "label": "Artykuł 21"
   },
   {
    "type": "heading",
@@ -916,28 +962,28 @@
    "text": "Inspekcja pracy w handlu"
   },
   {
-   "type": "text",
-   "text": "Artykuł 22"
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Każdy Członek Międzynarodowej Organizacji Pracy, którego obowiązuje część Il niniejszej konwencji, będzie utrzymywał system inspekcji pracy w zakładach handlowych.",
+   "children": [],
+   "label": "Artykuł 22"
   },
   {
-   "type": "text",
-   "text": "Każdy Członek Międzynarodowej Organizacji Pracy, którego obowiązuje część Il niniejszej konwencji, będzie utrzymywał system inspekcji pracy w zakładach handlowych."
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "System inspekcji pracy w zakładach handlowych będzie miał zastosowanie do zakładów, dla których inspektorzy pracy powołani są do zapewnienia stosowania przepisów prawnych dotyczących warunków pracy i ochrony pracowników przy wykonywaniu zawodu.",
+   "children": [],
+   "label": "Artykuł 23"
   },
   {
-   "type": "text",
-   "text": "Artykuł 23"
-  },
-  {
-   "type": "text",
-   "text": "System inspekcji pracy w zakładach handlowych będzie miał zastosowanie do zakładów, dla których inspektorzy pracy powołani są do zapewnienia stosowania przepisów prawnych dotyczących warunków pracy i ochrony pracowników przy wykonywaniu zawodu."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 24"
-  },
-  {
-   "type": "text",
-   "text": "System inspekcji pracy w zakładach handlowych będzie zgodny z wymogami artykułów 3 do 21 niniejszej konwencji, jeśli są one możliwe do zastosowania."
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "System inspekcji pracy w zakładach handlowych będzie zgodny z wymogami artykułów 3 do 21 niniejszej konwencji, jeśli są one możliwe do zastosowania.",
+   "children": [],
+   "label": "Artykuł 24"
   },
   {
    "type": "heading",
@@ -945,427 +991,445 @@
    "text": "Postanowienia różne"
   },
   {
-   "type": "text",
-   "text": "Artykuł 25"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy Czfonek Międzynarodowej Organizacji Pracy, który ratyfikuje niniejszą konwencję, może na podstawie deklaracji dołączonej do jego dokumentu ratyfikacyjnego wyłączyć stosowanie części II konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Such annual reports shall be published within a reasonable time after the end of the year to which they relate and in any case within twelve months.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Copies of the annual reports shall be transmitted to the Director-General of the International Labour Office within a reasonable period after their publication and in any case within three months.",
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 21"
+     "type": "ust",
+     "num": "1",
+     "path": "art_25/ust_1",
+     "text": "Każdy Czfonek Międzynarodowej Organizacji Pracy, który ratyfikuje niniejszą konwencję, może na podstawie deklaracji dołączonej do jego dokumentu ratyfikacyjnego wyłączyć stosowanie części II konwencji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "The annual report published by the central inspection authority shall deal with the following and other relevant subjects in so far as they are under the control of the said authority:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_25/ust_2",
+     "text": "Such annual reports shall be published within a reasonable time after the end of the year to which they relate and in any case within twelve months.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(a) laws and regulations relevant to the work ofthe inspection service;"
+     "type": "ust",
+     "num": "3",
+     "path": "art_25/ust_3",
+     "text": "Copies of the annual reports shall be transmitted to the Director-General of the International Labour Office within a reasonable period after their publication and in any case within three months.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 21"
+      },
+      {
+       "type": "text",
+       "text": "The annual report published by the central inspection authority shall deal with the following and other relevant subjects in so far as they are under the control of the said authority:"
+      },
+      {
+       "type": "text",
+       "text": "(a) laws and regulations relevant to the work ofthe inspection service;"
+      },
+      {
+       "type": "text",
+       "text": "(b) staff of the labour inspection service;"
+      },
+      {
+       "type": "text",
+       "text": "(c) statistics of workplaces liable to inspection and the number of workers employed therein;"
+      },
+      {
+       "type": "text",
+       "text": "(d) statistics of inspection visits;"
+      },
+      {
+       "type": "text",
+       "text": "(e) statistics of violations and penalties imposed;"
+      },
+      {
+       "type": "text",
+       "text": "(f) statistics of industrial accidents;"
+      },
+      {
+       "type": "text",
+       "text": "(g) statistics of occupational diseases."
+      },
+      {
+       "type": "text",
+       "text": "Part Il. Labour Inspection in Commerce"
+      },
+      {
+       "type": "text",
+       "text": "Article 22"
+      },
+      {
+       "type": "text",
+       "text": "Each Member of the International Labour Organisation for which this Part of this Convention is in force shall maintain a system of labour inspection in commercial workplaces."
+      },
+      {
+       "type": "text",
+       "text": "Article 23"
+      },
+      {
+       "type": "text",
+       "text": "The system of labour inspection in commercial workplaces shall apply to workplaces in respect of which legal provisions relating to conditions of work and the protection of workers while engaged in their work are enforceable by labour inspectors."
+      },
+      {
+       "type": "text",
+       "text": "Article 24"
+      },
+      {
+       "type": "text",
+       "text": "The system of labour inspection in commercial workplaces shall comply with the requirements of Articles 3 to 21 of this Convention in so far as they are applicable."
+      },
+      {
+       "type": "text",
+       "text": "Part Ill. Miscellaneous Provisions"
+      },
+      {
+       "type": "text",
+       "text": "Article 25"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(b) staff of the labour inspection service;"
+     "type": "ust",
+     "num": "1",
+     "path": "art_25/ust_1",
+     "text": "Any Member of the International Labour Organisation which ratifies this Convention may, by a declaration appended to its ratification, exclude Part II from its acceptance of the Convention.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "(c) statistics of workplaces liable to inspection and the number of workers employed therein;"
+     "type": "ust",
+     "num": "2",
+     "path": "art_25/ust_2",
+     "text": "Każdy Członek, który złożył taką deklarację, może ją anulować w każdym czasie w drodze deklaracji późniejszej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "(d) statistics of inspection visits;"
-    },
-    {
-     "type": "text",
-     "text": "(e) statistics of violations and penalties imposed;"
-    },
-    {
-     "type": "text",
-     "text": "(f) statistics of industrial accidents;"
-    },
-    {
-     "type": "text",
-     "text": "(g) statistics of occupational diseases."
-    },
-    {
-     "type": "text",
-     "text": "Part Il. Labour Inspection in Commerce"
-    },
-    {
-     "type": "text",
-     "text": "Article 22"
-    },
-    {
-     "type": "text",
-     "text": "Each Member of the International Labour Organisation for which this Part of this Convention is in force shall maintain a system of labour inspection in commercial workplaces."
-    },
-    {
-     "type": "text",
-     "text": "Article 23"
-    },
-    {
-     "type": "text",
-     "text": "The system of labour inspection in commercial workplaces shall apply to workplaces in respect of which legal provisions relating to conditions of work and the protection of workers while engaged in their work are enforceable by labour inspectors."
-    },
-    {
-     "type": "text",
-     "text": "Article 24"
-    },
-    {
-     "type": "text",
-     "text": "The system of labour inspection in commercial workplaces shall comply with the requirements of Articles 3 to 21 of this Convention in so far as they are applicable."
-    },
-    {
-     "type": "text",
-     "text": "Part Ill. Miscellaneous Provisions"
-    },
-    {
-     "type": "text",
-     "text": "Article 25"
+     "type": "ust",
+     "num": "3",
+     "path": "art_25/ust_3",
+     "text": "Każdy Członek, wobec którego pozostaje w mocy deklaracja złożona zgodnie z ustępem 1 niniejszego artykułu, wskaże co roku w swoim sprawozdaniu rocznym ze stosowania niniejszej konwencji stan swego ustawodawstwa oraz praktyki, dotyczących postanowień części Il niniejszej konwencji, precyzując, w jakim stopniu są stosowane te postanowienia albo zamierzenia co do ich stosowania.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 25"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any Member of the International Labour Organisation which ratifies this Convention may, by a declaration appended to its ratification, exclude Part II from its acceptance of the Convention.",
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "W każdym przypadku, w którym nie jest pewne, czy postanowienia niniejszej konwencji mają zastosowanie do jakiegoś zakładu, jego części, działu lub miejsca pracy, właściwa władza powinna rozstrzygnąć dany problem.",
+   "children": [],
+   "label": "Artykuł 26"
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "W niniejszej konwencji określenie „przepisy prawne” obejmuje, oprócz ustawodawstwa, orzeczenia arbitrażowe i układy zbiorowe mające moc prawa i nad których stosowaniem powinni czuwać inspektorzy pracy.",
+   "children": [],
+   "label": "Artykuł 27"
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Sprawozdania roczne, przedkładane zgodnie z artykułem 22 Konstytucji Międzynarodowej Organizacji Pracy, będą zawierać szczegółowe informacje dotyczące całości przepisów ustawodawstwa krajowego, zapewniających stosowanie postanowień niniejszej konwencji.",
+   "children": [],
+   "label": "Artykuł 28"
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "Gdy terytorium Członka obejmuje duże regiony, na których z powodu małego zaludnienia lub z powodu stanu ich rozwoju właściwa władza uzna, że stosowanie postanowień niniejszej konwencji jest praktycznie niemożliwe, może ona wyłączyć dane regiony spod działania postanowień niniejszej konwencji w ogóle bądź z takimi wyjątkami, jakie uzna za stosowne poczynić w odniesieniu do pewnych zakładów lub zawodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Każdy Członek w swoim pierwszym sprawozdaniu rocznym dotyczącym stosowania niniejszej konwencji, przedłożonym zgodnie z artykułem 22 Konstytucji Międzynarodowej Organizacji Pracy, wskaże wszystkie regiony, w stosunku do których zamierza stosować postanowienia niniejszego artykułu, i powody, dla których zamierza to uczynić. Członek będzie mógł, po przediozeniu swego pierwszego sprawozdania rocznego, korzystać z postanowień niniejszego artykułu tylko w odniesieniu do regionów wskazanych w sprawozdaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_29/ust_3",
+     "text": "Każdy Członek korzystający z postanowień niniejszego artykułu powinien wskazać w swych następnych sprawozdaniach rocznych, w odniesieniu do których regionów nie będzie stosować wymienionych postanowień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Any Member which has made such a declaration may at any time cancel that declaration by a subsequent declaration.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_29/ust_3",
+     "text": "Every Member for which a declaration made under paragraph 1 of this Article is in force shall indicate each year in its annual report upon the application of this Convention the position of its law and practice in regard to the provisions of Part Il of this Convention and the extent to which effect has been given, or is proposed to be given, to the said provisions.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 26"
+      },
+      {
+       "type": "text",
+       "text": "In any case in which it is doubtful whether any undertaking, part or service of an undertaking or workplace is an undertaking, part, service or workplace to which this Convention applies, the question shall be settled by the competent authority."
+      },
+      {
+       "type": "text",
+       "text": "Article 27"
+      },
+      {
+       "type": "text",
+       "text": "In this Convention the term “legal provisions” includes, in addition to laws and regulations, arbitration awards and collective agreements upon which the force of law is conferred and which are enforceable by labour inspectors."
+      },
+      {
+       "type": "text",
+       "text": "Article 28"
+      },
+      {
+       "type": "text",
+       "text": "There shall be included in the annual reports to be submitted under Article 22 of the Constitution of the International Labour Organisation full information concerning all laws and regulations by which effect is given to the provisions of the Convention."
+      },
+      {
+       "type": "text",
+       "text": "Article 29"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "In the case of a Member the territory of which includes large areas where, by reason of the sparseness of the population or the stage of development of the area, the competent authority considers it impracticable to enforce the provisions of this Convention, the authority may exempt such areas from the application of this Convention either generally or with such exceptions in respect of particular undertakings or occupations as it thinks fit.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Each Member shall indicate in its first annual report upon the application of this Convention submitted under article 22 of the Constitution of the International Labour Organisation any areas in respect of which it proposes to have recourse to the provisions of the present Article and shall give the reasons for which it proposes to have recourse thereto; no Member shall, after the date of its first annual report, have recourse to the provisions of the present Article except in respect of areas so indicated.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_29/ust_3",
+     "text": "Each Member having recourse to the provisions of the present Article shall indicate in subsequent annual reports any areas in respect of which it renounces the right to have recourse to the provisions of the present Article.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 29"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy Członek, który złożył taką deklarację, może ją anulować w każdym czasie w drodze deklaracji późniejszej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każdy Członek, wobec którego pozostaje w mocy deklaracja złożona zgodnie z ustępem 1 niniejszego artykułu, wskaże co roku w swoim sprawozdaniu rocznym ze stosowania niniejszej konwencji stan swego ustawodawstwa oraz praktyki, dotyczących postanowień części Il niniejszej konwencji, precyzując, w jakim stopniu są stosowane te postanowienia albo zamierzenia co do ich stosowania.",
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 26"
+     "type": "ust",
+     "num": "1",
+     "path": "art_30/ust_1",
+     "text": "Jeżeli chodzi o terytoria wymienione w artykule 35 Konstytucji Międzynarodowej Organizacji Pracy w jej brzmieniu zmienionym przez akt poprawki Konstytucji Międzynarodowej Organizacji Pracy, z 1946 r., z wyjątkiem terytoriów wymienionych w ustępach 4i5 wspomnianego artykułu tak zmienionego, każdy Członek Organizacji, który ratyfikuje niniejszą konwencję, przekaże Dyrektorowi Generalnemu Międzynarodowego Biura Pracy, w możliwie najkrótszym czasie, po swej ratyfikacji deklarację określającą:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) terytoria, do których zobowiązuje się stosować postanowienia konwencji bez zmian;"
+      },
+      {
+       "type": "text",
+       "text": "(b) terytoria, do których zobowiązuje się stosować postanowienia konwencji ze zmianami, i na czym te zmiany polegają;"
+      },
+      {
+       "type": "text",
+       "text": "(c) terytoria, do których konwencja nie może być stosowana, a w takich wypadkach — powody uniemożliwiające jej stosowanie;"
+      },
+      {
+       "type": "text",
+       "text": "(d) terytoria, co do których zastrzega sobie decyzję."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "W każdym przypadku, w którym nie jest pewne, czy postanowienia niniejszej konwencji mają zastosowanie do jakiegoś zakładu, jego części, działu lub miejsca pracy, właściwa władza powinna rozstrzygnąć dany problem."
+     "type": "ust",
+     "num": "2",
+     "path": "art_30/ust_2",
+     "text": "Zobowiązania wymienione w punktach (a) i (b) ustępu 1 niniejszego artykułu będą uważane za części składowe ratyfikacji i będą wywierały identyczne skutki co ratyfikacja.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 27"
+     "type": "ust",
+     "num": "3",
+     "path": "art_30/ust_3",
+     "text": "Każdy Członek może w każdym czasie w drodze kolejnej deklaracji unieważnić w całości lub w części jakiekolwiek zobowiązania zawarte w jego pierwotnej deklaracji, zgodnie z punktami (b), (c) lub (d) ustępu 1 niniejszego artykułu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "W niniejszej konwencji określenie „przepisy prawne” obejmuje, oprócz ustawodawstwa, orzeczenia arbitrażowe i układy zbiorowe mające moc prawa i nad których stosowaniem powinni czuwać inspektorzy pracy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 28"
-    },
-    {
-     "type": "text",
-     "text": "Sprawozdania roczne, przedkładane zgodnie z artykułem 22 Konstytucji Międzynarodowej Organizacji Pracy, będą zawierać szczegółowe informacje dotyczące całości przepisów ustawodawstwa krajowego, zapewniających stosowanie postanowień niniejszej konwencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 29"
+     "type": "ust",
+     "num": "4",
+     "path": "art_30/ust_4",
+     "text": "Każdy Członek będzie mógł w każdym czasie, w którym niniejsza konwencja może być wypowiedziana zgodnie z postanowieniami artykułu 34, przekazać Dyrektorowi Generalnemu nową deklarację, zmieniającą w jakimkolwiek innym zakresie brzmienie każdej deklaracji poprzedniej i informującą o aktualnej sytuacji na określonych terytoriach.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 30"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Gdy terytorium Członka obejmuje duże regiony, na których z powodu małego zaludnienia lub z powodu stanu ich rozwoju właściwa władza uzna, że stosowanie postanowień niniejszej konwencji jest praktycznie niemożliwe, może ona wyłączyć dane regiony spod działania postanowień niniejszej konwencji w ogóle bądź z takimi wyjątkami, jakie uzna za stosowne poczynić w odniesieniu do pewnych zakładów lub zawodów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy Członek w swoim pierwszym sprawozdaniu rocznym dotyczącym stosowania niniejszej konwencji, przedłożonym zgodnie z artykułem 22 Konstytucji Międzynarodowej Organizacji Pracy, wskaże wszystkie regiony, w stosunku do których zamierza stosować postanowienia niniejszego artykułu, i powody, dla których zamierza to uczynić. Członek będzie mógł, po przediozeniu swego pierwszego sprawozdania rocznego, korzystać z postanowień niniejszego artykułu tylko w odniesieniu do regionów wskazanych w sprawozdaniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każdy Członek korzystający z postanowień niniejszego artykułu powinien wskazać w swych następnych sprawozdaniach rocznych, w odniesieniu do których regionów nie będzie stosować wymienionych postanowień.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any Member which has made such a declaration may at any time cancel that declaration by a subsequent declaration.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Every Member for which a declaration made under paragraph 1 of this Article is in force shall indicate each year in its annual report upon the application of this Convention the position of its law and practice in regard to the provisions of Part Il of this Convention and the extent to which effect has been given, or is proposed to be given, to the said provisions.",
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 26"
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "Gdy sprawy, których dotyczy niniejsza konwencja, wchodzą w zakres kompetencji władz samorządowych jakiegokolwiek terytorium niemetropolitalnego, Członek odpowiedzialny za stosunki międzynarodowe tego terytorium będzie mógł w porozumieniu z rządem tego terytorium przekazać Dyrektorowi Generalnemu Międzynarodowego Biura Pracy deklarację stwierdzającą przyjęcie w imieniu tego terytorium zobowiązań wynikających z niniejszej konwencji.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "In any case in which it is doubtful whether any undertaking, part or service of an undertaking or workplace is an undertaking, part, service or workplace to which this Convention applies, the question shall be settled by the competent authority."
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "Deklaracja stwierdzająca przyjęcie zobowiązań wynikających z niniejszej konwencji może być przekazana Dyrektorowi Generalnemu Międzynarodowego Biura Pracy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) przez dwóch lub kilku Członków Organizacji w adniesieniu do terytorium będącego pod ich wspólną władzą; lub"
+      },
+      {
+       "type": "text",
+       "text": "Article 30"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 27"
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "In respect of the territories referred to in article 35 of the Constitution of the International Labour Organisation as amended by the Constitution of the International Labour Organisation Instrument of Amendment, 1946, other than the territories referred to in paragraphs 4 and 5 of the said article as so amended, each Member of the Organisation which ratifies this Conventions hall communicate to the Director-General of the International Labour Office as soon as possible after ratification a declaration stating —",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) the territories in respect of which it undertakes that the provisions of the Convention shall be applied without modification;"
+      },
+      {
+       "type": "text",
+       "text": "(b) the territories in respect of which it undertakes that the proviesions of the Convention shall be applied subject to modifications, together with details of the said modifications;"
+      },
+      {
+       "type": "text",
+       "text": "(c) the territories in respect of which the Convention is inapplicable and in such cases the grounds on which it is inapplicable;"
+      },
+      {
+       "type": "text",
+       "text": "(d) the territories in respect of which it reserves its decision."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "In this Convention the term “legal provisions” includes, in addition to laws and regulations, arbitration awards and collective agreements upon which the force of law is conferred and which are enforceable by labour inspectors."
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "The undertakings referred to in subparagraphs",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) and (b) of paragraph 1 of this Article shall deemed to be an integral part of the ratification and shall have the force of ratification."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 28"
+     "type": "ust",
+     "num": "3",
+     "path": "art_31/ust_3",
+     "text": "Any Member may at any time by a subsequent declaration cancel in whole or in part any reservations made in its original declaration in virtue of subparagraphs (b), (c) or (d) of paragraph 1 of this Article.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "There shall be included in the annual reports to be submitted under Article 22 of the Constitution of the International Labour Organisation full information concerning all laws and regulations by which effect is given to the provisions of the Convention."
+     "type": "ust",
+     "num": "4",
+     "path": "art_31/ust_4",
+     "text": "Any Member may, at any time at which the Convention is subject to denunciation in accordance with the provisions of Article 34, communicate to the Director-General a declaration modifying in any other respect the terms of any former declaration and stating the present position in respect of such territories as it may specify.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 31"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Article 29"
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "Where the subject matter of this Convention is within the self-governing powers of any non-metropolitan territory, the Member responsible for the international relations of that territory may, in agreement with the Government of the territory, communicate to the Director-General of the International Labour Office a declaration accepting on behalf of the territory the obligations of this Convention.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "A declaration accepting the obligations of this Convention may be communicated to the Director-General of the International Labour Office —",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) by two or more Members of the Organisation in respect of any territory which is under their joint authority; or"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(b) przez jakąkolwiek władzę międzynarodową odpowiedzialną za administrację jakiegokolwiek terytorium na podstawie Karty Narodów Zjednoczonych lub jakiegokolwiek innego postanowienia obowiązującego wobec jakiegokolwiek takiego terytorium."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_31/ust_3",
+     "text": "Deklaracje przekazane Dyrektorowi Generalnemu Międzynarodowego Biura Pracy zgodnie z poprzednimi ustępami niniejszego artykułu będą stwierdzać, czy postanowienia niniejszej konwencji będą stosowane na danym terytorium ze zmianami, czy bez zmian. Jeśli w deklaracji jest powiedziane, że postanowienia niniejszej konwencji będą stosowane ze zmianami, powinna ona również wyszczególnić, na czym te zmiany polegają.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_31/ust_4",
+     "text": "Zainteresowany Członek, Członkowie albo wtadza międzynarodowa mogą w każdym czasie zrzec się całkowicie lub częściowo na mocy późniejszej deklaracji prawa do jakichkolwiek zmian wskazanych w deklaracji poprzedniej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_31/ust_5",
+     "text": "Zainteresowany Członek, Czfonkowie lub wtadza międzynarodowa mogą w każdym czasie, w którym ta konwencja może być wypowiedziana zgodnie z postanowieniami artykułu 34, przekazać Dyrektorowi Generalnemu nową deklarację zmieniającą brzmienie jakiejkowiek poprzedniej deklaracji, informującą o aktualnej sytuacji w zakresie stosowania niniejszej konwencji.",
+     "children": []
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "In the case of a Member the territory of which includes large areas where, by reason of the sparseness of the population or the stage of development of the area, the competent authority considers it impracticable to enforce the provisions of this Convention, the authority may exempt such areas from the application of this Convention either generally or with such exceptions in respect of particular undertakings or occupations as it thinks fit.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Each Member shall indicate in its first annual report upon the application of this Convention submitted under article 22 of the Constitution of the International Labour Organisation any areas in respect of which it proposes to have recourse to the provisions of the present Article and shall give the reasons for which it proposes to have recourse thereto; no Member shall, after the date of its first annual report, have recourse to the provisions of the present Article except in respect of areas so indicated.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Each Member having recourse to the provisions of the present Article shall indicate in subsequent annual reports any areas in respect of which it renounces the right to have recourse to the provisions of the present Article.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 30"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli chodzi o terytoria wymienione w artykule 35 Konstytucji Międzynarodowej Organizacji Pracy w jej brzmieniu zmienionym przez akt poprawki Konstytucji Międzynarodowej Organizacji Pracy, z 1946 r., z wyjątkiem terytoriów wymienionych w ustępach 4i5 wspomnianego artykułu tak zmienionego, każdy Członek Organizacji, który ratyfikuje niniejszą konwencję, przekaże Dyrektorowi Generalnemu Międzynarodowego Biura Pracy, w możliwie najkrótszym czasie, po swej ratyfikacji deklarację określającą:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) terytoria, do których zobowiązuje się stosować postanowienia konwencji bez zmian;"
-    },
-    {
-     "type": "text",
-     "text": "(b) terytoria, do których zobowiązuje się stosować postanowienia konwencji ze zmianami, i na czym te zmiany polegają;"
-    },
-    {
-     "type": "text",
-     "text": "(c) terytoria, do których konwencja nie może być stosowana, a w takich wypadkach — powody uniemożliwiające jej stosowanie;"
-    },
-    {
-     "type": "text",
-     "text": "(d) terytoria, co do których zastrzega sobie decyzję."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zobowiązania wymienione w punktach (a) i (b) ustępu 1 niniejszego artykułu będą uważane za części składowe ratyfikacji i będą wywierały identyczne skutki co ratyfikacja.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Każdy Członek może w każdym czasie w drodze kolejnej deklaracji unieważnić w całości lub w części jakiekolwiek zobowiązania zawarte w jego pierwotnej deklaracji, zgodnie z punktami (b), (c) lub (d) ustępu 1 niniejszego artykułu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Każdy Członek będzie mógł w każdym czasie, w którym niniejsza konwencja może być wypowiedziana zgodnie z postanowieniami artykułu 34, przekazać Dyrektorowi Generalnemu nową deklarację, zmieniającą w jakimkolwiek innym zakresie brzmienie każdej deklaracji poprzedniej i informującą o aktualnej sytuacji na określonych terytoriach.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 31"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Gdy sprawy, których dotyczy niniejsza konwencja, wchodzą w zakres kompetencji władz samorządowych jakiegokolwiek terytorium niemetropolitalnego, Członek odpowiedzialny za stosunki międzynarodowe tego terytorium będzie mógł w porozumieniu z rządem tego terytorium przekazać Dyrektorowi Generalnemu Międzynarodowego Biura Pracy deklarację stwierdzającą przyjęcie w imieniu tego terytorium zobowiązań wynikających z niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Deklaracja stwierdzająca przyjęcie zobowiązań wynikających z niniejszej konwencji może być przekazana Dyrektorowi Generalnemu Międzynarodowego Biura Pracy:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) przez dwóch lub kilku Członków Organizacji w adniesieniu do terytorium będącego pod ich wspólną władzą; lub"
-    },
-    {
-     "type": "text",
-     "text": "Article 30"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "In respect of the territories referred to in article 35 of the Constitution of the International Labour Organisation as amended by the Constitution of the International Labour Organisation Instrument of Amendment, 1946, other than the territories referred to in paragraphs 4 and 5 of the said article as so amended, each Member of the Organisation which ratifies this Conventions hall communicate to the Director-General of the International Labour Office as soon as possible after ratification a declaration stating —",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) the territories in respect of which it undertakes that the provisions of the Convention shall be applied without modification;"
-    },
-    {
-     "type": "text",
-     "text": "(b) the territories in respect of which it undertakes that the proviesions of the Convention shall be applied subject to modifications, together with details of the said modifications;"
-    },
-    {
-     "type": "text",
-     "text": "(c) the territories in respect of which the Convention is inapplicable and in such cases the grounds on which it is inapplicable;"
-    },
-    {
-     "type": "text",
-     "text": "(d) the territories in respect of which it reserves its decision."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The undertakings referred to in subparagraphs",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) and (b) of paragraph 1 of this Article shall deemed to be an integral part of the ratification and shall have the force of ratification."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Any Member may at any time by a subsequent declaration cancel in whole or in part any reservations made in its original declaration in virtue of subparagraphs (b), (c) or (d) of paragraph 1 of this Article.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Any Member may, at any time at which the Convention is subject to denunciation in accordance with the provisions of Article 34, communicate to the Director-General a declaration modifying in any other respect the terms of any former declaration and stating the present position in respect of such territories as it may specify.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 31"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Where the subject matter of this Convention is within the self-governing powers of any non-metropolitan territory, the Member responsible for the international relations of that territory may, in agreement with the Government of the territory, communicate to the Director-General of the International Labour Office a declaration accepting on behalf of the territory the obligations of this Convention.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "A declaration accepting the obligations of this Convention may be communicated to the Director-General of the International Labour Office —",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) by two or more Members of the Organisation in respect of any territory which is under their joint authority; or"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "(b) przez jakąkolwiek władzę międzynarodową odpowiedzialną za administrację jakiegokolwiek terytorium na podstawie Karty Narodów Zjednoczonych lub jakiegokolwiek innego postanowienia obowiązującego wobec jakiegokolwiek takiego terytorium."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Deklaracje przekazane Dyrektorowi Generalnemu Międzynarodowego Biura Pracy zgodnie z poprzednimi ustępami niniejszego artykułu będą stwierdzać, czy postanowienia niniejszej konwencji będą stosowane na danym terytorium ze zmianami, czy bez zmian. Jeśli w deklaracji jest powiedziane, że postanowienia niniejszej konwencji będą stosowane ze zmianami, powinna ona również wyszczególnić, na czym te zmiany polegają.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Zainteresowany Członek, Członkowie albo wtadza międzynarodowa mogą w każdym czasie zrzec się całkowicie lub częściowo na mocy późniejszej deklaracji prawa do jakichkolwiek zmian wskazanych w deklaracji poprzedniej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Zainteresowany Członek, Czfonkowie lub wtadza międzynarodowa mogą w każdym czasie, w którym ta konwencja może być wypowiedziana zgodnie z postanowieniami artykułu 34, przekazać Dyrektorowi Generalnemu nową deklarację zmieniającą brzmienie jakiejkowiek poprzedniej deklaracji, informującą o aktualnej sytuacji w zakresie stosowania niniejszej konwencji.",
-   "children": []
+   ],
+   "label": "Artykuł 31"
   },
   {
    "type": "heading",
@@ -1373,316 +1437,334 @@
    "text": "Postanowienia końcowe"
   },
   {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zostanie poinformowany o formalnych ratyfikacjach niniejszej konwencji w celu ich zarejestrowania.",
+   "children": [],
+   "label": "Artykuł 32"
+  },
+  {
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_33/ust_1",
+     "text": "Niniejsza konwencja będzie obowiązywała tylko tych Członków Międzynarodowej Organizacji Pracy, których ratyfikacje zostaną zarejestrowane przez Dyrektora Generalnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_33/ust_2",
+     "text": "Wejdzie ona w życie po upływie dwunastu miesięcy od daty zarejestrowania przez Dyrektora Generalnego ratyfikacji niniejszej konwencji przez dwóch Członków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_33/ust_3",
+     "text": "Następnie niniejsza konwencja wejdzie w życie dla każdego Cztonka po upływie dwunastu miesięcy od daty zarejestrowania jego ratyfikacji.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 33"
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_34/ust_1",
+     "text": "Każdy Członek, który ratyfikował niniejszą konwencję, może ją wypowiedzieć po upływie okresu dziesięciu lat od daty początkowego wejścia jej w życie aktem przekazanym Dyrektorowi Generalnemu Międzynarodowego Biura Pracy i przez niego zarejestrowanym. Wypowiedzenie to nabierze mocy dopiero po upływie jednego roku od daty jego zarejestrowania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(b) by any international authority responsible for the administration of any territory, in virtue of the Charter of the United Nations or otherwise, in respect of any such territory."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_34/ust_3",
+     "text": "Declarations communicated to the Director-General of the International Labour Office in accordance with the preceding paragraphs of this Article shall indicate whether the provisions of the Convention will be applied in the territory concerned without modification or subject to modifications; when the declaration indicates that the provisions of the Convention will be applied subject to modifications it shall give details of the said modifications.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_34/ust_4",
+     "text": "The Member, Members or international authority concerned may at any time by a subsequent declaration renounce in whole or in part the right to have recourse to any modification indicated in any former declaration.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_34/ust_5",
+     "text": "The Member, Members or international authority concerned may, at any time at which this Convention is subject to denunciation in accordance with the provisions of Article 34, communicate to the Director- -General a declaration modifying in any other respect the terms of any former declaration and stating the - present position in respect of the application of the Convention.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Part IV. Final Provisions"
+      },
+      {
+       "type": "text",
+       "text": "Article 32"
+      },
+      {
+       "type": "text",
+       "text": "The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration."
+      },
+      {
+       "type": "text",
+       "text": "Article 33"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_34/ust_1",
+     "text": "This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_34/ust_2",
+     "text": "It shall be come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_34/ust_3",
+     "text": "Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 34"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_34/ust_1",
+     "text": "A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_34/ust_2",
+     "text": "Każdy Członek, który ratyfikował niniejszą konwencję, a który w ciągu jednego roku po upływie okresu dziesięciu lat wymienionego w poprzednim ustępie nie skorzysta z prawa do wypowiedzenia przewidzianego w niniejszym artykule, będzie związany postanowieniami niniejszej konwencji na nowy okres dziesięciu lat i następnie będzie mógł wypowiedzieć niniejszą konwencję po upływie każdego okresu dziesięciu lat, z zachowaniem warunków przewidzianych w niniejszym artykule.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 34"
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_35/ust_1",
+     "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zawiadomi wszystkich Członków Międzynarodowej Organizacji Pracy o zarejestrowaniu wszystkich ratyfikacji, oświadczeń i aktów wypowiedzenia przekazanych mu przez Członków Organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_35/ust_2",
+     "text": "Zawiadamiając Członków Organizacji o zarejestrowaniu drugiej zgłoszonej mu ratyfikacji, Dyrektor Generalny zwróci uwagę Członków Organizacji na datę wejścia w życie niniejszej konwencji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuf 36"
+      },
+      {
+       "type": "text",
+       "text": "Dyrektor Generalny Międzynarodowego Biura Pracy udzieli Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych w celu zarejestrowania zgodnie z artykułem 102 Karty Narodów Zjednoczonych wyczerpujących informacji o wszystkich ratyfikacjach, oświadczeniach i aktach wypowiedzenia, jakie zarejestrował zgodnie z postanowieniami poprzednich artykułów."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 35"
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "Rada Administracyjna Międzynarodowego Biura Pracy, w każdym przypadku, gdy uzna to za potrzebne, przedstawi Konferencji Ogólnej sprawozdanie ze stosowania niniejszej konwencji i rozpatrzy, czy należy wpisać do porządku dziennego Konferencji sprawę całkowitej lub częściowej rewizji tej konwencji.",
+   "children": [],
+   "label": "Artykuł 37"
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_38/ust_1",
+     "text": "W razie przyjęcia przez Konferencję nowej konwencji wprowadzającej całkowitą lub częściową rewizję niniejszej konwencji i jeżeli nowa konwencja nie stanowi inaczej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) ratyfikacja przez Członka nowej konwencji wprowadzającej rewizję spowoduje z mocy samego prawa, bez względu na postanowienia artykułu 34, natychmiastowe wypowiedzenie niniejszej konwencji, z zastrzeżeniem, że nowa konwencja wprowadzająca rewizję wejdzie w życie;"
+      },
+      {
+       "type": "text",
+       "text": "(b) począwszy od daty wejścia w życie nowej konwencji wprowadzającej rewizję niniejsza konwencja przestanie być otwarta do ratyfikacji dla Członków."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_38/ust_2",
+     "text": "Niniejsza konwencja pozostanie w każdym razie w mocy w swej formie i treści dla tych Członków, którzy ją ratyfikowali, a nie ratyfikowali konwencji wprowadzającej rewizję.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 38"
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "Teksty angielski i francuski niniejszej konwencji są jednakowo wiarygodne.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_39/ust_2",
+     "text": "Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of the years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 35"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_39/ust_1",
+     "text": "The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications, declarations and denunciations communicated to him by the Members of the Organisation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_39/ust_2",
+     "text": "When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 36"
+      },
+      {
+       "type": "text",
+       "text": "The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with"
+      },
+      {
+       "type": "text",
+       "text": "Article 102 of the Charter of the United Nations full particulars of all ratifications, declarations and acts of denunciation registered by him in accordance with the provisions of the preceding Articles."
+      },
+      {
+       "type": "text",
+       "text": "Article 37"
+      },
+      {
+       "type": "text",
+       "text": "At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of Conference the question of its revision in whole or in part."
+      },
+      {
+       "type": "text",
+       "text": "Article 38"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_39/ust_1",
+     "text": "Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention provides,",
+     "children": [
+      {
+       "type": "text",
+       "text": "(a) the ratification by a Member of the new revising Convention shall ipso jure involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 34 above, if and when the new revising Convention shall have come into for-"
+      },
+      {
+       "type": "text",
+       "text": "ce;"
+      },
+      {
+       "type": "text",
+       "text": "(b) as from the date when the new revising Convention comes into force, this Convention shall cease to be open to ratification by the Members."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_39/ust_2",
+     "text": "This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 39"
+      },
+      {
+       "type": "text",
+       "text": "The English and French versions of the text of this Convention are equally authoritative."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 39"
+  },
+  {
    "type": "text",
-   "text": "Artykuł 32"
+   "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną w całości, jak i każde z postanowień w niej zawartych; — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana."
   },
   {
    "type": "text",
-   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zostanie poinformowany o formalnych ratyfikacjach niniejszej konwencji w celu ich zarejestrowania."
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
   },
   {
    "type": "text",
-   "text": "Artykuł 33"
+   "text": "Dano w Warszawie dnia 19 kwietnia 1995 r."
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja będzie obowiązywała tylko tych Członków Międzynarodowej Organizacji Pracy, których ratyfikacje zostaną zarejestrowane przez Dyrektora Generalnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wejdzie ona w życie po upływie dwunastu miesięcy od daty zarejestrowania przez Dyrektora Generalnego ratyfikacji niniejszej konwencji przez dwóch Członków.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Następnie niniejsza konwencja wejdzie w życie dla każdego Cztonka po upływie dwunastu miesięcy od daty zarejestrowania jego ratyfikacji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 34"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy Członek, który ratyfikował niniejszą konwencję, może ją wypowiedzieć po upływie okresu dziesięciu lat od daty początkowego wejścia jej w życie aktem przekazanym Dyrektorowi Generalnemu Międzynarodowego Biura Pracy i przez niego zarejestrowanym. Wypowiedzenie to nabierze mocy dopiero po upływie jednego roku od daty jego zarejestrowania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "(b) by any international authority responsible for the administration of any territory, in virtue of the Charter of the United Nations or otherwise, in respect of any such territory."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Declarations communicated to the Director-General of the International Labour Office in accordance with the preceding paragraphs of this Article shall indicate whether the provisions of the Convention will be applied in the territory concerned without modification or subject to modifications; when the declaration indicates that the provisions of the Convention will be applied subject to modifications it shall give details of the said modifications.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The Member, Members or international authority concerned may at any time by a subsequent declaration renounce in whole or in part the right to have recourse to any modification indicated in any former declaration.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "The Member, Members or international authority concerned may, at any time at which this Convention is subject to denunciation in accordance with the provisions of Article 34, communicate to the Director- -General a declaration modifying in any other respect the terms of any former declaration and stating the - present position in respect of the application of the Convention.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Part IV. Final Provisions"
-    },
-    {
-     "type": "text",
-     "text": "Article 32"
-    },
-    {
-     "type": "text",
-     "text": "The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration."
-    },
-    {
-     "type": "text",
-     "text": "Article 33"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "It shall be come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 34"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Każdy Członek, który ratyfikował niniejszą konwencję, a który w ciągu jednego roku po upływie okresu dziesięciu lat wymienionego w poprzednim ustępie nie skorzysta z prawa do wypowiedzenia przewidzianego w niniejszym artykule, będzie związany postanowieniami niniejszej konwencji na nowy okres dziesięciu lat i następnie będzie mógł wypowiedzieć niniejszą konwencję po upływie każdego okresu dziesięciu lat, z zachowaniem warunków przewidzianych w niniejszym artykule.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 35"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dyrektor Generalny Międzynarodowego Biura Pracy zawiadomi wszystkich Członków Międzynarodowej Organizacji Pracy o zarejestrowaniu wszystkich ratyfikacji, oświadczeń i aktów wypowiedzenia przekazanych mu przez Członków Organizacji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zawiadamiając Członków Organizacji o zarejestrowaniu drugiej zgłoszonej mu ratyfikacji, Dyrektor Generalny zwróci uwagę Członków Organizacji na datę wejścia w życie niniejszej konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuf 36"
-    },
-    {
-     "type": "text",
-     "text": "Dyrektor Generalny Międzynarodowego Biura Pracy udzieli Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych w celu zarejestrowania zgodnie z artykułem 102 Karty Narodów Zjednoczonych wyczerpujących informacji o wszystkich ratyfikacjach, oświadczeniach i aktach wypowiedzenia, jakie zarejestrował zgodnie z postanowieniami poprzednich artykułów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 37"
-    },
-    {
-     "type": "text",
-     "text": "Rada Administracyjna Międzynarodowego Biura Pracy, w każdym przypadku, gdy uzna to za potrzebne, przedstawi Konferencji Ogólnej sprawozdanie ze stosowania niniejszej konwencji i rozpatrzy, czy należy wpisać do porządku dziennego Konferencji sprawę całkowitej lub częściowej rewizji tej konwencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 38"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W razie przyjęcia przez Konferencję nowej konwencji wprowadzającej całkowitą lub częściową rewizję niniejszej konwencji i jeżeli nowa konwencja nie stanowi inaczej:",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) ratyfikacja przez Członka nowej konwencji wprowadzającej rewizję spowoduje z mocy samego prawa, bez względu na postanowienia artykułu 34, natychmiastowe wypowiedzenie niniejszej konwencji, z zastrzeżeniem, że nowa konwencja wprowadzająca rewizję wejdzie w życie;"
-    },
-    {
-     "type": "text",
-     "text": "(b) począwszy od daty wejścia w życie nowej konwencji wprowadzającej rewizję niniejsza konwencja przestanie być otwarta do ratyfikacji dla Członków."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza konwencja pozostanie w każdym razie w mocy w swej formie i treści dla tych Członków, którzy ją ratyfikowali, a nie ratyfikowali konwencji wprowadzającej rewizję.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 39"
-    },
-    {
-     "type": "text",
-     "text": "Teksty angielski i francuski niniejszej konwencji są jednakowo wiarygodne."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of the years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 35"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications, declarations and denunciations communicated to him by the Members of the Organisation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 36"
-    },
-    {
-     "type": "text",
-     "text": "The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with"
-    },
-    {
-     "type": "text",
-     "text": "Article 102 of the Charter of the United Nations full particulars of all ratifications, declarations and acts of denunciation registered by him in accordance with the provisions of the preceding Articles."
-    },
-    {
-     "type": "text",
-     "text": "Article 37"
-    },
-    {
-     "type": "text",
-     "text": "At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of Conference the question of its revision in whole or in part."
-    },
-    {
-     "type": "text",
-     "text": "Article 38"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention provides,",
-   "children": [
-    {
-     "type": "text",
-     "text": "(a) the ratification by a Member of the new revising Convention shall ipso jure involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 34 above, if and when the new revising Convention shall have come into for-"
-    },
-    {
-     "type": "text",
-     "text": "ce;"
-    },
-    {
-     "type": "text",
-     "text": "(b) as from the date when the new revising Convention comes into force, this Convention shall cease to be open to ratification by the Members."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 39"
-    },
-    {
-     "type": "text",
-     "text": "The English and French versions of the text of this Convention are equally authoritative."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną w całości, jak i każde z postanowień w niej zawartych; — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 19 kwietnia 1995 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: L. Watęsa L.S."
-    }
-   ]
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: L. Watęsa L.S."
   },
   {
    "type": "signature",

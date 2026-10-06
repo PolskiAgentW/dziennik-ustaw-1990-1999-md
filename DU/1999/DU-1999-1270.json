@@ -1,7 +1,7 @@
 {
  "eli": "DU/1999/1270",
  "title": "Rozporządzenie Rady Ministrów z dnia 21 grudnia 1999 r. zmieniające rozporządzenie w sprawie określenia zakresu, trybu, formy oraz terminów dostarczania informacji dotyczących działalności i sytuacji finansowej domów maklerskich oraz banków prowadzących działalność maklerską i banków prowadzących rachunki papierów wartościowych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/1270/text.pdf",
  "body": [
   {
@@ -968,58 +968,58 @@
    "children": []
   },
   {
-   "type": "par",
-   "num": "0",
-   "path": "par_0",
+   "type": "ust",
+   "num": "50",
+   "path": "ust_50",
    "text": "W wierszu 64 należy podać wartość instrumentów finansowych klientów zdeponowanych na rachunkach papierów wartościowych klientów oraz wartość instrumentów finansowych klientów zdeponowanych na rachunkach domu maklerskiego lub banku prowadzącego działalność maklerską prowadzonych za granicą. Ilości i-tego instrumentu finansowego klientów ustala się na podstawie ewidencji instrumentów finansowych według stanu na koniec dnia, na który sporządzane jest sprawozdanie.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
+   "type": "ust",
+   "num": "51",
+   "path": "ust_51",
    "text": "W wierszu 65 należy podać wartość instrumentów finansowych klientów, przechowywanych w formie dokumentu.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
+   "type": "ust",
+   "num": "52",
+   "path": "ust_52",
    "text": "W wierszu 66 należy podać sumę środków pieniężnych klientów wykazanych w wierszach 67 i 68.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
+   "type": "ust",
+   "num": "53",
+   "path": "ust_53",
    "text": "W wierszu 67 należy podać sumę środków pieniężnych klientów, przechowywanych na rachunkach pieniężnych klientów.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
+   "type": "ust",
+   "num": "54",
+   "path": "ust_54",
    "text": "W wierszu 68 należy podać sumę pozostałych środków pieniężnych klientów, przechowywanych przez dom maklerski lub bank prowadzący działalność maklerską.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "5",
-   "path": "par_5",
+   "type": "ust",
+   "num": "55",
+   "path": "ust_55",
    "text": "W wierszu 69 należy podać współczynnik zaangażowania, o którym mowa w § 8 ust. 1 rozporządzeń o środkach własnych w odniesieniu do domów maklerskich i banków prowadzących działalność maklerską.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "6",
-   "path": "par_6",
+   "type": "ust",
+   "num": "56",
+   "path": "ust_56",
    "text": "W wierszu 70 należy podać wyliczenie maksymalnego poziomu zaangażowania, będącego iloczynem bieżącej wysokości kapitału netto wykazanej w wierszu 01 i współczynnika zaangażowania wykazanego w wierszu 69.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "7",
-   "path": "par_7",
+   "type": "ust",
+   "num": "57",
+   "path": "ust_57",
    "text": "W wierszu 71 wylicza się odchylenie od maksymalnego poziomu zaangażowania, rozumiane jako różnica między maksymalnym poziomem zaangażowania wykazanym w wierszu 70 i bieżącym poziomem zaangażowania wykazanym w wierszu 62.",
    "children": [
     {
@@ -1029,9 +1029,9 @@
    ]
   },
   {
-   "type": "par",
-   "num": "8",
-   "path": "par_8",
+   "type": "ust",
+   "num": "58",
+   "path": "ust_58",
    "text": "W wierszu 72 należy wyliczyć wymagany poziom kapitału netto z rachunku poziomu zaangażowania jako iloraz bieżącego poziomu zaangażowania wykazanego w wierszu 62 i współczynnika zaangażowania wykazanego w wierszu 69.",
    "children": []
   },
@@ -1041,29 +1041,28 @@
    "text": "Wskaźnik należności"
   },
   {
-   "type": "par",
-   "num": "9",
-   "path": "par_9",
+   "type": "ust",
+   "num": "59",
+   "path": "ust_59",
    "text": "W wierszu 73 należy wyliczyć wielkość wskaźnika należności według zasad określonych w załączniku nr 3 do rozporządzeń o środkach własnych w odniesieniu do domów maklerskich i banków prowadzących działalność maklerską.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "60",
+   "path": "ust_60",
+   "text": "W wierszu 74 należy podać wielkość należności domu maklerskiego lub banku prowadzącego działalność maklerską od klientów z tytułu zawartych, a jeszcze nie opłaconych przez klientów transakcji papierów wartościowych. W wierszu tym nie należy uwzględniać należności od klientów z tytułu udzielonych pożyczek papierów wartościowych lub pożyczek środków pieniężnych na zakup papierów wartościowych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "61",
+   "path": "ust_61",
+   "text": "W wierszu 75 należy podać sumę wartości ustanowionych przez poszczególnych klientów zabezpieczeń zapłaty należności domu maklerskiego lub banku prowadzącego działalność maklerską, o których mowa w przepisach określających tryb i warunki postępowania domów maklerskich i banków prowadzących działalność maklerską oraz banków prowadzących rachunki papierów wartościowych, z tytułu nieopłaconych przez tych klientów transakcji, z których powstały należności uwzględnione w wierszu 74. Jeżeli wartość zabezpieczenia dla poszczególnego klienta jest wyższa od należności domu maklerskiego lub banku prowadzącego działalność maklerską od tego klienta, to w sumie wartości zabezpieczeń uwzględnia się zabezpieczenie w wysokości należności.",
    "children": [
     {
-     "type": "ust",
-     "num": "60",
-     "path": "par_9/ust_60",
-     "text": "W wierszu 74 należy podać wielkość należności domu maklerskiego lub banku prowadzącego działalność maklerską od klientów z tytułu zawartych, a jeszcze nie opłaconych przez klientów transakcji papierów wartościowych. W wierszu tym nie należy uwzględniać należności od klientów z tytułu udzielonych pożyczek papierów wartościowych lub pożyczek środków pieniężnych na zakup papierów wartościowych.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "61",
-     "path": "par_9/ust_61",
-     "text": "W wierszu 75 należy podać sumę wartości ustanowionych przez poszczególnych klientów zabezpieczeń zapłaty należności domu maklerskiego lub banku prowadzącego działalność maklerską, o których mowa w przepisach określających tryb i warunki postępowania domów maklerskich i banków prowadzących działalność maklerską oraz banków prowadzących rachunki papierów wartościowych, z tytułu nieopłaconych przez tych klientów transakcji, z których powstały należności uwzględnione w wierszu 74. Jeżeli wartość zabezpieczenia dla poszczególnego klienta jest wyższa od należności domu maklerskiego lub banku prowadzącego działalność maklerską od tego klienta, to w sumie wartości zabezpieczeń uwzględnia się zabezpieczenie w wysokości należności.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CZĘŚĆ B"
-      }
-     ]
+     "type": "text",
+     "text": "CZĘŚĆ B"
     }
    ]
   },
@@ -1339,30 +1338,30 @@
    "text": "Wynik finansowy netto"
   },
   {
-   "type": "par",
-   "num": "0",
-   "path": "par_0",
+   "type": "ust",
+   "num": "80",
+   "path": "ust_80",
    "text": "W wierszach od 100 do 107 należy podaé wielkości ustalone dla wykazywanych pozycji.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
+   "type": "ust",
+   "num": "81",
+   "path": "ust_81",
    "text": "Organizacyjnie i finansowo wydzielone jednostki banku prowadzącego działalność maklerską będące płatnikami podatku dochodowego uwzględniają przy obliczaniu w wierszu 100 wyniku finansowego netto wielkość podatku dochodowego.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
+   "type": "ust",
+   "num": "82",
+   "path": "ust_82",
    "text": "W wierszu 103 należy podać wielkość zysku z tytułu otwartych we własnym imieniu i na własny rachunek pozycji kontraktów terminowych, w tym także z kontraktów terminowych zawartych w ostatnim dniu miesiąca, oraz z tytułu kontraktów po dniu ich zamknięcia lub wygaśnięcia według stanu na ostatni dzień okresu objętego sprawozdaniem miesięcznym.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
+   "type": "ust",
+   "num": "83",
+   "path": "ust_83",
    "text": "W wierszu 104 należy podać wielkość straty z tytułu otwartych we własnym imieniu i na własny rachunek pozycji kontraktów terminowych, w tym także z kontraktów terminowych zawartych w ostatnim dniu miesiąca, oraz z tytułu kontraktów po dniu ich zamknięcia lub wygaśnięcia według stanu na ostatni dzień okresu objętego sprawozdaniem miesięcznym.",
    "children": []
   },
@@ -1372,23 +1371,23 @@
    "text": "Relacja środków własnych i wybranych zobowiązań"
   },
   {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
+   "type": "ust",
+   "num": "84",
+   "path": "ust_84",
    "text": "W wierszu 108 należy wyliczyć relację, o której mowa w § 13 rozporządzenia o środkach własnych w odniesieniu do domów maklerskich.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "5",
-   "path": "par_5",
+   "type": "ust",
+   "num": "85",
+   "path": "ust_85",
    "text": "W wierszu 109 należy podać środki własne, o których mowa w § 1 ust. 2 rozporządzenia o środkach własnych w odniesieniu do domów maklerskich.",
    "children": []
   },
   {
-   "type": "par",
-   "num": "6",
-   "path": "par_6",
+   "type": "ust",
+   "num": "86",
+   "path": "ust_86",
    "text": "W wierszu 110 należy podać sumę pozycji wykazywanych w wierszach 87, 90, 91, 92.",
    "children": []
   },
@@ -1398,9 +1397,9 @@
    "text": "Odchylenie środków własnych od wybranych pozycji"
   },
   {
-   "type": "par",
-   "num": "7",
-   "path": "par_7",
+   "type": "ust",
+   "num": "87",
+   "path": "ust_87",
    "text": "W wierszu 111 należy wyliczyć odchylenie środków własnych, o których mowa w § 1 ust. 2 rozporządzenia o środkach własnych w odniesieniu do domów maklerskich, od trzykrotności różnicy między sumą nie pokrytej straty z lat ubiegłych i straty z bieżącej działalności a sumą kapitału zapasowego i kapitałów rezerwowych.",
    "children": []
   },
@@ -1410,9 +1409,9 @@
    "text": "Liczba punktów obsługi klientów"
   },
   {
-   "type": "par",
-   "num": "8",
-   "path": "par_8",
+   "type": "ust",
+   "num": "88",
+   "path": "ust_88",
    "text": "W wierszu 112 należy podać liczbę punktów obsługi klientów domu maklerskiego lub banku prowadzącego działalność maklerską według stanu na ostatni dzień okresu objętego sprawozdaniem miesięcznym.",
    "children": []
   }

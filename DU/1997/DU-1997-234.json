@@ -85,46 +85,47 @@
    "text": "którzy, po wymianie swoich peinomocnictw, uznanych za dobre i sporządzone w należytej formie, zgodzili się na następujące postanowienia:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Rozwód uzyskany na terytorium jednej z Umawiających się Stron w wyniku prawomocnego orzeczenia sądowego będzie, z zastrzeżeniem postanowień artykułów 2, 3 i 4, uznany z mocy prawa na terytorium drugiej Umawiającej się Strony z tą samą mocą, jaką ma w Państwie, w którym został uzyskany, jeżeli spełnione są następujące warunki:"
-  },
-  {
-   "type": "pkt",
+   "type": "art",
    "num": "1",
-   "path": "pkt_1",
-   "text": "orzeczenie nie jest sprzeczne z prawomocnym orzeczeniem wydanym na terytorium Umawiającej się Strony, na którym ma być uznane,",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "orzeczenie nie jest sprzeczne z porządkiem publicznym Umawiającej się Strony, na której terytorium ma być uznane.",
+   "path": "art_1",
+   "text": "Rozwód uzyskany na terytorium jednej z Umawiających się Stron w wyniku prawomocnego orzeczenia sądowego będzie, z zastrzeżeniem postanowień artykułów 2, 3 i 4, uznany z mocy prawa na terytorium drugiej Umawiającej się Strony z tą samą mocą, jaką ma w Państwie, w którym został uzyskany, jeżeli spełnione są następujące warunki:",
    "children": [
     {
-     "type": "text",
-     "text": "Uznanie przewidziane w niniejszej umowie ma zastosowanie wyłącznie do orzeczeń odnoszących się do rozwiązania związku małżeńskiego."
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "orzeczenie nie jest sprzeczne z prawomocnym orzeczeniem wydanym na terytorium Umawiającej się Strony, na którym ma być uznane,",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Orzeczenie zaoczne będzie uznane, jeżeli strona nieobecna została prawidłowo powiadomiona o wszczęciu postępowania i rozporządzała dostatecznym okresem czasu dla przygotowania swej obrony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Rozwód uzyskany na terytorium jednej z Umawiających się Stron może nie być uznany na terytorium drugiej Strony, jeżeli przed sądami tej Umawiającej się Strony toczy się między tymi samymi stronami postępowanie w sprawie o rozwód, które zostało wszczęte wcześniej."
-    },
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "orzeczenie nie jest sprzeczne z porządkiem publicznym Umawiającej się Strony, na której terytorium ma być uznane.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Uznanie przewidziane w niniejszej umowie ma zastosowanie wyłącznie do orzeczeń odnoszących się do rozwiązania związku małżeńskiego."
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Orzeczenie zaoczne będzie uznane, jeżeli strona nieobecna została prawidłowo powiadomiona o wszczęciu postępowania i rozporządzała dostatecznym okresem czasu dla przygotowania swej obrony.",
+   "children": [],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rozwód uzyskany na terytorium jednej z Umawiających się Stron może nie być uznany na terytorium drugiej Strony, jeżeli przed sądami tej Umawiającej się Strony toczy się między tymi samymi stronami postępowanie w sprawie o rozwód, które zostało wszczęte wcześniej.",
+   "children": [
     {
      "type": "text",
      "text": "Artykuf 4"
@@ -140,139 +141,146 @@
     {
      "type": "text",
      "text": "— orzeczenie doprowadziło do skutku sprzecznego z tym, do jakiego by doprowadziło zastosowanie prawa określonego przez międzynarodowe prawo prywatne Umawiającej się Strony, na której terytorium orzeczenie ma być uznane."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Orzeczenia wydane przez organy jednej z Umawiających się Stron, które mają być uznane na terytorium drugiej Strony, podlegają badaniu jedynie w zakresie warunków przewidzianych w niniejszej umowie."
-    },
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Orzeczenia wydane przez organy jednej z Umawiających się Stron, które mają być uznane na terytorium drugiej Strony, podlegają badaniu jedynie w zakresie warunków przewidzianych w niniejszej umowie.",
+   "children": [
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Strona, która występuje o uznanie, powinna przedstawić:"
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "uwierzytelniony odpis orzeczenia oraz zaświadczenie, że jest ono prawomocne,",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Strona, która występuje o uznanie, powinna przedstawić:",
    "children": [
     {
-     "type": "text",
-     "text": "2)w przypadku wyroku zaocznego — dokument stwierdzający, że zawiadomienie o wszczęciu postępowania zostało należycie doręczone stronie nieobecnej,"
+     "type": "pkt",
+     "num": "1",
+     "path": "art_6/pkt_1",
+     "text": "uwierzytelniony odpis orzeczenia oraz zaświadczenie, że jest ono prawomocne,",
+     "children": [
+      {
+       "type": "text",
+       "text": "2)w przypadku wyroku zaocznego — dokument stwierdzający, że zawiadomienie o wszczęciu postępowania zostało należycie doręczone stronie nieobecnej,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_6/pkt_3",
+     "text": "ponadto do orzeczenia belgijskiego należy dołączyć wyciąg z rejestru stanu cywilnego stwierdzający dokonanie transkrypcji rozwodu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do dokumentów tych należy dołączyć tłumaczenie na język lub jeden z języków urzędowych państwa, w którym wnosi się o uznanie."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "ponadto do orzeczenia belgijskiego należy dołączyć wyciąg z rejestru stanu cywilnego stwierdzający dokonanie transkrypcji rozwodu.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umowa niniejsza ma zastosowanie bez względu na datę uzyskania rozwodu.",
+   "children": [],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Postanowienia niniejszej umowy stosuje się również do orzeczeń dotyczących unieważnienia matzenstwa.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Umowa niniejsza nie stanowi przeszkody dla stosowania postanowień umów międzynarodowych lub prawa wewnętrznego bardziej korzystnych dla uznawania orzeczeń sądowych.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Do dokumentów tych należy dołączyć tłumaczenie na język lub jeden z języków urzędowych państwa, w którym wnosi się o uznanie."
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Umowa niniejsza podlega ratyfikacji i wejdzie w życie po upływie trzydziestu dni od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza ma zastosowanie bez względu na datę uzyskania rozwodu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia niniejszej umowy stosuje się również do orzeczeń dotyczących unieważnienia matzenstwa."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Umowa niniejsza nie stanowi przeszkody dla stosowania postanowień umów międzynarodowych lub prawa wewnętrznego bardziej korzystnych dla uznawania orzeczeń sądowych."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Umowa niniejsza zawarta jest na czas nie określony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci moc po upływie sześciu miesięcy od dnia wypowiedzenia.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega ratyfikacji i wejdzie w życie po upływie trzydziestu dni od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Brukseli dnia 17 grudnia 1986 r. w dwóch egzemplarzach, każdy w językach polskim, francuskim i niderlandzkim, przy czym wszystkie teksty są jednakowo autentyczne."
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umowa niniejsza zawarta jest na czas nie określony. Może być ona wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron; w takim przypadku utraci moc po upływie sześciu miesięcy od dnia wypowiedzenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Sporządzono w Brukseli dnia 17 grudnia 1986 r. w dwóch egzemplarzach, każdy w językach polskim, francuskim i niderlandzkim, przy czym wszystkie teksty są jednakowo autentyczne."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego Pełnomocnicy Umawiających się Stron podpisali niniejszą umowę i opatrzyli ją pieczęciami."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia"
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rady Państwa Polskiej"
-    },
-    {
-     "type": "text",
-     "text": "Jego Królewskiej Mości Rzeczypospolitej Ludowej:"
-    },
-    {
-     "type": "text",
-     "text": "Króla Belgów:"
-    },
-    {
-     "type": "text",
-     "text": "M. Orzechowski Leo Tindemans"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową Rada Państwa uznała ją i uznaje za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych; oświadcza, że jest ona przyjęta, ratyfikowana i potwierdzona, oraz przyrzeka, że będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Polskiej Rzeczypospolitej Ludowej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 24 października 1987 r."
-    },
-    {
-     "type": "text",
-     "text": "Przewodniczący Rady Państwa: W. Jaruzelski L.S."
-    }
-   ]
+   "type": "text",
+   "text": "Na dowód czego Pełnomocnicy Umawiających się Stron podpisali niniejszą umowę i opatrzyli ją pieczęciami."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia"
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Rady Państwa Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Jego Królewskiej Mości Rzeczypospolitej Ludowej:"
+  },
+  {
+   "type": "text",
+   "text": "Króla Belgów:"
+  },
+  {
+   "type": "text",
+   "text": "M. Orzechowski Leo Tindemans"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową Rada Państwa uznała ją i uznaje za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych; oświadcza, że jest ona przyjęta, ratyfikowana i potwierdzona, oraz przyrzeka, że będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Polskiej Rzeczypospolitej Ludowej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 24 października 1987 r."
+  },
+  {
+   "type": "text",
+   "text": "Przewodniczący Rady Państwa: W. Jaruzelski L.S."
   },
   {
    "type": "signature",

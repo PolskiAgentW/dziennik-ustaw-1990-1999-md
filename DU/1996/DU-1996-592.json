@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/592",
  "title": "Rozporządzenie Ministra Łączności z dnia 10 października 1996 r. zmieniające rozporządzenie w sprawie wprowadzenia obowiązku stosowania Polskich Norm i norm branżowych z dziedziny łączności.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.39",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/592/text.pdf",
  "body": [
   {
@@ -556,9 +556,9 @@
      "children": []
     },
     {
-     "type": "par",
-     "num": "0",
-     "path": "par_0",
+     "type": "ust",
+     "num": "50",
+     "path": "ust_50",
      "text": "PN-T-83020:1996 Ochronnik telefoniczny abonencki.",
      "children": [
       {
@@ -572,103 +572,102 @@
      ]
     },
     {
-     "type": "par",
-     "num": "1",
-     "path": "par_1",
+     "type": "ust",
+     "num": "51",
+     "path": "ust_51",
      "text": "PN-77/T-05050 Urządzenia transmisji danych. Automatyczne nawiązywanie połączeń w sieci telefonicznej. Ogólne wymagania i badania.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "2",
-     "path": "par_2",
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
      "text": "PN-76/T-05051/00 Urządzenia transmisji danych. Styk S1. Wspólne wymagania i badania.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "par_3",
+     "type": "ust",
+     "num": "53",
+     "path": "ust_53",
      "text": "PN-83/T-05051/01 Urządzenia transmisji danych. Styk S1. Styk z łączami telegraficznymi. Podstawowe wymagania i badania.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "4",
-     "path": "par_4",
+     "type": "ust",
+     "num": "54",
+     "path": "ust_54",
      "text": "PN-81/T-05051/02 Urządzenia transmisji danych. Styk S1. Styk z łączami symetrycznymi biernymi. Wymagania podstawowe i badania.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "5",
-     "path": "par_5",
+     "type": "ust",
+     "num": "55",
+     "path": "ust_55",
      "text": "PN-76/T-05051/03 Urządzenia transmisji danych. Styk S1. Styk z kanałami lub łączami telefonicznymi. Podstawowe wymagania i badania.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "6",
-     "path": "par_6",
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
      "text": "PN-75/T-05052/01 Urządzenia transmisji danych. Styk S2. Parametry elektryczne obwodów stykowych niesymetrycznych.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "7",
-     "path": "par_7",
+     "type": "ust",
+     "num": "57",
+     "path": "ust_57",
      "text": "PN-84/T-05052/02 Urządzenia transmisji danych. Styk S2. Parametry elektryczne obwodów stykowych symetrycznych. Wymagania i badania.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "8",
-     "path": "par_8",
+     "type": "ust",
+     "num": "58",
+     "path": "ust_58",
      "text": "PN-85/T-05052/03 Urządzenia transmisji danych. Styk S2. Parametry elektryczne obwodów stykowych niesymetrycznych niskonapięciowych.",
      "children": []
     },
     {
-     "type": "par",
-     "num": "9",
-     "path": "par_9",
+     "type": "ust",
+     "num": "59",
+     "path": "ust_59",
      "text": "PN-75/T-05052/11 Urządzenia transmisji danych. Styk S2. Złącze do obwodów stykowych niesymetrycznych.",
-     "children": [
-      {
-       "type": "ust",
-       "num": "60",
-       "path": "par_9/ust_60",
-       "text": "PN-84/T-05052/12 Urządzenia transmisji danych. Styk S2. Złącze do obwodów stykowych symetrycznych i niesymetrycznych niskonapięciowych. Wymagania.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "61",
-       "path": "par_9/ust_61",
-       "text": "PN-76/T-05054/00 Urządzenia transmisji danych. Styk S4. Wymagania ogólne.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "62",
-       "path": "par_9/ust_62",
-       "text": "PN-76/T-05054/01 Urządzenia transmisji danych. Styk S4. Parametry elektryczne obwodów stykowych niesymetrycznych. Wspólne wymagania i badania.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "63",
-       "path": "par_9/ust_63",
-       "text": "PN-76/T-05054/11 Urządzenia transmisji danych. Styk S4. Złącze do obwodów stykowych niesymetrycznych.",
-       "children": []
-      },
-      {
-       "type": "ust",
-       "num": "64",
-       "path": "par_9/ust_64",
-       "text": "PN-85/T-05055 Procedury sygnalizacji abonenckiej w sieci teleinformatycznej arytmicznej z komutacją kanałów.",
-       "children": []
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "PN-84/T-05052/12 Urządzenia transmisji danych. Styk S2. Złącze do obwodów stykowych symetrycznych i niesymetrycznych niskonapięciowych. Wymagania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "61",
+     "path": "ust_61",
+     "text": "PN-76/T-05054/00 Urządzenia transmisji danych. Styk S4. Wymagania ogólne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "62",
+     "path": "ust_62",
+     "text": "PN-76/T-05054/01 Urządzenia transmisji danych. Styk S4. Parametry elektryczne obwodów stykowych niesymetrycznych. Wspólne wymagania i badania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "63",
+     "path": "ust_63",
+     "text": "PN-76/T-05054/11 Urządzenia transmisji danych. Styk S4. Złącze do obwodów stykowych niesymetrycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "64",
+     "path": "ust_64",
+     "text": "PN-85/T-05055 Procedury sygnalizacji abonenckiej w sieci teleinformatycznej arytmicznej z komutacją kanałów.",
+     "children": []
     }
    ]
   },

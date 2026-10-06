@@ -41,176 +41,181 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Umawiające się Strony będą rozwijać współpracę w różnych dziedzinach kultury, będących przedmiotem wspólnego zainteresowania, w szczególności w sferze sztuki, nauki, oświaty, sportu i kontaktów młodzieży.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Strony będą w tym celu sprzyjać podejmowaniu inicjatyw służących lepszemu poznaniu osiągnięć kulturalnych każdej ze Stron."
+    },
+    {
+     "type": "text",
+     "text": "Będą one popierać organizowanie konferencji, wystaw, imprez artystycznych, projekcji filmowych i imprez sportowych, wymianę młodzieży, tłumaczenie dzieł literackich, swobodny dostęp do całokształtu ich publikacji."
+    },
+    {
+     "type": "text",
+     "text": "Będą sprzyjać lepszemu poznaniu osiągnięć kulturalnych drugiej Strony za pośrednictwem prasy, radia, telewizji, filmu i innych środków powszechnego komunikowania."
+    }
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą rozwijać współpracę w różnych dziedzinach kultury, będących przedmiotem wspólnego zainteresowania, w szczególności w sferze sztuki, nauki, oświaty, sportu i kontaktów młodzieży."
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Umawiające się Strony będą pogłębiać współpracę w dziedzinie nauki. W tym celu sprzyjać będą:",
+   "children": [
+    {
+     "type": "text",
+     "text": "— wspólnym badaniom naukowym,"
+    },
+    {
+     "type": "text",
+     "text": "— publikowaniu studiów naukowych i monografii oraz zbiorów artykułów powstałych w obu Państwach,"
+    },
+    {
+     "type": "text",
+     "text": "— rozszerzaniu bezpośredniej współpracy między instytucjami naukowo-badawczymi i placówkami naukowymi, w tym wymianie i wizytom naukowców i specjalistów,"
+    },
+    {
+     "type": "text",
+     "text": "— badaniom naukowym dotyczącym historii i kultury drugiej Strony,"
+    },
+    {
+     "type": "text",
+     "text": "— organizowaniu kursów i konferencji dla lepszego poznania i upowszechniania różnych aspektów dziedzictwa kulturalnego i naukowego drugiej Strony."
+    }
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą w tym celu sprzyjać podejmowaniu inicjatyw służących lepszemu poznaniu osiągnięć kulturalnych każdej ze Stron."
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Umawiające się Strony, poprzez wymianę podręczników szkolnych i opinii ekspertów, będą dążyć do takiego prezentowania drugiej Strony w podręcznikach historii i geografii, które pozwoli na lepsze wzajemne poznanie i zrozumienie.",
+   "children": [],
+   "label": "Artykuł 3"
   },
   {
-   "type": "text",
-   "text": "Będą one popierać organizowanie konferencji, wystaw, imprez artystycznych, projekcji filmowych i imprez sportowych, wymianę młodzieży, tłumaczenie dzieł literackich, swobodny dostęp do całokształtu ich publikacji."
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Umawiające się Strony będą zachęcać do współpracy i wymiany między bibliotekami i archiwami oraz popierać wymianę książek i dokumentów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ułatwiać będą badaczom drugiej Strony dostęp do tych zasobów archiwalnych."
+    }
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "text",
-   "text": "Będą sprzyjać lepszemu poznaniu osiągnięć kulturalnych drugiej Strony za pośrednictwem prasy, radia, telewizji, filmu i innych środków powszechnego komunikowania."
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Umawiające się Strony sprzyjać będą wymianie książek, periodyków, czasopism, filmów, materiałów audiowizualnych i innych publikacji o charakterze oświatowym, kulturalnym, artystycznym i naukowym.",
+   "children": [],
+   "label": "Artykuł 5"
   },
   {
-   "type": "text",
-   "text": "Artykuł 2"
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Umawiające się Strony będą popierać kontakty i bezpośrednią współpracę między związkami, stowarzyszeniami i federacjami autorów i artystów. Będą one również promować bezpośrednie kontakty między instytucjami radia i telewizji, jak również wydawnictwami obu Państw.",
+   "children": [],
+   "label": "Artykuł 6"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony będą pogłębiać współpracę w dziedzinie nauki. W tym celu sprzyjać będą:"
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Umawiające się Strony podejmą starania na rzecz szerszego wzajemnego udziału artystów, naukowców i ekspertów w kongresach, konferencjach, sympozjach i innych imprezach kulturalnych i naukowych o charakterze międzynarodowym.",
+   "children": [],
+   "label": "Artykuł 7"
   },
   {
-   "type": "text",
-   "text": "— wspólnym badaniom naukowym,"
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Umawiające się Strony będą się wzajemnie informować o stanowiących przedmiot wspólnego zainteresowania doświadczeniach w dziedzinach muzealnictwa oraz konserwacji i restauracji zabytków historycznych i artystycznych, będących częścią dziedzictwa narodowego.",
+   "children": [],
+   "label": "Artykuł 8"
   },
   {
-   "type": "text",
-   "text": "— publikowaniu studiów naukowych i monografii oraz zbiorów artykułów powstałych w obu Państwach,"
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Umawiające się Strony podejmą wymianę specjalistów i informacji w dziedzinach ochrony zdrowia i ochrony środowiska naturalnego, jak również kultury fizycznej i turystyki.",
+   "children": [],
+   "label": "Artykuł 9"
   },
   {
-   "type": "text",
-   "text": "— rozszerzaniu bezpośredniej współpracy między instytucjami naukowo-badawczymi i placówkami naukowymi, w tym wymianie i wizytom naukowców i specjalistów,"
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Umawiające się Strony będą popierać bezpośrednie kontakty między organizacjami i ruchami młodzieżowymi.",
+   "children": [],
+   "label": "Artykuł 10"
   },
   {
-   "type": "text",
-   "text": "— badaniom naukowym dotyczącym historii i kultury drugiej Strony,"
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Umawiające się Strony będą działać na rzecz zapewnienia udziału ich obywateli w programach kształcenia akademickiego, podyplomowego i edukacji ustawicznej. Będą one nadal informować się wzajemnie o swych doświadczeniach w tych dziedzinach. Będą popierać udział w stażach specjalizacyjnych.",
+   "children": [],
+   "label": "Artykuł 11"
   },
   {
-   "type": "text",
-   "text": "— organizowaniu kursów i konferencji dla lepszego poznania i upowszechniania różnych aspektów dziedzictwa kulturalnego i naukowego drugiej Strony."
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Umawiające się Strony udzielą swojego poparcia rozwojowi kontaktów w dziedzinie sportu, kultury fizycznej i turystyki.",
+   "children": [],
+   "label": "Artykuł 12"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Dla realizacji niniejszej umowy zostanie powołana Komisja Mieszana, składająca się z przedstawicieli każdej z Umawiających się Stron.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Komisja Mieszana zbierać się będzie co najmniej raz na trzy lata, na przemian w Polsce i w Luksemburgu. Obradom przewodniczyć będzie przedstawiciel tej Umawiającej się Strony, na której terytorium odbywać się będzie spotkanie."
+    },
+    {
+     "type": "text",
+     "text": "Komisja Mieszana przygotowywać będzie trzyletnie programy współpracy przewidzianej w niniejszej umowie oraz określać warunki ich finansowania."
+    }
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "text",
-   "text": "Umawiające się Strony, poprzez wymianę podręczników szkolnych i opinii ekspertów, będą dążyć do takiego prezentowania drugiej Strony w podręcznikach historii i geografii, które pozwoli na lepsze wzajemne poznanie i zrozumienie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 4"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą zachęcać do współpracy i wymiany między bibliotekami i archiwami oraz popierać wymianę książek i dokumentów."
-  },
-  {
-   "type": "text",
-   "text": "Ułatwiać będą badaczom drugiej Strony dostęp do tych zasobów archiwalnych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 5"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony sprzyjać będą wymianie książek, periodyków, czasopism, filmów, materiałów audiowizualnych i innych publikacji o charakterze oświatowym, kulturalnym, artystycznym i naukowym."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 6"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać kontakty i bezpośrednią współpracę między związkami, stowarzyszeniami i federacjami autorów i artystów. Będą one również promować bezpośrednie kontakty między instytucjami radia i telewizji, jak również wydawnictwami obu Państw."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 7"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony podejmą starania na rzecz szerszego wzajemnego udziału artystów, naukowców i ekspertów w kongresach, konferencjach, sympozjach i innych imprezach kulturalnych i naukowych o charakterze międzynarodowym."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 8"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą się wzajemnie informować o stanowiących przedmiot wspólnego zainteresowania doświadczeniach w dziedzinach muzealnictwa oraz konserwacji i restauracji zabytków historycznych i artystycznych, będących częścią dziedzictwa narodowego."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 9"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony podejmą wymianę specjalistów i informacji w dziedzinach ochrony zdrowia i ochrony środowiska naturalnego, jak również kultury fizycznej i turystyki."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 10"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą popierać bezpośrednie kontakty między organizacjami i ruchami młodzieżowymi."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 11"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony będą działać na rzecz zapewnienia udziału ich obywateli w programach kształcenia akademickiego, podyplomowego i edukacji ustawicznej. Będą one nadal informować się wzajemnie o swych doświadczeniach w tych dziedzinach. Będą popierać udział w stażach specjalizacyjnych."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Strony udzielą swojego poparcia rozwojowi kontaktów w dziedzinie sportu, kultury fizycznej i turystyki."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 13"
-  },
-  {
-   "type": "text",
-   "text": "Dla realizacji niniejszej umowy zostanie powołana Komisja Mieszana, składająca się z przedstawicieli każdej z Umawiających się Stron."
-  },
-  {
-   "type": "text",
-   "text": "Komisja Mieszana zbierać się będzie co najmniej raz na trzy lata, na przemian w Polsce i w Luksemburgu. Obradom przewodniczyć będzie przedstawiciel tej Umawiającej się Strony, na której terytorium odbywać się będzie spotkanie."
-  },
-  {
-   "type": "text",
-   "text": "Komisja Mieszana przygotowywać będzie trzyletnie programy współpracy przewidzianej w niniejszej umowie oraz określać warunki ich finansowania."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 14"
-  },
-  {
-   "type": "text",
-   "text": "* Umowa niniejsza podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych."
-  },
-  {
-   "type": "text",
-   "text": "Umowa jest zawarta na okres pięciu lat i po upływie tego terminu zostanie automatycznie przedłużona na czas nieokreślony."
-  },
-  {
-   "type": "text",
-   "text": "Umowa może być wypowiedziana przez każdą z Umawiających się Stron i w takim przypadku utraci moc po upływie sześciu miesięcy od dnia wypowiedzenia w drodze notyfikacji."
-  },
-  {
-   "type": "note",
-   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "ae"
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "* Umowa niniejsza podlega ratyfikacji i wejdzie w życie w dniu wymiany dokumentów ratyfikacyjnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umowa jest zawarta na okres pięciu lat i po upływie tego terminu zostanie automatycznie przedłużona na czas nieokreślony."
+    },
+    {
+     "type": "text",
+     "text": "Umowa może być wypowiedziana przez każdą z Umawiających się Stron i w takim przypadku utraci moc po upływie sześciu miesięcy od dnia wypowiedzenia w drodze notyfikacji."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "ae"
+    }
+   ],
+   "label": "Artykuł 14"
   },
   {
    "type": "text",

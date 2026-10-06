@@ -226,289 +226,290 @@
     {
      "type": "text",
      "text": "go i znajdujący się pod kontrolą Rady Administracyjnej, służy jako organ wykonawczy, wspierający, łącznikowy, informacyjny i konsultacyjny."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł VI"
-    },
-    {
-     "type": "text",
-     "text": "(Artykuł 22 zmieniony)"
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "VI",
+   "path": "art_VI",
+   "text": "(Artykuł 22 zmieniony)",
+   "children": [
     {
      "type": "text",
      "text": "Akty Związku"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_VI/ust_1",
+     "text": "Konstytucja jest podstawowym aktem Związku. Zawiera ona zasadnicze przepisy Związku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_VI/ust_2",
+     "text": "Regulamin Generalny zawiera postanowienia zapewniające stosowanie Konstytucji i funkcjonowanie Związku. Obowiązuje on wszystkie Kraje członkowskie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VI/ust_3",
+     "text": "Światowa konwencja pocztowa i jej Regulamin wykonawczy zawierają wspólne przepisy dotyczące międzynarodowej służby pocztowej i postanowienia dotyczące usług przesyłek listowych. Akty te obowiązują wszystkie Kraje członkowskie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_VI/ust_4",
+     "text": "Porozumienia Związku i ich Regulaminy wykonawcze regulują między Krajami członkowskimi, które są ich stronami, usługi inne aniżeli te, które dotyczą przesyłek listowych. Obowiązują one tylko te kraje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_VI/ust_5",
+     "text": "Regulaminy wykonawcze, określające środki, których stosowanie jest konieczne dla wykonania konwencji i porozumień, są uchwalane przez Rade Eksploatacji Pocztowej, zgodnie z decyzjami podjętymi przez Kongres.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_VI/ust_6",
+     "text": "Ewentualne protokoły końcowe załączone do aktów Związku wymienionych w ustępach 3, 4 i 5 zawierają zastrzeżenia do tych aktów.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł VI"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Konstytucja jest podstawowym aktem Związku. Zawiera ona zasadnicze przepisy Związku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Regulamin Generalny zawiera postanowienia zapewniające stosowanie Konstytucji i funkcjonowanie Związku. Obowiązuje on wszystkie Kraje członkowskie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Światowa konwencja pocztowa i jej Regulamin wykonawczy zawierają wspólne przepisy dotyczące międzynarodowej służby pocztowej i postanowienia dotyczące usług przesyłek listowych. Akty te obowiązują wszystkie Kraje członkowskie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Porozumienia Związku i ich Regulaminy wykonawcze regulują między Krajami członkowskimi, które są ich stronami, usługi inne aniżeli te, które dotyczą przesyłek listowych. Obowiązują one tylko te kraje.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Regulaminy wykonawcze, określające środki, których stosowanie jest konieczne dla wykonania konwencji i porozumień, są uchwalane przez Rade Eksploatacji Pocztowej, zgodnie z decyzjami podjętymi przez Kongres.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Ewentualne protokoły końcowe załączone do aktów Związku wymienionych w ustępach 3, 4 i 5 zawierają zastrzeżenia do tych aktów.",
+   "type": "art",
+   "num": "VII",
+   "path": "art_VII",
+   "text": "(Artykuł 25 zmieniony)",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł VII"
-    },
-    {
-     "type": "text",
-     "text": "(Artykuł 25 zmieniony)"
-    },
     {
      "type": "text",
      "text": "Podpisanie, uwierzytelnianie, ratyfikacja i inne sposoby zatwierdzania aktów Związku"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_VII/ust_1",
+     "text": "Akty Związku przyjęte przez Kongres są podpisywane przez pełnomocników Krajów członkowskich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_VII/ust_2",
+     "text": "Regulaminy wykonawcze są uwierzytelniane przez Przewodniczącego i Sekretarza Generalnego Rady Eksploatacji Pocztowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VII/ust_3",
+     "text": "Konstytucja jest ratyfikowana przez Kraje-sygnatariuszy w możliwie najkrótszym terminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_VII/ust_4",
+     "text": "Zatwierdzanie aktów Związku, innych niż Konstytucja, następuje według postanowień konstytucyjnych poszczególnych Krajów-sygnatariuszy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_VII/ust_5",
+     "text": "Jeżeli jakiś kraj nie ratyfikuje Konstytucji lub nie zatwierdzi innych aktów podpisanych przez siebie, Konstytucja i inne akty zachowują pomimo to ważność dla krajów, które je ratyfikowały lub zatwierdziły.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł VII"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Akty Związku przyjęte przez Kongres są podpisywane przez pełnomocników Krajów członkowskich.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Regulaminy wykonawcze są uwierzytelniane przez Przewodniczącego i Sekretarza Generalnego Rady Eksploatacji Pocztowej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Konstytucja jest ratyfikowana przez Kraje-sygnatariuszy w możliwie najkrótszym terminie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Zatwierdzanie aktów Związku, innych niż Konstytucja, następuje według postanowień konstytucyjnych poszczególnych Krajów-sygnatariuszy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Jeżeli jakiś kraj nie ratyfikuje Konstytucji lub nie zatwierdzi innych aktów podpisanych przez siebie, Konstytucja i inne akty zachowują pomimo to ważność dla krajów, które je ratyfikowały lub zatwierdziły.",
+   "type": "art",
+   "num": "VIII",
+   "path": "art_VIII",
+   "text": "Przystąpienie do Protokołu dodatkowego i do innych aktów Związku",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł VIII"
+     "type": "ust",
+     "num": "1",
+     "path": "art_VIII/ust_1",
+     "text": "Kraje członkowskie, które nie podpisały niniejszego protokołu, mogą do niego przystąpić w każdym czasie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "général et placé sous le contróle du Conseil d'administration, sert d'organe d’exécution, d'appui, de liaison, d' information et de consultation."
+      },
+      {
+       "type": "text",
+       "text": "Article VI"
+      },
+      {
+       "type": "text",
+       "text": "(Article 22 modifić)"
+      },
+      {
+       "type": "text",
+       "text": "Actes de I'Union"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Przystąpienie do Protokołu dodatkowego i do innych aktów Związku"
+     "type": "ust",
+     "num": "1",
+     "path": "art_VIII/ust_1",
+     "text": "La Constitution est IActe fondamental de I'Union. Elle contient les regles organiques de I'Union.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_VIII/ust_2",
+     "text": "Le Reglement général comporte les dispositions assurant |'application de la Constitution et le fonctionnement de I'Union. Il est obligatoire pour tous les Pays-membres.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VIII/ust_3",
+     "text": "La Convention postale universelle et son Reglement d'exócution comportent les régles communes applicables au service postal international et les dispositions concernant les services de la poste aux lettres. Ces Actes sont obligatoires pour tous les Pays-membres.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_VIII/ust_4",
+     "text": "Les Arrangements de I'Union et leurs Reglements d’exécution réglent les services autres que ceux de la poste aux lettres entre les Pays-membres qui y sont parties. Ils ne sont obligatoires que pour ces pays.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_VIII/ust_5",
+     "text": "Les Reglements d'exćcution, qui contiennent les mesures d'application nécessaires a l'exócution de la Convention et des Arrangements, sont arretćs par le Conseil d'exploitation postale, compte tenu des décisions prises par le Congres.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_VIII/ust_6",
+     "text": "Les Protocoles finals ćventuels annexós aux Actes de I'Union visés aux paragraphes, 3, 4 et 5 contiennent les réserves a ces Actes.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article VII"
+      },
+      {
+       "type": "text",
+       "text": "(Article 25 modifié)"
+      },
+      {
+       "type": "text",
+       "text": "Signature, authentification, ratification et autres modes d'approbation des Actes de I’Union"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_VIII/ust_1",
+     "text": "Les Actes de IUnion issus du Congres sont signés par les plénipotentiaires des Pays-membres.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_VIII/ust_2",
+     "text": "Les Réglements d’exécution sont authentifiés par le Président et le Secrétaire général du Conseil d'exploitation postale.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VIII/ust_3",
+     "text": "La Constitution est ratifiée aussitót que possible par les pays signataires.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_VIII/ust_4",
+     "text": "L'approbation des Actes de I'Union autres que la Constitution est régie par les régles constitutionnelles de chaque pays signataire.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_VIII/ust_5",
+     "text": "Lorsqu'un pays ne ratifie pas la Constitution ou n'approuve pas les autres Actes signés par lui, la Constitution et les autres Actes n'en sont pas moins valables pour les pays qui les ont ratifiés ou approuves.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article VIII"
+      },
+      {
+       "type": "text",
+       "text": "Adhésion au Protocole additionnel et aux autres Actes de I' Union"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_VIII/ust_1",
+     "text": "Les Pays-membres qui n'ont pas signé le présent Protocole peuvent y adhérer en tout temps.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_VIII/ust_2",
+     "text": "Kraje członkowskie, które są stronami aktów znowelizowanych przez Kongres, ale które ich nie podpisały, powinny do nich przystąpić w możliwie najkrótszym czasie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_VIII/ust_3",
+     "text": "Dokumenty przystąpienia odnoszące się do przypadków ujętych w ustępach 1 i 2 powinny być przekazane Dyrektorowi Generalnemu Biura Międzynarodowego, który notyfikuje o tym rządy Krajów członkowskich.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł VIII"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Kraje członkowskie, które nie podpisały niniejszego protokołu, mogą do niego przystąpić w każdym czasie.",
+   "type": "art",
+   "num": "IX",
+   "path": "art_IX",
+   "text": "Wejście w życie i okres obowiązywania Protokotu dodatkowego do Konstytucji Światowego Związku Pocztowego",
    "children": [
-    {
-     "type": "text",
-     "text": "général et placé sous le contróle du Conseil d'administration, sert d'organe d’exécution, d'appui, de liaison, d' information et de consultation."
-    },
-    {
-     "type": "text",
-     "text": "Article VI"
-    },
-    {
-     "type": "text",
-     "text": "(Article 22 modifić)"
-    },
-    {
-     "type": "text",
-     "text": "Actes de I'Union"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "La Constitution est IActe fondamental de I'Union. Elle contient les regles organiques de I'Union.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Le Reglement général comporte les dispositions assurant |'application de la Constitution et le fonctionnement de I'Union. Il est obligatoire pour tous les Pays-membres.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "La Convention postale universelle et son Reglement d'exócution comportent les régles communes applicables au service postal international et les dispositions concernant les services de la poste aux lettres. Ces Actes sont obligatoires pour tous les Pays-membres.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Les Arrangements de I'Union et leurs Reglements d’exécution réglent les services autres que ceux de la poste aux lettres entre les Pays-membres qui y sont parties. Ils ne sont obligatoires que pour ces pays.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Les Reglements d'exćcution, qui contiennent les mesures d'application nécessaires a l'exócution de la Convention et des Arrangements, sont arretćs par le Conseil d'exploitation postale, compte tenu des décisions prises par le Congres.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Les Protocoles finals ćventuels annexós aux Actes de I'Union visés aux paragraphes, 3, 4 et 5 contiennent les réserves a ces Actes.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article VII"
-    },
-    {
-     "type": "text",
-     "text": "(Article 25 modifié)"
-    },
-    {
-     "type": "text",
-     "text": "Signature, authentification, ratification et autres modes d'approbation des Actes de I’Union"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Les Actes de IUnion issus du Congres sont signés par les plénipotentiaires des Pays-membres.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Les Réglements d’exécution sont authentifiés par le Président et le Secrétaire général du Conseil d'exploitation postale.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "La Constitution est ratifiée aussitót que possible par les pays signataires.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "L'approbation des Actes de I'Union autres que la Constitution est régie par les régles constitutionnelles de chaque pays signataire.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Lorsqu'un pays ne ratifie pas la Constitution ou n'approuve pas les autres Actes signés par lui, la Constitution et les autres Actes n'en sont pas moins valables pour les pays qui les ont ratifiés ou approuves.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article VIII"
-    },
-    {
-     "type": "text",
-     "text": "Adhésion au Protocole additionnel et aux autres Actes de I' Union"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Les Pays-membres qui n'ont pas signé le présent Protocole peuvent y adhérer en tout temps.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Kraje członkowskie, które są stronami aktów znowelizowanych przez Kongres, ale które ich nie podpisały, powinny do nich przystąpić w możliwie najkrótszym czasie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dokumenty przystąpienia odnoszące się do przypadków ujętych w ustępach 1 i 2 powinny być przekazane Dyrektorowi Generalnemu Biura Międzynarodowego, który notyfikuje o tym rządy Krajów członkowskich.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł IX"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie i okres obowiązywania Protokotu dodatkowego do Konstytucji Światowego Związku Pocztowego"
-    },
     {
      "type": "text",
      "text": "Niniejszy protokół dodatkowy wejdzie w życie dnia 1 stycznia 1996 r. i pozostanie w mocy przez czas nie określony."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego pełnomocnicy rządów krajów członkowskich sporządzili niniejszy Protokół dodatkowy, który mieć będzie tę samą moc i to samo znaczenie, jak gdyby jego postanowienia byty zamieszczone w samym tekście Konstytucji, oraz podpisali go w jednym egzemplarzu, który zostanie złożony u Dyrektora Generalnego Biura Międzynarodowego. Jedna jego kopia doręczona zostanie każdej stronie przez rząd kraju, w którym odbył się Kongres."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Seulu dnia 14 września 1994 r."
     }
-   ]
+   ],
+   "label": "Artykuł IX"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego pełnomocnicy rządów krajów członkowskich sporządzili niniejszy Protokół dodatkowy, który mieć będzie tę samą moc i to samo znaczenie, jak gdyby jego postanowienia byty zamieszczone w samym tekście Konstytucji, oraz podpisali go w jednym egzemplarzu, który zostanie złożony u Dyrektora Generalnego Biura Międzynarodowego. Jedna jego kopia doręczona zostanie każdej stronie przez rząd kraju, w którym odbył się Kongres."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Seulu dnia 14 września 1994 r."
   },
   {
    "type": "ust",
@@ -558,20 +559,20 @@
     {
      "type": "text",
      "text": "— będzie niezmiennie zachowywany."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 10 czerwca 1996 r."
-    },
-    {
-     "type": "text",
-     "text": "L.S."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 10 czerwca 1996 r."
+  },
+  {
+   "type": "text",
+   "text": "L.S."
   },
   {
    "type": "signature",

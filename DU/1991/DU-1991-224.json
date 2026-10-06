@@ -90,31 +90,35 @@
    "text": "Postanowienia ogólne"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "W sprawach objętych niniejszą umową Ministerstwo Sprawiedliwości lub Prokuratura Generalna Polskiej Rzeczypospolitej Ludowej oraz Ministerstwo Sprawiedliwości Republiki Tureckiej porozumiewają się bezpośrednio między sobą, chyba że postanowienia niniejszej umowy stanowią inaczej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sądy i inne organy Umawiających się Stron, właściwe w sprawach karnych, porozumiewają się między sobą za pośrednictwem Ministerstwa Sprawiedliwości lub Prokuratury Generalnej Polskiej Rzeczypospolitej Ludowej i Ministerstwa Sprawiedliwości Republiki Tureckiej.",
+   "path": "art_1",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "W sprawach objętych niniejszą umową Ministerstwo Sprawiedliwości lub Prokuratura Generalna Polskiej Rzeczypospolitej Ludowej oraz Ministerstwo Sprawiedliwości Republiki Tureckiej porozumiewają się bezpośrednio między sobą, chyba że postanowienia niniejszej umowy stanowią inaczej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ministerstwo Sprawiedliwości oraz Prokuratura Generalna Polskiej Rzeczypospolitej Ludowej i Ministerstwo Sprawiedliwości Republiki Tureckiej będą udzielały sobie wzajemnie, na wniosek, informacji o prawie obowiązującym w ich Państwach, o wykładni przepisów prawnych przez właściwe organy Umawiających się Stron, o ważniejszych aktach ustawodawczych, jak również, jeżeli zajdzie potrzeba, o określonych problemach prawnych."
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Sądy i inne organy Umawiających się Stron, właściwe w sprawach karnych, porozumiewają się między sobą za pośrednictwem Ministerstwa Sprawiedliwości lub Prokuratury Generalnej Polskiej Rzeczypospolitej Ludowej i Ministerstwa Sprawiedliwości Republiki Tureckiej.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Ministerstwo Sprawiedliwości oraz Prokuratura Generalna Polskiej Rzeczypospolitej Ludowej i Ministerstwo Sprawiedliwości Republiki Tureckiej będą udzielały sobie wzajemnie, na wniosek, informacji o prawie obowiązującym w ich Państwach, o wykładni przepisów prawnych przez właściwe organy Umawiających się Stron, o ważniejszych aktach ustawodawczych, jak również, jeżeli zajdzie potrzeba, o określonych problemach prawnych.",
+   "children": [],
+   "label": "Artykuł 2"
   },
   {
    "type": "heading",
@@ -122,567 +126,597 @@
    "text": "Pomoc prawna"
   },
   {
-   "type": "text",
-   "text": "Artykuł 3"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony zobowiązują się do wzajemnego udzielania pomocy prawnej w sprawach karnych w jak najszerszym zakresie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pomocy prawnej udziela się przez dokonywanie określonych czynności postępowania, a w szczególności przez przesyłanie dokumentów, przeszukiwanie, zajęcie i przekazywanie dowodów, sporządzanie opinii biegłych, przesłuchiwanie podejrzanych, oskarżonych, Świadków i biegłych, jak również przez dokonywanie oględzin.",
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 4"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wniosek o udzielenie pomocy prawnej powinien zawierać:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "określenie organów wzywających i wezwanych,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Umawiające się Strony zobowiązują się do wzajemnego udzielania pomocy prawnej w sprawach karnych w jak najszerszym zakresie.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "określenie sprawy, której dotyczy wniosek o udzielenie pomocy prawnej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "imiona i nazwiska podejrzanych, oskarżonych lub skazanych, ich miejsce zamieszkania lub pobytu, obywatelstwo i zawód oraz, w miarę możności, również miejsce i datę urodzenia podejrzanych, oskarżonych lub skazanych oraz imiona ich rodziców,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "nazwiska, imiona i adresy pełnomocników,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "treść wniosku i informacje niezbędne do jego wykonania oraz kwalifikację i opis czynu przestępnego.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Pomocy prawnej udziela się przez dokonywanie określonych czynności postępowania, a w szczególności przez przesyłanie dokumentów, przeszukiwanie, zajęcie i przekazywanie dowodów, sporządzanie opinii biegłych, przesłuchiwanie podejrzanych, oskarżonych, Świadków i biegłych, jak również przez dokonywanie oględzin.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wnioski o udzielenie pomocy prawnej oraz załączone dokumenty powinny być podpisane i zaopatrzone w pieczęć urzędową organu, od którego pochodzą.",
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "CHAPITRE I"
-    },
-    {
-     "type": "text",
-     "text": "Dispositions gónerales"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "En ce qui concerne les matiéres rógldes par la présente Convention, le Ministére de la Justice ou le Parquet Général de la République populaire de Pologne ainsi que le Ministére de la Justice de la République de Turquie se communiquent directement entre eux, sauf stipulations contraires contenues dans la présente Convention.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Les tribunaux et les autres autorités des Parties Contractantes compétents en matiére pénale se communiquent entre eux par |' intermediaire du Ministére de la Justice ou du Parquet Général de la République populaire de Pologne et du Ministére de la Justice de la République de Turquie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 2"
-      },
-      {
-       "type": "text",
-       "text": "Le Ministére de la Justice ou le Parquet Général de la République populaire de Pologne et le Ministére de la Justice de la République de Turquie s'informeront mutuellement, sur demande, du droit en vigueur dans leurs pays, de I'interprétation des dispositions juridiques par les autorités compétentes des Parties Contractantes, des actes legislatifs les plus importants et, si besoin est, des questions juridiques determinees."
-      },
-      {
-       "type": "text",
-       "text": "CHAPITRE 2"
-      },
-      {
-       "type": "text",
-       "text": "Entraide judiciaire"
-      },
-      {
-       "type": "text",
-       "text": "Article 3"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Les Parties Contractantes sengagent ad s'accorder mutuellement I'entraide judiciaire la plus large possible en matiere pónale.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "L'entraide judiciaire comprend I'exócution d'actes de procédure tels qu'en particulier la transmission des documents, les perquisitions, la saisie et la remise des piéces a conviction, l'expertise, |'interrogatoire dinculpós et d’accusés, l'audition des témoins et d' experts ainsi que le transport sur les lieux.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 4"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "La demande d'entraide judiciaire comprendra:",
+     "path": "art_4/ust_1",
+     "text": "Wniosek o udzielenie pomocy prawnej powinien zawierać:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_2/pkt_1/lit_a",
-       "text": "la dénomination des autoritós requérante et requise;",
+       "path": "art_4/ust_1/lit_a",
+       "text": "określenie organów wzywających i wezwanych,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_2/pkt_1/lit_b",
-       "text": "I objet de |'affaire;",
+       "path": "art_4/ust_1/lit_b",
+       "text": "określenie sprawy, której dotyczy wniosek o udzielenie pomocy prawnej,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_2/pkt_1/lit_c",
-       "text": "lenometprénom, le domicile ou la rósidence des inculpés, des accusćs ou des condamnés, leur nationalité et profession et, dans la mesure du possible, le lieu et la date de naissance des inculpés, des accusós ou des condamnes ainsi que les prénoms de leurs parents;",
+       "path": "art_4/ust_1/lit_c",
+       "text": "imiona i nazwiska podejrzanych, oskarżonych lub skazanych, ich miejsce zamieszkania lub pobytu, obywatelstwo i zawód oraz, w miarę możności, również miejsce i datę urodzenia podejrzanych, oskarżonych lub skazanych oraz imiona ich rodziców,",
        "children": []
       },
       {
        "type": "lit",
        "num": "d",
-       "path": "ust_2/pkt_1/lit_d",
-       "text": "les noms, prénoms et adresses de leurs représentants lógaux;",
+       "path": "art_4/ust_1/lit_d",
+       "text": "nazwiska, imiona i adresy pełnomocników,",
        "children": []
       },
       {
        "type": "lit",
        "num": "e",
-       "path": "ust_2/pkt_1/lit_e",
-       "text": "l'objet de la demande et les informations nécésaires 4 son exécution et la qualification et caractéristique de I acte delictueux.",
+       "path": "art_4/ust_1/lit_e",
+       "text": "treść wniosku i informacje niezbędne do jego wykonania oraz kwalifikację i opis czynu przestępnego.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Les demandes d'entraide judiciaire et les piéces y annexées doivent étre signées et revétues du sceau officiel de l'autorité dont elles ćmanent.",
+     "path": "art_4/ust_2",
+     "text": "Wnioski o udzielenie pomocy prawnej oraz załączone dokumenty powinny być podpisane i zaopatrzone w pieczęć urzędową organu, od którego pochodzą.",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "text",
+       "text": "CHAPITRE I"
       },
       {
        "type": "text",
-       "text": "Artykuł 5"
+       "text": "Dispositions gónerales"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_2/pkt_1",
+       "text": "En ce qui concerne les matiéres rógldes par la présente Convention, le Ministére de la Justice ou le Parquet Général de la République populaire de Pologne ainsi que le Ministére de la Justice de la République de Turquie se communiquent directement entre eux, sauf stipulations contraires contenues dans la présente Convention.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_2/pkt_2",
+       "text": "Les tribunaux et les autres autorités des Parties Contractantes compétents en matiére pénale se communiquent entre eux par |' intermediaire du Ministére de la Justice ou du Parquet Général de la République populaire de Pologne et du Ministére de la Justice de la République de Turquie.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 2"
+        },
+        {
+         "type": "text",
+         "text": "Le Ministére de la Justice ou le Parquet Général de la République populaire de Pologne et le Ministére de la Justice de la République de Turquie s'informeront mutuellement, sur demande, du droit en vigueur dans leurs pays, de I'interprétation des dispositions juridiques par les autorités compétentes des Parties Contractantes, des actes legislatifs les plus importants et, si besoin est, des questions juridiques determinees."
+        },
+        {
+         "type": "text",
+         "text": "CHAPITRE 2"
+        },
+        {
+         "type": "text",
+         "text": "Entraide judiciaire"
+        },
+        {
+         "type": "text",
+         "text": "Article 3"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_2/pkt_1",
+       "text": "Les Parties Contractantes sengagent ad s'accorder mutuellement I'entraide judiciaire la plus large possible en matiere pónale.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_2/pkt_2",
+       "text": "L'entraide judiciaire comprend I'exócution d'actes de procédure tels qu'en particulier la transmission des documents, les perquisitions, la saisie et la remise des piéces a conviction, l'expertise, |'interrogatoire dinculpós et d’accusés, l'audition des témoins et d' experts ainsi que le transport sur les lieux.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 4"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/ust_2/pkt_1",
+       "text": "La demande d'entraide judiciaire comprendra:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_4/ust_2/pkt_1/lit_a",
+         "text": "la dénomination des autoritós requérante et requise;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_4/ust_2/pkt_1/lit_b",
+         "text": "I objet de |'affaire;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_4/ust_2/pkt_1/lit_c",
+         "text": "lenometprénom, le domicile ou la rósidence des inculpés, des accusćs ou des condamnés, leur nationalité et profession et, dans la mesure du possible, le lieu et la date de naissance des inculpés, des accusós ou des condamnes ainsi que les prénoms de leurs parents;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_4/ust_2/pkt_1/lit_d",
+         "text": "les noms, prénoms et adresses de leurs représentants lógaux;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_4/ust_2/pkt_1/lit_e",
+         "text": "l'objet de la demande et les informations nécésaires 4 son exécution et la qualification et caractéristique de I acte delictueux.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/ust_2/pkt_2",
+       "text": "Les demandes d'entraide judiciaire et les piéces y annexées doivent étre signées et revétues du sceau officiel de l'autorité dont elles ćmanent.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przy wykonywaniu wniosku o udzielenie pomocy prawnej organ wezwany stosuje przepisy prawne swego państwa. Jednak organ ten, na wniosek wzywającej Umawiającej się Strony, może zastosować przepisy postępowania drugiej Umawiającej się Strony, jeżeli nie są one sprzeczne z prawem Strony wezwanej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli organ wezwany nie jest właściwy do wykonania wniosku o udzielenie pomocy prawnej, przekazuje go do właściwego organu Strony wezwanej i zawiadamia o tym organ wzywający, zgodnie z artykułem 1 ustępem 2.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Na prośbę organu wzywającego organ wezwany zawiadamia go bezpośrednio o terminie i miejscu wykonania wniosku. Organ wezwany może wyrazić zgodę na udział przedstawicieli organu wzywającego przy wykonywaniu wniosku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Powykonaniu wniosku o udzielenie pomocy prawnej organ wezwany zwraca akta organowi wzywającemu lub powiadamia go o przeszkodach w wykonaniu tego wniosku.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli w toku postępowania przed sądem lub innym organem jednej Umawiającej się Strony okaże się konieczne stawiennictwo świadka lub biegłego przebywającego na terytorium drugiej Umawiającej się Strony, sąd lub inny właściwy organ tej Strony może zwrócić się do właściwego organu drugiej Umawiającej się Strony o doręczenie wezwania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W wypadku określonym w ustępie 1 do wezwania nie może być dołączone zagrożenie grzywną lub innymi środkami przymusu w przypadku niestawiennictwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Koszty podróży i pobytu, jak również wypłata odszkodowania dla świadków lub biegłych obciążają Stronę wzywającą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Świadek lub biegły, który bez względu na posiadane obywatelstwo stawił się dobrowolnie na wezwanie przed właściwym organem drugiej Umawiającej się Strony, nie może być na terytorium tej Strony pociągnięty do odpowiedzialności karnej, aresztowany lub ukarany w związku z jakimkolwiek czynem popełnionym przed przekroczeniem jej granicy państwowej. Osoby te nie mogą być także pociągnięte do odpowiedzialności karnej, aresztowane lub ukarane w związku z ich zeznaniami lub opiniami w charakterze biegłych albo w związku z czynem będącym przedmiotem postępowania.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "Świadek lub biegły przestaje korzystać z przywileju przewidzianego w ustępie 4, jeżeli nie opuści terytorium Strony wzywającej przed upływem terminu piętnastu dni, licząc od dnia zawiadomienia go przez organ przesłuchujący, że obecność jego nie jest już potrzebna. Przy obliczaniu tego terminu nie uwzględnia się okresu, w którym świadek lub biegły nie mógł z przyczyn od siebie niezależnych opuścić terytorium Strony wzywającej.",
+   "path": "art_5",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 7"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Przy wykonywaniu wniosku o udzielenie pomocy prawnej organ wezwany stosuje przepisy prawne swego państwa. Jednak organ ten, na wniosek wzywającej Umawiającej się Strony, może zastosować przepisy postępowania drugiej Umawiającej się Strony, jeżeli nie są one sprzeczne z prawem Strony wezwanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Jeżeli organ wezwany nie jest właściwy do wykonania wniosku o udzielenie pomocy prawnej, przekazuje go do właściwego organu Strony wezwanej i zawiadamia o tym organ wzywający, zgodnie z artykułem 1 ustępem 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Na prośbę organu wzywającego organ wezwany zawiadamia go bezpośrednio o terminie i miejscu wykonania wniosku. Organ wezwany może wyrazić zgodę na udział przedstawicieli organu wzywającego przy wykonywaniu wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Powykonaniu wniosku o udzielenie pomocy prawnej organ wezwany zwraca akta organowi wzywającemu lub powiadamia go o przeszkodach w wykonaniu tego wniosku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Doręczenia pism są dokonywane przez organ wezwany zgodnie z przepisami prawnymi normującymi tryb",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Article 5"
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Pour exécuter une demande d'entraide judiciaire, l'autorité requise applique les dispositions Iégislatives en vigueur dans son Etat. Cependant, I‘autorité requise peut, sur demande de la Partie Contractante requérante, appliquer les dispositions de procédure de l'autre Partie Contractante dans la mesure ou celles-ci ne sont pas contraires aux lois de la Partie requise.",
+     "path": "art_6/ust_1",
+     "text": "Jeżeli w toku postępowania przed sądem lub innym organem jednej Umawiającej się Strony okaże się konieczne stawiennictwo świadka lub biegłego przebywającego na terytorium drugiej Umawiającej się Strony, sąd lub inny właściwy organ tej Strony może zwrócić się do właściwego organu drugiej Umawiającej się Strony o doręczenie wezwania.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Lorsque I'autorite requise n'est pas compétente pour exécuter la demande d'entraide judiciaire, elle la transmet a l'autorité compétente de la Partie requise et en informe I'autoritć requérante selon le mode prévu a I'article 1 paragraphe 2.",
+     "path": "art_6/ust_2",
+     "text": "W wypadku określonym w ustępie 1 do wezwania nie może być dołączone zagrożenie grzywną lub innymi środkami przymusu w przypadku niestawiennictwa.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "Sur demande de |'autoritć requérante, | autorite requise ‘informe directement de la date et du lieu de I'exćcution de la demande d'entraide judiciaire. L'autoritć requise peut consentir a la participation des représentants de I'autoritć requérante a l’exécution de I'entraide judiciaire.",
+     "path": "art_6/ust_3",
+     "text": "Koszty podróży i pobytu, jak również wypłata odszkodowania dla świadków lub biegłych obciążają Stronę wzywającą.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "L'autorite requise retourne le dossier apres exécution de la demande d'entraide judiciaire a |'autoritć requérante ou informe des obstacles a l'exécution de la demande.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 6"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Lorsque, au cours d'une instance devant un tribunal ou une autre autorité de | une des Parties Contractantes, la comparution d'un témoin ou d'un expert séjournant sur le territoire de l'autre Partie Contractante s'avere nécessaire, le tribunal ou l'autre autorité compétente de cette Partie peut s'adresser a | autoritć compétente de I'autre Partie Contractante pour signifier la convocation.",
+     "path": "art_6/ust_4",
+     "text": "Świadek lub biegły, który bez względu na posiadane obywatelstwo stawił się dobrowolnie na wezwanie przed właściwym organem drugiej Umawiającej się Strony, nie może być na terytorium tej Strony pociągnięty do odpowiedzialności karnej, aresztowany lub ukarany w związku z jakimkolwiek czynem popełnionym przed przekroczeniem jej granicy państwowej. Osoby te nie mogą być także pociągnięte do odpowiedzialności karnej, aresztowane lub ukarane w związku z ich zeznaniami lub opiniami w charakterze biegłych albo w związku z czynem będącym przedmiotem postępowania.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Aucas próvu au paragraphe 1, la convocation ne peut étre assortie d' amende ou d'autres mesures de contrainte en cas de non comparution.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "Les frais de voyage et de séjour ainsi que le paiement d'une indemnitć aux témoins ou experts sont a la charge de la Partie requérante.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "Aucun temoin ni expert, de quelque nationalité qu'il soit qui a la suite d'une convocation comparait de son plein gre devant |'autorite compétente de I autre Partie Contractante, ne pourra étre ni poursuivi, ni détenu, ni puni sur le territoire de cette Partie pour des faits antérieurs a son entrée sur ce territoire. Les personnes mentionnées ne pourront étre, non plus, poursuivies, détenues ou punies pour leurs dépositions ou expertises ni pour des faits demeurant en liaison avec I'acte qui fait l'objet de la procedure.",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "5",
-     "path": "ust_1/pkt_5",
-     "text": "Le temoin ou I'expert cesse de benśficier de I'immunite prevue au paragraphe 4 s'il ne quitte pas le territoire de la Partie requérante avant I'expiration d'un delai de quinze jours a compter de la date ou I'autorite qui l'a entendue lui notifie que sa presence n'est plus nécessaire. Dans ce delai n'est pas inclus le laps de temps durant lequel le temoin ou I'expert n'a pu quitter le territoire de la Partie requérante pour des raisons indépendantes de sa volonte.",
+     "path": "art_6/ust_5",
+     "text": "Świadek lub biegły przestaje korzystać z przywileju przewidzianego w ustępie 4, jeżeli nie opuści terytorium Strony wzywającej przed upływem terminu piętnastu dni, licząc od dnia zawiadomienia go przez organ przesłuchujący, że obecność jego nie jest już potrzebna. Przy obliczaniu tego terminu nie uwzględnia się okresu, w którym świadek lub biegły nie mógł z przyczyn od siebie niezależnych opuścić terytorium Strony wzywającej.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Doręczenia pism są dokonywane przez organ wezwany zgodnie z przepisami prawnymi normującymi tryb",
      "children": [
       {
        "type": "text",
-       "text": "Article 7"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Les significations sont effectuées par I'autorite requise conformément aux dispositions légales réglant cette",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "Article 5"
       },
       {
-       "type": "text",
-       "text": "doręczania pism w jego Państwie, jeśli doręczane pisma zostały sporządzone w języku Strony wezwanej albo jeżeli dołączono do nich uwierzytelniony przekład na język tej Strony. W innym wypadku organ wezwany doręcza pismo adresatowi tylko wtedy, gdy on zgodzi się je przyjąć."
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/ust_1/pkt_1",
+       "text": "Pour exécuter une demande d'entraide judiciaire, l'autorité requise applique les dispositions Iégislatives en vigueur dans son Etat. Cependant, I‘autorité requise peut, sur demande de la Partie Contractante requérante, appliquer les dispositions de procédure de l'autre Partie Contractante dans la mesure ou celles-ci ne sont pas contraires aux lois de la Partie requise.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/ust_1/pkt_2",
+       "text": "Lorsque I'autorite requise n'est pas compétente pour exécuter la demande d'entraide judiciaire, elle la transmet a l'autorité compétente de la Partie requise et en informe I'autoritć requérante selon le mode prévu a I'article 1 paragraphe 2.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/ust_1/pkt_3",
+       "text": "Sur demande de |'autoritć requérante, | autorite requise ‘informe directement de la date et du lieu de I'exćcution de la demande d'entraide judiciaire. L'autoritć requise peut consentir a la participation des représentants de I'autoritć requérante a l’exécution de I'entraide judiciaire.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_7/ust_1/pkt_4",
+       "text": "L'autorite requise retourne le dossier apres exécution de la demande d'entraide judiciaire a |'autoritć requérante ou informe des obstacles a l'exécution de la demande.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 6"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/ust_1/pkt_1",
+       "text": "Lorsque, au cours d'une instance devant un tribunal ou une autre autorité de | une des Parties Contractantes, la comparution d'un témoin ou d'un expert séjournant sur le territoire de l'autre Partie Contractante s'avere nécessaire, le tribunal ou l'autre autorité compétente de cette Partie peut s'adresser a | autoritć compétente de I'autre Partie Contractante pour signifier la convocation.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/ust_1/pkt_2",
+       "text": "Aucas próvu au paragraphe 1, la convocation ne peut étre assortie d' amende ou d'autres mesures de contrainte en cas de non comparution.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/ust_1/pkt_3",
+       "text": "Les frais de voyage et de séjour ainsi que le paiement d'une indemnitć aux témoins ou experts sont a la charge de la Partie requérante.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_7/ust_1/pkt_4",
+       "text": "Aucun temoin ni expert, de quelque nationalité qu'il soit qui a la suite d'une convocation comparait de son plein gre devant |'autorite compétente de I autre Partie Contractante, ne pourra étre ni poursuivi, ni détenu, ni puni sur le territoire de cette Partie pour des faits antérieurs a son entrée sur ce territoire. Les personnes mentionnées ne pourront étre, non plus, poursuivies, détenues ou punies pour leurs dépositions ou expertises ni pour des faits demeurant en liaison avec I'acte qui fait l'objet de la procedure.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_7/ust_1/pkt_5",
+       "text": "Le temoin ou I'expert cesse de benśficier de I'immunite prevue au paragraphe 4 s'il ne quitte pas le territoire de la Partie requérante avant I'expiration d'un delai de quinze jours a compter de la date ou I'autorite qui l'a entendue lui notifie que sa presence n'est plus nécessaire. Dans ce delai n'est pas inclus le laps de temps durant lequel le temoin ou I'expert n'a pu quitter le territoire de la Partie requérante pour des raisons indépendantes de sa volonte.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 7"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/ust_1/pkt_1",
+       "text": "Les significations sont effectuées par I'autorite requise conformément aux dispositions légales réglant cette",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "doręczania pism w jego Państwie, jeśli doręczane pisma zostały sporządzone w języku Strony wezwanej albo jeżeli dołączono do nich uwierzytelniony przekład na język tej Strony. W innym wypadku organ wezwany doręcza pismo adresatowi tylko wtedy, gdy on zgodzi się je przyjąć."
+        }
+       ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wniosek o doręczenie powinien zawierać dokładny adres odbiorcy oraz określenie doręczanego pisma.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli pisma nie mogą być doręczone pod adresem wskazanym we wniosku o doręczenie, organ wezwany podejmie niezbędne środki w celu ustalenia dokładnego adresu. Jeżeli ustalenie adresu okaże się niemożliwe, organ wezwany zawiadamia o tym organ wzywający i zwraca mu pisma, które miał doręczyć.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
     },
     {
-     "type": "text",
-     "text": "Potwierdzenie doręczenia pism sporządza się stosownie do przepisów o doręczaniu pism obowiązujących na terytorium Strony wezwanej. Potwierdzenie doręczenia powinno zawierać datę i miejsce doręczenia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Z zastrzeżeniem postanowień artykułu 6 ustępu 3, wezwana Umawiająca się Strona ponosi wszelkie koszty powstałe na jej terytorium w związku z udzieleniem pomocy prawnej i nie będzie żądała zwrotu tych kosztów."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Można odmówić udzielenia pomocy prawnej:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jeżeli Strona wezwana uważa, że wykonanie wniosku mogłoby zagrozić suwerenności, bezpieczeństwu lub porządkowi publicznemu jej kraju,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jeżeli czyn jest, według Strony wezwanej, przestępstwem o charakterze politycznym lub przestępstwem wojskowym, nie będącym przestępstwem pospolitym.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Odmowa udzielenia pomocy prawnej, o której mowa w wypadku określonym w ustępie 1, wymaga uzasadnienia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Z zastrzeżeniem postanowień artykułu 7 ustępu 1 oraz artykułu 44 niniejszej umowy, do wniosku o udzielenie pomocy prawnej oraz załączonych do niego dokumentów dołącza się uwierzytelnione tłumaczenie na język Strony wezwanej, na język francuski albo na język angielski.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Uwierzytelnienie tłumaczenia może być dokonane przez organ wzywający, tłumacza przysięgłego, notariusza lub przez przedstawiciela dyplomatycznego albo urzędnika konsularnego jednej z Umawiających się Stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wykonanie wniosków o udzielenie pomocy prawnej następuje w języku Strony wezwanej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "matiere dans son Etat lorsque les pieces a signifier sont redigóes dans la langue de la Partie requise ou accompagnees d'une traduction certifiee conforme dans la langue de cette Partie. Au cas contraire, l’autorité requise ne signifie la piece ason destinataire que lorsque ce dernier consent a la recevoir."
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "La demande de signification doit indiquer l'adresse exacte du destinataire et désigner la piéce a signifier.",
+     "path": "art_7/ust_2",
+     "text": "Wniosek o doręczenie powinien zawierać dokładny adres odbiorcy oraz określenie doręczanego pisma.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "Lorsque les pieces ne peuvent ©€tre signifiées a l'adresse indiquée dans la demande de signification, I'autorite,requise prendra des mesures utiles en vue d'etablir l'adresse exacte du destinataire. Si I etablissement de cette adresse s'avere impossible, l'autorite requise en informe l'autorité requérante et lui retourne les pieces qu'elle avait a signifier.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 8"
-      },
-      {
-       "type": "text",
-       "text": "L'accuse de reception des pieces se fait conformément aux dispositions en vigueur sur le territoire de la Partie requise. L'accusć de reception doit mentionner la date et le lieu de la signification."
-      },
-      {
-       "type": "text",
-       "text": "Article 9"
-      },
-      {
-       "type": "text",
-       "text": "Sous reserve des dispositions de l'article 6, paragraphe 3, la Partie Contractante requise supportera tous les frais occasionnes sur son territoire par l'entraide judiciaire et ne demandera pas qu ils soient remboursés."
-      },
-      {
-       "type": "text",
-       "text": "Article 10"
-      }
-     ]
-    },
+     "path": "art_7/ust_3",
+     "text": "Jeżeli pisma nie mogą być doręczone pod adresem wskazanym we wniosku o doręczenie, organ wezwany podejmie niezbędne środki w celu ustalenia dokładnego adresu. Jeżeli ustalenie adresu okaże się niemożliwe, organ wezwany zawiadamia o tym organ wzywający i zwraca mu pisma, które miał doręczyć.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Potwierdzenie doręczenia pism sporządza się stosownie do przepisów o doręczaniu pism obowiązujących na terytorium Strony wezwanej. Potwierdzenie doręczenia powinno zawierać datę i miejsce doręczenia.",
+   "children": [],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Z zastrzeżeniem postanowień artykułu 6 ustępu 3, wezwana Umawiająca się Strona ponosi wszelkie koszty powstałe na jej terytorium w związku z udzieleniem pomocy prawnej i nie będzie żądała zwrotu tych kosztów.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "L'entraide judiciaire pourra étre refusée:",
+     "path": "art_10/ust_1",
+     "text": "Można odmówić udzielenia pomocy prawnej:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_3/pkt_1/lit_a",
-       "text": "si la Partie requise estime que I'execution de la demande est de nature a porter atteinte a la souverainetć, a la securite ou a l'ordre public de son pays;",
+       "path": "art_10/ust_1/lit_a",
+       "text": "jeżeli Strona wezwana uważa, że wykonanie wniosku mogłoby zagrozić suwerenności, bezpieczeństwu lub porządkowi publicznemu jej kraju,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_3/pkt_1/lit_b",
-       "text": "si la demande se rapporte a des infractions considérées par la Partie requise soit comme des infractions a caractere politique soit comme des infractions militaires qui ne constituent pas des infractions de droit commun.",
+       "path": "art_10/ust_1/lit_b",
+       "text": "jeżeli czyn jest, według Strony wezwanej, przestępstwem o charakterze politycznym lub przestępstwem wojskowym, nie będącym przestępstwem pospolitym.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "Le refus d'accorder l'entraide judiciaire aux cas prévus aux paragraphes prócódents doit étre motive.",
+     "path": "art_10/ust_2",
+     "text": "Odmowa udzielenia pomocy prawnej, o której mowa w wypadku określonym w ustępie 1, wymaga uzasadnienia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Z zastrzeżeniem postanowień artykułu 7 ustępu 1 oraz artykułu 44 niniejszej umowy, do wniosku o udzielenie pomocy prawnej oraz załączonych do niego dokumentów dołącza się uwierzytelnione tłumaczenie na język Strony wezwanej, na język francuski albo na język angielski.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Uwierzytelnienie tłumaczenia może być dokonane przez organ wzywający, tłumacza przysięgłego, notariusza lub przez przedstawiciela dyplomatycznego albo urzędnika konsularnego jednej z Umawiających się Stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Wykonanie wniosków o udzielenie pomocy prawnej następuje w języku Strony wezwanej.",
      "children": [
       {
        "type": "text",
-       "text": "Article 11"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "Sauf les cas prevus aux articles 7 paragraphe 1 et 44 de la présente Convention, les demandes d'entraide judiciaire de meme que les actes y annexés seront accompagnés d' une traduction certifiee conforme dans la langue de la Partie requise, en francais ou en anglais.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "La legalisation de la traduction peut étre effectuée par l'autorite requerante, un traducteur assermenté, un notaire ainsi que par le representant diplomatique ou I'officier consulaire de l'une des Parties Contractantes.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "L'execution des demandes d'entraide judiciaire se fait dans la langue de la Partie requise.",
-     "children": [
+       "text": "matiere dans son Etat lorsque les pieces a signifier sont redigóes dans la langue de la Partie requise ou accompagnees d'une traduction certifiee conforme dans la langue de cette Partie. Au cas contraire, l’autorité requise ne signifie la piece ason destinataire que lorsque ce dernier consent a la recevoir."
+      },
       {
-       "type": "note",
-       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_3/pkt_2",
+       "text": "La demande de signification doit indiquer l'adresse exacte du destinataire et désigner la piéce a signifier.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_11/ust_3/pkt_3",
+       "text": "Lorsque les pieces ne peuvent ©€tre signifiées a l'adresse indiquée dans la demande de signification, I'autorite,requise prendra des mesures utiles en vue d'etablir l'adresse exacte du destinataire. Si I etablissement de cette adresse s'avere impossible, l'autorite requise en informe l'autorité requérante et lui retourne les pieces qu'elle avait a signifier.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 8"
+        },
+        {
+         "type": "text",
+         "text": "L'accuse de reception des pieces se fait conformément aux dispositions en vigueur sur le territoire de la Partie requise. L'accusć de reception doit mentionner la date et le lieu de la signification."
+        },
+        {
+         "type": "text",
+         "text": "Article 9"
+        },
+        {
+         "type": "text",
+         "text": "Sous reserve des dispositions de l'article 6, paragraphe 3, la Partie Contractante requise supportera tous les frais occasionnes sur son territoire par l'entraide judiciaire et ne demandera pas qu ils soient remboursés."
+        },
+        {
+         "type": "text",
+         "text": "Article 10"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_3/pkt_1",
+       "text": "L'entraide judiciaire pourra étre refusée:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_11/ust_3/pkt_1/lit_a",
+         "text": "si la Partie requise estime que I'execution de la demande est de nature a porter atteinte a la souverainetć, a la securite ou a l'ordre public de son pays;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_11/ust_3/pkt_1/lit_b",
+         "text": "si la demande se rapporte a des infractions considérées par la Partie requise soit comme des infractions a caractere politique soit comme des infractions militaires qui ne constituent pas des infractions de droit commun.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_3/pkt_2",
+       "text": "Le refus d'accorder l'entraide judiciaire aux cas prévus aux paragraphes prócódents doit étre motive.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 11"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_3/pkt_1",
+       "text": "Sauf les cas prevus aux articles 7 paragraphe 1 et 44 de la présente Convention, les demandes d'entraide judiciaire de meme que les actes y annexés seront accompagnés d' une traduction certifiee conforme dans la langue de la Partie requise, en francais ou en anglais.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_3/pkt_2",
+       "text": "La legalisation de la traduction peut étre effectuée par l'autorite requerante, un traducteur assermenté, un notaire ainsi que par le representant diplomatique ou I'officier consulaire de l'une des Parties Contractantes.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_11/ust_3/pkt_3",
+       "text": "L'execution des demandes d'entraide judiciaire se fait dans la langue de la Partie requise.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
    "type": "heading",
@@ -690,700 +724,737 @@
    "text": "Wydawanie osób"
   },
   {
-   "type": "text",
-   "text": "Artykuł 12"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony zobowiązują się wzajemnie, stosownie do postanowień niniejszej umowy, wydawać sobie, na wniosek, osoby przebywające na ich terytorium w celu przeprowadzenia postępowania karnego lub w celu wykonania kary.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wydanie w celu przeprowadzenia postępowania karnego następuje tylko z powodu takich czynów, które według prawa obu Umawiających się Stron są przestępstwami zagrożonymi karą pozbawienia wolności powyżej sześciu miesięcy lub karą surowszą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wydanie w celu wykonania kary następuje tylko z powodu takich przestępstw, które podlegają karze według prawa obu Umawiających się Stron, i jeżeli dana osoba została skazana na karę pozbawienia wolności powyżej sześciu miesięcy lub na karę surowszą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli wniosek o wydanie obejmuje kilka odrębnych przestępstw, z których każde według prawa obu Umawiających się Stron podlega karze pozbawienia wolności, lecz niektóre z nich nie odpowiadają warunkom przewidzianym w ustępach 2 i 3, Strona wezwana może wyrazić zgodę na wydanie również za te przestępstwa.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 13"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wniosku o wydanie nie uwzględnia się:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jeżeli osoba, której wydania zażądano, jest obywatelem Strony wezwanej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jeżeli według prawa Strony wezwanej oskarżenie dotyczy przestępstwa o charakterze politycznym lub przestępstwa wojskowego albo wyrok nie może być wykonany z powodu przedawnienia lub z powodu innej przyczyny przewidzianej ustawą,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "jeżeli w stosunku do osoby, której wydania zażądano, wydany został na terytorium Strony wezwanej prawomocny wyrok dotyczący tego samego przestępstwa lub jeżeli postępowanie przeciwko niej zostało prawomocnie umorzone, chyba że orzeczenie takie zapadło w wyniku braku jurysdykcji,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "jeżeli przestępstwo, z którego powodu żąda się wydania, jest ścigane, stosownie do prawa obu Umawiających się Stron, wyłącznie z oskarżenia osoby pokrzywdzonej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "jeżeli przestępstwo zostało popełnione na terytorium Strony wezwanej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Ponadto Strona wezwana może odmówić wydania, jeżeli wydania żąda się z powodu przestępstwa popełnionego naterytorium trzeciego państwa i wyrok został już wydany w tym państwie. Jednakże wyraża ona zgodę na wydanie, jeżeli czyn został popełniony również na terytorium Strony wzywającej lub naruszył ważne interesy tej Strony, a ekstradycja jest wskazana ze względu na potrzebę ustalenia prawdy, wymiar kary lub jej wykonanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli Strona wezwana odmówi wydania z tego powodu, że osoba, która ma być wydana, jest jej obywatelem,",
-   "children": [
-    {
-     "type": "text",
-     "text": "CHAPITRE 3"
-    },
-    {
-     "type": "text",
-     "text": "Extradition des personnes"
-    },
-    {
-     "type": "text",
-     "text": "Article 12"
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "Conformement aux dispositions de la presente Convention, les Parties Contractantes sengagent a se livrer mutuellement sur demande les personnes séjournant sur leur territoire en vue d'une poursuite pénale ou de I'execution d'une peine privative de liberte.",
+     "path": "art_12/ust_1",
+     "text": "Umawiające się Strony zobowiązują się wzajemnie, stosownie do postanowień niniejszej umowy, wydawać sobie, na wniosek, osoby przebywające na ich terytorium w celu przeprowadzenia postępowania karnego lub w celu wykonania kary.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "L'extradition en vue d'une poursuite penale ne peut intervenir que pour les infractions qui, selon la loi de deux Parties Contractantes, sont passibles d'une peine privative de liberte supérieure a six mois ou d'une peine plus severe.",
+     "path": "art_12/ust_2",
+     "text": "Wydanie w celu przeprowadzenia postępowania karnego następuje tylko z powodu takich czynów, które według prawa obu Umawiających się Stron są przestępstwami zagrożonymi karą pozbawienia wolności powyżej sześciu miesięcy lub karą surowszą.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "L'extradition en vue d’exécution d'une peine ne peut intervenir que pour les infractions punies par la loi de deux Parties Contractantes et lorsque la personne concernée a été condamnée a une peine privative de liberté supérieure a six mois ou a une peine plus sévére.",
+     "path": "art_12/ust_3",
+     "text": "Wydanie w celu wykonania kary następuje tylko z powodu takich przestępstw, które podlegają karze według prawa obu Umawiających się Stron, i jeżeli dana osoba została skazana na karę pozbawienia wolności powyżej sześciu miesięcy lub na karę surowszą.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "Lorsque la demande d'extradition porte sur plusieurs infractions distinctes dont chacune, selon la loi de deux Parties Contractantes est punie de la peine de privation de liberte mais dont certaines n’accomplissent pas les conditions próvues aux paragraphes 2 et 3, la Partie requise peut consentir a extradition pour ces infractions.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 13"
-      }
-     ]
-    },
+     "path": "art_12/ust_4",
+     "text": "Jeżeli wniosek o wydanie obejmuje kilka odrębnych przestępstw, z których każde według prawa obu Umawiających się Stron podlega karze pozbawienia wolności, lecz niektóre z nich nie odpowiadają warunkom przewidzianym w ustępach 2 i 3, Strona wezwana może wyrazić zgodę na wydanie również za te przestępstwa.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "L'extradition ne sera pas accordée aux cas suivants:",
+     "path": "art_13/ust_1",
+     "text": "Wniosku o wydanie nie uwzględnia się:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_3/pkt_1/lit_a",
-       "text": "lorsque la personne dont I'extradition est demandee est ressortissante de la Partie requise;",
+       "path": "art_13/ust_1/lit_a",
+       "text": "jeżeli osoba, której wydania zażądano, jest obywatelem Strony wezwanej,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_3/pkt_1/lit_b",
-       "text": "lorsque, en vertu de la loi de la Partie requise, |'accusation concerne une infraction a caractere politique ou une infraction militaire ou le jugement ne peut étre execute par suite de la prescription ou d'une autre circonstance próvue par la loi;",
+       "path": "art_13/ust_1/lit_b",
+       "text": "jeżeli według prawa Strony wezwanej oskarżenie dotyczy przestępstwa o charakterze politycznym lub przestępstwa wojskowego albo wyrok nie może być wykonany z powodu przedawnienia lub z powodu innej przyczyny przewidzianej ustawą,",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_3/pkt_1/lit_c",
-       "text": "lorsque la personne dont I'extradition est demandee a fait objet sur le territoire de la Partie requise d'un jugement passe en force de chose jugée concernant la meme infraction ou d'un non-lieu a moins qu'il ne s'agisse que d'une decision d incompetence;",
+       "path": "art_13/ust_1/lit_c",
+       "text": "jeżeli w stosunku do osoby, której wydania zażądano, wydany został na terytorium Strony wezwanej prawomocny wyrok dotyczący tego samego przestępstwa lub jeżeli postępowanie przeciwko niej zostało prawomocnie umorzone, chyba że orzeczenie takie zapadło w wyniku braku jurysdykcji,",
        "children": []
       },
       {
        "type": "lit",
        "num": "d",
-       "path": "ust_3/pkt_1/lit_d",
-       "text": "lorsque I'infraction pour laquelle I'extradition est demandée est poursuivie, selon les lois de deux Parties Contractantes exclusivement sur accusation de la personne lesće;",
+       "path": "art_13/ust_1/lit_d",
+       "text": "jeżeli przestępstwo, z którego powodu żąda się wydania, jest ścigane, stosownie do prawa obu Umawiających się Stron, wyłącznie z oskarżenia osoby pokrzywdzonej,",
        "children": []
       },
       {
        "type": "lit",
        "num": "e",
-       "path": "ust_3/pkt_1/lit_e",
-       "text": "lorsque I'infraction a été commise sur le territoire de la Partie requise.",
+       "path": "art_13/ust_1/lit_e",
+       "text": "jeżeli przestępstwo zostało popełnione na terytorium Strony wezwanej.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "La Partie requise peut en outre refuser I'extradition lorsque celle-ci est demandée en raison d'une infraction commise sur le territoire d'un Etat tiers et un jugement a déja ete rendu dans cet Etat. L'extradition est toutefois accordée lorsque I'acte a ete également commis sur le territoire de la Partie requérante ou lorsqu'il a porte atteinte aux interéts importants de cette Partie et I'extradition serait en faveur de I'etablissement de la verité, de | importance de la peine ou de son exócution.",
+     "path": "art_13/ust_2",
+     "text": "Ponadto Strona wezwana może odmówić wydania, jeżeli wydania żąda się z powodu przestępstwa popełnionego naterytorium trzeciego państwa i wyrok został już wydany w tym państwie. Jednakże wyraża ona zgodę na wydanie, jeżeli czyn został popełniony również na terytorium Strony wzywającej lub naruszył ważne interesy tej Strony, a ekstradycja jest wskazana ze względu na potrzebę ustalenia prawdy, wymiar kary lub jej wykonanie.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "Si la Partie requise refuse I'extradition parce que la personne 4 extrader est son ressortissant, elle devra, sur la",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "powinna, na wniosek Strony wzywającej, wszcząć postępowanie karne. Strona wzywająca przekaże wszelkie dokumenty, informacje i inne dowody dotyczące przestępstwa. O wyniku postępowania zawiadamia się Stronę wzywającą."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 14"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Do wniosku o wydanie należy dołączyć uwierzytelniony odpis prawomocnego wyroku, jak również pełny tekst przepisu ustawy, według którego zakwalifikowano przestępstwo. Jeżeli skazany odbył już część kary, należy o tym zawiadomić.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do wniosku o wydanie w celu przeprowadzenia postępowania karnego należy dołączyć uwierzytelniony odpis postanowienia o tymczasowym aresztowaniu, opis okoliczności popełnienia przestępstwa, jak również tekst przepisu ustawy, według którego przestępstwo zostało zakwalifikowane. Jeżeli przestępstwo spowodowało szkodę majątkową, należy w miarę możliwości wskazać jej wysokość.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Do wniosku dołącza się dane o obywatelstwie, a w miarę możności rysopis osoby, której wydania zażądano, dane o jej tożsamości, sytuacji osobistej i miejscu zamieszkania oraz jej fotografię i odciski palców.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Umawiająca się Strona, która żąda wydania, nie ma obowiązku dołączania do wniosku dowodów dotyczących czynu popełnionego przez osobę, której wydania zażądano.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wniosek o wydanie nie zawiera wszystkich niezbędnych danych, Strona wezwana może zażądać jego uzupełnienia. W tym celu może ona zakreślić termin, który nie powinien przekraczać dwóch miesięcy, lecz który może być przedłużony z usprawiedliwionych przyczyn."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Po otrzymaniu wniosku o wydanie Strona wezwana poczyni niezwłocznie, co należy, aby aresztować osobę, której wydania zażądano. Nie dotyczy to wypadków, gdy wydanie, stosownie do niniejszej umowy, nie może nastąpić."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoba, której wydania zażądano, może być tymczasowo aresztowana przed otrzymaniem wniosku o wydanie, jeżeli o jej aresztowanie wnosi Strona wzywająca, zapewniając, że wydano postanowienie o tymczasowym aresztowaniu danej osoby lub że zapadł prawomocny wyrok skazujący albo inne orzeczenie sądu. Wniosek taki może być demande de la Partie requerante, entamer les poursuites judiciaires. Les dossiers, informations et autres preuves relatives a I'infraction seront adressćs par la Partie requćrante. La Partie requérante sera informée du résultat de ces poursuites.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 14"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "La demande d'extradition doit étre accompagnée d'une copie certifiśe conforme du jugement passé en force de chose jugée ainsi que du texte integral de la disposition legale qui donne la qualification de l'infraction. Si le condamné a deja purge une partie de sa peine, il y a lieu de la préciser.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "La demande d'extradition en vue d'une poursuite pénale doit étre accompagnée d une copie certifiee conforme de la decision prononcant la detention provisoire, la description des faits delictueux et le texte de la disposition legale qui donne la qualification de Iinfraction. Si l'infraction a cause un dommage matériel, dans la mesure du possible, il y a lieu d'en próciser le montant.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "Lademande d'extradition doit étre accompagnee des informations sur la nationalite de la personne dont I'extradition est demandeée et dans la mesure du possible, de son signalement, des renseignements concernant son identitć, sa situation personnelle, son domicile, de sa photographie et de ses empreintes digitales.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_1/pkt_4",
-     "text": "La Partie Contractante qui demande |'extradition n'est pas tenue dannexer a sa demande les pieces a conviction se rapportant a l'acte commis par la personne dont I’extradition est demandée.",
+     "path": "art_13/ust_3",
+     "text": "Jeżeli Strona wezwana odmówi wydania z tego powodu, że osoba, która ma być wydana, jest jej obywatelem,",
      "children": [
       {
        "type": "text",
-       "text": "Article 15"
+       "text": "CHAPITRE 3"
       },
       {
        "type": "text",
-       "text": "Si la demande d'extradition ne comporte pas tous les renseignements necessaires, la Partie requise peut demander qu'elle soit complétée. A cet effet elle pourra fixer un delai qui ne devra pas exceder deux mois mais qui pourra étre prolonge pour des motifs justifies."
+       "text": "Extradition des personnes"
       },
       {
        "type": "text",
-       "text": "Article 16"
+       "text": "Article 12"
       },
       {
-       "type": "text",
-       "text": "Apres avoir recu la demande d'extradition, la Partie requise prendra sans délai des mesures utiles pour arréter la personne visée par la demande. Ceci ne concerne pas les cas ou ['extradition ne peut intervenir aux termes de la présente Convention."
-      },
-      {
-       "type": "text",
-       "text": "Article 17"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "La personne dont I'extradition est reclamée peut étre provisoirement arrótee avant la reception de la demande d'extradition lorsque cela est demande par la Partie requerante qui affirme en méme temps quune dócision sur I'arrestation provisoire, un jugement de condamnation passe en force de chose jugée ou une autre décision judiciaire ont",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "zgłoszony przez pocztę, telegraf lub za pomocą innych środków przekazujących treść wniosku na piśmie."
-      },
-      {
-       "type": "text",
-       "text": "2, Wyjątkowo, w nagłych wypadkach, właściwe organy Umawiających się Stron mogą tymczasowo aresztować osobę znajdującą się na ich terytorium, nawet bez zgłoszenia takiego wniosku, jeżeli posiadają wiadomość, że dana osoba na terytorium drugiej Umawiającej się Strony popełniła przestępstwo uzasadniające wydanie."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "O dniu tymczasowego aresztowania przewidzianego w ustępach 1 i 2 należy niezwłocznie zawiadomić drugą Umawiającą się Stronę.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 18"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoba tymczasowo aresztowana, stosownie do artykułu 17 niniejszej umowy, może być zwolniona, jeżeli wniosek o wydanie lub jego uzupełnienie nie nadejdzie w ciągu czterdziestu pięciu dni, licząc od zawiadomienia drugiej Strony o aresztowaniu tej osoby. Na wniosek Strony wzywającej termin ten może być przedłużony o piętnaście dni.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wezwana Umawiająca się Strona zwolni niezwłocznie tymczasowo aresztowanego, jeżeli otrzyma wiadomość, że Strona wzywająca nie zamierza wystąpić z wnioskiem o wydanie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Po rozpoznaniu wniosku o wydanie Strona wezwana może odroczyć przekazanie osoby, o której wydanie wnoszono, w celu wszczęcia przeciwko niej postępowania karnego lub odbycia przez nią na terytorium tej Strony kary orzeczonej za przestępstwo inne niż to, które stanowiło podstawę wniosku o wydanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nie odraczając przekazania, Strona wezwana może przekazać czasowo Stronie wzywającej osobę, o której wydanie wnoszono. Osoba wydana czasowo powinna być przekazana z powrotem niezwłocznie po dokonaniu czynności w sprawie karnej, dla których została ona wydana, a w każdym razie nie później niż przed upływem czterech miesięcy od dnia przekazania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli kilka państw zwraca się o wydanie tej samej osoby, Strona wezwana decyduje, któremu ze zgłoszonych wniosków należy dać pierwszeństwo."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoba wydana nie może być bez zgody Strony wezwanej ścigana ani nie można w stosunku do niej",
-   "children": [
-    {
-     "type": "text",
-     "text": "Poz, 224"
-    },
-    {
-     "type": "text",
-     "text": "été rendus a l'encontre de cette personne. La demande d'arrestation provisoire peut 6tre adressée par voie postale, télégraphique ou par tout autre moyen laissant trace écrite."
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "En cas durgence, les autorites compétentes des Parties Contractantes peuvent arréter provisoirement, a titre d'exception, une personne qui se trouve sur leur territoire méme sans la demande próuve au paragraphe 1, s'ils ont la connaissance que cette personne a commis sur le territoire de l'autre Partie Contractante une infraction justifiant |'extradition.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "L'autre Partie Contractante doit étre immédiatement informée de la date de I'arrestation provisoire prévue aux paragraphes 1 et 2 du present article.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 18"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "La personne provisoirement arrótee conformement a l'article 17 de la présente Convention peut étre libérée si la demande d'extradition ou la demande de compléter celle-ci n'est pas recue dańs le délai de quarante-cinq jours a compter de la notification de I'autre Partie de I'arrestation de cette personne. Ce délai pourra étre prolongé de quinze jours a la demande de la Partie requérante.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "La Partie Contractante requise mettra immódiatement en liberte la personne provisoirement arretee si elle est informée que la Partie requérante n'a plus I'intention de demander |'extradition.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 19"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "La Partie requise pourra, apres avoir statue sur la demande d'extradition, ajourner la remise de I'individu reclame pour qu'il puisse étre poursuivi par elle ou pour qu'il puisse purger, sur son territoire, une peine encourue 4 raison d'un fait autre que celui pour lequel I'extradition est demandee.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Au lieu d'ajourner la remise, la Partie requise pourra remettre temporairement a la Partie requérante |I'individu reclamé. La personne temporairement extradée doit étre immediatement retournée aprés | accomplissement de I'acte de procédure a |' occasion duquel elle a été extradée et au plus tard dans un délai qui ne pourra pas excéder quatre mois a compter de la date de |'extradition temporaire.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 20"
-      },
-      {
-       "type": "text",
-       "text": "Lorsque plusieurs Etats demandent I'extradition de la méme personne, la Partie requise décide a quelle demande il sera donné suite."
-      },
-      {
-       "type": "text",
-       "text": "Article 21"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Sans le consentement de la Partie requise, la personne extradée ne peut faire objet dune poursuite pénale ni",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "wykonać kary za inne przestępstwo popełnione przed wydaniem niż to, które było podstawą wydania, jak również nie można jej wydać państwu trzeciemu za czyny popełnione przed jej wydaniem."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zgoda ta nie jest wymagana w następujących wypadkach:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "jeżeli osoba wydana nie opuściła terytorium tej Umawiającej się Strony, której została wydana, w ciągu miesiąca od dnia zakończenia postępowania w sprawie, a w razie jej skazania — od dnia odbycia kary. Do tego terminu nie wlicza się czasu, w ciągu którego osoba wydana, z przyczyn od siebie niezależnych, nie mogła opuścić terytorium Strony wzywającej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "jeżeli osoba wydana, po opuszczeniu terytorium Strony wzywającej, następnie dobrowolnie tam powróciła.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 22"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Strona wezwana zawiadamia Stronę wzywającą o swojej decyzji w przedmiocie wydania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W wypadku całkowitego lub częściowego nieuwzględnienia wniosku o wydanie, zostanie przekazane Stronie wzywającej uzasadnienie decyzji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W wypadku zgody na wydanie, wezwana Umawiająca się Strona zawiadamia wzywającą Umawiającą się Stronę o miejscu i czasie wydania. Jeżeli Strona wzywająca nie przejmie osoby, której się domagała, w ciągu miesiąca od wyznaczonego dnia wydania, osoba ta może zostać zwolniona.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wydana osoba uchyli się od wymiaru sprawiedliwości i powróci na terytorium Strony wezwanej, podlega ona wydaniu na ponowny wniosek bez potrzeby przesyłania materiałów wymienionych w artykule 14 niniejszej umowy."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 24"
-    },
-    {
-     "type": "text",
-     "text": "Wniosek o wydanie, jak również udzielona odpowiedź przesyłane będą w drodze dyplomatycznej. W wypadkach nie cierpiących zwłoki inne dokumenty, jak również wnioski o tymczasowe aresztowanie, pozostające w związku z wydaniem, mogą być przekazywane w trybie określonym w artykule 1 ustępie 1."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 25"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda z Umawiających się Stron zezwoli na wniosek drugiej Strony na przewóz przez swoje terytorium osób purger une peine pour une infraction commise avant I'extradition et autre que celle ayant justifié I'extradition ni tre livrée a un Etat tiers pour des infractions antérieures a la remise.",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Le consentement n'est pas exigé lorsque:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_1/pkt_2/lit_a",
-       "text": "la personne extradée n'a pas quitté le territoire de la Partie Contractante a laquelle elle avait été extradée, dans le délai d'un mois a partir de la clóture de la procedure ou, en cas de condamnation, a partir de l'exécution de la peine. Ce délai ne comprend pas le temps durant lequel la personne extradée, pour des raisons indépendantes de sa volonte, était dans I' impossibilite de quitter le territoire de la Partie requérante;",
+       "type": "pkt",
+       "num": "1",
+       "path": "art_13/ust_3/pkt_1",
+       "text": "Conformement aux dispositions de la presente Convention, les Parties Contractantes sengagent a se livrer mutuellement sur demande les personnes séjournant sur leur territoire en vue d'une poursuite pénale ou de I'execution d'une peine privative de liberte.",
        "children": []
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_1/pkt_2/lit_b",
-       "text": "la personne extradée, apres avoir quitte le territoire de la Partie requćrante, y est rentree de son plein gre.",
+       "type": "pkt",
+       "num": "2",
+       "path": "art_13/ust_3/pkt_2",
+       "text": "L'extradition en vue d'une poursuite penale ne peut intervenir que pour les infractions qui, selon la loi de deux Parties Contractantes, sont passibles d'une peine privative de liberte supérieure a six mois ou d'une peine plus severe.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_13/ust_3/pkt_3",
+       "text": "L'extradition en vue d’exécution d'une peine ne peut intervenir que pour les infractions punies par la loi de deux Parties Contractantes et lorsque la personne concernée a été condamnée a une peine privative de liberté supérieure a six mois ou a une peine plus sévére.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_13/ust_3/pkt_4",
+       "text": "Lorsque la demande d'extradition porte sur plusieurs infractions distinctes dont chacune, selon la loi de deux Parties Contractantes est punie de la peine de privation de liberte mais dont certaines n’accomplissent pas les conditions próvues aux paragraphes 2 et 3, la Partie requise peut consentir a extradition pour ces infractions.",
        "children": [
         {
          "type": "text",
-         "text": "\" Article 22"
+         "text": "Article 13"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_13/ust_3/pkt_1",
+       "text": "L'extradition ne sera pas accordée aux cas suivants:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_13/ust_3/pkt_1/lit_a",
+         "text": "lorsque la personne dont I'extradition est demandee est ressortissante de la Partie requise;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_13/ust_3/pkt_1/lit_b",
+         "text": "lorsque, en vertu de la loi de la Partie requise, |'accusation concerne une infraction a caractere politique ou une infraction militaire ou le jugement ne peut étre execute par suite de la prescription ou d'une autre circonstance próvue par la loi;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_13/ust_3/pkt_1/lit_c",
+         "text": "lorsque la personne dont I'extradition est demandee a fait objet sur le territoire de la Partie requise d'un jugement passe en force de chose jugée concernant la meme infraction ou d'un non-lieu a moins qu'il ne s'agisse que d'une decision d incompetence;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_13/ust_3/pkt_1/lit_d",
+         "text": "lorsque I'infraction pour laquelle I'extradition est demandée est poursuivie, selon les lois de deux Parties Contractantes exclusivement sur accusation de la personne lesće;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_13/ust_3/pkt_1/lit_e",
+         "text": "lorsque I'infraction a été commise sur le territoire de la Partie requise.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_13/ust_3/pkt_2",
+       "text": "La Partie requise peut en outre refuser I'extradition lorsque celle-ci est demandée en raison d'une infraction commise sur le territoire d'un Etat tiers et un jugement a déja ete rendu dans cet Etat. L'extradition est toutefois accordée lorsque I'acte a ete également commis sur le territoire de la Partie requérante ou lorsqu'il a porte atteinte aux interéts importants de cette Partie et I'extradition serait en faveur de I'etablissement de la verité, de | importance de la peine ou de son exócution.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_13/ust_3/pkt_3",
+       "text": "Si la Partie requise refuse I'extradition parce que la personne 4 extrader est son ressortissant, elle devra, sur la",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "powinna, na wniosek Strony wzywającej, wszcząć postępowanie karne. Strona wzywająca przekaże wszelkie dokumenty, informacje i inne dowody dotyczące przestępstwa. O wyniku postępowania zawiadamia się Stronę wzywającą."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Do wniosku o wydanie należy dołączyć uwierzytelniony odpis prawomocnego wyroku, jak również pełny tekst przepisu ustawy, według którego zakwalifikowano przestępstwo. Jeżeli skazany odbył już część kary, należy o tym zawiadomić.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Do wniosku o wydanie w celu przeprowadzenia postępowania karnego należy dołączyć uwierzytelniony odpis postanowienia o tymczasowym aresztowaniu, opis okoliczności popełnienia przestępstwa, jak również tekst przepisu ustawy, według którego przestępstwo zostało zakwalifikowane. Jeżeli przestępstwo spowodowało szkodę majątkową, należy w miarę możliwości wskazać jej wysokość.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Do wniosku dołącza się dane o obywatelstwie, a w miarę możności rysopis osoby, której wydania zażądano, dane o jej tożsamości, sytuacji osobistej i miejscu zamieszkania oraz jej fotografię i odciski palców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Umawiająca się Strona, która żąda wydania, nie ma obowiązku dołączania do wniosku dowodów dotyczących czynu popełnionego przez osobę, której wydania zażądano.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Jeżeli wniosek o wydanie nie zawiera wszystkich niezbędnych danych, Strona wezwana może zażądać jego uzupełnienia. W tym celu może ona zakreślić termin, który nie powinien przekraczać dwóch miesięcy, lecz który może być przedłużony z usprawiedliwionych przyczyn.",
+   "children": [],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Po otrzymaniu wniosku o wydanie Strona wezwana poczyni niezwłocznie, co należy, aby aresztować osobę, której wydania zażądano. Nie dotyczy to wypadków, gdy wydanie, stosownie do niniejszej umowy, nie może nastąpić.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Osoba, której wydania zażądano, może być tymczasowo aresztowana przed otrzymaniem wniosku o wydanie, jeżeli o jej aresztowanie wnosi Strona wzywająca, zapewniając, że wydano postanowienie o tymczasowym aresztowaniu danej osoby lub że zapadł prawomocny wyrok skazujący albo inne orzeczenie sądu. Wniosek taki może być demande de la Partie requerante, entamer les poursuites judiciaires. Les dossiers, informations et autres preuves relatives a I'infraction seront adressćs par la Partie requćrante. La Partie requérante sera informée du résultat de ces poursuites.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_17/ust_1/pkt_1",
+       "text": "La demande d'extradition doit étre accompagnée d'une copie certifiśe conforme du jugement passé en force de chose jugée ainsi que du texte integral de la disposition legale qui donne la qualification de l'infraction. Si le condamné a deja purge une partie de sa peine, il y a lieu de la préciser.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_17/ust_1/pkt_2",
+       "text": "La demande d'extradition en vue d'une poursuite pénale doit étre accompagnée d une copie certifiee conforme de la decision prononcant la detention provisoire, la description des faits delictueux et le texte de la disposition legale qui donne la qualification de Iinfraction. Si l'infraction a cause un dommage matériel, dans la mesure du possible, il y a lieu d'en próciser le montant.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_17/ust_1/pkt_3",
+       "text": "Lademande d'extradition doit étre accompagnee des informations sur la nationalite de la personne dont I'extradition est demandeée et dans la mesure du possible, de son signalement, des renseignements concernant son identitć, sa situation personnelle, son domicile, de sa photographie et de ses empreintes digitales.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_17/ust_1/pkt_4",
+       "text": "La Partie Contractante qui demande |'extradition n'est pas tenue dannexer a sa demande les pieces a conviction se rapportant a l'acte commis par la personne dont I’extradition est demandée.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 15"
+        },
+        {
+         "type": "text",
+         "text": "Si la demande d'extradition ne comporte pas tous les renseignements necessaires, la Partie requise peut demander qu'elle soit complétée. A cet effet elle pourra fixer un delai qui ne devra pas exceder deux mois mais qui pourra étre prolonge pour des motifs justifies."
+        },
+        {
+         "type": "text",
+         "text": "Article 16"
+        },
+        {
+         "type": "text",
+         "text": "Apres avoir recu la demande d'extradition, la Partie requise prendra sans délai des mesures utiles pour arréter la personne visée par la demande. Ceci ne concerne pas les cas ou ['extradition ne peut intervenir aux termes de la présente Convention."
+        },
+        {
+         "type": "text",
+         "text": "Article 17"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_17/ust_1/pkt_1",
+       "text": "La personne dont I'extradition est reclamée peut étre provisoirement arrótee avant la reception de la demande d'extradition lorsque cela est demande par la Partie requerante qui affirme en méme temps quune dócision sur I'arrestation provisoire, un jugement de condamnation passe en force de chose jugée ou une autre décision judiciaire ont",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "zgłoszony przez pocztę, telegraf lub za pomocą innych środków przekazujących treść wniosku na piśmie."
+        },
+        {
+         "type": "text",
+         "text": "2, Wyjątkowo, w nagłych wypadkach, właściwe organy Umawiających się Stron mogą tymczasowo aresztować osobę znajdującą się na ich terytorium, nawet bez zgłoszenia takiego wniosku, jeżeli posiadają wiadomość, że dana osoba na terytorium drugiej Umawiającej się Strony popełniła przestępstwo uzasadniające wydanie."
         }
        ]
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "La Partie requise informe la Partie requérante de sa decision sur I'extradition.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "En cas de rejet total ou partiel de la demande d'extradition, les motifs de la decision seront communiqués a la Partie requérante.",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "En cas d admission de |'extradition, la Partie requise informe la Partie requerante du lieu et de la date de Fextradition. La personne dont I'extradition a été accordée sera mise en liberté si la Partie requérante ne la prend pas en charge dans un delai d'un mois a partir du jour fixé pour l‘extradition.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 23"
-      },
-      {
-       "type": "text",
-       "text": "Si la personne extradée se soustrait a la justice et revient sur le territoire de la Partie requise, lors d'une nouvelle demande d'extradition de la Partie requérante la transmission des piéces citées a l'article 14 de la présente Convention ne sera pas exigée."
-      },
-      {
-       "type": "text",
-       "text": "Article 24"
-      },
-      {
-       "type": "text",
-       "text": "La demande d'extradition ainsi que la reponse a celle-ci seront presentóes par la voie diplomatique. En cas d‘urgence les autres communications relatives a l'extradition, ainsi que la demande de I'arrestation provisoire pourront se faire conformement a |'article 1, paragraphe 1 de la présente Convention."
-      },
-      {
-       "type": "text",
-       "text": "Article 25"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Chacune des Parties Contractantes autorisera, sur demande de I'autre Partie, le transit a travers son territoire des",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "wydanych tej Stronie przez inne państwo. Umawiające się Strony nie mają tego obowiązku, jeżeli stosownie do przepisów niniejszej umowy nie istnieje obowiązek wydania."
-      }
-     ]
+     "path": "art_17/ust_3",
+     "text": "O dniu tymczasowego aresztowania przewidzianego w ustępach 1 i 2 należy niezwłocznie zawiadomić drugą Umawiającą się Stronę.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wniosek o przewóz powinien być zgłoszony w takim samym trybie jak wniosek o wydanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy Umawiających się Stron porozumiewają się w każdym wypadku co do sposobów, trasy i innych warunków przewozu.",
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 26"
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Osoba tymczasowo aresztowana, stosownie do artykułu 17 niniejszej umowy, może być zwolniona, jeżeli wniosek o wydanie lub jego uzupełnienie nie nadejdzie w ciągu czterdziestu pięciu dni, licząc od zawiadomienia drugiej Strony o aresztowaniu tej osoby. Na wniosek Strony wzywającej termin ten może być przedłużony o piętnaście dni.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Umawiające się Strony informują się wzajemnie o wynikach postępowania karnego wobec wydanych osób. Na wniosek przekazują one sobie również odpis prawomocnego orzeczenia."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 27"
-    },
-    {
-     "type": "text",
-     "text": "Prawo Strony wezwanej jest wyłącznie właściwe do postępowania w sprawie wydania i tymczasowego aresztowania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 28"
-    },
-    {
-     "type": "text",
-     "text": "Do dokumentów załączonych do wniosku o wydanie należy dołączyć ich uwierzytelnione tłumaczenie na język Strony wezwanej, na język francuski lub na język angielski."
+     "type": "ust",
+     "num": "2",
+     "path": "art_18/ust_2",
+     "text": "Wezwana Umawiająca się Strona zwolni niezwłocznie tymczasowo aresztowanego, jeżeli otrzyma wiadomość, że Strona wzywająca nie zamierza wystąpić z wnioskiem o wydanie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 18"
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Po rozpoznaniu wniosku o wydanie Strona wezwana może odroczyć przekazanie osoby, o której wydanie wnoszono, w celu wszczęcia przeciwko niej postępowania karnego lub odbycia przez nią na terytorium tej Strony kary orzeczonej za przestępstwo inne niż to, które stanowiło podstawę wniosku o wydanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Nie odraczając przekazania, Strona wezwana może przekazać czasowo Stronie wzywającej osobę, o której wydanie wnoszono. Osoba wydana czasowo powinna być przekazana z powrotem niezwłocznie po dokonaniu czynności w sprawie karnej, dla których została ona wydana, a w każdym razie nie później niż przed upływem czterech miesięcy od dnia przekazania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 19"
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Jeżeli kilka państw zwraca się o wydanie tej samej osoby, Strona wezwana decyduje, któremu ze zgłoszonych wniosków należy dać pierwszeństwo.",
+   "children": [],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Osoba wydana nie może być bez zgody Strony wezwanej ścigana ani nie można w stosunku do niej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz, 224"
+      },
+      {
+       "type": "text",
+       "text": "été rendus a l'encontre de cette personne. La demande d'arrestation provisoire peut 6tre adressée par voie postale, télégraphique ou par tout autre moyen laissant trace écrite."
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_21/ust_1/pkt_2",
+       "text": "En cas durgence, les autorites compétentes des Parties Contractantes peuvent arréter provisoirement, a titre d'exception, une personne qui se trouve sur leur territoire méme sans la demande próuve au paragraphe 1, s'ils ont la connaissance que cette personne a commis sur le territoire de l'autre Partie Contractante une infraction justifiant |'extradition.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_21/ust_1/pkt_3",
+       "text": "L'autre Partie Contractante doit étre immédiatement informée de la date de I'arrestation provisoire prévue aux paragraphes 1 et 2 du present article.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 18"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_21/ust_1/pkt_1",
+       "text": "La personne provisoirement arrótee conformement a l'article 17 de la présente Convention peut étre libérée si la demande d'extradition ou la demande de compléter celle-ci n'est pas recue dańs le délai de quarante-cinq jours a compter de la notification de I'autre Partie de I'arrestation de cette personne. Ce délai pourra étre prolongé de quinze jours a la demande de la Partie requérante.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_21/ust_1/pkt_2",
+       "text": "La Partie Contractante requise mettra immódiatement en liberte la personne provisoirement arretee si elle est informée que la Partie requérante n'a plus I'intention de demander |'extradition.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 19"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_21/ust_1/pkt_1",
+       "text": "La Partie requise pourra, apres avoir statue sur la demande d'extradition, ajourner la remise de I'individu reclame pour qu'il puisse étre poursuivi par elle ou pour qu'il puisse purger, sur son territoire, une peine encourue 4 raison d'un fait autre que celui pour lequel I'extradition est demandee.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_21/ust_1/pkt_2",
+       "text": "Au lieu d'ajourner la remise, la Partie requise pourra remettre temporairement a la Partie requérante |I'individu reclamé. La personne temporairement extradée doit étre immediatement retournée aprés | accomplissement de I'acte de procédure a |' occasion duquel elle a été extradée et au plus tard dans un délai qui ne pourra pas excéder quatre mois a compter de la date de |'extradition temporaire.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 20"
+        },
+        {
+         "type": "text",
+         "text": "Lorsque plusieurs Etats demandent I'extradition de la méme personne, la Partie requise décide a quelle demande il sera donné suite."
+        },
+        {
+         "type": "text",
+         "text": "Article 21"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_21/ust_1/pkt_1",
+       "text": "Sans le consentement de la Partie requise, la personne extradée ne peut faire objet dune poursuite pénale ni",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wykonać kary za inne przestępstwo popełnione przed wydaniem niż to, które było podstawą wydania, jak również nie można jej wydać państwu trzeciemu za czyny popełnione przed jej wydaniem."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Zgoda ta nie jest wymagana w następujących wypadkach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_21/ust_2/lit_a",
+       "text": "jeżeli osoba wydana nie opuściła terytorium tej Umawiającej się Strony, której została wydana, w ciągu miesiąca od dnia zakończenia postępowania w sprawie, a w razie jej skazania — od dnia odbycia kary. Do tego terminu nie wlicza się czasu, w ciągu którego osoba wydana, z przyczyn od siebie niezależnych, nie mogła opuścić terytorium Strony wzywającej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_21/ust_2/lit_b",
+       "text": "jeżeli osoba wydana, po opuszczeniu terytorium Strony wzywającej, następnie dobrowolnie tam powróciła.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 21"
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "Strona wezwana zawiadamia Stronę wzywającą o swojej decyzji w przedmiocie wydania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "W wypadku całkowitego lub częściowego nieuwzględnienia wniosku o wydanie, zostanie przekazane Stronie wzywającej uzasadnienie decyzji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_22/ust_3",
+     "text": "W wypadku zgody na wydanie, wezwana Umawiająca się Strona zawiadamia wzywającą Umawiającą się Stronę o miejscu i czasie wydania. Jeżeli Strona wzywająca nie przejmie osoby, której się domagała, w ciągu miesiąca od wyznaczonego dnia wydania, osoba ta może zostać zwolniona.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 22"
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Jeżeli wydana osoba uchyli się od wymiaru sprawiedliwości i powróci na terytorium Strony wezwanej, podlega ona wydaniu na ponowny wniosek bez potrzeby przesyłania materiałów wymienionych w artykule 14 niniejszej umowy.",
+   "children": [],
+   "label": "Artykuł 23"
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Wniosek o wydanie, jak również udzielona odpowiedź przesyłane będą w drodze dyplomatycznej. W wypadkach nie cierpiących zwłoki inne dokumenty, jak również wnioski o tymczasowe aresztowanie, pozostające w związku z wydaniem, mogą być przekazywane w trybie określonym w artykule 1 ustępie 1.",
+   "children": [],
+   "label": "Artykuł 24"
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_25/ust_1",
+     "text": "Każda z Umawiających się Stron zezwoli na wniosek drugiej Strony na przewóz przez swoje terytorium osób purger une peine pour une infraction commise avant I'extradition et autre que celle ayant justifié I'extradition ni tre livrée a un Etat tiers pour des infractions antérieures a la remise.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_25/ust_1/pkt_2",
+       "text": "Le consentement n'est pas exigé lorsque:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_25/ust_1/pkt_2/lit_a",
+         "text": "la personne extradée n'a pas quitté le territoire de la Partie Contractante a laquelle elle avait été extradée, dans le délai d'un mois a partir de la clóture de la procedure ou, en cas de condamnation, a partir de l'exécution de la peine. Ce délai ne comprend pas le temps durant lequel la personne extradée, pour des raisons indépendantes de sa volonte, était dans I' impossibilite de quitter le territoire de la Partie requérante;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_25/ust_1/pkt_2/lit_b",
+         "text": "la personne extradée, apres avoir quitte le territoire de la Partie requćrante, y est rentree de son plein gre.",
+         "children": [
+          {
+           "type": "text",
+           "text": "\" Article 22"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_25/ust_1/pkt_1",
+       "text": "La Partie requise informe la Partie requérante de sa decision sur I'extradition.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_25/ust_1/pkt_2",
+       "text": "En cas de rejet total ou partiel de la demande d'extradition, les motifs de la decision seront communiqués a la Partie requérante.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_25/ust_1/pkt_3",
+       "text": "En cas d admission de |'extradition, la Partie requise informe la Partie requerante du lieu et de la date de Fextradition. La personne dont I'extradition a été accordée sera mise en liberté si la Partie requérante ne la prend pas en charge dans un delai d'un mois a partir du jour fixé pour l‘extradition.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 23"
+        },
+        {
+         "type": "text",
+         "text": "Si la personne extradée se soustrait a la justice et revient sur le territoire de la Partie requise, lors d'une nouvelle demande d'extradition de la Partie requérante la transmission des piéces citées a l'article 14 de la présente Convention ne sera pas exigée."
+        },
+        {
+         "type": "text",
+         "text": "Article 24"
+        },
+        {
+         "type": "text",
+         "text": "La demande d'extradition ainsi que la reponse a celle-ci seront presentóes par la voie diplomatique. En cas d‘urgence les autres communications relatives a l'extradition, ainsi que la demande de I'arrestation provisoire pourront se faire conformement a |'article 1, paragraphe 1 de la présente Convention."
+        },
+        {
+         "type": "text",
+         "text": "Article 25"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_25/ust_1/pkt_1",
+       "text": "Chacune des Parties Contractantes autorisera, sur demande de I'autre Partie, le transit a travers son territoire des",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wydanych tej Stronie przez inne państwo. Umawiające się Strony nie mają tego obowiązku, jeżeli stosownie do przepisów niniejszej umowy nie istnieje obowiązek wydania."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_25/ust_2",
+     "text": "Wniosek o przewóz powinien być zgłoszony w takim samym trybie jak wniosek o wydanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_25/ust_3",
+     "text": "Właściwe organy Umawiających się Stron porozumiewają się w każdym wypadku co do sposobów, trasy i innych warunków przewozu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 25"
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Umawiające się Strony informują się wzajemnie o wynikach postępowania karnego wobec wydanych osób. Na wniosek przekazują one sobie również odpis prawomocnego orzeczenia.",
+   "children": [],
+   "label": "Artykuł 26"
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Prawo Strony wezwanej jest wyłącznie właściwe do postępowania w sprawie wydania i tymczasowego aresztowania.",
+   "children": [],
+   "label": "Artykuł 27"
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Do dokumentów załączonych do wniosku o wydanie należy dołączyć ich uwierzytelnione tłumaczenie na język Strony wezwanej, na język francuski lub na język angielski.",
+   "children": [],
+   "label": "Artykuł 28"
   },
   {
    "type": "heading",
@@ -1391,496 +1462,520 @@
    "text": "Przekazywanie osób skazanych w celu wykonania kary w Państwie, którego są obywatelami"
   },
   {
-   "type": "text",
-   "text": "Artykuł 29"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Obywatele jednej Umawiającej się Strony, skazani prawomocnym wyrokiem na karę pozbawienia wolności na terytorium drugiej Umawiającej się Strony, będą przekazywani, za obopólną zgodą tych Stron, na warunkach przewidzianych w niniejszej umowie, tej Umawiającej się Stronie, której są obywatelami, w celu wykonywania kary na terytorium tej Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przekazanie skazanego w celu wykonania kary następuje na wniosek Umawiającej się Strony, której sąd wydał wyrok skazujący (Państwo skazania), jeżeli druga Umawiająca się Strona (Państwo wykonania) zgadza się go przyjąć.",
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "personnes extradćes a cette Partie par un autre Etat. Les Parties Contractantes n'y seront pas tenues lorsque, selon les dispositions de la presente Convention, I'obligation d'extradition n'existe pas."
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "La requete sollicitant le transit sera notifiée suivant la meme procódure que la demande d'extradition.",
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "Obywatele jednej Umawiającej się Strony, skazani prawomocnym wyrokiem na karę pozbawienia wolności na terytorium drugiej Umawiającej się Strony, będą przekazywani, za obopólną zgodą tych Stron, na warunkach przewidzianych w niniejszej umowie, tej Umawiającej się Stronie, której są obywatelami, w celu wykonywania kary na terytorium tej Strony.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Przekazanie skazanego w celu wykonania kary następuje na wniosek Umawiającej się Strony, której sąd wydał wyrok skazujący (Państwo skazania), jeżeli druga Umawiająca się Strona (Państwo wykonania) zgadza się go przyjąć.",
+     "children": [
+      {
+       "type": "text",
+       "text": "personnes extradćes a cette Partie par un autre Etat. Les Parties Contractantes n'y seront pas tenues lorsque, selon les dispositions de la presente Convention, I'obligation d'extradition n'existe pas."
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_29/ust_2/pkt_2",
+       "text": "La requete sollicitant le transit sera notifiée suivant la meme procódure que la demande d'extradition.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_29/ust_2/pkt_3",
+       "text": "Les autorites compétentes des Parties Contractantes s' entendront dans chaque cas sur les modalitćs, le trajet et les autres conditions du transit.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 26"
+        },
+        {
+         "type": "text",
+         "text": "Les parties Contractantes se communiqueront mutuellement les résultats de la procedure penale engagée contre les personnes extradées. Elles se communiqueront également, sur demande, une copie de la décision passée en force de chose jugee."
+        },
+        {
+         "type": "text",
+         "text": "Article 27"
+        },
+        {
+         "type": "text",
+         "text": "La loi de la Partie requise est seule applicable a procédure de I'extradition ainsi qu'a celle de I'arrestation provisoire."
+        },
+        {
+         "type": "text",
+         "text": "Article 28"
+        },
+        {
+         "type": "text",
+         "text": "Les piéces a produire a l'appui d'une demande d'extradition seront accompagnees d'une traduction certifiee conforme dans la langue de la Partie requise, en francais ou en anglais."
+        },
+        {
+         "type": "text",
+         "text": "CHAPITRE 4"
+        },
+        {
+         "type": "text",
+         "text": "Le transferement des personnes condamnées en vue d'execution de la peine dans I'Etat dont elles sont les citoyens"
+        },
+        {
+         "type": "text",
+         "text": "Article 29"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_29/ust_2/pkt_1",
+       "text": "Les citoyens de l'une des Parties Contractantes, condamnés par un jugement passé en force de chose jugóe a une peine de privation de liberte sur le territoire de l'autre Partie Contractante seront transférés, sur commun accord, et sur les conditions prévues dans la présente Convention a la Partie Contractante dont ils sont les citoyens en vue d'exécution de la peine sur le territoire de cette Partie.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_29/ust_2/pkt_2",
+       "text": "Le transférement du condamné en vue d’exécution de la peine a lieu sur demande de la Partie Contractante dont le tribunal a prononce la condamnation (Etat de condamnation) si l'autre Partie Contractante (Etat d'exócution) accepte de le recevoir.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
      "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "Les autorites compétentes des Parties Contractantes s' entendront dans chaque cas sur les modalitćs, le trajet et les autres conditions du transit.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 26"
-      },
-      {
-       "type": "text",
-       "text": "Les parties Contractantes se communiqueront mutuellement les résultats de la procedure penale engagée contre les personnes extradées. Elles se communiqueront également, sur demande, une copie de la décision passée en force de chose jugee."
-      },
-      {
-       "type": "text",
-       "text": "Article 27"
-      },
-      {
-       "type": "text",
-       "text": "La loi de la Partie requise est seule applicable a procédure de I'extradition ainsi qu'a celle de I'arrestation provisoire."
-      },
-      {
-       "type": "text",
-       "text": "Article 28"
-      },
-      {
-       "type": "text",
-       "text": "Les piéces a produire a l'appui d'une demande d'extradition seront accompagnees d'une traduction certifiee conforme dans la langue de la Partie requise, en francais ou en anglais."
-      },
-      {
-       "type": "text",
-       "text": "CHAPITRE 4"
-      },
-      {
-       "type": "text",
-       "text": "Le transferement des personnes condamnées en vue d'execution de la peine dans I'Etat dont elles sont les citoyens"
-      },
-      {
-       "type": "text",
-       "text": "Article 29"
-      }
-     ]
-    },
+     "path": "art_29/ust_3",
+     "text": "Umawiająca się Strona, której obywatelem jest skazany, może zwrócić się do Umawiającej się Strony, której sąd wydał wyrok, z prośbą o rozpatrzenie możliwości przekazania skazanego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 29"
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Skazany, jego pełnomocnik lub członkowie jego rodziny mogą zwracać się do właściwych organów każdej Umawiającej się Strony w celu wszczęcia postępowania określonego w artykule 29. Właściwe organy Państwa skazania zawiadomią skazanego o możliwości zwrócenia się z taką prośbą.",
+   "children": [],
+   "label": "Artykuł 30"
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "Przekazanie skazanego nastąpi, jeżeli czyn, za który został on skazany, jest również przestępstwem według prawa Państwa wykonania.",
+   "children": [],
+   "label": "Artykuł 31"
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "",
+   "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Les citoyens de l'une des Parties Contractantes, condamnés par un jugement passé en force de chose jugóe a une peine de privation de liberte sur le territoire de l'autre Partie Contractante seront transférés, sur commun accord, et sur les conditions prévues dans la présente Convention a la Partie Contractante dont ils sont les citoyens en vue d'exécution de la peine sur le territoire de cette Partie.",
+     "path": "art_32/ust_1",
+     "text": "Przekazanie skazanego do Państwa wykonania może nastąpić jedynie za jego zgodą.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Le transférement du condamné en vue d’exécution de la peine a lieu sur demande de la Partie Contractante dont le tribunal a prononce la condamnation (Etat de condamnation) si l'autre Partie Contractante (Etat d'exócution) accepte de le recevoir.",
+     "path": "art_32/ust_2",
+     "text": "Jeżeli skazany jest niezdolny do wyrażenia swojej zgody na przekazanie, zgodę wyraża jego przedstawiciel ustawowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 32"
+  },
+  {
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "Państwo wykonania zawiadomi w możliwie krótkim czasie Państwo skazania o zgodzie na przyjęcie lub odmowie przyjęcia skazanego.",
+   "children": [],
+   "label": "Artykuł 33"
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_34/ust_1",
+     "text": "Jeżeli Umawiające się Strony porozumiały się co do przekazania skazanego, właściwy organ Państwa wykonania jest związany rodzajem i wymiarem kary orzeczonej w wyroku skazującym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_34/ust_2",
+     "text": "Jeżeli rodzaj lub wymiar kary są niezgodne z prawem Państwa wykonania albo jeżeli ono tego wymaga, właściwy organ Państwa wykonania może zamienić tę karę na karę przewidzianą przez jego prawo za podobne przestępstwo. Kara ta powinna możliwie najpełniej odpowiadać rodzajom kary orzeczonej w wyroku skazującym. Nie może ona swoim rodzajem lub wymiarem zaostrzać kary orzeczonej w Państwie skazania ani też przekraczać górnego jej zagrożenia przewidzianego przez prawo Państwa wykonania za podobne przestępstwo.",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "pkt",
+       "num": "3",
+       "path": "art_34/ust_2/pkt_3",
+       "text": "La Partie Contractante dont le condamnć est le citoyen peut s'adresser a la Partie Contractante dont le tribunal a prononce le jugement avec une requéte d' envisager la possibilité de transferement du condamne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 30"
+        },
+        {
+         "type": "text",
+         "text": "Le condamnć ainsi que son representant legal ou les membres de sa famille peuvent s'adresser aux autoritós compétentes de l'une des Parties Contractantes afin d’initier la procédure prévue a l'article 29. Les autorités compétentes de I' Etat de condamnation informeront le condamné de la possibilité d' adresser une telle requéte."
+        },
+        {
+         "type": "text",
+         "text": "Article 31"
+        },
+        {
+         "type": "text",
+         "text": "Le transférement du condamnć n'a lieu que si I'infraction pour laquelle il a été condamné constitue également une infraction en vertu de la lógislation pónale de |I'Etat d'execution."
+        },
+        {
+         "type": "text",
+         "text": "Article 32"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_34/ust_2/pkt_1",
+       "text": "Le transférement du condamnć a |'Etat d’exécution n'a lieu qu'avec son consentement.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_34/ust_2/pkt_2",
+       "text": "Lorsque le condamne est incapable a exprimer validement son consentement, il faut obtenir celui de son representant legal.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 33"
+        },
+        {
+         "type": "text",
+         "text": "L'Etat d' exócution informera dans le plus bref délai I'Etat de condamnation de l|acceptation ou du refus de transférement du condamné."
+        },
+        {
+         "type": "text",
+         "text": "Article 34"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_34/ust_2/pkt_1",
+       "text": "Lorsque les Parties Contractantes se sont mises d'accord sur le transferement, l'autorité competente de |'Etat d'exćcution est liée par la nature et la durée de la sanction telles qu'elles résultent de la condamnation.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_34/ust_2/pkt_2",
+       "text": "Si la nature ou la durée de cette sanction sont incompatibles avec la legislation de I’ Etat d'exócution, ou si la legislation de cet Etat |'exige, I'autorite compétente de |'Etat d'exécution peut adapter cette sanction a la peine prévue par sa propre loi pour des infractions de méme nature. Cette peine correspond, autant que possible, quant a sa nature, a celle infligée par la condamnation. Elle ne peut aggraver par sa nature ou par sa durée, la sanction prononcée dans |'Etat de condamnation ni excéder le maximum prévu par la loi de I'Etat d’exécution pour une infraction de la méme nature.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiająca się Strona, której obywatelem jest skazany, może zwrócić się do Umawiającej się Strony, której sąd wydał wyrok, z prośbą o rozpatrzenie możliwości przekazania skazanego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 30"
     },
     {
-     "type": "text",
-     "text": "Skazany, jego pełnomocnik lub członkowie jego rodziny mogą zwracać się do właściwych organów każdej Umawiającej się Strony w celu wszczęcia postępowania określonego w artykule 29. Właściwe organy Państwa skazania zawiadomią skazanego o możliwości zwrócenia się z taką prośbą."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 31"
-    },
-    {
-     "type": "text",
-     "text": "Przekazanie skazanego nastąpi, jeżeli czyn, za który został on skazany, jest również przestępstwem według prawa Państwa wykonania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 32"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przekazanie skazanego do Państwa wykonania może nastąpić jedynie za jego zgodą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli skazany jest niezdolny do wyrażenia swojej zgody na przekazanie, zgodę wyraża jego przedstawiciel ustawowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 33"
-    },
-    {
-     "type": "text",
-     "text": "Państwo wykonania zawiadomi w możliwie krótkim czasie Państwo skazania o zgodzie na przyjęcie lub odmowie przyjęcia skazanego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 34"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli Umawiające się Strony porozumiały się co do przekazania skazanego, właściwy organ Państwa wykonania jest związany rodzajem i wymiarem kary orzeczonej w wyroku skazującym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli rodzaj lub wymiar kary są niezgodne z prawem Państwa wykonania albo jeżeli ono tego wymaga, właściwy organ Państwa wykonania może zamienić tę karę na karę przewidzianą przez jego prawo za podobne przestępstwo. Kara ta powinna możliwie najpełniej odpowiadać rodzajom kary orzeczonej w wyroku skazującym. Nie może ona swoim rodzajem lub wymiarem zaostrzać kary orzeczonej w Państwie skazania ani też przekraczać górnego jej zagrożenia przewidzianego przez prawo Państwa wykonania za podobne przestępstwo.",
-   "children": [
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "La Partie Contractante dont le condamnć est le citoyen peut s'adresser a la Partie Contractante dont le tribunal a prononce le jugement avec une requéte d' envisager la possibilité de transferement du condamne.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 30"
-      },
-      {
-       "type": "text",
-       "text": "Le condamnć ainsi que son representant legal ou les membres de sa famille peuvent s'adresser aux autoritós compétentes de l'une des Parties Contractantes afin d’initier la procédure prévue a l'article 29. Les autorités compétentes de I' Etat de condamnation informeront le condamné de la possibilité d' adresser une telle requéte."
-      },
-      {
-       "type": "text",
-       "text": "Article 31"
-      },
-      {
-       "type": "text",
-       "text": "Le transférement du condamnć n'a lieu que si I'infraction pour laquelle il a été condamné constitue également une infraction en vertu de la lógislation pónale de |I'Etat d'execution."
-      },
-      {
-       "type": "text",
-       "text": "Article 32"
-      }
-     ]
-    },
+     "path": "art_34/ust_3",
+     "text": "Właściwy organ Państwa wykonania jest związany ustaleniami stanu faktycznego i nie może zamienić orzeczonej kary pozbawienia wolności na inną karę.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 34"
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "W wypadku gdy Państwo wykonania wyraziło zgodę na przyjęcie skazanego, właściwe organy Umawiających się Stron ustalą w możliwie krótkim czasie miejsce, datę i tryb przekazania skazanego. Przekazanie następuje na terytorium Państwa skazania.",
+   "children": [],
+   "label": "Artykuł 35"
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "",
+   "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Le transférement du condamnć a |'Etat d’exécution n'a lieu qu'avec son consentement.",
+     "path": "art_36/ust_1",
+     "text": "Wykonanie kary, w tym warunkowe przedterminowe zwolnienie, następuje zgodnie z prawem Państwa wykonania. =",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Lorsque le condamne est incapable a exprimer validement son consentement, il faut obtenir celui de son representant legal.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 33"
-      },
-      {
-       "type": "text",
-       "text": "L'Etat d' exócution informera dans le plus bref délai I'Etat de condamnation de l|acceptation ou du refus de transférement du condamné."
-      },
-      {
-       "type": "text",
-       "text": "Article 34"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Lorsque les Parties Contractantes se sont mises d'accord sur le transferement, l'autorité competente de |'Etat d'exćcution est liée par la nature et la durée de la sanction telles qu'elles résultent de la condamnation.",
+     "path": "art_36/ust_2",
+     "text": "Amnestie i prawo łaski stosuje się zgodnie z prawem Państwa skazania i Państwa wykonania.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "Si la nature ou la durée de cette sanction sont incompatibles avec la legislation de I’ Etat d'exócution, ou si la legislation de cet Etat |'exige, I'autorite compétente de |'Etat d'exécution peut adapter cette sanction a la peine prévue par sa propre loi pour des infractions de méme nature. Cette peine correspond, autant que possible, quant a sa nature, a celle infligée par la condamnation. Elle ne peut aggraver par sa nature ou par sa durée, la sanction prononcée dans |'Etat de condamnation ni excéder le maximum prévu par la loi de I'Etat d’exécution pour une infraction de la méme nature.",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwy organ Państwa wykonania jest związany ustaleniami stanu faktycznego i nie może zamienić orzeczonej kary pozbawienia wolności na inną karę.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 35"
-    },
-    {
-     "type": "text",
-     "text": "W wypadku gdy Państwo wykonania wyraziło zgodę na przyjęcie skazanego, właściwe organy Umawiających się Stron ustalą w możliwie krótkim czasie miejsce, datę i tryb przekazania skazanego. Przekazanie następuje na terytorium Państwa skazania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 36"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wykonanie kary, w tym warunkowe przedterminowe zwolnienie, następuje zgodnie z prawem Państwa wykonania. =",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Amnestie i prawo łaski stosuje się zgodnie z prawem Państwa skazania i Państwa wykonania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Sąd Państwa skazania jest wyłącznie właściwy do orzekania w przedmiocie wszelkich odwołań wniesionych od wyroku skazującego, dotyczącego osoby przekazanej do Państwa wykonania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 37"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony przekazują sobie wzajemnie informacje dotyczące wszelkich okoliczności mogących mieć wpływ na wykonanie kary, a w szczególności o amnestiach, o zastosowaniu prawa łaski lub sposobie rozpatrzenia odwołań od wyroków.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo wykonania zawiadomi Państwo skazania o zakończeniu wykonania kary.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 38"
-    },
-    {
-     "type": "text",
-     "text": "Do przekazania skazanego Państwu wykonania stosuje się odpowiednio postanowienia artykułu 25."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 39"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wniosek o przekazanie skazanego sporządza się na piśmie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do wniosku dołącza się:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "odpis lub uwierzytelnioną kopię orzeczenia ze stwierdzeniem jego prawomocności i wykonalności,",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "L'autorite competente de I'Etat d' exócution sera liée par la constatation des faits et ne peut pas substituer une sanction privative de liberte par une sanction d'une autre nature.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 35"
-      },
-      {
-       "type": "text",
-       "text": "Au cas ou I Etat d' execution y a consenti, les autorites compétentes des Parties Contractantes fixeront, dans un delai le plus court possible, le lieu, la date et les modalites de transférement du condamné. Le transférement du condamné aura lieu sur le territoire de I' Etat de condamnation."
-      },
-      {
-       "type": "text",
-       "text": "Article 36"
-      }
-     ]
-    },
+     "path": "art_36/ust_3",
+     "text": "Sąd Państwa skazania jest wyłącznie właściwy do orzekania w przedmiocie wszelkich odwołań wniesionych od wyroku skazującego, dotyczącego osoby przekazanej do Państwa wykonania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 36"
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "",
+   "children": [
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "L'execution de la peine, y compris la mise en liberte conditionnelle, est déterminée par la legislation de |'Etat d'execution.",
+     "path": "art_37/ust_1",
+     "text": "Umawiające się Strony przekazują sobie wzajemnie informacje dotyczące wszelkich okoliczności mogących mieć wpływ na wykonanie kary, a w szczególności o amnestiach, o zastosowaniu prawa łaski lub sposobie rozpatrzenia odwołań od wyroków.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "L'amniste et la grace seront appliquees conformément a la legislation de I Etat de condamnation ou de I' Etat d'exćcution.",
+     "path": "art_37/ust_2",
+     "text": "Państwo wykonania zawiadomi Państwo skazania o zakończeniu wykonania kary.",
      "children": []
-    },
+    }
+   ],
+   "label": "Artykuł 37"
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Do przekazania skazanego Państwu wykonania stosuje się odpowiednio postanowienia artykułu 25.",
+   "children": [],
+   "label": "Artykuł 38"
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "",
+   "children": [
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_2/pkt_3",
-     "text": "Le tribunal de I'Etat de condamnation est uniquement compétent a statuer sur tout recours de revision formule contre le jugement de condamnation rendu a l'egard du condamne transfere a |'Etat d'exócution.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 37"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "Les Parties Contractantes s'informent de toutes les circonstances pouvant influencer |’exécution et en particulier de I'amnistie, de la grace et des effets de tout recours en revision du jugement.",
+     "path": "art_39/ust_1",
+     "text": "Wniosek o przekazanie skazanego sporządza się na piśmie.",
      "children": []
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "L'Etatd'exćcution informe I' Etat de condamnation de l'achévement de I'execution de la peine.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 38"
-      },
-      {
-       "type": "text",
-       "text": "Le remise du condamne a I'Etat d’exécution s'effectuera dans la mesure du possible selon le mode próvu a I'article 25."
-      },
-      {
-       "type": "text",
-       "text": "Article 39"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_2/pkt_1",
-     "text": "La demande de transférement du condamné sera formulée par écrit.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "La demande est accompagnée:",
+     "path": "art_39/ust_2",
+     "text": "Do wniosku dołącza się:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "ust_2/pkt_2/lit_a",
-       "text": "del'expedition ou copie authentique du jugement munie d'une attestation de la force de chose jugóe et du caractére exécutoire;",
+       "path": "art_39/ust_2/lit_a",
+       "text": "odpis lub uwierzytelnioną kopię orzeczenia ze stwierdzeniem jego prawomocności i wykonalności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_39/ust_2/pkt_3",
+       "text": "L'autorite competente de I'Etat d' exócution sera liée par la constatation des faits et ne peut pas substituer une sanction privative de liberte par une sanction d'une autre nature.",
        "children": [
         {
-         "type": "note",
-         "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+         "type": "text",
+         "text": "Article 35"
+        },
+        {
+         "type": "text",
+         "text": "Au cas ou I Etat d' execution y a consenti, les autorites compétentes des Parties Contractantes fixeront, dans un delai le plus court possible, le lieu, la date et les modalites de transférement du condamné. Le transférement du condamné aura lieu sur le territoire de I' Etat de condamnation."
+        },
+        {
+         "type": "text",
+         "text": "Article 36"
         }
        ]
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_2/pkt_2/lit_b",
-       "text": "tekst zastosowanych przepisów prawnych,",
+       "type": "pkt",
+       "num": "1",
+       "path": "art_39/ust_2/pkt_1",
+       "text": "L'execution de la peine, y compris la mise en liberte conditionnelle, est déterminée par la legislation de |'Etat d'execution.",
        "children": []
       },
       {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_2/pkt_2/lit_c",
-       "text": "możliwie dokładne dane na temat osoby skazanego, jego obywatelstwa, miejsca zamieszkania lub miejsca stałego pobytu,",
+       "type": "pkt",
+       "num": "2",
+       "path": "art_39/ust_2/pkt_2",
+       "text": "L'amniste et la grace seront appliquees conformément a la legislation de I Etat de condamnation ou de I' Etat d'exćcution.",
        "children": []
       },
       {
-       "type": "lit",
-       "num": "d",
-       "path": "ust_2/pkt_2/lit_d",
-       "text": "dokument określający część kary odbytej przez skazanego w Państwie skazania,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "e",
-       "path": "ust_2/pkt_2/lit_e",
-       "text": "protokół zawierający zgodę skazanego na przekazanie,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "f",
-       "path": "ust_2/pkt_2/lit_f",
-       "text": "wszelkie inne dokumenty, które mogą mieć znaczenie dla rozpatrzenia wniosku.",
+       "type": "pkt",
+       "num": "3",
+       "path": "art_39/ust_2/pkt_3",
+       "text": "Le tribunal de I'Etat de condamnation est uniquement compétent a statuer sur tout recours de revision formule contre le jugement de condamnation rendu a l'egard du condamne transfere a |'Etat d'exócution.",
        "children": [
         {
          "type": "text",
-         "text": "Artykuł 40"
+         "text": "Article 37"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_39/ust_2/pkt_1",
+       "text": "Les Parties Contractantes s'informent de toutes les circonstances pouvant influencer |’exécution et en particulier de I'amnistie, de la grace et des effets de tout recours en revision du jugement.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_39/ust_2/pkt_2",
+       "text": "L'Etatd'exćcution informe I' Etat de condamnation de l'achévement de I'execution de la peine.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 38"
         },
         {
          "type": "text",
-         "text": "Jeżeli Państwo wykonania uzna, że informacje i załączniki, które zostały mu przekazane, nie są wystarczające, może żądać ich uzupełnienia i w tym celu wyznaczyć termin, który na uzasadniony wniosek może ulec przedłużeniu. W wypadku nieprzekazania informacji uzupełniających, Państwo wykonania podejmuje decyzję w oparciu o przekazane informacje i załączniki."
+         "text": "Le remise du condamne a I'Etat d’exécution s'effectuera dans la mesure du possible selon le mode próvu a I'article 25."
         },
         {
          "type": "text",
-         "text": "Artykuł 41"
+         "text": "Article 39"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_39/ust_2/pkt_1",
+       "text": "La demande de transférement du condamné sera formulée par écrit.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_39/ust_2/pkt_2",
+       "text": "La demande est accompagnée:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_39/ust_2/pkt_2/lit_a",
+         "text": "del'expedition ou copie authentique du jugement munie d'une attestation de la force de chose jugóe et du caractére exécutoire;",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
         },
         {
-         "type": "text",
-         "text": "Wnioski o przekazanie skazanego i dołączone do nich pisma są zwolnione od legalizacji i powinno być do nich dołączone ich tłumaczenie na język Państwa wykonania, na język francuski lub na język angielski."
+         "type": "lit",
+         "num": "b",
+         "path": "art_39/ust_2/pkt_2/lit_b",
+         "text": "tekst zastosowanych przepisów prawnych,",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "Artykuł 42"
+         "type": "lit",
+         "num": "c",
+         "path": "art_39/ust_2/pkt_2/lit_c",
+         "text": "możliwie dokładne dane na temat osoby skazanego, jego obywatelstwa, miejsca zamieszkania lub miejsca stałego pobytu,",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "Koszty powstałe w związku z przekazaniem skazanego ponosi Państwo wykonania, z wyjątkiem kosztów powstałych wyłącznie na terytorium Państwa skazania."
+         "type": "lit",
+         "num": "d",
+         "path": "art_39/ust_2/pkt_2/lit_d",
+         "text": "dokument określający część kary odbytej przez skazanego w Państwie skazania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_39/ust_2/pkt_2/lit_e",
+         "text": "protokół zawierający zgodę skazanego na przekazanie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_39/ust_2/pkt_2/lit_f",
+         "text": "wszelkie inne dokumenty, które mogą mieć znaczenie dla rozpatrzenia wniosku.",
+         "children": []
         }
        ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 39"
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "Jeżeli Państwo wykonania uzna, że informacje i załączniki, które zostały mu przekazane, nie są wystarczające, może żądać ich uzupełnienia i w tym celu wyznaczyć termin, który na uzasadniony wniosek może ulec przedłużeniu. W wypadku nieprzekazania informacji uzupełniających, Państwo wykonania podejmuje decyzję w oparciu o przekazane informacje i załączniki.",
+   "children": [],
+   "label": "Artykuł 40"
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Wnioski o przekazanie skazanego i dołączone do nich pisma są zwolnione od legalizacji i powinno być do nich dołączone ich tłumaczenie na język Państwa wykonania, na język francuski lub na język angielski.",
+   "children": [],
+   "label": "Artykuł 41"
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Koszty powstałe w związku z przekazaniem skazanego ponosi Państwo wykonania, z wyjątkiem kosztów powstałych wyłącznie na terytorium Państwa skazania.",
+   "children": [],
+   "label": "Artykuł 42"
   },
   {
    "type": "heading",
@@ -1888,382 +1983,399 @@
    "text": "Postanowienia różne w sprawach karnych"
   },
   {
-   "type": "text",
-   "text": "Artykuł 43"
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "Każda z Umawiających się Stron jest obowiązana na wniosek drugiej Strony ścigać zgodnie ze swoim prawem własnych obywateli, którzy popełnili przestępstwo na terytorium drugiej Strony.",
+   "children": [],
+   "label": "Artykuł 43"
   },
   {
-   "type": "text",
-   "text": "Każda z Umawiających się Stron jest obowiązana na wniosek drugiej Strony ścigać zgodnie ze swoim prawem własnych obywateli, którzy popełnili przestępstwo na terytorium drugiej Strony."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 44"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W celu przejęcia ścigania karnego stosownie do artykułu 43 Umawiające się Strony będą sobie przekazywać",
+   "type": "art",
+   "num": "44",
+   "path": "art_44",
+   "text": "",
    "children": [
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "du texte des dispositions légales appliqućes;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "des indications si precises que possible de la personne condamnée, de sa nationalité, de son domicile et du lieu de sa residence habituelle;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "des documents déterminant la partie de la peine purgée par le condamné dans I'Etat de condamnation;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "d'un proces-verbal dont le contenu reflete le consentement du detenu;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "de tout autre document qui pourra avoir de I' importance au cours de la consideration de la demande.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 40"
-      },
-      {
-       "type": "text",
-       "text": "Si I' Etat d'execution estime que les indications et pieces qui lui avaient été fournies sont insuffisantes il peut demander le complément d'informations nécessaires et fixer un dólai pour la transmission du complement qui peut étre, sur demande justifiée, prolongé. A défaut de complément, |’ Etat d'exćcution decide sur la base des indications et pieces qui lui avaient été mises a sa disposition."
-      },
-      {
-       "type": "text",
-       "text": "Article 41"
-      },
-      {
-       "type": "text",
-       "text": "Les demandes de transférement ainsi que les piéces qui les accompagnent seront dispensées d'authentification et seront accompagnées de leur traduction dans la langue de ['Etat d'exćcution, en francais ou en anglais."
-      },
-      {
-       "type": "text",
-       "text": "Article 42"
-      },
-      {
-       "type": "text",
-       "text": "Les frais occasionnés par le transferement du condamne seront a charge de I'Etat d’exécution a I'exception des frais occasionnés exclusivement sur le territoire de I'Etat de condamnation."
-      },
-      {
-       "type": "text",
-       "text": "CHAPITRE 5"
-      },
-      {
-       "type": "text",
-       "text": "Dispositions diverses en matiere penale"
-      },
-      {
-       "type": "text",
-       "text": "Article 43"
-      },
-      {
-       "type": "text",
-       "text": "Les Parties Contractantes s'engagent a poursuivre conformement a leurs dispositions legislatives et sur la demande de |'autre Partie Contractante, leurs propres ressortissants qui ont commis une infraction sur le territoire de l'autre Partie."
-      },
-      {
-       "type": "text",
-       "text": "Article 44"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Afin d'entamer la poursuite penale prevue a l'article 43, les Parties Contractantes se communiqueront les de-",
+     "path": "art_44/ust_1",
+     "text": "W celu przejęcia ścigania karnego stosownie do artykułu 43 Umawiające się Strony będą sobie przekazywać",
      "children": [
-      {
-       "type": "note",
-       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "pisemny wniosek, który powinien zawierać następujące dane:"
-      },
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_1/pkt_1/lit_a",
-       "text": "oznaczenie organu wzywającego,",
-       "children": []
-      },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_1/pkt_1/lit_b",
-       "text": "określenie przestępstwa, w związku z którym złożono wniosek o wszczęcie postępowania karnego, wraz z opisem czasu i miejsca jego popełnienia,",
+       "path": "art_44/ust_1/lit_b",
+       "text": "du texte des dispositions légales appliqućes;",
        "children": []
       },
       {
        "type": "lit",
        "num": "c",
-       "path": "ust_1/pkt_1/lit_c",
-       "text": "dane dotyczące tożsamości osoby podejrzanej, jej obywatelstwa, a w miarę możliwości miejsca zamieszkania lub pobytu.",
-       "children": []
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do wniosku o wszczęcie ścigania karnego załącza się:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "akta postępowania przygotowawczego lub ich uwierzytelnione odpisy w języku Strony wzywającej,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "posiadane dokumenty i inne przedmioty, które mogą służyć w postępowaniu karnym jako dowody rzeczowe; w tym zakresie stosuje się odpowiednio postanowienia artykułu 46 niniejszej umowy,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "tekst przepisów ustawy karnej mających zastosowanie do czynu według prawa obowiązującego w miejscu jego popełnienia,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "w miarę możliwości i potrzeby — zdjęcie i odciski palców osoby podejrzanej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Umawiająca się Strona, do której skierowano wniosek o przejęcie ścigania, zawiadamia drugą Stronę o wynikach postępowania i przesyła na wniosek odpis prawomocnego orzeczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 45"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli wyniknie potrzeba przesłuchania w charakterze świadków osób pozbawionych wolności na terytorium drugiej Strony, Strona wezwana może zezwolić na przekazanie ich na terytorium Strony wzywającej, pod warunkiem że osoby te będą nadal pozbawione wolności i zostaną odesłane z powrotem w najkrótszym czasie po przesłuchaniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli wyniknie potrzeba przesłuchania w charakterze świadków osób pozbawionych wolności na terytorium trzeciego państwa, Umawiające się Strony udzielą zezwolenia na przewóz tych osób przez terytorium swego państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia artykułu 6 niniejszej umowy stosuje się odpowiednio w wypadkach przewidzianych w ustępach 1i2.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 46"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Przedmioty uzyskane przez sprawcę w wyniku przestępstwa, jak również wszelkie inne przedmioty, które mogą mandes formulees par écrit qui comprendront les indications suivantes: _",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "la dénomination de I'autorite requérante;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "les renseignements sur I' infraction visée par la demande, y compris une description du temps et du lieu de sa perpétration;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "les renseignements sur le suspect, sur sa nationalite et, dans la mesure du possible, sur son lieu de residence ou de séjour.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Seront annexćs a la demande:",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "ust_1/pkt_2/lit_a",
-       "text": "les actes de la procédure préparatoire ou leurs copies certifies conformes, redigees dans la langue de la Partie requćrante;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "ust_1/pkt_2/lit_b",
-       "text": "les documents et tous les objets pouvant servir de pieces a conviction dans la procedure pénale; en cette matiére seront applicables les dispositions de |I'article 46 de la presente Convention;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "ust_1/pkt_2/lit_c",
-       "text": "le texte des dispositions de la loi penale applicables a l'acte commis selon les lois en vigueur sur les lieux de la perpetration de I'infraction;",
+       "path": "art_44/ust_1/lit_c",
+       "text": "des indications si precises que possible de la personne condamnée, de sa nationalité, de son domicile et du lieu de sa residence habituelle;",
        "children": []
       },
       {
        "type": "lit",
        "num": "d",
-       "path": "ust_1/pkt_2/lit_d",
-       "text": "si cest possible et necessaire, la photographie et les empreintes digitales de la personne suspecte.",
+       "path": "art_44/ust_1/lit_d",
+       "text": "des documents déterminant la partie de la peine purgée par le condamné dans I'Etat de condamnation;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_44/ust_1/lit_e",
+       "text": "d'un proces-verbal dont le contenu reflete le consentement du detenu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_44/ust_1/lit_f",
+       "text": "de tout autre document qui pourra avoir de I' importance au cours de la consideration de la demande.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 40"
+        },
+        {
+         "type": "text",
+         "text": "Si I' Etat d'execution estime que les indications et pieces qui lui avaient été fournies sont insuffisantes il peut demander le complément d'informations nécessaires et fixer un dólai pour la transmission du complement qui peut étre, sur demande justifiée, prolongé. A défaut de complément, |’ Etat d'exćcution decide sur la base des indications et pieces qui lui avaient été mises a sa disposition."
+        },
+        {
+         "type": "text",
+         "text": "Article 41"
+        },
+        {
+         "type": "text",
+         "text": "Les demandes de transférement ainsi que les piéces qui les accompagnent seront dispensées d'authentification et seront accompagnées de leur traduction dans la langue de ['Etat d'exćcution, en francais ou en anglais."
+        },
+        {
+         "type": "text",
+         "text": "Article 42"
+        },
+        {
+         "type": "text",
+         "text": "Les frais occasionnés par le transferement du condamne seront a charge de I'Etat d’exécution a I'exception des frais occasionnés exclusivement sur le territoire de I'Etat de condamnation."
+        },
+        {
+         "type": "text",
+         "text": "CHAPITRE 5"
+        },
+        {
+         "type": "text",
+         "text": "Dispositions diverses en matiere penale"
+        },
+        {
+         "type": "text",
+         "text": "Article 43"
+        },
+        {
+         "type": "text",
+         "text": "Les Parties Contractantes s'engagent a poursuivre conformement a leurs dispositions legislatives et sur la demande de |'autre Partie Contractante, leurs propres ressortissants qui ont commis une infraction sur le territoire de l'autre Partie."
+        },
+        {
+         "type": "text",
+         "text": "Article 44"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_44/ust_1/pkt_1",
+       "text": "Afin d'entamer la poursuite penale prevue a l'article 43, les Parties Contractantes se communiqueront les de-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "pisemny wniosek, który powinien zawierać następujące dane:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_44/ust_1/pkt_1/lit_a",
+         "text": "oznaczenie organu wzywającego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_44/ust_1/pkt_1/lit_b",
+         "text": "określenie przestępstwa, w związku z którym złożono wniosek o wszczęcie postępowania karnego, wraz z opisem czasu i miejsca jego popełnienia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_44/ust_1/pkt_1/lit_c",
+         "text": "dane dotyczące tożsamości osoby podejrzanej, jej obywatelstwa, a w miarę możliwości miejsca zamieszkania lub pobytu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_44/ust_2",
+     "text": "Do wniosku o wszczęcie ścigania karnego załącza się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_44/ust_2/lit_a",
+       "text": "akta postępowania przygotowawczego lub ich uwierzytelnione odpisy w języku Strony wzywającej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_44/ust_2/lit_b",
+       "text": "posiadane dokumenty i inne przedmioty, które mogą służyć w postępowaniu karnym jako dowody rzeczowe; w tym zakresie stosuje się odpowiednio postanowienia artykułu 46 niniejszej umowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_44/ust_2/lit_c",
+       "text": "tekst przepisów ustawy karnej mających zastosowanie do czynu według prawa obowiązującego w miejscu jego popełnienia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_44/ust_2/lit_d",
+       "text": "w miarę możliwości i potrzeby — zdjęcie i odciski palców osoby podejrzanej.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "La Partie Contractante saisie de la demande informera l'autre Partie du resultat de la procedure et lui communiquera une copie de la decision passće en force de chose jugee.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 45"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Sily a lieu d'entendre en qualité de tćmoins des personnes dótenues sur le territoire de l'autre Partie, la Partie requise peut consentir a l envoi de ces personnes sur le territoire de la Partie requérante a condition qu'elles continuent a €tre détenues et soient renvoyées dans un delai le plus bref possible aprés avoir ete entendues.",
+     "path": "art_44/ust_3",
+     "text": "Umawiająca się Strona, do której skierowano wniosek o przejęcie ścigania, zawiadamia drugą Stronę o wynikach postępowania i przesyła na wniosek odpis prawomocnego orzeczenia.",
      "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Sily a lieu d’entendre en qualité de temoins des personnes detenues sur le territoire d'un Etat tiers, les Parties Contractantes autoriseront le transit de ces personnes a travers leur territoire.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "Les dispositions de l'article 6 de présente Convention s'appliquent, dans la mesure du possible, aux cas prévus aux paragraphes 1 et 2.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 46"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Les objets provenant de l’infraction ainsi que tous les autres objets pouvant servir de piéces a conviction dans la",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "służyć w postępowaniu karnym jako dowody rzeczowe, powinny być wydane Stronie wzywającej nawet w takim wypadku, gdy wydanie sprawcy przestępstwa ze względu na jego śmierć lub z innych powodów jest niemożliwe."
-      }
-     ]
     }
-   ]
+   ],
+   "label": "Artykuł 44"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Strona wezwana może czasowo odroczyć wydanie przedmiotów jeśli są one niezbędne w innym postępowaniu karnym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Prawa osób trzecich do podlegających wydaniu przedmiotów pozostają nie naruszone. Przedmioty te po zakończeniu postępowania karnego podlegają zwróceniu Stronie, która je wydała, w celu ich przekazania uprawnionym osobom.",
+   "type": "art",
+   "num": "45",
+   "path": "art_45",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 47"
+     "type": "ust",
+     "num": "1",
+     "path": "art_45/ust_1",
+     "text": "Jeżeli wyniknie potrzeba przesłuchania w charakterze świadków osób pozbawionych wolności na terytorium drugiej Strony, Strona wezwana może zezwolić na przekazanie ich na terytorium Strony wzywającej, pod warunkiem że osoby te będą nadal pozbawione wolności i zostaną odesłane z powrotem w najkrótszym czasie po przesłuchaniu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Koszty związane z ekstradycją i przekazaniem przedmiotów ponosi Strona wzywająca, z wyjątkiem kosztów powstałych wyłącznie na terytorium Strony wezwanej."
+     "type": "ust",
+     "num": "2",
+     "path": "art_45/ust_2",
+     "text": "Jeżeli wyniknie potrzeba przesłuchania w charakterze świadków osób pozbawionych wolności na terytorium trzeciego państwa, Umawiające się Strony udzielą zezwolenia na przewóz tych osób przez terytorium swego państwa.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 48"
+     "type": "ust",
+     "num": "3",
+     "path": "art_45/ust_3",
+     "text": "Postanowienia artykułu 6 niniejszej umowy stosuje się odpowiednio w wypadkach przewidzianych w ustępach 1i2.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 45"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umawiające się Strony będą sobie wzajemnie, co najmniej raz w roku, przesyłać informacje o prawomocnych wyrokach skazujących obywateli drugiej Strony.",
-   "children": []
+   "type": "art",
+   "num": "46",
+   "path": "art_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_46/ust_1",
+     "text": "Przedmioty uzyskane przez sprawcę w wyniku przestępstwa, jak również wszelkie inne przedmioty, które mogą mandes formulees par écrit qui comprendront les indications suivantes: _",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_46/ust_1/lit_a",
+       "text": "la dénomination de I'autorite requérante;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_46/ust_1/lit_b",
+       "text": "les renseignements sur I' infraction visée par la demande, y compris une description du temps et du lieu de sa perpétration;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_46/ust_1/lit_c",
+       "text": "les renseignements sur le suspect, sur sa nationalite et, dans la mesure du possible, sur son lieu de residence ou de séjour.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_46/ust_1/pkt_2",
+       "text": "Seront annexćs a la demande:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_46/ust_1/pkt_2/lit_a",
+         "text": "les actes de la procédure préparatoire ou leurs copies certifies conformes, redigees dans la langue de la Partie requćrante;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_46/ust_1/pkt_2/lit_b",
+         "text": "les documents et tous les objets pouvant servir de pieces a conviction dans la procedure pénale; en cette matiére seront applicables les dispositions de |I'article 46 de la presente Convention;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_46/ust_1/pkt_2/lit_c",
+         "text": "le texte des dispositions de la loi penale applicables a l'acte commis selon les lois en vigueur sur les lieux de la perpetration de I'infraction;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_46/ust_1/pkt_2/lit_d",
+         "text": "si cest possible et necessaire, la photographie et les empreintes digitales de la personne suspecte.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_46/ust_1/pkt_3",
+       "text": "La Partie Contractante saisie de la demande informera l'autre Partie du resultat de la procedure et lui communiquera une copie de la decision passće en force de chose jugee.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 45"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_46/ust_1/pkt_1",
+       "text": "Sily a lieu d'entendre en qualité de tćmoins des personnes dótenues sur le territoire de l'autre Partie, la Partie requise peut consentir a l envoi de ces personnes sur le territoire de la Partie requérante a condition qu'elles continuent a €tre détenues et soient renvoyées dans un delai le plus bref possible aprés avoir ete entendues.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_46/ust_1/pkt_2",
+       "text": "Sily a lieu d’entendre en qualité de temoins des personnes detenues sur le territoire d'un Etat tiers, les Parties Contractantes autoriseront le transit de ces personnes a travers leur territoire.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_46/ust_1/pkt_3",
+       "text": "Les dispositions de l'article 6 de présente Convention s'appliquent, dans la mesure du possible, aux cas prévus aux paragraphes 1 et 2.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 46"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_46/ust_1/pkt_1",
+       "text": "Les objets provenant de l’infraction ainsi que tous les autres objets pouvant servir de piéces a conviction dans la",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "służyć w postępowaniu karnym jako dowody rzeczowe, powinny być wydane Stronie wzywającej nawet w takim wypadku, gdy wydanie sprawcy przestępstwa ze względu na jego śmierć lub z innych powodów jest niemożliwe."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_46/ust_2",
+     "text": "Strona wezwana może czasowo odroczyć wydanie przedmiotów jeśli są one niezbędne w innym postępowaniu karnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_46/ust_3",
+     "text": "Prawa osób trzecich do podlegających wydaniu przedmiotów pozostają nie naruszone. Przedmioty te po zakończeniu postępowania karnego podlegają zwróceniu Stronie, która je wydała, w celu ich przekazania uprawnionym osobom.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 46"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Umawiające się Strony na żądanie będą dostarczały sobie wzajemnie dla celów postępowania karnego dane o karalności osób zamieszkałych poprzednio na terytorium Strony wezwanej.",
-   "children": []
+   "type": "art",
+   "num": "47",
+   "path": "art_47",
+   "text": "Koszty związane z ekstradycją i przekazaniem przedmiotów ponosi Strona wzywająca, z wyjątkiem kosztów powstałych wyłącznie na terytorium Strony wezwanej.",
+   "children": [],
+   "label": "Artykuł 47"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W wypadkach przewidzianych w ustępach 1 i 2 Umawiające się Strony będą w miarę możności przesyłać również odciski palców osób skazanych.",
-   "children": []
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_48/ust_1",
+     "text": "Umawiające się Strony będą sobie wzajemnie, co najmniej raz w roku, przesyłać informacje o prawomocnych wyrokach skazujących obywateli drugiej Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_48/ust_2",
+     "text": "Umawiające się Strony na żądanie będą dostarczały sobie wzajemnie dla celów postępowania karnego dane o karalności osób zamieszkałych poprzednio na terytorium Strony wezwanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_48/ust_3",
+     "text": "W wypadkach przewidzianych w ustępach 1 i 2 Umawiające się Strony będą w miarę możności przesyłać również odciski palców osób skazanych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 48"
   },
   {
    "type": "heading",
@@ -2271,123 +2383,159 @@
    "text": "Postanowienia końcowe"
   },
   {
-   "type": "text",
-   "text": "Artykuł 49"
+   "type": "art",
+   "num": "49",
+   "path": "art_49",
+   "text": "Postanowienia niniejszej umowy stosuje się również do wniosków o wydanie, dotyczących czynów popełnionych przed jej wejściem w życie.",
+   "children": [],
+   "label": "Artykuł 49"
   },
   {
-   "type": "text",
-   "text": "Postanowienia niniejszej umowy stosuje się również do wniosków o wydanie, dotyczących czynów popełnionych przed jej wejściem w życie."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 50"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Umowa niniejsza podlega ratyfikacji i wejdzie w życie trzydziestego dnia od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
+   "type": "art",
+   "num": "50",
+   "path": "art_50",
+   "text": "",
    "children": [
     {
-     "type": "text",
-     "text": "procédure penale, seront remis a la Partie requerante méme si I'extradition ne peut saccomplir par suite de la mort de la personne reclamée ou pour d'autres raisons."
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "La Partie requise peut ajourner temporairement la délivrance des objets en question si elle les juge necessaires pour une autre procédure pénale.",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "Les droits des tiers sur les objets a délivrer restent intactes. Apres la clóture de la procedure pénale, ces objets seront rendus a la Partie qui les a délivrés afin d 6tre remis aux intéressés.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Article 47"
-      },
-      {
-       "type": "text",
-       "text": "Les frais occasionnés par l’extradition et par la délivrance d'objets seront a la charge de la Partie requerante, a l'exception des frais occasionnés exclusivement sur le territoire de la Partie requise."
-      },
-      {
-       "type": "text",
-       "text": "Article 48"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "Les Parties Contractantes se communiqueront au moins une fois par an des informations sur les jugements de condamnation passćs en force de chose jugée et prononces a l'encontre des ressortissants de l'autre Partie.",
-     "children": []
+     "path": "art_50/ust_1",
+     "text": "Umowa niniejsza podlega ratyfikacji i wejdzie w życie trzydziestego dnia od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "procédure penale, seront remis a la Partie requerante méme si I'extradition ne peut saccomplir par suite de la mort de la personne reclamée ou pour d'autres raisons."
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_50/ust_1/pkt_2",
+       "text": "La Partie requise peut ajourner temporairement la délivrance des objets en question si elle les juge necessaires pour une autre procédure pénale.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_50/ust_1/pkt_3",
+       "text": "Les droits des tiers sur les objets a délivrer restent intactes. Apres la clóture de la procedure pénale, ces objets seront rendus a la Partie qui les a délivrés afin d 6tre remis aux intéressés.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Article 47"
+        },
+        {
+         "type": "text",
+         "text": "Les frais occasionnés par l’extradition et par la délivrance d'objets seront a la charge de la Partie requerante, a l'exception des frais occasionnés exclusivement sur le territoire de la Partie requise."
+        },
+        {
+         "type": "text",
+         "text": "Article 48"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_50/ust_1/pkt_1",
+       "text": "Les Parties Contractantes se communiqueront au moins une fois par an des informations sur les jugements de condamnation passćs en force de chose jugée et prononces a l'encontre des ressortissants de l'autre Partie.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_50/ust_1/pkt_2",
+       "text": "Les Parties Contractantes se communiqueront, sur demande, aux fins de la procédure pénale, les renseignements relatifs aux antécédents judiciaires des personnes ayant antérieurement habité sur le territoire de la Partie requise.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_50/ust_1/pkt_3",
+       "text": "Aux cas próvus aux paragraphes 1 et 2, les Parties Contractantes se communiqueront, dans la mesure du possible, les empreintes digitales des personnes condamnćes.",
+       "children": [
+        {
+         "type": "text",
+         "text": "CHAPITRE 6"
+        },
+        {
+         "type": "text",
+         "text": "Dispositions finales"
+        },
+        {
+         "type": "text",
+         "text": "Article 49"
+        },
+        {
+         "type": "text",
+         "text": "La présente Convention sera également applicable aux demandes concernant les faits intervenus avant son entrée en vigueur."
+        },
+        {
+         "type": "text",
+         "text": "Article 50"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_50/ust_1/pkt_1",
+       "text": "La présente Convention sera ratifiee et entrera en vigueur trente jours apres l'échange des instruments de ratification qui aura lieu a Varsovie.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
     },
     {
-     "type": "pkt",
+     "type": "ust",
      "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "Les Parties Contractantes se communiqueront, sur demande, aux fins de la procédure pénale, les renseignements relatifs aux antécédents judiciaires des personnes ayant antérieurement habité sur le territoire de la Partie requise.",
+     "path": "art_50/ust_2",
+     "text": "Umowa niniejsza zawarta jest na czas nie określony. Może być ona wypowiedziana w drodze dyplomatycznej przez każdą z Umawiających się Stron. W takim wypadku przestaje ona obowiązywać po upływie sześciu miesięcy od dnia wypowiedzenia. Na dowód czego pełnomocnicy Umawiających się Stron podpisali niniejszą umowę i opatrzyli ją pieczęciami.",
      "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "ust_1/pkt_3",
-     "text": "Aux cas próvus aux paragraphes 1 et 2, les Parties Contractantes se communiqueront, dans la mesure du possible, les empreintes digitales des personnes condamnćes.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CHAPITRE 6"
-      },
-      {
-       "type": "text",
-       "text": "Dispositions finales"
-      },
-      {
-       "type": "text",
-       "text": "Article 49"
-      },
-      {
-       "type": "text",
-       "text": "La présente Convention sera également applicable aux demandes concernant les faits intervenus avant son entrée en vigueur."
-      },
-      {
-       "type": "text",
-       "text": "Article 50"
-      }
-     ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "La présente Convention sera ratifiee et entrera en vigueur trente jours apres l'échange des instruments de ratification qui aura lieu a Varsovie.",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      }
-     ]
     }
-   ]
+   ],
+   "label": "Artykuł 50"
   },
   {
-   "type": "ust",
+   "type": "text",
+   "text": "Sporządzono w Ankarze dnia 9 stycznia 1989 r. w dwóch egzemplarzach, każdy w językach polskim, tureckim i francuskim, przy czym wszystkie teksty są jednakowo autentyczne. W wypadku rozbieżności tekst francuski uważany będzie za rozstrzygający."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Rady Państwa Polskiej Rzeczypospolitej Ludowej"
+  },
+  {
+   "type": "text",
+   "text": "£. Balcer"
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Prezydenta Republiki Tureckiej"
+  },
+  {
+   "type": "text",
+   "text": "M.Topaę"
+  },
+  {
+   "type": "pkt",
    "num": "2",
-   "path": "ust_2",
-   "text": "Umowa niniejsza zawarta jest na czas nie określony. Może być ona wypowiedziana w drodze dyplomatycznej przez każdą z Umawiających się Stron. W takim wypadku przestaje ona obowiązywać po upływie sześciu miesięcy od dnia wypowiedzenia. Na dowód czego pełnomocnicy Umawiających się Stron podpisali niniejszą umowę i opatrzyli ją pieczęciami.",
+   "path": "pkt_2",
+   "text": "La presente Convention est conclue pour une période indefinie. Elle pourra śtre dćnoncće par chacune des Parties Contractantes par voie diplomatique. Dans un tel cas elle cessera d'agir six mois des la date de la dénonciation.",
    "children": [
     {
      "type": "text",
-     "text": "Sporządzono w Ankarze dnia 9 stycznia 1989 r. w dwóch egzemplarzach, każdy w językach polskim, tureckim i francuskim, przy czym wszystkie teksty są jednakowo autentyczne. W wypadku rozbieżności tekst francuski uważany będzie za rozstrzygający."
+     "text": "En foi de quoi, les Plénipotentiaires des Parties Contractantes ont signé la Presente Convention et y ont apposé leurs sceaux."
     },
     {
      "type": "text",
-     "text": "Z upoważnienia Rady Państwa Polskiej Rzeczypospolitej Ludowej"
+     "text": "Fait a Ankara le 9 Janvier 1989 en deux exemplaires, chacun en trois langues: turque, polonaise et francaise, chacun des ces textes faisant egalement foi. En cas de divergences, le texte francais próvaudra."
+    },
+    {
+     "type": "text",
+     "text": "Pour le Conseil d' Etat de la République populaire de Pologne"
     },
     {
      "type": "text",
@@ -2395,49 +2543,17 @@
     },
     {
      "type": "text",
-     "text": "Z upoważnienia Prezydenta Republiki Tureckiej"
+     "text": "Pour le Président de la République de Turquie"
     },
     {
      "type": "text",
-     "text": "M.Topaę"
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_2/pkt_2",
-     "text": "La presente Convention est conclue pour une période indefinie. Elle pourra śtre dćnoncće par chacune des Parties Contractantes par voie diplomatique. Dans un tel cas elle cessera d'agir six mois des la date de la dénonciation.",
-     "children": [
-      {
-       "type": "text",
-       "text": "En foi de quoi, les Plénipotentiaires des Parties Contractantes ont signé la Presente Convention et y ont apposé leurs sceaux."
-      },
-      {
-       "type": "text",
-       "text": "Fait a Ankara le 9 Janvier 1989 en deux exemplaires, chacun en trois langues: turque, polonaise et francaise, chacun des ces textes faisant egalement foi. En cas de divergences, le texte francais próvaudra."
-      },
-      {
-       "type": "text",
-       "text": "Pour le Conseil d' Etat de la République populaire de Pologne"
-      },
-      {
-       "type": "text",
-       "text": "£. Balcer"
-      },
-      {
-       "type": "text",
-       "text": "Pour le Président de la République de Turquie"
-      },
-      {
-       "type": "text",
-       "text": "M. Topac"
-      },
-      {
-       "type": "text",
-       "text": "Po zaznajomieniu się z powyższą umową w imieniu Polskiej Rzeczypospolitej Ludowej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Polskiej Rzeczypospolitej Ludowej. Dano w Warszawie dnia 30 października 1989 r."
-      }
-     ]
+     "text": "M. Topac"
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową w imieniu Polskiej Rzeczypospolitej Ludowej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Polskiej Rzeczypospolitej Ludowej. Dano w Warszawie dnia 30 października 1989 r."
   },
   {
    "type": "signature",

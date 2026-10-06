@@ -65,672 +65,677 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Definicje"
-  },
-  {
-   "type": "text",
-   "text": "W rozumieniu ninejszej umowy:"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Określenie „inwestycja” oznacza wszelkie mienie dopuszczone przez każdą Umawiającą się Stronę zgodnie z jej ustawodawstwem i przepisami, w tym, lecz nie wyłącznie, wszelkie:",
+   "path": "art_1",
+   "text": "Definicje",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "mienie ruchome i nieruchome oraz inne prawa rzeczowe, takie jak hipoteka, użytkowanie, prawo zatrzymania lub zastaw;",
-     "children": []
+     "type": "text",
+     "text": "W rozumieniu ninejszej umowy:"
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "udziały, akcje, wierzytelności i inne prawa w spółkach;",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Określenie „inwestycja” oznacza wszelkie mienie dopuszczone przez każdą Umawiającą się Stronę zgodnie z jej ustawodawstwem i przepisami, w tym, lecz nie wyłącznie, wszelkie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_1/lit_a",
+       "text": "mienie ruchome i nieruchome oraz inne prawa rzeczowe, takie jak hipoteka, użytkowanie, prawo zatrzymania lub zastaw;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_1/lit_b",
+       "text": "udziały, akcje, wierzytelności i inne prawa w spółkach;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_1/lit_c",
+       "text": "roszczenia pieniężne lub do wszelkich świadczeń umownych mających wartość gospodarczą;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_1/lit_d",
+       "text": "prawo własności intelektualnej i goodwill oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_1/lit_e",
+       "text": "koncesje gospodarcze nadane z mocy prawa lub umowy, w tym koncesje do poszukiwania, uprawy, wydobywania lub eksploatacji zasobów naturalnych.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "roszczenia pieniężne lub do wszelkich świadczeń umownych mających wartość gospodarczą;",
-     "children": []
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Określenie „przychody” oznacza przychody pieniężne osiągnięte w wyniku inwestycji, w tym zyski, odsetki, przyrost majątku, dywidendy, należności licencyjne i honoraria.",
+     "children": [
+      {
+       "type": "text",
+       "text": "AGREEMENT"
+      },
+      {
+       "type": "text",
+       "text": "between the Government of the Republic of Poland and the Government of the Republic of Singapore on the promotion and protection of investments"
+      },
+      {
+       "type": "text",
+       "text": "The Government of the Republic of Poland and the Government of the Republic of Singapore (each hereinafter referred to as a „Contracting Party”);"
+      },
+      {
+       "type": "text",
+       "text": "Desiring to create favourable conditions for greater economic co-operation between them and in particular for investments by nationals and companies of one State in the territory of the other State based on the principles of equality and mutual benefit:"
+      },
+      {
+       "type": "text",
+       "text": "Recognising that the encouragement and reciprocal protection of such investments will be conducive to stimulating business initiative and increasing prosperity in both States;"
+      },
+      {
+       "type": "text",
+       "text": "Have agreed as follows:"
+      },
+      {
+       "type": "text",
+       "text": "Article 1"
+      },
+      {
+       "type": "text",
+       "text": "Definitions"
+      },
+      {
+       "type": "text",
+       "text": "For the purposes of this Agreement:"
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "prawo własności intelektualnej i goodwill oraz",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "The term „investment' means every kind of asset permitted by each Contracting Party in accordance with its laws and regulations, including, though not exclusively, any:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_1/lit_a",
+       "text": "movable and immovable property and other property rights such as mortagage, usufruct, lien or pledge;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_1/lit_b",
+       "text": "share, stock, debenture and similar interests in companies;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_1/lit_c",
+       "text": "title to money or to any contract having an economic value;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_1/lit_d",
+       "text": "intellectual property rights and goodwill; and",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_1/lit_e",
+       "text": "business concession conferred by law or under contract, including any concession to search for, cultivate, extract or exploit natural resources.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "koncesje gospodarcze nadane z mocy prawa lub umowy, w tym koncesje do poszukiwania, uprawy, wydobywania lub eksploatacji zasobów naturalnych.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "The term „returns” means monetary returns yielded by an investment including any profit, interest, capital gain, dividend, royalty or fee.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Określenie „obywatel'' oznacza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_3/lit_a",
+       "text": "w odniesieniu do Rzeczypospolitej Polskiej — każdą osobę fizyczną, którą zgodnie z ustawodawstwem Rzeczypospolitej Polskiej uważa się za jej obywatela;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_3/lit_b",
+       "text": "w odniesieniu do Republiki Singapuru — każdego obywatela w rozumieniu Konstytucji Republiki Singapuru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Określenie „spółka” oznacza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_4/lit_a",
+       "text": "w odniesieniu do Rzeczypospolitej Polskiej — każdą spółkę, firmę, stowarzyszenie lub zrzeszenie osób posiadające lub nie posiadające osobowości prawnej, utworzone lub zarejestrowane zgodnie ' z ustawodawstwem obowiązującym w Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_4/lit_b",
+       "text": "w odniesieniu do Republiki Singapuru — każdą spółkę, firmę, stowarzyszenie lub zrzeszenie osób, utworzone lub zarejestrowane zgodnie z ustawodawstwem obowiązującym w Republice Singapuru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Określenie „wolno wymienialna”\" oznacza walutę wolną od ograniczeń dewizowych, która może być przekazana za granicę w każdej walucie po przeważającym kursie rynkowym.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „przychody” oznacza przychody pieniężne osiągnięte w wyniku inwestycji, w tym zyski, odsetki, przyrost majątku, dywidendy, należności licencyjne i honoraria.",
+   "path": "art_2",
+   "text": "Zakres stosowania",
    "children": [
     {
-     "type": "text",
-     "text": "AGREEMENT"
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Niniejsza umowa ma zastosowanie jedynie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "w odniesieniu do terytorium Rzeczypospolitej Polskiej — do wszystkich inwestycji dokonanych przez obywateli i spółki Republiki Singapuru zgodnie z ustawodawstwem i przepisami Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_1/lit_b",
+       "text": "w odniesieniu do terytorium Republiki Singapuru — do wszystkich inwestycji dokonanych przez obywateli i spółki Rzeczypospolitej Polskiej i zatwierdzonych pisemnie przez właściwą wyznaczoną do tego przez Rząd Republiki Singapuru władzę, dokonanych na warunkach przez nią ustalonych.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "between the Government of the Republic of Poland and the Government of the Republic of Singapore on the promotion and protection of investments"
-    },
-    {
-     "type": "text",
-     "text": "The Government of the Republic of Poland and the Government of the Republic of Singapore (each hereinafter referred to as a „Contracting Party”);"
-    },
-    {
-     "type": "text",
-     "text": "Desiring to create favourable conditions for greater economic co-operation between them and in particular for investments by nationals and companies of one State in the territory of the other State based on the principles of equality and mutual benefit:"
-    },
-    {
-     "type": "text",
-     "text": "Recognising that the encouragement and reciprocal protection of such investments will be conducive to stimulating business initiative and increasing prosperity in both States;"
-    },
-    {
-     "type": "text",
-     "text": "Have agreed as follows:"
-    },
-    {
-     "type": "text",
-     "text": "Article 1"
-    },
-    {
-     "type": "text",
-     "text": "Definitions"
-    },
-    {
-     "type": "text",
-     "text": "For the purposes of this Agreement:"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The term „investment' means every kind of asset permitted by each Contracting Party in accordance with its laws and regulations, including, though not exclusively, any:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "movable and immovable property and other property rights such as mortagage, usufruct, lien or pledge;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "share, stock, debenture and similar interests in companies;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "title to money or to any contract having an economic value;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "intellectual property rights and goodwill; and",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "business concession conferred by law or under contract, including any concession to search for, cultivate, extract or exploit natural resources.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Postanowienia poprzedniego ustępu mają zastosowanie do wszystkich inwestycji obywateli i spółek każdej z Umawiających się Stron na terytorium drugiej Umawiającej się Strony, dokonanych przed lub po wejściu w życie niniejszej umowy.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The term „returns” means monetary returns yielded by an investment including any profit, interest, capital gain, dividend, royalty or fee.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "Określenie „obywatel'' oznacza:",
+   "path": "art_3",
+   "text": "Popieranie i ochrona inwestycji",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "w odniesieniu do Rzeczypospolitej Polskiej — każdą osobę fizyczną, którą zgodnie z ustawodawstwem Rzeczypospolitej Polskiej uważa się za jej obywatela;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Każda Umawiająca się Strona będzie popierać i stwarzać korzystne warunki dla obywateli i spółek drugiej Umawiającej się Strony do dokonywania na jej terytorium inwestycji zgodnych z jej ogólną polityką gospodarczą.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "w odniesieniu do Republiki Singapuru — każdego obywatela w rozumieniu Konstytucji Republiki Singapuru.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Inwestycje zatwierdzone zgodnie z postanowieniami artykułu 2 uzyskają uczciwe i sprawiedliwe traktowanie oraz ochronę zgodnie z postanowieniami niniejszej umowy.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Określenie „spółka” oznacza:",
+   "path": "art_4",
+   "text": "Klauzula najwyższego uprzywilejowania",
    "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_4/lit_a",
-     "text": "w odniesieniu do Rzeczypospolitej Polskiej — każdą spółkę, firmę, stowarzyszenie lub zrzeszenie osób posiadające lub nie posiadające osobowości prawnej, utworzone lub zarejestrowane zgodnie ' z ustawodawstwem obowiązującym w Rzeczypospolitej Polskiej;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_4/lit_b",
-     "text": "w odniesieniu do Republiki Singapuru — każdą spółkę, firmę, stowarzyszenie lub zrzeszenie osób, utworzone lub zarejestrowane zgodnie z ustawodawstwem obowiązującym w Republice Singapuru.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Określenie „wolno wymienialna”\" oznacza walutę wolną od ograniczeń dewizowych, która może być przekazana za granicę w każdej walucie po przeważającym kursie rynkowym.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 2"
-    },
-    {
-     "type": "text",
-     "text": "Zakres stosowania"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa ma zastosowanie jedynie:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "w odniesieniu do terytorium Rzeczypospolitej Polskiej — do wszystkich inwestycji dokonanych przez obywateli i spółki Republiki Singapuru zgodnie z ustawodawstwem i przepisami Rzeczypospolitej Polskiej;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "w odniesieniu do terytorium Republiki Singapuru — do wszystkich inwestycji dokonanych przez obywateli i spółki Rzeczypospolitej Polskiej i zatwierdzonych pisemnie przez właściwą wyznaczoną do tego przez Rząd Republiki Singapuru władzę, dokonanych na warunkach przez nią ustalonych.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia poprzedniego ustępu mają zastosowanie do wszystkich inwestycji obywateli i spółek każdej z Umawiających się Stron na terytorium drugiej Umawiającej się Strony, dokonanych przed lub po wejściu w życie niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Popieranie i ochrona inwestycji"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda Umawiająca się Strona będzie popierać i stwarzać korzystne warunki dla obywateli i spółek drugiej Umawiającej się Strony do dokonywania na jej terytorium inwestycji zgodnych z jej ogólną polityką gospodarczą.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Inwestycje zatwierdzone zgodnie z postanowieniami artykułu 2 uzyskają uczciwe i sprawiedliwe traktowanie oraz ochronę zgodnie z postanowieniami niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Klauzula najwyższego uprzywilejowania"
-    },
     {
      "type": "text",
      "text": "Żadna z Umawiających się Stron nie podda na swoim terytorium inwestycji dopuszczonych zgodnie z postanowieniami artykułu 2 lub przychodów uzyskanych przez obywateli i spółki drugiej Umawiającej się Strony traktowaniu mniej korzystnemu niż przyznaje ona inwestycjom lub przychodom obywateli i spółek jakiegokolwiek państwa trzeciego."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "The term ,,national’’ means:",
-   "children": [
+    },
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "in respect of the Republic of Poland, any natural person who according to the laws of the Republic of Poland, is considered to be its citizen;",
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "The term ,,national’’ means:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_3/lit_a",
+       "text": "in respect of the Republic of Poland, any natural person who according to the laws of the Republic of Poland, is considered to be its citizen;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_3/lit_b",
+       "text": "in respect of the Republic of Singapore, any citizen of Singapore within the meaning of the Constitution of the Republic of Singapore.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "The term „company” means:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_4/lit_a",
+       "text": "in respect of the Republic of Poland, any company, firm, association or body, with or without legal personality incorporated, established or registered under the laws in force in the Republic of Poland;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_4/lit_b",
+       "text": "in respect of the Republic of Singapore, any company, firm, association or body, with or without legal personality, incorporated, established or registered under the laws in force in the Republic of Singapore.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_4/ust_5",
+     "text": "The term „freely convertible’’ means free of all currency exchange controls and transferable abroad in any currency at prevailing market rates.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 2"
+      },
+      {
+       "type": "text",
+       "text": "Applicability of this agreement"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "This Agreement shall only apply:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_1/lit_a",
+       "text": "in respect of investments in the territory of the Republic of Poland, to all investments made by nationals and companies of the Republic of Singapore in accordance with the laws and regulations of the Republic of Poland;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_1/lit_b",
+       "text": "in respect of investments in the territory « f the Republic of Singapore, to all investments made by nationals and companies of the Republic of Poland, which are specifically approved in writing by the competent authority designated by the Government of the Republic of Singapore and upon such conditions, if any, as it shall deem fit.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "The provisions of the foregoing paragraph shall apply to all investments made by nationals and companies of either Contracting Party in the territory of the other Contracting Party, whether made before or after the coming into force of this Agreement.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 3"
+      },
+      {
+       "type": "text",
+       "text": "Promotion and protection of investment"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Each Contracting Party shall encourage and create favourable conditions for nationals and companies of the other Contracting Party to make in its territory investments that are in line with its general economic policy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "in respect of the Republic of Singapore, any citizen of Singapore within the meaning of the Constitution of the Republic of Singapore.",
-     "children": []
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Investments approved under Article 2 shall be accorded fair and equitable treatment and protection in accordance with this Agreement.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 4"
+      },
+      {
+       "type": "text",
+       "text": "Most favoured nation provision"
+      },
+      {
+       "type": "text",
+       "text": "Neither Contracting Party shall in its territory subject investments admitted in accordance with the provisions of"
+      },
+      {
+       "type": "text",
+       "text": "Article 2 or returns of nationals and companies of the other Contracting Party to treatment less favourable than that which it accords to investments or returns of nationals and companies of any third State."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The term „company” means:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_4/lit_a",
-     "text": "in respect of the Republic of Poland, any company, firm, association or body, with or without legal personality incorporated, established or registered under the laws in force in the Republic of Poland;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_4/lit_b",
-     "text": "in respect of the Republic of Singapore, any company, firm, association or body, with or without legal personality, incorporated, established or registered under the laws in force in the Republic of Singapore.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "5",
-   "path": "ust_5",
-   "text": "The term „freely convertible’’ means free of all currency exchange controls and transferable abroad in any currency at prevailing market rates.",
+   "path": "art_5",
+   "text": "Wyłączenia",
    "children": [
     {
-     "type": "text",
-     "text": "Article 2"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Postanowienia niniejszej umowy w odniesieniu do przyznania traktowania nie mniej korzystnego niż przyznane obywatelom i spółkom jakiegokolwiek państwa trzeciego nie mogą być rozumiane jako zobowiązujące Umawiającą się Stronę do przyznania obywatelom i spółkom drugiej Umawiającej się Strony korzystnego traktowania, preferencji lub przywilejów wynikających z:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_1/lit_a",
+       "text": "jakiegokolwiek regionalnego układu w sprawach celnych, walutowych lub handlowych (w tym w sprawie obszaru wolnego handlu) lub jakiejkolwiek umowy prowadzącej w przyszłości do takiego regionalnego układu; lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_1/lit_b",
+       "text": "jakiegokolwiek układu z państwem trzecim lub państwami trzecimi tego samego regionu geograficznego, którego celem jest popieranie współpracy regionalnej, współpracy w dziedzinie gospodarczej, socjalnej, zatrudnienia, przemysłowej lub walutowej w ramach określonych projektów.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Applicability of this agreement"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Postanowienia niniejszej umowy nie mają zastosowania do spraw opodatkowania na terytorium każdej z Umawiających się Stron. Te sprawy będą regulowane umową między obu Umawiającymi się Stronami o unikaniu podwójnego opodatkowania i wewnętrznym ustawodawstwem każdej Umawiającej się Strony.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "This Agreement shall only apply:",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Wywłaszczenie",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "in respect of investments in the territory of the Republic of Poland, to all investments made by nationals and companies of the Republic of Singapore in accordance with the laws and regulations of the Republic of Poland;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Zadna z Umawiających się Stron nie podejmie zadnych działań prowadzących do wywłaszczenia, nacjonalizacji lub innych decyzji równoznacznych z nacjonalizacją lub wywłaszczeniem w stosunku do inwestycji dokonanych przez obywateli lub spółki drugiej Umawiającej się Strony, chyba że takie działania będą podjęte w celach dopuszczonych przez prawo, w sposób niedyskryminacyjny, zgodnie z jej ustawodawstwem i za odszkodowaniem, które będzie rzeczywiście wykonalne i będzie dokonane bez nieuzasadnionej zwłoki. Takie odszkodowanie będzie, z zastrzeżeniem ustawodawstwa każdej Umawiającej się Strony, równe wartości inwestycji bezpośrednio przed wywłaszczeniem, nacjonalizacją lub przed podjęciem innej decyzji mającej skutek równoznaczny z nacjonalizacją lub wywłaszczeniem. Kwota odszkodowania będzie wolno wymienialna i będzie podlegać swobodnemu transferowi.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "in respect of investments in the territory « f the Republic of Singapore, to all investments made by nationals and companies of the Republic of Poland, which are specifically approved in writing by the competent authority designated by the Government of the Republic of Singapore and upon such conditions, if any, as it shall deem fit.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The provisions of the foregoing paragraph shall apply to all investments made by nationals and companies of either Contracting Party in the territory of the other Contracting Party, whether made before or after the coming into force of this Agreement.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 3"
-    },
-    {
-     "type": "text",
-     "text": "Promotion and protection of investment"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each Contracting Party shall encourage and create favourable conditions for nationals and companies of the other Contracting Party to make in its territory investments that are in line with its general economic policy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Investments approved under Article 2 shall be accorded fair and equitable treatment and protection in accordance with this Agreement.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 4"
-    },
-    {
-     "type": "text",
-     "text": "Most favoured nation provision"
-    },
-    {
-     "type": "text",
-     "text": "Neither Contracting Party shall in its territory subject investments admitted in accordance with the provisions of"
-    },
-    {
-     "type": "text",
-     "text": "Article 2 or returns of nationals and companies of the other Contracting Party to treatment less favourable than that which it accords to investments or returns of nationals and companies of any third State."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Wyłączenia"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Postanowienia niniejszej umowy w odniesieniu do przyznania traktowania nie mniej korzystnego niż przyznane obywatelom i spółkom jakiegokolwiek państwa trzeciego nie mogą być rozumiane jako zobowiązujące Umawiającą się Stronę do przyznania obywatelom i spółkom drugiej Umawiającej się Strony korzystnego traktowania, preferencji lub przywilejów wynikających z:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jakiegokolwiek regionalnego układu w sprawach celnych, walutowych lub handlowych (w tym w sprawie obszaru wolnego handlu) lub jakiejkolwiek umowy prowadzącej w przyszłości do takiego regionalnego układu; lub",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Legalność działań wywłaszczeniowych, nacjonalizacyjnych lub innych decyzji mających skutek równoznaczny z nacjonalizacją lub wywłaszczeniem może być przedłożona przez zainteresowanego obywatela lub spółkę do rozpatrzenia przez właściwy sąd Umawiającej się Strony podejmującej działania zgodnie z jej ustawodawstwem.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jakiegokolwiek układu z państwem trzecim lub państwami trzecimi tego samego regionu geograficznego, którego celem jest popieranie współpracy regionalnej, współpracy w dziedzinie gospodarczej, socjalnej, zatrudnienia, przemysłowej lub walutowej w ramach określonych projektów.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia niniejszej umowy nie mają zastosowania do spraw opodatkowania na terytorium każdej z Umawiających się Stron. Te sprawy będą regulowane umową między obu Umawiającymi się Stronami o unikaniu podwójnego opodatkowania i wewnętrznym ustawodawstwem każdej Umawiającej się Strony.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Jeżeli Umawiająca się Strona wywłaszczy, znacjonalizuje lub podejmie działania mające skutek równoznaczny z nacjonalizacją lub wywłaszczeniem w stosunku do mienia spółki mającej osobowość prawną lub utworzonej zgodnie z ustawodawstwem obowiązującym w jakiejkolwiek części jej terytorium i w której obywatele lub spółki drugiej Umawiającej się Strony posiadają udziały, to zapewni ona w stosunku do takich obywateli lub spółek drugiej Umawiającej się Strony, które są właścicielami tych udziałów, aby miały zastosowanie postanowienia ustępu 1 niniejszego artykułu w zakresie niezbędnym dla zapewnienia im odszkodowania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 5"
+      },
+      {
+       "type": "text",
+       "text": "Exceptions"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Wywłaszczenie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zadna z Umawiających się Stron nie podejmie zadnych działań prowadzących do wywłaszczenia, nacjonalizacji lub innych decyzji równoznacznych z nacjonalizacją lub wywłaszczeniem w stosunku do inwestycji dokonanych przez obywateli lub spółki drugiej Umawiającej się Strony, chyba że takie działania będą podjęte w celach dopuszczonych przez prawo, w sposób niedyskryminacyjny, zgodnie z jej ustawodawstwem i za odszkodowaniem, które będzie rzeczywiście wykonalne i będzie dokonane bez nieuzasadnionej zwłoki. Takie odszkodowanie będzie, z zastrzeżeniem ustawodawstwa każdej Umawiającej się Strony, równe wartości inwestycji bezpośrednio przed wywłaszczeniem, nacjonalizacją lub przed podjęciem innej decyzji mającej skutek równoznaczny z nacjonalizacją lub wywłaszczeniem. Kwota odszkodowania będzie wolno wymienialna i będzie podlegać swobodnemu transferowi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Legalność działań wywłaszczeniowych, nacjonalizacyjnych lub innych decyzji mających skutek równoznaczny z nacjonalizacją lub wywłaszczeniem może być przedłożona przez zainteresowanego obywatela lub spółkę do rozpatrzenia przez właściwy sąd Umawiającej się Strony podejmującej działania zgodnie z jej ustawodawstwem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli Umawiająca się Strona wywłaszczy, znacjonalizuje lub podejmie działania mające skutek równoznaczny z nacjonalizacją lub wywłaszczeniem w stosunku do mienia spółki mającej osobowość prawną lub utworzonej zgodnie z ustawodawstwem obowiązującym w jakiejkolwiek części jej terytorium i w której obywatele lub spółki drugiej Umawiającej się Strony posiadają udziały, to zapewni ona w stosunku do takich obywateli lub spółek drugiej Umawiającej się Strony, które są właścicielami tych udziałów, aby miały zastosowanie postanowienia ustępu 1 niniejszego artykułu w zakresie niezbędnym dla zapewnienia im odszkodowania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "The provisions of this Agreement relating to the grant of treatment not less favourable than that accorded to the nationals and companies of any third State shall not be construed so as to oblige one Contracting Party to extend to nationals and companies of the other Contracting Party the benefit of any treatment, preference or privilege resulting from:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_6/ust_1/lit_a",
+       "text": "any regional arrangement for customs, monetary, tariff or trade matters (including a free trade area) or any agreement designed to lead in future to such a regional arrangement; or ‘",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_6/ust_1/lit_b",
+       "text": "any arrangement with a third State or States in the same geographical region designed to promote regional cooperation in the economic, social, labour, industrial or monetary fields within the framework of specific projects.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Exceptions"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "The provisions of this Agreement relating to the grant of treatment not less favourable than that accorded to the nationals and companies of any third State shall not be construed so as to oblige one Contracting Party to extend to nationals and companies of the other Contracting Party the benefit of any treatment, preference or privilege resulting from:",
-   "children": [
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "The provisions of this Agreement shall not apply to matters of taxation in the territory of either Contracting Party. Such matters shall be governed by any Avoidance of Double Taxation Treaty between the two Contracting Parties and the domestic laws of each Contracting Party.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 6"
+      },
+      {
+       "type": "text",
+       "text": "Expropriation"
+      }
+     ]
+    },
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "any regional arrangement for customs, monetary, tariff or trade matters (including a free trade area) or any agreement designed to lead in future to such a regional arrangement; or ‘",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Neither Contracting Party shall take any measure of expropriation, nationalization or other measures having the effect equivalent to nationalization or expropriation against the investment of nationals or companies of the other Contracting Party unless the measures are taken for any purpose authorised by law, on a non-discriminatory basis, in accordance with its laws and against compensation which shall be effectively realisable and shall be made without unreasonable delay. Such compensation, shall, subject to the laws of each Contracting Party, be the value immediately before the expropriation, nationalization or measure having the effect equivalent to nationalization or expropriation. The compensation shall be freely convertible and transferable.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "any arrangement with a third State or States in the same geographical region designed to promote regional cooperation in the economic, social, labour, industrial or monetary fields within the framework of specific projects.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "The legality of any measure of expropriation, nationalization or other measures having the effect equivalent to nationalization or expropriation may at the request of the national or company affected, be reviewed by the competent court of the Contracting Party taking the measures in the manner prescribed by its laws.",
      "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Where a Contracting Party expropriates, nationalizes or takes measures having effect equivalent to nationalization or expropriation against the assets of a company which is incorporated or constituted under the laws in force in any part of its own territory, and in which nationals or companies of the other Contracting Party own shares, it shall ensure that the provisions of paragraph (1) of this Article are applied to the extent necessary to guarantee compensation as specified therein to such nationals or companies of the other Contracting Party who are owners of those shares.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The provisions of this Agreement shall not apply to matters of taxation in the territory of either Contracting Party. Such matters shall be governed by any Avoidance of Double Taxation Treaty between the two Contracting Parties and the domestic laws of each Contracting Party.",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Odszkodowanie za straty",
    "children": [
-    {
-     "type": "text",
-     "text": "Article 6"
-    },
-    {
-     "type": "text",
-     "text": "Expropriation"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Neither Contracting Party shall take any measure of expropriation, nationalization or other measures having the effect equivalent to nationalization or expropriation against the investment of nationals or companies of the other Contracting Party unless the measures are taken for any purpose authorised by law, on a non-discriminatory basis, in accordance with its laws and against compensation which shall be effectively realisable and shall be made without unreasonable delay. Such compensation, shall, subject to the laws of each Contracting Party, be the value immediately before the expropriation, nationalization or measure having the effect equivalent to nationalization or expropriation. The compensation shall be freely convertible and transferable.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "The legality of any measure of expropriation, nationalization or other measures having the effect equivalent to nationalization or expropriation may at the request of the national or company affected, be reviewed by the competent court of the Contracting Party taking the measures in the manner prescribed by its laws.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Where a Contracting Party expropriates, nationalizes or takes measures having effect equivalent to nationalization or expropriation against the assets of a company which is incorporated or constituted under the laws in force in any part of its own territory, and in which nationals or companies of the other Contracting Party own shares, it shall ensure that the provisions of paragraph (1) of this Article are applied to the extent necessary to guarantee compensation as specified therein to such nationals or companies of the other Contracting Party who are owners of those shares.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Odszkodowanie za straty"
-    },
     {
      "type": "text",
      "text": "Obywatele i spółki jednej Umawiającej się Strony, których inwestycje poniosą straty na terytorium drugiej Umawiającej się Strony z powodu wojny lub innego konfliktu zbrojnego, stanu wyjątkowego, rewolty, powstania lub zamieszek, będą miały przyznane przez tę drugą Umawiającą się Stronę, w zakresie przywrócenia, odszkodowania, kompensaty lub innego uregulowania, traktowanie nie mniej korzystne niż druga Umawiająca się Strona przyznaje obywatelom lub spółkom jakiegokolwiek państwa trzeciego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Transfer"
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda Umawiająca się Strona zagwarantuje obywatelom lub spółkom drugiej Umawiającej się Strony swobodny transfer — zgodnie z jej ustawodawstwem i przepisami w oparciu o niedyskryminacyjne zasady — kapitału i przychodów z każdej inwestycji, w tym:",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Transfer",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "zysków, przyrostu kapitału, dywidend, należności licencyjnych i innego bieżącego dochodu osiąganego z każdej inwestycji;",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Każda Umawiająca się Strona zagwarantuje obywatelom lub spółkom drugiej Umawiającej się Strony swobodny transfer — zgodnie z jej ustawodawstwem i przepisami w oparciu o niedyskryminacyjne zasady — kapitału i przychodów z każdej inwestycji, w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_1/lit_a",
+       "text": "zysków, przyrostu kapitału, dywidend, należności licencyjnych i innego bieżącego dochodu osiąganego z każdej inwestycji;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_1/lit_b",
+       "text": "kwotz całkowitej lub częściowej likwidacji jakiejkolwiek inwestycji;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_8/ust_1/lit_c",
+       "text": "spłaty pożyczki zaciągniętej w związku z inwestycjami;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_8/ust_1/lit_d",
+       "text": "opłat licencyjnych związanych ze sprawami, o których mowa w artykule 1 ust. 1 litera d);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_8/ust_1/lit_e",
+       "text": "płatności z tytułu pomocy technicznej, usług technicznych i honorariów z tytułu zarządzania;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_8/ust_1/lit_f",
+       "text": "płatności związanych z zamawianiem projektów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_8/ust_1/lit_g",
+       "text": "zarobków obywateli drugiej Umawiającej się Strony zatrudnionych w związku z inwestycją na terytorium pierwszej Umawiającej się Strony.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "kwotz całkowitej lub częściowej likwidacji jakiejkolwiek inwestycji;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "spłaty pożyczki zaciągniętej w związku z inwestycjami;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "opłat licencyjnych związanych ze sprawami, o których mowa w artykule 1 ust. 1 litera d);",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "płatności z tytułu pomocy technicznej, usług technicznych i honorariów z tytułu zarządzania;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "płatności związanych z zamawianiem projektów;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "zarobków obywateli drugiej Umawiającej się Strony zatrudnionych w związku z inwestycją na terytorium pierwszej Umawiającej się Strony.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Żadne z postanowień ustępu 1 niniejszego artykułu nie narusza swobodnego transferu odszkodowania wypłaconego na mocy postanowień artykułu 6 niniejszej umowy.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 8"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Żadne z postanowień ustępu 1 niniejszego artykułu nie narusza swobodnego transferu odszkodowania wypłaconego na mocy postanowień artykułu 6 niniejszej umowy.",
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Kurs wymiany",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Kurs wymiany"
-    },
     {
      "type": "text",
      "text": "Transfery, o których mowa w artykułach 6—8 niniejszej umowy, będą dokonywane w walucie wymienialnej według przeważającego kursu w dniu transferu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Ustawodawstwo"
-    },
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Ustawodawstwo",
+   "children": [
     {
      "type": "text",
      "text": "W celu uniknięcia jakiejkolwiek wątpliwości oświadcza się, że wszelkie inwestycje, z uwzględnieniem postanowień niniejszej umowy, podlegają ustawodawstwu obowiązującemu na terytorium Umawiającej się Strony, na którym takie inwestycje są dokonane."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Zakazy i ograniczenia"
-    },
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Zakazy i ograniczenia",
+   "children": [
     {
      "type": "text",
      "text": "Postanowienia niniejszej umowy nie ograniczają w żadnym razie prawa każdej Umawiającej się Strony do stosowania wszelkiego rodzaju zakazów lub ograniczeń lub podejmowania innych działań skierowanych dla zapewnienia podstawowych interesów bezpieczeństwa lub dla ochrony zdrowia publicznego albo zapobieżenia chorobom lub zarazom wśród zwierząt i roślin."
@@ -754,598 +759,600 @@
     {
      "type": "text",
      "text": "Repatriation"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each Contracting Party shall guarantee to nationals or companies of the other Contracting Party the free transfer, in accordance with its laws and regulations and on a non- -discriminatory basis, of their capital and the returns from any investments, including:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "profits, capital gain, dividends royalties interests and other current income accruing from any investment;",
-     "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "the proceeds of the total or partial liquidation of any investment;",
-     "children": []
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Each Contracting Party shall guarantee to nationals or companies of the other Contracting Party the free transfer, in accordance with its laws and regulations and on a non- -discriminatory basis, of their capital and the returns from any investments, including:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_11/ust_1/lit_a",
+       "text": "profits, capital gain, dividends royalties interests and other current income accruing from any investment;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_11/ust_1/lit_b",
+       "text": "the proceeds of the total or partial liquidation of any investment;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_11/ust_1/lit_c",
+       "text": "repayments made pursuant to a loan agreement in connection with investments;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_11/ust_1/lit_d",
+       "text": "license fees in relation to the matters in Article 1(1) (d);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_11/ust_1/lit_e",
+       "text": "payments in respect of technical assistance, technical service and management fees;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_11/ust_1/lit_f",
+       "text": "payments in connection with contracting projects;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_11/ust_1/lit_g",
+       "text": "earnings of nationals of the other Contracting Party who work in connection with an investment in the territory of the former Contracting Party.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "repayments made pursuant to a loan agreement in connection with investments;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "license fees in relation to the matters in Article 1(1) (d);",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "payments in respect of technical assistance, technical service and management fees;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "payments in connection with contracting projects;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "earnings of nationals of the other Contracting Party who work in connection with an investment in the territory of the former Contracting Party.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Nothing in paragraph (1) of this Article shall affect the free transfer of compensation paid under Article 6 of this Agreement.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 9"
-    },
-    {
-     "type": "text",
-     "text": "Exchange rate"
-    },
-    {
-     "type": "text",
-     "text": "The transfers referred to in Articles 6 to 8 of this Agreement shall be effected at the prevailing market rate in freely convertible currency on the date of transfer."
-    },
-    {
-     "type": "text",
-     "text": "Article 10"
-    },
-    {
-     "type": "text",
-     "text": "Laws"
-    },
-    {
-     "type": "text",
-     "text": "For the avoidance of any doubt, it is declared that all investments shall, subject to this Agreement, be governed by the laws in force in the territory of the Contracting Party in which such investments are made."
-    },
-    {
-     "type": "text",
-     "text": "Article 11"
-    },
-    {
-     "type": "text",
-     "text": "Prohibitions and restrictions"
-    },
-    {
-     "type": "text",
-     "text": "The provisions of this Agreement shall not in any way limit the right of either Contracting Party to apply prohibitions or restrictions of any kind or take any other action which is directed to the protection of its essential security interests, or to the protection of public health or the prevention of diseases and pests in animals or plants."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Subrogacja"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W przypadku gdy jedna z Umawiających się Stron (lub jej agencja, instytucja, osoba prawa publicznego lub wyznaczona przez nią korporacja) w wyniku odszkodowania przyznanego w odniesieniu do inwestycji lub jej części dokona płatności na rzecz jej obywateli i spółek w związku z jakimikolwiek roszczeniami na mocy postanowień niniejszej umowy, to druga Umawiająca się Strona uzna, że pierwsza Umawiająca się Strona (lub jej agencja, instytucja, osoba prawa publicznego lub wyznaczona przez nią korpora-",
-   "children": [
-    {
-     "type": "lit",
-     "num": "cja",
-     "path": "ust_1/lit_cja",
-     "text": "jest uprawniona na mocy subrogacji do sprawowania praw i dochodzenia roszczeń jej obywateli lub spółek. Przejęte prawa lub roszczenia nie mogą być większe niż pierwotne prawo lub roszczenie danego inwestora.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jakakolwiek płatność dokonana przez jedną Umawiającą się Stronę (lub jakąkolwiek jej agencję, instytucję, osobę prawa publicznego lub wyznaczoną korporację) na rzecz jej obywateli i spółek nie narusza prawa takich obywateli lub spółek do wysuwania roszczeń w stosunku do drugiej Umawiającej się Strony zgodnie z postanowieniami artykułu 13.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Spory inwestycyjne"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy spór między inwestorem jednej Umawiającej się Strony a drugą Umawiającą się Stroną związany z inwestycją dokonaną na obszarze drugiej Umawiającej się Strony będzie rozstrzygany w miarę możliwości polubownie w drodze negocjacji między stronami sporu. Strona pragnąca rozstrzygnąć taki spór w drodze negocjacji poinformuje o swoich intencjach drugą stronę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli spór nie może być rozstrzygnięty zgodnie z postanowieniami ustępu 1 niniejszego artykułu w ciągu 6 miesięcy od daty powiadomienia drugiej strony, to Umawiająca się Strona i zainteresowany inwestor przekażą spór do rozstrzygnięcia w drodze koncyliacji zgodnie z Regulaminem w sprawie koncyliacji, opracowanym w roku 1980 przez Komisję Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego, lub w drodze arbitrażu zgodnie z Regulaminem arbitrażowym z roku 1976 opracowanym przez Komisję Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego, z zastosowaniem następujących postanowień:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "w postępowaniu koncyliacyjnym będzie brało udział dwóch koncyliatorów, każdy z nich mianowany przez odnośną stronę sporu;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "w postępowaniu arbitrażowym będą miały zastosowanie następujące zasady:",
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Nothing in paragraph (1) of this Article shall affect the free transfer of compensation paid under Article 6 of this Agreement.",
      "children": [
       {
        "type": "text",
-       "text": "(i) Trybunał arbitrażowy składa się z trzech arbitrów. Każda strona mianuje jednego arbitra. Ci dwaj arbitrzy dokonają w drodze wzajemnego porozumienia wyboru przewodniczącego, będącego obywatelem trzeciego państwa, które posiada stosunki dyplomatyczne z rządami stron będących w sporze. Arbitrzy będą mianowani w ciągu dwóch miesięcy od dnia, w którym jedna ze stron w sporze poinformuje drugą stronę o jej zamiarze przedłożenia sporu do arbitrażu po upływie sześciu miesięcy, o których mowa w ustępie 2 niniejszego artykułu."
+       "text": "Article 9"
       },
       {
        "type": "text",
-       "text": "Article 12"
+       "text": "Exchange rate"
       },
       {
        "type": "text",
-       "text": "Subrogation"
+       "text": "The transfers referred to in Articles 6 to 8 of this Agreement shall be effected at the prevailing market rate in freely convertible currency on the date of transfer."
+      },
+      {
+       "type": "text",
+       "text": "Article 10"
+      },
+      {
+       "type": "text",
+       "text": "Laws"
+      },
+      {
+       "type": "text",
+       "text": "For the avoidance of any doubt, it is declared that all investments shall, subject to this Agreement, be governed by the laws in force in the territory of the Contracting Party in which such investments are made."
+      },
+      {
+       "type": "text",
+       "text": "Article 11"
+      },
+      {
+       "type": "text",
+       "text": "Prohibitions and restrictions"
+      },
+      {
+       "type": "text",
+       "text": "The provisions of this Agreement shall not in any way limit the right of either Contracting Party to apply prohibitions or restrictions of any kind or take any other action which is directed to the protection of its essential security interests, or to the protection of public health or the prevention of diseases and pests in animals or plants."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "In the event that either Contracting Party (or any agency, institution, statutory body or corporation designated by it) as a result of an indemnity it has given in respect of an investment or any part thereof makes payment to its own nationals and companies in respect of any of their claims under this Agreement, the other Contracting Party acknowledges that the former Contracting Party (or any agency, institution, statutory body or corporation designated by it) is entitled by virtue of subrogation to exercise the rights and assert the claims of its own nationals and companies. The subrogated right or claim shall not be greater than the original right or claim of the said investor.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Any payment made by one Contracting Party (or any agency, institution, statutory body or corporation designated by it) to its nationals and companies shall not affect the right of such nationals and companies to make their claims against the other Contracting Party in accordance with Article 13.",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Subrogacja",
    "children": [
     {
-     "type": "text",
-     "text": "Article 13"
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "W przypadku gdy jedna z Umawiających się Stron (lub jej agencja, instytucja, osoba prawa publicznego lub wyznaczona przez nią korporacja) w wyniku odszkodowania przyznanego w odniesieniu do inwestycji lub jej części dokona płatności na rzecz jej obywateli i spółek w związku z jakimikolwiek roszczeniami na mocy postanowień niniejszej umowy, to druga Umawiająca się Strona uzna, że pierwsza Umawiająca się Strona (lub jej agencja, instytucja, osoba prawa publicznego lub wyznaczona przez nią korpora-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "cja",
+       "path": "art_12/ust_1/lit_cja",
+       "text": "jest uprawniona na mocy subrogacji do sprawowania praw i dochodzenia roszczeń jej obywateli lub spółek. Przejęte prawa lub roszczenia nie mogą być większe niż pierwotne prawo lub roszczenie danego inwestora.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Investment disputes"
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Jakakolwiek płatność dokonana przez jedną Umawiającą się Stronę (lub jakąkolwiek jej agencję, instytucję, osobę prawa publicznego lub wyznaczoną korporację) na rzecz jej obywateli i spółek nie narusza prawa takich obywateli lub spółek do wysuwania roszczeń w stosunku do drugiej Umawiającej się Strony zgodnie z postanowieniami artykułu 13.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any dispute between an investor of one Contracting Party and the other Contracting Party in connection with an investment in the area of the other Contracting Party shall, as far as possible, be settled amicably through negotiations between the parties to the dispute. The party intending to resolve such dispute through negotiations shall give notice to the other of its intentions.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "If the dispute cannot be thus resolved as provided in paragraph (1) of this Article within 6 months from the date of notice given thereunder, then the Contracting Party and the investor concerned shall refer the dispute to either conciliation in accordance with the United Nations Commission on International Trade Law Rules of Conciliation 1980 or to arbitration in accordance with the United Nations Commission on International Trade Law Rules on Arbitration, 1976 subject to the following provisions:",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Spory inwestycyjne",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "Inrespect of conciliation proceedings, there shall be two conciliators, one each appointed by the respective parties; and",
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Każdy spór między inwestorem jednej Umawiającej się Strony a drugą Umawiającą się Stroną związany z inwestycją dokonaną na obszarze drugiej Umawiającej się Strony będzie rozstrzygany w miarę możliwości polubownie w drodze negocjacji między stronami sporu. Strona pragnąca rozstrzygnąć taki spór w drodze negocjacji poinformuje o swoich intencjach drugą stronę.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "in respect of arbitration proceedings, the following shall apply:",
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Jeżeli spór nie może być rozstrzygnięty zgodnie z postanowieniami ustępu 1 niniejszego artykułu w ciągu 6 miesięcy od daty powiadomienia drugiej strony, to Umawiająca się Strona i zainteresowany inwestor przekażą spór do rozstrzygnięcia w drodze koncyliacji zgodnie z Regulaminem w sprawie koncyliacji, opracowanym w roku 1980 przez Komisję Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego, lub w drodze arbitrażu zgodnie z Regulaminem arbitrażowym z roku 1976 opracowanym przez Komisję Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego, z zastosowaniem następujących postanowień:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_13/ust_2/lit_a",
+       "text": "w postępowaniu koncyliacyjnym będzie brało udział dwóch koncyliatorów, każdy z nich mianowany przez odnośną stronę sporu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_13/ust_2/lit_b",
+       "text": "w postępowaniu arbitrażowym będą miały zastosowanie następujące zasady:",
+       "children": [
+        {
+         "type": "text",
+         "text": "(i) Trybunał arbitrażowy składa się z trzech arbitrów. Każda strona mianuje jednego arbitra. Ci dwaj arbitrzy dokonają w drodze wzajemnego porozumienia wyboru przewodniczącego, będącego obywatelem trzeciego państwa, które posiada stosunki dyplomatyczne z rządami stron będących w sporze. Arbitrzy będą mianowani w ciągu dwóch miesięcy od dnia, w którym jedna ze stron w sporze poinformuje drugą stronę o jej zamiarze przedłożenia sporu do arbitrażu po upływie sześciu miesięcy, o których mowa w ustępie 2 niniejszego artykułu."
+        },
+        {
+         "type": "text",
+         "text": "Article 12"
+        },
+        {
+         "type": "text",
+         "text": "Subrogation"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "In the event that either Contracting Party (or any agency, institution, statutory body or corporation designated by it) as a result of an indemnity it has given in respect of an investment or any part thereof makes payment to its own nationals and companies in respect of any of their claims under this Agreement, the other Contracting Party acknowledges that the former Contracting Party (or any agency, institution, statutory body or corporation designated by it) is entitled by virtue of subrogation to exercise the rights and assert the claims of its own nationals and companies. The subrogated right or claim shall not be greater than the original right or claim of the said investor.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_2/lit_i",
-     "text": "The Arbitral Tribunal shall consist of three arbitrators. Each party shall select an arbitrator. These two arbitrators shall appoint by mutual agreement a Chairman who shall be a national of a third State which has diplomatic relations with the Governments of the parties to the dispute. The arbitrators shall be appointed within two months from the date when one of the parties to the dispute inform the other of its intention to submit the dispute to arbitration after the lapse of the six months mentioned in paragraph (2) of this Article.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Any payment made by one Contracting Party (or any agency, institution, statutory body or corporation designated by it) to its nationals and companies shall not affect the right of such nationals and companies to make their claims against the other Contracting Party in accordance with Article 13.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 13"
+      },
+      {
+       "type": "text",
+       "text": "Investment disputes"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Any dispute between an investor of one Contracting Party and the other Contracting Party in connection with an investment in the area of the other Contracting Party shall, as far as possible, be settled amicably through negotiations between the parties to the dispute. The party intending to resolve such dispute through negotiations shall give notice to the other of its intentions.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "If the dispute cannot be thus resolved as provided in paragraph (1) of this Article within 6 months from the date of notice given thereunder, then the Contracting Party and the investor concerned shall refer the dispute to either conciliation in accordance with the United Nations Commission on International Trade Law Rules of Conciliation 1980 or to arbitration in accordance with the United Nations Commission on International Trade Law Rules on Arbitration, 1976 subject to the following provisions:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_13/ust_2/lit_a",
+       "text": "Inrespect of conciliation proceedings, there shall be two conciliators, one each appointed by the respective parties; and",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_13/ust_2/lit_b",
+       "text": "in respect of arbitration proceedings, the following shall apply:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_13/ust_2/lit_i",
+       "text": "The Arbitral Tribunal shall consist of three arbitrators. Each party shall select an arbitrator. These two arbitrators shall appoint by mutual agreement a Chairman who shall be a national of a third State which has diplomatic relations with the Governments of the parties to the dispute. The arbitrators shall be appointed within two months from the date when one of the parties to the dispute inform the other of its intention to submit the dispute to arbitration after the lapse of the six months mentioned in paragraph (2) of this Article.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "(ii) Wyrok arbitrażowy będzie wydany na podstawie postanowień niniejszej umowy, odpowiednich ustaw krajowych, w tym norm prawa kolizyjnego obowiązującego na terytorium Umawiającej się Strony, na którym powstał spór, jak również na podstawie powszechnie uznanych norm prawa międzynarodowego."
+        },
+        {
+         "type": "text",
+         "text": "(iii) Jeżeli niezbędne nominacje nie zostaną dokonane w terminach określonych w ustępie 2 lite-"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "rab",
+       "path": "art_13/ust_2/lit_rab",
+       "text": "pkt (i), to każda z Umawiających się Stron, jeżeli nie zostanie osiągnięte między nimi inne porozumienie, może poprosić o dokonanie niezbędnych nominacji Sekretarza Generalnego Międzynarodowego Centrum Rozstrzygania Sporów Inwestycyjnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(iv) Trybunał podejmuje decyzje większością głosów."
+        },
+        {
+         "type": "text",
+         "text": "(v) Decyzje trybunału arbitrażowego są ostateczne i wiążące, a strony zobowiązane są uznać i zastosować się do postanowień jego wyroku."
+        },
+        {
+         "type": "text",
+         "text": "(vi) Trybunał arbitrażowy określa podstawy jego wyroku i na żądanie jednej ze stron podaje jego uzasadnienie, Każda strona ponosi koszty własnego arbitra (vii) i jej udziału w postępowaniu arbitrażowym. Koszt przewodniczącego z tytułu jego funkcji arbitrażowej i pozostałe koszty trybunału ponoszą w równych częściach zainteresowane strony. Trybunał może jednak postanowić, że jedna ze stron poniesie wyższe koszty i ta decyzja będzie wiążąca dla obydwu stron."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Zamiast postępowania arbitrażowego zgodnie z Regulaminem arbitrażowym z roku 1976 Komisji Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego strony mogą wybrać postępowanie zgodnie z Regulaminem arbitrażowym Międzynarodowego Centrum Arbitrażowego Singapuru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_13/ust_4",
+     "text": "Postępowanie koncyliacyjne lub arbitrażowe będzie przeprowadzone w miarę możliwości w Singapurze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_13/ust_5",
+     "text": "Postanowienia tego artykułu nie naruszają prawa Umawiających się Stron do zastosowania postępowania określonego w artykule 14, jeżeli spór dotyczy interpretacji lub stosowania niniejszej umowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Spory między Umawiającymi się Stronami",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Każdy spór między Umawiającymi się Stronami dotyczący interpretacji lub stosowania niniejszej umowy będzie rozstrzygany w miarę możliwości w drodze rokowań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Jeżeli spór nie może być uregulowany, to będzie on przedłożony przez jedną z Umawiających się Stron do rozstrzygnięcia w drodze arbitrażu. Trybunał arbitrażowy, zwany dalej „trybunałem”, będzie składał się z trzech arbitrów, w tym po jednym mianowanym przez każdą Umawiającą się Stronę, a trzeci, jako przewodniczący trybunału, będzie mianowany w drodze porozumienia przez Umawiające się Strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Wciągu dwóch miesięcy od złożenia wniosku o arbitraż każda Umawiająca się Strona mianuje jednego arbitra, a w ciągu następnych dwóch miesięcy od mianowania dwóch arbitrów Umawiające się Strony mianują trzeciego arbitra.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "ii",
+       "path": "art_14/ust_3/lit_ii",
+       "text": "The arbitral award shall be made in accordance with the provisions of this Agreement, the relevant domestic laws including the rules on the conflict of laws of the territory of the Contracting Party in which the investment dispute arises as well as the generally recognized principles of international law.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iii",
+       "path": "art_14/ust_3/lit_iii",
+       "text": "If the necessary appointments are not made within the period specified in paragraph (2) (b) (i), either party may, in the absence of any other agreement, request the Secretary-General of the International Centre for the Settlement of Investment Disputes to make the necessary appointments.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "iv",
+       "path": "art_14/ust_3/lit_iv",
+       "text": "The tribunal shall reach its decision by a majority of votes.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "v",
+       "path": "art_14/ust_3/lit_v",
+       "text": "The decision of the arbitral tribunal shall be final and the parties shall abide by and comply with the terms of its award.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "vi",
+       "path": "art_14/ust_3/lit_vi",
+       "text": "The arbitral tribunal shall state the basis of its decision and state reasons upon the request of either party. Each party concerned shall bear the cost of its own vii) arbitrator and its representation in the arbitral proceedings. The cost of the Chairman in discharging his arbitral function and the remaining costs of the tribunal shall be borne equally by the parties concerned. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borned by one of the two parties, and this award shall be binding on both parties.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Asan alternative to arbitration iii accordance with the United Nations Commission on Internaticiial Trade Law Rules on Arbitration, 1976, the parties may opt to have the arbitration conducted in accordance with the Arbitration Rules of the Singapore International Arbitration Centre.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "The conciliation or arbitration shall, as far as possible, be held in Singapore.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "The provisions of this Article shall not prejudice the Contracting Parties from using the procedures specified in",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 14 where a dispute concerns the interpretation or application of this Agreement."
+      },
+      {
+       "type": "text",
+       "text": "Article 14"
+      },
+      {
+       "type": "text",
+       "text": "Disputes between the Contracting Parties"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled through negotiation.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "If any dispute cannot be settled, it shall upon the request of either Contracting Party be submitted to arbitration. The arbitral tribunal (hereinafter called „the tribunal’) shall consist of three arbitrators, one appointed by each Contracting Party and the third, who shall be Chairman of the tribunal, appointed by agreement of the Contracting Parties.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Within two months of receipt of the request for arbitration, each Contracting Party shall appoint one arbitrator, and within two months of such appointment of the two arbitrators, the Contracting Parties shall appoint the third arbitrator.",
      "children": [
       {
        "type": "note",
-       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "(ii) Wyrok arbitrażowy będzie wydany na podstawie postanowień niniejszej umowy, odpowiednich ustaw krajowych, w tym norm prawa kolizyjnego obowiązującego na terytorium Umawiającej się Strony, na którym powstał spór, jak również na podstawie powszechnie uznanych norm prawa międzynarodowego."
-      },
-      {
-       "type": "text",
-       "text": "(iii) Jeżeli niezbędne nominacje nie zostaną dokonane w terminach określonych w ustępie 2 lite-"
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "rab",
-     "path": "ust_2/lit_rab",
-     "text": "pkt (i), to każda z Umawiających się Stron, jeżeli nie zostanie osiągnięte między nimi inne porozumienie, może poprosić o dokonanie niezbędnych nominacji Sekretarza Generalnego Międzynarodowego Centrum Rozstrzygania Sporów Inwestycyjnych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "(iv) Trybunał podejmuje decyzje większością głosów."
-      },
-      {
-       "type": "text",
-       "text": "(v) Decyzje trybunału arbitrażowego są ostateczne i wiążące, a strony zobowiązane są uznać i zastosować się do postanowień jego wyroku."
-      },
-      {
-       "type": "text",
-       "text": "(vi) Trybunał arbitrażowy określa podstawy jego wyroku i na żądanie jednej ze stron podaje jego uzasadnienie, Każda strona ponosi koszty własnego arbitra (vii) i jej udziału w postępowaniu arbitrażowym. Koszt przewodniczącego z tytułu jego funkcji arbitrażowej i pozostałe koszty trybunału ponoszą w równych częściach zainteresowane strony. Trybunał może jednak postanowić, że jedna ze stron poniesie wyższe koszty i ta decyzja będzie wiążąca dla obydwu stron."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zamiast postępowania arbitrażowego zgodnie z Regulaminem arbitrażowym z roku 1976 Komisji Narodów Zjednoczonych do Spraw Międzynarodowego Prawa Handlowego strony mogą wybrać postępowanie zgodnie z Regulaminem arbitrażowym Międzynarodowego Centrum Arbitrażowego Singapuru.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postępowanie koncyliacyjne lub arbitrażowe będzie przeprowadzone w miarę możliwości w Singapurze.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Postanowienia tego artykułu nie naruszają prawa Umawiających się Stron do zastosowania postępowania określonego w artykule 14, jeżeli spór dotyczy interpretacji lub stosowania niniejszej umowy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Spory między Umawiającymi się Stronami"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każdy spór między Umawiającymi się Stronami dotyczący interpretacji lub stosowania niniejszej umowy będzie rozstrzygany w miarę możliwości w drodze rokowań.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli spór nie może być uregulowany, to będzie on przedłożony przez jedną z Umawiających się Stron do rozstrzygnięcia w drodze arbitrażu. Trybunał arbitrażowy, zwany dalej „trybunałem”, będzie składał się z trzech arbitrów, w tym po jednym mianowanym przez każdą Umawiającą się Stronę, a trzeci, jako przewodniczący trybunału, będzie mianowany w drodze porozumienia przez Umawiające się Strony.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Wciągu dwóch miesięcy od złożenia wniosku o arbitraż każda Umawiająca się Strona mianuje jednego arbitra, a w ciągu następnych dwóch miesięcy od mianowania dwóch arbitrów Umawiające się Strony mianują trzeciego arbitra.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "ii",
-     "path": "ust_3/lit_ii",
-     "text": "The arbitral award shall be made in accordance with the provisions of this Agreement, the relevant domestic laws including the rules on the conflict of laws of the territory of the Contracting Party in which the investment dispute arises as well as the generally recognized principles of international law.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Jeżeli trybunał nie zostanie utworzony w ciągu trzech miesięcy od otrzymania wniosku o arbitraż, każda ze stron może, przy braku innego uzgodnienia, poprosić Przewodniczącego Międzynarodowego Trybunału Sprawiedliwości o mianowanie arbitra lub arbitrów jeszcze nie mianowanych. Jeżeli Przewodniczący jest obywatelem jednej z Umawiających się Stron lub jeżeli nie może spełnić prośby, to o spełnienie jej będzie poproszony Wiceprzewodniczący. Jeżeli Wiceprzewodniczący jest obywatelem jednej z Umawiających się Stron lub jeżeli nie może spełnić prośby, to o dokonanie niezbędnych nominacji będzie proszony kolejno najstarszy rangą sędzia Międzynarodowego Trybunału Sprawiedliwości.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "iii",
-     "path": "ust_3/lit_iii",
-     "text": "If the necessary appointments are not made within the period specified in paragraph (2) (b) (i), either party may, in the absence of any other agreement, request the Secretary-General of the International Centre for the Settlement of Investment Disputes to make the necessary appointments.",
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "Trybunał podejmuje decyzje większością głosów.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "iv",
-     "path": "ust_3/lit_iv",
+     "type": "ust",
+     "num": "6",
+     "path": "art_14/ust_6",
+     "text": "Postanowienia trybunału są ostateczne, a Umawiające się Strony uznają je i zastosują się do postanowień wyroku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_14/ust_7",
+     "text": "Każda Umawiająca się Strona ponosi koszty własnego arbitra i jej udziału w postępowaniu arbitrażowym oraz połowę kosztów przewodniczącego i pozostałych kosztów. Trybunał może jednak orzec, że jedna ze stron poniesie większą część kosztów i taka decyzja będzie wiążąca dla obydwu stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_14/ust_8",
+     "text": "Ponadto trybunał ustali własny regulamin procedury.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Inne zobowiązania",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jeżeli ustawodawstwo jednej z Umawiających się Stron lub jeżeli istniejące lub przyszłe zobowiązania między Umawiającymi się Stronami zawierają w uzupełnieniu do niniejszej umowy dodatkowe postanowienia uprawniające inwestycje dokonane przez obywateli drugiej Umawiającej się Strony do traktowania bardziej korzystnego od przewidzianego w niniejszej umowie, to te postanowienia będą miały pierwszeństwo przed niniejszą umową. Każda Umawiająca się Strona będzie przestrzegać zobowiązań zgodnie z jej ustawodawstwem w uzupełnieniu do wymienionych w niniejszej umowie, przyjętych przez Umawiającą się Stronę, jej obywateli i spółki w odniesieniu do inwestycji dokonanych przez obywateli i spółki drugiej Umawiającej się Strony."
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wejście w życie, okres ważności i wypowiedzenie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Każda Umawiająca się Strona powiadomi drugą Umawiającą się Stronę w drodze oficjalnej noty o spełnieniu jej wewnętrznej procedury prawnej wymaganej dla wejścia w życie niniejszej umowy. Niniejsza umowa wejdzie w życie trzydziestego dnia od daty późniejszej noty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Niniejsza umowa pozostanie w mocy przez okres piętnastu lat i będzie obowiązywała przez następne okresy, jeżeli po upływie początkowego okresu czternastu lat jedna z Umawiających się Stron nie powiadomi pisemnie drugiej Umawiającej się Strony o zamiarze wypowiedzenia niniejszej umowy. Nota o wypowiedzeniu wejdzie w życie po roku od daty jej otrzymania przez drugą Umawiającą się Stronę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_16/ust_4",
+     "text": "If the tribunal shall not have been constituted within four months of receipt of the request for arbitration, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to appoint the arbitrator or arbitrators not yet appointed. Ifthe President is a national of either Contracting Party or if he is unable to do so, the Vice-President may be invited to do so. If the Vice-President is a national of either Contracting Party or if he is unable to do so, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party may be invited to make the necessary appointments, and so on.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_16/ust_5",
      "text": "The tribunal shall reach its decision by a majority of votes.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "v",
-     "path": "ust_3/lit_v",
-     "text": "The decision of the arbitral tribunal shall be final and the parties shall abide by and comply with the terms of its award.",
+     "type": "ust",
+     "num": "6",
+     "path": "art_16/ust_6",
+     "text": "The tribunal's decision shall be final and the Contracting Parties shall abide by and comply with the terms of its award.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "vi",
-     "path": "ust_3/lit_vi",
-     "text": "The arbitral tribunal shall state the basis of its decision and state reasons upon the request of either party. Each party concerned shall bear the cost of its own vii) arbitrator and its representation in the arbitral proceedings. The cost of the Chairman in discharging his arbitral function and the remaining costs of the tribunal shall be borne equally by the parties concerned. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borned by one of the two parties, and this award shall be binding on both parties.",
+     "type": "ust",
+     "num": "7",
+     "path": "art_16/ust_7",
+     "text": "Each Contracting Party shall bear the costs of its own member of the tribunal and of its representation in the arbitration proceedings and half the costs of the Chairman and the remaining costs. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Parties, and this award shall be binding on both Parties.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_16/ust_8",
+     "text": "Apart from the above the tribunal shall establish its own rules of procedure.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Article 15"
+      },
+      {
+       "type": "text",
+       "text": "Other obligations"
+      },
+      {
+       "type": "text",
+       "text": "If the legislation of either Contracting Party or international obligations existing at present or established hereafter between the Contracting Parties in addition to this Agreement, result in a position entitling investments by nationals of the other Contracting Party to treatment more favourable than is provided for by this Agreement, such position shall not be affected by this Agreement. Each Contracting Party shall observe any commitment in accordance with its laws additional to those specified in this Agreement entered into by the Contracting Party, its nationals or companies with nationals or companies of the other Contracting Party as regards their investments."
+      },
+      {
+       "type": "text",
+       "text": "Article 16"
+      },
+      {
+       "type": "text",
+       "text": "Entry into force, duration and termination"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Each Contracting Party shall notify the other Contracting Party of the fulfillment of its internal legal procedures required for the bringing into force of this Agreement. This Agreement shall enter into force on the thirtieth day from the date of notification of the later Contracting Party.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "This Agreement shall remain in force for a period of fifteen years and shall continue in force thereafter unless, after the expiry of the initial period of fourteen years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting Party.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "W odniesieniu do inwestycji dokonanych przed datą wejścia w życie noty o wypowiedzeniu niniejszej umowy postanowienia artykułów od 1 do 15 pozostaną w mocy przez okres następnych piętnastu lat od tej daty.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Asan alternative to arbitration iii accordance with the United Nations Commission on Internaticiial Trade Law Rules on Arbitration, 1976, the parties may opt to have the arbitration conducted in accordance with the Arbitration Rules of the Singapore International Arbitration Centre.",
-   "children": []
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani, należycie upoważnieni przez ich właściwe Rządy, podpisali niniejszą umowę."
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "The conciliation or arbitration shall, as far as possible, be held in Singapore.",
-   "children": []
+   "type": "text",
+   "text": "Sporządzono w Warszawie dnia 3 czerwca 1993 r. w dwóch egzemplarzach w języku angielskim."
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "The provisions of this Article shall not prejudice the Contracting Parties from using the procedures specified in",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 14 where a dispute concerns the interpretation or application of this Agreement."
-    },
-    {
-     "type": "text",
-     "text": "Article 14"
-    },
-    {
-     "type": "text",
-     "text": "Disputes between the Contracting Parties"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Any dispute between the Contracting Parties concerning the interpretation or application of this Agreement shall, as far as possible, be settled through negotiation.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "If any dispute cannot be settled, it shall upon the request of either Contracting Party be submitted to arbitration. The arbitral tribunal (hereinafter called „the tribunal’) shall consist of three arbitrators, one appointed by each Contracting Party and the third, who shall be Chairman of the tribunal, appointed by agreement of the Contracting Parties.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Within two months of receipt of the request for arbitration, each Contracting Party shall appoint one arbitrator, and within two months of such appointment of the two arbitrators, the Contracting Parties shall appoint the third arbitrator.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli trybunał nie zostanie utworzony w ciągu trzech miesięcy od otrzymania wniosku o arbitraż, każda ze stron może, przy braku innego uzgodnienia, poprosić Przewodniczącego Międzynarodowego Trybunału Sprawiedliwości o mianowanie arbitra lub arbitrów jeszcze nie mianowanych. Jeżeli Przewodniczący jest obywatelem jednej z Umawiających się Stron lub jeżeli nie może spełnić prośby, to o spełnienie jej będzie poproszony Wiceprzewodniczący. Jeżeli Wiceprzewodniczący jest obywatelem jednej z Umawiających się Stron lub jeżeli nie może spełnić prośby, to o dokonanie niezbędnych nominacji będzie proszony kolejno najstarszy rangą sędzia Międzynarodowego Trybunału Sprawiedliwości.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Trybunał podejmuje decyzje większością głosów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Postanowienia trybunału są ostateczne, a Umawiające się Strony uznają je i zastosują się do postanowień wyroku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Każda Umawiająca się Strona ponosi koszty własnego arbitra i jej udziału w postępowaniu arbitrażowym oraz połowę kosztów przewodniczącego i pozostałych kosztów. Trybunał może jednak orzec, że jedna ze stron poniesie większą część kosztów i taka decyzja będzie wiążąca dla obydwu stron.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Ponadto trybunał ustali własny regulamin procedury.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Inne zobowiązania"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli ustawodawstwo jednej z Umawiających się Stron lub jeżeli istniejące lub przyszłe zobowiązania między Umawiającymi się Stronami zawierają w uzupełnieniu do niniejszej umowy dodatkowe postanowienia uprawniające inwestycje dokonane przez obywateli drugiej Umawiającej się Strony do traktowania bardziej korzystnego od przewidzianego w niniejszej umowie, to te postanowienia będą miały pierwszeństwo przed niniejszą umową. Każda Umawiająca się Strona będzie przestrzegać zobowiązań zgodnie z jej ustawodawstwem w uzupełnieniu do wymienionych w niniejszej umowie, przyjętych przez Umawiającą się Stronę, jej obywateli i spółki w odniesieniu do inwestycji dokonanych przez obywateli i spółki drugiej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Wejście w życie, okres ważności i wypowiedzenie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każda Umawiająca się Strona powiadomi drugą Umawiającą się Stronę w drodze oficjalnej noty o spełnieniu jej wewnętrznej procedury prawnej wymaganej dla wejścia w życie niniejszej umowy. Niniejsza umowa wejdzie w życie trzydziestego dnia od daty późniejszej noty.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa pozostanie w mocy przez okres piętnastu lat i będzie obowiązywała przez następne okresy, jeżeli po upływie początkowego okresu czternastu lat jedna z Umawiających się Stron nie powiadomi pisemnie drugiej Umawiającej się Strony o zamiarze wypowiedzenia niniejszej umowy. Nota o wypowiedzeniu wejdzie w życie po roku od daty jej otrzymania przez drugą Umawiającą się Stronę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "If the tribunal shall not have been constituted within four months of receipt of the request for arbitration, either Contracting Party may, in the absence of any other agreement, invite the President of the International Court of Justice to appoint the arbitrator or arbitrators not yet appointed. Ifthe President is a national of either Contracting Party or if he is unable to do so, the Vice-President may be invited to do so. If the Vice-President is a national of either Contracting Party or if he is unable to do so, the Member of the International Court of Justice next in seniority who is not a national of either Contracting Party may be invited to make the necessary appointments, and so on.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "The tribunal shall reach its decision by a majority of votes.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "The tribunal's decision shall be final and the Contracting Parties shall abide by and comply with the terms of its award.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Each Contracting Party shall bear the costs of its own member of the tribunal and of its representation in the arbitration proceedings and half the costs of the Chairman and the remaining costs. The tribunal may, however, in its decision direct that a higher proportion of costs shall be borne by one of the two Parties, and this award shall be binding on both Parties.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Apart from the above the tribunal shall establish its own rules of procedure.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 15"
-    },
-    {
-     "type": "text",
-     "text": "Other obligations"
-    },
-    {
-     "type": "text",
-     "text": "If the legislation of either Contracting Party or international obligations existing at present or established hereafter between the Contracting Parties in addition to this Agreement, result in a position entitling investments by nationals of the other Contracting Party to treatment more favourable than is provided for by this Agreement, such position shall not be affected by this Agreement. Each Contracting Party shall observe any commitment in accordance with its laws additional to those specified in this Agreement entered into by the Contracting Party, its nationals or companies with nationals or companies of the other Contracting Party as regards their investments."
-    },
-    {
-     "type": "text",
-     "text": "Article 16"
-    },
-    {
-     "type": "text",
-     "text": "Entry into force, duration and termination"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Each Contracting Party shall notify the other Contracting Party of the fulfillment of its internal legal procedures required for the bringing into force of this Agreement. This Agreement shall enter into force on the thirtieth day from the date of notification of the later Contracting Party.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "This Agreement shall remain in force for a period of fifteen years and shall continue in force thereafter unless, after the expiry of the initial period of fourteen years, either Contracting Party notifies in writing the other Contracting Party of its intention to terminate this Agreement. The notice of termination shall become effective one year after it has been received by the other Contracting Party.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W odniesieniu do inwestycji dokonanych przed datą wejścia w życie noty o wypowiedzeniu niniejszej umowy postanowienia artykułów od 1 do 15 pozostaną w mocy przez okres następnych piętnastu lat od tej daty.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Na dowód czego niżej podpisani, należycie upoważnieni przez ich właściwe Rządy, podpisali niniejszą umowę."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Warszawie dnia 3 czerwca 1993 r. w dwóch egzemplarzach w języku angielskim."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Rządu Z upoważnienia Rządu Republiki Singapuru Rzeczypospolitej Polskiej Hsu Tse-Kwang A. Ananicz"
-    }
-   ]
+   "type": "text",
+   "text": "Z upoważnienia Rządu Z upoważnienia Rządu Republiki Singapuru Rzeczypospolitej Polskiej Hsu Tse-Kwang A. Ananicz"
   },
   {
    "type": "ust",
@@ -1364,24 +1371,24 @@
     {
      "type": "text",
      "text": "For the Government For the Government of the Republic of Poland of the Republic of Singapore A. Ananicz Hsu Tse-Kwang"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 7 października 1993 r."
-    },
-    {
-     "type": "text",
-     "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
     }
    ]
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 7 października 1993 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
   },
   {
    "type": "signature",

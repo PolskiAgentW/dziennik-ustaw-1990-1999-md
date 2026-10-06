@@ -89,31 +89,31 @@
     {
      "type": "text",
      "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym, złożonym w dniu 9 września 1986 r."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Austria w zasadzie będzie stosować tryb postępowania, o którym mowa w art. 9 ust. 1 lit. b) i w art. 11. Jednakże nie wyklucza się stosowania trybu postępowania, o którym mowa w art. 9 ust. 1 lit. a) i w art. 10, w przypadku gdy inna Umawiająca się Strona nie zamierza stosować trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b) i w art. 11, i gdy wymaga tego interes przekazania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Austria wymaga notyfikowania tranzytu drogą lotniczą osób skazanych. Zgody na tranzyt drogą powietrzną nie wydaje się, jeżeli osoba przekazywana jest obywatelem Austrii."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Jeżeli wniosek i załączone dokumenty nie zostały sporządzone w języku niemieckim, francuskim lub angielskim, należy dołączyć do nich tłumaczenie na jeden z tych jezyków."
-    },
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Austria w zasadzie będzie stosować tryb postępowania, o którym mowa w art. 9 ust. 1 lit. b) i w art. 11. Jednakże nie wyklucza się stosowania trybu postępowania, o którym mowa w art. 9 ust. 1 lit. a) i w art. 10, w przypadku gdy inna Umawiająca się Strona nie zamierza stosować trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b) i w art. 11, i gdy wymaga tego interes przekazania.",
+   "children": [],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Austria wymaga notyfikowania tranzytu drogą lotniczą osób skazanych. Zgody na tranzyt drogą powietrzną nie wydaje się, jeżeli osoba przekazywana jest obywatelem Austrii.",
+   "children": [],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Jeżeli wniosek i załączone dokumenty nie zostały sporządzone w języku niemieckim, francuskim lub angielskim, należy dołączyć do nich tłumaczenie na jeden z tych jezyków.",
+   "children": [
     {
      "type": "text",
      "text": "BELGIA"
@@ -229,14 +229,14 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_17/lit_a",
      "text": "Zgdnie z art. 3 ust. 4 Finlandia rozumie przez „obywatela obywatela państwa wykonania i cudzoziemców, który mają stałe miejsce zamieszkania w państwie wykonnia.",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_17/lit_b",
      "text": "Zgdnie z art. 17 ust. 3 wnioski o przekazanie i załączone lokumenty muszą być sporządzone w języku fińskin, szwedzkim, angielskim lub francuskim albo należy lo nich dołączyć tłumaczenie na jeden z tych języków.",
      "children": [
       {
@@ -404,474 +404,43 @@
        "text": "Oświadczenia dołączone do dokumentu przyjęcia złożonego dnia 30 września 1987 r."
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W odniesieniu do art. 3 ust. 3 konwencji: W zakresie, w jakim dotyczy to Królestwa Holandii, wyrażenie „obywatel” obejmuje wszystkie osoby, które podlegają przepisom ustawy określającej status Molukańczyków z dnia 9 września 1976 r. (Dziennik Ustaw, Rozporządzeń i Dekretów nr 468), a także cudzoziemców i bezpaństwowców, którzy mają jedyne miejsce stałego zamieszkania na terenie Królestwa i którzy, zgodnie z oświadczeniem składanym w tym celu rządowi państwa skazania przez rząd holenderski, nie tracą, zgodnie z warunkami niniejszej konwencji, prawa zamieszkiwania w Królestwie na skutek wykonania kary lub środka.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W odniesieniu do art. 17 ust. 3 konwencji: Dokumenty kierowane do Królestwa należy sporządzić w języku niderlandzkim, francuskim, angielskim lub niemieckim albo należy do nich dotaczyé tłumaczenie na jeden z tych czterech języków.",
-   "children": [
-    {
-     "type": "text",
-     "text": "ISLANDIA"
     },
     {
-     "type": "text",
-     "text": "Oświadczenia zawarte w nocie werbalnej Stałego Przedstawiciela Islandii, wręczonej Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego w dniu 6 sierpnia 1993 r."
-    },
-    {
-     "type": "text",
-     "text": "Zgodnie z postanowieniami art. 3 ust. 4 Islandia oświadcza, że wyrażenie „obywatel” (użyte w art. 3 ust. 1 lit. a) oznacza w rozumieniu niniejszej konwencji osobę mającą obywatelstwo islandzkie albo posiadającą stałe miejsce zamieszkania na terytorium Republiki Islandii. Zgodnie z postanowieniami art. 9 ust. 4 Islandia zastrzega sobie prawo stosowania zatrzymania prewencyjnego lub hospitalizacji osób z zaburzeniami psychicznymi."
-    },
-    {
-     "type": "text",
-     "text": "Zgodnie z postanowieniami art. 17 ust. 3 Islandia wymaga, aby do wniosków o przekazanie i zataczanych dokumentów dołączano tłumaczenie na język islandzki, angielski, duński, norweski lub szwedzki."
-    },
-    {
-     "type": "text",
-     "text": "LUKSEMBURG"
-    },
-    {
-     "type": "text",
-     "text": "Oświadczenia dołączone do dokumentu tatyfikacyjnego złożonego dnia 9 października 1987 r."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 3 ust. 3"
-    },
-    {
-     "type": "text",
-     "text": "Wielkie Księstwo Luksemburga oświadca, że zamierza wyłączyć, jako państwo wykonania, stosowane trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b),w swoich stosunkach z innymi stronami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17 ust. 3"
-    },
-    {
-     "type": "text",
-     "text": "Wielkie Księstwo Luksemburga oświadcia, :e zgodnie z art. 17 ust. 3 konwencji do wniosków o przekazinie i zataczanych dokumentów należy dołączyć ttumacene na język francuski lub niemiecki."
-    },
-    {
-     "type": "text",
-     "text": "MALTA"
-    },
-    {
-     "type": "text",
-     "text": "Oświadczenia zawarte w liście Stałego Przectawiciela z dnia 13 maja 1991 r., zarejestrowanym w Sekretriacie Generalnym tego samego dnia."
-    },
-    {
-     "type": "text",
-     "text": "W odniesieniu do art. 3 ust. 3"
-    },
-    {
-     "type": "text",
-     "text": "Malta całkowicie wyklucza stosowanie trybusostępowania, o którym mowa w art. 9 ust. 1 lit. b)."
-    },
-    {
-     "type": "text",
-     "text": "W odniesieniu do art. 9 ust. 4"
-    },
-    {
-     "type": "text",
-     "text": "W przypadku osoby zatrzymanej w szpitalu ni podstawie orzeczenia sądu ze względu na zaburzenia pschiczne, zastosowany tryb postępowania musi być zgocny z>rzepisami art. 49 ust. 4 i 5 ustawy o zdrowiu psychiczrym 1976 r."
-    },
-    {
-     "type": "text",
-     "text": "W odniesieniu do art. 17 ust. 2i 3"
-    },
-    {
-     "type": "text",
-     "text": "Do wniosków o przekazanie i zataczanych cokunentow, jeśli nie sporządzono ich w języku angielskim, naliży dołączyć ich tłumaczenie na język angielski."
-    },
-    {
-     "type": "text",
-     "text": "NIEMCY"
-    },
-    {
-     "type": "text",
-     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela, złożonym w czasie składania dokumentu raiyfikecyjnego w dniu 31 października 1991 r., dotyczące konwencji jako całości"
-    },
-    {
-     "type": "text",
-     "text": "Zgodnie z preambułą konwencji, Republika Federalna Niemiec rozumie, że stosowanie konwencji powinno służyć nie tylko resocjalizacji skazanych, ale także celom wymiaru sprawiedliwości. Zgodnie z tym Niemcy będą podejmować decyzje o przekazywaniu skazanych w każdej konkretnej sprawie na podstawie wszystkich celów kary stanowiących podstawę ich prawa karnego."
-    },
-    {
-     "type": "text",
-     "text": "Do artykułu 2 ust. 2 zdanie drugie"
-    },
-    {
-     "type": "text",
-     "text": "Republika Federalna Niemiec interpretuje konwencję jako akt tworzący prawa i obowiązki wyłącznie pomiędzy jej stronami, a zatem konwencja nie stworzyła ani nie tworzy dla osób skazanych podstawy do roszczeń ani praw podmiotowych."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Do artykułu 3 ust. 1"
-    },
-    {
-     "type": "text",
-     "text": "Republika Federalna Niemiec przejmie wykonanie skazania zgodnie z niniejszą konwencją wyłącznie pod warunkiem, że:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "wyrok wydano w postępowaniu zgodnym z Europejską konwencją o ochronie praw człowieka i podstawowych wolności z dnia 4 listopada 1950 r. oraz Protokołami dodatkowymi do tej konwencji, jeśli weszły w życie w stosunku do Republiki Federalnej Niemiec,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "W odniesieniu do art. 3 ust. 3 konwencji: W zakresie, w jakim dotyczy to Królestwa Holandii, wyrażenie „obywatel” obejmuje wszystkie osoby, które podlegają przepisom ustawy określającej status Molukańczyków z dnia 9 września 1976 r. (Dziennik Ustaw, Rozporządzeń i Dekretów nr 468), a także cudzoziemców i bezpaństwowców, którzy mają jedyne miejsce stałego zamieszkania na terenie Królestwa i którzy, zgodnie z oświadczeniem składanym w tym celu rządowi państwa skazania przez rząd holenderski, nie tracą, zgodnie z warunkami niniejszej konwencji, prawa zamieszkiwania w Królestwie na skutek wykonania kary lub środka.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "w Republice Federalnej Niemiec, w stosunku do oskarżonego w sprawie o to samo przestępstwo, nie wydano wyroku lub orzeczenia wywołującego podobne skutki prawne,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "wykonaniu kary, zgodnie z prawem obowiązującym w Republice Federalnej Niemiec, nie stoi na przeszkodzie upływ przedawnienia ani nie stałby po analogicznym przekształceniu faktów.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "W odniesieniu do art. 17 ust. 3 konwencji: Dokumenty kierowane do Królestwa należy sporządzić w języku niderlandzkim, francuskim, angielskim lub niemieckim albo należy do nich dotaczyé tłumaczenie na jeden z tych czterech języków.",
      "children": [
       {
        "type": "text",
-       "text": "Republika Federalna Niemiec przekaże wykonanie orzeczenia, zgodnie z niniejszą konwencją, innemu państwu wyłącznie wówczas, gdy otrzyma gwarancję, że:"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "skazany będzie ścigany, skazany, zatrzymany w celu odbycia kary lub środka zabezpieczającego albo w jakikolwiek inny sposób ograniczy się jego wolność osobistą w związku z popełnieniem przestępstwa innego niż to, w związku z którym nastąpiło przekazanie, popełnionego przed przekazaniem, wyłącznie gdy:",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "aa",
-     "path": "ust_2/lit_aa",
-     "text": "Republika Federalna Niemiec wyrazi na to zgodę,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "albo"
-    },
-    {
-     "type": "lit",
-     "num": "bb",
-     "path": "ust_2/lit_bb",
-     "text": "przekazany nie opuścił terytorium państwa wykonania w ciągu 45 dni od ostatecznego zwolnienia, pomimo że miał ku temu sposobność, albo gdy opuścił jego terytorium, następnie na nie powrócił, oraz",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "państwo wykonania nie będzie ścigać za przestępstwo, którego dotyczy orzeczenie, ani nie wyda w tej sprawie nowego wyroku.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Do artykułu 3 ust. 3"
-      },
-      {
-       "type": "text",
-       "text": "Republika Federalna Niemiec przejmie wykonywanie orzeczeń wyłącznie pod warunkiem, że niemiecki sąd uzna orzeczenie wydane w państwie skazania za wykonalne. Przy orzekaniu, czy zostały spełnione warunki do przyjęcia wykonania, sąd będzie opierał się na faktach i wnioskach opartych w wyroku."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 3 ust. 4"
-      },
-      {
-       "type": "text",
-       "text": "Wyrażenie „obywatel” obejmuje wszystkich Niemców w rozumieniu art. 116 ust. 1 Ustawy zasadniczej Republiki Federalnej Niemiec."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 4"
-      },
-      {
-       "type": "text",
-       "text": "Republika Federalna Niemiec odmawia udzielania informacji, o których mowa w art. 4 ust. 2 —5, jeżeli, zdaniem właściwych organów niemieckich, wniosek o przekazanie wykonania jest niedopuszczalny a priori. Uważa, że obowiązek informowania skazanych istnieje wyłącznie wówczas, gdy jest to zgodne z właściwymi przepisami prawa wewnętrznego, zwłaszcza że skazany nie ma prawa być informowany o przebiegu wewnętrznego postępowania urzędowego."
-      },
-      {
-       "type": "text",
-       "text": "Wnioski mogą także sporządzać ministerstwa sprawiedliwości krajów związkowych Republiki Federalnej Niemiec, jak również można je do nich kierować."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 7 ust. 1"
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z prawem obowiązującym w Republice Federalnej Niemiec, zgody nie można cofnąć."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 8 ust. 1"
-      },
-      {
-       "type": "text",
-       "text": "Organy Republiki Federalnej Niemiec niezwłocznie podejmą środki zmierzające do kontynuowania wykonania kary, jeżeli skazany ucieknie z zakładu lub w inny sposób będzie unikał odbycia kary po tym, jak organy państwa wykonania przejmą go, a przed zakończeniem wykonywania kary. Dlatego też, jeżeli skazany zostanie ujęty na terytorium Republiki Federalnej Niemiec przed upływem połowy okresu pozostałego do odbycia kary, zgodnie z orzeczeniem wydanym lub przekształconym w państwie wykonania, będą się domniemywać, że zbiegł, i zatrzymają go do dalszych wyjaśnień, chyba że państwo wykonania, oprócz obowiązków przewidzianych w art. 15, powiadomi, że skazanego warunkowo zwolniono albo że wykonanie kary zostało z innych powodów przerwane."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 12"
-      },
-      {
-       "type": "text",
-       "text": "Ze względu na strukturę federalną Republiki Federalnej Niemiec oraz na fakt, że kraje związkowe są właściwe do wydawania decyzji w sprawie ułaskawienia, Republika Federalna Niemiec zastrzega sobie prawo przekazania wykonania orzeczenia do innego państwa członkowskiego, na podstawie niniejszej konwencji, wyłącznie pod warunkiem, że państwo wykonania, na podstawie deklaracji ogólnej albo oświadczeń składanych w każdej sprawie, zastosuje prawo łaski wyłącznie za zgodą właściwych do tego organów niemieckich."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 16 ust. 2"
-      },
-      {
-       "type": "text",
-       "text": "Republika Federalna Niemiec oświadcza, że zastrzega sobie możliwość odmowy udzielenia zgody na tranzyt, zgodnie z postanowieniami art. 16 ust. 2 lit. a) i b)."
-      },
-      {
-       "type": "text",
-       "text": "Do artykułu 17 ust. 2i3"
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli wniosek o przekazanie i załączone dokumenty nie zostały sporządzone w języku niemieckim, należy do nich dołączyć tłumaczenia wniosku i tych dokumentów na język niemiecki lub jeden z języków urzędowych Rady Europy."
-      },
-      {
-       "type": "text",
-       "text": "NORWEGIA"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym złożonym w dniu 9 grudnia 1992 r."
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z art. 3 ust. 4 konwencji Królestwo Norwegii rozumie, że dla celów niniejszej konwencji wyrażenie „obywatel” oznacza osobę, która jest obywatelem państwa wykonania albo która ma miejsce stałego zamieszkania w tym państwie albo w przypadku, gdy przekazanie uzna się za właściwe ze względu na jakiekolwiek ścisłe związki tej osoby z jego terytorium."
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z art. 9 ust. 4 Królestwo Norwegii zastrzega sobie prawo zastosowania zatrzymania prewencyjnego lub hospitalizacji osób z zaburzeniami psychicznymi."
-      },
-      {
-       "type": "text",
-       "text": "Ponadto zgodnie z postanowieniem art. 17 ust. 3 Norwegia oświadcza, że do wniosku o przekazanie i załączonych dokumentów należy dołączyć tłumaczenie na język norweski, angielski albo na duński lub szwedzki."
-      },
-      {
-       "type": "note",
-       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Ponadto zgodnie z art. 20 konwencji Norwegia oświadcza, że konwencję stosuje się także do Wyspy Bouvet, Wyspy Piotra | i Ziemi Królowej Maud."
-      },
-      {
-       "type": "text",
-       "text": "PORTUGALIA"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym, złożonym w dniu 28 czerwca 1993 r."
-      },
-      {
-       "type": "text",
-       "text": "A. Portugalia będzie stosować tryb postępowania, o którym mowa w art. 9 ust. 1 lit. a), w przypadku gdy będzie ona państwem wykonania."
-      },
-      {
-       "type": "text",
-       "text": "B. Wykonanie orzeczenia zagranicznego będzie dokonane na podstawie orzeczenia sądu portugalskiego stwierdzającego jego wykonalność, wydanego po wcześniejszej kontroli i zatwierdzeniu."
-      },
-      {
-       "type": "text",
-       "text": "C. Jeżeli zachodzi konieczność dostosowania orzeczonej za granicą kary, w zależności od przypadku, Portugalia przekształci, zgodnie z prawem portugalskim, karę orzeczoną za granicą albo skróci jej wymiar, jeżeli przekracza ona maksymalny wymiar kary przewidziany przez prawo portugalskie."
-      },
-      {
-       "type": "text",
-       "text": "D. Dla celu art. 3 ust. 4 Portugalia oświadcza, że wyrażenie „obywatel” obejmuje wszystkich obywateli portugalskich, niezależnie od sposobu nabycia obywatelstwa."
-      },
-      {
-       "type": "text",
-       "text": "E. Portugalia może wyrazić zgodę na przekazanie cudzoziemców i bezpaństwowców, którzy mają stałe miejsce zamieszkania w państwie wykonania."
-      },
-      {
-       "type": "text",
-       "text": "F. Zgodnie z art. 16 ust. 7 Portugalia domaga się notyfikacji o tranzycie drogą lotniczą ponad jej terytorium."
-      },
-      {
-       "type": "text",
-       "text": "G. Portugalia domaga się, aby do dokumentów, o których mowa w art. 17 ust. 3, dołączano tłumaczenie na język portugalski lub francuski."
-      },
-      {
-       "type": "text",
-       "text": "SZWAJCARIA"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenie zawarte w dokumencie ratyfikacyjnym złożonym w dniu 15 stycznia 1988 r."
-      },
-      {
-       "type": "text",
-       "text": "a. Artykuł 3 ust. 3"
-      },
-      {
-       "type": "text",
-       "text": "Szwajcaria wytącza stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b), w przypadku, gdy jest państwem wykonania."
-      },
-      {
-       "type": "text",
-       "text": "b. Artykuł 5 ust. 3"
-      },
-      {
-       "type": "text",
-       "text": "Szwajcaria oświadcza, że Federalne Biuro Policji w ramach Federalnego Departamentu Sprawiedliwości i Policji jest organem właściwym, w rozumieniu art. 5 ust. 3, do wysyłania i przyjmowania:"
-      },
-      {
-       "type": "text",
-       "text": "— informacji, o których mowa w art. 4 ust. 2—4,"
-      },
-      {
-       "type": "text",
-       "text": "— wniosków o przekazanie i odpowiedzi, o których mowa w art. 2 ust. 3 i art. 5 ust. 4,"
-      },
-      {
-       "type": "text",
-       "text": "— zataczanych dokumentów, o których mowa w art. 6,"
-      },
-      {
-       "type": "text",
-       "text": "— informacji, o których mowa w art. 14 i 15,"
-      },
-      {
-       "type": "text",
-       "text": "— wniosków o udzielenie zgody na tranzyt i odpowiedzi na te wnioski, o których mowa w art. 16. c. Artykuł 6 ust. 2 lit. a)"
-      },
-      {
-       "type": "text",
-       "text": "Szwajcaria rozumie, że art. 6 ust. 2 lit. a) oznacza, że do uwierzytelnionego odpisu orzeczenia należy dołączyć stwierdzenie jego wykonalności."
-      },
-      {
-       "type": "text",
-       "text": "d. Artykuł 7 ust. 1"
-      },
-      {
-       "type": "text",
-       "text": "Szwajcaria uznaje, że zgody na przekazanie nie można cofnąć po tym, jak na skutek zgody zainteresowanych państw Federalne Biuro Policji podjęło decyzję o przekazaniu."
-      },
-      {
-       "type": "text",
-       "text": "e. Artykuł 17 ust. 3"
-      },
-      {
-       "type": "text",
-       "text": "Szwajcaria wymaga, aby do wniosków o przekazanie i załączonych dokumentów dołączano ich tłumaczenia na język francuski, niemiecki lub włoski, jeśli nie zostały one sporządzone w jednym z tych języków."
-      },
-      {
-       "type": "text",
-       "text": "SZWECJA"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym, złożonym w dniu 9 stycznia 1985 r."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 3 ust. 4"
-      },
-      {
-       "type": "text",
-       "text": "Rząd szwedzki wskazuje, że wnioski i inne zawiadomienia kieruje i wysyła Ministerstwo Spraw Zagranicznych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9 ust. 4"
-      },
-      {
-       "type": "text",
-       "text": "Rząd szwedzki oświadcza, że w zakresie, w jakim to go dotyczy, i w sprawach, o których mowa w tym przepisie, może mieć zastosowanie wyłącznie przekształcenie orzeczenia."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 17 ust. 3"
-      },
-      {
-       "type": "text",
-       "text": "Rząd szwedzki oświadcza, że wnioski i informacje przekazywane do Szwecji, jeśli nie sporządzono ich w języku duńskim, angielskim, norweskim lub szwedzkim, powinny zostać przetłumaczone na język szwedzki lub angielski."
-      },
-      {
-       "type": "text",
-       "text": "TURCJA"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym złożonym w dniu 3 września 1987 r."
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z art. 5 ust. 3 porozumiewanie się dotyczące stosowania niniejszej konwencji następuje drogą dyplomatyczną."
-      },
-      {
-       "type": "text",
-       "text": "Zgodnie z art. 17 ust. 3 do wniosków o przekazanie i załączonych dokumentów dołącza się tłumaczenia na język turecki."
-      },
-      {
-       "type": "text",
-       "text": "Koszty przekazania, zgodnie z postanowieniami art. 17 ust. 5, ponosi państwo wykonania albo — zgodnie z właściwymi przepisami prawa tureckiego, jeżeli dojdzie do porozumienia pomiędzy stronami — państwo skazania."
-      },
-      {
-       "type": "note",
-       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "WĘGRY"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Węgier, wręczonym Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego w dniu 13 lipca 1993 r."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 3 ust. 4"
-      },
-      {
-       "type": "text",
-       "text": "Dla celów niniejszej konwencji Węgry uważają, że wyrażenie „obywatele” obejmuje także osoby stale zamieszkałe w państwie wykonania i nie posiadające jego obywatelstwa."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 16"
+       "text": "ISLANDIA"
       },
       {
        "type": "text",
-       "text": "Węgry wymagają notyfikowania tranzytu powietrznego osób skazanych. Zgoda na taki tranzyt nie zostanie udzielona, jeżeli osoba przekazywana jest obywatelem węgierskim w rozumieniu oświadczenia złożonego do art. 3 ust. 4."
+       "text": "Oświadczenia zawarte w nocie werbalnej Stałego Przedstawiciela Islandii, wręczonej Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego w dniu 6 sierpnia 1993 r."
       },
       {
        "type": "text",
-       "text": "Artykuł 17 ust. 3"
+       "text": "Zgodnie z postanowieniami art. 3 ust. 4 Islandia oświadcza, że wyrażenie „obywatel” (użyte w art. 3 ust. 1 lit. a) oznacza w rozumieniu niniejszej konwencji osobę mającą obywatelstwo islandzkie albo posiadającą stałe miejsce zamieszkania na terytorium Republiki Islandii. Zgodnie z postanowieniami art. 9 ust. 4 Islandia zastrzega sobie prawo stosowania zatrzymania prewencyjnego lub hospitalizacji osób z zaburzeniami psychicznymi."
       },
       {
        "type": "text",
-       "text": "Jeżeli wniosek o przekazanie i załączone dokumenty nie zostały sporządzone w języku węgierskim, angielskim lub francuskim, należy do nich dołączyć tłumaczenie na jeden z tych języków. Jeżeli jednak państwo złożyło oświadczenie do niniejszego artykułu o wymaganiu dołączania do wniosku i zataczanych dokumentów tłumaczenia na jego język urzędowy albo na język inny niż angielski lub francuski, Węgry będą wymagać, na zasadzie wzajemności, aby wniosek o przekazanie i załączone dokumenty, pochodzące z takiego państwa, byty sporządzone w języku węgierskim albo by dołączono do nich tłumaczenie na język węgierski."
+       "text": "Zgodnie z postanowieniami art. 17 ust. 3 Islandia wymaga, aby do wniosków o przekazanie i zataczanych dokumentów dołączano tłumaczenie na język islandzki, angielski, duński, norweski lub szwedzki."
       },
       {
        "type": "text",
-       "text": "WIELKA BRYTANIA"
+       "text": "LUKSEMBURG"
       },
       {
        "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 30 kwietnia 1985 r., wręczonym Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego tego samego dnia."
+       "text": "Oświadczenia dołączone do dokumentu tatyfikacyjnego złożonego dnia 9 października 1987 r."
       },
       {
        "type": "text",
@@ -879,15 +448,7 @@
       },
       {
        "type": "text",
-       "text": "Zjednoczone Królestwo zamierza wyłączyć stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b), w przypadkach gdy Zjednoczone Królestwo jest państwem wykonania."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 3 ust. 4"
-      },
-      {
-       "type": "text",
-       "text": "Dla celów niniejszej konwencji i w odniesieniu do Zjednoczonego Królestwa „obywatel” oznacza obywatela brytyjskiego lub jakąkolwiek osobę, której przekazanie Rząd Zjednoczonego Królestwa uzna za właściwe ze względu na jakiekolwiek bliskie związki tej osoby ze Zjednoczonym Królestwem; w odniesieniu do terytoriów, na które rozszerzono stosowanie niniejszej konwencji, zgodnie z art. 20 ust. 2, oznacza jakąkolwiek osobę określoną jako obywatel tego terytorium w momencie składania deklaracji terytorialnej."
+       "text": "Wielkie Księstwo Luksemburga oświadca, że zamierza wyłączyć, jako państwo wykonania, stosowane trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b),w swoich stosunkach z innymi stronami."
       },
       {
        "type": "text",
@@ -895,303 +456,744 @@
       },
       {
        "type": "text",
-       "text": "W przypadkach, w których państwo złożyło oświadczenie w trybie niniejszego artykułu, że wymaga dołączenia do wniosków o przekazanie i towarzyszących im dokumentów tłumaczenia na ich język urzędowy albo na język inny niż angielski, na zasadzie wzajemności, Zjednoczone Królestwo wymaga, aby do pochodzących z tego państwa wniosków o przekazanie i towarzyszących im dokumentów dołączano tłumaczenie na język angielski."
+       "text": "Wielkie Księstwo Luksemburga oświadcia, :e zgodnie z art. 17 ust. 3 konwencji do wniosków o przekazinie i zataczanych dokumentów należy dołączyć ttumacene na język francuski lub niemiecki."
       },
       {
        "type": "text",
-       "text": "Artykuł 20 ust. 2"
+       "text": "MALTA"
       },
       {
        "type": "text",
-       "text": "Zjednoczone Królestwo zastrzega sobie prawo rozszerzenia w terminie późniejszym stosowania niniejszej konwencji na inne terytoria, za których stosunki międzynarodowe odpowiada Rząd Zjednoczonego Królestwa."
+       "text": "Oświadczenia zawarte w liście Stałego Przectawiciela z dnia 13 maja 1991 r., zarejestrowanym w Sekretriacie Generalnym tego samego dnia."
       },
       {
        "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 19 sierpnia 1986 r., zarejestrowanym przez Sekretariat Generalny w dniu 22 sierpnia 1986 r."
+       "text": "W odniesieniu do art. 3 ust. 3"
       },
       {
        "type": "text",
-       "text": "Zgodnie z art. 20 ust. 2 konwencji niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie powyższej konwencji rozciąga się na Wyspę Man."
+       "text": "Malta całkowicie wyklucza stosowanie trybusostępowania, o którym mowa w art. 9 ust. 1 lit. b)."
       },
       {
        "type": "text",
-       "text": "Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji w stosunku do Wyspy Man „obywatel” oznacza obywatela brytyjskiego lub jakąkolwiek osobę, której przekazanie Rząd Zjednoczonego Królestwa uzna za właściwe ze względu na jakiekolwiek bliskie związki tej osoby z Wyspą Man."
+       "text": "W odniesieniu do art. 9 ust. 4"
       },
       {
        "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 21 stycznia 1987 r., zarejestrowanym przez Sekretariat Generalny w dniu 23 stycznia 1987 r."
+       "text": "W przypadku osoby zatrzymanej w szpitalu ni podstawie orzeczenia sądu ze względu na zaburzenia pschiczne, zastosowany tryb postępowania musi być zgocny z>rzepisami art. 49 ust. 4 i 5 ustawy o zdrowiu psychiczrym 1976 r."
       },
       {
        "type": "text",
-       "text": "Zgodnie z art. 20 ust. 2 konwencji niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie powyższej konwencji rozciąga się na Antiguę, Brytyjskie Terytorium Oceanu Indyjskiego, Kajmany, Falklandy, Gibraltar, Montserrat, Pitcairn, Henderson, Wyspy Ducie i Oeno, Wyspę Helenę i zależne oraz na tereny suwerennych baz Akrotiri i Dhekelia na Cyprze."
+       "text": "W odniesieniu do art. 17 ust. 2i 3"
       },
       {
        "type": "text",
-       "text": "Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji, w stosunku do każdego z terytoriów wymienionych powyżej, „obywatel” oznacza obywatela brytyjskiego albo obywatela brytyjskich terytoriów zależnych ze względu na związek z tym terytorium."
+       "text": "Do wniosków o przekazanie i zataczanych cokunentow, jeśli nie sporządzono ich w języku angielskim, naliży dołączyć ich tłumaczenie na język angielski."
       },
       {
        "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 22 października 1987 r., zarejestrowanym przez Sekretariat Generalny w dniu 23 października 1987 r."
+       "text": "NIEMCY"
       },
       {
        "type": "text",
-       "text": "Zgodnie z art. 20 ust. 2 konwencji niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie powyższej konwencji rozciąga się na Hong Kong. Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji, w stosunku do Hong Kongu, „obywatel ” oznacza obywatela brytyjskiego albo obywatela brytyjskich terytoriów zależnych ze względu na związek z Hong Kongiem, brytyjskiego obywatela zamorskiego albo jakąkolwiek osobę, której przekazanie do Hong Kongu Rząd uzna za właściwe ze względu na jakiekolwiek bliskie związki tej osoby z Hong Kongiem."
+       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela, złożonym w czasie składania dokumentu raiyfikecyjnego w dniu 31 października 1991 r., dotyczące konwencji jako całości"
       },
       {
        "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 31 sierpnia 1988 r., zarejestrowanym przez Sekretariat Generalny w dniu 2 września 1988 r."
+       "text": "Zgodnie z preambułą konwencji, Republika Federalna Niemiec rozumie, że stosowanie konwencji powinno służyć nie tylko resocjalizacji skazanych, ale także celom wymiaru sprawiedliwości. Zgodnie z tym Niemcy będą podejmować decyzje o przekazywaniu skazanych w każdej konkretnej sprawie na podstawie wszystkich celów kary stanowiących podstawę ich prawa karnego."
       },
       {
        "type": "text",
-       "text": "Zgodnie z art. 20 ust. 2 niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie konwencji o przekazywaniu osób skazanych rozciąga się na Brytyjskie Wyspy Dziewicze."
+       "text": "Do artykułu 2 ust. 2 zdanie drugie"
       },
       {
        "type": "text",
-       "text": "Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji, w stosunku do Brytyjskich Wysp Dziewiczych, „obywatel” oznacza obywatela brytyjskiego albo obywatela brytyjskich terytoriów zależnych, ze względu"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "na związek z Brytyjskimi Wyspami Dziewiczymi, albo jakąkolwiek osobę, której przekazanie na Brytyjskie Wyspy Dziewicze urzędnik aktualnie sprawujący władzę na Brytyjskich Wyspach Dziewiczych uzna za wiasciwe ze względu na jakiekolwiek bliskie związki tej osoby z Brytyjskimi Wyspami Dziewiczymi."
-      },
-      {
-       "type": "text",
-       "text": "WŁOCHY"
-      },
-      {
-       "type": "text",
-       "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Włoch z dnia 30 czerwca 1989 r., złożonym Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego w tym samym dniu."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zgodnie z art. 3 ust. 3 konwencji Republika Wtoska wyłącza stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b) niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zgodnie z art. 3 ust. 4 Republika Włoska uważa, że wyrażenie „obywatel” na potrzeby niniejszej konwencji oznacza także bezpaństwowców zamieszkałych na terytorium państwa włoskiego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zgodnie z art. 17 ust. 3 Republika Włoska wymaga, aby do wniosków o przekazanie i do załączonych dokumentów dołączano tłumaczenie na język włoski lub na jeden z języków urzędowych Rady Europy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "WYSPY BAHAMA"
-    },
-    {
-     "type": "text",
-     "text": "Oświadczenie zawarte w dokumencie ratyfikacyjnym złożonym w dniu 12 listopada 1991 r."
-    },
-    {
-     "type": "text",
-     "text": "Zgodnie z art. 3 ust. 3 konwencji Wspólnota Wysp Bahama oświadcza, że w świetle tego artykułu oraz w związku z art. 9 ust. 1 Wspólnota Wysp Bahama wyłącza stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b) konwencji, w przypadkach gdy Wspólnota Wysp Bahama jest państwem wykonania."
-    },
-    {
-     "type": "text",
-     "text": "Ponadto, zgodnie z postanowieniami art. 3 ust. 4 konwencji, Wspólnota Wysp Bahama oświadcza, że wyrażenie ,obywatel” (art. 3 ust. 1 lit. a) oznacza osobę posiadającą obywatelstwo Wysp Bahama albo osobę stale zamieszkałą na terytorium Wspólnoty Wysp Bahama."
-    },
-    {
-     "type": "text",
-     "text": "Ponadto, zgodnie z postanowieniami art. 17 ust. 3, Wspólnota Wysp Bahama oświadcza, że wymaga dołączania do wniosków o przekazanie i załączonych dokumentów ich tłumaczeń na język angielski."
-    },
-    {
-     "type": "text",
-     "text": "Wreszcie, zgodnie z postanowieniami art. 5 ust. 2 konwencji, Wspólnota Wysp Bahama oświadcza, że organem centralnym do wysyłania i przyjmowania wniosków jest"
-    },
-    {
-     "type": "text",
-     "text": "The Attorney General Post Office Box N-3007 Nassau The Commonwealth of the Bahamas"
-    },
-    {
-     "type": "text",
-     "text": "Wspólnota Wysp Bahama oświadcza ponadto, zgodnie z postanowieniami art. 5 ust. 3, że uznaje prawo każdej ze stron do żądania przekazywania zawiadomień i dokumentów urzędowych dotyczących wniosków oraz odpowiedzi drogą dyplomatyczną."
-    },
-    {
-     "type": "text",
-     "text": "Oświadczenie zawarte w liście ambasadora Wysp Bahama w Wielkiej Brytanii, datowane dnia 25 marca 1992 r., zarejestrowane przez Sekretariat Generalny w dniu 1 kwietnia 1992 r."
-    },
-    {
-     "type": "text",
-     "text": "Zgodnie z art. 3 ust. 3 konwencji Rząd Wspólnoty Wysp Bahama niniejszym zmienia oświadczenie zgłoszone w czasie składania dokumentu przystąpienia, które dotyczyło definicji wyrażenia „obywatel” (art. 3 ust. 1 lit. a). Rząd Wspólnoty Wysp Bahama oświadcza obecnie, że wyrażenie „obywatel” (art. 3 ust. 1 lit. a) oznacza obywatela Wysp Bahama albo posiadacza zaświadczenia stałego zamieszkania, wydanego zgodnie z ustawą imigracyjną, który jest małżonkiem obywatela Wysp Bahama."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Uwzględniając rekomendacje Komitetu Ministrów Rady Europy dla państw członkowskich, został opracowany następujący tekst polski standardowej informacji w sprawie praktycznego stosowania tej konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Standardowa informacja dotycząca konwencji o przekazywaniu osób skazanych"
-    },
-    {
-     "type": "text",
-     "text": "Konwencja o przekazywaniu osób skazanych umożliwia, pod pewnymi warunkami, osobom skazanym na karę pozbawienia wolności w państwie nie będącym ich państwem ojczystym, przekazanie ich w celu odbycia kary do tego państwa. Poniżej przedstawione zostały pokrótce te warunki. Niniejsza informacja nie jest wyczerpującym opisem konwencji. Jeżeli więc życzy sobie Pan/Pani ustalić, jakie są możliwości przekazania Pana /Pani do odbycia kary w Polsce, proszę zwrócić się do administracji więziennej w państwie, w którym Pan/Pani przebywa, albo do polskiego Ministerstwa Sprawiedliwości w celu uzyskania dalszych informacji (na przykład tekstu konwencji) oraz rozważenia możliwości przekazania. Można także zwrócić się o informację do najbliższej polskiej placówki konsularnej."
-    },
-    {
-     "type": "text",
-     "text": "Kto musi wyrazić zgodę na przekazanie?"
-    },
-    {
-     "type": "text",
-     "text": "Przekazanie wymaga:"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "zgody samego zainteresowanego, a jeżeli to konieczne — także jego przedstawiciela prawnego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "zgody państwa, w którym został skazany,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "zgody państwa, do którego ma być przekazany (to jest zgody właściwego organu w Polsce).",
-     "children": [
-      {
-       "type": "text",
-       "text": "Kto może skorzystać z przekazania do Polski?"
-      },
-      {
-       "type": "text",
-       "text": "Można ubiegać się o przekazanie, jeżeli spełnione są następujące warunki:"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "jest Pan/Pani uważany/a za obywatela/kę Polski,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "wydany wyrok jest prawomocny,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "do wykonania kary pozostało, w zasadzie, nie mniej niż sześć miesięcy, jednak w wyjątkowych przypadkach okres ten może być krótszy, oraz",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_3/lit_d",
-     "text": "jeżeli przestępstwo, za które został/a Pan/Pani skazany/a, stanowi przestępstwo także zgodnie z prawem polskim.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Jaki wyrok będzie podlegał wykonaniu po przekazaniu?"
-      },
-      {
-       "type": "text",
-       "text": "Wydany wyrok będzie musiał zostać przekształcony przez właściwy sąd polski. Nie jest zatem możliwe dokładne określenie przed przekazaniem rodzaju i wymiaru kary podlegającej odbyciu w Polsce, jako że wyrok skazujący musi zostać przekształcony w orzeczeniu sądu, które zapadłoby, gdyby popełniono przestępstwo w Polsce. Otrzyma Pan/Pani jednak"
+       "text": "Republika Federalna Niemiec interpretuje konwencję jako akt tworzący prawa i obowiązki wyłącznie pomiędzy jej stronami, a zatem konwencja nie stworzyła ani nie tworzy dla osób skazanych podstawy do roszczeń ani praw podmiotowych."
       },
       {
        "type": "note",
-       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "pewne informacje, dotyczące charakteru i wymiaru kary tak przekształconej w Polsce, w celu podjęcia decyzji, czy ubiegać się o przekazanie. Zgodnie jednak z konwencją kara tak przeksztatcona nie może być ani dłuższa, ani surowsza niż ta orzeczona w państwie skazania, a także nie będą miały zastosowania dolne granice wymiaru kary przewidziane przez ustawę polską za dane przestępstwo. Okres kary odbytej za granicą zostanie w pełni zaliczony na poczet tak orzeczonej kary."
+       "text": "Do artykułu 3 ust. 1"
       },
       {
        "type": "text",
-       "text": "Po przekazaniu kara i jej wykonanie będą podlegać przepisom prawa polskiego."
+       "text": "Republika Federalna Niemiec przejmie wykonanie skazania zgodnie z niniejszą konwencją wyłącznie pod warunkiem, że:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_17/ust_2/lit_a",
+       "text": "wyrok wydano w postępowaniu zgodnym z Europejską konwencją o ochronie praw człowieka i podstawowych wolności z dnia 4 listopada 1950 r. oraz Protokołami dodatkowymi do tej konwencji, jeśli weszły w życie w stosunku do Republiki Federalnej Niemiec,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_17/ust_2/lit_b",
+       "text": "w Republice Federalnej Niemiec, w stosunku do oskarżonego w sprawie o to samo przestępstwo, nie wydano wyroku lub orzeczenia wywołującego podobne skutki prawne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_17/ust_2/lit_c",
+       "text": "wykonaniu kary, zgodnie z prawem obowiązującym w Republice Federalnej Niemiec, nie stoi na przeszkodzie upływ przedawnienia ani nie stałby po analogicznym przekształceniu faktów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Republika Federalna Niemiec przekaże wykonanie orzeczenia, zgodnie z niniejszą konwencją, innemu państwu wyłącznie wówczas, gdy otrzyma gwarancję, że:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_17/ust_2/lit_a",
+       "text": "skazany będzie ścigany, skazany, zatrzymany w celu odbycia kary lub środka zabezpieczającego albo w jakikolwiek inny sposób ograniczy się jego wolność osobistą w związku z popełnieniem przestępstwa innego niż to, w związku z którym nastąpiło przekazanie, popełnionego przed przekazaniem, wyłącznie gdy:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "aa",
+       "path": "art_17/ust_2/lit_aa",
+       "text": "Republika Federalna Niemiec wyrazi na to zgodę,",
+       "children": []
       },
       {
        "type": "text",
-       "text": "Ściganie za inne przestępstwa"
+       "text": "albo"
       },
       {
-       "type": "text",
-       "text": "Zwracamy uwagę, że po przekazaniu polskie organy ścigania mają prawo do prowadzenia postępowania, a sądy — do skazania za przestępstwo inne niż to, którego dotyczy wyrok już obecnie wykonywany."
+       "type": "lit",
+       "num": "bb",
+       "path": "art_17/ust_2/lit_bb",
+       "text": "przekazany nie opuścił terytorium państwa wykonania w ciągu 45 dni od ostatecznego zwolnienia, pomimo że miał ku temu sposobność, albo gdy opuścił jego terytorium, następnie na nie powrócił, oraz",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Prawo łaski, amnestia, złagodzenie kary"
-      },
-      {
-       "type": "text",
-       "text": "Przekazanie nie stoi na przeszkodzie skorzystaniu z prawa łaski, amnestii lub innego złagodzenia kary zarówno w państwie skazania, jak i w Polsce."
-      },
-      {
-       "type": "text",
-       "text": "Nadzwyczajne środki odwoławcze"
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli po przekazaniu pojawią się nowe okoliczności, które zdaniem Pana/Pani stanowiłyby podstawę do wniesienia nadzwyczajnego środka odwoławczego od orzeczenia wydanego w państwie skazania, wyłącznie to państwo będzie właściwe do rozpoznania takiego wniosku."
-      },
-      {
-       "type": "text",
-       "text": "Zakończenie wykonywania kary"
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli z jakichkolwiek powodów orzeczenie wydane w państwie skazania przestaje być wykonalne, zostanie"
-      },
-      {
-       "type": "text",
-       "text": "Pan/Pani zwolniony z odbywania kary przez organy polskie, jak tylko otrzymają o tym informację. Podobnie, jeżeli zgodnie z prawem polskim orzeczenie wykonywane w Polsce przestanie być wykonalne, państwo skazania nie będzie mogło żądać jego wykonania, gdy Pan/Pani do tego państwa powróci."
-      },
-      {
-       "type": "text",
-       "text": "Kilka informacji o postępowaniu"
-      },
-      {
-       "type": "text",
-       "text": "Swój zamiar przekazania może Pan/Pani zgłosić zarówno organom państwa skazania, jak i organom polskim (bezpośrednio Ministerstwu Sprawiedliwości lub polskiej placówce konsularnej)."
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli organy państwa skazania są gotowe rozważyć Pana/Pani przekazanie, prześlą organom polskim informację o Panu/Pani, o faktach, które doprowadziły do skazania, a także o charakterze i wymiarze orzeczonej kary. Jeżeli organy polskie będą gotowe do rozważenia przekazania, odpowiedzą przesyłając informację albo informację o możliwym złagodzeniu kary, warunkowym przedterminowym zwolnieniu itp. w Polsce."
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli oba państwa zgodzą się wyrazić zgodę na przekazanie, po otrzymaniu i rozważeniu wszystkich informacji udzielonych przez organy polskie, zwrócimy się do Pana/Pani o wyrażenie zgody na przekazanie w trybie niniejszej konwencji."
+       "type": "lit",
+       "num": "b",
+       "path": "art_17/ust_2/lit_b",
+       "text": "państwo wykonania nie będzie ścigać za przestępstwo, którego dotyczy orzeczenie, ani nie wyda w tej sprawie nowego wyroku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Do artykułu 3 ust. 3"
+        },
+        {
+         "type": "text",
+         "text": "Republika Federalna Niemiec przejmie wykonywanie orzeczeń wyłącznie pod warunkiem, że niemiecki sąd uzna orzeczenie wydane w państwie skazania za wykonalne. Przy orzekaniu, czy zostały spełnione warunki do przyjęcia wykonania, sąd będzie opierał się na faktach i wnioskach opartych w wyroku."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 3 ust. 4"
+        },
+        {
+         "type": "text",
+         "text": "Wyrażenie „obywatel” obejmuje wszystkich Niemców w rozumieniu art. 116 ust. 1 Ustawy zasadniczej Republiki Federalnej Niemiec."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 4"
+        },
+        {
+         "type": "text",
+         "text": "Republika Federalna Niemiec odmawia udzielania informacji, o których mowa w art. 4 ust. 2 —5, jeżeli, zdaniem właściwych organów niemieckich, wniosek o przekazanie wykonania jest niedopuszczalny a priori. Uważa, że obowiązek informowania skazanych istnieje wyłącznie wówczas, gdy jest to zgodne z właściwymi przepisami prawa wewnętrznego, zwłaszcza że skazany nie ma prawa być informowany o przebiegu wewnętrznego postępowania urzędowego."
+        },
+        {
+         "type": "text",
+         "text": "Wnioski mogą także sporządzać ministerstwa sprawiedliwości krajów związkowych Republiki Federalnej Niemiec, jak również można je do nich kierować."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 7 ust. 1"
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z prawem obowiązującym w Republice Federalnej Niemiec, zgody nie można cofnąć."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 8 ust. 1"
+        },
+        {
+         "type": "text",
+         "text": "Organy Republiki Federalnej Niemiec niezwłocznie podejmą środki zmierzające do kontynuowania wykonania kary, jeżeli skazany ucieknie z zakładu lub w inny sposób będzie unikał odbycia kary po tym, jak organy państwa wykonania przejmą go, a przed zakończeniem wykonywania kary. Dlatego też, jeżeli skazany zostanie ujęty na terytorium Republiki Federalnej Niemiec przed upływem połowy okresu pozostałego do odbycia kary, zgodnie z orzeczeniem wydanym lub przekształconym w państwie wykonania, będą się domniemywać, że zbiegł, i zatrzymają go do dalszych wyjaśnień, chyba że państwo wykonania, oprócz obowiązków przewidzianych w art. 15, powiadomi, że skazanego warunkowo zwolniono albo że wykonanie kary zostało z innych powodów przerwane."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 12"
+        },
+        {
+         "type": "text",
+         "text": "Ze względu na strukturę federalną Republiki Federalnej Niemiec oraz na fakt, że kraje związkowe są właściwe do wydawania decyzji w sprawie ułaskawienia, Republika Federalna Niemiec zastrzega sobie prawo przekazania wykonania orzeczenia do innego państwa członkowskiego, na podstawie niniejszej konwencji, wyłącznie pod warunkiem, że państwo wykonania, na podstawie deklaracji ogólnej albo oświadczeń składanych w każdej sprawie, zastosuje prawo łaski wyłącznie za zgodą właściwych do tego organów niemieckich."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 16 ust. 2"
+        },
+        {
+         "type": "text",
+         "text": "Republika Federalna Niemiec oświadcza, że zastrzega sobie możliwość odmowy udzielenia zgody na tranzyt, zgodnie z postanowieniami art. 16 ust. 2 lit. a) i b)."
+        },
+        {
+         "type": "text",
+         "text": "Do artykułu 17 ust. 2i3"
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli wniosek o przekazanie i załączone dokumenty nie zostały sporządzone w języku niemieckim, należy do nich dołączyć tłumaczenia wniosku i tych dokumentów na język niemiecki lub jeden z języków urzędowych Rady Europy."
+        },
+        {
+         "type": "text",
+         "text": "NORWEGIA"
+        },
+        {
+         "type": "text",
+         "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym złożonym w dniu 9 grudnia 1992 r."
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z art. 3 ust. 4 konwencji Królestwo Norwegii rozumie, że dla celów niniejszej konwencji wyrażenie „obywatel” oznacza osobę, która jest obywatelem państwa wykonania albo która ma miejsce stałego zamieszkania w tym państwie albo w przypadku, gdy przekazanie uzna się za właściwe ze względu na jakiekolwiek ścisłe związki tej osoby z jego terytorium."
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z art. 9 ust. 4 Królestwo Norwegii zastrzega sobie prawo zastosowania zatrzymania prewencyjnego lub hospitalizacji osób z zaburzeniami psychicznymi."
+        },
+        {
+         "type": "text",
+         "text": "Ponadto zgodnie z postanowieniem art. 17 ust. 3 Norwegia oświadcza, że do wniosku o przekazanie i załączonych dokumentów należy dołączyć tłumaczenie na język norweski, angielski albo na duński lub szwedzki."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Ponadto zgodnie z art. 20 konwencji Norwegia oświadcza, że konwencję stosuje się także do Wyspy Bouvet, Wyspy Piotra | i Ziemi Królowej Maud."
+        },
+        {
+         "type": "text",
+         "text": "PORTUGALIA"
+        },
+        {
+         "type": "text",
+         "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym, złożonym w dniu 28 czerwca 1993 r."
+        },
+        {
+         "type": "text",
+         "text": "A. Portugalia będzie stosować tryb postępowania, o którym mowa w art. 9 ust. 1 lit. a), w przypadku gdy będzie ona państwem wykonania."
+        },
+        {
+         "type": "text",
+         "text": "B. Wykonanie orzeczenia zagranicznego będzie dokonane na podstawie orzeczenia sądu portugalskiego stwierdzającego jego wykonalność, wydanego po wcześniejszej kontroli i zatwierdzeniu."
+        },
+        {
+         "type": "text",
+         "text": "C. Jeżeli zachodzi konieczność dostosowania orzeczonej za granicą kary, w zależności od przypadku, Portugalia przekształci, zgodnie z prawem portugalskim, karę orzeczoną za granicą albo skróci jej wymiar, jeżeli przekracza ona maksymalny wymiar kary przewidziany przez prawo portugalskie."
+        },
+        {
+         "type": "text",
+         "text": "D. Dla celu art. 3 ust. 4 Portugalia oświadcza, że wyrażenie „obywatel” obejmuje wszystkich obywateli portugalskich, niezależnie od sposobu nabycia obywatelstwa."
+        },
+        {
+         "type": "text",
+         "text": "E. Portugalia może wyrazić zgodę na przekazanie cudzoziemców i bezpaństwowców, którzy mają stałe miejsce zamieszkania w państwie wykonania."
+        },
+        {
+         "type": "text",
+         "text": "F. Zgodnie z art. 16 ust. 7 Portugalia domaga się notyfikacji o tranzycie drogą lotniczą ponad jej terytorium."
+        },
+        {
+         "type": "text",
+         "text": "G. Portugalia domaga się, aby do dokumentów, o których mowa w art. 17 ust. 3, dołączano tłumaczenie na język portugalski lub francuski."
+        },
+        {
+         "type": "text",
+         "text": "SZWAJCARIA"
+        },
+        {
+         "type": "text",
+         "text": "Oświadczenie zawarte w dokumencie ratyfikacyjnym złożonym w dniu 15 stycznia 1988 r."
+        },
+        {
+         "type": "text",
+         "text": "a. Artykuł 3 ust. 3"
+        },
+        {
+         "type": "text",
+         "text": "Szwajcaria wytącza stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b), w przypadku, gdy jest państwem wykonania."
+        },
+        {
+         "type": "text",
+         "text": "b. Artykuł 5 ust. 3"
+        },
+        {
+         "type": "text",
+         "text": "Szwajcaria oświadcza, że Federalne Biuro Policji w ramach Federalnego Departamentu Sprawiedliwości i Policji jest organem właściwym, w rozumieniu art. 5 ust. 3, do wysyłania i przyjmowania:"
+        },
+        {
+         "type": "text",
+         "text": "— informacji, o których mowa w art. 4 ust. 2—4,"
+        },
+        {
+         "type": "text",
+         "text": "— wniosków o przekazanie i odpowiedzi, o których mowa w art. 2 ust. 3 i art. 5 ust. 4,"
+        },
+        {
+         "type": "text",
+         "text": "— zataczanych dokumentów, o których mowa w art. 6,"
+        },
+        {
+         "type": "text",
+         "text": "— informacji, o których mowa w art. 14 i 15,"
+        },
+        {
+         "type": "text",
+         "text": "— wniosków o udzielenie zgody na tranzyt i odpowiedzi na te wnioski, o których mowa w art. 16. c. Artykuł 6 ust. 2 lit. a)"
+        },
+        {
+         "type": "text",
+         "text": "Szwajcaria rozumie, że art. 6 ust. 2 lit. a) oznacza, że do uwierzytelnionego odpisu orzeczenia należy dołączyć stwierdzenie jego wykonalności."
+        },
+        {
+         "type": "text",
+         "text": "d. Artykuł 7 ust. 1"
+        },
+        {
+         "type": "text",
+         "text": "Szwajcaria uznaje, że zgody na przekazanie nie można cofnąć po tym, jak na skutek zgody zainteresowanych państw Federalne Biuro Policji podjęło decyzję o przekazaniu."
+        },
+        {
+         "type": "text",
+         "text": "e. Artykuł 17 ust. 3"
+        },
+        {
+         "type": "text",
+         "text": "Szwajcaria wymaga, aby do wniosków o przekazanie i załączonych dokumentów dołączano ich tłumaczenia na język francuski, niemiecki lub włoski, jeśli nie zostały one sporządzone w jednym z tych języków."
+        },
+        {
+         "type": "text",
+         "text": "SZWECJA"
+        },
+        {
+         "type": "text",
+         "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym, złożonym w dniu 9 stycznia 1985 r."
+        },
+        {
+         "type": "text",
+         "text": "Artykuł 3 ust. 4"
+        },
+        {
+         "type": "text",
+         "text": "Rząd szwedzki wskazuje, że wnioski i inne zawiadomienia kieruje i wysyła Ministerstwo Spraw Zagranicznych."
+        },
+        {
+         "type": "text",
+         "text": "Artykuł 9 ust. 4"
+        },
+        {
+         "type": "text",
+         "text": "Rząd szwedzki oświadcza, że w zakresie, w jakim to go dotyczy, i w sprawach, o których mowa w tym przepisie, może mieć zastosowanie wyłącznie przekształcenie orzeczenia."
+        },
+        {
+         "type": "text",
+         "text": "Artykuł 17 ust. 3"
+        },
+        {
+         "type": "text",
+         "text": "Rząd szwedzki oświadcza, że wnioski i informacje przekazywane do Szwecji, jeśli nie sporządzono ich w języku duńskim, angielskim, norweskim lub szwedzkim, powinny zostać przetłumaczone na język szwedzki lub angielski."
+        },
+        {
+         "type": "text",
+         "text": "TURCJA"
+        },
+        {
+         "type": "text",
+         "text": "Oświadczenia zawarte w dokumencie ratyfikacyjnym złożonym w dniu 3 września 1987 r."
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z art. 5 ust. 3 porozumiewanie się dotyczące stosowania niniejszej konwencji następuje drogą dyplomatyczną."
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z art. 17 ust. 3 do wniosków o przekazanie i załączonych dokumentów dołącza się tłumaczenia na język turecki."
+        },
+        {
+         "type": "text",
+         "text": "Koszty przekazania, zgodnie z postanowieniami art. 17 ust. 5, ponosi państwo wykonania albo — zgodnie z właściwymi przepisami prawa tureckiego, jeżeli dojdzie do porozumienia pomiędzy stronami — państwo skazania."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "WĘGRY"
+        },
+        {
+         "type": "text",
+         "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Węgier, wręczonym Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego w dniu 13 lipca 1993 r."
+        },
+        {
+         "type": "text",
+         "text": "Artykuł 3 ust. 4"
+        },
+        {
+         "type": "text",
+         "text": "Dla celów niniejszej konwencji Węgry uważają, że wyrażenie „obywatele” obejmuje także osoby stale zamieszkałe w państwie wykonania i nie posiadające jego obywatelstwa."
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 17"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Informacje o państwach, które w terminie późniejszym staną się stronami powyższej konwencji, można uzyskać w Departamencie Prawno-Traktatowym Ministerstwa Spraw Zagranicznych.",
-   "children": []
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Węgry wymagają notyfikowania tranzytu powietrznego osób skazanych. Zgoda na taki tranzyt nie zostanie udzielona, jeżeli osoba przekazywana jest obywatelem węgierskim w rozumieniu oświadczenia złożonego do art. 3 ust. 4.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Artykuł 17 ust. 3"
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli wniosek o przekazanie i załączone dokumenty nie zostały sporządzone w języku węgierskim, angielskim lub francuskim, należy do nich dołączyć tłumaczenie na jeden z tych języków. Jeżeli jednak państwo złożyło oświadczenie do niniejszego artykułu o wymaganiu dołączania do wniosku i zataczanych dokumentów tłumaczenia na jego język urzędowy albo na język inny niż angielski lub francuski, Węgry będą wymagać, na zasadzie wzajemności, aby wniosek o przekazanie i załączone dokumenty, pochodzące z takiego państwa, byty sporządzone w języku węgierskim albo by dołączono do nich tłumaczenie na język węgierski."
+    },
+    {
+     "type": "text",
+     "text": "WIELKA BRYTANIA"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 30 kwietnia 1985 r., wręczonym Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego tego samego dnia."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 3 ust. 3"
+    },
+    {
+     "type": "text",
+     "text": "Zjednoczone Królestwo zamierza wyłączyć stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b), w przypadkach gdy Zjednoczone Królestwo jest państwem wykonania."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 3 ust. 4"
+    },
+    {
+     "type": "text",
+     "text": "Dla celów niniejszej konwencji i w odniesieniu do Zjednoczonego Królestwa „obywatel” oznacza obywatela brytyjskiego lub jakąkolwiek osobę, której przekazanie Rząd Zjednoczonego Królestwa uzna za właściwe ze względu na jakiekolwiek bliskie związki tej osoby ze Zjednoczonym Królestwem; w odniesieniu do terytoriów, na które rozszerzono stosowanie niniejszej konwencji, zgodnie z art. 20 ust. 2, oznacza jakąkolwiek osobę określoną jako obywatel tego terytorium w momencie składania deklaracji terytorialnej."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 17 ust. 3"
+    },
+    {
+     "type": "text",
+     "text": "W przypadkach, w których państwo złożyło oświadczenie w trybie niniejszego artykułu, że wymaga dołączenia do wniosków o przekazanie i towarzyszących im dokumentów tłumaczenia na ich język urzędowy albo na język inny niż angielski, na zasadzie wzajemności, Zjednoczone Królestwo wymaga, aby do pochodzących z tego państwa wniosków o przekazanie i towarzyszących im dokumentów dołączano tłumaczenie na język angielski."
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 20 ust. 2"
+    },
+    {
+     "type": "text",
+     "text": "Zjednoczone Królestwo zastrzega sobie prawo rozszerzenia w terminie późniejszym stosowania niniejszej konwencji na inne terytoria, za których stosunki międzynarodowe odpowiada Rząd Zjednoczonego Królestwa."
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 19 sierpnia 1986 r., zarejestrowanym przez Sekretariat Generalny w dniu 22 sierpnia 1986 r."
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z art. 20 ust. 2 konwencji niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie powyższej konwencji rozciąga się na Wyspę Man."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji w stosunku do Wyspy Man „obywatel” oznacza obywatela brytyjskiego lub jakąkolwiek osobę, której przekazanie Rząd Zjednoczonego Królestwa uzna za właściwe ze względu na jakiekolwiek bliskie związki tej osoby z Wyspą Man."
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 21 stycznia 1987 r., zarejestrowanym przez Sekretariat Generalny w dniu 23 stycznia 1987 r."
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z art. 20 ust. 2 konwencji niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie powyższej konwencji rozciąga się na Antiguę, Brytyjskie Terytorium Oceanu Indyjskiego, Kajmany, Falklandy, Gibraltar, Montserrat, Pitcairn, Henderson, Wyspy Ducie i Oeno, Wyspę Helenę i zależne oraz na tereny suwerennych baz Akrotiri i Dhekelia na Cyprze."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji, w stosunku do każdego z terytoriów wymienionych powyżej, „obywatel” oznacza obywatela brytyjskiego albo obywatela brytyjskich terytoriów zależnych ze względu na związek z tym terytorium."
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 22 października 1987 r., zarejestrowanym przez Sekretariat Generalny w dniu 23 października 1987 r."
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z art. 20 ust. 2 konwencji niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie powyższej konwencji rozciąga się na Hong Kong. Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji, w stosunku do Hong Kongu, „obywatel ” oznacza obywatela brytyjskiego albo obywatela brytyjskich terytoriów zależnych ze względu na związek z Hong Kongiem, brytyjskiego obywatela zamorskiego albo jakąkolwiek osobę, której przekazanie do Hong Kongu Rząd uzna za właściwe ze względu na jakiekolwiek bliskie związki tej osoby z Hong Kongiem."
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Zjednoczonego Królestwa z dnia 31 sierpnia 1988 r., zarejestrowanym przez Sekretariat Generalny w dniu 2 września 1988 r."
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z art. 20 ust. 2 niniejszym oświadczam w imieniu Rządu Zjednoczonego Królestwa, że stosowanie konwencji o przekazywaniu osób skazanych rozciąga się na Brytyjskie Wyspy Dziewicze."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto oświadczam, że zgodnie z art. 3 ust. 4 na potrzeby niniejszej konwencji, w stosunku do Brytyjskich Wysp Dziewiczych, „obywatel” oznacza obywatela brytyjskiego albo obywatela brytyjskich terytoriów zależnych, ze względu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "na związek z Brytyjskimi Wyspami Dziewiczymi, albo jakąkolwiek osobę, której przekazanie na Brytyjskie Wyspy Dziewicze urzędnik aktualnie sprawujący władzę na Brytyjskich Wyspach Dziewiczych uzna za wiasciwe ze względu na jakiekolwiek bliskie związki tej osoby z Brytyjskimi Wyspami Dziewiczymi."
+    },
+    {
+     "type": "text",
+     "text": "WŁOCHY"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczenia zawarte w liście Stałego Przedstawiciela Włoch z dnia 30 czerwca 1989 r., złożonym Sekretarzowi Generalnemu w czasie składania dokumentu ratyfikacyjnego w tym samym dniu."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Zgodnie z art. 3 ust. 3 konwencji Republika Wtoska wyłącza stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b) niniejszej konwencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Zgodnie z art. 3 ust. 4 Republika Włoska uważa, że wyrażenie „obywatel” na potrzeby niniejszej konwencji oznacza także bezpaństwowców zamieszkałych na terytorium państwa włoskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Zgodnie z art. 17 ust. 3 Republika Włoska wymaga, aby do wniosków o przekazanie i do załączonych dokumentów dołączano tłumaczenie na język włoski lub na jeden z języków urzędowych Rady Europy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "WYSPY BAHAMA"
+      },
+      {
+       "type": "text",
+       "text": "Oświadczenie zawarte w dokumencie ratyfikacyjnym złożonym w dniu 12 listopada 1991 r."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 3 ust. 3 konwencji Wspólnota Wysp Bahama oświadcza, że w świetle tego artykułu oraz w związku z art. 9 ust. 1 Wspólnota Wysp Bahama wyłącza stosowanie trybu postępowania, o którym mowa w art. 9 ust. 1 lit. b) konwencji, w przypadkach gdy Wspólnota Wysp Bahama jest państwem wykonania."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto, zgodnie z postanowieniami art. 3 ust. 4 konwencji, Wspólnota Wysp Bahama oświadcza, że wyrażenie ,obywatel” (art. 3 ust. 1 lit. a) oznacza osobę posiadającą obywatelstwo Wysp Bahama albo osobę stale zamieszkałą na terytorium Wspólnoty Wysp Bahama."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto, zgodnie z postanowieniami art. 17 ust. 3, Wspólnota Wysp Bahama oświadcza, że wymaga dołączania do wniosków o przekazanie i załączonych dokumentów ich tłumaczeń na język angielski."
+      },
+      {
+       "type": "text",
+       "text": "Wreszcie, zgodnie z postanowieniami art. 5 ust. 2 konwencji, Wspólnota Wysp Bahama oświadcza, że organem centralnym do wysyłania i przyjmowania wniosków jest"
+      },
+      {
+       "type": "text",
+       "text": "The Attorney General Post Office Box N-3007 Nassau The Commonwealth of the Bahamas"
+      },
+      {
+       "type": "text",
+       "text": "Wspólnota Wysp Bahama oświadcza ponadto, zgodnie z postanowieniami art. 5 ust. 3, że uznaje prawo każdej ze stron do żądania przekazywania zawiadomień i dokumentów urzędowych dotyczących wniosków oraz odpowiedzi drogą dyplomatyczną."
+      },
+      {
+       "type": "text",
+       "text": "Oświadczenie zawarte w liście ambasadora Wysp Bahama w Wielkiej Brytanii, datowane dnia 25 marca 1992 r., zarejestrowane przez Sekretariat Generalny w dniu 1 kwietnia 1992 r."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 3 ust. 3 konwencji Rząd Wspólnoty Wysp Bahama niniejszym zmienia oświadczenie zgłoszone w czasie składania dokumentu przystąpienia, które dotyczyło definicji wyrażenia „obywatel” (art. 3 ust. 1 lit. a). Rząd Wspólnoty Wysp Bahama oświadcza obecnie, że wyrażenie „obywatel” (art. 3 ust. 1 lit. a) oznacza obywatela Wysp Bahama albo posiadacza zaświadczenia stałego zamieszkania, wydanego zgodnie z ustawą imigracyjną, który jest małżonkiem obywatela Wysp Bahama."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Uwzględniając rekomendacje Komitetu Ministrów Rady Europy dla państw członkowskich, został opracowany następujący tekst polski standardowej informacji w sprawie praktycznego stosowania tej konwencji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Standardowa informacja dotycząca konwencji o przekazywaniu osób skazanych"
+      },
+      {
+       "type": "text",
+       "text": "Konwencja o przekazywaniu osób skazanych umożliwia, pod pewnymi warunkami, osobom skazanym na karę pozbawienia wolności w państwie nie będącym ich państwem ojczystym, przekazanie ich w celu odbycia kary do tego państwa. Poniżej przedstawione zostały pokrótce te warunki. Niniejsza informacja nie jest wyczerpującym opisem konwencji. Jeżeli więc życzy sobie Pan/Pani ustalić, jakie są możliwości przekazania Pana /Pani do odbycia kary w Polsce, proszę zwrócić się do administracji więziennej w państwie, w którym Pan/Pani przebywa, albo do polskiego Ministerstwa Sprawiedliwości w celu uzyskania dalszych informacji (na przykład tekstu konwencji) oraz rozważenia możliwości przekazania. Można także zwrócić się o informację do najbliższej polskiej placówki konsularnej."
+      },
+      {
+       "type": "text",
+       "text": "Kto musi wyrazić zgodę na przekazanie?"
+      },
+      {
+       "type": "text",
+       "text": "Przekazanie wymaga:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_16/ust_3/lit_a",
+       "text": "zgody samego zainteresowanego, a jeżeli to konieczne — także jego przedstawiciela prawnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_16/ust_3/lit_b",
+       "text": "zgody państwa, w którym został skazany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_16/ust_3/lit_c",
+       "text": "zgody państwa, do którego ma być przekazany (to jest zgody właściwego organu w Polsce).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kto może skorzystać z przekazania do Polski?"
+        },
+        {
+         "type": "text",
+         "text": "Można ubiegać się o przekazanie, jeżeli spełnione są następujące warunki:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_16/ust_3/lit_a",
+       "text": "jest Pan/Pani uważany/a za obywatela/kę Polski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_16/ust_3/lit_b",
+       "text": "wydany wyrok jest prawomocny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_16/ust_3/lit_c",
+       "text": "do wykonania kary pozostało, w zasadzie, nie mniej niż sześć miesięcy, jednak w wyjątkowych przypadkach okres ten może być krótszy, oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_16/ust_3/lit_d",
+       "text": "jeżeli przestępstwo, za które został/a Pan/Pani skazany/a, stanowi przestępstwo także zgodnie z prawem polskim.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jaki wyrok będzie podlegał wykonaniu po przekazaniu?"
+        },
+        {
+         "type": "text",
+         "text": "Wydany wyrok będzie musiał zostać przekształcony przez właściwy sąd polski. Nie jest zatem możliwe dokładne określenie przed przekazaniem rodzaju i wymiaru kary podlegającej odbyciu w Polsce, jako że wyrok skazujący musi zostać przekształcony w orzeczeniu sądu, które zapadłoby, gdyby popełniono przestępstwo w Polsce. Otrzyma Pan/Pani jednak"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "pewne informacje, dotyczące charakteru i wymiaru kary tak przekształconej w Polsce, w celu podjęcia decyzji, czy ubiegać się o przekazanie. Zgodnie jednak z konwencją kara tak przeksztatcona nie może być ani dłuższa, ani surowsza niż ta orzeczona w państwie skazania, a także nie będą miały zastosowania dolne granice wymiaru kary przewidziane przez ustawę polską za dane przestępstwo. Okres kary odbytej za granicą zostanie w pełni zaliczony na poczet tak orzeczonej kary."
+        },
+        {
+         "type": "text",
+         "text": "Po przekazaniu kara i jej wykonanie będą podlegać przepisom prawa polskiego."
+        },
+        {
+         "type": "text",
+         "text": "Ściganie za inne przestępstwa"
+        },
+        {
+         "type": "text",
+         "text": "Zwracamy uwagę, że po przekazaniu polskie organy ścigania mają prawo do prowadzenia postępowania, a sądy — do skazania za przestępstwo inne niż to, którego dotyczy wyrok już obecnie wykonywany."
+        },
+        {
+         "type": "text",
+         "text": "Prawo łaski, amnestia, złagodzenie kary"
+        },
+        {
+         "type": "text",
+         "text": "Przekazanie nie stoi na przeszkodzie skorzystaniu z prawa łaski, amnestii lub innego złagodzenia kary zarówno w państwie skazania, jak i w Polsce."
+        },
+        {
+         "type": "text",
+         "text": "Nadzwyczajne środki odwoławcze"
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli po przekazaniu pojawią się nowe okoliczności, które zdaniem Pana/Pani stanowiłyby podstawę do wniesienia nadzwyczajnego środka odwoławczego od orzeczenia wydanego w państwie skazania, wyłącznie to państwo będzie właściwe do rozpoznania takiego wniosku."
+        },
+        {
+         "type": "text",
+         "text": "Zakończenie wykonywania kary"
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli z jakichkolwiek powodów orzeczenie wydane w państwie skazania przestaje być wykonalne, zostanie"
+        },
+        {
+         "type": "text",
+         "text": "Pan/Pani zwolniony z odbywania kary przez organy polskie, jak tylko otrzymają o tym informację. Podobnie, jeżeli zgodnie z prawem polskim orzeczenie wykonywane w Polsce przestanie być wykonalne, państwo skazania nie będzie mogło żądać jego wykonania, gdy Pan/Pani do tego państwa powróci."
+        },
+        {
+         "type": "text",
+         "text": "Kilka informacji o postępowaniu"
+        },
+        {
+         "type": "text",
+         "text": "Swój zamiar przekazania może Pan/Pani zgłosić zarówno organom państwa skazania, jak i organom polskim (bezpośrednio Ministerstwu Sprawiedliwości lub polskiej placówce konsularnej)."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli organy państwa skazania są gotowe rozważyć Pana/Pani przekazanie, prześlą organom polskim informację o Panu/Pani, o faktach, które doprowadziły do skazania, a także o charakterze i wymiarze orzeczonej kary. Jeżeli organy polskie będą gotowe do rozważenia przekazania, odpowiedzą przesyłając informację albo informację o możliwym złagodzeniu kary, warunkowym przedterminowym zwolnieniu itp. w Polsce."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli oba państwa zgodzą się wyrazić zgodę na przekazanie, po otrzymaniu i rozważeniu wszystkich informacji udzielonych przez organy polskie, zwrócimy się do Pana/Pani o wyrażenie zgody na przekazanie w trybie niniejszej konwencji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_16/ust_4",
+     "text": "Informacje o państwach, które w terminie późniejszym staną się stronami powyższej konwencji, można uzyskać w Departamencie Prawno-Traktatowym Ministerstwa Spraw Zagranicznych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 16"
   },
   {
    "type": "signature",

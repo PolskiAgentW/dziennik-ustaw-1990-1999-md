@@ -61,1477 +61,1484 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Zakres podmiotowy"
-  },
-  {
-   "type": "text",
-   "text": "Niniejsza konwencja dotyczy osób mających miejsce zamieszkania lub siedzibę w jednym lub w obu Umawiających się Państwach."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Podatki, których dotyczy konwencja"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja dotyczy, bez względu na sposób poboru, podatków od dochodu i od majątku, które pobiera się na rzecz każdego Umawiającego się Państwa, jego jednostek terytorialnych lub władz lokalnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Za podatki od dochodu i od majątku uważa się wszystkie podatki, które pobiera się od całego dochodu i od całego majątku albo od części dochodu lub majątku, włączając podatki od zysku z przeniesienia tytułu własności majątku ruchomego lub nieruchomego, jak również podatki od przyrostu majątku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Do aktualnie istniejących podatków, których dotyczy konwencja, należą w szczególności:",
+   "path": "art_1",
+   "text": "Zakres podmiotowy",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "w Rzeczypospolitej Polskiej:",
+     "type": "text",
+     "text": "Niniejsza konwencja dotyczy osób mających miejsce zamieszkania lub siedzibę w jednym lub w obu Umawiających się Państwach."
+    }
+   ],
+   "label": "Artykuł 1"
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Podatki, których dotyczy konwencja",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Niniejsza konwencja dotyczy, bez względu na sposób poboru, podatków od dochodu i od majątku, które pobiera się na rzecz każdego Umawiającego się Państwa, jego jednostek terytorialnych lub władz lokalnych.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "podatek dochodowy od osób fizycznych,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Za podatki od dochodu i od majątku uważa się wszystkie podatki, które pobiera się od całego dochodu i od całego majątku albo od części dochodu lub majątku, włączając podatki od zysku z przeniesienia tytułu własności majątku ruchomego lub nieruchomego, jak również podatki od przyrostu majątku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Do aktualnie istniejących podatków, których dotyczy konwencja, należą w szczególności:",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_3/lit_a",
+       "text": "w Rzeczypospolitej Polskiej:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_3/pkt_1",
+       "text": "podatek dochodowy od osób fizycznych,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_3/pkt_2",
+       "text": "podatek dochodowy od osób prawnych;",
+       "children": [
+        {
+         "type": "text",
+         "text": "(zwane dalej „podatkami polskimi”);"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/ust_3/pkt_2/lit_b",
+         "text": "w Królestwie Maroka:",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_3/pkt_1",
+       "text": "podatek od spółek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_3/pkt_2",
+       "text": "powszechny podatek od dochodu, w tym danina od dochodu z wykonywania zawodu lub z posiadania nieruchomości ziemskiej, wyłączone z powszechnego podatku od dochodu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/ust_3/pkt_3",
+       "text": "podatek od dochodu z akcji lub udziałów i podobnych dochodów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_2/ust_3/pkt_4",
+       "text": "podatek od zysków z nieruchomości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_2/ust_3/pkt_5",
+       "text": "udział w solidarności narodowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_2/ust_3/pkt_6",
+       "text": "podatek od lokat o stałym dochodzie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_2/ust_3/pkt_7",
+       "text": "podatek miejski i podatek budowlany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_2/ust_3/pkt_8",
+       "text": "podatek od patentów i podatek od koncesji na prowadzenie wyszynku;",
+       "children": [
+        {
+         "type": "text",
+         "text": "(zwane dalej „podatkami marokańskimi”)."
+        }
+       ]
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "podatek dochodowy od osób prawnych;",
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Niniejsza konwencja będzie miała również zastosowanie do wszystkich podatków takiego samego lub podobnego rodzaju, które po podpisaniu niniejszej konwencji będą wprowadzone przez każde Umawiające się Państwo obok istniejących podatków, o których mowa w niniejszym artykule, lub w ich miejsce. Właściwe władze Umawiających się Państw będą informowały się wzajemnie o wszystkich zasadniczych zmianach dokonanych w ich ustawodawstwach podatkowych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 2"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Ogólne definicje",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "W rozumieniu niniejszej konwencji, jeżeli z kontekstu nie wynika inaczej:",
      "children": [
       {
-       "type": "text",
-       "text": "(zwane dalej „podatkami polskimi”);"
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/ust_1/lit_a",
+       "text": "określenie „Polska” oznacza Rzeczpospolitą Polską, w tym każdy obszar poza wodami terytorialnymi Polski, który zgodnie z prawem międzynarodowym został określony lub który może być określony na mocy ustawodawstwa polskiego jako obszar, na którym Polska może sprawować suwerenne prawa w zakresie poszukiwań i eksploatacji zasobów naturalnych dna morskiego i jego podglebia;",
+       "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "ust_3/pkt_2/lit_b",
-       "text": "w Królestwie Maroka:",
+       "path": "art_3/ust_1/lit_b",
+       "text": "określenie „Maroko” oznacza Królestwo Maroka, a użyte w sensie geograficznym oznacza terytorium Maroka, jak i terytorium przyległe do wód terytorialnych Maroka i traktowane dla celów podatkowych jako terytorium narodowe, na którym Maroko zgodnie z prawem międzynarodowym może sprawować prawa w odniesieniu do dna i podglebia morskiego, jak również do ich zasobów naturalnych (szelf kontynentalny);",
+       "children": [
+        {
+         "type": "text",
+         "text": "— określenia „Umawiające się Państwo” i „drugie c Umawiające się Państwo” oznaczają, zależnie od kontekstu, Polskę lub Maroko;"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_3/ust_1/lit_d",
+       "text": "określenie „obywatele” oznacza osoby fizyczne posiadające obywatelstwo Umawiającego się Państwa i osoby prawne, spółki osobowe lub stowarzyszenia utworzone na podstawie ustawodawstwa obowiązującego w Umawiającym się Państwie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_3/ust_1/lit_e",
+       "text": "określenie „osoba” obejmuje osobę fizyczną, spółkę oraz każde inne zrzeszenie osób;",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "f"
+      },
+      {
+       "type": "text",
+       "text": "— określenia „przedsiębiorstwo Umawiającego się Państwa” i „przedsiębiorstwo drugiego Umawiającego się Państwa” oznaczają odpowiednio przedsiębiorstwo prowadzone przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie i przedsiębiorstwo prowadzone przez osobę mającą miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie;"
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_3/ust_1/lit_g",
+       "text": "określenie „spółka” oznacza każdą osobę prawną lub każdą inną jednostką organizacyjną, którą dla celów podatkowych traktuje się jako osobę prawną;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_3/ust_1/lit_h",
+       "text": "określenie „transport międzynarodowy” oznacza wszelki transport statkiem morskim lub statkiem powietrznym, eksploatowanym przez przedsiębiorstwo, którego miejsce faktycznego zarządu znajduje się w Umawiającym się Państwie, z wyjątkiem przypadku, gdy taki statek morski lub statek powietrzny jest eksploatowany wyłącznie między miejscami położonymi w drugim Umawiającym się Państwie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_3/ust_1/lit_i",
+       "text": "określenie „właściwa władza” oznacza:",
+       "children": [
+        {
+         "type": "text",
+         "text": "— w przypadku Rzeczypospolitej Polskiej — Ministra Finansów lub jego należycie upoważnionego przedstawiciela,"
+        },
+        {
+         "type": "text",
+         "text": "— w przypadku Królestwa Maroka — Ministra odpowiedzialnego za finanse lub jego należycie upoważnionego lub wyznaczonego przedstawiciela."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Przy stosowaniu niniejszej konwencji przez Umawiające się Państwo, jeżeli z treści przepisu nie wynika inaczej, każde określenie w niej nie zdefiniowane będzie miało takie znaczenie, jakie przyjmuje się zgodnie z prawem tego Państwa w zakresie podatków, do których ma zastosowanie niniejsza konwencja.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 3"
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Miejsce zamieszkania lub siedziba",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "W rozumieniu niniejszej konwencji określenie „osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie” oznacza każdą osobę, która zgodnie z prawem tego Państwa podlega tam opodatkowaniu z uwagi na jej miejsce zamieszkania, miejsce stałego pobytu, siedzibę zarządu, miejsce rejestracji albo inne kryterium o podobnym charakterze. Jednakże określenie to nie obejmuje osób, które podlegają opodatkowaniu w tym Państwie, w zakresie dochodu osiąganego tylko w tym",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Państwie lub z tytułu majątku położonego tylko w tym Państwie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Jeżeli stosownie do postanowień ustępu 1 osoba fizyczna ma miejsce zamieszkania w obu Umawiających się Państwach, to jej status określa się według następujących zasad:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_2/lit_a",
+       "text": "osobę uważa się za mającą miejsce zamieszkania w tym Państwie, w którym posiada ona stałe miejsce zamieszkania; jeżeli posiada ona state miejsce zamieszkania w obu Umawiających się Państwach, to uważa się ją za mającą miejsce zamieszkania w tym Państwie, z którym ma ona silniejsze powiązania osobiste i gospodarcze (ośrodek interesów życiowych);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_2/lit_b",
+       "text": "jeżeli nie można ustalić, w którym Państwie osoba posiada ośrodek interesów życiowych, albo jeżeli nie posiada ona stałego miejsca zamieszkania w żadnym z Państw, to uważa się ją za mającą miejsce zamieszkania w tym Umawiającym się Państwie, w którym zazwyczaj przebywa;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_4/ust_2/lit_c",
+       "text": "jeżeli przebywa ona zazwyczaj w obu Państwach lub nie przebywa zazwyczaj w żadnym z nich, to uważa się ją za mającą miejsce zamieszkania w tym Państwie, którego jest obywatelem;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_4/ust_2/lit_d",
+       "text": "jeżeli osoba jest obywatelem obydwu Państw lub nie jest obywatelem żadnego z nich, to właściwe władze Umawiających się Państw rozstrzygną tę sprawę w drodze wzajemnego porozumienia.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "1",
-     "path": "ust_3/pkt_1",
-     "text": "podatek od spółek,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_3/pkt_2",
-     "text": "powszechny podatek od dochodu, w tym danina od dochodu z wykonywania zawodu lub z posiadania nieruchomości ziemskiej, wyłączone z powszechnego podatku od dochodu,",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "3",
-     "path": "ust_3/pkt_3",
-     "text": "podatek od dochodu z akcji lub udziałów i podobnych dochodów,",
+     "path": "art_4/ust_3",
+     "text": "Jeżeli stosownie do postanowień ustępu 1 osoba nie będąca osobą fizyczną ma siedzibę w obu Umawiających się Państwach, to uważa się ją za mającą siedzibę w tym Umawiającym się Państwie, w którym znajduje się miejsce jej faktycznego zarządu.",
      "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "ust_3/pkt_4",
-     "text": "podatek od zysków z nieruchomości,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "5",
-     "path": "ust_3/pkt_5",
-     "text": "udział w solidarności narodowej,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "ust_3/pkt_6",
-     "text": "podatek od lokat o stałym dochodzie,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "7",
-     "path": "ust_3/pkt_7",
-     "text": "podatek miejski i podatek budowlany,",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "8",
-     "path": "ust_3/pkt_8",
-     "text": "podatek od patentów i podatek od koncesji na prowadzenie wyszynku;",
-     "children": [
-      {
-       "type": "text",
-       "text": "(zwane dalej „podatkami marokańskimi”)."
-      }
-     ]
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Niniejsza konwencja będzie miała również zastosowanie do wszystkich podatków takiego samego lub podobnego rodzaju, które po podpisaniu niniejszej konwencji będą wprowadzone przez każde Umawiające się Państwo obok istniejących podatków, o których mowa w niniejszym artykule, lub w ich miejsce. Właściwe władze Umawiających się Państw będą informowały się wzajemnie o wszystkich zasadniczych zmianach dokonanych w ich ustawodawstwach podatkowych.",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Zakład",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Ogólne definicje"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszej konwencji, jeżeli z kontekstu nie wynika inaczej:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "określenie „Polska” oznacza Rzeczpospolitą Polską, w tym każdy obszar poza wodami terytorialnymi Polski, który zgodnie z prawem międzynarodowym został określony lub który może być określony na mocy ustawodawstwa polskiego jako obszar, na którym Polska może sprawować suwerenne prawa w zakresie poszukiwań i eksploatacji zasobów naturalnych dna morskiego i jego podglebia;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "W rozumieniu niniejszej konwencji określenie „zakład” oznacza stałą placówką, przez którą całkowicie lub częściowo prowadzona jest działalność przedsiębiorstwa.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "określenie „Maroko” oznacza Królestwo Maroka, a użyte w sensie geograficznym oznacza terytorium Maroka, jak i terytorium przyległe do wód terytorialnych Maroka i traktowane dla celów podatkowych jako terytorium narodowe, na którym Maroko zgodnie z prawem międzynarodowym może sprawować prawa w odniesieniu do dna i podglebia morskiego, jak również do ich zasobów naturalnych (szelf kontynentalny);",
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Określenie „zakład” obejmuje w szczególności:",
      "children": [
       {
-       "type": "text",
-       "text": "— określenia „Umawiające się Państwo” i „drugie c Umawiające się Państwo” oznaczają, zależnie od kontekstu, Polskę lub Maroko;"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "określenie „obywatele” oznacza osoby fizyczne posiadające obywatelstwo Umawiającego się Państwa i osoby prawne, spółki osobowe lub stowarzyszenia utworzone na podstawie ustawodawstwa obowiązującego w Umawiającym się Państwie;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "określenie „osoba” obejmuje osobę fizyczną, spółkę oraz każde inne zrzeszenie osób;",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "f"
-    },
-    {
-     "type": "text",
-     "text": "— określenia „przedsiębiorstwo Umawiającego się Państwa” i „przedsiębiorstwo drugiego Umawiającego się Państwa” oznaczają odpowiednio przedsiębiorstwo prowadzone przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie i przedsiębiorstwo prowadzone przez osobę mającą miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie;"
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "określenie „spółka” oznacza każdą osobę prawną lub każdą inną jednostką organizacyjną, którą dla celów podatkowych traktuje się jako osobę prawną;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_1/lit_h",
-     "text": "określenie „transport międzynarodowy” oznacza wszelki transport statkiem morskim lub statkiem powietrznym, eksploatowanym przez przedsiębiorstwo, którego miejsce faktycznego zarządu znajduje się w Umawiającym się Państwie, z wyjątkiem przypadku, gdy taki statek morski lub statek powietrzny jest eksploatowany wyłącznie między miejscami położonymi w drugim Umawiającym się Państwie;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_1/lit_i",
-     "text": "określenie „właściwa władza” oznacza:",
-     "children": [
-      {
-       "type": "text",
-       "text": "— w przypadku Rzeczypospolitej Polskiej — Ministra Finansów lub jego należycie upoważnionego przedstawiciela,"
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_2/lit_a",
+       "text": "miejsce zarządu,",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "— w przypadku Królestwa Maroka — Ministra odpowiedzialnego za finanse lub jego należycie upoważnionego lub wyznaczonego przedstawiciela."
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_2/lit_b",
+       "text": "filię,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/ust_2/lit_c",
+       "text": "biuro,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/ust_2/lit_d",
+       "text": "zakład fabryczny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/ust_2/lit_e",
+       "text": "warsztat i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_5/ust_2/lit_f",
+       "text": "kopalnię, źródło ropy naftowej lub gazu, kamieniofom albo inne miejsce wydobywania zasobów naturalnych.",
+       "children": []
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przy stosowaniu niniejszej konwencji przez Umawiające się Państwo, jeżeli z treści przepisu nie wynika inaczej, każde określenie w niej nie zdefiniowane będzie miało takie znaczenie, jakie przyjmuje się zgodnie z prawem tego Państwa w zakresie podatków, do których ma zastosowanie niniejsza konwencja.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 4"
     },
     {
-     "type": "text",
-     "text": "Miejsce zamieszkania lub siedziba"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszej konwencji określenie „osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie” oznacza każdą osobę, która zgodnie z prawem tego Państwa podlega tam opodatkowaniu z uwagi na jej miejsce zamieszkania, miejsce stałego pobytu, siedzibę zarządu, miejsce rejestracji albo inne kryterium o podobnym charakterze. Jednakże określenie to nie obejmuje osób, które podlegają opodatkowaniu w tym Państwie, w zakresie dochodu osiąganego tylko w tym",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Państwie lub z tytułu majątku położonego tylko w tym Państwie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli stosownie do postanowień ustępu 1 osoba fizyczna ma miejsce zamieszkania w obu Umawiających się Państwach, to jej status określa się według następujących zasad:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "osobę uważa się za mającą miejsce zamieszkania w tym Państwie, w którym posiada ona stałe miejsce zamieszkania; jeżeli posiada ona state miejsce zamieszkania w obu Umawiających się Państwach, to uważa się ją za mającą miejsce zamieszkania w tym Państwie, z którym ma ona silniejsze powiązania osobiste i gospodarcze (ośrodek interesów życiowych);",
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Plac, na którym trwają prace budowlane lub montażowe, stanowi zakład tylko wtedy, gdy obiekt lub prace trwają dłużej niż sześć miesięcy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "jeżeli nie można ustalić, w którym Państwie osoba posiada ośrodek interesów życiowych, albo jeżeli nie posiada ona stałego miejsca zamieszkania w żadnym z Państw, to uważa się ją za mającą miejsce zamieszkania w tym Umawiającym się Państwie, w którym zazwyczaj przebywa;",
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Bez względu na poprzednie postanowienia tego artykułu określenie „zakład” nie obejmuje:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_4/lit_a",
+       "text": "placówek, które służą wyłącznie do składowania, wystawiania albo wydawania dóbr lub towarów należących do przedsiębiorstwa;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_4/lit_b",
+       "text": "utrzymywania zapasów dóbr lub towarów należących do przedsiębiorstwa wyłącznie w celu składowania, wystawiania albo wydawania;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/ust_4/lit_c",
+       "text": "utrzymywania zapasów dóbr lub towarów należących do przedsiębiorstwa wyłącznie w celu przerobu przez inne przedsiębiorstwo;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/ust_4/lit_d",
+       "text": "utrzymywania stałej placówki wyłącznie w celu zakupu dóbr lub towarów albo w celu zbierania informacji dla przedsiębiorstwa;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/ust_4/lit_e",
+       "text": "utrzymywania stałej placówki wyłącznie w celu prowadzenia dla przedsiębiorstwa jakiejkolwiek innej działalności o charakterze przygotowawczym lub pomocniczym;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_5/ust_4/lit_f",
+       "text": "utrzymywania stałej placówki wyłącznie w celu wykonywania jakiegokolwiek połączenia rodzajów działalności, o których mowa w tym ustępie od litery a) do e), pod warunkiem jednak, że całkowita działalność tej placówki, wynikająca z takiego połączenia rodzajów działalności, ma charakter przygotowawczy lub pomocniczy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_5/ust_5",
+     "text": "Bez względu na postanowienia ustępów 1 i 2, jeżeli osoba, z wyjątkiem niezależnego przedstawiciela w rozumieniu ustępu 6, działa w imieniu przedsiębiorstwa i osoba ta posiada i zwyczajowo wykonuje pełnomocnictwo do zawierania umów w Umawiającym się Państwie w imieniu przedsiębiorstwa, to uważa się, że przedsiębiorstwo to posiada zakład w tym Państwie w zakresie prowadzenia każdego rodzaju działalności, który osoba ta podejmuje dla przedsiębiorstwa, chyba że czynności wykonywane przez tę osobę ograniczają się do rodzajów działalności wymienionych w ustępie 4, które, gdyby byty wykonywane za pośrednictwem stałej placówki, nie powodowałyby uznania tej placówki za zakład na podstawie postanowień tego ustępu.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "jeżeli przebywa ona zazwyczaj w obu Państwach lub nie przebywa zazwyczaj w żadnym z nich, to uważa się ją za mającą miejsce zamieszkania w tym Państwie, którego jest obywatelem;",
+     "type": "ust",
+     "num": "6",
+     "path": "art_5/ust_6",
+     "text": "Nie uważa się, że przedsiębiorstwo posiada zakład w Umawiającym się Państwie tylko z tego powodu, że wykonuje ono w tym Państwie czynności przez maklera, generalnego komisanta albo każdego innego niezależnego przedstawiciela, pod warunkiem że te osoby działają w ramach swojej zwykłej działalności.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "jeżeli osoba jest obywatelem obydwu Państw lub nie jest obywatelem żadnego z nich, to właściwe władze Umawiających się Państw rozstrzygną tę sprawę w drodze wzajemnego porozumienia.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli stosownie do postanowień ustępu 1 osoba nie będąca osobą fizyczną ma siedzibę w obu Umawiających się Państwach, to uważa się ją za mającą siedzibę w tym Umawiającym się Państwie, w którym znajduje się miejsce jej faktycznego zarządu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Zakład"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszej konwencji określenie „zakład” oznacza stałą placówką, przez którą całkowicie lub częściowo prowadzona jest działalność przedsiębiorstwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „zakład” obejmuje w szczególności:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "miejsce zarządu,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "filię,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "biuro,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "zakład fabryczny,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "warsztat i",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "kopalnię, źródło ropy naftowej lub gazu, kamieniofom albo inne miejsce wydobywania zasobów naturalnych.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Plac, na którym trwają prace budowlane lub montażowe, stanowi zakład tylko wtedy, gdy obiekt lub prace trwają dłużej niż sześć miesięcy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Bez względu na poprzednie postanowienia tego artykułu określenie „zakład” nie obejmuje:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_4/lit_a",
-     "text": "placówek, które służą wyłącznie do składowania, wystawiania albo wydawania dóbr lub towarów należących do przedsiębiorstwa;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_4/lit_b",
-     "text": "utrzymywania zapasów dóbr lub towarów należących do przedsiębiorstwa wyłącznie w celu składowania, wystawiania albo wydawania;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_4/lit_c",
-     "text": "utrzymywania zapasów dóbr lub towarów należących do przedsiębiorstwa wyłącznie w celu przerobu przez inne przedsiębiorstwo;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_4/lit_d",
-     "text": "utrzymywania stałej placówki wyłącznie w celu zakupu dóbr lub towarów albo w celu zbierania informacji dla przedsiębiorstwa;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_4/lit_e",
-     "text": "utrzymywania stałej placówki wyłącznie w celu prowadzenia dla przedsiębiorstwa jakiejkolwiek innej działalności o charakterze przygotowawczym lub pomocniczym;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_4/lit_f",
-     "text": "utrzymywania stałej placówki wyłącznie w celu wykonywania jakiegokolwiek połączenia rodzajów działalności, o których mowa w tym ustępie od litery a) do e), pod warunkiem jednak, że całkowita działalność tej placówki, wynikająca z takiego połączenia rodzajów działalności, ma charakter przygotowawczy lub pomocniczy.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Bez względu na postanowienia ustępów 1 i 2, jeżeli osoba, z wyjątkiem niezależnego przedstawiciela w rozumieniu ustępu 6, działa w imieniu przedsiębiorstwa i osoba ta posiada i zwyczajowo wykonuje pełnomocnictwo do zawierania umów w Umawiającym się Państwie w imieniu przedsiębiorstwa, to uważa się, że przedsiębiorstwo to posiada zakład w tym Państwie w zakresie prowadzenia każdego rodzaju działalności, który osoba ta podejmuje dla przedsiębiorstwa, chyba że czynności wykonywane przez tę osobę ograniczają się do rodzajów działalności wymienionych w ustępie 4, które, gdyby byty wykonywane za pośrednictwem stałej placówki, nie powodowałyby uznania tej placówki za zakład na podstawie postanowień tego ustępu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Nie uważa się, że przedsiębiorstwo posiada zakład w Umawiającym się Państwie tylko z tego powodu, że wykonuje ono w tym Państwie czynności przez maklera, generalnego komisanta albo każdego innego niezależnego przedstawiciela, pod warunkiem że te osoby działają w ramach swojej zwykłej działalności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Fakt, że spółka mająca siedzibę w Umawiającym się Państwie kontroluje lub jest kontrolowana przez spółkę, która ma siedzibę w drugim Umawiającym się Państwie albo która prowadzi działalność w tym drugim Państwie (przez posiadany tam zakład albo w inny sposób), nie wystarcza, aby którąkolwiek z tych spółek uważać za zakład drugiej spółki.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Dochód z nieruchomości"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dochód osiągany przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie z majątku nieruchomego (włączając dochód z gospodarstwa rolnego i leśnego), położonego w drugim Umawiającym się Państwie, może być opodatkowany w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „majątek nieruchomy” posiada takie znaczenie, jakie przyjmuje się według prawa tego Umawiającego się Państwa, na którego terytorium dany majątek jest położony. W każdym przypadku określenie to obejmuje przynależność do majątku nieruchomego, a w szczególności budynki, żywy i martwy inwentarz gospodarstw rolnych i leśnych, prawa, do których mają zastosowanie przepisy prawa powszechnego dotyczące własności ziemi, prawa użytkowania nieruchomości, jak również prawa do stałych lub zmiennych świadczeń z tytułu eksploatacji lub prawa do eksploatacji zasobów mineralnych, źródeł i innych zasobów naturalnych; statki morskie, barki i statki powietrzne nie stanowią majątku nieruchomego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia ustępu 1 stosuje się do dochodu osiąganego z bezpośredniego użytkowania, dzierżawy lub innego rodzaju użytkowania majątku nieruchomego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępów 1 i 3 stosuje się również do dochodu z majątku nieruchomego przedsiębiorstwa i do dochodu z majątku nieruchomego służącego do wykonywania wolnego zawodu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Zyski przedsiębiorstw"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zyski przedsiębiorstwa Umawiającego się Państwa podlegają opodatkowaniu tylko w tym Państwie, chyba że przedsiębiorstwo prowadzi działalność w drugim Umawiającym się Państwie poprzez położony tam zakład. Jeżeli przedsiębiorstwo wykonuje działalność w ten sposób, zyski przedsiębiorstwa mogą być opodatkowane w drugim Państwie, jednak tylko w takiej mierze, w jakiej mogą być przypisane takiemu zakładowi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z zastrzeżeniem postanowień ustępu 3, jeżeli przedsiębiorstwo Umawiającego się Państwa wykonuje działalność w drugim Umawiającym się Państwie poprzez położony tam zakład, to w każdym Umawiającym się Państwie należy przypisać takiemu zakładowi takie zyski, jakie mógłby on osiągnąć, gdyby wykonywał taką samą lub podobną działalność w takich samych lub podobnych warunkach jako samodzielne przedsiębiorstwo i był całkowicie niezależny w stosunkach z przedsiębiorstwem, którego jest zakładem.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Przy ustalaniu zysków zakładu dopuszcza się odliczanie nakładów ponoszonych dla tego zakładu, włącznie z kosztami zarządzania i ogólnymi kosztami administracyjnymi, niezależnie od tego, czy powstały w tym Państwie, w którym położony jest zakład, czy gdzie indziej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli w Umawiającym się Państwie istnieje zwyczaj ustalania zysków zakładu przez podział całkowitych zysków przedsiębiorstwa na jego poszczególne części, żadne postanowienie ustępu 2 nie wyklucza ustalenia przez to Umawiające się Państwo zysku do opodatkowania według zwykle stosowanego podziału; sposób stosowanego podziału zysku musi jednak być taki, żeby wynik był zgodny z zasadami zawartymi w tym artykule.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Nie można przypisać zakładowi zysku tylko z tytułu samego zakupu dóbr lub towarów przez ten zakład dla przedsiębiorstwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Przy stosowaniu poprzednich ustępów ustalanie zysków zakładu powinno być dokonywane każdego roku w ten sam sposób, chyba że istnieją uzasadnione powody, aby postąpić inaczej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Jeżeli w zyskach mieszczą się dochody, które zostały odrębnie uregulowane w innych artykułach niniejszej konwencji, postanowienia tych innych artykułów nie będą naruszane przez postanowienia tego artykułu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Żegluga morska, śródlądowa i transport lotniczy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zyski osiągane z eksploatacji w transporcie międzynarodowym statków morskich lub statków powietrznych podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zyski osiągane z eksploatacji barek w transporcie śródlądowym podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli miejsce faktycznego zarządu przedsiębiorstwa żeglugowego lub przedsiębiorstwa żeglugi śródlądowej znajduje się na pokładzie statku lub barki, to uważa się, że znajduje się ono wtym Umawiającym się Państwie, w którym znajduje się port macierzysty statku lub barki, a jeżeli statek lub barka nie ma portu macierzystego — to w tym Umawiającym się Państwie, w którym osoba eksploatująca statek lub barkę ma miejsce zamieszkania lub siedzibę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępu 1 stosuje się również do zysków pochodzących z uczestnictwa w umowie poolowej, we wspólnym przedsiębiorstwie lub w międzynarodowym związku eksploatacyjnym.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Przedsiębiorstwa powiązane"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "przedsiębiorstwo Umawiającego się Państwa ma bezpośredni lub pośredni udział w zarządzaniu,",
+     "type": "ust",
+     "num": "7",
+     "path": "art_5/ust_7",
+     "text": "Fakt, że spółka mająca siedzibę w Umawiającym się Państwie kontroluje lub jest kontrolowana przez spółkę, która ma siedzibę w drugim Umawiającym się Państwie albo która prowadzi działalność w tym drugim Państwie (przez posiadany tam zakład albo w inny sposób), nie wystarcza, aby którąkolwiek z tych spółek uważać za zakład drugiej spółki.",
      "children": [
       {
        "type": "note",
-       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 5"
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Dochód z nieruchomości",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Dochód osiągany przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie z majątku nieruchomego (włączając dochód z gospodarstwa rolnego i leśnego), położonego w drugim Umawiającym się Państwie, może być opodatkowany w tym drugim Państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Określenie „majątek nieruchomy” posiada takie znaczenie, jakie przyjmuje się według prawa tego Umawiającego się Państwa, na którego terytorium dany majątek jest położony. W każdym przypadku określenie to obejmuje przynależność do majątku nieruchomego, a w szczególności budynki, żywy i martwy inwentarz gospodarstw rolnych i leśnych, prawa, do których mają zastosowanie przepisy prawa powszechnego dotyczące własności ziemi, prawa użytkowania nieruchomości, jak również prawa do stałych lub zmiennych świadczeń z tytułu eksploatacji lub prawa do eksploatacji zasobów mineralnych, źródeł i innych zasobów naturalnych; statki morskie, barki i statki powietrzne nie stanowią majątku nieruchomego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Postanowienia ustępu 1 stosuje się do dochodu osiąganego z bezpośredniego użytkowania, dzierżawy lub innego rodzaju użytkowania majątku nieruchomego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "Postanowienia ustępów 1 i 3 stosuje się również do dochodu z majątku nieruchomego przedsiębiorstwa i do dochodu z majątku nieruchomego służącego do wykonywania wolnego zawodu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 6"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zyski przedsiębiorstw",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Zyski przedsiębiorstwa Umawiającego się Państwa podlegają opodatkowaniu tylko w tym Państwie, chyba że przedsiębiorstwo prowadzi działalność w drugim Umawiającym się Państwie poprzez położony tam zakład. Jeżeli przedsiębiorstwo wykonuje działalność w ten sposób, zyski przedsiębiorstwa mogą być opodatkowane w drugim Państwie, jednak tylko w takiej mierze, w jakiej mogą być przypisane takiemu zakładowi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Z zastrzeżeniem postanowień ustępu 3, jeżeli przedsiębiorstwo Umawiającego się Państwa wykonuje działalność w drugim Umawiającym się Państwie poprzez położony tam zakład, to w każdym Umawiającym się Państwie należy przypisać takiemu zakładowi takie zyski, jakie mógłby on osiągnąć, gdyby wykonywał taką samą lub podobną działalność w takich samych lub podobnych warunkach jako samodzielne przedsiębiorstwo i był całkowicie niezależny w stosunkach z przedsiębiorstwem, którego jest zakładem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Przy ustalaniu zysków zakładu dopuszcza się odliczanie nakładów ponoszonych dla tego zakładu, włącznie z kosztami zarządzania i ogólnymi kosztami administracyjnymi, niezależnie od tego, czy powstały w tym Państwie, w którym położony jest zakład, czy gdzie indziej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Jeżeli w Umawiającym się Państwie istnieje zwyczaj ustalania zysków zakładu przez podział całkowitych zysków przedsiębiorstwa na jego poszczególne części, żadne postanowienie ustępu 2 nie wyklucza ustalenia przez to Umawiające się Państwo zysku do opodatkowania według zwykle stosowanego podziału; sposób stosowanego podziału zysku musi jednak być taki, żeby wynik był zgodny z zasadami zawartymi w tym artykule.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_7/ust_5",
+     "text": "Nie można przypisać zakładowi zysku tylko z tytułu samego zakupu dóbr lub towarów przez ten zakład dla przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_7/ust_6",
+     "text": "Przy stosowaniu poprzednich ustępów ustalanie zysków zakładu powinno być dokonywane każdego roku w ten sam sposób, chyba że istnieją uzasadnione powody, aby postąpić inaczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_7/ust_7",
+     "text": "Jeżeli w zyskach mieszczą się dochody, które zostały odrębnie uregulowane w innych artykułach niniejszej konwencji, postanowienia tych innych artykułów nie będą naruszane przez postanowienia tego artykułu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Żegluga morska, śródlądowa i transport lotniczy",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Zyski osiągane z eksploatacji w transporcie międzynarodowym statków morskich lub statków powietrznych podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Zyski osiągane z eksploatacji barek w transporcie śródlądowym podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Jeżeli miejsce faktycznego zarządu przedsiębiorstwa żeglugowego lub przedsiębiorstwa żeglugi śródlądowej znajduje się na pokładzie statku lub barki, to uważa się, że znajduje się ono wtym Umawiającym się Państwie, w którym znajduje się port macierzysty statku lub barki, a jeżeli statek lub barka nie ma portu macierzystego — to w tym Umawiającym się Państwie, w którym osoba eksploatująca statek lub barkę ma miejsce zamieszkania lub siedzibę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Postanowienia ustępu 1 stosuje się również do zysków pochodzących z uczestnictwa w umowie poolowej, we wspólnym przedsiębiorstwie lub w międzynarodowym związku eksploatacyjnym.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Przedsiębiorstwa powiązane",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Jeżeli:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_1/lit_a",
+       "text": "przedsiębiorstwo Umawiającego się Państwa ma bezpośredni lub pośredni udział w zarządzaniu,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "kontroli lub w kapitale przedsiębiorstwa drugiego Umawiającego się Państwa albo"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_1/lit_b",
+       "text": "te same osoby mają bezpośredni lub pośredni udział w zarządzaniu, kontroli lub w kapitale przedsiębiorstwa Umawiającego się Państwa i przedsiębiorstwa drugiego Umawiającego się Państwa",
+       "children": []
       },
       {
        "type": "text",
-       "text": "kontroli lub w kapitale przedsiębiorstwa drugiego Umawiającego się Państwa albo"
+       "text": "i jeżeli w jednym i w drugim przypadku między dwoma przedsiębiorstwami w zakresie ich stosunków handlowych lub finansowych zostaną umówione lub narzucone warunki różniące się od warunków, które ustaliłyby między sobą niezależne przedsiębiorstwa, to zyski, które osiagnetoby jedno z przedsiębiorstw bez tych warunków, ale których z powodu tych warunków nie osiągnęło, mogą być uznane za zyski tego przedsiębiorstwa i odpowiednio opodatkowane."
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "te same osoby mają bezpośredni lub pośredni udział w zarządzaniu, kontroli lub w kapitale przedsiębiorstwa Umawiającego się Państwa i przedsiębiorstwa drugiego Umawiającego się Państwa",
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Jeżeli Umawiające się Państwo wtącza do zysków własnego przedsiębiorstwa i odpowiednio opodatkowuje również zyski przedsiębiorstwa drugiego Umawiającego się Państwa, z których tytułu przedsiębiorstwo to zostało opodatkowane w tym drugim Państwie, a zyski w ten sposób połączone są zyskami, które osiągnęłoby przedsiębiorstwo pierwszego Państwa, gdyby warunki ustalone między oboma przedsiębiorstwami byty warunkami, które byłyby uzgodnione między przedsiębiorstwami niezależnymi, wtedy to drugie Państwo dokona odpowiedniej korekty kwoty podatku wymierzonego w tym Państwie. Przy ustalaniu takiej korekty będą odpowiednio uwzględnione inne postanowienia niniejszej konwencji, a w razie konieczności właściwe władze Umawiających się Państw będą porozumiewać się ze sobą bezpośrednio.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Dywidendy",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Dywidendy, wypłacane przez spółkę mającą siedzibę w Umawiającym się Państwie osobie mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Umawiającym się Państwie.",
      "children": []
     },
     {
-     "type": "text",
-     "text": "i jeżeli w jednym i w drugim przypadku między dwoma przedsiębiorstwami w zakresie ich stosunków handlowych lub finansowych zostaną umówione lub narzucone warunki różniące się od warunków, które ustaliłyby między sobą niezależne przedsiębiorstwa, to zyski, które osiagnetoby jedno z przedsiębiorstw bez tych warunków, ale których z powodu tych warunków nie osiągnęło, mogą być uznane za zyski tego przedsiębiorstwa i odpowiednio opodatkowane."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli Umawiające się Państwo wtącza do zysków własnego przedsiębiorstwa i odpowiednio opodatkowuje również zyski przedsiębiorstwa drugiego Umawiającego się Państwa, z których tytułu przedsiębiorstwo to zostało opodatkowane w tym drugim Państwie, a zyski w ten sposób połączone są zyskami, które osiągnęłoby przedsiębiorstwo pierwszego Państwa, gdyby warunki ustalone między oboma przedsiębiorstwami byty warunkami, które byłyby uzgodnione między przedsiębiorstwami niezależnymi, wtedy to drugie Państwo dokona odpowiedniej korekty kwoty podatku wymierzonego w tym Państwie. Przy ustalaniu takiej korekty będą odpowiednio uwzględnione inne postanowienia niniejszej konwencji, a w razie konieczności właściwe władze Umawiających się Państw będą porozumiewać się ze sobą bezpośrednio.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Dywidendy"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dywidendy, wypłacane przez spółkę mającą siedzibę w Umawiającym się Państwie osobie mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Umawiającym się Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dywidendy te mogą być opodatkowane także w Umawiającym się Państwie i zgodnie z prawem tego Państwa, w którym spółka wypłacająca dywidendy ma swoją siedzibę, lecz jeżeli odbiorca dywidend jest ich właścicielem, to podatek ten nie może przekroczyć:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "7 procent kwoty dywidend brutto, jeżeli ich właścicielem jest spółka (inna niż spółka osobowa), której udział w kapitale spółki wypłacającej dywidendy wynosi co najmniej 25 procent,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "15 procent kwoty dywidend brutto we wszystkich pozostałych przypadkach.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Dywidendy te mogą być opodatkowane także w Umawiającym się Państwie i zgodnie z prawem tego Państwa, w którym spółka wypłacająca dywidendy ma swoją siedzibę, lecz jeżeli odbiorca dywidend jest ich właścicielem, to podatek ten nie może przekroczyć:",
      "children": [
       {
-       "type": "text",
-       "text": "Właściwe władze Umawiających się Państw w drodze wzajemnego porozumienia rozstrzygną sposób stosowania tych ograniczeń. Postanowienia niniejszego ustępu nie naruszają opodatkowania spółki w odniesieniu do zysków, z których dywidendy są wypłacane."
+       "type": "lit",
+       "num": "a",
+       "path": "art_10/ust_2/lit_a",
+       "text": "7 procent kwoty dywidend brutto, jeżeli ich właścicielem jest spółka (inna niż spółka osobowa), której udział w kapitale spółki wypłacającej dywidendy wynosi co najmniej 25 procent,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_10/ust_2/lit_b",
+       "text": "15 procent kwoty dywidend brutto we wszystkich pozostałych przypadkach.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Właściwe władze Umawiających się Państw w drodze wzajemnego porozumienia rozstrzygną sposób stosowania tych ograniczeń. Postanowienia niniejszego ustępu nie naruszają opodatkowania spółki w odniesieniu do zysków, z których dywidendy są wypłacane."
+        }
+       ]
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Określenie „dywidendy” użyte w tym artykule oznacza dochód z akcji, akcji gratisowych, udziałów w kopalnictwie, akcji założycieli lub innych praw, z wyjątkiem wierzytelności, do udziału w zyskach, jak również dochody z innych praw spółki, które według prawa podatkowego Państwa, w którym spółka wyptacająca dywidendy ma siedzibę, są pod względem podatkowym traktowane jak dochody z akcji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępów 1 i 2 nie mają zastosowania, jeżeli właściciel dywidend, mający miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, wykonuje w drugim Umawiającym się Państwie, w którym znajduje się siedziba spółki wypłacającej dywidendy, działalność przemysłową lub handlową poprzez zakład w nim położony bądź wykonuje w tym drugim Państwie wolny zawód w oparciu o położoną w nim stata placówkę i gdy udział, z którego tytułu wypłaca się dywidendy, faktycznie wiąże się z działalnością takiego zakiadu lub stałej placówki. W takim przypadku, w zależności od konkretnej sytuacji, stosuje się postanowienia artykułu 7 lub artykułu 14.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Jeżeli spółka, której siedziba znajduje się w Umawiającym się Państwie, osiąga zyski lub dochody z drugiego Umawiającego się Państwa, wówczas to drugie Państwo nie może obciążać podatkiem dywidend wypłacanych przez tę spółkę osobom mającym miejsce zamieszkania lub siedzibę w pierwszym Państwie, z wyjątkiem przypadku, gdy udział, z tytułu którego dywidendy są wypłacane, faktycznie wiąże się z działalnością zakładu lub stałej placówki położonej w drugim Państwie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 11"
     },
     {
-     "type": "text",
-     "text": "Odsetki"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Odsetki powstające w Umawiającym się Państwie i wypłacane osobie mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie mogą być opodatkowane w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jednakże takie odsetki mogą być także opodatkowane w Umawiającym się Państwie, w którym powstają, i zgodnie z ustawodawstwem tego Państwa, ale jeżeli odbiorca odsetek jest ich właścicielem, podatek w ten sposób ustalony nie może przekroczyć 10 procent kwoty brutto tych odsetek. Właściwe władze Umawiających się Państw, w drodze wzajemnego porozumienia, rozstrzygną sposób stosowania tego ograniczenia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Użyte w tym artykule określenie „odsetki” oznacza dochód z wszelkiego rodzaju wierzytelności, zarówno zabezpieczonych, jak i nie zabezpieczonych hipoteką, a w szczególności dochody z pożyczek rządowych oraz dochody z obligacji lub skryptów dłużnych, włącznie z premiami i nagrodami związanymi z takimi pożyczkami, obligacjami lub skryptami dłużnymi; opłat karnych z tytułu opóźnionej zapłaty nie uważa się za odsetki w rozumieniu tego artykułu.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępów 1 i 2 nie mają zastosowania, jeżeli właściciel odsetek, mający miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, wykonuje w drugim Państwie, w którym powstają odsetki, bądź działalność przemysłową lub handlową poprzez zakład tam położony, bądź wykonuje wolny zawód w oparciu o położoną w nim stałą placówkę, i jeżeli wierzytelność, z której tytułu płacone są odsetki, jest faktycznie związana z takim zakładem lub stata placówką. W takim przypadku, w zależności od konkretnej sytuacji, stosuje się postanowienia artykułu 7 lub artykułu 14.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Uważa się, że odsetki powstają w Umawiającym się Państwie, gdy płatnikiem jest to Państwo, jego jednostka terytorialna, władza lokalna albo osoba mająca w tym Państwie miejsce zamieszkania lub siedzibę. Jeżeli jednak osoba wypłacająca odsetki, bez względu na to, czy ma ona miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, posiada w Umawiającym się Państwie zakład lub stałą placówkę, w związku z których działalnością powstało zobowiązanie, z tytułu którego są wypłacane odsetki, i zapłata tych odsetek jest pokrywana przez ten zakład lub stata placówkę, to uważa się, że odsetki takie powstają w Państwie, w którym położony jest zakład lub stała placówka.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Jeżeli w wyniku szczególnych powiązań między płatnikiem a właścicielem odsetek lub między nimi a osobą trzecią kwota odsetek związanych z zadłużeniem, z którego tytułu są wypłacane, przekracza kwotę, która byłaby uzgodniona pomiędzy płatnikiem a właścicielem odsetek bez tych powiązań, to postanowienia tego artykułu mają zastosowanie tylko do ostatniej wymienionej kwoty. W takim przypadku nadwyżka ponad wymienioną poprzednio część podlega opodatkowaniu w każdym Umawiającym się Państwie zgodnie z jego prawem, z zastosowaniem odpowiednich postanowień niniejszej konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Należności licencyjne"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Należności licencyjne, powstające w Umawiającym się Państwie i wypłacane osobie mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jednakże takie należności podlegają również opodatkowaniu w Umawiającym się Państwie, w którym powstają, i zgodnie z ustawodawstwem tego Państwa, lecz podatek w ten sposób wymierzony nie może przekroczyć dziesięciu procent brutto należności licencyjnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Określenie „należności licencyjne”, użyte w tym artykule, oznacza wszelkiego rodzaju należności płacone za użytkowanie lub prawo do użytkowania wszelkich praw autorskich do dzieła literackiego, artystycznego lub naukowego, włącznie z filmami dla kin, wszelkiego patentu, znaku fabrycznego lub handlowego, wzoru lub modelu, planu, tajemnicy technologii lub procesu produkcyjnego, za prawo użytkowania lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, lub za informacje dotyczące doświadczenia w dziedzinie przemysłowej, handlowej lub naukowej; należności licencyjne obejmują również prowizje, honoraria i wynagrodzenia z tytułu pomocy technicznej, usług świadczonych przez personel, jak i z tytułu prac badawczych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Postanowienia ustępów 1 i 2 nie mają zastosowania, jeżeli właściciel należności licencyjnych, mający miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, prowadzi w drugim Umawiającym się Państwie, z którego pochodzą należności licencyjne, działalność gospodarczą poprzez zakiad w nim położony bądź wykonuje wolny zawód w oparciu o stałą placówkę tam położoną, a prawa lub majątek, z których tytułu wypłacane są należności licencyjne, faktycznie należą do tego zakładu lub stałej placówki. W takim przypadku stosuje się odpowiednio, w zależności od konkretnej sytuacji, postanowienia artykułu 7 lub artykułu 14.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Uważa się, że należności licencyjne powstają w Umawiającym się Państwie, gdy piatnikiem jest to Państwo, jego jednostka terytorialna, władza lokalna lub osoba mająca w tym państwie miejsce zamieszkania lub siedzibę. Jeżeli jednak osoba wypłacająca należności licencyjne, bez względu na to, czy ma ona w Umawiającym się Państwie miejsce zamieszkania lub siedzibę, posiada w Umawiającym się Państwie zakład lub stata placówkę, z których działalnością powstał obowiązek zapłaty tych należności licencyjnych, i zakład lub stata placówka pokrywają te należności, to uważa się, że należności licencyjne powstają w Państwie, w którym położony jest ten zakład lub stała placówka.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Jeżeli w wyniku szczególnych powiązań między płatnikiem a właścicielem należności licencyjnych lub między nimi a osobą trzecią kwota należności licencyjnych płacona za użytkowanie, prawo lub informację przekracza kwotę, którą płatnik i wiaściciei należności licencyjnych uzgodniliby bez tych powiązań, to postanowienia tego artykułu stosuje się tylko do tej ostatniej wymienionej kwoty. W takim przypadku nadwyżka ponad wymienioną poprzednio kwotę podlega opodatkowaniu w każdym Umawiającym się Państwie zgodnie z jego prawem i z uwzględnieniem innych postanowień niniejszej konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Zyski ze sprzedaży majątku"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zyski, osiągane przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, z przeniesienia tytułu własności majątku nieruchomego, o którym mowa w artykule 6, położonego w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zyski z przeniesienia tytułu własności majątku ruchomego stanowiącego część majątku zakładu, któ-",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ry przedsiębiorstwo Umawiającego się Państwa posiada w drugim Umawiającym się Państwie, albo z przeniesienia tytułu własności majątku ruchomego należącego do stałej placówki, którą osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie dysponuje w drugim Umawiającym się Państwie w celu wykonywania wolnego zawodu, łącznie z zyskami, które pochodzą z przeniesienia tytułu własności takiego zakładu (odrębnie albo razem z całym przedsiębiorstwem) lub takiej stałej placówki, mogą być opodatkowane w tym drugim Państwie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zyski, osiągane przez przedsiębiorstwo Umawiającego się Państwa z przeniesienia tytułu własności statków morskich lub statków powietrznych oraz z przeniesienia tytułu własności majątku ruchomego związanego z eksploatacją takich statków morskich lub statków powietrznych, podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Zyski z przeniesienia własności akcji spółki, której majątek stanowią głównie nieruchomości położone w Umawiającym się Państwie, mogą być opodatkowane w tym Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Zyski z przeniesienia tytułu własności jakiegokolwiek majątku nie wymienionego w ustępach 1, 2 i 3 podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym przenoszący tytuł własności ma miejsce zamieszkania lub siedzibę.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Wolne zawody"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Dochód, który osoba mająca miejsce zamieszkania w Umawiającym się Państwie osiąga z wykonywania wolnego zawodu albo innej podobnej działalności, podlega opodatkowaniu tylko w tym Państwie. Jednakże taki dochód może być opodatkowany w drugim Umawiającym się Państwie w następujących przypadkach:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "jeżeli w celu wykonywania działalności osoba posiada w drugim Umawiającym się Państwie stałą placówkę, lecz wyłącznie w takim zakresie, w jakim dochód może być przypisany takiej placówce, lub",
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Określenie „dywidendy” użyte w tym artykule oznacza dochód z akcji, akcji gratisowych, udziałów w kopalnictwie, akcji założycieli lub innych praw, z wyjątkiem wierzytelności, do udziału w zyskach, jak również dochody z innych praw spółki, które według prawa podatkowego Państwa, w którym spółka wyptacająca dywidendy ma siedzibę, są pod względem podatkowym traktowane jak dochody z akcji.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "jeżeli wykonuje ona działalność w drugim Państwie w okresie lub w okresach, włączając normalne przerwy robocze, przekraczających tącznie 183 dni w ciągu 365 dni, licząc od jej pierwszego przyjazdu do tego drugiego Państwa.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_10/ust_4",
+     "text": "Postanowienia ustępów 1 i 2 nie mają zastosowania, jeżeli właściciel dywidend, mający miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, wykonuje w drugim Umawiającym się Państwie, w którym znajduje się siedziba spółki wypłacającej dywidendy, działalność przemysłową lub handlową poprzez zakład w nim położony bądź wykonuje w tym drugim Państwie wolny zawód w oparciu o położoną w nim stata placówkę i gdy udział, z którego tytułu wypłaca się dywidendy, faktycznie wiąże się z działalnością takiego zakiadu lub stałej placówki. W takim przypadku, w zależności od konkretnej sytuacji, stosuje się postanowienia artykułu 7 lub artykułu 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_10/ust_5",
+     "text": "Jeżeli spółka, której siedziba znajduje się w Umawiającym się Państwie, osiąga zyski lub dochody z drugiego Umawiającego się Państwa, wówczas to drugie Państwo nie może obciążać podatkiem dywidend wypłacanych przez tę spółkę osobom mającym miejsce zamieszkania lub siedzibę w pierwszym Państwie, z wyjątkiem przypadku, gdy udział, z tytułu którego dywidendy są wypłacane, faktycznie wiąże się z działalnością zakładu lub stałej placówki położonej w drugim Państwie.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 10"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Określenie „wolny zawód” obejmuje w szczególności samodzielnie wykonywaną działalność naukową, literacką, artystyczną, wychowawczą lub oświatową, jak również samodzielnie wykonywaną działalność lekarzy, prawników, inżynierów, architektów, dentystów i księgowych.",
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Odsetki",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Odsetki powstające w Umawiającym się Państwie i wypłacane osobie mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie mogą być opodatkowane w tym drugim Państwie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Praca najemna"
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Jednakże takie odsetki mogą być także opodatkowane w Umawiającym się Państwie, w którym powstają, i zgodnie z ustawodawstwem tego Państwa, ale jeżeli odbiorca odsetek jest ich właścicielem, podatek w ten sposób ustalony nie może przekroczyć 10 procent kwoty brutto tych odsetek. Właściwe władze Umawiających się Państw, w drodze wzajemnego porozumienia, rozstrzygną sposób stosowania tego ograniczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Użyte w tym artykule określenie „odsetki” oznacza dochód z wszelkiego rodzaju wierzytelności, zarówno zabezpieczonych, jak i nie zabezpieczonych hipoteką, a w szczególności dochody z pożyczek rządowych oraz dochody z obligacji lub skryptów dłużnych, włącznie z premiami i nagrodami związanymi z takimi pożyczkami, obligacjami lub skryptami dłużnymi; opłat karnych z tytułu opóźnionej zapłaty nie uważa się za odsetki w rozumieniu tego artykułu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "Postanowienia ustępów 1 i 2 nie mają zastosowania, jeżeli właściciel odsetek, mający miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, wykonuje w drugim Państwie, w którym powstają odsetki, bądź działalność przemysłową lub handlową poprzez zakład tam położony, bądź wykonuje wolny zawód w oparciu o położoną w nim stałą placówkę, i jeżeli wierzytelność, z której tytułu płacone są odsetki, jest faktycznie związana z takim zakładem lub stata placówką. W takim przypadku, w zależności od konkretnej sytuacji, stosuje się postanowienia artykułu 7 lub artykułu 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Uważa się, że odsetki powstają w Umawiającym się Państwie, gdy płatnikiem jest to Państwo, jego jednostka terytorialna, władza lokalna albo osoba mająca w tym Państwie miejsce zamieszkania lub siedzibę. Jeżeli jednak osoba wypłacająca odsetki, bez względu na to, czy ma ona miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, posiada w Umawiającym się Państwie zakład lub stałą placówkę, w związku z których działalnością powstało zobowiązanie, z tytułu którego są wypłacane odsetki, i zapłata tych odsetek jest pokrywana przez ten zakład lub stata placówkę, to uważa się, że odsetki takie powstają w Państwie, w którym położony jest zakład lub stała placówka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_11/ust_6",
+     "text": "Jeżeli w wyniku szczególnych powiązań między płatnikiem a właścicielem odsetek lub między nimi a osobą trzecią kwota odsetek związanych z zadłużeniem, z którego tytułu są wypłacane, przekracza kwotę, która byłaby uzgodniona pomiędzy płatnikiem a właścicielem odsetek bez tych powiązań, to postanowienia tego artykułu mają zastosowanie tylko do ostatniej wymienionej kwoty. W takim przypadku nadwyżka ponad wymienioną poprzednio część podlega opodatkowaniu w każdym Umawiającym się Państwie zgodnie z jego prawem, z zastosowaniem odpowiednich postanowień niniejszej konwencji.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 11"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Z uwzględnieniem postanowień artykułów 16, 18, 19 i 20 pensje, płace i inne podobne wynagrodzenia, które osoba mająca miejsce zamieszkania w Umawiającym się Państwie otrzymuje z pracy najemnej, podlegają opodatkowaniu tylko w tym Państwie, chyba że praca wykonywana jest w drugim Umawiającym się Państwie. Jeżeli praca jest tam wykonywana, to otrzymywane za nią wynagrodzenie może być opodatkowane w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Bez względu na postanowienia ustępu 1 wynagrodzenie, które osoba mająca miejsce zamieszkania w Umawiającym się Państwie otrzymuje z pracy najemnej, wykonywanej w drugim Umawiającym się Państwie, podlega opodatkowaniu tylko w pierwszym Państwie, jeżeli:",
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Należności licencyjne",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "odbiorca przebywa w drugim Państwie przez okres lub okresy nie przekraczające tącznie 183 dni podczas okresu 365 dni, licząc od daty jego pierwszego przyjazdu do tego Państwa, i",
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Należności licencyjne, powstające w Umawiającym się Państwie i wypłacane osobie mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Państwie.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "wynagrodzenie jest wypłacane przez pracodawcę lub w imieniu pracodawcy, który nie ma miejsca zamieszkania lub siedziby w drugim Państwie, i",
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Jednakże takie należności podlegają również opodatkowaniu w Umawiającym się Państwie, w którym powstają, i zgodnie z ustawodawstwem tego Państwa, lecz podatek w ten sposób wymierzony nie może przekroczyć dziesięciu procent brutto należności licencyjnych.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "wynagrodzenie nie jest ponoszone przez zakład lub stałą placówkę, którą pracodawca posiada w drugim Państwie.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Określenie „należności licencyjne”, użyte w tym artykule, oznacza wszelkiego rodzaju należności płacone za użytkowanie lub prawo do użytkowania wszelkich praw autorskich do dzieła literackiego, artystycznego lub naukowego, włącznie z filmami dla kin, wszelkiego patentu, znaku fabrycznego lub handlowego, wzoru lub modelu, planu, tajemnicy technologii lub procesu produkcyjnego, za prawo użytkowania lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, lub za informacje dotyczące doświadczenia w dziedzinie przemysłowej, handlowej lub naukowej; należności licencyjne obejmują również prowizje, honoraria i wynagrodzenia z tytułu pomocy technicznej, usług świadczonych przez personel, jak i z tytułu prac badawczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Postanowienia ustępów 1 i 2 nie mają zastosowania, jeżeli właściciel należności licencyjnych, mający miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, prowadzi w drugim Umawiającym się Państwie, z którego pochodzą należności licencyjne, działalność gospodarczą poprzez zakiad w nim położony bądź wykonuje wolny zawód w oparciu o stałą placówkę tam położoną, a prawa lub majątek, z których tytułu wypłacane są należności licencyjne, faktycznie należą do tego zakładu lub stałej placówki. W takim przypadku stosuje się odpowiednio, w zależności od konkretnej sytuacji, postanowienia artykułu 7 lub artykułu 14.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Uważa się, że należności licencyjne powstają w Umawiającym się Państwie, gdy piatnikiem jest to Państwo, jego jednostka terytorialna, władza lokalna lub osoba mająca w tym państwie miejsce zamieszkania lub siedzibę. Jeżeli jednak osoba wypłacająca należności licencyjne, bez względu na to, czy ma ona w Umawiającym się Państwie miejsce zamieszkania lub siedzibę, posiada w Umawiającym się Państwie zakład lub stata placówkę, z których działalnością powstał obowiązek zapłaty tych należności licencyjnych, i zakład lub stata placówka pokrywają te należności, to uważa się, że należności licencyjne powstają w Państwie, w którym położony jest ten zakład lub stała placówka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_12/ust_6",
+     "text": "Jeżeli w wyniku szczególnych powiązań między płatnikiem a właścicielem należności licencyjnych lub między nimi a osobą trzecią kwota należności licencyjnych płacona za użytkowanie, prawo lub informację przekracza kwotę, którą płatnik i wiaściciei należności licencyjnych uzgodniliby bez tych powiązań, to postanowienia tego artykułu stosuje się tylko do tej ostatniej wymienionej kwoty. W takim przypadku nadwyżka ponad wymienioną poprzednio kwotę podlega opodatkowaniu w każdym Umawiającym się Państwie zgodnie z jego prawem i z uwzględnieniem innych postanowień niniejszej konwencji.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Bez względu na poprzednie postanowienia tego artykułu wynagrodzenie, otrzymywane przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie z pracy najemnej, wykonywanej na pokładzie statku morskiego, statku powietrznego lub na pokładzie barki w żegludze śródlądowej, może być opodatkowane w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Zyski ze sprzedaży majątku",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 16"
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Zyski, osiągane przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, z przeniesienia tytułu własności majątku nieruchomego, o którym mowa w artykule 6, położonego w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Państwie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wynagrodzenia dyrektorów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Zyski z przeniesienia tytułu własności majątku ruchomego stanowiącego część majątku zakładu, któ-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ry przedsiębiorstwo Umawiającego się Państwa posiada w drugim Umawiającym się Państwie, albo z przeniesienia tytułu własności majątku ruchomego należącego do stałej placówki, którą osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie dysponuje w drugim Umawiającym się Państwie w celu wykonywania wolnego zawodu, łącznie z zyskami, które pochodzą z przeniesienia tytułu własności takiego zakładu (odrębnie albo razem z całym przedsiębiorstwem) lub takiej stałej placówki, mogą być opodatkowane w tym drugim Państwie."
+      }
+     ]
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Zyski, osiągane przez przedsiębiorstwo Umawiającego się Państwa z przeniesienia tytułu własności statków morskich lub statków powietrznych oraz z przeniesienia tytułu własności majątku ruchomego związanego z eksploatacją takich statków morskich lub statków powietrznych, podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_13/ust_4",
+     "text": "Zyski z przeniesienia własności akcji spółki, której majątek stanowią głównie nieruchomości położone w Umawiającym się Państwie, mogą być opodatkowane w tym Państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_13/ust_5",
+     "text": "Zyski z przeniesienia tytułu własności jakiegokolwiek majątku nie wymienionego w ustępach 1, 2 i 3 podlegają opodatkowaniu tylko w tym Umawiającym się Państwie, w którym przenoszący tytuł własności ma miejsce zamieszkania lub siedzibę.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Wolne zawody",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Dochód, który osoba mająca miejsce zamieszkania w Umawiającym się Państwie osiąga z wykonywania wolnego zawodu albo innej podobnej działalności, podlega opodatkowaniu tylko w tym Państwie. Jednakże taki dochód może być opodatkowany w drugim Umawiającym się Państwie w następujących przypadkach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/ust_1/lit_a",
+       "text": "jeżeli w celu wykonywania działalności osoba posiada w drugim Umawiającym się Państwie stałą placówkę, lecz wyłącznie w takim zakresie, w jakim dochód może być przypisany takiej placówce, lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/ust_1/lit_b",
+       "text": "jeżeli wykonuje ona działalność w drugim Państwie w okresie lub w okresach, włączając normalne przerwy robocze, przekraczających tącznie 183 dni w ciągu 365 dni, licząc od jej pierwszego przyjazdu do tego drugiego Państwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Określenie „wolny zawód” obejmuje w szczególności samodzielnie wykonywaną działalność naukową, literacką, artystyczną, wychowawczą lub oświatową, jak również samodzielnie wykonywaną działalność lekarzy, prawników, inżynierów, architektów, dentystów i księgowych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Praca najemna",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Z uwzględnieniem postanowień artykułów 16, 18, 19 i 20 pensje, płace i inne podobne wynagrodzenia, które osoba mająca miejsce zamieszkania w Umawiającym się Państwie otrzymuje z pracy najemnej, podlegają opodatkowaniu tylko w tym Państwie, chyba że praca wykonywana jest w drugim Umawiającym się Państwie. Jeżeli praca jest tam wykonywana, to otrzymywane za nią wynagrodzenie może być opodatkowane w tym drugim Państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Bez względu na postanowienia ustępu 1 wynagrodzenie, które osoba mająca miejsce zamieszkania w Umawiającym się Państwie otrzymuje z pracy najemnej, wykonywanej w drugim Umawiającym się Państwie, podlega opodatkowaniu tylko w pierwszym Państwie, jeżeli:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_15/ust_2/lit_a",
+       "text": "odbiorca przebywa w drugim Państwie przez okres lub okresy nie przekraczające tącznie 183 dni podczas okresu 365 dni, licząc od daty jego pierwszego przyjazdu do tego Państwa, i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_15/ust_2/lit_b",
+       "text": "wynagrodzenie jest wypłacane przez pracodawcę lub w imieniu pracodawcy, który nie ma miejsca zamieszkania lub siedziby w drugim Państwie, i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_15/ust_2/lit_c",
+       "text": "wynagrodzenie nie jest ponoszone przez zakład lub stałą placówkę, którą pracodawca posiada w drugim Państwie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Bez względu na poprzednie postanowienia tego artykułu wynagrodzenie, otrzymywane przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie z pracy najemnej, wykonywanej na pokładzie statku morskiego, statku powietrznego lub na pokładzie barki w żegludze śródlądowej, może być opodatkowane w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 15"
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wynagrodzenia dyrektorów",
+   "children": [
     {
      "type": "text",
      "text": "Wynagrodzenia dyrektorów i inne podobne należności, które osoba mająca miejsce zamieszkania w Umawiającym się Państwie otrzymuje z tytułu członkostwa w radzie nadzorczej spółki lub w innym podobnym organie spółki mającej siedzibę w drugim Umawiającym się Państwie, mogą być opodatkowane w tym drugim Państwie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 17"
-    },
-    {
-     "type": "text",
-     "text": "Artyści i sportowcy"
     }
-   ]
+   ],
+   "label": "Artykuł 16"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Bez względu na postanowienia artykułów 14 i 15 dochód uzyskany przez osobę mającą miejsce zamieszkania w Umawiającym się Państwie z tytułu działalności artystycznej, na przykład artysty scenicznego, filmowego, radiowego lub telewizyjnego, jak też muzyka",
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Artyści i sportowcy",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ma DGG w"
-    },
-    {
-     "type": "text",
-     "text": "lub sportowca, z osobiście wykonywanej w tym charakterze działalności w drugim Umawiającym się Państwie, może być opodatkowany w tym drugim Państwie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli dochód, mający związek z osobiście wykonywaną działalnością artysty lub sportowca, nie przypada temu artyście lub sportowcowi, lecz innej osobie, to dochód taki, bez względu na postanowienia artykułów 7, 14 i 15, może być opodatkowany w tym Umawiającym się Państwie, w którym działalność tego artysty lub sportowca jest wykonywana.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Bez względu na postanowienia ustępów 1 i 2 dochód z działalności, o której mowa w ustępie 1, wykonywanej w ramach programów wymiany kulturalnej między dwoma Umawiającymi się Państwami, podlega opodatkowaniu wyłącznie w Państwie, w którym artyści i sportowcy mają miejsce zamieszkania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 18"
-    },
-    {
-     "type": "text",
-     "text": "Emerytury i renty"
-    },
-    {
-     "type": "text",
-     "text": "Z uwzględnieniem postanowień artykułu 19 ustęp 2 emerytury i inne podobne świadczenia, wypłacane osobie mającej miejsce zamieszkania w Umawiającym się Państwie z tytułu jej wcześniejszej pracy najemnej, podlegają opodatkowaniu tylko w tym Państwie, w którym odbiorca emerytury ma miejsce zamieszkania."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    },
-    {
-     "type": "text",
-     "text": "Pracownicy państwowi"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "a) Wynagrodzenie inne niź emerytura, wypłacane przez Umawiające się Państwo, jego jednostkę terytorialną lub władzę lokalną z tytułu usług świadczonych na rzecz tego Państwa, jego jednostki terytorialnej lub władzy lokalnej, podlega opodatkowaniu tylko w tym Państwie.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "Jednakże wynagrodzenie takie podlega opodatkowaniu tylko w drugim Umawiającym się Państwie, jeżeli usługi te są świadczone w tym Państwie, a osoba świadcząca te usługi, mająca miejsce zamieszkania w tym drugim Państwie:",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "ust",
      "num": "1",
-     "path": "ust_1/pkt_1",
-     "text": "jest obywatelem tego Państwa lub",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "ust_1/pkt_2",
-     "text": "nie stała się osobą mającą miejsce zamieszkania w tym Państwie wyłącznie w celu świadczenia tych usług.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "a) Jakakolwiek renta lub emerytura, wypłacana przez. Umawiające się Państwo, jego jednostkę terytorialną lub władzę lokalną albo z funduszy utworzonych przez to Państwo, jego jednostkę terytorialną lub władzę lokalną, osobie fizycznej z tytułu świadczenia usług na rzecz tego Państwa, jego jednostki terytorialnej lub władzy lokalnej, podlega opodatkowaniu tylko w tym Państwie.",
-   "children": [
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "Jednakże taka renta lub emerytura podlega opodatkowaniu tylko w drugim Umawiającym się Państwie, jeśli osoba jest obywatelem tego Państwa i posiada w nim miejsce zamieszkania.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia artykułów 15, 16 i 18 stosuje się do wynagrodzeń i emerytur z tytułu świadczenia usług pozostających w związku z działalnością gospodarczą prowadzoną przez Umawiające się Państwo, jego jednostkę terytorialną lub władzę lokalną.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 20"
-    },
-    {
-     "type": "text",
-     "text": "Studenci, stażyści i praktykanci"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Należności otrzymywane na utrzymanie się, kształcenie lub odbywanie praktyki przez studenta, stypendystę, ucznia lub praktykanta, który przebywa w pierwszym Umawiającym się Państwie wyłącznie w celu kształcenia się, odbywania praktyki lub szkolenia, a który ma lub bezpośrednio przed przybyciem do tego Państwa miał miejsce zamieszkania w drugim Umawiającym się Państwie, nie podlegają opodatkowaniu w tym Państwie, jeżeli należności te pochodzą ze zrodet spoza tego pierwszego Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z uwzględnieniem postanowień ustępu 1 wynagrodzenia osób, o których mowa wyżej, otrzymywane z tytułu pracy w pierwszym Państwie, nie podlegają opodatkowaniu w tym pierwszym Państwie, pod warunkiem że praca taka pozostaje w związku ze studiami tych osób, kształceniem lub doskonaleniem zawodowym i że wynagrodzenie za taką pracę jest konieczne do uzupełnienia posiadanych przez nie środków utrzymania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia ustępu 2 nie są stosowane, jeżeli pobyt osoby w pierwszym Umawiającym się Państwie przekracza normalny okres studiów podjętych w tym Państwie lub okres trzech lat w odniesieniu do innych osób, licząc od daty ich pierwszego przybycia do tego Państwa.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    },
-    {
-     "type": "text",
-     "text": "Wykładowcy i pracownicy naukowo-badawczy"
-    },
-    {
-     "type": "text",
-     "text": "Wynagrodzenia otrzymywane z tytułu nauczania lub prac badawczych prowadzonych przez osobę fizyczną, która bezpośrednio przed udaniem się do Umawiającego się Państwa miała miejsce zamieszkania w drugim Umawiającym się Państwie i która przebywa w pierwszym państwie czasowo przez okres nie przekraczający dwudziestu czterech miesięcy wyłącznie w celu nauczania lub prowadzenia prac naukowo- -badawczych w uniwersytecie, szkole wyższej lub innej oficjalnie uznanej instytucji oświatowej, podlegają opodatkowaniu tylko w pierwszym państwie, pod warunkiem że wynagrodzenia pochodzą ze źródeł spoza tego Państwa."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 22"
-    },
-    {
-     "type": "text",
-     "text": "Inne dochody"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Części dochodu osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, bez",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "względu na to, gdzie są osiągane, a które nie są objęte postanowieniami poprzednich artykułów niniejszej konwencji, podlegają opodatkowaniu tylko w tym Państwie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowień ustępu 1 nie stosuje się do dochodów nie będących dochodami z majątku nieruchomego, określonego w artykule 6 ustęp 2, jeżeli osoba osiągająca takie dochody, posiadająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, prowadzi w drugim Umawiającym się Państwie działalność gospodarczą poprzez zakład w nim położony lub wykonuje w tym drugim Państwie wolny zawód w oparciu o stałą placówkę w nim położoną i gdy prawo lub majątek, z których tytułu osiąga dochód, są faktycznie związane z działalnością takiego zakładu lub stałej placówki. W takim przypadku, w zależności od konkretnej sytuacji, stosuje się odpowiednio postanowienia artykułu 7 lub artykułu 14.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "Majątek"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Majątek nieruchomy, określony w artykule 6, który jest własnością osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, a położony jest w drugim Umawiającym się Państwie, może być opodatkowany w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Majątek ruchomy, stanowiący część majątku zakładu, który przedsiębiorstwo Umawiającego się Państwa posiada w drugim Umawiającym się Państwie, lub majątek ruchomy należący do stałej placówki, którą osoba mająca miejsce zamieszkania w Umawiającym się Państwie posiada w drugim Umawiającym się Państwie w celu wykonywania wolnego zawodu, może być opodatkowany w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Majątek, który stanowią statki morskie i statki powietrzne eksploatowane w komunikacji międzynarodowej, jak również majątek ruchomy służący do eksploatacji takich statków morskich lub statków powietrznych, podlega opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Wszelkie inne części majątku osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie podlegają opodatkowaniu tylko w tym Państwie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 24"
-    },
-    {
-     "type": "text",
-     "text": "Metody unikania podwójnego opodatkowania"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie osiąga dochód lub posiada majątek, który zgodnie z postanowieniami niniejszej konwencji może być opodatkowany w drugim Umawiającym się Państwie, to pierwsze Państwo zwolni, z zastrzeżeniem postanowień ustępów 2 i 3, taki dochód lub majątek od podatku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie osiąga dochód, który zgodnie z postanowieniami artykułów 10, 11i 12 może być opodatkowany w drugim Umawiającym się Państwie, to pierwsze Państwo zezwoli na odliczenie od podatku od dochodu tej osoby kwoty równej podatkowi zapłaconemu w tym drugim Państwie. Jednak takie odliczenie nie może przekroczyć tej części podatku, która została obliczona przed dokonaniem odliczenia i która odpowiada tej części dochodu osiągniętej w tym drugim Państwie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli zgodnie z jakimikolwiek postanowieniami konwencji dochód osiągnięty lub majątek posiadany przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie jest zwolniony od opodatkowania w tym Państwie, to jednak to Państwo może przy obliczaniu kwoty podatku od pozostałego dochodu lub majątku takiej osoby wziąć pod uwagę zwolniony od podatku dochód i majątek.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli dochód osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, uzyskiwany z drugiego Umawiającego się Państwa, jest zwolniony z opodatkowania w tym drugim Państwie z tytułu zachęt inwestycyjnych na mocy ustawodawstwa tego drugiego Państwa, to pierwsze Państwo przyzna zniżkę odpowiadającą podatkowi, jaki podlegałby opłaceniu w drugim Państwie w przypadku braku takiego ustawodawstwa.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 25"
-    },
-    {
-     "type": "text",
-     "text": "Równe traktowanie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Obywatele Umawiającego się Państwa nie mogą być poddani w drugim Umawiającym się Państwie ani opodatkowaniu, ani związanym z nim obowiązkom, które są inne lub bardziej uciążliwe niż opodatkowanie i związane z nim obowiązki, którym są lub mogą być poddani w tych samych okolicznościach obywatele tego drugiego Państwa. Niniejsze postanowienie stosuje się również, bez względu na postanowienia artykułu 1, do osób, które nie mają miejsca zamieszkania lub siedziby w jednym lub obu Umawiających się Państwach.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Opodatkowanie zakładu, który przedsiębiorstwo Umawiającego się Państwa posiada w drugim Umawiającym się Państwie, nie może być w tym drugim Państwie mniej korzystne niż opodatkowanie przedsiębiorstw tego drugiego Państwa prowadzących taką samą działalność. Postanowienie to nie może być rozumiane jako zobowiązujące Umawiające się Państwo do udzielenia osobom mającym miejsce zamieszkania w drugim Umawiającym się Państwie jakichkolwiek osobistych zwolnień, ulg i obniżek w celach podatkowych z uwagi na stan cywilny i rodzinny, których udziela ono osobom mającym miejsce zamieszkania na jego terytorium.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Z wyjątkiem przypadków stosowania postanowień artykułu 9 ustęp 1, artykułu 11 ustęp 6 lub artykułu 12 ustęp 6, odsetki, należności licencyjne i inne kosz-",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ty ponoszone przez przedsiębiorstwo Umawiającego się Państwa na rzecz osoby mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie są odliczane przy określaniu podlegających opodatkowaniu zysków tego przedsiębiorstwa na takich samych warunkach, jakby byty one płacone na rzecz osoby mającej miejsce zamieszkania lub siedzibę w tym pierwszym Państwie. Również długi przedsiębiorstwa Umawiającego się Państwa, zaciągnięte wobec osoby mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, podlegają odliczeniu przy określaniu podlegającego opodatkowaniu majątku tego przedsiębiorstwa na takich samych warunkach, jakby byty one zaciągnięte wobec osoby mającej miejsce zamieszkania lub siedzibę w pierwszym Państwie."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przedsiębiorstwa Umawiającego się Państwa, których kapitał należy w całości lub częściowo albo jest kontrolowany bezpośrednio lub pośrednio przez jedną lub więcej osób mających miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, nie mogą być w pierwszym Umawiającym się Państwie poddane ani opodatkowaniu, ani związanym z nim obowiązkom, które są inne lub bardziej uciążliwe, aniżeli opodatkowanie i związane z nim obowiązki, którym są lub mogą być poddane podobne przedsiębiorstwa pierwszego wymienionego Państwa.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "W rozumieniu tego artykułu określenie „opodatkowanie” oznacza podatki wymienione w art. 2 niniejszej konwencji.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 26"
-    },
-    {
-     "type": "text",
-     "text": "Procedura wzajemnego porozumienia się"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli osoba jest zdania, że działania jednego lub obu Umawiających się Państw wprowadziły lub wprowadzą dla niej opodatkowanie, które jest niezgodne z postanowieniami niniejszej konwencji, to może ona, niezależnie od środków odwoławczych przewidzianych w prawie wewnętrznym tych Państw, przedstawić swoją sprawę właściwej władzy tego Państwa, w którym ma ona miejsce zamieszkania lub siedzibę, lub jeżeli w danej sprawie mają zastosowanie postanowienia artykułu 25 ustęp 1 — właściwej władzy tego Umawiającego się Państwa, którego jest obywatelem. Sprawa powinna być przedłożona w ciągu trzech lat, licząc od dnia pierwszego urzędowego zawiadomienia o działaniu powodującym opodatkowanie niezgodne z postanowieniami niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwa władza, jeżeli uzna zarzut za uzasadniony i jeżeli nie może spowodować zadowalającego rozwiązania, podejmie starania, aby przypadek ten uregulować w porozumieniu z właściwą władzą drugiego Umawiającego się Państwa, tak aby zapobiec opodatkowaniu niezgodnemu z niniejszą konwencją. Osiągnięte w ten sposób porozumienie zostanie wprowadzone w życie bez względu na terminy przewidziane przez ustawodawstwo wewnętrzne Umawiających się Państw.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe władze Umawiających się Państw będą wspólnie czynić starania, aby w drodze wzajemnego porozumienia usuwać trudności lub wątpliwości, które mogą powstać przy interpretacji lub stosowaniu konwencji. Mogą one również wspólnie uzgodnić, w jaki sposób można zapobiec podwójnemu opodatkowaniu w przypadkach, które nie są uregulowane w niniejszej konwencji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Właściwe władze Umawiających się Państw mogą komunikować się bezpośrednio w celu osiągnięcia porozumienia w sprawach objętych postanowieniami poprzednich ustępów. Jeżeli uzna się, że w celu osiągnięcia porozumienia należy przeprowadzić ustną wymianę opinii, to taka wymiana opinii może nastąpić w ramach komisji złożonej z przedstawicieli właściwych władz Umawiających się Państw.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 27"
-    },
-    {
-     "type": "text",
-     "text": "Wymiana informacji"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe władze Umawiających się Państw będą wymieniały informacje, które są niezbędne do stosowania postanowień niniejszej konwencji lub dotyczące ustawodawstwa wewnętrznego Umawiających się Państw, w odniesieniu do podatków objętych niniejszą konwencją, w zakresie, w jakim opodatkowanie przewidziane w tym ustawodawstwie nie jest z nią sprzeczne. Wszelkie informacje uzyskane przez Umawiające się Państwo będą stanowiły tajemnicę na takiej samej zasadzie, co informacje uzyskane zgodnie z ustawodawstwem wewnętrznym tego Państwa i będą mogły być ujawnione jedynie osobom i wiadzom (w tym sądom albo organom administracyjnym) zajmującym się wymiarem lub poborem, egzekucją lub ściąganiem, lub rozpatrywaniem odwołań w zakresie podatków objętych konwencją. Takie osoby lub władze będą wykorzystywać informacje wyłącznie w podanych celach. Mogą one ujawniać te informacje w jawnym postępowaniu sądowym lub postanowieniach sądowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia ustępu 1 nie mogą być w żadnym przypadku interpretowane tak, jak gdyby zobowiązywały jedno z Umawiających się Państw do:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "stosowania środków administracyjnych, które są sprzeczne z ustawodawstwem lub praktyką administracyjną tego lub drugiego Umawiającego się Państwa;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "udzielania informacji, których uzyskanie nie byłoby możliwe na podstawie własnego ustawodawstwa albo w ramach normalnej praktyki administracyjnej tego lub drugiego Umawiającego się Państwa;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "udzielania informacji, które ujawniłyby tajemnicę — handlową, gospodarczą, przemysłową, kupiecką lub zawodową albo działalność handlową, lub informacji, których udzielanie sprzeciwiałoby się porządkowi publicznemu (ordre public).",
+     "path": "art_17/ust_1",
+     "text": "Bez względu na postanowienia artykułów 14 i 15 dochód uzyskany przez osobę mającą miejsce zamieszkania w Umawiającym się Państwie z tytułu działalności artystycznej, na przykład artysty scenicznego, filmowego, radiowego lub telewizyjnego, jak też muzyka",
      "children": [
       {
        "type": "note",
-       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "a"
+       "text": "ma DGG w"
       },
       {
        "type": "text",
-       "text": "Artykuł 28"
+       "text": "lub sportowca, z osobiście wykonywanej w tym charakterze działalności w drugim Umawiającym się Państwie, może być opodatkowany w tym drugim Państwie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Jeżeli dochód, mający związek z osobiście wykonywaną działalnością artysty lub sportowca, nie przypada temu artyście lub sportowcowi, lecz innej osobie, to dochód taki, bez względu na postanowienia artykułów 7, 14 i 15, może być opodatkowany w tym Umawiającym się Państwie, w którym działalność tego artysty lub sportowca jest wykonywana.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Bez względu na postanowienia ustępów 1 i 2 dochód z działalności, o której mowa w ustępie 1, wykonywanej w ramach programów wymiany kulturalnej między dwoma Umawiającymi się Państwami, podlega opodatkowaniu wyłącznie w Państwie, w którym artyści i sportowcy mają miejsce zamieszkania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Emerytury i renty",
+   "children": [
+    {
+     "type": "text",
+     "text": "Z uwzględnieniem postanowień artykułu 19 ustęp 2 emerytury i inne podobne świadczenia, wypłacane osobie mającej miejsce zamieszkania w Umawiającym się Państwie z tytułu jej wcześniejszej pracy najemnej, podlegają opodatkowaniu tylko w tym Państwie, w którym odbiorca emerytury ma miejsce zamieszkania."
+    }
+   ],
+   "label": "Artykuł 18"
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Pracownicy państwowi",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "a) Wynagrodzenie inne niź emerytura, wypłacane przez Umawiające się Państwo, jego jednostkę terytorialną lub władzę lokalną z tytułu usług świadczonych na rzecz tego Państwa, jego jednostki terytorialnej lub władzy lokalnej, podlega opodatkowaniu tylko w tym Państwie.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_19/ust_1/lit_b",
+       "text": "Jednakże wynagrodzenie takie podlega opodatkowaniu tylko w drugim Umawiającym się Państwie, jeżeli usługi te są świadczone w tym Państwie, a osoba świadcząca te usługi, mająca miejsce zamieszkania w tym drugim Państwie:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_19/ust_1/pkt_1",
+       "text": "jest obywatelem tego Państwa lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_19/ust_1/pkt_2",
+       "text": "nie stała się osobą mającą miejsce zamieszkania w tym Państwie wyłącznie w celu świadczenia tych usług.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "a) Jakakolwiek renta lub emerytura, wypłacana przez. Umawiające się Państwo, jego jednostkę terytorialną lub władzę lokalną albo z funduszy utworzonych przez to Państwo, jego jednostkę terytorialną lub władzę lokalną, osobie fizycznej z tytułu świadczenia usług na rzecz tego Państwa, jego jednostki terytorialnej lub władzy lokalnej, podlega opodatkowaniu tylko w tym Państwie.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_19/ust_2/lit_b",
+       "text": "Jednakże taka renta lub emerytura podlega opodatkowaniu tylko w drugim Umawiającym się Państwie, jeśli osoba jest obywatelem tego Państwa i posiada w nim miejsce zamieszkania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "Postanowienia artykułów 15, 16 i 18 stosuje się do wynagrodzeń i emerytur z tytułu świadczenia usług pozostających w związku z działalnością gospodarczą prowadzoną przez Umawiające się Państwo, jego jednostkę terytorialną lub władzę lokalną.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 19"
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Studenci, stażyści i praktykanci",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Należności otrzymywane na utrzymanie się, kształcenie lub odbywanie praktyki przez studenta, stypendystę, ucznia lub praktykanta, który przebywa w pierwszym Umawiającym się Państwie wyłącznie w celu kształcenia się, odbywania praktyki lub szkolenia, a który ma lub bezpośrednio przed przybyciem do tego Państwa miał miejsce zamieszkania w drugim Umawiającym się Państwie, nie podlegają opodatkowaniu w tym Państwie, jeżeli należności te pochodzą ze zrodet spoza tego pierwszego Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Z uwzględnieniem postanowień ustępu 1 wynagrodzenia osób, o których mowa wyżej, otrzymywane z tytułu pracy w pierwszym Państwie, nie podlegają opodatkowaniu w tym pierwszym Państwie, pod warunkiem że praca taka pozostaje w związku ze studiami tych osób, kształceniem lub doskonaleniem zawodowym i że wynagrodzenie za taką pracę jest konieczne do uzupełnienia posiadanych przez nie środków utrzymania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Postanowienia ustępu 2 nie są stosowane, jeżeli pobyt osoby w pierwszym Umawiającym się Państwie przekracza normalny okres studiów podjętych w tym Państwie lub okres trzech lat w odniesieniu do innych osób, licząc od daty ich pierwszego przybycia do tego Państwa.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Wykładowcy i pracownicy naukowo-badawczy",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wynagrodzenia otrzymywane z tytułu nauczania lub prac badawczych prowadzonych przez osobę fizyczną, która bezpośrednio przed udaniem się do Umawiającego się Państwa miała miejsce zamieszkania w drugim Umawiającym się Państwie i która przebywa w pierwszym państwie czasowo przez okres nie przekraczający dwudziestu czterech miesięcy wyłącznie w celu nauczania lub prowadzenia prac naukowo- -badawczych w uniwersytecie, szkole wyższej lub innej oficjalnie uznanej instytucji oświatowej, podlegają opodatkowaniu tylko w pierwszym państwie, pod warunkiem że wynagrodzenia pochodzą ze źródeł spoza tego Państwa."
+    }
+   ],
+   "label": "Artykuł 21"
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Inne dochody",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "Części dochodu osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, bez",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "Członkowie misji dyplomatycznych i urzędów konsularnych"
+       "text": "względu na to, gdzie są osiągane, a które nie są objęte postanowieniami poprzednich artykułów niniejszej konwencji, podlegają opodatkowaniu tylko w tym Państwie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Postanowień ustępu 1 nie stosuje się do dochodów nie będących dochodami z majątku nieruchomego, określonego w artykule 6 ustęp 2, jeżeli osoba osiągająca takie dochody, posiadająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, prowadzi w drugim Umawiającym się Państwie działalność gospodarczą poprzez zakład w nim położony lub wykonuje w tym drugim Państwie wolny zawód w oparciu o stałą placówkę w nim położoną i gdy prawo lub majątek, z których tytułu osiąga dochód, są faktycznie związane z działalnością takiego zakładu lub stałej placówki. W takim przypadku, w zależności od konkretnej sytuacji, stosuje się odpowiednio postanowienia artykułu 7 lub artykułu 14.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 22"
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Majątek",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_23/ust_1",
+     "text": "Majątek nieruchomy, określony w artykule 6, który jest własnością osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, a położony jest w drugim Umawiającym się Państwie, może być opodatkowany w tym drugim Państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_23/ust_2",
+     "text": "Majątek ruchomy, stanowiący część majątku zakładu, który przedsiębiorstwo Umawiającego się Państwa posiada w drugim Umawiającym się Państwie, lub majątek ruchomy należący do stałej placówki, którą osoba mająca miejsce zamieszkania w Umawiającym się Państwie posiada w drugim Umawiającym się Państwie w celu wykonywania wolnego zawodu, może być opodatkowany w tym drugim Państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_23/ust_3",
+     "text": "Majątek, który stanowią statki morskie i statki powietrzne eksploatowane w komunikacji międzynarodowej, jak również majątek ruchomy służący do eksploatacji takich statków morskich lub statków powietrznych, podlega opodatkowaniu tylko w tym Umawiającym się Państwie, w którym znajduje się miejsce faktycznego zarządu przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_23/ust_4",
+     "text": "Wszelkie inne części majątku osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie podlegają opodatkowaniu tylko w tym Państwie.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 23"
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Metody unikania podwójnego opodatkowania",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_24/ust_1",
+     "text": "Jeżeli osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie osiąga dochód lub posiada majątek, który zgodnie z postanowieniami niniejszej konwencji może być opodatkowany w drugim Umawiającym się Państwie, to pierwsze Państwo zwolni, z zastrzeżeniem postanowień ustępów 2 i 3, taki dochód lub majątek od podatku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_24/ust_2",
+     "text": "Jeżeli osoba mająca miejsce zamieszkania lub siedzibę w Umawiającym się Państwie osiąga dochód, który zgodnie z postanowieniami artykułów 10, 11i 12 może być opodatkowany w drugim Umawiającym się Państwie, to pierwsze Państwo zezwoli na odliczenie od podatku od dochodu tej osoby kwoty równej podatkowi zapłaconemu w tym drugim Państwie. Jednak takie odliczenie nie może przekroczyć tej części podatku, która została obliczona przed dokonaniem odliczenia i która odpowiada tej części dochodu osiągniętej w tym drugim Państwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_24/ust_3",
+     "text": "Jeżeli zgodnie z jakimikolwiek postanowieniami konwencji dochód osiągnięty lub majątek posiadany przez osobę mającą miejsce zamieszkania lub siedzibę w Umawiającym się Państwie jest zwolniony od opodatkowania w tym Państwie, to jednak to Państwo może przy obliczaniu kwoty podatku od pozostałego dochodu lub majątku takiej osoby wziąć pod uwagę zwolniony od podatku dochód i majątek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_24/ust_4",
+     "text": "Jeżeli dochód osoby mającej miejsce zamieszkania lub siedzibę w Umawiającym się Państwie, uzyskiwany z drugiego Umawiającego się Państwa, jest zwolniony z opodatkowania w tym drugim Państwie z tytułu zachęt inwestycyjnych na mocy ustawodawstwa tego drugiego Państwa, to pierwsze Państwo przyzna zniżkę odpowiadającą podatkowi, jaki podlegałby opłaceniu w drugim Państwie w przypadku braku takiego ustawodawstwa.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 24"
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Równe traktowanie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_25/ust_1",
+     "text": "Obywatele Umawiającego się Państwa nie mogą być poddani w drugim Umawiającym się Państwie ani opodatkowaniu, ani związanym z nim obowiązkom, które są inne lub bardziej uciążliwe niż opodatkowanie i związane z nim obowiązki, którym są lub mogą być poddani w tych samych okolicznościach obywatele tego drugiego Państwa. Niniejsze postanowienie stosuje się również, bez względu na postanowienia artykułu 1, do osób, które nie mają miejsca zamieszkania lub siedziby w jednym lub obu Umawiających się Państwach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_25/ust_2",
+     "text": "Opodatkowanie zakładu, który przedsiębiorstwo Umawiającego się Państwa posiada w drugim Umawiającym się Państwie, nie może być w tym drugim Państwie mniej korzystne niż opodatkowanie przedsiębiorstw tego drugiego Państwa prowadzących taką samą działalność. Postanowienie to nie może być rozumiane jako zobowiązujące Umawiające się Państwo do udzielenia osobom mającym miejsce zamieszkania w drugim Umawiającym się Państwie jakichkolwiek osobistych zwolnień, ulg i obniżek w celach podatkowych z uwagi na stan cywilny i rodzinny, których udziela ono osobom mającym miejsce zamieszkania na jego terytorium.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_25/ust_3",
+     "text": "Z wyjątkiem przypadków stosowania postanowień artykułu 9 ustęp 1, artykułu 11 ustęp 6 lub artykułu 12 ustęp 6, odsetki, należności licencyjne i inne kosz-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "Żadne postanowienia niniejszej konwencji nie naruszają przywilejów podatkowych, przysługujących członkom misji dyplomatycznych lub urzędów konsularnych na podstawie ogólnych zasad prawa międzynarodowego lub postanowień umów szczególnych."
+       "text": "ty ponoszone przez przedsiębiorstwo Umawiającego się Państwa na rzecz osoby mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie są odliczane przy określaniu podlegających opodatkowaniu zysków tego przedsiębiorstwa na takich samych warunkach, jakby byty one płacone na rzecz osoby mającej miejsce zamieszkania lub siedzibę w tym pierwszym Państwie. Również długi przedsiębiorstwa Umawiającego się Państwa, zaciągnięte wobec osoby mającej miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, podlegają odliczeniu przy określaniu podlegającego opodatkowaniu majątku tego przedsiębiorstwa na takich samych warunkach, jakby byty one zaciągnięte wobec osoby mającej miejsce zamieszkania lub siedzibę w pierwszym Państwie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_25/ust_4",
+     "text": "Przedsiębiorstwa Umawiającego się Państwa, których kapitał należy w całości lub częściowo albo jest kontrolowany bezpośrednio lub pośrednio przez jedną lub więcej osób mających miejsce zamieszkania lub siedzibę w drugim Umawiającym się Państwie, nie mogą być w pierwszym Umawiającym się Państwie poddane ani opodatkowaniu, ani związanym z nim obowiązkom, które są inne lub bardziej uciążliwe, aniżeli opodatkowanie i związane z nim obowiązki, którym są lub mogą być poddane podobne przedsiębiorstwa pierwszego wymienionego Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_25/ust_5",
+     "text": "W rozumieniu tego artykułu określenie „opodatkowanie” oznacza podatki wymienione w art. 2 niniejszej konwencji.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 25"
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Procedura wzajemnego porozumienia się",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_26/ust_1",
+     "text": "Jeżeli osoba jest zdania, że działania jednego lub obu Umawiających się Państw wprowadziły lub wprowadzą dla niej opodatkowanie, które jest niezgodne z postanowieniami niniejszej konwencji, to może ona, niezależnie od środków odwoławczych przewidzianych w prawie wewnętrznym tych Państw, przedstawić swoją sprawę właściwej władzy tego Państwa, w którym ma ona miejsce zamieszkania lub siedzibę, lub jeżeli w danej sprawie mają zastosowanie postanowienia artykułu 25 ustęp 1 — właściwej władzy tego Umawiającego się Państwa, którego jest obywatelem. Sprawa powinna być przedłożona w ciągu trzech lat, licząc od dnia pierwszego urzędowego zawiadomienia o działaniu powodującym opodatkowanie niezgodne z postanowieniami niniejszej konwencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_26/ust_2",
+     "text": "Właściwa władza, jeżeli uzna zarzut za uzasadniony i jeżeli nie może spowodować zadowalającego rozwiązania, podejmie starania, aby przypadek ten uregulować w porozumieniu z właściwą władzą drugiego Umawiającego się Państwa, tak aby zapobiec opodatkowaniu niezgodnemu z niniejszą konwencją. Osiągnięte w ten sposób porozumienie zostanie wprowadzone w życie bez względu na terminy przewidziane przez ustawodawstwo wewnętrzne Umawiających się Państw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_26/ust_3",
+     "text": "Właściwe władze Umawiających się Państw będą wspólnie czynić starania, aby w drodze wzajemnego porozumienia usuwać trudności lub wątpliwości, które mogą powstać przy interpretacji lub stosowaniu konwencji. Mogą one również wspólnie uzgodnić, w jaki sposób można zapobiec podwójnemu opodatkowaniu w przypadkach, które nie są uregulowane w niniejszej konwencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_26/ust_4",
+     "text": "Właściwe władze Umawiających się Państw mogą komunikować się bezpośrednio w celu osiągnięcia porozumienia w sprawach objętych postanowieniami poprzednich ustępów. Jeżeli uzna się, że w celu osiągnięcia porozumienia należy przeprowadzić ustną wymianę opinii, to taka wymiana opinii może nastąpić w ramach komisji złożonej z przedstawicieli właściwych władz Umawiających się Państw.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 26"
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Wymiana informacji",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_27/ust_1",
+     "text": "Właściwe władze Umawiających się Państw będą wymieniały informacje, które są niezbędne do stosowania postanowień niniejszej konwencji lub dotyczące ustawodawstwa wewnętrznego Umawiających się Państw, w odniesieniu do podatków objętych niniejszą konwencją, w zakresie, w jakim opodatkowanie przewidziane w tym ustawodawstwie nie jest z nią sprzeczne. Wszelkie informacje uzyskane przez Umawiające się Państwo będą stanowiły tajemnicę na takiej samej zasadzie, co informacje uzyskane zgodnie z ustawodawstwem wewnętrznym tego Państwa i będą mogły być ujawnione jedynie osobom i wiadzom (w tym sądom albo organom administracyjnym) zajmującym się wymiarem lub poborem, egzekucją lub ściąganiem, lub rozpatrywaniem odwołań w zakresie podatków objętych konwencją. Takie osoby lub władze będą wykorzystywać informacje wyłącznie w podanych celach. Mogą one ujawniać te informacje w jawnym postępowaniu sądowym lub postanowieniach sądowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_27/ust_2",
+     "text": "Postanowienia ustępu 1 nie mogą być w żadnym przypadku interpretowane tak, jak gdyby zobowiązywały jedno z Umawiających się Państw do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_27/ust_2/lit_a",
+       "text": "stosowania środków administracyjnych, które są sprzeczne z ustawodawstwem lub praktyką administracyjną tego lub drugiego Umawiającego się Państwa;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Artykuł 29"
+       "type": "lit",
+       "num": "b",
+       "path": "art_27/ust_2/lit_b",
+       "text": "udzielania informacji, których uzyskanie nie byłoby możliwe na podstawie własnego ustawodawstwa albo w ramach normalnej praktyki administracyjnej tego lub drugiego Umawiającego się Państwa;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Wejście w życie"
+       "type": "lit",
+       "num": "c",
+       "path": "art_27/ust_2/lit_c",
+       "text": "udzielania informacji, które ujawniłyby tajemnicę — handlową, gospodarczą, przemysłową, kupiecką lub zawodową albo działalność handlową, lub informacji, których udzielanie sprzeciwiałoby się porządkowi publicznemu (ordre public).",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "a"
+        }
+       ]
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 27"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja podlega ratyfikacji, a dokumenty ratyfikacyjne będą wymienione możliwie jak najszybciej w Warszawie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Konwencja wejdzie w życie po upływie trzydziestu dni po wymianie dokumentów ratyfikacyjnych i jej postanowienia będą miały zastosowanie do podatków należnych od 1 stycznia roku następującego po roku, w którym dokonano wymiany dokumentów ratyfikacyjnych.",
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Członkowie misji dyplomatycznych i urzędów konsularnych",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 30"
-    },
-    {
-     "type": "text",
-     "text": "Wypowiedzenie"
+     "text": "Żadne postanowienia niniejszej konwencji nie naruszają przywilejów podatkowych, przysługujących członkom misji dyplomatycznych lub urzędów konsularnych na podstawie ogólnych zasad prawa międzynarodowego lub postanowień umów szczególnych."
     }
-   ]
+   ],
+   "label": "Artykuł 28"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza konwencja pozostaje w mocy na czas nieograniczony. Jednakże, poczynając od piątego roku następującego po roku, w którym weszła ona w życie, każde Umawiające się Państwo może ją wypowiedzieć w drodze noty dyplomatycznej, złożonej w terminie co najmniej sześciu miesięcy przed upływem danego roku kalendarzowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W takim przypadku jej postanowienia będą miały zastosowanie po raz ostatni do podatków należnych najpóźniej do dnia 31 grudnia roku, w którym konwencja została wypowiedziana.",
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Wejście w życie",
    "children": [
     {
-     "type": "text",
-     "text": "Na dowód czego niżej podpisani, należycie do tego upoważnieni przez ich odnośne Rządy, podpisali niniejszą konwencję."
+     "type": "ust",
+     "num": "1",
+     "path": "art_29/ust_1",
+     "text": "Niniejsza konwencja podlega ratyfikacji, a dokumenty ratyfikacyjne będą wymienione możliwie jak najszybciej w Warszawie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Sporządzono w Rabacie dnia 24 października 1994 r. w dwóch egzemplarzach, każdy w językach polskim, arabskim i francuskim, przy czym wszystkie teksty są jednakowo autentyczne. W przypadku rozbieżności przy interpretacji postanowień tej konwencji tekst francuski będzie rozstrzygający."
-    },
-    {
-     "type": "text",
-     "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Królestwa Maroka"
-    },
-    {
-     "type": "text",
-     "text": "L. Podkański Mourad Cherif"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
-    },
-    {
-     "type": "text",
-     "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
-    },
-    {
-     "type": "text",
-     "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
-    },
-    {
-     "type": "text",
-     "text": "— będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 10 maja 1995 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa LS."
+     "type": "ust",
+     "num": "2",
+     "path": "art_29/ust_2",
+     "text": "Konwencja wejdzie w życie po upływie trzydziestu dni po wymianie dokumentów ratyfikacyjnych i jej postanowienia będą miały zastosowanie do podatków należnych od 1 stycznia roku następującego po roku, w którym dokonano wymiany dokumentów ratyfikacyjnych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 29"
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Wypowiedzenie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_30/ust_1",
+     "text": "Niniejsza konwencja pozostaje w mocy na czas nieograniczony. Jednakże, poczynając od piątego roku następującego po roku, w którym weszła ona w życie, każde Umawiające się Państwo może ją wypowiedzieć w drodze noty dyplomatycznej, złożonej w terminie co najmniej sześciu miesięcy przed upływem danego roku kalendarzowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_30/ust_2",
+     "text": "W takim przypadku jej postanowienia będą miały zastosowanie po raz ostatni do podatków należnych najpóźniej do dnia 31 grudnia roku, w którym konwencja została wypowiedziana.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 30"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani, należycie do tego upoważnieni przez ich odnośne Rządy, podpisali niniejszą konwencję."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Rabacie dnia 24 października 1994 r. w dwóch egzemplarzach, każdy w językach polskim, arabskim i francuskim, przy czym wszystkie teksty są jednakowo autentyczne. W przypadku rozbieżności przy interpretacji postanowień tej konwencji tekst francuski będzie rozstrzygający."
+  },
+  {
+   "type": "text",
+   "text": "Z upoważnienia Z upoważnienia Rządu Rządu Rzeczypospolitej Polskiej Królestwa Maroka"
+  },
+  {
+   "type": "text",
+   "text": "L. Podkański Mourad Cherif"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:"
+  },
+  {
+   "type": "text",
+   "text": "— została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,"
+  },
+  {
+   "type": "text",
+   "text": "— jest przyjęta, ratyfikowana i potwierdzona,"
+  },
+  {
+   "type": "text",
+   "text": "— będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 10 maja 1995 r. Prezydent Rzeczypospolitej Polskiej: L. Wałęsa LS."
   },
   {
    "type": "signature",

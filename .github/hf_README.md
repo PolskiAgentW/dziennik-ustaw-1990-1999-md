@@ -91,11 +91,12 @@ obecnych w oficjalnym tekście 0,974 (warstwa tekstowa Acrobata w tych PDF-ach: 
 (bez HTML, głównie rozporządzenia) nie mają wzorca. Typowe błędy: „ł” odczytane jako „t”, sklejone wyrazy, „§” jako
 „8”, fragmenty spisu treści w pierwszym akcie zeszytu, tabele spłaszczone do akapitów, przypisy jako zwykłe akapity,
 fragment stopki zeszytu („Egzemplarze bieżące…”) w tekście 122 aktów; w umowach międzynarodowych i konwencjach
-jednostki „Artykuł N” nie są rozpoznawane (297 aktów, w tym 250 z 692 obowiązujących).
+„Artykuł N” jest w tekście akapitem (w drzewie `tree` od eli2md 0.6.39 węzłem `art`; numeracja ma luki tam, gdzie
+OCR zniekształcił słowo „Artykuł”).
 W 21 aktach brakuje początku (numeru, tytułu, pierwszych przepisów): ich PDF w API ELI zaczyna się później,
 a początek jest tylko w PDF poprzedniej pozycji (lista w README na GitHubie, „Znane usterki”; może nie być pełna).
-W 25 aktach numery pozycji list 50–59 i 80–89 ze stron z OCR są zamienione na „§ 0”–„§ 9” (np. DU/1995/495;
-lista w README na GitHubie, „Znane usterki”).
+Numery pozycji list 50–59 i 80–89 ze stron z OCR były zamienione na „§ 0”–„§ 9” (241 wierszy w 25 aktach);
+od eli2md 0.6.39 (2026-10-07) zostało 13 wierszy w 2 aktach (DU/1998/7, DU/1998/1158; README na GitHubie, „Znane usterki”).
 Szczegóły: [README na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md#jak-dobre-jest).
 
 **To nie jest urzędowy tekst.** Wiążący jest PDF w Dzienniku Ustaw (`source_pdf`). Błędy konwersji zgłaszaj

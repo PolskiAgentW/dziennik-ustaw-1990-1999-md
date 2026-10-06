@@ -62,80 +62,85 @@
    "text": "POSTANOWIENIA WSTĘPNE"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1 Definicje"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "W rozumieniu niniejszej konwencji następujące wyrażenia mają niżej określone znaczenie:",
+   "path": "art_1",
+   "text": "Definicje",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "„urząd konsularny” oznacza każdy konsulat generalny, konsulat, wicekonsulat lub agencję konsularną;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "„okręg konsularny” oznacza obszar wyznaczony urzędowi konsularnemu do wykonywania funkcji konsularnych;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "„kierownik urzędu konsularnego” oznacza osobę powołaną do działania w tym charakterze;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "„urzędnik konsularny” oznacza każdą osobę, łącznie z kierownikiem urzędu konsularnego, powołaną w tym charakterze do wykonywania funkcji konsularnych;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "W rozumieniu niniejszej konwencji następujące wyrażenia mają niżej określone znaczenie:",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_1/lit_a",
+       "text": "„urząd konsularny” oznacza każdy konsulat generalny, konsulat, wicekonsulat lub agencję konsularną;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_1/lit_b",
+       "text": "„okręg konsularny” oznacza obszar wyznaczony urzędowi konsularnemu do wykonywania funkcji konsularnych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_1/lit_c",
+       "text": "„kierownik urzędu konsularnego” oznacza osobę powołaną do działania w tym charakterze;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_1/lit_d",
+       "text": "„urzędnik konsularny” oznacza każdą osobę, łącznie z kierownikiem urzędu konsularnego, powołaną w tym charakterze do wykonywania funkcji konsularnych;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/ust_1/lit_e",
+       "text": "„pracownik konsularny” oznacza każdą osobę zatrudnioną w służbie administracyjnej lub technicznej urzędu konsularnego; — || Z „członek personelu służby” oznacza każdą osobę zaf trudnioną w służbie domowej urzędu konsularnego; . „członkowie urzędu konsularnego” oznacza urzędnig „;ków konsularnych,. pracowników konsularnych oraz „członków personelu służby; Biz \"= „członek personelu prywatnego” oznacza one za- — h trudnioną wyłącznie w służbie prywatnej członka urzędu konsularnego; „członek rodziny” oznacza ktańkę albo małżonka — członka urzędu konsularnego, ich dzieci i rodziców, pod warunkiem że pozostają z nim we wspólnocie domowej i są na jego utrzymaniu; „pomieszczenia konsularne” oznacza budynki lub czę-",
+       "children": [
+        {
+         "type": "text",
+         "text": "— —:. ści budynków i tereny przyległe do nich, niezależnie od tego, czyją są własnością, używane wyłącznie do celów urzędu konsularnego; _ „archiwa konsularne” oznacza wszystkie pisma, dokuk"
+        },
+        {
+         "type": "text",
+         "text": "— menty, korespondencję, książki, filmy, techniczne zasoby gromadzenia i wykorzystania informacji, rejestry urzędu konsularnego oraz szyfry i kody, kartoteki, a także przedmioty wyposażenia służące do ich zabezpieczenia i przechowywania; „Sstatek” oznacza każdą jednostkę pływającą, upraw-"
+        },
+        {
+         "type": "text",
+         "text": "— nioną do podnoszenia bandery Państwa wysyłającego zgodnie z ustawodawstwem tego Państwa, z wyjątkiem okrętów wojennych; „statek powietrzny” oznacza każdą jednostkę latającą,"
+        },
+        {
+         "type": "text",
+         "text": "— m zarejestrowaną w Państwie wysyłającym, noszącą znaki rejestracyjne tego Państwa, z wyjątkiem wojskowych jednostek latających."
+        }
+       ]
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "„pracownik konsularny” oznacza każdą osobę zatrudnioną w służbie administracyjnej lub technicznej urzędu konsularnego; — || Z „członek personelu służby” oznacza każdą osobę zaf trudnioną w służbie domowej urzędu konsularnego; . „członkowie urzędu konsularnego” oznacza urzędnig „;ków konsularnych,. pracowników konsularnych oraz „członków personelu służby; Biz \"= „członek personelu prywatnego” oznacza one za- — h trudnioną wyłącznie w służbie prywatnej członka urzędu konsularnego; „członek rodziny” oznacza ktańkę albo małżonka — członka urzędu konsularnego, ich dzieci i rodziców, pod warunkiem że pozostają z nim we wspólnocie domowej i są na jego utrzymaniu; „pomieszczenia konsularne” oznacza budynki lub czę-",
-     "children": [
-      {
-       "type": "text",
-       "text": "— —:. ści budynków i tereny przyległe do nich, niezależnie od tego, czyją są własnością, używane wyłącznie do celów urzędu konsularnego; _ „archiwa konsularne” oznacza wszystkie pisma, dokuk"
-      },
-      {
-       "type": "text",
-       "text": "— menty, korespondencję, książki, filmy, techniczne zasoby gromadzenia i wykorzystania informacji, rejestry urzędu konsularnego oraz szyfry i kody, kartoteki, a także przedmioty wyposażenia służące do ich zabezpieczenia i przechowywania; „Sstatek” oznacza każdą jednostkę pływającą, upraw-"
-      },
-      {
-       "type": "text",
-       "text": "— nioną do podnoszenia bandery Państwa wysyłającego zgodnie z ustawodawstwem tego Państwa, z wyjątkiem okrętów wojennych; „statek powietrzny” oznacza każdą jednostkę latającą,"
-      },
-      {
-       "type": "text",
-       "text": "— m zarejestrowaną w Państwie wysyłającym, noszącą znaki rejestracyjne tego Państwa, z wyjątkiem wojskowych jednostek latających."
-      }
-     ]
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Postanowienia niniejszej konwencji dotyczące obywateli Państwa wysyłającego stosuje się, jeżeli jest to możliwe, również do osób prawnych i innych podmiotów nie posiadających osobowości prawnej, ustanowionych zgodnie z ustawodawstwem Państwa wysyłającego i mających siedzibę w tym Państwie.",
+     "children": []
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia niniejszej konwencji dotyczące obywateli Państwa wysyłającego stosuje się, jeżeli jest to możliwe, również do osób prawnych i innych podmiotów nie posiadających osobowości prawnej, ustanowionych zgodnie z ustawodawstwem Państwa wysyłającego i mających siedzibę w tym Państwie.",
-   "children": []
+   ],
+   "label": "Artykuł 1"
   },
   {
    "type": "heading",
@@ -193,156 +198,161 @@
    "num": "3",
    "path": "ust_3",
    "text": "Jeżeli Państwo przyjmujące na to się zgadza, Państwo wysyłające może, zamiast listów komisyjnych lub podobnego dokumentu, skierować do Państwa przyjmującego notyfikację zawierającą dane przewidziane w ust. 1 niniejszego artykułu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Exequatur",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 5"
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Kierownik urzędu końsularnego zostaje dopuszczony do wykonywania swych funkcji na mocy upoważnienia Państwa przyjmującego, zwanego ,,exequatur’, bez względu na formę tego upoważnienia.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Exequatur"
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Państwo, które odmawia udzielenia exequatur, nie jest zobowiązane do podania Państwu wysyłejąsefki przyczyn odmowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Z zastrzeżeniem postanowień artykułów 6 8, kierownik urzędu.konsularnego nie.może przystąpić do wykonywania swych funkcji przed uzyskaniem exequatur.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Kierownik urzędu końsularnego zostaje dopuszczony do wykonywania swych funkcji na mocy upoważnienia Państwa przyjmującego, zwanego ,,exequatur’, bez względu na formę tego upoważnienia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo, które odmawia udzielenia exequatur, nie jest zobowiązane do podania Państwu wysyłejąsefki przyczyn odmowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Z zastrzeżeniem postanowień artykułów 6 8, kierownik urzędu.konsularnego nie.może przystąpić do wykonywania swych funkcji przed uzyskaniem exequatur.",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Tymczasowe dopuszczenie kierownika urzędu konsularnego",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Tymczasowe dopuszczenie kierownika urzędu konsularnego"
-    },
     {
      "type": "text",
      "text": "Do czasu udzielenia exequatur kierownik urzędu konsularnego może być tymczasowo dopuszczony do wykonywania swych funkcji. W takim przypadku mają zastosowanie postanowienia niniejszej konwencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Tymczasowe wykonywanie funkcji kierownika urzędu konsularnego"
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli kierownik urzędu konsularnego nie ma możności wykonywania swych funkcji lub jeżeli jego stanowisko nie jest obsadzone, jako kierownik urzędu konsularnego może czasowo działać tymczasowy kierownik.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Imiona i nazwisko tymczasowego kierownika są notyfikowane bądź przez przedstawicielstwo dyplomatyczne",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Tymczasowe wykonywanie funkcji kierownika urzędu konsularnego",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Jeżeli kierownik urzędu konsularnego nie ma możności wykonywania swych funkcji lub jeżeli jego stanowisko nie jest obsadzone, jako kierownik urzędu konsularnego może czasowo działać tymczasowy kierownik.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Państwa: wysyłającego, bądź — gdy Państwo to nie ma przedstawicielstwa dyplomatycznego w Państwie przyjmującym — przez kierowńika urzędu konsularnego, bądź w razie gdy ten nie:może tego uczynić, przez jakikolwiek właściwy organ Państwa wysyłającego ministerstwu spraw zagranicznych Państwa przyjmującego lub organowi wyznaczonemu przez to ministerstwo. Notyfikacja ta powinna być w zasadzie dokonana uprzednio. Państwo przyjmujące może uzależnić od swej zgody dopuszczenie — jako tymczasowego kierownika — osoby, która nie jest przedstawicielem dyplomatycz- \"nym ani urzędnikiem konsularnym Państwa wysyłalnao w Państwie. przyjmującym. ZA \" A. „Właściwe organy Państwa przyjmującego powinny udzielać tymczasowemu. kierownikowi pomocy .i ochrony. W czasie gdy kieruje on urzędem, postanowienia niniejszej konwencji mają do niego zastosowanie na tych samych \"zasadach, jak do kierownika danego urzędu konsularnego.:"
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Imiona i nazwisko tymczasowego kierownika są notyfikowane bądź przez przedstawicielstwo dyplomatyczne",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Państwa: wysyłającego, bądź — gdy Państwo to nie ma przedstawicielstwa dyplomatycznego w Państwie przyjmującym — przez kierowńika urzędu konsularnego, bądź w razie gdy ten nie:może tego uczynić, przez jakikolwiek właściwy organ Państwa wysyłającego ministerstwu spraw zagranicznych Państwa przyjmującego lub organowi wyznaczonemu przez to ministerstwo. Notyfikacja ta powinna być w zasadzie dokonana uprzednio. Państwo przyjmujące może uzależnić od swej zgody dopuszczenie — jako tymczasowego kierownika — osoby, która nie jest przedstawicielem dyplomatycz- \"nym ani urzędnikiem konsularnym Państwa wysyłalnao w Państwie. przyjmującym. ZA \" A. „Właściwe organy Państwa przyjmującego powinny udzielać tymczasowemu. kierownikowi pomocy .i ochrony. W czasie gdy kieruje on urzędem, postanowienia niniejszej konwencji mają do niego zastosowanie na tych samych \"zasadach, jak do kierownika danego urzędu konsularnego.:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Jeżeli w okolicznościach przewidzianych w.ust. 1 niniejszego artykułu tymczasowym kierownikiem jest mianowany przez Państwo wysyłające członek personelu dyp- -lomatycznego przedstawicielstwa dyplomatycznego lub przedstawiciel ministerstwa spraw zagranicznych Państwa wysyłającego, korzysta on z przywilejów i immunitetów dyplomatycznych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 7"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli w okolicznościach przewidzianych w.ust. 1 niniejszego artykułu tymczasowym kierownikiem jest mianowany przez Państwo wysyłające członek personelu dyp- -lomatycznego przedstawicielstwa dyplomatycznego lub przedstawiciel ministerstwa spraw zagranicznych Państwa wysyłającego, korzysta on z przywilejów i immunitetów dyplomatycznych.",
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Powiadomienie władz okręgu konsularnego",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 8"
-    },
-    {
-     "type": "text",
-     "text": "Powiadomienie władz okręgu konsularnego"
-    },
     {
      "type": "text",
      "text": "Z chwilą gdy kierownik urzędu konsularnego zostanie dopuszczony, choćby tymczasowo, do wykonywania swych funkcji, Państwo przyjmujące powinno niezwłocznie powiadomić o tym właściwe władze okręgu konsularnego. Powinno ono również zapewnić podjęcie niezbędnych środków dla umożliwienia kierownikowi urzędu konsularnego wywiązywania się z obowiązków urzędowych i korzystania z postanowień niniejszej konwencji."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 9"
-    },
-    {
-     "type": "text",
-     "text": "Obywatelstwo urzędników konsularnych"
-    },
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Obywatelstwo urzędników konsularnych",
+   "children": [
     {
      "type": "text",
      "text": "Urzędnikami konsularnymi mogą być jedynie obywatele Państwa wysyłającego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 10"
-    },
-    {
-     "type": "text",
-     "text": "Wykonywanie funkcji konsułarnych w państwie trzecim"
-    },
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Wykonywanie funkcji konsułarnych w państwie trzecim",
+   "children": [
     {
      "type": "text",
      "text": "Po notyfikacji państwom zainteresowanym i w braku wyraźnego sprzeciwu któregokolwiek z nich Państwo wysyłające może powierzyć urzędowi konsularnemu, ustanowionemu w jednym państwie, wykonywanie funkcji konsularnych w innym państwie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 11"
-    },
-    {
-     "type": "text",
-     "text": "Wykonywanie funkcji konsularnych na rzecz państwa trzeciego"
-    },
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Wykonywanie funkcji konsularnych na rzecz państwa trzeciego",
+   "children": [
     {
      "type": "text",
      "text": "Po odpowiedniej notyfikacji Państwu przyjmującemu i w braku jego sprzeciwu urząd konsularny Państwa wysyłającego może wykonywać w Państwie przyjmującym funkcje konsularne na rzecz państwa trzeciego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 12"
-    },
-    {
-     "type": "text",
-     "text": "Honorowi urzędnicy konsularni"
-    },
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Honorowi urzędnicy konsularni",
+   "children": [
     {
      "type": "text",
      "text": "Każda z óbu Umawiających się Stron może — w ramach stosunków dwustronnych — mianować i przyjmować honorowych urzędników konsularnych, stosując wobec nich postanowienia rozdziału III Konwencji wiedeńskiej o stosunkach konsularnych oraz, jeśli jest to możliwe, postanowienia niniejszej konwencji. Honorowi urzędnicy konsularni mogą być. obywatelami :Państwa wysyłającego, Państwa przyjne | “i parse trzeciego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Powiadamianie państwa przyjmującego o przyjazdach i wyjazdach |"
-    },
+    }
+   ],
+   "label": "Artykuł 12"
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Powiadamianie państwa przyjmującego o przyjazdach i wyjazdach |",
+   "children": [
     {
      "type": "text",
      "text": "Ministerstwo spraw zagranicznych Państwa przyjmującego będzie pisemnie powiadamiane:"
@@ -350,7 +360,7 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_4/lit_a",
+     "path": "art_13/lit_a",
      "text": "o przybyciu do urzędu członka urzędu konsularnego po mianowaniu, o jego ostatecznym wyjeździe lub o zakończeniu wykonywania obowiązków oraz o wszystkich innych zmianach mających wpływ na jego status, które mogą powstać w czasie zatrudnienia w urzędzie konsularnym; o przybyciu i ostatecznym wyjeździe osoby należącej do b",
      "children": [
       {
@@ -366,88 +376,89 @@
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_4/lit_d",
+     "path": "art_13/lit_d",
      "text": "o zatrudnieniu i zwolnieniu osoby zamieszkałej na stałe w Państwie przyjmującym jako członka urzędu konsularnego lub członka personelu prywatnego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 13"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Dokumenty tożsamości",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Właściwe organy Państwa przyjmującego wydają bezpłatnie każdemu urzędnikowi konsułarnemu odpowiedni dokument stwierdzający jego tożsamość, stopień i pełnioną przez niego funkcję.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Postanowienia ust. 1 niniejszego artykułu stosuje się także do pracowników konsularnych, członków personelu służby oraz członków personelu prywatnego, pod warunkiem że: osoby te nie są obywatelami Państwa przyjmującego ani nie posiadają w tym Państwie stałego miejsca pobytu.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Zakończenie funkcji członka urzędu konsularnego",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Funkcje członka urzędu konsularnego ulegają zakończeniu w szczególności przez:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 14"
+       "type": "lit",
+       "num": "a",
+       "path": "art_15/ust_1/lit_a",
+       "text": "notyfikację Państwa wysyłającego Państwu przyjmującemu, że funkcje danej osoby uległy zakończeniu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_15/ust_1/lit_b",
+       "text": "cofnięcie exequatur;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_15/ust_1/lit_c",
+       "text": "notyfikację Państwa przyjmującego Państwu wysyłającemu, że Państwo przyjmujące przestało uważać tę osobę za członka urzędu konsularnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Państwo przyjmujące może w każdej chwili, bez obowiązku uzasadniania swojej decyzji, powiadomić w drodze dyplomatycznej Państwo wysyłające o tym, że exequatur",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "Dokumenty tożsamości"
+       "text": "udzielone kierownikowi urzędu konsularnego zostało cofnięte albo że urzędnik konsularny został uznany za persona non grata lub że jakikolwiek inny członek urzędu konsularnego jest osobą niepożądaną. W tym przypadku Państwo wysyłające odwoła taką osobę, jeżeli przystąpiła już do wykonywania funkcji. Jeżeli Państwo wysyłające nie wypełni w rozsądnym terminie tego obowiązku, Państwo przyjmujące może przestać uznawać taką osobę za członka urzędu konsularnego."
       }
      ]
     }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Państwa przyjmującego wydają bezpłatnie każdemu urzędnikowi konsułarnemu odpowiedni dokument stwierdzający jego tożsamość, stopień i pełnioną przez niego funkcję.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia ust. 1 niniejszego artykułu stosuje się także do pracowników konsularnych, członków personelu służby oraz członków personelu prywatnego, pod warunkiem że: osoby te nie są obywatelami Państwa przyjmującego ani nie posiadają w tym Państwie stałego miejsca pobytu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 15"
-    },
-    {
-     "type": "text",
-     "text": "Zakończenie funkcji członka urzędu konsularnego"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Funkcje członka urzędu konsularnego ulegają zakończeniu w szczególności przez:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "notyfikację Państwa wysyłającego Państwu przyjmującemu, że funkcje danej osoby uległy zakończeniu;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "cofnięcie exequatur;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "notyfikację Państwa przyjmującego Państwu wysyłającemu, że Państwo przyjmujące przestało uważać tę osobę za członka urzędu konsularnego.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo przyjmujące może w każdej chwili, bez obowiązku uzasadniania swojej decyzji, powiadomić w drodze dyplomatycznej Państwo wysyłające o tym, że exequatur",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "udzielone kierownikowi urzędu konsularnego zostało cofnięte albo że urzędnik konsularny został uznany za persona non grata lub że jakikolwiek inny członek urzędu konsularnego jest osobą niepożądaną. W tym przypadku Państwo wysyłające odwoła taką osobę, jeżeli przystąpiła już do wykonywania funkcji. Jeżeli Państwo wysyłające nie wypełni w rozsądnym terminie tego obowiązku, Państwo przyjmujące może przestać uznawać taką osobę za członka urzędu konsularnego."
-    }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
    "type": "heading",
@@ -455,178 +466,185 @@
    "text": "UŁATWIENIA, PRZYWILEJE I IMMUNITETY"
   },
   {
-   "type": "text",
-   "text": "Artykuł 16"
-  },
-  {
-   "type": "text",
-   "text": "Ułatwienia w działalności urzędu konsularnego"
-  },
-  {
-   "type": "text",
-   "text": "Państwo przyjmujące udzieli urzędowi konsularnemu wszelkich ułatwień w wykonywaniu jego funkcji i podejmie odpowiednie środki w tym celu, aby członkowie urzędu konsularnego mogli wykonywać swą działalność urzędową oraz korzystać z przywilejów i immunitetów przewidzianych w niniejszej konwencji."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 17"
-  },
-  {
-   "type": "text",
-   "text": "Używanie flagi i godła państwowego"
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwo wysyłające ma prawo używania w Państwie przyjmującym swej flagi państwowej i godła zgodnie z postanowieniami niniejszego artykułu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Flaga Państwa wysyłającego może być wywieszona na budynku zajmowanym przez urząd konsularny, na rezydencji kierownika urzędu konsularnego i na jego środkach transportu, gdy są używane do celów służbowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Godło Państwa wysyłającego wraz z odpowiednim napisem w języku Państwa wysyłającego i w języku Państwa przyjmującego, oznaczającym urząd konsularny, może być umieszczone na budynku urzędu konsularnego i na rezydencji kierownika tego urzędu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przy korzystaniu z prawa przyznanego w niniejszym artykule należy uwzględniać ustawy i inne przepisy oraz zwyczaje Państwa przyjmującego.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Ułatwienia w działalności urzędu konsularnego",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 18"
+     "text": "Państwo przyjmujące udzieli urzędowi konsularnemu wszelkich ułatwień w wykonywaniu jego funkcji i podejmie odpowiednie środki w tym celu, aby członkowie urzędu konsularnego mogli wykonywać swą działalność urzędową oraz korzystać z przywilejów i immunitetów przewidzianych w niniejszej konwencji."
+    }
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Używanie flagi i godła państwowego",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Państwo wysyłające ma prawo używania w Państwie przyjmującym swej flagi państwowej i godła zgodnie z postanowieniami niniejszego artykułu.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Pomieszczenia"
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Flaga Państwa wysyłającego może być wywieszona na budynku zajmowanym przez urząd konsularny, na rezydencji kierownika urzędu konsularnego i na jego środkach transportu, gdy są używane do celów służbowych.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_17/ust_3",
+     "text": "Godło Państwa wysyłającego wraz z odpowiednim napisem w języku Państwa wysyłającego i w języku Państwa przyjmującego, oznaczającym urząd konsularny, może być umieszczone na budynku urzędu konsularnego i na rezydencji kierownika tego urzędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_17/ust_4",
+     "text": "Przy korzystaniu z prawa przyznanego w niniejszym artykule należy uwzględniać ustawy i inne przepisy oraz zwyczaje Państwa przyjmującego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Pomieszczenia",
+   "children": [
     {
      "type": "text",
      "text": "Państwo przyjmujące pomaga Państwu wysyłającemu, zgodnie ze swoimi ustawami i innymi przepisami, w uzyskaniu pomieszczeń niezbędnych dla urzędu konsularnego oraz, w miarę potrzeby, odpowiednich mieszkań dla członków urzędu konsularnego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    },
-    {
-     "type": "text",
-     "text": "Nabywanie terenów i budynków"
     }
-   ]
+   ],
+   "label": "Artykuł 18"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwo wysyłające ma prawo, zgodnie z ustawami i innymi przepisami Państwa przyjmującego:",
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Nabywanie terenów i budynków",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "nabywać na własność, posiadać lub wynajmować tereny, budynki lub części budynków, z przeznaczeniem na pomieszczenia urzędu konsularnego, na rezydencję kierownika urzędu konsularnego lub na mieszkania innych członków urzędu konsularnego;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Państwo wysyłające ma prawo, zgodnie z ustawami i innymi przepisami Państwa przyjmującego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_19/ust_1/lit_a",
+       "text": "nabywać na własność, posiadać lub wynajmować tereny, budynki lub części budynków, z przeznaczeniem na pomieszczenia urzędu konsularnego, na rezydencję kierownika urzędu konsularnego lub na mieszkania innych członków urzędu konsularnego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_19/ust_1/lit_b",
+       "text": "budować lub przystosowywać do tych samych celów budynki na nabytych terenach;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_19/ust_1/lit_c",
+       "text": "przenosić prawo własności terenów, budynków lub części budynków w ten sposób nabytych lub zbudowanych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Postanowienia ust. 1 niniejszego artykułu nie zwalniają Państwa wysyłającego od obowiązku stosowania się do przepisów i ograniczeń w zakresie budównictwa, urbanistyki i ochrony zabytków, mających zastosowanie na obszarze, na którym znajdują się wymienione tereny, budynki lub ich części przeznaczone na pomieszczenia konsularne.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 19"
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Nietykalność pomieszczeń konsularnych i rezydencji",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Pomieszczenia konsularne oraz rezydencja kierownika urzędu konsularnego są nietykalne. Organy. Państwa przyjmującego nie mogą do nich wkraczać bez zgody kierownika urzędu konsularnego, kierownika przedstawicielstwa dyplomatycznego Państwa wysyłającego albo osoby wyznaczonej przez jednego z nich.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "budować lub przystosowywać do tych samych celów budynki na nabytych terenach;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "przenosić prawo własności terenów, budynków lub części budynków w ten sposób nabytych lub zbudowanych.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Państwo przyjmujące ma szczególny obowiązek przedsięwzięcia wszelkich stosownych środków dla ochrony pomieszczeń konsularnych przed jakimkolwiek wtargnięciem lub szkodą oraz dla zapobieżenia zakłóceniu spokoju urzędu konsularnego lub uchybieniu jego godności.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 20"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowienia ust. 1 niniejszego artykułu nie zwalniają Państwa wysyłającego od obowiązku stosowania się do przepisów i ograniczeń w zakresie budównictwa, urbanistyki i ochrony zabytków, mających zastosowanie na obszarze, na którym znajdują się wymienione tereny, budynki lub ich części przeznaczone na pomieszczenia konsularne.",
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Zwolnienie od rekwizycji",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 20 Nietykalność pomieszczeń konsularnych i rezydencji"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Pomieszczenia konsularne oraz rezydencja kierownika urzędu konsularnego są nietykalne. Organy. Państwa przyjmującego nie mogą do nich wkraczać bez zgody kierownika urzędu konsularnego, kierownika przedstawicielstwa dyplomatycznego Państwa wysyłającego albo osoby wyznaczonej przez jednego z nich.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo przyjmujące ma szczególny obowiązek przedsięwzięcia wszelkich stosownych środków dla ochrony pomieszczeń konsularnych przed jakimkolwiek wtargnięciem lub szkodą oraz dla zapobieżenia zakłóceniu spokoju urzędu konsularnego lub uchybieniu jego godności.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 21"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienie od rekwizycji"
-    },
     {
      "type": "text",
      "text": "Pomieszczenia konsularne, rezydencja kierownika urzędu konsularnego i mieszkania innych członków urzędu konsularnego wraz z umeblowaniem, mienie urzędu konsularnego, a także środki transportu nie podlegają żadnej rekwizycji dla celów obrony narodowej lub użyteczności publicznej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 22"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienie pomieszczeń konsularnych i środków transportu od podatków i opłat"
     }
-   ]
+   ],
+   "label": "Artykuł 21"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Pomieszczenia konsularne, rezydencja kierownika urzędu konsularnego, a także mieszkania członków urzędu konsularnego, których właścicielem lub najemcą jest Państwo wysyłające lub jakakolwiek osoba działająca w jego imieniu, są zwolnione od wszelkich podatków i opłat państwowych, regionalnych i komunalnych, z wyjątkiem opłat pobieranych za świadczenie usług.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zwolnień przewidzianych w ust. 1 niniejszego artykułu nie stosuje się do podatków i opłat ciążących na podstawie ustaw i innych przepisów Państwa przyjmującego na osobie, która zawarła umowę z Państwem wysyłającym lub z osobą działającą w jego imieniu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia ust. 1 niniejszego artykułu stosuje się również do środków transportu używanych na potrzeby urzędu konsularnego.",
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Zwolnienie pomieszczeń konsularnych i środków transportu od podatków i opłat",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 23"
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "Pomieszczenia konsularne, rezydencja kierownika urzędu konsularnego, a także mieszkania członków urzędu konsularnego, których właścicielem lub najemcą jest Państwo wysyłające lub jakakolwiek osoba działająca w jego imieniu, są zwolnione od wszelkich podatków i opłat państwowych, regionalnych i komunalnych, z wyjątkiem opłat pobieranych za świadczenie usług.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Nietykalność archiwów i dokumentów konsularnych"
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Zwolnień przewidzianych w ust. 1 niniejszego artykułu nie stosuje się do podatków i opłat ciążących na podstawie ustaw i innych przepisów Państwa przyjmującego na osobie, która zawarła umowę z Państwem wysyłającym lub z osobą działającą w jego imieniu.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_22/ust_3",
+     "text": "Postanowienia ust. 1 niniejszego artykułu stosuje się również do środków transportu używanych na potrzeby urzędu konsularnego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 22"
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Nietykalność archiwów i dokumentów konsularnych",
+   "children": [
     {
      "type": "text",
      "text": "Archiwa i dokumenty konsularne są nietykalne w każdym czasie i niezależnie od tego, gdzie się znajdują."
@@ -634,342 +652,346 @@
     {
      "type": "note",
      "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 24"
-    },
-    {
-     "type": "text",
-     "text": "Swoboda porozumiewania się"
     }
-   ]
+   ],
+   "label": "Artykuł 23"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwo przyjmujące dopuszcza i ochrania swobodę porozumiewania się urzędu konsularnego dla wszelkich celów urzędowych. Przy porozumiewaniu się z rządem, przedstawicielstwami dyplomatycznymi oraz innymi urzędami konsularnymi Państwa wysyłającego, bez względu na to, gdzie się znajdują, urząd konsularny może używać wszelkich odpowiednich środków łączności, łącznie z kurierami dyplomatycznymi lub konsularnymi, pocztą dyplomatyczną lub konsularną oraz korespondencją sporządzoną kodem lub szyfrem. Urząd konsularny może jednak zainstalować nadajnik radiowy i używać go jedynie za zgodą Państwa przyjmującego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Korespondencja urzędowa urzędu konsularnego jest nietykalna. Wyrażenie „korespondencja urzędowa” oznacza wszelką korespondencję dotyczącą urzędu konsularnego i jego funkcji.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Poczty konsularnej nie wolno ani otwierać, ani zatrzymywać. Jeżeli jednak właściwe organy Państwa przyjmującego mają poważne podstawy, aby przypuszczać, że poczta zawiera przedmioty inne niż korespondencja, dokumenty i przedmioty określone w ust. 4 niniejszego artykułu, mogą prosić, aby poczta ta została otwarta w ich obecności przez upoważnionego przedstawiciela Państwa wysyłającego. Jeżeli organy Państwa wysyłającego odmówią zastosowania się do tej prośby, poczta zostanie zwrócona do miejsca, z którego pochodzi.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Paczki składające się na pocztę konsularną powinny mieć widoczne zewnętrzne oznaczenia ich charakteru i mogą zawierać jedynie korespondencję urzędową, jak również dokumenty lub przedmioty przeznaczone wyłącznie do użytku urzędowego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Kurier konsularny powinien być zaopatrzony w urzędowy dokument stwierdzający jego charakter i określający liczbę paczek składających się na pocztę konsularną. Z wyjątkiem przypadku gdy Państwo przyjmujące na to zezwala, nie może on być obywatelem Państwa przyjmującego ani — gdy jest obywatelem Państwa wysyłającego — nie może mieć stałego miejsca pobytu w Państwie przyjmującym. W czasie wykonywania swych funkcji kurier ten jest chroniony przez Państwo przyjmujące. Korzysta on z nietykalności osobistej i nie podlega aresztowaniu, zatrzymaniu ani ograniczeniu wolności osobistej w jakiejkolwiek formie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Państwo wysyłające, jego przedstawicielstwa dyplomatyczne i urzędy konsularne mogą wyznaczać kurierów konsularnych ad hoc. W takich przypadkach postanowienia ust. 5 niniejszego artykułu mają również zastosowanie z zastrzeżeniem, że wymienione tam immunitety wygasają, gdy taki kurier doręczy odbiorcy pocztę konsularną, która została mu powierzona.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Poczta konsularna może być powierzona kapitanowi statku lub statku powietrznego, udającego się do prawnie dozwolonego miejsca przybycia. Kapitan ten powinien być zaopatrzony w urzędowy dokument określający liczbę paczek składających się na pocztę konsularną, lecz nie jest uważany za kuriera konsularnego. Na podstawie porozumienia z właściwymi miejscowymi organami urząd konsularny może wysłać jednego ze swych członków w celu bezpośredniego i swobodnego odebrania poczty konsularnej od kapitana statku lub statku powietrznego lub przekazania takiej poczty w ten sam sposób.",
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Swoboda porozumiewania się",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 25"
+     "type": "ust",
+     "num": "1",
+     "path": "art_24/ust_1",
+     "text": "Państwo przyjmujące dopuszcza i ochrania swobodę porozumiewania się urzędu konsularnego dla wszelkich celów urzędowych. Przy porozumiewaniu się z rządem, przedstawicielstwami dyplomatycznymi oraz innymi urzędami konsularnymi Państwa wysyłającego, bez względu na to, gdzie się znajdują, urząd konsularny może używać wszelkich odpowiednich środków łączności, łącznie z kurierami dyplomatycznymi lub konsularnymi, pocztą dyplomatyczną lub konsularną oraz korespondencją sporządzoną kodem lub szyfrem. Urząd konsularny może jednak zainstalować nadajnik radiowy i używać go jedynie za zgodą Państwa przyjmującego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Ochrona urzędników konsularnych"
+     "type": "ust",
+     "num": "2",
+     "path": "art_24/ust_2",
+     "text": "Korespondencja urzędowa urzędu konsularnego jest nietykalna. Wyrażenie „korespondencja urzędowa” oznacza wszelką korespondencję dotyczącą urzędu konsularnego i jego funkcji.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_24/ust_3",
+     "text": "Poczty konsularnej nie wolno ani otwierać, ani zatrzymywać. Jeżeli jednak właściwe organy Państwa przyjmującego mają poważne podstawy, aby przypuszczać, że poczta zawiera przedmioty inne niż korespondencja, dokumenty i przedmioty określone w ust. 4 niniejszego artykułu, mogą prosić, aby poczta ta została otwarta w ich obecności przez upoważnionego przedstawiciela Państwa wysyłającego. Jeżeli organy Państwa wysyłającego odmówią zastosowania się do tej prośby, poczta zostanie zwrócona do miejsca, z którego pochodzi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_24/ust_4",
+     "text": "Paczki składające się na pocztę konsularną powinny mieć widoczne zewnętrzne oznaczenia ich charakteru i mogą zawierać jedynie korespondencję urzędową, jak również dokumenty lub przedmioty przeznaczone wyłącznie do użytku urzędowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_24/ust_5",
+     "text": "Kurier konsularny powinien być zaopatrzony w urzędowy dokument stwierdzający jego charakter i określający liczbę paczek składających się na pocztę konsularną. Z wyjątkiem przypadku gdy Państwo przyjmujące na to zezwala, nie może on być obywatelem Państwa przyjmującego ani — gdy jest obywatelem Państwa wysyłającego — nie może mieć stałego miejsca pobytu w Państwie przyjmującym. W czasie wykonywania swych funkcji kurier ten jest chroniony przez Państwo przyjmujące. Korzysta on z nietykalności osobistej i nie podlega aresztowaniu, zatrzymaniu ani ograniczeniu wolności osobistej w jakiejkolwiek formie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_24/ust_6",
+     "text": "Państwo wysyłające, jego przedstawicielstwa dyplomatyczne i urzędy konsularne mogą wyznaczać kurierów konsularnych ad hoc. W takich przypadkach postanowienia ust. 5 niniejszego artykułu mają również zastosowanie z zastrzeżeniem, że wymienione tam immunitety wygasają, gdy taki kurier doręczy odbiorcy pocztę konsularną, która została mu powierzona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_24/ust_7",
+     "text": "Poczta konsularna może być powierzona kapitanowi statku lub statku powietrznego, udającego się do prawnie dozwolonego miejsca przybycia. Kapitan ten powinien być zaopatrzony w urzędowy dokument określający liczbę paczek składających się na pocztę konsularną, lecz nie jest uważany za kuriera konsularnego. Na podstawie porozumienia z właściwymi miejscowymi organami urząd konsularny może wysłać jednego ze swych członków w celu bezpośredniego i swobodnego odebrania poczty konsularnej od kapitana statku lub statku powietrznego lub przekazania takiej poczty w ten sam sposób.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 24"
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Ochrona urzędników konsularnych",
+   "children": [
     {
      "type": "text",
      "text": "Państwo przyjmujące będzie traktowało urzędników konsularnych z należnym szacunkiem i zastosuje wszelkie odpowiednie środki dla zapobiegania jakimkolwiek zamachom na ich osoby, wolność lub godność."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 26"
-    },
-    {
-     "type": "text",
-     "text": "Nietykalność osobista i immunitet jurysdykcyjny"
     }
-   ]
+   ],
+   "label": "Artykuł 25"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Urzędnik konsularny korzysta z immunitetu od jurysdykcji karnej, cywilnej i administracyjnej Państwa przyjmującego. Korzysta on z nietykalności osobistej i nie podlega aresztowaniu, zatrzymaniu ani ograniczeniu wolności osobistej w jakiejkolwiek formie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pracownik konsularny oraz członek personelu służby korzystają z immunitetu od jurysdykcji karnej, cywilnej i administracyjnej Państwa przyjmującego w odniesieniu do czynności wykonywanych w zakresie ich obowiązków urzędowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowień ust. 1 i 2 niniejszego artykułu nie stosuje się do spraw cywilnych:",
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Nietykalność osobista i immunitet jurysdykcyjny",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "wynikłych z zawarcia przez członka urzędu konsularnego umowy, w której nie występował on wyraźnie lub w sposób dorozumiany jako przedstawiciel Państwa wysyłającego;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_26/ust_1",
+     "text": "Urzędnik konsularny korzysta z immunitetu od jurysdykcji karnej, cywilnej i administracyjnej Państwa przyjmującego. Korzysta on z nietykalności osobistej i nie podlega aresztowaniu, zatrzymaniu ani ograniczeniu wolności osobistej w jakiejkolwiek formie.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "wytoczonych na skutek szkody powstałej w wyniku wypadku spowodowanego przez członka urzędu konsularnego w Państwie przyjmującym jakimkolwiek środkiem transportu;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_26/ust_2",
+     "text": "Pracownik konsularny oraz członek personelu służby korzystają z immunitetu od jurysdykcji karnej, cywilnej i administracyjnej Państwa przyjmującego w odniesieniu do czynności wykonywanych w zakresie ich obowiązków urzędowych.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "dotyczących spadków, w których członek urzędu konsularnego występuje w charakterze osoby prywatnej jako spadkobierca, zapisobierca, wykonawca testamentu, zarządca lub kurator spadku.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_26/ust_3",
+     "text": "Postanowień ust. 1 i 2 niniejszego artykułu nie stosuje się do spraw cywilnych:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 27"
+       "type": "lit",
+       "num": "a",
+       "path": "art_26/ust_3/lit_a",
+       "text": "wynikłych z zawarcia przez członka urzędu konsularnego umowy, w której nie występował on wyraźnie lub w sposób dorozumiany jako przedstawiciel Państwa wysyłającego;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Obowiązek składania zeznań w charakterze świadka"
+       "type": "lit",
+       "num": "b",
+       "path": "art_26/ust_3/lit_b",
+       "text": "wytoczonych na skutek szkody powstałej w wyniku wypadku spowodowanego przez członka urzędu konsularnego w Państwie przyjmującym jakimkolwiek środkiem transportu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_26/ust_3/lit_c",
+       "text": "dotyczących spadków, w których członek urzędu konsularnego występuje w charakterze osoby prywatnej jako spadkobierca, zapisobierca, wykonawca testamentu, zarządca lub kurator spadku.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 26"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Członkowie urzędu konsułarnego mogą być wzywani do składania zeznań w charakterze świadków przed sądami i innymi właściwymi organami Państwa przyjmującego. Niemniej jednak wobec urzędników konsularnych nie można stosować żadnego środka przymusu ani innej sankcji. Pracownik konsularny i członek personelu służby nie powinni odmawiać składania zeznań, z wyjątkiem przypadków wymienionych w ust. 3 niniejszego artykułu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Organ żądający zeznań powinien unikać utrudniania urzędnikowi konsularnemu wykonywania jego funkcji. Może on, gdy jest to możliwe, przyjąć te zeznania w jego mieszkaniu lub w urzędzie konsularnym bądź przyjąć od niego oświadczenie na piśmie.",
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Obowiązek składania zeznań w charakterze świadka",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_27/ust_1",
+     "text": "Członkowie urzędu konsułarnego mogą być wzywani do składania zeznań w charakterze świadków przed sądami i innymi właściwymi organami Państwa przyjmującego. Niemniej jednak wobec urzędników konsularnych nie można stosować żadnego środka przymusu ani innej sankcji. Pracownik konsularny i członek personelu służby nie powinni odmawiać składania zeznań, z wyjątkiem przypadków wymienionych w ust. 3 niniejszego artykułu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_27/ust_2",
+     "text": "Organ żądający zeznań powinien unikać utrudniania urzędnikowi konsularnemu wykonywania jego funkcji. Może on, gdy jest to możliwe, przyjąć te zeznania w jego mieszkaniu lub w urzędzie konsularnym bądź przyjąć od niego oświadczenie na piśmie.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_27/ust_3",
+     "text": "Członkowie urzędu konsularnego nie są zobowiązani do składania zeznań co do faktów związanych z wykonywaniem ich funkcji ani do przedstawiania urzędowej korespondencji i dokumentów odnoszących się do ich funkcji. Mają oni również prawo.odmowy zeznań w charakterze ekspertów w, zakresie prawa Państwa wysyłającego. Postanowienie to ma również zastosowanie do członków personelu prywatnego'w odniesieniu do faktów, które są związane z działalnością urzędu konsularnego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 27"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Członkowie urzędu konsularnego nie są zobowiązani do składania zeznań co do faktów związanych z wykonywaniem ich funkcji ani do przedstawiania urzędowej korespondencji i dokumentów odnoszących się do ich funkcji. Mają oni również prawo.odmowy zeznań w charakterze ekspertów w, zakresie prawa Państwa wysyłającego. Postanowienie to ma również zastosowanie do członków personelu prywatnego'w odniesieniu do faktów, które są związane z działalnością urzędu konsularnego.",
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Zrzeczenie się przywilejów i immunitetów",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 28"
+     "type": "ust",
+     "num": "1",
+     "path": "art_28/ust_1",
+     "text": "Państwo wysyłające może zrzec się przywilejów i immunitetów określonych w artykułach 26 ust. 1 i 2 oraz 27. To zrzeczenie się będzie zawsze wyraźne i zakomunikowane Państwu przyjmującemu na piśmie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Zrzeczenie się przywilejów i immunitetów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_28/ust_2",
+     "text": "Wszczęcie przez członka urzędu konsularnego postępowania w przypadku, w którym mógłby korzystać z immunitetu jurysdykcyjnego, pozbawia go prawa powoływania się na immunitet w stosunku do jakiegokolwiek powództwa wzajemnego, bezpośrednio związanego z powództwem głównym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_28/ust_3",
+     "text": "Zrzeczenie się immunitetu jurysdykcyjnego w odniesieniu do postępowania cywilnego lub administracyjnego nie jest uważane za zrzeczenie się immunitetu od środków wykonania orzeczenia. W stosunku do takich środków niezbędne jest odrębne zrzeczenie się.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 28"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwo wysyłające może zrzec się przywilejów i immunitetów określonych w artykułach 26 ust. 1 i 2 oraz 27. To zrzeczenie się będzie zawsze wyraźne i zakomunikowane Państwu przyjmującemu na piśmie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wszczęcie przez członka urzędu konsularnego postępowania w przypadku, w którym mógłby korzystać z immunitetu jurysdykcyjnego, pozbawia go prawa powoływania się na immunitet w stosunku do jakiegokolwiek powództwa wzajemnego, bezpośrednio związanego z powództwem głównym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Zrzeczenie się immunitetu jurysdykcyjnego w odniesieniu do postępowania cywilnego lub administracyjnego nie jest uważane za zrzeczenie się immunitetu od środków wykonania orzeczenia. W stosunku do takich środków niezbędne jest odrębne zrzeczenie się.",
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Zwolnienie od świadczeń osobistych i rzeczowych",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 29"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienie od świadczeń osobistych i rzeczowych"
-    },
     {
      "type": "text",
      "text": "Państwo przyjmujące zwalnia członków urzędu konsularnego od wszelkich świadczeń osobistych, od wszelkiej służby publicznej jakiegokolwiek charakteru oraz od obowiązków wojskowych, takich jak rekwizycje, kontrybucje i zakwaterowanie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 30"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienie od obowiązku rejestracji cudzoziemców"
-    },
+    }
+   ],
+   "label": "Artykuł 29"
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Zwolnienie od obowiązku rejestracji cudzoziemców",
+   "children": [
     {
      "type": "text",
      "text": "Członkowie urzędu konsularnego są zwolnieni od wszelkich obowiązków przewidzianych przez ustawy i inne przepisy Państwa przyjmującego w sprawie rejestracji, zezwolę- . nią na pobyt i innych formalności dotyczących cudzoziemców."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 31"
-    },
-    {
-     "type": "text",
-     "text": "Zwolnienie od podatków i opłat"
     }
-   ]
+   ],
+   "label": "Artykuł 30"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Członkowie urzędu konsularnego są zwolnieni od wszelkich podatków i opłat osobistych i rzeczowych — państwowych, regionalnych i komunalnych, z wyjątkiem:",
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "Zwolnienie od podatków i opłat",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "podatków pośrednich tego rodzaju, które zazwyczaj są wliczane w cenę towarów lub usług;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "podatków i opłat od prywatnych nieruchomości położonych na terytorium Państwa przyjmującego, z zastrzeżeniem postanowień artykułu 22;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_31/ust_1",
+     "text": "Członkowie urzędu konsularnego są zwolnieni od wszelkich podatków i opłat osobistych i rzeczowych — państwowych, regionalnych i komunalnych, z wyjątkiem:",
      "children": [
       {
-       "type": "text",
-       "text": "'Poz. '104"
+       "type": "lit",
+       "num": "a",
+       "path": "art_31/ust_1/lit_a",
+       "text": "podatków pośrednich tego rodzaju, które zazwyczaj są wliczane w cenę towarów lub usług;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_31/ust_1/lit_b",
+       "text": "podatków i opłat od prywatnych nieruchomości położonych na terytorium Państwa przyjmującego, z zastrzeżeniem postanowień artykułu 22;",
+       "children": [
+        {
+         "type": "text",
+         "text": "'Poz. '104"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_31/ust_1/lit_c",
+       "text": "podatków spadkowych i podatków od przeniesienia prawa własności pobieranych przez Państwo przyjmujące, z zastrzeżeniem postanowień artykułu 33;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_31/ust_1/lit_d",
+       "text": "podatków i opłat od wszelkiego rodzaju dochodów prywatnych, mających swe źródło. w | Państwie przyjmującym;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_31/ust_1/lit_e",
+       "text": "opłat pobieranych z tytułu zapłaty za świadczenie określonych usług; ..",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_31/ust_1/lit_f",
+       "text": "opłat rejestracyjnych, sadowych, ataomydh: i.skarbowych, z zastrzeżeniem postanowień artykułu 22.",
+       "children": []
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "podatków spadkowych i podatków od przeniesienia prawa własności pobieranych przez Państwo przyjmujące, z zastrzeżeniem postanowień artykułu 33;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "podatków i opłat od wszelkiego rodzaju dochodów prywatnych, mających swe źródło. w | Państwie przyjmującym;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "opłat pobieranych z tytułu zapłaty za świadczenie określonych usług; ..",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "opłat rejestracyjnych, sadowych, ataomydh: i.skarbowych, z zastrzeżeniem postanowień artykułu 22.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_31/ust_2",
+     "text": "Członkowie urzędu konsularnego zatrudniający osoby, których wynagrodzenia lub.uposażenia nie są zwalniane z podatków od dochodów w Państwie przyjmującym, powinni wypełniać obowiązki nakładane przez ustawy i inne przepisy, tego Państwa w zakresie pobierania podatków od dochodów.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 31"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Członkowie urzędu konsularnego zatrudniający osoby, których wynagrodzenia lub.uposażenia nie są zwalniane z podatków od dochodów w Państwie przyjmującym, powinni wypełniać obowiązki nakładane przez ustawy i inne przepisy, tego Państwa w zakresie pobierania podatków od dochodów.",
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Zwolnienie od opłat celnych i kontroli celnej",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 32"
+     "type": "ust",
+     "num": "1",
+     "path": "art_32/ust_1",
+     "text": "Zgodnie z przyjętymi przez siebie ustawami i innymi przepisami Państwo przyjmujące zezwala na przywóz i wywóz oraz zwalnia od wszelkich opłat celnych, podatków i innych związanych z tym należności, z wyjątkiem opłat za składowanie, przewóz i inne podobne usługi, co do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_32/ust_1/lit_a",
+       "text": "przedmiotów przeznaczonych do użytku służbowego. urzędu konsularnego; |",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_32/ust_1/lit_b",
+       "text": "przedmiotów przeznaczonych do użytku osobistego urzędnika konsularnego, łącznie z przedmiotami przeznaczonymi dó jego urządzenia się.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Zwolnienie od opłat celnych i kontroli celnej"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Zgodnie z przyjętymi przez siebie ustawami i innymi przepisami Państwo przyjmujące zezwala na przywóz i wywóz oraz zwalnia od wszelkich opłat celnych, podatków i innych związanych z tym należności, z wyjątkiem opłat za składowanie, przewóz i inne podobne usługi, co do:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "przedmiotów przeznaczonych do użytku służbowego. urzędu konsularnego; |",
+     "type": "ust",
+     "num": "2",
+     "path": "art_32/ust_2",
+     "text": "Pracownik konsularny korzysta z przywilejów i zwolnień przewidzianych w ust. 1 pkt b) niniejszego artykułu co do przedmiotów przywiezionych w czasie jego pierwszego instalowania się.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "przedmiotów przeznaczonych do użytku osobistego urzędnika konsularnego, łącznie z przedmiotami przeznaczonymi dó jego urządzenia się.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_32/ust_3",
+     "text": "Bagaż osobisty urzędnika konsularnego jest zwolniony od kontroli celnej, jeśli nie ma poważnych powodów do przypuszczeń, że zawiera przedmioty inne niż te, na których przywóz zezwala się stosownie do ust. 1 pkt b) niniejszego artykułu, albo przedmioty, których przywóz i wywóz jest zabroniony stosownie do ustawodawstwa lub przepisów o kwarantannie Państwa przyjmującego. W takim przypadku kontrola może być przeprowadzona wyłącznie w obecności urzędnika konsularnego, członka jego rodziny lub osoby przez nich upoważnionej.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 32"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pracownik konsularny korzysta z przywilejów i zwolnień przewidzianych w ust. 1 pkt b) niniejszego artykułu co do przedmiotów przywiezionych w czasie jego pierwszego instalowania się.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Bagaż osobisty urzędnika konsularnego jest zwolniony od kontroli celnej, jeśli nie ma poważnych powodów do przypuszczeń, że zawiera przedmioty inne niż te, na których przywóz zezwala się stosownie do ust. 1 pkt b) niniejszego artykułu, albo przedmioty, których przywóz i wywóz jest zabroniony stosownie do ustawodawstwa lub przepisów o kwarantannie Państwa przyjmującego. W takim przypadku kontrola może być przeprowadzona wyłącznie w obecności urzędnika konsularnego, członka jego rodziny lub osoby przez nich upoważnionej.",
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "Spadek po członku urzędu konsularnego",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 33"
-    },
-    {
-     "type": "text",
-     "text": "Spadek po członku urzędu konsularnego"
-    },
     {
      "type": "text",
      "text": "W razie śmierci członka urzędu konsularnego Państwo przyjmujące:"
@@ -977,14 +999,14 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_3/lit_a",
+     "path": "art_33/lit_a",
      "text": "zezwoli na wywóz ruchomego mienia zmarłego;",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_3/lit_b",
+     "path": "art_33/lit_b",
      "text": "nie będzie pobierać podatków spadkowych ani podatków od przeniesienia prawa własności w odniesieniu do mienia ruchomego, które znajdowało się w Państwie przyjmującym jedynie w związku z przebywaniem w tym Państwie osoby zmarłej jako członka urzędu konsularnego.",
      "children": [
       {
@@ -1006,44 +1028,47 @@
       {
        "type": "text",
        "text": "Artykuł 35 Ubeapiseeenis „odko PPOR Środki transportu, będące własnością Państwa wysyłającego i przeznaczone na potrzeby urzędu konsularnego lub będące własnością członków urzędu konsularnego, podlegają obowiązkowemu ubezpieczeniu."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 36"
-      },
-      {
-       "type": "text",
-       "text": "Przywileje i immunitety członków rodziny"
-      },
-      {
-       "type": "text",
-       "text": "Członkowie rodziny członka urzędu konsularnego korzystają z przywilejów przewidzianych w art. 14, 26, 27 ust. 3, art. 29, 30, 31, 32 ust. 1 pkt b) i ust. 2, a także w art. 33 i 34 niniejszej konwencji, pod warunkiem że nie są obywatelami Państwa przyjmującego, nie mają w tym Państwie stałego miejsca pobytu i nie prowadzą w nim żadnej działalności zarobkowej."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 37"
-      },
-      {
-       "type": "text",
-       "text": "Wyłączenie od przywilejów i immunitetów"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 33"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Członkowie urzędu konsularnego, którzy są obywatelami Państwa przyjmującego lub mają stałe miejśce pobytu w tym Państwie, nie korzystają z przywilejów i immunitetów określonych w niniejszej konwencji, z wyjątkiem postanowień artykułu 27 ust. 3. |",
-   "children": []
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "Przywileje i immunitety członków rodziny",
+   "children": [
+    {
+     "type": "text",
+     "text": "Członkowie rodziny członka urzędu konsularnego korzystają z przywilejów przewidzianych w art. 14, 26, 27 ust. 3, art. 29, 30, 31, 32 ust. 1 pkt b) i ust. 2, a także w art. 33 i 34 niniejszej konwencji, pod warunkiem że nie są obywatelami Państwa przyjmującego, nie mają w tym Państwie stałego miejsca pobytu i nie prowadzą w nim żadnej działalności zarobkowej."
+    }
+   ],
+   "label": "Artykuł 36"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niemniej jednak Państwo przyjmujące powinno wykonywać jurysdykcję w stosunku do osób wymienionych w ust. 1 niniejszego artykułu w taki sposób, aby niepotrzebnie nie utrudniać wykonywania funkcji przez urząd konsularny.",
-   "children": []
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "Wyłączenie od przywilejów i immunitetów",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_37/ust_1",
+     "text": "Członkowie urzędu konsularnego, którzy są obywatelami Państwa przyjmującego lub mają stałe miejśce pobytu w tym Państwie, nie korzystają z przywilejów i immunitetów określonych w niniejszej konwencji, z wyjątkiem postanowień artykułu 27 ust. 3. |",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_37/ust_2",
+     "text": "Niemniej jednak Państwo przyjmujące powinno wykonywać jurysdykcję w stosunku do osób wymienionych w ust. 1 niniejszego artykułu w taki sposób, aby niepotrzebnie nie utrudniać wykonywania funkcji przez urząd konsularny.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 37"
   },
   {
    "type": "heading",
@@ -1051,81 +1076,86 @@
    "text": "FUNKCJE KONSULARNE"
   },
   {
-   "type": "text",
-   "text": "Artykuł 38"
-  },
-  {
-   "type": "text",
-   "text": "Zakres funkcji konsularnych"
-  },
-  {
-   "type": "text",
-   "text": "Urzędnik konsularny jest uprawniony do popierania we wszelkich formach rozwoju stosunków gospodarczych, handlowych, kulturalnych i naukowych oraz wymiany turystycznej między Państwem wysyłającym a Państwem przyjmującym, a także do przyczyniania się w każdy inny sposób do rozwoju przyjaznych stosunków między Państwem wysyłającym a Państwem przyjmującym oraz ochrony praw i interesów Państwa wysyłającego i jego obywateli."
-  },
-  {
-   "type": "text",
-   "text": "Porozumiewanie się z władzami Państwa przyjmującego sA]: Urzędnik konsularńy wykonuje funkcje konsularne w 'swóim okręgu konsularnym. Jednakże w wyjątkowych przypadkach może on. również, za zgodą Państwa przyjmującego, wykonywać swoje funkcje poza tym okręgiem. :"
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Przy wykonywaniu funkcji urzędnik konsularny może zwracać się do:",
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Zakres funkcji konsularnych",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "właściwych EP organów swojego okręgu konsularnego;",
-     "children": []
+     "type": "text",
+     "text": "Urzędnik konsularny jest uprawniony do popierania we wszelkich formach rozwoju stosunków gospodarczych, handlowych, kulturalnych i naukowych oraz wymiany turystycznej między Państwem wysyłającym a Państwem przyjmującym, a także do przyczyniania się w każdy inny sposób do rozwoju przyjaznych stosunków między Państwem wysyłającym a Państwem przyjmującym oraz ochrony praw i interesów Państwa wysyłającego i jego obywateli."
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "właściwych zaadojh organów Państwa przyjmującego, w zakresie, w jakim jest to dopuszczalne przez ustawy, inne przepisy i zwyczaje tego Państwa, a także, umowy międzynarodowe. -",
+     "type": "text",
+     "text": "Porozumiewanie się z władzami Państwa przyjmującego sA]: Urzędnik konsularńy wykonuje funkcje konsularne w 'swóim okręgu konsularnym. Jednakże w wyjątkowych przypadkach może on. również, za zgodą Państwa przyjmującego, wykonywać swoje funkcje poza tym okręgiem. :"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_38/ust_2",
+     "text": "Przy wykonywaniu funkcji urzędnik konsularny może zwracać się do:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 40 Reprezentowanie Państwa przy organizacjach międzynarodowych"
+       "type": "lit",
+       "num": "a",
+       "path": "art_38/ust_2/lit_a",
+       "text": "właściwych EP organów swojego okręgu konsularnego;",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "Urzędnik konsularny, po notyfikacji Państwu przyjmującemu, może działać jako przedstawiciel Państwa wysyłającego przy organizacjach międzynarodowych."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 41"
-      },
-      {
-       "type": "text",
-       "text": "Państwa Zastępowanie obywateli przed sądami przyjmującego"
+       "type": "lit",
+       "num": "b",
+       "path": "art_38/ust_2/lit_b",
+       "text": "właściwych zaadojh organów Państwa przyjmującego, w zakresie, w jakim jest to dopuszczalne przez ustawy, inne przepisy i zwyczaje tego Państwa, a także, umowy międzynarodowe. -",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 38"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Urzędnik konsularny ma prawo, zgodnie z praktyką i procedurą obowiązującą w Państwie przyjmującym, zastępować obywateli Państwa wysyłającego bądź zapewnić im odpowiednie zastępstwo przed sądami lub innymi organami Państwa przyjmującego i domagać się, zgodnie z ustawami i innymi przepisami Państwa przyjmującego, podjęcia tymczasowych środków dla ochrony praw i interesów obywateli Państwa wysyłającego, jeśli obywatele ci z powodu nieobecności lub jakiejkolwiek innej przyczyny nie są w stanie podjąć w odpowiednim czasie obrony swoich praw i interesów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zastępstwo, o którym mowa w ust. 1 niniejszego artykułu, ustaje z chwilą, gdy osoba zastępowana wyznaczy swojego pełnomocnika albo podejmie się osobiście obrony swoich praw i interesów.",
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "Reprezentowanie Państwa przy organizacjach międzynarodowych",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 42"
+     "text": "Urzędnik konsularny, po notyfikacji Państwu przyjmującemu, może działać jako przedstawiciel Państwa wysyłającego przy organizacjach międzynarodowych."
+    }
+   ],
+   "label": "Artykuł 40"
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Państwa Zastępowanie obywateli przed sądami przyjmującego",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_41/ust_1",
+     "text": "Urzędnik konsularny ma prawo, zgodnie z praktyką i procedurą obowiązującą w Państwie przyjmującym, zastępować obywateli Państwa wysyłającego bądź zapewnić im odpowiednie zastępstwo przed sądami lub innymi organami Państwa przyjmującego i domagać się, zgodnie z ustawami i innymi przepisami Państwa przyjmującego, podjęcia tymczasowych środków dla ochrony praw i interesów obywateli Państwa wysyłającego, jeśli obywatele ci z powodu nieobecności lub jakiejkolwiek innej przyczyny nie są w stanie podjąć w odpowiednim czasie obrony swoich praw i interesów.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Prowadzenie rejestru obywateli, wystawianie paszportów i wiz"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_41/ust_2",
+     "text": "Zastępstwo, o którym mowa w ust. 1 niniejszego artykułu, ustaje z chwilą, gdy osoba zastępowana wyznaczy swojego pełnomocnika albo podejmie się osobiście obrony swoich praw i interesów.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 41"
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Prowadzenie rejestru obywateli, wystawianie paszportów i wiz",
+   "children": [
     {
      "type": "text",
      "text": "Urzędnik konsularny ma prawo:"
@@ -1133,402 +1163,405 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_42/lit_a",
      "text": "prowadzić rejestr obywateli Państwa wysyłającego;",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_42/lit_b",
      "text": "wydawać obywatelom Państwa wysyłającego paszporty lub inne dokumenty, przedłużać ich ważność, dokonywać w nich innych zmian, a także unieważniać je;",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_42/lit_c",
      "text": "wydawać wizy. —",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 42"
+  },
+  {
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "Funkcje dotyczące aktów stanu cywilnego",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_43/ust_1",
+     "text": "Kierownik urzędu konsularnego ma prawo przyjmo- - wać oświadczenia o wstąpieniu w związek małżeński, pod",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 43"
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "Funkcje dotyczące aktów stanu cywilnego"
+       "text": "warunkiem że obie strony posiadają wyłącznie obywatelstwo Państwa wysyłającego. Urząd konsularny powiadamia właściwe organy Państwa przyjmującego o przyjęciu oświadczenia o wstąpieniu w związek małżeński, jeżeli jest to wymagane przez ustawodawstwo Państwa przyjmującego."
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Kierownik urzędu konsularnego ma prawo przyjmo- - wać oświadczenia o wstąpieniu w związek małżeński, pod",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "warunkiem że obie strony posiadają wyłącznie obywatelstwo Państwa wysyłającego. Urząd konsularny powiadamia właściwe organy Państwa przyjmującego o przyjęciu oświadczenia o wstąpieniu w związek małżeński, jeżeli jest to wymagane przez ustawodawstwo Państwa przyjmującego."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Urzędnik konsularny ma prawo prowadzić rejestr urodzeń, oświadczeń o wstąpieniu w związek małżeński i zgonów lub przyjmować zgłoszenia i dokumenty dotyczące urodzeń, oświadczeń o wstąpieniu w związek małżeński i zgonów obywateli Państwa wysyłającego oraz wydawać odpowiednie dokumenty. Postanowienie to nie zwalnia jednak obywateli Państwa wysyłającego od obowiązku przestrzegania ustawodawstwa Państwa przyjmującego w sprawie rejestracji urodzeń, oświadczeń o wstąpieniu w związek małżeński i zgonów.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy Państwa przyjmującego, na żądanie urzędu konsularnego, będą bezzwłocznie i nieodpłatnie przekazywać do celów urzędowych kopie i odpisy aktów stanu cywilnego, dotyczące obywateli Państwa wysyłającego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 44"
-    },
-    {
-     "type": "text",
-     "text": "Funkcje notarialne"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Urzędnik konsularny ma prawo:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "przyjmować, sporządzać i poświadczać oświadczenia obywateli Państwa wysyłającego;",
+     "type": "ust",
+     "num": "2",
+     "path": "art_43/ust_2",
+     "text": "Urzędnik konsularny ma prawo prowadzić rejestr urodzeń, oświadczeń o wstąpieniu w związek małżeński i zgonów lub przyjmować zgłoszenia i dokumenty dotyczące urodzeń, oświadczeń o wstąpieniu w związek małżeński i zgonów obywateli Państwa wysyłającego oraz wydawać odpowiednie dokumenty. Postanowienie to nie zwalnia jednak obywateli Państwa wysyłającego od obowiązku przestrzegania ustawodawstwa Państwa przyjmującego w sprawie rejestracji urodzeń, oświadczeń o wstąpieniu w związek małżeński i zgonów.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "przyjmować, sporządzać i poświadczać testamenty i inne dokumenty stwierdzające jednostronne czynności prawne obywateli Państwa wysyłającego, sporządzone zgodnie z ustawodawstwem tego Państwa;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "legalizować dokumenty i pieczęcie na dokumentach oraz uwierzytelniać własnoręczność podpisów obywateli Państwa wysyłającego;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_1/lit_d",
-     "text": "legalizować wszelkie dokumenty wydane przez organy Państwa wysyłającego lub Państwa przyjmującego oraz poświadczać kopie i odpisy tych dokumentów;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_1/lit_e",
-     "text": "tłumaczyć dokumenty i poświadczać zgodność tłumaczeń;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_1/lit_f",
-     "text": "sporządzać i poświadczać umowy zawierane między obywatelami Państwa wysyłającego, jeżeli nie dotyczą one ustanowienia, przeniesienia lub wygaśnięcia praw rzeczowych do nieruchomości znajdujących się w Państwie przyjmującym;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "g",
-     "path": "ust_1/lit_g",
-     "text": "sporządzać i uwierzytelniać umowy, bez względu na obywatelstwo stron, jeśli umowy te odnoszą się do mienia lub praw znajdujących się w Państwie wysyłającym i mają wywrzeć skutki prawne wyłącznie w tym Państwie;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "h",
-     "path": "ust_1/lit_h",
-     "text": "legalizować lub wydawać, zgodnie z ustawodawstwem Państwa wysyłającego, dokumenty dotyczące pochodzenia towarów oraz inne podobne dokumenty;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "i",
-     "path": "ust_1/lit_i",
-     "text": "ogłaszać w pomieszczeniach konsularnych zawiadomienia dotyczące wszelkich spraw z zakresu praw, obowiązków lub interesów obywateli Państwa wysyłającego.",
+     "type": "ust",
+     "num": "3",
+     "path": "art_43/ust_3",
+     "text": "Właściwe organy Państwa przyjmującego, na żądanie urzędu konsularnego, będą bezzwłocznie i nieodpłatnie przekazywać do celów urzędowych kopie i odpisy aktów stanu cywilnego, dotyczące obywateli Państwa wysyłającego.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 43"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Dokumenty wymienione w ust. 1 niniejszego artykułu, sporządzone, zalegalizowane lub poświadczone przez urzędnika konsularnego, są uważane za odpowiednio zalegalizowane dokumenty urzędowe, mające taką samą moc dowodową i wywierające takie same skutki prawne jak dokumenty zalegalizowane przez właściwe organy Państwa przyjmującego.",
+   "type": "art",
+   "num": "44",
+   "path": "art_44",
+   "text": "Funkcje notarialne",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 45"
+     "type": "ust",
+     "num": "1",
+     "path": "art_44/ust_1",
+     "text": "Urzędnik konsularny ma prawo:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_44/ust_1/lit_a",
+       "text": "przyjmować, sporządzać i poświadczać oświadczenia obywateli Państwa wysyłającego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_44/ust_1/lit_b",
+       "text": "przyjmować, sporządzać i poświadczać testamenty i inne dokumenty stwierdzające jednostronne czynności prawne obywateli Państwa wysyłającego, sporządzone zgodnie z ustawodawstwem tego Państwa;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_44/ust_1/lit_c",
+       "text": "legalizować dokumenty i pieczęcie na dokumentach oraz uwierzytelniać własnoręczność podpisów obywateli Państwa wysyłającego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_44/ust_1/lit_d",
+       "text": "legalizować wszelkie dokumenty wydane przez organy Państwa wysyłającego lub Państwa przyjmującego oraz poświadczać kopie i odpisy tych dokumentów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_44/ust_1/lit_e",
+       "text": "tłumaczyć dokumenty i poświadczać zgodność tłumaczeń;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_44/ust_1/lit_f",
+       "text": "sporządzać i poświadczać umowy zawierane między obywatelami Państwa wysyłającego, jeżeli nie dotyczą one ustanowienia, przeniesienia lub wygaśnięcia praw rzeczowych do nieruchomości znajdujących się w Państwie przyjmującym;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_44/ust_1/lit_g",
+       "text": "sporządzać i uwierzytelniać umowy, bez względu na obywatelstwo stron, jeśli umowy te odnoszą się do mienia lub praw znajdujących się w Państwie wysyłającym i mają wywrzeć skutki prawne wyłącznie w tym Państwie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_44/ust_1/lit_h",
+       "text": "legalizować lub wydawać, zgodnie z ustawodawstwem Państwa wysyłającego, dokumenty dotyczące pochodzenia towarów oraz inne podobne dokumenty;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_44/ust_1/lit_i",
+       "text": "ogłaszać w pomieszczeniach konsularnych zawiadomienia dotyczące wszelkich spraw z zakresu praw, obowiązków lub interesów obywateli Państwa wysyłającego.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Przyjmowanie depozytów"
+     "type": "ust",
+     "num": "2",
+     "path": "art_44/ust_2",
+     "text": "Dokumenty wymienione w ust. 1 niniejszego artykułu, sporządzone, zalegalizowane lub poświadczone przez urzędnika konsularnego, są uważane za odpowiednio zalegalizowane dokumenty urzędowe, mające taką samą moc dowodową i wywierające takie same skutki prawne jak dokumenty zalegalizowane przez właściwe organy Państwa przyjmującego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 44"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Urzędnik konsularny ma prawo przyjmować do depozytu dokumenty, pieniądze i przedmioty wartościowe, powierzone przez obywateli Państwa wysyłającego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Urzędnik konsularny ma również prawo otrzymywać, w celu przekazania właścicielowi, przedmioty zagubione przez obywateli Państwa wysyłającego podczas pobytu w Państwie przyjmującym.",
+   "type": "art",
+   "num": "45",
+   "path": "art_45",
+   "text": "Przyjmowanie depozytów",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 46"
+     "type": "ust",
+     "num": "1",
+     "path": "art_45/ust_1",
+     "text": "Urzędnik konsularny ma prawo przyjmować do depozytu dokumenty, pieniądze i przedmioty wartościowe, powierzone przez obywateli Państwa wysyłającego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Opieka i kuratela"
+     "type": "ust",
+     "num": "2",
+     "path": "art_45/ust_2",
+     "text": "Urzędnik konsularny ma również prawo otrzymywać, w celu przekazania właścicielowi, przedmioty zagubione przez obywateli Państwa wysyłającego podczas pobytu w Państwie przyjmującym.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 45"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Państwa przyjmującego powiadomią urzędnika konsularnego o potrzebie ustanowienia opieki lub kurateli nad niepełnoletnim lub mającym ograniczoną zdolność do czynności prawnych obywatelem Państwa wysyłającego bądź o potrzebie ochrony mienia znajdującego się w Państwie przyjmującym, którym — niezależnie od przyczyny — obywatel Państwa wysyłającego nie jest w stanie zarządzać.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Urzędnik konsularny może porozumiewać się z właściwymi organami Państwa przyjmującego oraz z obywatelami Państwa wysyłającego w sprawach wymienionych w ust. 1 niniejszego artykułu, a w szczególności proponować osoby na opiekuna lub kuratora.",
+   "type": "art",
+   "num": "46",
+   "path": "art_46",
+   "text": "Opieka i kuratela",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 47"
+     "type": "ust",
+     "num": "1",
+     "path": "art_46/ust_1",
+     "text": "Właściwe organy Państwa przyjmującego powiadomią urzędnika konsularnego o potrzebie ustanowienia opieki lub kurateli nad niepełnoletnim lub mającym ograniczoną zdolność do czynności prawnych obywatelem Państwa wysyłającego bądź o potrzebie ochrony mienia znajdującego się w Państwie przyjmującym, którym — niezależnie od przyczyny — obywatel Państwa wysyłającego nie jest w stanie zarządzać.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Porozumiewanie się z obywatelami Państwa wysyłającego"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_46/ust_2",
+     "text": "Urzędnik konsularny może porozumiewać się z właściwymi organami Państwa przyjmującego oraz z obywatelami Państwa wysyłającego w sprawach wymienionych w ust. 1 niniejszego artykułu, a w szczególności proponować osoby na opiekuna lub kuratora.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 46"
+  },
+  {
+   "type": "art",
+   "num": "47",
+   "path": "art_47",
+   "text": "Porozumiewanie się z obywatelami Państwa wysyłającego",
+   "children": [
     {
      "type": "text",
      "text": "Urzędnik konsularny ma prawo porozumiewać się z każdym obywatelem Państwa wysyłającego, udzielać mu porad i wszelkiej pomocy, a w razie konieczności zapewnić mu pomoc prawną. Państwo przyjmujące nie będzie w żaden sposób ograniczać możliwości porozumiewania się obywatela Państwa wysyłającego z urzędem konsularnym ani ograniczać dostępu do tego urzędu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 48"
-    },
-    {
-     "type": "text",
-     "text": "Porozumiewanie się z obywatelami pozbawionymi wolności"
     }
-   ]
+   ],
+   "label": "Artykuł 47"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Państwa przyjmującego powiadomią urzędnika konsularnego bezzwłocznie, to jest nie później niż w ciągu trzech dni, o każdym mającym miejsce w jego okręgu konsularnym przypadku aresztowania, zatrzymania lub pozbawienia wolności w innej formie obywatela Państwa wysyłającego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Urzędnik konsularny ma prawo odwiedzania i porozumiewania się z obywatelem Państwa wysyłającego, który",
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "Porozumiewanie się z obywatelami pozbawionymi wolności",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_48/ust_1",
+     "text": "Właściwe organy Państwa przyjmującego powiadomią urzędnika konsularnego bezzwłocznie, to jest nie później niż w ciągu trzech dni, o każdym mającym miejsce w jego okręgu konsularnym przypadku aresztowania, zatrzymania lub pozbawienia wolności w innej formie obywatela Państwa wysyłającego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "jest aresztowany, podlega jakiejkołwiek formie ograniczenia wolności lub odbywa karę pozbawienia wolności oraz, jeśli zachodzi potrzeba, zapewnienia mu pomocy prawnej. Prawo odwiedzania i porozumiewania się jest przyznawane okresowo i będzie mogło być wykonywane w możliwie najkrótszym czasie, a w każdym razie nie później niż w ciągu czterech dni od daty aresztowania lub ograniczenia wolności osobistej."
+     "type": "ust",
+     "num": "2",
+     "path": "art_48/ust_2",
+     "text": "Urzędnik konsularny ma prawo odwiedzania i porozumiewania się z obywatelem Państwa wysyłającego, który",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jest aresztowany, podlega jakiejkołwiek formie ograniczenia wolności lub odbywa karę pozbawienia wolności oraz, jeśli zachodzi potrzeba, zapewnienia mu pomocy prawnej. Prawo odwiedzania i porozumiewania się jest przyznawane okresowo i będzie mogło być wykonywane w możliwie najkrótszym czasie, a w każdym razie nie później niż w ciągu czterech dni od daty aresztowania lub ograniczenia wolności osobistej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_48/ust_3",
+     "text": "Właściwe organy Państwa przyjmującego będą informować zainteresowane osoby o możliwości porozumiewania się z urzędem konsularnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_48/ust_4",
+     "text": "Wizyty wymienione w ust. 2 i 3 niniejszego artykułu będą się odbywały zgodnie z ustawami i innymi przepisami Państwa przyjmującego. Rozumie się, że te ustawy i inne przepisy nie mogą utrudniać wykonywania wymienionych funkcji konsularnych.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 48"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Właściwe organy Państwa przyjmującego będą informować zainteresowane osoby o możliwości porozumiewania się z urzędem konsularnym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Wizyty wymienione w ust. 2 i 3 niniejszego artykułu będą się odbywały zgodnie z ustawami i innymi przepisami Państwa przyjmującego. Rozumie się, że te ustawy i inne przepisy nie mogą utrudniać wykonywania wymienionych funkcji konsularnych.",
+   "type": "art",
+   "num": "49",
+   "path": "art_49",
+   "text": "Wypadki drogowe",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 49"
-    },
-    {
-     "type": "text",
-     "text": "Wypadki drogowe"
-    },
     {
      "type": "text",
      "text": "Właściwe organy Państwa przyjmującego powiadomią bezzwłocznie urzędnika konsularnego o wszystkich poważnych wypadkach drogowych obywateli Państwa wysyłającego. Na wniosek urzędu konsularnego organy te udostępnią dokumenty dotyczące wypadku drogowego, w którym uczestniczył obywatel Państwa wysyłającego."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 50"
-    },
-    {
-     "type": "text",
-     "text": "Zgon obywatela"
-    },
+    }
+   ],
+   "label": "Artykuł 49"
+  },
+  {
+   "type": "art",
+   "num": "50",
+   "path": "art_50",
+   "text": "Zgon obywatela",
+   "children": [
     {
      "type": "text",
      "text": "Właściwe organy Państwa przyjmującego powiadomią niezwłocznie urzędnika konsularnego o zgonie obywatela Państwa wysyłającego. Na wniosek urzędu konsularnego organy te przekażą mu bezpłatnie odpis aktu zgonu lub innego dokumentu stwierdzającego zgon."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 51"
-    },
-    {
-     "type": "text",
-     "text": "Spadek"
     }
-   ]
+   ],
+   "label": "Artykuł 50"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Właściwe organy Państwa przyjmującego powiadomią niezwłocznie urzędnika konsularnego o otwarciu w tym Państwie spadku po obywatelu Państwa wysyłającego, a także — niezależnie od obywatelstwa osoby zmarłej — o otwarciu spadku, którym obywatel Państwa wysyłającego może być zainteresowany w charakterze spadkobiercy, uprawnionego lub zapisobiercy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Właściwe organy Państwa przyjmującego podejmą odpowiednie środki przewidziane w ustawach i innych przepisach tego Państwa dla ochrony spadku i przekazania urzędnikowi konsularnemu odpisu testamentu, jeżeli został on sporządzony, oraz wszelkich informacji, jakimi dysponują, dotyczących uprawnionych, ich miejsca zamieszkania i miejsca pobytu, wartości i składników masy spadkowej, w tym także kwot pochodzących z tytułu ubezpieczeń społecznych i polis ubezpieczeniowych. Powiadomią także o dacie rozpoczęcia postępowania spadkowego lub o stadium, w jakim ono się znajduje.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Urzędnik konsularny ma prawo, bez potrzeby przedstawienia pełnomocnictwa, do reprezentowania, bezpośrednio lub za pośrednictwem swego przedstawiciela, przed sądami i innymi właściwymi organami Państwa przyjmującego obywatela Państwa wysyłającego, uprawnionego do spadku lub mającego roszczenia do spadku w Państwie przyjmującym, jeżeli jest on nieobecny lub nie ustanowił innego pełnomocnika.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Urzędnik konsularny ma prawo domagać się od właściwych organów Państwa przyjmującego:",
+   "type": "art",
+   "num": "51",
+   "path": "art_51",
+   "text": "Spadek",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_4/lit_a",
-     "text": "zabezpieczenia spadku, nałożenia i zdjęcia pieczęci, wyznaczenia administratora spadku, a także udziału w wymienionych czynnościach;",
+     "type": "ust",
+     "num": "1",
+     "path": "art_51/ust_1",
+     "text": "Właściwe organy Państwa przyjmującego powiadomią niezwłocznie urzędnika konsularnego o otwarciu w tym Państwie spadku po obywatelu Państwa wysyłającego, a także — niezależnie od obywatelstwa osoby zmarłej — o otwarciu spadku, którym obywatel Państwa wysyłającego może być zainteresowany w charakterze spadkobiercy, uprawnionego lub zapisobiercy.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_4/lit_b",
-     "text": "sprzedaży mienia należącego do spadku, a także powiadomienia go o ustalonej dacie tej sprzedaży, aby mógł być przy niej obecny.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_51/ust_2",
+     "text": "Właściwe organy Państwa przyjmującego podejmą odpowiednie środki przewidziane w ustawach i innych przepisach tego Państwa dla ochrony spadku i przekazania urzędnikowi konsularnemu odpisu testamentu, jeżeli został on sporządzony, oraz wszelkich informacji, jakimi dysponują, dotyczących uprawnionych, ich miejsca zamieszkania i miejsca pobytu, wartości i składników masy spadkowej, w tym także kwot pochodzących z tytułu ubezpieczeń społecznych i polis ubezpieczeniowych. Powiadomią także o dacie rozpoczęcia postępowania spadkowego lub o stadium, w jakim ono się znajduje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_51/ust_3",
+     "text": "Urzędnik konsularny ma prawo, bez potrzeby przedstawienia pełnomocnictwa, do reprezentowania, bezpośrednio lub za pośrednictwem swego przedstawiciela, przed sądami i innymi właściwymi organami Państwa przyjmującego obywatela Państwa wysyłającego, uprawnionego do spadku lub mającego roszczenia do spadku w Państwie przyjmującym, jeżeli jest on nieobecny lub nie ustanowił innego pełnomocnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_51/ust_4",
+     "text": "Urzędnik konsularny ma prawo domagać się od właściwych organów Państwa przyjmującego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_51/ust_4/lit_a",
+       "text": "zabezpieczenia spadku, nałożenia i zdjęcia pieczęci, wyznaczenia administratora spadku, a także udziału w wymienionych czynnościach;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_51/ust_4/lit_b",
+       "text": "sprzedaży mienia należącego do spadku, a także powiadomienia go o ustalonej dacie tej sprzedaży, aby mógł być przy niej obecny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_51/ust_5",
+     "text": "Z chwilą zakończenia postępowania spadkowego lub innych czynności urzędowych właściwe organy Państwa przyjmującego powiadomią o tym niezwłocznie urzędnika konsularnego i po uregulowaniu długów, opłat i podatków w ciągu trzech miesięcy przekażą mu spadek lub udziały spadkowe osób, które reprezentuje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_51/ust_6",
+     "text": "Jeżeli wartość spadku jest niewielka, urzędnik konsularny będzie mógł się domagać wydania mu mienia należącego do spadku. Będzie on mógł wówczas przekazać to mienie zainteresowanym osobom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_51/ust_7",
+     "text": "Urzędnik konsularny ma prawo otrzymywać, w celu przekazania osobom uprawnionym, udziałów spadkowych i zapisów przypadających obywatelom Państwa wysyłającego, nie mającym stałego miejsca pobytu w Państwie przyjmującym, oraz otrzymywać kwoty, które przypadają uprawnionym z tytułu odszkodowań, rent, ubezpieczeń społecznych, zaległych zarobków i polis ubezpieczeniowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_51/ust_8",
+     "text": "Jeżeli obywatel Państwa wysyłającego, nie posiadający stałego miejsca pobytu w Państwie przyjmującym, zmarł w czasie pobytu w tym Państwie, to mienie pozostałe po nim zostanie zabezpieczone przez właściwe organy Państwa przyjmującego, a następnie przekazane, bez specjalnego postępowania, urzędnikowi konsularnemu Państwa wysyłającego. Urzędnik konsularny spłaci długi zaciągnięte przez osobę zmarłą w czasie jej przebywania w Państwie przyjmującym do wysokości wartości przekazanego mienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_51/ust_9",
+     "text": "Przekazanie mienia i należności do Państwa wysyłającego stosownie do postanowień ust. 5, 6, 7 i 8 niniejszego artykułu może być dokonane jedynie zgodnie z ustawodawstwem Państwa przyjmującego.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 51"
   },
   {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Z chwilą zakończenia postępowania spadkowego lub innych czynności urzędowych właściwe organy Państwa przyjmującego powiadomią o tym niezwłocznie urzędnika konsularnego i po uregulowaniu długów, opłat i podatków w ciągu trzech miesięcy przekażą mu spadek lub udziały spadkowe osób, które reprezentuje.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Jeżeli wartość spadku jest niewielka, urzędnik konsularny będzie mógł się domagać wydania mu mienia należącego do spadku. Będzie on mógł wówczas przekazać to mienie zainteresowanym osobom.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "7",
-   "path": "ust_7",
-   "text": "Urzędnik konsularny ma prawo otrzymywać, w celu przekazania osobom uprawnionym, udziałów spadkowych i zapisów przypadających obywatelom Państwa wysyłającego, nie mającym stałego miejsca pobytu w Państwie przyjmującym, oraz otrzymywać kwoty, które przypadają uprawnionym z tytułu odszkodowań, rent, ubezpieczeń społecznych, zaległych zarobków i polis ubezpieczeniowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "8",
-   "path": "ust_8",
-   "text": "Jeżeli obywatel Państwa wysyłającego, nie posiadający stałego miejsca pobytu w Państwie przyjmującym, zmarł w czasie pobytu w tym Państwie, to mienie pozostałe po nim zostanie zabezpieczone przez właściwe organy Państwa przyjmującego, a następnie przekazane, bez specjalnego postępowania, urzędnikowi konsularnemu Państwa wysyłającego. Urzędnik konsularny spłaci długi zaciągnięte przez osobę zmarłą w czasie jej przebywania w Państwie przyjmującym do wysokości wartości przekazanego mienia.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "9",
-   "path": "ust_9",
-   "text": "Przekazanie mienia i należności do Państwa wysyłającego stosownie do postanowień ust. 5, 6, 7 i 8 niniejszego artykułu może być dokonane jedynie zgodnie z ustawodawstwem Państwa przyjmującego.",
+   "type": "art",
+   "num": "52",
+   "path": "art_52",
+   "text": "Opieka nad statkami",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 52"
+     "type": "ust",
+     "num": "1",
+     "path": "art_52/ust_1",
+     "text": "Urzędnik konsularny ma prawo udzielać wszelkiej pomocy przewidzianej w niniejszej konwencji statkom Państwa wysyłającego i ich załogom podczas pobytu w portach, na wodach terytorialnych lub wewnętrznych Państwa przyjmującego od momentu dokonania odprawy tych statków, związanej z ich wejściem. Może on korzystać z prawa nadzoru i inspekcji statków Państwa wysyłającego oraz ich załóg. W tym celu może on odwiedzać statki Państwa wysyłającego oraz przyjmować wizyty kapitanów i innych członków załóg.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Opieka nad statkami"
+     "type": "ust",
+     "num": "2",
+     "path": "art_52/ust_2",
+     "text": "Urzędnik konsularny może zwracać się o pomoc do właściwych organów Państwa przyjmującego przy wykonywaniu wszelkich czynności odnoszących się do statku Państwa wysyłającego, kapitana i innych członków załogi statku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 52"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Urzędnik konsularny ma prawo udzielać wszelkiej pomocy przewidzianej w niniejszej konwencji statkom Państwa wysyłającego i ich załogom podczas pobytu w portach, na wodach terytorialnych lub wewnętrznych Państwa przyjmującego od momentu dokonania odprawy tych statków, związanej z ich wejściem. Może on korzystać z prawa nadzoru i inspekcji statków Państwa wysyłającego oraz ich załóg. W tym celu może on odwiedzać statki Państwa wysyłającego oraz przyjmować wizyty kapitanów i innych członków załóg.",
+   "type": "art",
+   "num": "53",
+   "path": "art_53",
+   "text": "Uprawnienia urzędnika konsularnego wobec statków i ich załóg",
    "children": [
-    {
-     "type": "note",
-     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Urzędnik konsularny może zwracać się o pomoc do właściwych organów Państwa przyjmującego przy wykonywaniu wszelkich czynności odnoszących się do statku Państwa wysyłającego, kapitana i innych członków załogi statku.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 53"
-    },
-    {
-     "type": "text",
-     "text": "Uprawnienia urzędnika konsularnego wobec statków i ich załóg"
-    },
     {
      "type": "text",
      "text": "Urzędnik konsularny ma prawo w stosunku do statków Państwa wysyłającego:"
@@ -1536,7 +1569,7 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_53/lit_a",
      "text": "bez uszczerbku dla uprawnień organów Państwa przyjmującego przesłuchiwać kapitana lub innego członka załogi statku, sprawdzać, przyjmować, poświadczać, sporządzać lub podpisywać wszelkie zaświadczenia bądź inne dokumenty dotyczące statku, przyjmować oświadczenia odnoszące się do statku, ładunku i podróży, a także wydawać dokumenty niezbędne do ułatwienia wejścia, postoju i wyjścia statku; b pośredniczyć w uregulowaniu lub ułatwieniu uregulo-",
      "children": [
       {
@@ -1558,168 +1591,172 @@
       {
        "type": "text",
        "text": "— dyscypliny i porządku na pokładzie statku."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 54"
-      },
-      {
-       "type": "text",
-       "text": "Interwencje organów państwa przyjmującego na pokładzie statku"
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 53"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli sąd lub inny organ Państwa przyjmującego zamierza aresztować lub zatrzymać na pokładzie statku Państwa wysyłającego kapitana, innego członka załogi, pasażera tego statku lub inną osobę, która nie jest obywatelem Państwa przyjmującego, lub zająć mienie znajdujące się na pokładzie statku albo przeprowadzić na pokładzie urzędowe dochodzenie, to właściwy organ Państwa przyjmującego powiadamia o tym wcześniej urzędnika konsularnego, aby mógł on być obecny przy dokonywaniu tych czynności. Jeżeli na skutek pilności sprawy uprzednie powiadomienie urzędnika konsularnego jest niemożliwe lub jeżeli nie był on obecny przy wykonywaniu wymienionych czynności, to organy Państwa przyjmującego poinformują urzędnika konsularnego niezwłocznie i wyczerpująco o podjętych działaniach. Właściwe organy Państwa przyjmującego ułatwią urzędnikowi konsularnemu widzenie się z osobą aresztowaną lub zatrzymaną, a także porozumiewanie się z taką osobą oraz podjęcie właściwych kroków w celu ochrony interesów zainteresowanej osoby lub statku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Postanowień ust. 1 niniejszego artykułu nie stosuje się do zwykłej kontroli przeprowadzanej przez organy Państwa przyjmującego w sprawach paszportowych, celnych, zdrowia publicznego, zanieczyszczeń morza i bezpieczeństwa życia na morzu albo też do wszelkiej czynności podjętej na prośbę lub za zgodą kapitana statku.",
+   "type": "art",
+   "num": "54",
+   "path": "art_54",
+   "text": "Interwencje organów państwa przyjmującego na pokładzie statku",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 55"
+     "type": "ust",
+     "num": "1",
+     "path": "art_54/ust_1",
+     "text": "Jeżeli sąd lub inny organ Państwa przyjmującego zamierza aresztować lub zatrzymać na pokładzie statku Państwa wysyłającego kapitana, innego członka załogi, pasażera tego statku lub inną osobę, która nie jest obywatelem Państwa przyjmującego, lub zająć mienie znajdujące się na pokładzie statku albo przeprowadzić na pokładzie urzędowe dochodzenie, to właściwy organ Państwa przyjmującego powiadamia o tym wcześniej urzędnika konsularnego, aby mógł on być obecny przy dokonywaniu tych czynności. Jeżeli na skutek pilności sprawy uprzednie powiadomienie urzędnika konsularnego jest niemożliwe lub jeżeli nie był on obecny przy wykonywaniu wymienionych czynności, to organy Państwa przyjmującego poinformują urzędnika konsularnego niezwłocznie i wyczerpująco o podjętych działaniach. Właściwe organy Państwa przyjmującego ułatwią urzędnikowi konsularnemu widzenie się z osobą aresztowaną lub zatrzymaną, a także porozumiewanie się z taką osobą oraz podjęcie właściwych kroków w celu ochrony interesów zainteresowanej osoby lub statku.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Awaria lub zatonięcie statku"
+     "type": "ust",
+     "num": "2",
+     "path": "art_54/ust_2",
+     "text": "Postanowień ust. 1 niniejszego artykułu nie stosuje się do zwykłej kontroli przeprowadzanej przez organy Państwa przyjmującego w sprawach paszportowych, celnych, zdrowia publicznego, zanieczyszczeń morza i bezpieczeństwa życia na morzu albo też do wszelkiej czynności podjętej na prośbę lub za zgodą kapitana statku.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 54"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli statek Państwa wysyłającego zatonął, uległ uszkodzeniu, osiadł na mieliźnie, został wyrzucony na brzeg lub doznał innej awarii na wodach terytorialnych lub wewnętrznych Państwa przyjmującego, łącznie z portami, to właściwe organy tego Państwa poinformują o tym niezwłocznie urzędnika konsularnego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadkach wymienionych w ust. 1 niniejszego artykułu właściwe organy Państwa przyjmującego podejmą, zgodnie ze swoim ustawodawstwem, niezbędne środki w celu ratowania i ochrony statku, pasażerów, załogi, wyposażenia, ładunku, zapasów i innych przedmiotów znajdujących się na pokładzie, a także w celu zapobieżenia naruszeniu własności i nieporządkom na statku oraz ich zlikwidowania. Środki te zostaną podjęte także w stosunku do przedmiotów stanowiących część statku lub jego ładunku, które znalazły się poza statkiem. Organy Państwa przyjmującego powiadomią urzędnika konsularnego o podjętych środkach. Organy te udzielą urzędnikowi konsularnemu pomocy w celu podjęcia wszelkich kroków będących następstwem awarii, osadzenia na mieliźnie lub zatonięcia statku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "W razie gdy statek Państwa wysyłającego zatonie, a jego wyposażenie, ładunek, zapasy lub inne przedmioty, które znajdowały się na pokładzie, zostaną znalezione na brzegu Państwa przyjmującego lub w jego pobliżu albo zostaną sprowadzone do portu tego Państwa i ani kapitan statku, ani jego pełnomocnik, ani agent morski, ani też przedstawiciele ubezpieczenia nie są obecni lub nie mogą podjąć kroków w celu zabezpieczenia lub zarządzenia tym mieniem, to urzędnik konsularny jest upoważniony, w charakterze przedstawiciela właściciela statku, do podjęcia takich środków, jakie mógłby podjąć w tym samym celu właściciel, gdyby był obecny.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Urzędnik konsularny może również podjąć środki przewidziane w ust. 3 niniejszego artykułu w odniesieniu do każdego przedmiotu należącego do obywatela Państwa wysyłającego i pochodzącego z pokładu lub z ładunku statku, bez względu na jego przynależność państwową, sprowadzonego do portu lub znalezionego na brzegu, w pobliżu brzegu albo na statku, który uległ awarii, osiadł na mieliźnie lub zatonął. Właściwe organy Państwa przyjmującego powiadomią niezwłocznie urzędnika konsularnego o istnieniu takiego przedmiotu.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Urzędnik konsularny ma prawo, zgodnie z ustawami i innymi przepisami Państwa przyjmującego, uczestniczyć w dochodzeniu wszczętym w celu ustalenia przyczyn awarii, osadzenia na mieliźnie lub zatonięcia statku.",
+   "type": "art",
+   "num": "55",
+   "path": "art_55",
+   "text": "Awaria lub zatonięcie statku",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 56 Śmierć lub zaginięcie członka załogi:"
+     "type": "ust",
+     "num": "1",
+     "path": "art_55/ust_1",
+     "text": "Jeżeli statek Państwa wysyłającego zatonął, uległ uszkodzeniu, osiadł na mieliźnie, został wyrzucony na brzeg lub doznał innej awarii na wodach terytorialnych lub wewnętrznych Państwa przyjmującego, łącznie z portami, to właściwe organy tego Państwa poinformują o tym niezwłocznie urzędnika konsularnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_55/ust_2",
+     "text": "W przypadkach wymienionych w ust. 1 niniejszego artykułu właściwe organy Państwa przyjmującego podejmą, zgodnie ze swoim ustawodawstwem, niezbędne środki w celu ratowania i ochrony statku, pasażerów, załogi, wyposażenia, ładunku, zapasów i innych przedmiotów znajdujących się na pokładzie, a także w celu zapobieżenia naruszeniu własności i nieporządkom na statku oraz ich zlikwidowania. Środki te zostaną podjęte także w stosunku do przedmiotów stanowiących część statku lub jego ładunku, które znalazły się poza statkiem. Organy Państwa przyjmującego powiadomią urzędnika konsularnego o podjętych środkach. Organy te udzielą urzędnikowi konsularnemu pomocy w celu podjęcia wszelkich kroków będących następstwem awarii, osadzenia na mieliźnie lub zatonięcia statku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_55/ust_3",
+     "text": "W razie gdy statek Państwa wysyłającego zatonie, a jego wyposażenie, ładunek, zapasy lub inne przedmioty, które znajdowały się na pokładzie, zostaną znalezione na brzegu Państwa przyjmującego lub w jego pobliżu albo zostaną sprowadzone do portu tego Państwa i ani kapitan statku, ani jego pełnomocnik, ani agent morski, ani też przedstawiciele ubezpieczenia nie są obecni lub nie mogą podjąć kroków w celu zabezpieczenia lub zarządzenia tym mieniem, to urzędnik konsularny jest upoważniony, w charakterze przedstawiciela właściciela statku, do podjęcia takich środków, jakie mógłby podjąć w tym samym celu właściciel, gdyby był obecny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_55/ust_4",
+     "text": "Urzędnik konsularny może również podjąć środki przewidziane w ust. 3 niniejszego artykułu w odniesieniu do każdego przedmiotu należącego do obywatela Państwa wysyłającego i pochodzącego z pokładu lub z ładunku statku, bez względu na jego przynależność państwową, sprowadzonego do portu lub znalezionego na brzegu, w pobliżu brzegu albo na statku, który uległ awarii, osiadł na mieliźnie lub zatonął. Właściwe organy Państwa przyjmującego powiadomią niezwłocznie urzędnika konsularnego o istnieniu takiego przedmiotu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_55/ust_5",
+     "text": "Urzędnik konsularny ma prawo, zgodnie z ustawami i innymi przepisami Państwa przyjmującego, uczestniczyć w dochodzeniu wszczętym w celu ustalenia przyczyn awarii, osadzenia na mieliźnie lub zatonięcia statku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Artykuł 56 Śmierć lub zaginięcie członka załogi:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_55/ust_1",
+     "text": "Jeżeli kapitan lub inny członek załogi statku Państwa wysyłającego zmarł lub zaginął w Państwie przyjmującym",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik ‘Ustaw Nr 29 —"
+      },
+      {
+       "type": "text",
+       "text": "na statku lub na lądzie, to kapitan lub jego zastępca oraz urzędnik konsularny Państwa: wysyłającego są wyłącznie kompetentni do sporządzenia spisu: inwentarza przedmiotów, walorów i innego mienia, pozostawionych przez zmarłego lub zaginionego, i do dokonania innych: czynności koniecznych do zabezpieczenia mienia i jego przekazania w celu likwidacji spadku. Jeżeli zmarły lub zaginiony jest obywatelem Państwa przyjmującego, to kapitan lub jego zastępca sporządza spis inwentarza w momencie stwierdzenia zgonu lub zaginięcia. Kopia tego spisu jest doręczana organom Państwa przyjmującego, „które. są właściwe do dokonywania wszelkich czynności koniecznych do zabezpieczenia mienia, a w razie potrzeby — do likwidacji spadku. Organy: te powiadomią o. swych czynnościach urząd konsularny Państwa wysyłającego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_55/ust_2",
+     "text": "Jeżeli urzędnik konsularny wykonuje czynności w sprawach spadkowych określone w ust. 1 niniejszego artykułu, to ma on obowiązek przestrzegania ustaw i innych przepisów Państwa przyjmującego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "_ Artykuł 57"
+      },
+      {
+       "type": "text",
+       "text": "Statki powietrzne"
+      },
+      {
+       "type": "text",
+       "text": "Postanowienia artykułów 52—56 niniejszej konwencji stosuje się odpowiednio do statków powietrznych Państwa wysyłającego, pod warunkiem że ich zastosowanie nie będzie naruszać postanowień innych umów dwustronnych lub wielostronnych w sprawach lotniczych, które obowiązują między Umawiającymi się Stronami."
+      }
+     ]
     }
-   ]
+   ],
+   "label": "Artykuł 55"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli kapitan lub inny członek załogi statku Państwa wysyłającego zmarł lub zaginął w Państwie przyjmującym",
+   "type": "art",
+   "num": "58",
+   "path": "art_58",
+   "text": "Należności i opłaty konsularne",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_58/ust_1",
+     "text": "Urząd konsularny może pobierać na terytorium Państwa przyjmującego za dokonane czynności konsularne opłaty oraz inne należności, zgodnie z ustawami i innymi przepisami Państwa wysyłającego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Dziennik ‘Ustaw Nr 29 —"
-    },
-    {
-     "type": "text",
-     "text": "na statku lub na lądzie, to kapitan lub jego zastępca oraz urzędnik konsularny Państwa: wysyłającego są wyłącznie kompetentni do sporządzenia spisu: inwentarza przedmiotów, walorów i innego mienia, pozostawionych przez zmarłego lub zaginionego, i do dokonania innych: czynności koniecznych do zabezpieczenia mienia i jego przekazania w celu likwidacji spadku. Jeżeli zmarły lub zaginiony jest obywatelem Państwa przyjmującego, to kapitan lub jego zastępca sporządza spis inwentarza w momencie stwierdzenia zgonu lub zaginięcia. Kopia tego spisu jest doręczana organom Państwa przyjmującego, „które. są właściwe do dokonywania wszelkich czynności koniecznych do zabezpieczenia mienia, a w razie potrzeby — do likwidacji spadku. Organy: te powiadomią o. swych czynnościach urząd konsularny Państwa wysyłającego."
+     "type": "ust",
+     "num": "2",
+     "path": "art_58/ust_2",
+     "text": "Kwoty pobierane z tytułu czynności konsularnych, wymienione w ust. 1 niniejszego artykułu, są wolne od wszelkich podatków i opłat Państwa przyjmującego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 58"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli urzędnik konsularny wykonuje czynności w sprawach spadkowych określone w ust. 1 niniejszego artykułu, to ma on obowiązek przestrzegania ustaw i innych przepisów Państwa przyjmującego.",
+   "type": "art",
+   "num": "59",
+   "path": "art_59",
+   "text": "Przekazywanie dokumentów",
    "children": [
-    {
-     "type": "text",
-     "text": "_ Artykuł 57"
-    },
-    {
-     "type": "text",
-     "text": "Statki powietrzne"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia artykułów 52—56 niniejszej konwencji stosuje się odpowiednio do statków powietrznych Państwa wysyłającego, pod warunkiem że ich zastosowanie nie będzie naruszać postanowień innych umów dwustronnych lub wielostronnych w sprawach lotniczych, które obowiązują między Umawiającymi się Stronami."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 58"
-    },
-    {
-     "type": "text",
-     "text": "Należności i opłaty konsularne"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Urząd konsularny może pobierać na terytorium Państwa przyjmującego za dokonane czynności konsularne opłaty oraz inne należności, zgodnie z ustawami i innymi przepisami Państwa wysyłającego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Kwoty pobierane z tytułu czynności konsularnych, wymienione w ust. 1 niniejszego artykułu, są wolne od wszelkich podatków i opłat Państwa przyjmującego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 59"
-    },
-    {
-     "type": "text",
-     "text": "Przekazywanie dokumentów"
-    },
     {
      "type": "text",
      "text": "Urzędnik konsularny ma prawo do doręczania pism sądowych i pozasądowych oraz dokonywania przesłuchań zgodnie z umowami międzynarodowymi obowiązującymi między Umawiającymi się Stronami, a przy braku takich umów — w sposób zgodny z ustawami i innymi przepisami Państwa przyjmującego. Uprawnienie to może być wykonywane tylko w stosunku do obywateli Państwa wysyłającego i bez stosowania środków przymusu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 60"
-    },
-    {
-     "type": "text",
-     "text": "Inne funkcje konsularne"
-    },
+    }
+   ],
+   "label": "Artykuł 59"
+  },
+  {
+   "type": "art",
+   "num": "60",
+   "path": "art_60",
+   "text": "Inne funkcje konsularne",
+   "children": [
     {
      "type": "text",
      "text": "Urzędnik konsularny może wykonywać wszelkie inne funkcje konsularne, powierzone mu przez Państwo wysyłające, jeżeli nie są one sprzeczne z ustawami i innymi przepisami Państwa przyjmującego lub którym Państwo to się nie sprzeciwia."
     }
-   ]
+   ],
+   "label": "Artykuł 60"
   },
   {
    "type": "heading",
@@ -1727,111 +1764,111 @@
    "text": "POSTANOWIENIA OGÓLNE I KOŃCOWE _"
   },
   {
+   "type": "art",
+   "num": "61",
+   "path": "art_61",
+   "text": "Przestrzeganie ustaw i innych przepisów Państwa przyjmującego",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_61/ust_1",
+     "text": "Wszystkie osoby korzystające z przywilejów i immunitetów obowiązane są, bez uszczerbku dla tych przywilejów i immunitetów, przestrzegać ustaw i innych przepisów Państwa przyjmującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_61/ust_2",
+     "text": "Pomieszczenia konsularne nie powinny być używane w sposób niezgodny z wykonywaniem funkcji konsularnych.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 61"
+  },
+  {
+   "type": "art",
+   "num": "62",
+   "path": "art_62",
+   "text": "Wykonywanie funkcji konsularnych przez przedstawicielstwo dyplomatyczne",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_62/ust_1",
+     "text": "Wszystkie postanowienia niniejszej konwencji stosuje się odpowiednio w razie wykonywania funkcji konsularnych przez przedstawicielstwo dyplomatyczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_62/ust_2",
+     "text": "Imiona i nazwiska członków przedstawicielstwa dyplomatycznego, przydzielonych do służby konsularnej w tym przedstawicielstwie, będą notyfikowane ministerstwu spraw zagranicznych Państwa przyjmującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_62/ust_3",
+     "text": "Członkowie przedstawicielstwa dyplomatycznego, wymienieni w ust. 2 niniejszego artykułu, korzystają nadal z przywilejów i immunitetów wynikających z ich statusu dyplomatycznego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 62"
+  },
+  {
+   "type": "art",
+   "num": "63",
+   "path": "art_63",
+   "text": "Ratyfikacja i wejście w życie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_63/ust_1",
+     "text": "Konwencja niniejsza podlega ratyfikacji i wejdzie w życie po upływie trzydziestu dni od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_63/ust_2",
+     "text": "Z chwilą wejścia w życie niniejszej konwencji traci moc Konwencja konsularna podpisana w Bukareszcie dnia 24 marca 1973 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_63/ust_3",
+     "text": "Niniejsza konwencja jest zawarta na czas nieokreślony. Może ona zostać wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku przestanie ona obowiązywać po upływie sześciu miesięcy od dnia wypowiedzenia.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 63"
+  },
+  {
    "type": "text",
-   "text": "Artykuł 61"
+   "text": "Na dowód czego upoważnieni pełnomocnicy Wysokich Umawiających się Stron podpisali niniejszą konwencję i opatrzyli ją pieczęciami."
   },
   {
    "type": "text",
-   "text": "Przestrzeganie ustaw i innych przepisów Państwa przyjmującego"
+   "text": "Sporządzono w Bukareszcie dnia 25 stycznia 1993 r. w dwóch oryginalnych egzemplarzach, każdy z nich w językach polskim i rumuńskim, przy czym obydwa teksty mają jednakową moc."
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszystkie osoby korzystające z przywilejów i immunitetów obowiązane są, bez uszczerbku dla tych przywilejów i immunitetów, przestrzegać ustaw i innych przepisów Państwa przyjmującego.",
-   "children": []
+   "type": "text",
+   "text": "W imieniu W imieniu Rumunii"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Pomieszczenia konsularne nie powinny być używane w sposób niezgodny z wykonywaniem funkcji konsularnych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 62"
-    },
-    {
-     "type": "text",
-     "text": "Wykonywanie funkcji konsularnych przez przedstawicielstwo dyplomatyczne"
-    }
-   ]
+   "type": "text",
+   "text": "Rzeczypospolitej Polskiej T. V. Melescanu K. Skubiszewski"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wszystkie postanowienia niniejszej konwencji stosuje się odpowiednio w razie wykonywania funkcji konsularnych przez przedstawicielstwo dyplomatyczne.",
-   "children": []
+   "type": "note",
+   "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Imiona i nazwiska członków przedstawicielstwa dyplomatycznego, przydzielonych do służby konsularnej w tym przedstawicielstwie, będą notyfikowane ministerstwu spraw zagranicznych Państwa przyjmującego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Członkowie przedstawicielstwa dyplomatycznego, wymienieni w ust. 2 niniejszego artykułu, korzystają nadal z przywilejów i immunitetów wynikających z ich statusu dyplomatycznego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 63"
-    },
-    {
-     "type": "text",
-     "text": "Ratyfikacja i wejście w życie"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Konwencja niniejsza podlega ratyfikacji i wejdzie w życie po upływie trzydziestu dni od dnia wymiany dokumentów ratyfikacyjnych, która nastąpi w Warszawie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Z chwilą wejścia w życie niniejszej konwencji traci moc Konwencja konsularna podpisana w Bukareszcie dnia 24 marca 1973 r.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Niniejsza konwencja jest zawarta na czas nieokreślony. Może ona zostać wypowiedziana w drodze notyfikacji przez każdą z Umawiających się Stron. W takim przypadku przestanie ona obowiązywać po upływie sześciu miesięcy od dnia wypowiedzenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Na dowód czego upoważnieni pełnomocnicy Wysokich Umawiających się Stron podpisali niniejszą konwencję i opatrzyli ją pieczęciami."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Bukareszcie dnia 25 stycznia 1993 r. w dwóch oryginalnych egzemplarzach, każdy z nich w językach polskim i rumuńskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu W imieniu Rumunii"
-    },
-    {
-     "type": "text",
-     "text": "Rzeczypospolitej Polskiej T. V. Melescanu K. Skubiszewski"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 27 lipca 1993 r. Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
-    }
-   ]
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą konwencją, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana. Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 27 lipca 1993 r. Prezydent Rzeczypospolitej Polskiej: £. Wałęsa L.S."
   },
   {
    "type": "signature",

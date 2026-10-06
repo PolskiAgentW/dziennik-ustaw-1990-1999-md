@@ -53,87 +53,88 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "Artykuł 1"
-  },
-  {
-   "type": "text",
-   "text": "Obowiązek wydania"
-  },
-  {
-   "type": "text",
-   "text": "Umawiające się Państwa zobowiązują się do wzajemnego wydawania, zgodnie z postanowieniami niniejszej umowy, osób, które przez organy w Państwie wzywającym są ścigane w postępowaniu karnym lub zostały uznane winnymi przestępstw stanowiących podstawę wydania."
-  },
-  {
-   "type": "text",
-   "text": "Artykuł 2"
-  },
-  {
-   "type": "text",
-   "text": "Przestępstwa stanowiące podstawę wydania"
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "1",
-   "path": "ust_1",
-   "text": "Przestępstwem stanowiącym podstawę wydania jest przestępstwo, które według prawa obowiązującego w obu Umawiających się Państwach jest zagrożone karą pozbawienia wolności o maksymalnym wymiarze powyżej jednego roku lub karą surowszą.",
-   "children": []
+   "path": "art_1",
+   "text": "Obowiązek wydania",
+   "children": [
+    {
+     "type": "text",
+     "text": "Umawiające się Państwa zobowiązują się do wzajemnego wydawania, zgodnie z postanowieniami niniejszej umowy, osób, które przez organy w Państwie wzywającym są ścigane w postępowaniu karnym lub zostały uznane winnymi przestępstw stanowiących podstawę wydania."
+    }
+   ],
+   "label": "Artykuł 1"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "2",
-   "path": "ust_2",
-   "text": "Przestępstwo jest także przestępstwem stanowiącym podstawę wydania, jeżeli polega na usiłowaniu popełnienia lub uczestnictwie w popełnieniu przestępstwa określonego w ustępie 1. Wszelki rodzaj związku mającego na celu popełnienie przestępstwa określonego w ustępie 1 w rozumieniu prawa Rzeczypospolitej Polskiej i zmowa w celu popełnienia przestępstwa określonego w ustępie 1 w rozumieniu prawa",
+   "path": "art_2",
+   "text": "Przestępstwa stanowiące podstawę wydania",
    "children": [
     {
-     "type": "text",
-     "text": "Stanów Zjednoczonych — są również przestępstwami stanowiącymi podstawę wydania."
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Przestępstwem stanowiącym podstawę wydania jest przestępstwo, które według prawa obowiązującego w obu Umawiających się Państwach jest zagrożone karą pozbawienia wolności o maksymalnym wymiarze powyżej jednego roku lub karą surowszą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Przestępstwo jest także przestępstwem stanowiącym podstawę wydania, jeżeli polega na usiłowaniu popełnienia lub uczestnictwie w popełnieniu przestępstwa określonego w ustępie 1. Wszelki rodzaj związku mającego na celu popełnienie przestępstwa określonego w ustępie 1 w rozumieniu prawa Rzeczypospolitej Polskiej i zmowa w celu popełnienia przestępstwa określonego w ustępie 1 w rozumieniu prawa",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stanów Zjednoczonych — są również przestępstwami stanowiącymi podstawę wydania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "W rozumieniu niniejszego artykułu przestępstwo jest przestępstwem stanowiącym podstawę wydania:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_3/lit_a",
+       "text": "niezależnie od tego, czy prawo obowiązujące w Umawiających się Państwach zalicza to przestępstwo do przestępstw tego samego rodzaju lub określa to przestępstwo taką samą nazwą, lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_3/lit_b",
+       "text": "niezależnie od tego, czy dane przestępstwo jest przestępstwem, co do którego prawo federalne Stanów Zjednoczonych wymaga wykazania istnienia takich okoliczności, jak przewóz międzystanowy albo posługiwanie się pocztą lub innymi środkami wpływającymi na handel międzystanowy lub zagraniczny, przy czym ma to znaczenie tylko dla uzasadnienia właściwości sądu federalnego Stanów Zjednoczonych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_2/ust_4",
+     "text": "Jeżeli przestępstwo zostało popełnione poza terytorium Państwa wzywającego, wniosek o wydanie będzie uwzględniony, jeżeli prawo Państwa wezwanego przewiduje w podobnych warunkach odpowiedzialność karną za przestępstwo popełnione poza jego terytorium. Jeżeli prawo Państwa wezwanego nie przewiduje takiej odpowiedzialności, organy wykonujące w Państwie wezwanym mogą rozstrzygnąć wniosek o wydanie według swego uznania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_2/ust_5",
+     "text": "W wypadku zgody na wydanie za przestępstwo stanowiące podstawę wydania, zostanie również udzielona zgoda na wydanie za wszelkie inne przestępstwa wymienione we wniosku, nawet gdy nie są zagrożone karą pozbawienia wolności powyżej jednego roku, o ile wszystkie pozostałe wymogi odnośnie do wydania zostały spełnione.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 2"
   },
   {
-   "type": "ust",
+   "type": "art",
    "num": "3",
-   "path": "ust_3",
-   "text": "W rozumieniu niniejszego artykułu przestępstwo jest przestępstwem stanowiącym podstawę wydania:",
+   "path": "art_3",
+   "text": "Przestępstwa skarbowe",
    "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "niezależnie od tego, czy prawo obowiązujące w Umawiających się Państwach zalicza to przestępstwo do przestępstw tego samego rodzaju lub określa to przestępstwo taką samą nazwą, lub",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "niezależnie od tego, czy dane przestępstwo jest przestępstwem, co do którego prawo federalne Stanów Zjednoczonych wymaga wykazania istnienia takich okoliczności, jak przewóz międzystanowy albo posługiwanie się pocztą lub innymi środkami wpływającymi na handel międzystanowy lub zagraniczny, przy czym ma to znaczenie tylko dla uzasadnienia właściwości sądu federalnego Stanów Zjednoczonych.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Jeżeli przestępstwo zostało popełnione poza terytorium Państwa wzywającego, wniosek o wydanie będzie uwzględniony, jeżeli prawo Państwa wezwanego przewiduje w podobnych warunkach odpowiedzialność karną za przestępstwo popełnione poza jego terytorium. Jeżeli prawo Państwa wezwanego nie przewiduje takiej odpowiedzialności, organy wykonujące w Państwie wezwanym mogą rozstrzygnąć wniosek o wydanie według swego uznania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "W wypadku zgody na wydanie za przestępstwo stanowiące podstawę wydania, zostanie również udzielona zgoda na wydanie za wszelkie inne przestępstwa wymienione we wniosku, nawet gdy nie są zagrożone karą pozbawienia wolności powyżej jednego roku, o ile wszystkie pozostałe wymogi odnośnie do wydania zostały spełnione.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 3"
-    },
-    {
-     "type": "text",
-     "text": "Przestępstwa skarbowe"
-    },
     {
      "type": "text",
      "text": "Przestępstwo jest również przestępstwem stanowiącym podstawę wydania, jeżeli jest przestępstwem dotyczącym podatków, cet, międzynarodowego transferu funduszy, importu, eksportu lub tranzytu towarów, nawet gdy prawo Państwa wezwanego nie przewiduje takiego samego rodzaju podatku, cła albo nie reguluje w ten sam sposób podatków, ceł, tranzytu towarów i obrotu dewizowego, jak prawo Państwa wzywającego."
@@ -141,577 +142,583 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 4"
-    },
-    {
-     "type": "text",
-     "text": "Obywatelstwo"
     }
-   ]
+   ],
+   "label": "Artykuł 3"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Żadne z Umawiających się Państw nie jest zobowiązane do wydawania własnych obywateli, jednakże organ wykonujący w Państwie wezwanym będzie mógł dokonać wydania takich osób, jeżeli według jego uznania będzie to właściwe i możliwe.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli odmówiono wydania wyłącznie ze względu na obywatelstwo osoby poszukiwanej, Państwo wezwane, działając na wniosek Państwa wzywającego, przekaże sprawę swym właściwym organom w celu podjęcia decyzji co do przeprowadzenia postępowania karnego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 5"
-    },
-    {
-     "type": "text",
-     "text": "Przestępstwa polityczne i wojskowe"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wydanie nie nastąpi, jeżeli przestępstwo stanowiące podstawę wniosku o wydanie jest przestępstwem o charakterze politycznym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W rozumieniu niniejszej umowy następujące przestępstwa nie są uważane za przestępstwa o charakterze politycznym:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "zabójstwo lub jakiekolwiek inne przestępstwo przeciwko Głowie Państwa jednego z Umawiających się Państw lub przeciwko członkowi rodziny Głowy Państwa,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "przestępstwo, za które oba Umawiające się Państwa na podstawie wielostronnej umowy międzynarodowej mają obowiązek wydania poszukiwanej osoby lub przedstawienia sprawy swoim właściwym organom w celu podjęcia decyzji w sprawie wszczęcia postępowania karnego,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "zabójstwo, nieumyślne spowodowanie śmierci, umyślne uszkodzenie ciała, ciężkie uszkodzenie ciała lub ciężki rozstrój zdrowia,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "porwanie, uprowadzenie lub inne niezgodne z prawem pozbawienie wolności, w tym branie zakładnika,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "podłożenie lub użycie materiału wybuchowego, środka zapalającego lub innego niszczącego urządzenia zagrażającego życiu, powodującego poważne uszkodzenie ciała lub poważną szkodę w mieniu, f usiłowanie popełnienia lub uczestnictwo w popet-",
-     "children": [
-      {
-       "type": "text",
-       "text": "~— nieniu jakiegokolwiek z wyżej wymienionych przestępstw, jak również zmowa w celu popełnienia tych przestępstw w rozumieniu prawa Rzeczypospolitej Polskiej i zmowa w celu popełnienia tych przestępstw w rozumieniu prawa Stanów Zjednoczonych."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jednakże pomimo ustępu 2 niniejszego artykułu wydanie nie nastąpi, jeżeli organ wykonujący w Państwie wezwanym stwierdzi, że wniosek byt złożony z przyczyn politycznych.",
-   "children": []
-  },
-  {
-   "type": "ust",
+   "type": "art",
    "num": "4",
-   "path": "ust_4",
-   "text": "Organ wykonujący w Państwie wezwanym może odmówić wydania za przestępstwa ujęte prawem wojskowym, które nie stanowią przestępstw w świetle powszechnego prawa karnego.",
+   "path": "art_4",
+   "text": "Obywatelstwo",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 6"
-    },
-    {
-     "type": "text",
-     "text": "Kara śmierci"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli przestępstwo, z powodu którego wnosi się o wydanie, jest zagrożone karą śmierci według prawa Państwa wzywającego, a nie jest zagrożone karą śmierci według prawa Państwa wezwanego, Państwo wezwane może odmówić wydania, chyba że Państwo wzywające, jeżeli będzie o to proszone, zapewni, że kara śmierci nie zostanie wymierzona lub, jeżeli została wymierzona, nie zostanie wykonana.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "W przypadkach gdy Państwo wzywające złoży zapewnienie zgodnie z ustępem 1 niniejszego artykułu i gdy kara śmierci zostałaby wymierzona przez sądy Państwa wzywającego, to nie zostanie ona wykonana.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 7"
-    },
-    {
-     "type": "text",
-     "text": "Ne bis in idem"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wydanie nie nastąpi, jeżeli osoba ścigana została prawomocnie skazana lub uniewinniona w Państwie wezwanym za przestępstwo, z powodu którego wnosi się o wydanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wydanie nie zostanie wyłączone z tego powodu, że właściwe organy wykonujące w Państwie wezwanym postanowiły:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "nie wszczynać postępowania karnego przeciwko osobie ściganej za czyny, z powodu których wnosi się o wydanie, lub",
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Żadne z Umawiających się Państw nie jest zobowiązane do wydawania własnych obywateli, jednakże organ wykonujący w Państwie wezwanym będzie mógł dokonać wydania takich osób, jeżeli według jego uznania będzie to właściwe i możliwe.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "umorzyć postępowanie karne, które zostało wszczęte przeciwko osobie ściganej w związku z takimi czynami.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Artykuł 8"
-      },
-      {
-       "type": "text",
-       "text": "Przedawnienie"
-      },
-      {
-       "type": "text",
-       "text": "Wydanie nie nastąpi, jeżeli ściganie lub wykonanie kary za przestępstwo, z powodu którego wnosi się o wydanie, uległo przedawnieniu według prawa Państwa wzywającego."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 9"
-      },
-      {
-       "type": "text",
-       "text": "Postępowanie ekstradycyjne i wymagane dokumenty"
-      }
-     ]
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Jeżeli odmówiono wydania wyłącznie ze względu na obywatelstwo osoby poszukiwanej, Państwo wezwane, działając na wniosek Państwa wzywającego, przekaże sprawę swym właściwym organom w celu podjęcia decyzji co do przeprowadzenia postępowania karnego.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 4"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Wniosek o wydanie przekazuje się w drodze dyplomatycznej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Do wniosku o wydanie niezbędne są:",
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Przestępstwa polityczne i wojskowe",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "dokumenty, oświadczenia lub innego rodzaju informacje zawierające dane dotyczące tożsamości i obywatelstwa oraz prawdopodobnego miejsca pobytu osoby, o której wydanie się wnosi,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Wydanie nie nastąpi, jeżeli przestępstwo stanowiące podstawę wniosku o wydanie jest przestępstwem o charakterze politycznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "W rozumieniu niniejszej umowy następujące przestępstwa nie są uważane za przestępstwa o charakterze politycznym:",
      "children": [
       {
-       "type": "note",
-       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_2/lit_a",
+       "text": "zabójstwo lub jakiekolwiek inne przestępstwo przeciwko Głowie Państwa jednego z Umawiających się Państw lub przeciwko członkowi rodziny Głowy Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_2/lit_b",
+       "text": "przestępstwo, za które oba Umawiające się Państwa na podstawie wielostronnej umowy międzynarodowej mają obowiązek wydania poszukiwanej osoby lub przedstawienia sprawy swoim właściwym organom w celu podjęcia decyzji w sprawie wszczęcia postępowania karnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/ust_2/lit_c",
+       "text": "zabójstwo, nieumyślne spowodowanie śmierci, umyślne uszkodzenie ciała, ciężkie uszkodzenie ciała lub ciężki rozstrój zdrowia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/ust_2/lit_d",
+       "text": "porwanie, uprowadzenie lub inne niezgodne z prawem pozbawienie wolności, w tym branie zakładnika,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/ust_2/lit_e",
+       "text": "podłożenie lub użycie materiału wybuchowego, środka zapalającego lub innego niszczącego urządzenia zagrażającego życiu, powodującego poważne uszkodzenie ciała lub poważną szkodę w mieniu, f usiłowanie popełnienia lub uczestnictwo w popet-",
+       "children": [
+        {
+         "type": "text",
+         "text": "~— nieniu jakiegokolwiek z wyżej wymienionych przestępstw, jak również zmowa w celu popełnienia tych przestępstw w rozumieniu prawa Rzeczypospolitej Polskiej i zmowa w celu popełnienia tych przestępstw w rozumieniu prawa Stanów Zjednoczonych."
+        }
+       ]
       }
      ]
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "opis stanu faktycznego sprawy, w związku z którą wnosi się o wydanie, oraz informacja o dotychczasowym przebiegu postępowań w sprawie,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Jednakże pomimo ustępu 2 niniejszego artykułu wydanie nie nastąpi, jeżeli organ wykonujący w Państwie wezwanym stwierdzi, że wniosek byt złożony z przyczyn politycznych.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "tekst przepisów prawa dotyczących istotnych elementów przestępstwa, z powodu którego wnosi się o wydanie,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "tekst przepisów prawa dotyczących zagrożenia karą za przestępstwo,",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "e)informacja o przepisach prawa dotyczących przedawnienia ścigania lub wykonania kary w odniesieniu do przestępstwa, w związku z którym wnosi się o wydanie,"
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "dokumenty, oświadczenia lub innego rodzaju informacje określone odpowiednio w ustępach 3 lub 4 niniejszego artykułu.",
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Organ wykonujący w Państwie wezwanym może odmówić wydania za przestępstwa ujęte prawem wojskowym, które nie stanowią przestępstw w świetle powszechnego prawa karnego.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 5"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Do wniosku o wydanie osoby w celu przeprowadzenia postępowania karnego ponadto niezbędne są:",
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Kara śmierci",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "odpis postanowienia o aresztowaniu lub nakazu aresztowania wydanego przez sędziego lub inny właściwy organ, jeżeli zostały wydane,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Jeżeli przestępstwo, z powodu którego wnosi się o wydanie, jest zagrożone karą śmierci według prawa Państwa wzywającego, a nie jest zagrożone karą śmierci według prawa Państwa wezwanego, Państwo wezwane może odmówić wydania, chyba że Państwo wzywające, jeżeli będzie o to proszone, zapewni, że kara śmierci nie zostanie wymierzona lub, jeżeli została wymierzona, nie zostanie wykonana.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "odpis aktu oskarżenia, jeżeli został sporządzony,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_3/lit_c",
-     "text": "takie informacje, które uzasadniałyby postawienie osoby w stan oskarżenia, gdyby przestępstwo byto popełnione w Państwie wezwanym.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "W przypadkach gdy Państwo wzywające złoży zapewnienie zgodnie z ustępem 1 niniejszego artykułu i gdy kara śmierci zostałaby wymierzona przez sądy Państwa wzywającego, to nie zostanie ona wykonana.",
      "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 6"
   },
   {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Do wniosku o wydanie osoby, która została uznana winną popełnienia przestępstwa stanowiącego podstawę wydania, ponadto niezbędne są:",
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Ne bis in idem",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_4/lit_a",
-     "text": "odpis postanowienia o aresztowaniu lub nakazu aresztowania wydanego przez sędziego lub inny właściwy organ, jeżeli zostały wydane,",
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Wydanie nie nastąpi, jeżeli osoba ścigana została prawomocnie skazana lub uniewinniona w Państwie wezwanym za przestępstwo, z powodu którego wnosi się o wydanie.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_4/lit_b",
-     "text": "odpis wyroku skazującego, a jeżeli taki odpis jest niedostępny — oświadczenie organu sądowego stwierdzające, że dana osoba została uznana winną,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_4/lit_c",
-     "text": "informacje potwierdzające, że osoba, o której wydanie się wnosi, jest tą osobą, która została uznana winną,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_4/lit_d",
-     "text": "jeżeli wobec osoby ściganej orzeczono karę — odpis wyroku orzekającego karę oraz oświadczenie stwierdzające, w jakim wymiarze wyrok został wykonany,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_4/lit_e",
-     "text": "w wypadku osoby, która została uznana winną zaocznie — dokumenty wymienione w ustępie 3.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Wydanie nie zostanie wyłączone z tego powodu, że właściwe organy wykonujące w Państwie wezwanym postanowiły:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 10"
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/ust_2/lit_a",
+       "text": "nie wszczynać postępowania karnego przeciwko osobie ściganej za czyny, z powodu których wnosi się o wydanie, lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/ust_2/lit_b",
+       "text": "umorzyć postępowanie karne, które zostało wszczęte przeciwko osobie ściganej w związku z takimi czynami.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 7"
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Przedawnienie",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wydanie nie nastąpi, jeżeli ściganie lub wykonanie kary za przestępstwo, z powodu którego wnosi się o wydanie, uległo przedawnieniu według prawa Państwa wzywającego."
+    }
+   ],
+   "label": "Artykuł 8"
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Postępowanie ekstradycyjne i wymagane dokumenty",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Wniosek o wydanie przekazuje się w drodze dyplomatycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Do wniosku o wydanie niezbędne są:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_2/lit_a",
+       "text": "dokumenty, oświadczenia lub innego rodzaju informacje zawierające dane dotyczące tożsamości i obywatelstwa oraz prawdopodobnego miejsca pobytu osoby, o której wydanie się wnosi,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_2/lit_b",
+       "text": "opis stanu faktycznego sprawy, w związku z którą wnosi się o wydanie, oraz informacja o dotychczasowym przebiegu postępowań w sprawie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_9/ust_2/lit_c",
+       "text": "tekst przepisów prawa dotyczących istotnych elementów przestępstwa, z powodu którego wnosi się o wydanie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_9/ust_2/lit_d",
+       "text": "tekst przepisów prawa dotyczących zagrożenia karą za przestępstwo,",
+       "children": []
       },
       {
        "type": "text",
-       "text": "Dopuszczalność dokumentów"
+       "text": "e)informacja o przepisach prawa dotyczących przedawnienia ścigania lub wykonania kary w odniesieniu do przestępstwa, w związku z którym wnosi się o wydanie,"
       },
       {
-       "type": "text",
-       "text": "Dokumenty dołączone do wniosku o wydanie zostaną przyjęte i dopuszczone jako dowody w postępowaniu ekstradycyjnym, jeżeli:"
+       "type": "lit",
+       "num": "f",
+       "path": "art_9/ust_2/lit_f",
+       "text": "dokumenty, oświadczenia lub innego rodzaju informacje określone odpowiednio w ustępach 3 lub 4 niniejszego artykułu.",
+       "children": []
       }
      ]
     },
     {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Do wniosku o wydanie osoby w celu przeprowadzenia postępowania karnego ponadto niezbędne są:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_3/lit_a",
+       "text": "odpis postanowienia o aresztowaniu lub nakazu aresztowania wydanego przez sędziego lub inny właściwy organ, jeżeli zostały wydane,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_3/lit_b",
+       "text": "odpis aktu oskarżenia, jeżeli został sporządzony,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_9/ust_3/lit_c",
+       "text": "takie informacje, które uzasadniałyby postawienie osoby w stan oskarżenia, gdyby przestępstwo byto popełnione w Państwie wezwanym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_9/ust_4",
+     "text": "Do wniosku o wydanie osoby, która została uznana winną popełnienia przestępstwa stanowiącego podstawę wydania, ponadto niezbędne są:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/ust_4/lit_a",
+       "text": "odpis postanowienia o aresztowaniu lub nakazu aresztowania wydanego przez sędziego lub inny właściwy organ, jeżeli zostały wydane,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/ust_4/lit_b",
+       "text": "odpis wyroku skazującego, a jeżeli taki odpis jest niedostępny — oświadczenie organu sądowego stwierdzające, że dana osoba została uznana winną,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_9/ust_4/lit_c",
+       "text": "informacje potwierdzające, że osoba, o której wydanie się wnosi, jest tą osobą, która została uznana winną,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_9/ust_4/lit_d",
+       "text": "jeżeli wobec osoby ściganej orzeczono karę — odpis wyroku orzekającego karę oraz oświadczenie stwierdzające, w jakim wymiarze wyrok został wykonany,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_9/ust_4/lit_e",
+       "text": "w wypadku osoby, która została uznana winną zaocznie — dokumenty wymienione w ustępie 3.",
+       "children": []
+      }
+     ]
+    }
+   ],
+   "label": "Artykuł 9"
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Dopuszczalność dokumentów",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dokumenty dołączone do wniosku o wydanie zostaną przyjęte i dopuszczone jako dowody w postępowaniu ekstradycyjnym, jeżeli:"
+    },
+    {
      "type": "lit",
      "num": "a",
-     "path": "ust_4/lit_a",
+     "path": "art_10/lit_a",
      "text": "w wypadku wniosku ze strony Stanów Zjednoczonych — są one uwierzytelnione przez właściwego przedstawiciela dyplomatycznego lub konsularnego Rzeczypospolitej Polskiej w Stanach Zjednoczonych lub",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_4/lit_b",
+     "path": "art_10/lit_b",
      "text": "w wypadku wniosku ze strony Rzeczypospolitej Polskiej — są one uwierzytelnione przez głównego przedstawiciela dyplomatycznego lub konsularnego Stanów Zjednoczonych w Rzeczypospolitej Polskiej, zgodnie z prawem ekstradycyjnym Stanów Zjednoczonych, lub",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_4/lit_c",
+     "path": "art_10/lit_c",
      "text": "są one poświadczone lub uwierzytelnione w inny sposób uznany przez prawo Państwa wezwanego.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 10"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Tłumaczenie",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wszystkie dokumenty przesyłane przez Państwo wzywające będą przetłumaczone na język Państwa wezwanego."
+    }
+   ],
+   "label": "Artykuł 11"
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Tymczasowe aresztowanie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "W nagłych wypadkach każde Umawiające się Państwo może zwrócić się z wnioskiem o tymczasowe aresztowanie poszukiwanej osoby przed złożeniem wniosku o wydanie. Wniosek o tymczasowe aresztowanie może być przekazany w drodze dyplomatycznej lub bezpośrednio pomiędzy Ministerstwem Sprawie- ' dliwości Rzeczypospolitej Polskiej a Departamentem Sprawiedliwości Stanów Zjednoczonych. Międzynarodowa Organizacja Policji Kryminalnej (Interpol) może pośredniczyć przy przekazaniu takiego wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Wniosek o tymczasowe aresztowanie powinien zawierać:",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 11"
+       "type": "lit",
+       "num": "a",
+       "path": "art_12/ust_2/lit_a",
+       "text": "dane dotyczące poszukiwanej osoby oraz informacje dotyczące jej obywatelstwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_12/ust_2/lit_b",
+       "text": "określenie miejsca pobytu osoby, o której wydanie się wnosi, o ile jest znane,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_12/ust_2/lit_c",
+       "text": "krótki opis stanu faktycznego sprawy i jeżeli jest to możliwe — czasu i miejsca popełnienia przestępstwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_12/ust_2/lit_d",
+       "text": "opis naruszonych przepisów prawa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_12/ust_2/lit_e",
+       "text": "stwierdzenie istnienia:",
+       "children": [
+        {
+         "type": "text",
+         "text": "(i) nakazu aresztowania osoby poszukiwanej w celu przeprowadzenia postępowania karnego lub osoby uznanej winną, wobec której nie wydano orzeczenia o karze, lub"
+        },
+        {
+         "type": "text",
+         "text": "(ii) wyroku skazującego wobec osoby poszukiwanej w celu wykonania kary,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_12/ust_2/lit_f",
+       "text": "stwierdzenie, że nastąpi złożenie wniosku o wydanie poszukiwanej osoby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Państwo wzywające zostanie niezwłocznie zawiadomione o decyzji w przedmiocie wniosku oraz o przyczynach jakiejkolwiek odmowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Osobę tymczasowo aresztowaną zwalnia się z aresztu, jeżeli w terminie sześćdziesięciu (60) dni od daty tymczasowego aresztowania na podstawie niniejszej umowy organ wykonujący w Państwie wezwanym nie otrzyma formalnego wniosku o wydanie oraz dokumentów określonych w artykule 9.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Zwolnienie osoby z aresztu na podstawie ustępu 4 niniejszego artykułu nie wyklucza późniejszego",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "Tłumaczenie"
-      },
-      {
-       "type": "text",
-       "text": "Wszystkie dokumenty przesyłane przez Państwo wzywające będą przetłumaczone na język Państwa wezwanego."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 12"
-      },
-      {
-       "type": "text",
-       "text": "Tymczasowe aresztowanie"
+       "text": "ponownego aresztowania oraz wydania tej osoby, jeżeli wniosek o wydanie oraz uzasadniające dokumenty zostaną przekazane w terminie późniejszym."
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 12"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W nagłych wypadkach każde Umawiające się Państwo może zwrócić się z wnioskiem o tymczasowe aresztowanie poszukiwanej osoby przed złożeniem wniosku o wydanie. Wniosek o tymczasowe aresztowanie może być przekazany w drodze dyplomatycznej lub bezpośrednio pomiędzy Ministerstwem Sprawie- ' dliwości Rzeczypospolitej Polskiej a Departamentem Sprawiedliwości Stanów Zjednoczonych. Międzynarodowa Organizacja Policji Kryminalnej (Interpol) może pośredniczyć przy przekazaniu takiego wniosku.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Wniosek o tymczasowe aresztowanie powinien zawierać:",
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Informacje dodatkowe",
    "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_2/lit_a",
-     "text": "dane dotyczące poszukiwanej osoby oraz informacje dotyczące jej obywatelstwa,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_2/lit_b",
-     "text": "określenie miejsca pobytu osoby, o której wydanie się wnosi, o ile jest znane,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_2/lit_c",
-     "text": "krótki opis stanu faktycznego sprawy i jeżeli jest to możliwe — czasu i miejsca popełnienia przestępstwa,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "ust_2/lit_d",
-     "text": "opis naruszonych przepisów prawa,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "ust_2/lit_e",
-     "text": "stwierdzenie istnienia:",
-     "children": [
-      {
-       "type": "text",
-       "text": "(i) nakazu aresztowania osoby poszukiwanej w celu przeprowadzenia postępowania karnego lub osoby uznanej winną, wobec której nie wydano orzeczenia o karze, lub"
-      },
-      {
-       "type": "text",
-       "text": "(ii) wyroku skazującego wobec osoby poszukiwanej w celu wykonania kary,"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "ust_2/lit_f",
-     "text": "stwierdzenie, że nastąpi złożenie wniosku o wydanie poszukiwanej osoby.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Państwo wzywające zostanie niezwłocznie zawiadomione o decyzji w przedmiocie wniosku oraz o przyczynach jakiejkolwiek odmowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Osobę tymczasowo aresztowaną zwalnia się z aresztu, jeżeli w terminie sześćdziesięciu (60) dni od daty tymczasowego aresztowania na podstawie niniejszej umowy organ wykonujący w Państwie wezwanym nie otrzyma formalnego wniosku o wydanie oraz dokumentów określonych w artykule 9.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Zwolnienie osoby z aresztu na podstawie ustępu 4 niniejszego artykułu nie wyklucza późniejszego",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "ponownego aresztowania oraz wydania tej osoby, jeżeli wniosek o wydanie oraz uzasadniające dokumenty zostaną przekazane w terminie późniejszym."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 13"
-    },
-    {
-     "type": "text",
-     "text": "Informacje dodatkowe"
-    },
     {
      "type": "text",
      "text": "Jeżeli Państwo wezwane uzna, że informacje przekazane dla uzasadnienia wniosku o wydanie nie spełniają wymogów niniejszej umowy, Państwo to może zwrócić się o dostarczenie dodatkowych informacji w wyznaczonym przez siebie rozsądnym terminie. Te informacje dodatkowe mogą być żądane i przesyłane bezpośrednio pomiędzy Ministerstwem Sprawiedliwości Rzeczypospolitej Polskiej a Departamentem Sprawiedliwości Stanów Zjednoczonych lub w drodze dyplomatycznej."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 14"
-    },
-    {
-     "type": "text",
-     "text": "Decyzja w przedmiocie wydania i przekazanie"
     }
-   ]
+   ],
+   "label": "Artykuł 13"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Państwo wezwane zawiadamia niezwłocznie Państwo wzywające o swojej decyzji dotyczącej wniosku o wydanie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Jeżeli wniosek został załatwiony odmownie w całości lub w części, Państwo wezwane poda przyczyny odmowy wydania. Państwo wezwane przekaże na żądanie odpisy odnośnych orzeczeń sądowych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Jeżeli wniosek o wydanie zostanie uwzględniony, organy wykonujące Umawiających się Państw uzgodnią czas i miejsce przekazania poszukiwanej osoby.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Przekazanie osoby poszukiwanej nastąpi w okresie czasu przewidzianym przez prawo Państwa wezwanego. Jeżeli prawo Państwa wezwanego nie przewiduje określonego czasu na przekazanie, nastąpi ono w ciągu trzydziestu (30) dni od chwili powiadomienia Państwa wzywającego o decyzji wydania.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "5",
-   "path": "ust_5",
-   "text": "Jeżeli osoba poszukiwana nie zostanie odebrana z terytorium Państwa wezwanego w terminie, o którym mowa w ustępie 4, może ona zostać zwolniona. Państwo wezwane może następnie odmówić wydania osoby poszukiwanej za to samo przestępstwo.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "6",
-   "path": "ust_6",
-   "text": "Jeżeli nie jest możliwe terminowe przekazanie lub odebranie osoby podlegającej wydaniu przez jedno Umawiające się Państwo z powodu okoliczności pozostających poza jego kontrolą, Państwo to zawiadomi o tym drugie Umawiające się Państwo przed upływem terminu. W tym wypadku właściwe organy Umawiających się Państw mogą uzgodnić nową datę przekazania.",
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Decyzja w przedmiocie wydania i przekazanie",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 15"
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Państwo wezwane zawiadamia niezwłocznie Państwo wzywające o swojej decyzji dotyczącej wniosku o wydanie.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Skazania zaoczne"
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Jeżeli wniosek został załatwiony odmownie w całości lub w części, Państwo wezwane poda przyczyny odmowy wydania. Państwo wezwane przekaże na żądanie odpisy odnośnych orzeczeń sądowych.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Jeżeli wniosek o wydanie zostanie uwzględniony, organy wykonujące Umawiających się Państw uzgodnią czas i miejsce przekazania poszukiwanej osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Przekazanie osoby poszukiwanej nastąpi w okresie czasu przewidzianym przez prawo Państwa wezwanego. Jeżeli prawo Państwa wezwanego nie przewiduje określonego czasu na przekazanie, nastąpi ono w ciągu trzydziestu (30) dni od chwili powiadomienia Państwa wzywającego o decyzji wydania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "Jeżeli osoba poszukiwana nie zostanie odebrana z terytorium Państwa wezwanego w terminie, o którym mowa w ustępie 4, może ona zostać zwolniona. Państwo wezwane może następnie odmówić wydania osoby poszukiwanej za to samo przestępstwo.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_14/ust_6",
+     "text": "Jeżeli nie jest możliwe terminowe przekazanie lub odebranie osoby podlegającej wydaniu przez jedno Umawiające się Państwo z powodu okoliczności pozostających poza jego kontrolą, Państwo to zawiadomi o tym drugie Umawiające się Państwo przed upływem terminu. W tym wypadku właściwe organy Umawiających się Państw mogą uzgodnić nową datę przekazania.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 14"
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Skazania zaoczne",
+   "children": [
     {
      "type": "text",
      "text": "Jeżeli Umawiające się Państwo wystąpiło do drugiego Państwa o wydanie osoby skazanej zaocznie, organ wykonujący Państwa wezwanego może odmówić wydania tej osoby, jeżeli uzna, że postępowanie zaoczne nie zapewniło minimum praw do obrony, przysługujących osobie oskarżonej. Jednakże wydanie może nastąpić, jeżeli Państwo wzywające zagwarantuje w sposób uznany za wystarczający, że sprawa osoby, o której wydanie się wnosi, będzie ponownie rozpoznana z zagwarantowaniem praw do obrony."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 16"
-    },
-    {
-     "type": "text",
-     "text": "Wydanie tymczasowe lub odroczenie postępowania ekstradycyjnego"
     }
-   ]
+   ],
+   "label": "Artykuł 15"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Jeżeli wniosek o wydanie zostanie uwzględniony w odniesieniu do osoby, wobec której toczy się postępowanie karne za przestępstwo inne niż to, za które wnosi się o wydanie, lub która odbywa karę na terytorium Państwa wezwanego za przestępstwo inne niż to, za które wnosi się o wydanie, Państwo wezwane może tymczasowo wydać poszukiwaną osobę Państwu wzywającemu w celu przeprowadzenia postępowania karnego. Tak przekazana osoba pozostanie w areszcie w Państwie wzywającym i zostanie przekazana z powrotem Państwu wezwanemu po zakończeniu postępowania wobec tej osoby, zgodnie z warunkami, które zostaną uzgodnione w porozumieniu Umawiających się Państw.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo wezwane może odroczyć postępowanie ekstradycyjne dotyczące osoby, wobec której toczy się postępowanie za to samo przestępstwo, za które wnosi się o wydanie, albo za jakiekolwiek inne przestępstwo lub która odbywa karę na terytorium Państwa wezwanego za przestępstwo inne niż to, za które wnosi się o wydanie. Odroczenie może trwać do czasu zakończenia postępowania karnego wobec poszukiwanej osoby lub do czasu odbycia orzeczonej kary.",
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wydanie tymczasowe lub odroczenie postępowania ekstradycyjnego",
    "children": [
     {
-     "type": "text",
-     "text": "Artykuł 17"
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Jeżeli wniosek o wydanie zostanie uwzględniony w odniesieniu do osoby, wobec której toczy się postępowanie karne za przestępstwo inne niż to, za które wnosi się o wydanie, lub która odbywa karę na terytorium Państwa wezwanego za przestępstwo inne niż to, za które wnosi się o wydanie, Państwo wezwane może tymczasowo wydać poszukiwaną osobę Państwu wzywającemu w celu przeprowadzenia postępowania karnego. Tak przekazana osoba pozostanie w areszcie w Państwie wzywającym i zostanie przekazana z powrotem Państwu wezwanemu po zakończeniu postępowania wobec tej osoby, zgodnie z warunkami, które zostaną uzgodnione w porozumieniu Umawiających się Państw.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wnioski o wydanie złożone przez kilka państw"
-    },
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Państwo wezwane może odroczyć postępowanie ekstradycyjne dotyczące osoby, wobec której toczy się postępowanie za to samo przestępstwo, za które wnosi się o wydanie, albo za jakiekolwiek inne przestępstwo lub która odbywa karę na terytorium Państwa wezwanego za przestępstwo inne niż to, za które wnosi się o wydanie. Odroczenie może trwać do czasu zakończenia postępowania karnego wobec poszukiwanej osoby lub do czasu odbycia orzeczonej kary.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 16"
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wnioski o wydanie złożone przez kilka państw",
+   "children": [
     {
      "type": "text",
      "text": "Jeżeli Państwo wezwane otrzyma od drugiego Umawiającego się Państwa oraz jakiegokolwiek innego lub innych państw wnioski o wydanie tej samej osoby, za to samo lub inne przestępstwo, organ wykonujący w Państwie wezwanym określi, któremu państwu wyda tę osobę. Podejmując decyzję, Państwo wezwane rozważy wszystkie istotne okoliczności, łącznie z następującymi, choć nie ograniczając się jedynie do nich:"
@@ -719,361 +726,366 @@
     {
      "type": "lit",
      "num": "a",
-     "path": "ust_2/lit_a",
+     "path": "art_17/lit_a",
      "text": "czy wnioski zostały przedłożone na podstawie umowy,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "ust_2/lit_b",
+     "path": "art_17/lit_b",
      "text": "miejsce popełnienia każdego przestępstwa,",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "ust_2/lit_c",
+     "path": "art_17/lit_c",
      "text": "wagę przestępstw,",
      "children": []
     },
     {
      "type": "lit",
      "num": "d",
-     "path": "ust_2/lit_d",
+     "path": "art_17/lit_d",
      "text": "obywatelstwo pokrzywdzonego,",
      "children": []
     },
     {
      "type": "lit",
      "num": "e",
-     "path": "ust_2/lit_e",
+     "path": "art_17/lit_e",
      "text": "możliwość późniejszego wydania pomiędzy państwami wzywającymi,",
      "children": []
     },
     {
      "type": "lit",
      "num": "f",
-     "path": "ust_2/lit_f",
+     "path": "art_17/lit_f",
      "text": "chronologiczny porządek, w jakim wnioski zostały otrzymane od Państw wzywających.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 17"
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Zabezpieczenie i przekazanie przedmiotów",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "W zakresie dozwolonym przez swoje prawo Państwo wezwane może zabezpieczyć i przekazać Państwu",
      "children": [
       {
-       "type": "text",
-       "text": "Artykuł 18"
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
        "type": "text",
-       "text": "Zabezpieczenie i przekazanie przedmiotów"
+       "text": "wzywającemu wszystkie przedmioty, dokumenty oraz dowody związane z przestępstwem stanowiącym podstawę wydania. Przedmioty, o których mowa w niniejszym artykule, mogą być przekazane w takim zakresie, w jakim pozwala na to prawo Państwa wezwanego, także wówczas, gdy wydanie nie może nastąpić z powodu śmierci, zniknięcia lub ucieczki poszukiwanej osoby."
       }
      ]
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W zakresie dozwolonym przez swoje prawo Państwo wezwane może zabezpieczyć i przekazać Państwu",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "wzywającemu wszystkie przedmioty, dokumenty oraz dowody związane z przestępstwem stanowiącym podstawę wydania. Przedmioty, o których mowa w niniejszym artykule, mogą być przekazane w takim zakresie, w jakim pozwala na to prawo Państwa wezwanego, także wówczas, gdy wydanie nie może nastąpić z powodu śmierci, zniknięcia lub ucieczki poszukiwanej osoby."
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo wezwane może uzależnić przekazanie przedmiotów od zadowalających gwarancji Państwa wzywającgo, że przedmioty te zostaną zwrócone Państwu wezwanemu tak szybko, jak to będzie możliwe. Państwo wezwane może również odroczyć przekazanie takich przedmiotów, jeżeli są one niezbędne jako dowody w Państwie wezwanym.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Prawa osób trzecich do tych przedmiotów będą należycie respektowane.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 19"
-    },
-    {
-     "type": "text",
-     "text": "Zasada ograniczenia ścigania"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Osoba wydana na mocy niniejszej umowy nie może być pozbawiona wolności, ścigana karnie, skazana lub poddana wykonaniu kary w Państwie wzywającym za przestępstwa, z wyjątkiem:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_1/lit_a",
-     "text": "przestępstwa, za które nastąpiło wydanie, lub odmiennie określonego przestępstwa opartego na tych samych faktach, za które nastąpiło wydanie, o ile takie przestępstwo jest przestępstwem stanowiącym podstawę wydania lub stanowi łagodniejszą formę takiego przestępstwa,",
+     "type": "ust",
+     "num": "2",
+     "path": "art_18/ust_2",
+     "text": "Państwo wezwane może uzależnić przekazanie przedmiotów od zadowalających gwarancji Państwa wzywającgo, że przedmioty te zostaną zwrócone Państwu wezwanemu tak szybko, jak to będzie możliwe. Państwo wezwane może również odroczyć przekazanie takich przedmiotów, jeżeli są one niezbędne jako dowody w Państwie wezwanym.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_1/lit_b",
-     "text": "przestępstwa popełnionego po wydaniu osoby,",
+     "type": "ust",
+     "num": "3",
+     "path": "art_18/ust_3",
+     "text": "Prawa osób trzecich do tych przedmiotów będą należycie respektowane.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 18"
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Zasada ograniczenia ścigania",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Osoba wydana na mocy niniejszej umowy nie może być pozbawiona wolności, ścigana karnie, skazana lub poddana wykonaniu kary w Państwie wzywającym za przestępstwa, z wyjątkiem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_19/ust_1/lit_a",
+       "text": "przestępstwa, za które nastąpiło wydanie, lub odmiennie określonego przestępstwa opartego na tych samych faktach, za które nastąpiło wydanie, o ile takie przestępstwo jest przestępstwem stanowiącym podstawę wydania lub stanowi łagodniejszą formę takiego przestępstwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_19/ust_1/lit_b",
+       "text": "przestępstwa popełnionego po wydaniu osoby,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_19/ust_1/lit_c",
+       "text": "przestępstwa, co do którego organ wykonujący Państwa wezwanego wyraził zgodę na pozbawienie wolności, ściganie karne, skazanie lub wykonanie kary wobec danej osoby. W rozumieniu niniejszego punktu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "(i) Państwo wezwane może wymagać przedstawienia dokumentów określonych w artykule 9 oraz,"
+        },
+        {
+         "type": "text",
+         "text": "(ii) o ile Państwo wezwane nie wyrazi sprzeciwu na piśmie, osoba wydana może zostać zatrzymana przez Państwo wzywające na dziewięćdziesiąt"
+        },
+        {
+         "type": "text",
+         "text": "(90) dni lub na taki dłuższy czas, na jaki zezwoli Państwo wezwane, wówczas gdy wniosek jest rozpatrywany."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Osoba wydana na mocy niniejszej umowy nie może być następnie wydana państwu trzeciemu za przestępstwo popełnione przed przekazaniem, chyba że Państwo przekazujące wyrazi zgodę.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "c",
-     "path": "ust_1/lit_c",
-     "text": "przestępstwa, co do którego organ wykonujący Państwa wezwanego wyraził zgodę na pozbawienie wolności, ściganie karne, skazanie lub wykonanie kary wobec danej osoby. W rozumieniu niniejszego punktu:",
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "Postanowienia ustępów 1 i 2 nie wyłączają pozbawienia wolności, ścigania karnego, skazania lub wykonania kary wobec osoby wydanej ani dalszego wydania tej osoby państwu trzeciemu, jeżeli:",
      "children": [
       {
-       "type": "text",
-       "text": "(i) Państwo wezwane może wymagać przedstawienia dokumentów określonych w artykule 9 oraz,"
+       "type": "lit",
+       "num": "a",
+       "path": "art_19/ust_3/lit_a",
+       "text": "osoba ta po wydaniu opuściła terytorium Państwa wzywającego i następnie dobrowolnie tam powróci lub",
+       "children": []
       },
       {
-       "type": "text",
-       "text": "(ii) o ile Państwo wezwane nie wyrazi sprzeciwu na piśmie, osoba wydana może zostać zatrzymana przez Państwo wzywające na dziewięćdziesiąt"
-      },
-      {
-       "type": "text",
-       "text": "(90) dni lub na taki dłuższy czas, na jaki zezwoli Państwo wezwane, wówczas gdy wniosek jest rozpatrywany."
+       "type": "lit",
+       "num": "b",
+       "path": "art_19/ust_3/lit_b",
+       "text": "osoba ta nie opuści terytorium Państwa wzywającego w terminie trzydziestu (30) dni od dnia, w którym uzyskała możliwość swobodnego wyjazdu.",
+       "children": []
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 19"
   },
   {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Osoba wydana na mocy niniejszej umowy nie może być następnie wydana państwu trzeciemu za przestępstwo popełnione przed przekazaniem, chyba że Państwo przekazujące wyrazi zgodę.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Postanowienia ustępów 1 i 2 nie wyłączają pozbawienia wolności, ścigania karnego, skazania lub wykonania kary wobec osoby wydanej ani dalszego wydania tej osoby państwu trzeciemu, jeżeli:",
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Ekstradycja uproszczona",
    "children": [
     {
-     "type": "lit",
-     "num": "a",
-     "path": "ust_3/lit_a",
-     "text": "osoba ta po wydaniu opuściła terytorium Państwa wzywającego i następnie dobrowolnie tam powróci lub",
+     "type": "text",
+     "text": "Jeżeli wydanie osoby Państwu wzywającemu nie jest w sposób oczywisty wyłączone przez prawo Państwa wezwanego oraz pod warunkiem, że osoba, o której wydanie się wnosi, nieodwołalnie wyrazi pisemną zgodę na swoją ekstradycję po osobistym poinformowaniu jej przez sędziego lub właściwego urzędnika o jej prawach do formalnego postępowania ekstradycyjnego oraz zapewnianej przez to postępowanie ochronie, którą by utraciła, Państwo wezwane może wydać tę osobę bez wcześniejszego przeprowadzenia formalnego postępowania ekstradycyjnego. W takim wypadku artykuł 19 nie będzie miał zastosowania."
+    }
+   ],
+   "label": "Artykuł 20"
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Tranzyt",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Każde z Umawiających się Państw może zezwolić na tranzyt przez swoje terytorium osoby wydanej drugiemu Państwu przez państwo trzecie. Wniosek o tranzyt zostanie przekazany w drodze dyplomatycznej lub bezpośrednio pomiędzy Ministerstwem Sprawiedliwości Rzeczypospolitej Polskiej a Departamentem Sprawiedliwości Stanów Zjednoczonych. Międzynarodowa Organizacja Policji Kryminalnej (Interpol) może pośredniczyć przy przekazywaniu takiego wniosku. Powinien on zawierać dane dotyczące tożsamości osoby transportowanej oraz krótki opis stanu faktycznego sprawy. Podczas tranzytu osoba transportowana może być pozbawiona wolności.",
      "children": []
     },
     {
-     "type": "lit",
-     "num": "b",
-     "path": "ust_3/lit_b",
-     "text": "osoba ta nie opuści terytorium Państwa wzywającego w terminie trzydziestu (30) dni od dnia, w którym uzyskała możliwość swobodnego wyjazdu.",
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Zgoda nie jest wymagana w wypadku korzystania przez jedno z Umawiających się Państw z drogi lotniczej, gdy nie jest przewidziane lądowanie na terytorium drugiego Umawiającego się Państwa. W wypadku lądowania nieprzewidzianego na terytorium drugiego Umawiającego się Państwa, to Umawiające się Państwo może żądać wniosku o tranzyt przewidzianego w ustępie 1. To Umawiające się Państwo może zatrzymać osobę, która ma być transportowana, do czasu otrzymania wniosku o tranzyt i zrealizowania tranzytu, o ile wniosek zostanie otrzymany w ciągu dziewięćdziesięciu sześciu",
      "children": [
       {
        "type": "text",
-       "text": "Artykuł 20"
-      },
-      {
-       "type": "text",
-       "text": "Ekstradycja uproszczona"
-      },
-      {
-       "type": "text",
-       "text": "Jeżeli wydanie osoby Państwu wzywającemu nie jest w sposób oczywisty wyłączone przez prawo Państwa wezwanego oraz pod warunkiem, że osoba, o której wydanie się wnosi, nieodwołalnie wyrazi pisemną zgodę na swoją ekstradycję po osobistym poinformowaniu jej przez sędziego lub właściwego urzędnika o jej prawach do formalnego postępowania ekstradycyjnego oraz zapewnianej przez to postępowanie ochronie, którą by utraciła, Państwo wezwane może wydać tę osobę bez wcześniejszego przeprowadzenia formalnego postępowania ekstradycyjnego. W takim wypadku artykuł 19 nie będzie miał zastosowania."
-      },
-      {
-       "type": "text",
-       "text": "Artykuł 21"
-      },
-      {
-       "type": "text",
-       "text": "Tranzyt"
+       "text": "(96) godzin od nieprzewidzianego lądowania."
       }
      ]
     }
-   ]
+   ],
+   "label": "Artykuł 21"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Każde z Umawiających się Państw może zezwolić na tranzyt przez swoje terytorium osoby wydanej drugiemu Państwu przez państwo trzecie. Wniosek o tranzyt zostanie przekazany w drodze dyplomatycznej lub bezpośrednio pomiędzy Ministerstwem Sprawiedliwości Rzeczypospolitej Polskiej a Departamentem Sprawiedliwości Stanów Zjednoczonych. Międzynarodowa Organizacja Policji Kryminalnej (Interpol) może pośredniczyć przy przekazywaniu takiego wniosku. Powinien on zawierać dane dotyczące tożsamości osoby transportowanej oraz krótki opis stanu faktycznego sprawy. Podczas tranzytu osoba transportowana może być pozbawiona wolności.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Zgoda nie jest wymagana w wypadku korzystania przez jedno z Umawiających się Państw z drogi lotniczej, gdy nie jest przewidziane lądowanie na terytorium drugiego Umawiającego się Państwa. W wypadku lądowania nieprzewidzianego na terytorium drugiego Umawiającego się Państwa, to Umawiające się Państwo może żądać wniosku o tranzyt przewidzianego w ustępie 1. To Umawiające się Państwo może zatrzymać osobę, która ma być transportowana, do czasu otrzymania wniosku o tranzyt i zrealizowania tranzytu, o ile wniosek zostanie otrzymany w ciągu dziewięćdziesięciu sześciu",
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Pomoc prawna i koszty",
    "children": [
     {
-     "type": "text",
-     "text": "(96) godzin od nieprzewidzianego lądowania."
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "W każdym postępowaniu wynikającym z wniosku o wydanie Państwo wezwane będzie pomagać, występować w sądzie oraz reprezentować interesy Państwa wzywającego.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Artykuł 22"
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Państwo wzywające ponosi koszty związane z tłumaczeniem dokumentów oraz transportem osoby przekazywanej. Państwo wezwane pokryje wszystkie",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "pozostałe koszty powstałe w tym Państwie na skutek postępowania ekstradycyjnego."
+      }
+     ]
     },
     {
-     "type": "text",
-     "text": "Pomoc prawna i koszty"
+     "type": "ust",
+     "num": "3",
+     "path": "art_22/ust_3",
+     "text": "Żadne z Państw nie będzie występowało przeciwko drugiemu Państwu z innymi roszczeniami pieniężnymi i wynikłymi z postępowań ekstradycyjnych na mocy niniejszej umowy.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 22"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "W każdym postępowaniu wynikającym z wniosku o wydanie Państwo wezwane będzie pomagać, występować w sądzie oraz reprezentować interesy Państwa wzywającego.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo wzywające ponosi koszty związane z tłumaczeniem dokumentów oraz transportem osoby przekazywanej. Państwo wezwane pokryje wszystkie",
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Konsultacje",
    "children": [
     {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+     "type": "ust",
+     "num": "1",
+     "path": "art_23/ust_1",
+     "text": "Ministerstwo Sprawiedliwości Rzeczypospolitej Polskiej i Departament Sprawiedliwości Stanów Zjednoczonych mogą bezpośrednio lub za pośrednictwem Międzynarodowej Organizacji Policji Kryminalnej (Interpol) prowadzić konsultacje w związku z realizacją poszczególnych spraw oraz w celu zapewnienia utrzymania i usprawnienia postępowań toczących się na podstawie niniejszej umowy.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "pozostałe koszty powstałe w tym Państwie na skutek postępowania ekstradycyjnego."
+     "type": "ust",
+     "num": "2",
+     "path": "art_23/ust_2",
+     "text": "Państwo wzywające na wniosek Państwa wezwanego zawiadomi Państwo wezwane o stanie postępowania w sprawie przeciwko osobie, która została wydana, i przekaże odpis prawomocnego orzeczenia, jeżeli takie orzeczenie zostało wydane w danej sprawie.",
+     "children": []
     }
-   ]
+   ],
+   "label": "Artykuł 23"
   },
   {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Żadne z Państw nie będzie występowało przeciwko drugiemu Państwu z innymi roszczeniami pieniężnymi i wynikłymi z postępowań ekstradycyjnych na mocy niniejszej umowy.",
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Zakres zastosowania",
    "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 23"
-    },
-    {
-     "type": "text",
-     "text": "Konsultacje"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Ministerstwo Sprawiedliwości Rzeczypospolitej Polskiej i Departament Sprawiedliwości Stanów Zjednoczonych mogą bezpośrednio lub za pośrednictwem Międzynarodowej Organizacji Policji Kryminalnej (Interpol) prowadzić konsultacje w związku z realizacją poszczególnych spraw oraz w celu zapewnienia utrzymania i usprawnienia postępowań toczących się na podstawie niniejszej umowy.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Państwo wzywające na wniosek Państwa wezwanego zawiadomi Państwo wezwane o stanie postępowania w sprawie przeciwko osobie, która została wydana, i przekaże odpis prawomocnego orzeczenia, jeżeli takie orzeczenie zostało wydane w danej sprawie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Artykuł 24"
-    },
-    {
-     "type": "text",
-     "text": "Zakres zastosowania"
-    },
     {
      "type": "text",
      "text": "Niniejsza umowa będzie miała zastosowanie do przestępstw popełnionych zarówno przed, jak i po dacie jej wejścia w życie. Jeżeli jednak przestępstwo zostało popełnione przed wejściem w życie niniejszej umowy i nie było przestępstwem według prawa obu Umawiających się Państw w czasie jego popełnienia, organ wykonujący Państwa wezwanego może według swego uznania uwzględnić wniosek o wydanie."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 25"
-    },
-    {
-     "type": "text",
-     "text": "Organy wykonujące"
-    },
-    {
-     "type": "text",
-     "text": "Dla Rzeczypospolitej Polskiej organem wykonującym będzie Minister Sprawiedliwości — Prokurator Generalny lub osoba wyznaczona przez Ministra Sprawiedliwości — Prokuratora Generalnego. Dla Stanów Zjednoczonych Ameryki organem wykonującym będzie Sekretarz Stanu lub osoba wyznaczona przez Sekretarza Stanu."
-    },
-    {
-     "type": "text",
-     "text": "Artykuł 26"
-    },
-    {
-     "type": "text",
-     "text": "Ratyfikacja i wejście w życie"
     }
-   ]
+   ],
+   "label": "Artykuł 24"
   },
   {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Niniejsza umowa podlega ratyfikacji, a dokumenty ratyfikacyjne zostaną wymienione w Warszawie możliwie jak najszybciej.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Niniejsza umowa wejdzie w życie 30 dni po wymianie dokumentów ratyfikacyjnych.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Z chwilą wejścia w życie niniejszej umowy przestaną obowiązywać pomiędzy Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki Traktat ekstradycyjny między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki wraz z protokołem dołączonym do Traktatu, podpisane w Warszawie dnia 22 listopada 1927 r., oraz Dodatkowy traktat ekstradycyjny podpisany w Warszawie dnia 5 kwietnia 1935 r. Jednakże Traktat z 1927 r. uzupełniony Dodatkowym traktatem z 1935 r. będzie miał nadal zastosowanie do postępowań ekstradycyjnych, w których dokumenty dotyczące wniosku o wydanie przed dniem wejścia w życie niniejszej umowy były już przekazane Państwu wezwanemu, z tym jednak, że do tych postępowań będą miały zastosowanie artykuły 2, 3, 5, 16, 19 i 20 niniejszej umowy. Do osób, które podlegają wydaniu na podstawie dotychczasowego Traktatu, będzie miał zastosowanie artykuł 19 niniejszej umowy.",
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Organy wykonujące",
    "children": [
     {
      "type": "text",
-     "text": "Artykuł 27"
+     "text": "Dla Rzeczypospolitej Polskiej organem wykonującym będzie Minister Sprawiedliwości — Prokurator Generalny lub osoba wyznaczona przez Ministra Sprawiedliwości — Prokuratora Generalnego. Dla Stanów Zjednoczonych Ameryki organem wykonującym będzie Sekretarz Stanu lub osoba wyznaczona przez Sekretarza Stanu."
+    }
+   ],
+   "label": "Artykuł 25"
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Ratyfikacja i wejście w życie",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_26/ust_1",
+     "text": "Niniejsza umowa podlega ratyfikacji, a dokumenty ratyfikacyjne zostaną wymienione w Warszawie możliwie jak najszybciej.",
+     "children": []
     },
     {
-     "type": "text",
-     "text": "Wypowiedzenie"
+     "type": "ust",
+     "num": "2",
+     "path": "art_26/ust_2",
+     "text": "Niniejsza umowa wejdzie w życie 30 dni po wymianie dokumentów ratyfikacyjnych.",
+     "children": []
     },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_26/ust_3",
+     "text": "Z chwilą wejścia w życie niniejszej umowy przestaną obowiązywać pomiędzy Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki Traktat ekstradycyjny między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki wraz z protokołem dołączonym do Traktatu, podpisane w Warszawie dnia 22 listopada 1927 r., oraz Dodatkowy traktat ekstradycyjny podpisany w Warszawie dnia 5 kwietnia 1935 r. Jednakże Traktat z 1927 r. uzupełniony Dodatkowym traktatem z 1935 r. będzie miał nadal zastosowanie do postępowań ekstradycyjnych, w których dokumenty dotyczące wniosku o wydanie przed dniem wejścia w życie niniejszej umowy były już przekazane Państwu wezwanemu, z tym jednak, że do tych postępowań będą miały zastosowanie artykuły 2, 3, 5, 16, 19 i 20 niniejszej umowy. Do osób, które podlegają wydaniu na podstawie dotychczasowego Traktatu, będzie miał zastosowanie artykuł 19 niniejszej umowy.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 26"
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Wypowiedzenie",
+   "children": [
     {
      "type": "text",
      "text": "Każde z Umawiających się Państw może wypowiedzieć niniejszą umowę w dowolnym czasie przez pisemne zawiadomienie drugiego Umawiającego się Państwa, a wypowiedzenie nabierze mocy po upływie sześciu miesięcy od daty otrzymania takiego zawiadomienia."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego niżej podpisani, należycie w tym celu upoważnieni przez ich właściwe władze, podpisali niniejszą umowę."
-    },
-    {
-     "type": "text",
-     "text": "Sporządzono w Waszyngtonie dnia 10 lipca 1996 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym obydwa teksty mają jednakową moc."
-    },
-    {
-     "type": "text",
-     "text": "W imieniu Stanów W imieniu Zjednoczonych Ameryki Rzeczypospolitej Polskiej"
-    },
-    {
-     "type": "text",
-     "text": "D. Rosati S. Talbott"
-    },
-    {
-     "type": "text",
-     "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana."
-    },
-    {
-     "type": "text",
-     "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "Dano w Warszawie dnia 20 stycznia 1997 r."
     }
-   ]
+   ],
+   "label": "Artykuł 27"
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego niżej podpisani, należycie w tym celu upoważnieni przez ich właściwe władze, podpisali niniejszą umowę."
+  },
+  {
+   "type": "text",
+   "text": "Sporządzono w Waszyngtonie dnia 10 lipca 1996 r. w dwóch egzemplarzach, każdy w językach polskim i angielskim, przy czym obydwa teksty mają jednakową moc."
+  },
+  {
+   "type": "text",
+   "text": "W imieniu Stanów W imieniu Zjednoczonych Ameryki Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "D. Rosati S. Talbott"
+  },
+  {
+   "type": "text",
+   "text": "Po zaznajomieniu się z powyższą umową, w imieniu Rzeczypospolitej Polskiej oświadczam, że: — została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych, — jest przyjęta, ratyfikowana i potwierdzona, — będzie niezmiennie zachowywana."
+  },
+  {
+   "type": "text",
+   "text": "Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "Dano w Warszawie dnia 20 stycznia 1997 r."
   },
   {
    "type": "signature",
