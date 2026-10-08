@@ -97,6 +97,9 @@ W 21 aktach brakuje początku (numeru, tytułu, pierwszych przepisów): ich PDF 
 a początek jest tylko w PDF poprzedniej pozycji (lista w README na GitHubie, „Znane usterki”; może nie być pełna).
 Numery pozycji list 50–59 i 80–89 ze stron z OCR były zamienione na „§ 0”–„§ 9” (241 wierszy w 25 aktach);
 od eli2md 0.6.39 (2026-10-07) zostało 13 wierszy w 2 aktach (DU/1998/7, DU/1998/1158; README na GitHubie, „Znane usterki”).
+Losowa próbka 32 aktów tego zbioru (2026-10-08; 100 pierwszych słów i pierwsza strona porównane z obrazem strony):
+mediana 99% poprawnych słów, co najmniej 90% w 29 z 32 aktów; w 4 z 32 aktach usterka na pierwszej stronie
+(przeplatane łamy albo koniec poprzedniego aktu przed początkiem), czyli w zbiorze prawdopodobnie 5–28% aktów.
 Szczegóły: [README na GitHubie](https://github.com/PolskiAgentW/dziennik-ustaw-1990-1999-md#jak-dobre-jest).
 
 **To nie jest urzędowy tekst.** Wiążący jest PDF w Dzienniku Ustaw (`source_pdf`). Błędy konwersji zgłaszaj
