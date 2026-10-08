@@ -53,7 +53,7 @@ konwertera), odsetek słów oficjalnego tekstu odczytanych we właściwej kolejn
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-06 22:09 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-08 16:19 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -152,6 +152,16 @@ obowiązujących z lat 1998–1999, ziarno 5401; w 11-stronicowej umowie pierwsz
 
 We wszystkich 5 akt jest wycięty bez tekstu sąsiednich pozycji (DU/1999/1069: poz. 1070; DU/1999/890: poz. 891, 892)
 i łamy są czytane we właściwej kolejności. Próba jest mała: odsetka błędnych aktów na tej podstawie nie da się ocenić.
+
+**Losowa próbka 32 aktów** (2026-10-08, pliki z tego repozytorium; 3 akty z każdego roku 1990–1997 i 4 z lat
+1998–1999; pierwsze 100 słów i pierwsza strona porównane z obrazem strony):
+- poprawnych słów w pierwszych 100: mediana 99%, co najmniej 90% w 29 z 32 aktów;
+- usterka na pierwszej stronie w 4 z 32 aktów, czyli w zbiorze prawdopodobnie 5–28% aktów (95% przedział):
+  przeplatane łamy (DU/1993/592, DU/1997/248), fragmenty tabeli przed § 1 (DU/1995/790) albo koniec poprzedniego
+  aktu przed początkiem (DU/1994/208).
+
+Metoda, próbka i oceny per akt:
+[eval/scans_1990_1999/probka_2026-10-08](https://github.com/PolskiAgentW/eli2md/tree/main/eval/scans_1990_1999/probka_2026-10-08).
 
 ## Znane usterki
 
