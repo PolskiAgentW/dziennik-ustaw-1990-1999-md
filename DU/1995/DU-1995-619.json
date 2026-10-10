@@ -57,11 +57,8 @@
    "text": "postanowiły zawrzeć niniejszą umowę i uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "CZĘŚĆ PIERWSZA"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
    "text": "POSTANOWIENIA OGÓLNE"
   },
   {
@@ -578,17 +575,14 @@
     {
      "type": "text",
      "text": "Pomocy prawnej nie udziela się, jeżeli jej udzielenie może zagrozić suwerenności lub bezpieczeństwu państwa albo pozostawałoby w sprzeczności z podstawowymi zasadami prawa wezwanej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ DRUGA"
-    },
-    {
-     "type": "text",
-     "text": "STOSUNKI PRAWNE W SPRAWACH CYWILNYCH, RODZINNYCH I PRACOWNICZYCH"
     }
    ],
    "label": "Artykuł 19"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ DRUGA",
+   "text": "STOSUNKI PRAWNE W SPRAWACH CYWILNYCH, RODZINNYCH I PRACOWNICZYCH"
   },
   {
    "type": "art",
@@ -1768,19 +1762,15 @@
      "num": "3",
      "path": "art_59/ust_3",
      "text": "Sąd tej Umawiającej się Strony, na której terytorium koszty postępowania zostały wyłożone zaliczkowo przez państwo, może zwrócić się do właściwego sądu drugiej Umawiającej się Strony o ściągnięcie tych kosztów. Sąd ten przeprowadzi egzekucję zgodnie ze swym prawem bez pobierania opłat i przekaże wyegzekwowane kwoty przedstawicielstwu dyplomatycznemu lub urzędowi konsularnemu drugiej Umawiającej się Strony. Postanowienia ustępów 1 i 2 stosuje się odpowiednio.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CZĘŚĆ TRZECIA"
-      },
-      {
-       "type": "text",
-       "text": "STOSUNKI PRAWNE W SPRAWACH KARNYCH"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 59"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ TRZECIA",
+   "text": "STOSUNKI PRAWNE W SPRAWACH KARNYCH"
   },
   {
    "type": "heading",
@@ -3074,21 +3064,17 @@
        "num": "2",
        "path": "art_104/ust_2/pkt_2",
        "text": "przekazany skazany pozostał w Państwie wykonania wyroku dłużej niż 45 dni po ostatecznym zwolnieniu, chociaż miat prawo i mógł terytorium tego Państwa opuścić, albo gdy po opuszczeniu tego Państwa dobrowolnie tam powrócił.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ CZWARTA"
-        },
-        {
-         "type": "text",
-         "text": "POSTANOWIENIA OGÓLNE"
-        }
-       ]
+       "children": []
       }
      ]
     }
    ],
    "label": "Artykuł 104"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ CZWARTA",
+   "text": "POSTANOWIENIA OGÓLNE"
   },
   {
    "type": "art",

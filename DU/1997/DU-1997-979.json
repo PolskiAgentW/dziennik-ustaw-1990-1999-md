@@ -25,11 +25,8 @@
    "text": "Na podstawie art. 29a ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. Nr 88, poz. 400, z 1992 r. Nr 21, poz. 86 i Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17 i Nr 34, poz. 163, z 1996 r. Nr 106, poz. 496 i Nr 152, poz. 723 oraz z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 106, poz. 680) zarządza się, co następuje:"
   },
   {
-   "type": "text",
-   "text": "DZIAŁ PIERWSZY"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "DZIAŁ PIERWSZY",
    "text": "Przepisy ogólne"
   },
   {
@@ -264,18 +261,14 @@
      "num": "3",
      "path": "par_11/pkt_3",
      "text": "jest możliwe wykonanie określonej czynności przez osobę zgłaszającą się dobrowolnie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ DRUGI"
-      },
-      {
-       "type": "text",
-       "text": "Wymagania bezpieczeństwa i higieny służby w strażnicach"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ DRUGI",
+   "text": "Wymagania bezpieczeństwa i higieny służby w strażnicach"
   },
   {
    "type": "heading",
@@ -1020,18 +1013,15 @@
       {
        "type": "text",
        "text": "ciem."
-      },
-      {
-       "type": "text",
-       "text": "DZIAŁ TRZECI"
-      },
-      {
-       "type": "text",
-       "text": "Wymagania bezpieczeństwa i higieny podczas szkolenia"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ TRZECI",
+   "text": "Wymagania bezpieczeństwa i higieny podczas szkolenia"
   },
   {
    "type": "heading",
@@ -1491,18 +1481,14 @@
      "num": "7",
      "path": "par_46/ust_7",
      "text": "Pozorowanie ratowania osób z pomieszczeń zadymionych, nie oświetlonych, o trudno dostępnym lub skomplikowanym układzie, może odbywać się wyłącznie przy stosowaniu manekinów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ CZWARTY"
-      },
-      {
-       "type": "text",
-       "text": "Sprzęt i urządzenia ratownicze"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ CZWARTY",
+   "text": "Sprzęt i urządzenia ratownicze"
   },
   {
    "type": "heading",
@@ -1978,16 +1964,12 @@
    "num": "61",
    "path": "par_61",
    "text": "W przypadkach, w których akcja ratownicza obejmuje różne rodzaje działań, doboru metod i środków gwarantujących bezpieczeństwo ratowników dokonać należy z uwzględnieniem zasad zawartych w poszczególnych rozdziałach niniejszego rozporządzenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "DZIAŁ PIĄTY"
-    },
-    {
-     "type": "text",
-     "text": "Wymagania bezpieczeństwa i higieny pracy podczas działań ratowniczych"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ PIĄTY",
+   "text": "Wymagania bezpieczeństwa i higieny pracy podczas działań ratowniczych"
   },
   {
    "type": "heading",
@@ -3736,18 +3718,14 @@
      "num": "3",
      "path": "par_125/pkt_3",
      "text": "wyznaczać drogi odwrotu i miejsca ewakuacji z zagrożonych stanowisk.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ SZÓSTY"
-      },
-      {
-       "type": "text",
-       "text": "Środki zabezpieczenia medycznego"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ SZÓSTY",
+   "text": "Środki zabezpieczenia medycznego"
   },
   {
    "type": "par",
@@ -3840,16 +3818,12 @@
    "num": "131",
    "path": "par_131",
    "text": "Po akcjach ratowniczych, prowadzonych w miejscach narażających na kontakt z chorobami zakaźnymi, promieniowaniem jonizującym i innymi czynnikami szkodliwymi dla zdrowia, uczestników akcji należy poddać zabiegom profilaktycznym i lekarskim badaniom specjalistycznym według zaleceń służby zdrowia lub innego właściwego organu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "DZIAŁ SIÓDMY"
-    },
-    {
-     "type": "text",
-     "text": "Przepis końcowy"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ SIÓDMY",
+   "text": "Przepis końcowy"
   },
   {
    "type": "par",

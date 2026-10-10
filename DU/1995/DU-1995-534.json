@@ -57,11 +57,8 @@
    "text": "uzgodniły, co następuje:"
   },
   {
-   "type": "text",
-   "text": "CZĘŚĆ PIERWSZA"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
    "text": "Postanowienia ogólne"
   },
   {
@@ -573,17 +570,13 @@
    "num": "20",
    "path": "art_20",
    "text": "Podania obywateli jednej Umawiającej się Strony o wydanie i nadesłanie dokumentów dotyczących wykształcenia, stażu pracy i innych dokumentów dotyczących osobistych lub majątkowych praw i interesów tych obywateli mogą być przesyłane bezpośrednio do właściwych organów drugiej Umawiającej się Strony. Dokumenty przesyła się obywatelowi za pośrednictwem przedstawicielstwa dyplomatycznego lub urzędu konsularnego tej Umawiającej się Strony, której organ dokumenty te wydał. Przedstawicielstwo dyplomatyczne lub urząd konsularny, przekazując obywatelowi dokumenty, pobiera opłatę za ich wystawienie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "CZĘŚĆ DRUGA"
-    },
-    {
-     "type": "text",
-     "text": "Sprawy cywilne, rodzinne i pracownicze"
-    }
-   ],
+   "children": [],
    "label": "Artykuł 20"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ DRUGA",
+   "text": "Sprawy cywilne, rodzinne i pracownicze"
   },
   {
    "type": "art",
@@ -1805,27 +1798,23 @@
      "num": "3",
      "path": "art_60/ust_3",
      "text": "Organ tej Umawiającej się Strony, na której terytorium koszty postępowania zostały wyłożone zaliczkowo przez państwo, zwróci się do właściwego sądu drugiej Umawiającej się Strony o ściągnięcie tych kosztów. Sąd ten ściągnie koszty zgodnie ze swym prawem, bez pobierania opłat, i przekaże ściągnięte kwoty przedstawicielstwu dyplomatycznemu lub urzędowi konsularnemu drugiej Umawiającej się Strony. Postanowienia ustępów 1 i 2 stosuje się odpowiednio.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CZĘŚĆ TRZECIA"
-      },
-      {
-       "type": "text",
-       "text": "Sprawy karne"
-      },
-      {
-       "type": "text",
-       "text": "Rozdział pierwszy"
-      },
-      {
-       "type": "text",
-       "text": "PRZEJĘCIE ŚCIGANIA KARNEGO"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 60"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ TRZECIA",
+   "text": "Sprawy karne"
+  },
+  {
+   "type": "text",
+   "text": "Rozdział pierwszy"
+  },
+  {
+   "type": "text",
+   "text": "PRZEJĘCIE ŚCIGANIA KARNEGO"
   },
   {
    "type": "art",
@@ -3170,17 +3159,14 @@
     {
      "type": "text",
      "text": "Jeżeli wezwana Umawiająca się Strona uzna przekazane dane i dokumenty za niewystarczające, zwraca się o konieczne uzupełnienie. Dla uzyskania tego uzupełnienia wezwana Umawiająca się Strona może ustalić stosowny termin; na uzasadniony wniosek termin ten można przedłużyć. W braku uzupełnienia rozstrzyga się wniosek na podstawie posiadanych danych i dokumentów."
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ CZWARTA"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia końcowe"
     }
    ],
    "label": "Artykuł 114"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ CZWARTA",
+   "text": "Postanowienia końcowe"
   },
   {
    "type": "art",

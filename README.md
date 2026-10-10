@@ -85,6 +85,15 @@ go nie ma). Wybór w klonie repozytorium: `grep -l '^status_pl: "obowiązujący"
 aktualizowany po konwersji. Teksty są w brzmieniu ogłoszonym w Dzienniku Ustaw, bez późniejszych zmian (tekst
 jednolity, jeśli go ogłoszono, jest osobną pozycją Dziennika Ustaw).
 
+## Zmiana 2026-10-10
+
+Drzewo JSON (kod drzewa eli2md 0.6.50, 6 aktów; opis w README eli2md, wpis 0.6.50): nagłówki z liczebnikiem słownym
+(„DZIAŁ PIĄTY”, „CZĘŚĆ PIERWSZA”), z numerem rzymskim z wielką literą („DZIAŁ IVA”) albo z odnośnikiem po numerze
+(„Rozdział 5a[^28]”) są w `.json` węzłami `heading`. Wcześniej trafiały jako tekst do artykułu, paragrafu albo punktu
+przed nimi. Nowych nagłówków: 22, żaden nie zniknął. `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i
+`index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek bez zmian, słowa w drzewach: zgubione 0.
+Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru).
+
 ## Zmiana 2026-10-07
 
 eli2md 0.6.39 (opis w [README eli2md](https://github.com/PolskiAgentW/eli2md), wpis „0.6.39”). Zmienione pliki 321 aktów:
