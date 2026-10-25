@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/302",
  "title": "Rozporządzenie Ministra Łączności z dnia 31 maja 1993 r. w sprawie określenia systemów telekomunikacyjnych, zakładanych i używanych na terytorium Rzeczypospolitej Polskiej.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/302/text.pdf",
  "body": [
   {
@@ -98,7 +98,7 @@
       },
       {
        "type": "text",
-       "text": "||| ses DQ Dziennik Ustaw Nr 63 —"
+       "text": "||| ses DQ"
       },
       {
        "type": "pkt",
@@ -301,16 +301,20 @@
   {
    "type": "signature",
    "text": "Minister Łączności: wz. 7. Depczyński"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "== 1324 «—"
   }
  ],
  "annexes": [
   {
    "heading": "Załączniki do rozporządzenia Ministra Łączności z dnia 31 maja 1993 r. (poz. 302) Załącznik nr 1",
    "body": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
     {
      "type": "text",
      "text": "ZASADY OBLICZANIA UDZIAŁU PRODUKCJI KRAJOWEJ"
@@ -496,18 +500,34 @@
     },
     {
      "type": "text",
-     "text": "Całkowita wartość Wartość dostaw Kategoria Całkowita wartość inwestycji środków Inwestycja od polskich odsprzedanych przedsiębiorstw Montaż (maszyny, urządzenia do automatycznego testowania) Inżynieria (urządzenia do programowania)"
+     "text": "Całkowita wartość Wartość dostaw Kategoria Całkowita wartość inwestycji środków Inwestycja od polskich odsprzedanych przedsiębiorstw Montaż (maszyny, urządzenia do automatycznego testowania)"
     },
     {
      "type": "text",
-     "text": "Instalacja (urządzenia do testowania w terenie) Administracja Sprzedaż Ogólne"
+     "text": "Inżynieria (urządzenia do programowania)"
+    },
+    {
+     "type": "text",
+     "text": "Instalacja (urządzenia do testowania w terenie)"
+    },
+    {
+     "type": "text",
+     "text": "Administracja Sprzedaż Ogólne"
     },
     {
      "type": "ust",
      "num": "3",
      "path": "ust_3",
-     "text": "Nakłady nie podlegające amortyzacji 3.1. Szkolenie Polskie zakłady zagranicznych producentów sprzętu telekomunikacyjnego powinny dostarczać rokrocznie poniższy raport na temat wydatków ponoszonych na szkolenie w rozbiciu na kategorie według wzoru podanego w punkcie 1. Szkolenie z reguły obejmuje programy techniczne, z zakresu organizacji i zarządzania oraz poprawy jakości. Wszystkie wydatki na szkolenie mają być ujawnione w sprawozdaniu, tzn. wynagrodzenia dla wykładowców z firmy, wykładowców spoza firmy, materiały, pomniejszone o wartość nieproduktywnego czasu osób szkolonych.",
+     "text": "Nakłady nie podlegające amortyzacji",
      "children": [
+      {
+       "type": "text",
+       "text": "3.1. Szkolenie"
+      },
+      {
+       "type": "text",
+       "text": "Polskie zakłady zagranicznych producentów sprzętu telekomunikacyjnego powinny dostarczać rokrocznie poniższy raport na temat wydatków ponoszonych na szkolenie w rozbiciu na kategorie według wzoru podanego w punkcie 1. Szkolenie z reguły obejmuje programy techniczne, z zakresu organizacji i zarządzania oraz poprawy jakości. Wszystkie wydatki na szkolenie mają być ujawnione w sprawozdaniu, tzn. wynagrodzenia dla wykładowców z firmy, wykładowców spoza firmy, materiały, pomniejszone o wartość nieproduktywnego czasu osób szkolonych."
+      },
       {
        "type": "text",
        "text": "Tabela 4"
@@ -518,7 +538,11 @@
       },
       {
        "type": "text",
-       "text": "Koszty szkolenia 3 na kategorie inżynierowie pozostali inżynierowie pozostali Montaż"
+       "text": "Koszty szkolenia 3 na kategorie inżynierowie pozostali inżynierowie pozostali"
+      },
+      {
+       "type": "text",
+       "text": "Montaż"
       },
       {
        "type": "text",

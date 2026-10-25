@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/962",
  "title": "Protokół Nr 11 do Konwencji o ochronie praw człowieka i podstawowych wolności, dotyczący przekształcenia mechanizmu kontrolnego ustanowionego przez Konwencję, sporządzony w Strasburgu dnia 11 maja 1994 r.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/962/text.pdf",
  "body": [
   {
@@ -453,7 +453,7 @@
       },
       {
        "type": "text",
-       "text": "— 6316 = Dziennik Ustaw Nr 147"
+       "text": "— 6316 ="
       }
      ]
     }
@@ -645,6 +645,10 @@
       {
        "type": "note",
        "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 5317 ="
       }
      ]
     }
@@ -860,6 +864,10 @@
       {
        "type": "note",
        "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 5318 ="
       }
      ]
     }

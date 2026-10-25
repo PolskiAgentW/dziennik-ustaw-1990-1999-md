@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/448",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 19 lipca 1996 r. w sprawie zasad wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w jednostkach organizacyjnych pomocy społecznej prowadzonych przez organy administracji rządowej.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/448/text.pdf",
  "body": [
   {
@@ -548,6 +548,10 @@
         {
          "type": "note",
          "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= 261 ="
         }
        ]
       }
@@ -1390,7 +1394,11 @@
       },
       {
        "type": "text",
-       "text": "Zastępca kierownika gospodarstwa Główny księgowy XII—XV 3 | Główny specjalista Radca prawny XII—XV dzenia) do 100 a średnie"
+       "text": "Zastępca kierownika gospodarstwa Główny księgowy XII—XV"
+      },
+      {
+       "type": "text",
+       "text": "3 | Główny specjalista Radca prawny XII—XV dzenia) do 100 a średnie"
       },
       {
        "type": "text",
@@ -1474,7 +1482,7 @@
       },
       {
        "type": "text",
-       "text": "s= 26 == Dziennik Ustaw Nr 96"
+       "text": "s= 26 =="
       }
      ]
     }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1992/496",
  "title": "Rozporządzenie Ministra Finansów z dnia 15 grudnia 1992 r. w sprawie prowadzenia podatkowej księgi przychodów i rozchodów.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1992/496/text.pdf",
  "body": [
   {
@@ -478,7 +478,7 @@
       },
       {
        "type": "text",
-       "text": "17738 = Dziennik Ustaw Nr 99 —"
+       "text": "17738 ="
       },
       {
        "type": "text",
@@ -867,6 +867,10 @@
       {
        "type": "note",
        "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "1775 ="
       },
       {
        "type": "text",
@@ -1358,6 +1362,10 @@
       {
        "type": "note",
        "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "1779 =="
       },
       {
        "type": "text",

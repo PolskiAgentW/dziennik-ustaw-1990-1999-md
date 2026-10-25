@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/454",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 lipca 1996 r. w sprawie zasad wynagradzania pracowników zatrudnionych w niektórych jednostkach organizacyjnych sfery budżetowej resortu spraw wewnętrznych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/454/text.pdf",
  "body": [
   {
@@ -681,6 +681,10 @@
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
+       "type": "text",
+       "text": "= 2135 =="
+      },
+      {
        "type": "pkt",
        "num": "1",
        "path": "par_14/ust_1/pkt_1",
@@ -1218,7 +1222,7 @@
         },
         {
          "type": "text",
-         "text": "= 2448 = Dziennik Ustaw Nr 97"
+         "text": "= 2448 ="
         }
        ]
       },
@@ -1390,6 +1394,10 @@
       {
        "type": "note",
        "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= 2144 —"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/915",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 3 sierpnia 1998 r. w sprawie ustalenia wykazów towarów i technologii objętych szczególną kontrolą obrotu z zagranicą.",
- "converter": "eli2md 0.6.39",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/915/text.pdf",
  "body": [
   {
@@ -3236,7 +3236,7 @@
       },
       {
        "type": "text",
-       "text": "TO0—",
+       "text": "— 50TO0—",
        "quoted": true
       },
       {
@@ -4107,8 +4107,13 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Riketsja gorączki Gór Skalistych (Rickettsia rickettsii). c. Następujące naturalne, wzmocnione lub zmodyfikowane bakterie w postaci „izolowanych żywych kultur” lub materiału zawierającego substancję żywą, który specjalnie zaszczepiono lub zakażono takimi kulturami:",
-     "children": []
+     "text": "Riketsja gorączki Gór Skalistych (Rickettsia rickettsii).",
+     "children": [
+      {
+       "type": "text",
+       "text": "c. Następujące naturalne, wzmocnione lub zmodyfikowane bakterie w postaci „izolowanych żywych kultur” lub materiału zawierającego substancję żywą, który specjalnie zaszczepiono lub zakażono takimi kulturami:"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -4154,10 +4159,6 @@
       {
        "type": "text",
        "text": "Q"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 142"
       }
      ]
     },
@@ -5542,6 +5543,10 @@
       {
        "type": "note",
        "text": "[Strona 35 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 5023:—"
       },
       {
        "type": "text",
@@ -10412,8 +10417,12 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Będące urządzeniami radiowymi, w których zastosowano jedną z poniżej wymienionych technik: a. Technikę kwadraturową modulacji amplitudowej (QAM) powyżej poziomu 4, jeżeli „całkowita szybkość transmisji cyfrowej” jest wyższa niż 8,5 Mbitów/s; b. Technikę kwadraturową modulacji amplitudowej (QAM) powyżej poziomu 16, jeżeli „catkowita szybkość transmisji cyfrowej” jest równa lub mniejsza niż 8,5 Mbitów/s; lub c.lnne techniki modulacji cyfrowej, oraz posiadające „wydajność widmową” powyżej 3 bitów/s/Hz.",
+     "text": "Będące urządzeniami radiowymi, w których zastosowano jedną z poniżej wymienionych technik: a. Technikę kwadraturową modulacji amplitudowej (QAM) powyżej poziomu 4, jeżeli „całkowita szybkość transmisji cyfrowej” jest wyższa niż 8,5 Mbitów/s;",
      "children": [
+      {
+       "type": "text",
+       "text": "b. Technikę kwadraturową modulacji amplitudowej (QAM) powyżej poziomu 16, jeżeli „catkowita szybkość transmisji cyfrowej” jest równa lub mniejsza niż 8,5 Mbitów/s; lub c.lnne techniki modulacji cyfrowej, oraz posiadające „wydajność widmową” powyżej 3 bitów/s/Hz."
+      },
       {
        "type": "text",
        "text": "UWAGI:"
@@ -18457,8 +18466,12 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Skonstruowane w ten sposób, że w normalnych warunkach pracy są wytrzymałe na ciśnienia na głębokości większej niż 1000 m i są zaopatrzone w przetworniki: a.Z dynamiczną kompensacją ciśnienia; lub",
+     "text": "Skonstruowane w ten sposób, że w normalnych warunkach pracy są wytrzymałe na ciśnienia na głębokości większej niż 1000 m i są zaopatrzone w przetworniki:",
      "children": [
+      {
+       "type": "text",
+       "text": "a.Z dynamiczną kompensacją ciśnienia; lub"
+      },
       {
        "type": "text",
        "text": "b. W których elementem przetwarzającym nie jest cyrkonian/tytanian ołowiu;"
@@ -18774,7 +18787,7 @@
       },
       {
        "type": "text",
-       "text": "B8106'—-"
+       "text": "— B8106'—-"
       },
       {
        "type": "text",
@@ -19515,6 +19528,10 @@
       {
        "type": "note",
        "text": "[Strona 123 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= 6111 —"
       }
      ]
     },
@@ -21457,7 +21474,7 @@
       },
       {
        "type": "text",
-       "text": "iże —"
+       "text": "— iże —"
       },
       {
        "type": "text",
@@ -23062,6 +23079,10 @@
         {
          "type": "note",
          "text": "[Strona 147 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "== 5135 =="
         }
        ]
       },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/86",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 23 grudnia 1997 r. w sprawie wzorów dokumentów stwierdzających uprawnienia do kierowania pojazdami.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/86/text.pdf",
  "body": [
   {
@@ -603,8 +603,12 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_4/pkt_3",
-       "text": "wyrazy o treściach: a)w dwóch wierszach — MIĘDZYNARODOWY RUCH SAMOCHODOWY, MIĘDZYNARODOWE PRAWO JAZDY,",
+       "text": "wyrazy o treściach:",
        "children": [
+        {
+         "type": "text",
+         "text": "a)w dwóch wierszach — MIĘDZYNARODOWY RUCH SAMOCHODOWY, MIĘDZYNARODOWE PRAWO JAZDY,"
+        },
         {
          "type": "lit",
          "num": "b",
@@ -1117,7 +1121,7 @@
         },
         {
          "type": "text",
-         "text": "— (898 — Dziennik Ustaw Nr 18"
+         "text": "— (898 —"
         },
         {
          "type": "text",

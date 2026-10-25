@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/245",
  "title": "Rozporządzenie Rady Ministrów z dnia 8 czerwca 1993 r. w sprawie zawieszenia pobierania ceł od niektórych towarów.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/245/text.pdf",
  "body": [
   {
@@ -2860,7 +2860,7 @@
     },
     {
      "type": "text",
-     "text": "— 359 = Dziennik Ustaw Nr 53"
+     "text": "— 359 ="
     },
     {
      "type": "text",
@@ -3260,7 +3260,7 @@
     },
     {
      "type": "text",
-     "text": "= 963 = Dziennik Ustaw Nr 53",
+     "text": "= 963 =",
      "quoted": true
     },
     {
@@ -4281,6 +4281,11 @@
     {
      "type": "note",
      "text": "[Strona 33 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "= 969 =",
+     "quoted": true
     },
     {
      "type": "text",

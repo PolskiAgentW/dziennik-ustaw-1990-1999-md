@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/111",
  "title": "Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 20 grudnia 1996 r. w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane gospodarki wodnej i ich usytuowanie.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/111/text.pdf",
  "body": [
   {
@@ -1699,7 +1699,11 @@
     },
     {
      "type": "text",
-     "text": "maksymalne lub normalne poziomy wód Budowle miarodajne przepływy wezbraniowe betonowe"
+     "text": "maksymalne lub normalne poziomy wód"
+    },
+    {
+     "type": "text",
+     "text": "Budowle miarodajne przepływy wezbraniowe betonowe"
     },
     {
      "type": "text",
@@ -2115,7 +2119,7 @@
       },
       {
        "type": "text",
-       "text": "— 8/5 — Dziennik Ustaw Nr 21"
+       "text": "— 8/5 —"
       }
      ]
     },

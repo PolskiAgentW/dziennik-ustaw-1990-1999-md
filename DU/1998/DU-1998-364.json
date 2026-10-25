@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/364",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 23 marca 1998 r. w sprawie obowiązków sprawozdawczych w zakresie gospodarki paliwowo-energetycznej.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/364/text.pdf",
  "body": [
   {
@@ -926,8 +926,13 @@
      "text": "produkcja brutto w tym w skojarzeniu Energia | zużycie na produkcję energii elektrycznej elektryczna | zużycie na produkcję ciepła zużycie na inne cele | sprzedaż produkcja ogółem Ciepło w tym w skojarzeniu"
     },
     {
+     "type": "heading",
+     "label": "Dział 3",
+     "text": "Rozliczenie zużycia paliw"
+    },
+    {
      "type": "text",
-     "text": "Dział 3. Rozliczenie zużycia paliw Wyszczególnienie 0 Energia chemiczna ze wszystkich paliw | | na produkcję energii elektrycznej | Podział fizyczną | w tym w skojarzeniu paliwa na produkcję ciepła metodą sprawność elektrowni równoważnej elektrowni | na produkcję energii elektrycznej równo- w tym w skojarzeniu ważnej | na produkcję ciepła Wskaźnik zużycia paliwa na ogółem"
+     "text": "Wyszczególnienie 0 Energia chemiczna ze wszystkich paliw | | na produkcję energii elektrycznej | Podział fizyczną | w tym w skojarzeniu paliwa na produkcję ciepła metodą sprawność elektrowni równoważnej elektrowni | na produkcję energii elektrycznej równo- w tym w skojarzeniu ważnej | na produkcję ciepła Wskaźnik zużycia paliwa na ogółem"
     },
     {
      "type": "text",
@@ -1398,6 +1403,10 @@
     },
     {
      "type": "text",
+     "text": "= 2179 ="
+    },
+    {
+     "type": "text",
      "text": "Koszty wytwarzania dzielone są w pierwszym podejściu na działalność podstawową i pomocniczą. W = ramach działalności _ podstawowej wydzielone są następujące składniki : - materiały i energia, - wynagrodzenia i świadczenia, - amoryzacja, - podatki i opłaty, - pozostałe koszty. Wiersz 03 - obejmuje : - wynagrodzenia pracowników działalności podstawowej, - narzuty na wynagrodzenia, - pozostałe świadczenia na rzecz pracowników. Wiersz 06 - należy podawać koszty działalności podstawowej, które nie zostały zaliczone do składników wyszczególnionych wcześniej, jak np. usługi obce na rzecz eksploatacji podstawowej. Koszty działalności pomocniczej są rozdzielone na dwie złożone pozycje : - koszty remontów, - koszty wydziałów pomocniczych."
     },
     {
@@ -1827,6 +1836,11 @@
     },
     {
      "type": "text",
+     "text": "— 2187 =",
+     "quoted": true
+    },
+    {
+     "type": "text",
      "text": "- strefa szczytowa ranna godz. 8° - 11 we wszystkich miesiącach i dniach miesiąca, - strefa szczytowa wieczorna wg poniższej tabelki: Czas trwania Miesiące strefy szczytowej",
      "quoted": true
     },
@@ -2217,6 +2231,10 @@
     {
      "type": "note",
      "text": "[Strona 41 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "= 2197 ="
     },
     {
      "type": "text",
@@ -2624,7 +2642,7 @@
     },
     {
      "type": "text",
-     "text": "BŻÓT —"
+     "text": "—BŻÓT —"
     },
     {
      "type": "text",
@@ -3033,6 +3051,10 @@
     },
     {
      "type": "text",
+     "text": "— 2715 ="
+    },
+    {
+     "type": "text",
      "text": "OBJAŚNIENIA DO FORMULARZA G - 10.5"
     },
     {
@@ -3273,7 +3295,7 @@
     },
     {
      "type": "text",
-     "text": "= 2221 = Dziennik Ustaw Nr 56"
+     "text": "= 2221 ="
     },
     {
      "type": "text",

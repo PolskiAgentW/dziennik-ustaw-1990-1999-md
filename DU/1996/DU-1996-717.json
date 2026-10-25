@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/717",
  "title": "Rozporządzenie Ministra Finansów z dnia 17 grudnia 1996 r. w sprawie karty podatkowej.",
- "converter": "eli2md 0.6.62",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/717/text.pdf",
  "body": [
   {
@@ -570,7 +570,7 @@
       },
       {
        "type": "text",
-       "text": "S169 ="
+       "text": "— S169 ="
       }
      ]
     },
@@ -1475,6 +1475,10 @@
         },
         {
          "type": "text",
+         "text": "37"
+        },
+        {
+         "type": "text",
          "text": "38 39 40 41 42 43 44"
         },
         {
@@ -1488,6 +1492,10 @@
         {
          "type": "note",
          "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "46"
         },
         {
          "type": "text",
@@ -1691,7 +1699,7 @@
         },
         {
          "type": "text",
-         "text": "= AI == Dziennik Ustaw Nr 151"
+         "text": "= AI =="
         },
         {
          "type": "text",
@@ -2012,7 +2020,11 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienia: Stawki oznaczone w rubryce 3: i,"
+     "text": "Objaśnienia:"
+    },
+    {
+     "type": "text",
+     "text": "Stawki oznaczone w rubryce 3: i,"
     },
     {
      "type": "text",
@@ -2141,7 +2153,11 @@
     },
     {
      "type": "text",
-     "text": "Objaśnienia: Stawki określone pod Ip. 1 i 2 mogą być podwyższone, nie więcej jednak niż Ls o 50%, w razie wykonywania działalności ze zmiennikiem. Za zmiennika uważa się również pełnoletniego członka rodziny, nie wyłączając 2. małżonka. 3."
+     "text": "Objaśnienia:"
+    },
+    {
+     "type": "text",
+     "text": "Stawki określone pod Ip. 1 i 2 mogą być podwyższone, nie więcej jednak niż Ls o 50%, w razie wykonywania działalności ze zmiennikiem. Za zmiennika uważa się również pełnoletniego członka rodziny, nie wyłączając 2. małżonka. 3."
     },
     {
      "type": "text",
@@ -2153,7 +2169,19 @@
     },
     {
      "type": "text",
-     "text": "(KM i ee Usługi taksówkowe w zakresie przewozu osób Usługi taksówkowe w zakresie przewozu ładunków Przewozy pasażerskie z wykorzystaniem ludzkiej i zwierzęcej siły pociągowej Usługi transportu wodnego śródlądowego pasażerskiego i towarowego, z wyjątkiem przewozu jednostkami o napędzie mechanicznym"
+     "text": "(KM i ee Usługi taksówkowe w zakresie przewozu osób"
+    },
+    {
+     "type": "text",
+     "text": "Usługi taksówkowe w zakresie przewozu ładunków"
+    },
+    {
+     "type": "text",
+     "text": "Przewozy pasażerskie z wykorzystaniem ludzkiej i zwierzęcej siły pociągowej"
+    },
+    {
+     "type": "text",
+     "text": "Usługi transportu wodnego śródlądowego pasażerskiego i towarowego, z wyjątkiem przewozu jednostkami o napędzie mechanicznym"
     },
     {
      "type": "text",

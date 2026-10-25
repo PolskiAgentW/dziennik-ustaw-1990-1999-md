@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/12",
  "title": "Rozporządzenie Ministra Finansów z dnia 22 grudnia 1995 r. w sprawie szczególnych warunków, którym powinna odpowiadać rachunkowość narodowych funduszy inwestycyjnych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/12/text.pdf",
  "body": [
   {
@@ -14,7 +14,11 @@
   },
   {
    "type": "text",
-   "text": "Zobowiązania i rezerwy razem (G+H+1+J) Aktywa netto (A+B+€+D+E+F-G—H-|-J)"
+   "text": "Zobowiązania i rezerwy razem (G+H+1+J)"
+  },
+  {
+   "type": "text",
+   "text": "Aktywa netto (A+B+€+D+E+F-G—H-|-J)"
   },
   {
    "type": "text",
@@ -128,7 +132,11 @@
      "children": [
       {
        "type": "text",
-       "text": "B. Pozostałe przychody operacyjne C. Koszty operacyjne"
+       "text": "B. Pozostałe przychody operacyjne"
+      },
+      {
+       "type": "text",
+       "text": "C. Koszty operacyjne"
       }
      ]
     },
@@ -186,8 +194,13 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Straty nadzwyczajne J. Zysk (strata) brutto (H+/-1) K.Obowiązkowe obciążenia wyniku finansowego",
-     "children": []
+     "text": "Straty nadzwyczajne",
+     "children": [
+      {
+       "type": "text",
+       "text": "J. Zysk (strata) brutto (H+/-1) K.Obowiązkowe obciążenia wyniku finansowego"
+      }
+     ]
     },
     {
      "type": "ust",
@@ -222,7 +235,11 @@
       },
       {
        "type": "text",
-       "text": "za okres Od ..........2--11111111121 (© [o ANR eed A. Przepływy środków pieniężnych z działalności operacyjnej"
+       "text": "za okres Od ..........2--11111111121 (© [o ANR eed"
+      },
+      {
+       "type": "text",
+       "text": "A. Przepływy środków pieniężnych z działalności operacyjnej"
       },
       {
        "type": "text",
@@ -975,7 +992,7 @@
         },
         {
          "type": "text",
-         "text": "== JĄ = Dziennik Ustaw Nr 2"
+         "text": "== JĄ ="
         },
         {
          "type": "text",
@@ -1321,7 +1338,7 @@
       },
       {
        "type": "text",
-       "text": "ess 80) == Dziennik Ustaw Nr 2"
+       "text": "ess 80) =="
       },
       {
        "type": "text",

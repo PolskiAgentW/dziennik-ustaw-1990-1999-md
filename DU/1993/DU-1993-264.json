@@ -1,7 +1,7 @@
 {
  "eli": "DU/1993/264",
  "title": "Rozporządzenie Rady Ministrów z dnia 29 czerwca 1993 r. w sprawie określenia stawek celnych na niektóre towary pochodzące z państw członkowskich Europejskiej Wspólnoty Gospodarczej.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1993/264/text.pdf",
  "body": [
   {
@@ -916,6 +916,11 @@
     {
      "type": "note",
      "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "= 1116 =",
+     "quoted": true
     },
     {
      "type": "text",
@@ -3564,10 +3569,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 57"
-    },
-    {
-     "type": "text",
      "text": "2"
     },
     {
@@ -3909,6 +3910,10 @@
     {
      "type": "note",
      "text": "[Strona 38 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "—' 1146 —"
     },
     {
      "type": "text",
@@ -4595,6 +4600,10 @@
       {
        "type": "note",
        "text": "[Strona 45 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= 1153 ="
       },
       {
        "type": "text",

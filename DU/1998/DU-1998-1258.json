@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/1258",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 30 grudnia 1998 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/1258/text.pdf",
  "body": [
   {
@@ -717,6 +717,10 @@
         {
          "type": "note",
          "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "— 7468 ="
         }
        ]
       },
@@ -2591,7 +2595,7 @@
         },
         {
          "type": "text",
-         "text": "— F475 — Dziennik Ustaw Nr 166"
+         "text": "— F475 —"
         }
        ]
       },

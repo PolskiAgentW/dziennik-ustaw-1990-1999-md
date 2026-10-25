@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/307",
  "title": "Europejska konwencja o ekstradycji, sporządzona w Paryżu dnia 13 grudnia 1957 r., Protokół dodatkowy do powyższej konwencji, sporządzony w Strasburgu dnia 15 października 1975 r. i Drugi protokół dodatkowy do powyższej konwencji, sporządzony w Strasburgu dnia 17 marca 1978 r.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/307/text.pdf",
  "body": [
   {
@@ -1533,7 +1533,11 @@
     },
     {
      "type": "text",
-     "text": "Relations between this Convention and bilateral agreements"
+     "text": "Relations between this Convention and bilateral"
+    },
+    {
+     "type": "text",
+     "text": "agreements"
     },
     {
      "type": "ust",
@@ -2509,7 +2513,7 @@
         },
         {
          "type": "text",
-         "text": "1275 = Dziennik Ustaw Nr 70 ——"
+         "text": "1275 ="
         },
         {
          "type": "text",
@@ -3063,7 +3067,7 @@
     },
     {
      "type": "text",
-     "text": "1278 = Dziennik Ustaw Nr 70 —",
+     "text": "1278 =",
      "quoted": true
     },
     {

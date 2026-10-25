@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/3",
  "title": "Rozporządzenie Ministra Finansów z dnia 5 stycznia 1998 r. w sprawie podatku akcyzowego.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/3/text.pdf",
  "body": [
   {
@@ -353,7 +353,7 @@
       },
       {
        "type": "text",
-       "text": "=- 123 = Dziennik Ustaw Nr 2"
+       "text": "=- 123 ="
       },
       {
        "type": "text",
@@ -999,7 +999,7 @@
         },
         {
          "type": "text",
-         "text": "== 126 — Dziennik Ustaw Nr 2"
+         "text": "== 126 —"
         },
         {
          "type": "text",
@@ -2820,7 +2820,11 @@
       },
       {
        "type": "text",
-       "text": "ex - zamieszczony przy kodzie PCN oznacza, że stawka podatku akcyzowego jest ustalona tylko dla niektórych towarów objętych danym kodem, określonych w kolumnie 3. *) - określonej w art. 36 ust. 2 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640 oraz z 1997r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104 )"
+       "text": "ex - zamieszczony przy kodzie PCN oznacza, że stawka podatku akcyzowego jest ustalona tylko dla niektórych towarów objętych danym kodem, określonych w kolumnie 3."
+      },
+      {
+       "type": "text",
+       "text": "*) - określonej w art. 36 ust. 2 ustawy z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640 oraz z 1997r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104 )"
       }
      ]
     }

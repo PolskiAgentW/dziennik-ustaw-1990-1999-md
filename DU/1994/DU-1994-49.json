@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/49",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 28 stycznia 1994 r. w sprawie wykonywania lotów międzynarodowych oraz stałego pobytu polskich statków powietrznych za granicą i obcych statków powietrznych w Polsce.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/49/text.pdf",
  "body": [
   {
@@ -97,7 +97,7 @@
       },
       {
        "type": "text",
-       "text": "— JA — Poz. 49 Dziennik Ustaw Nr 14"
+       "text": "— JA — Poz. 49"
       },
       {
        "type": "text",
@@ -634,7 +634,11 @@
       },
       {
        "type": "text",
-       "text": "— opłaty, w wypadku przewozu opłacanego w Polsce — wskażą-"
+       "text": "— opłaty,"
+      },
+      {
+       "type": "text",
+       "text": "w wypadku przewozu opłacanego w Polsce — wskażą-"
       },
       {
        "type": "text",
@@ -688,7 +692,11 @@
        "children": [
         {
          "type": "text",
-         "text": "— się w Polsce — zasady organizacji takiego przewozu zostały zatwierdzone (aprobowane) przez Ministra, lot (lub loty) ma zapewnioną przez organy, o których"
+         "text": "— się w Polsce — zasady organizacji takiego przewozu zostały zatwierdzone (aprobowane) przez Ministra,"
+        },
+        {
+         "type": "text",
+         "text": "lot (lub loty) ma zapewnioną przez organy, o których"
         },
         {
          "type": "text",

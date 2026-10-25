@@ -1,7 +1,7 @@
 {
  "eli": "DU/1992/146",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 10 marca 1992 r. w sprawie uzyskiwania uprawnień do kierowania pojazdami i uprawnień instruktorów, wykładowców, egzaminatorów oraz w sprawie szkolenia i egzaminowania.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1992/146/text.pdf",
  "body": [
   {
@@ -567,7 +567,7 @@
       },
       {
        "type": "text",
-       "text": "mi | Poz. 146 Dziennik Ustaw Nr 33 —"
+       "text": "mi | Poz. 146"
       },
       {
        "type": "text",
@@ -838,7 +838,7 @@
         },
         {
          "type": "text",
-         "text": "522 == Dziennik Ustaw Nr 33 —"
+         "text": "522 =="
         },
         {
          "type": "text",
@@ -3387,11 +3387,23 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "3. 1. Zasady ogólne. Egzamin praktyczny obejmuje sprawdzenie umiejętności wykonywania podstawowych manewrów na wydzielonym z ruchu placu",
+     "text": "3. 1. Zasady ogólne.",
      "children": [
       {
        "type": "text",
-       "text": "Rodzaj uprawnień Karta rowerowa Karta motorowerowa Kategoria A"
+       "text": "Egzamin praktyczny obejmuje sprawdzenie umiejętności wykonywania podstawowych manewrów na wydzielonym z ruchu placu"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj uprawnień"
+      },
+      {
+       "type": "text",
+       "text": "Karta rowerowa"
+      },
+      {
+       "type": "text",
+       "text": "Karta motorowerowa Kategoria A"
       },
       {
        "type": "text",
@@ -3411,7 +3423,11 @@
       },
       {
        "type": "text",
-       "text": "Egzamin praktyczny przeprowadzany jest oddzielnie dla każdej egzaminowanej osoby i w zależności od rodzaju uprawnień, o jakie się ubiega, pojazdem właściwego rodzaju określonym w tabeli nr 2. Tabela nr 2"
+       "text": "Egzamin praktyczny przeprowadzany jest oddzielnie dla każdej egzaminowanej osoby i w zależności od rodzaju uprawnień, o jakie się ubiega, pojazdem właściwego rodzaju określonym w tabeli nr 2."
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 2"
       },
       {
        "type": "text",
@@ -3427,7 +3443,27 @@
       },
       {
        "type": "text",
-       "text": "Egzaminator przed rozpoczęciem egzaminu sprawdza tożsamość osób, które zdają tylko egzamin praktyczny, a następnie omawia szczegółowo zasady prowadzenia egzaminu, podając: — zadania wykonywane na placu manewrowym, elementy zadań podlegające ocenie, warunki uzyskania oceny pozytywnej z wykonywania manewrów podstawowych, ogólne zasady realizacji zadań podczas jazdy w ruchu drogowym i sposób wydawania dyspozycji, ogólne kryteria oceny jazdy."
+       "text": "Egzaminator przed rozpoczęciem egzaminu sprawdza tożsamość osób, które zdają tylko egzamin praktyczny, a następnie omawia szczegółowo zasady prowadzenia egzaminu, podając:"
+      },
+      {
+       "type": "text",
+       "text": "— zadania wykonywane na placu manewrowym,"
+      },
+      {
+       "type": "text",
+       "text": "elementy zadań podlegające ocenie,"
+      },
+      {
+       "type": "text",
+       "text": "warunki uzyskania oceny pozytywnej z wykonywania manewrów podstawowych,"
+      },
+      {
+       "type": "text",
+       "text": "ogólne zasady realizacji zadań podczas jazdy w ruchu drogowym i sposób wydawania dyspozycji,"
+      },
+      {
+       "type": "text",
+       "text": "ogólne kryteria oceny jazdy."
       },
       {
        "type": "text",
@@ -5384,7 +5420,11 @@
         },
         {
          "type": "text",
-         "text": "<— zjazd — — <— podjazd"
+         "text": "<— zjazd —"
+        },
+        {
+         "type": "text",
+         "text": "— <— podjazd"
         },
         {
          "type": "text",
@@ -5584,27 +5624,15 @@
         },
         {
          "type": "text",
-         "text": "Pieczęć oStodka Sazaminawanid)"
+         "text": "Pieczęć ośrodka egzaminowania"
         },
         {
          "type": "text",
-         "text": "Załącznik nr 5 do instrukcji w sprawie trybu, zasad i warunków egzaminowania osób ubiegających się o uprawnienia do kierowania pojazdami lub podlegających sprawdzeniu kwalifikacji"
+         "text": "Załącznik nr 5 do instrukcji w sprawie trybu, zasad i warunków egzaminowania osób ubiegających się o uprawnienia do kierowania pojazdami lub podlegających sprawdzeniu kwalifikacji Strona 1"
         },
         {
          "type": "text",
-         "text": "Strona 1"
-        },
-        {
-         "type": "text",
-         "text": "ORKA WWYERRIKA A © Soe ARERR AGGA EMRE WSA (miejscowość) (data)"
-        },
-        {
-         "type": "text",
-         "text": "ARKUSZ ODPOWIEDZI"
-        },
-        {
-         "type": "text",
-         "text": "Osoba składająca egzamin ta Nazwisko I IMIĘ «uwswiaiira ni EPO AGI EOB AREA OPANOWAŁA AE ZAC klneco kN eae RACE SS OKO"
+         "text": "(miejscowość) (data) ARKUSZ ODPOWIEDZI Osoba składająca egzamin ta Nazwisko I IMIĘ «uwswiaiira ni EPO AGI EOB AREA OPANOWAŁA AE ZAC klneco kN eae RACE SS OKO"
         }
        ]
       }
@@ -5614,17 +5642,8 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "AGIGS ZAMIESZKANIA sere one aaa Taser ya (kod)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Z ia A PO EGZ are erent ive Dare pang tien ssesanuelones (miejscowość)"
-      },
-      {
-       "type": "text",
-       "text": "nh KR ODA PRAG ZWI FD TREK Pp \"i Seca nęka ww\" ac dO Óbi nn aioe: row"
-      }
-     ]
+     "text": "AGIGS ZAMIOSZKANIA meres canner note ewes cut aueiiecer mc eaprncmnesnememnntege ihe nor eis Sih cadens tera oe bani eco NA (kod) (miejscowość) nh KR ODA PRAG ZWI FD TREK Pp \"i Seca nęka ww\" ac dO Óbi nn aioe: row",
+     "children": []
     },
     {
      "type": "ust",
@@ -5641,39 +5660,43 @@
      "children": [
       {
        "type": "text",
-       "text": "*:*) | modu © | testu"
+       "text": "Nuvear | testu** Rodzaj testu Zasadniczy | pytania poz. 1—20"
       },
       {
        "type": "text",
-       "text": "| R | EJ"
+       "text": "pytania poz. 26-—30 Dodatkowy na kat. C Dodatkowy na kat. D ideo’ > | *) Niepotrzebne skreślić **) W pozycji nie będącej przedmiotem egzaminu wpisać znak „x”."
       },
       {
        "type": "text",
-       "text": "(podpis egzaminowanego)"
+       "text": "TEST ZASADNICZY BS sonunosmmen nań ANIE KATEGORIA „B” 2 21 22 4 23 5 24 6 25 # KATEGORIA „A” 8 26 8 27 10 28 11 29 12 30 13 TEST DODATKOWY 14 KATEGORIA „T” 15 NR oo. ecceceeeee eee 16 1 7 2 18 3 19 4 20 5"
       },
       {
        "type": "text",
-       "text": "Liczba** błędnych Wynik egzaminu teoretycznego odpowiedzi 1. zony” iedzi"
+       "text": "1777 podpis egzaminowanego)"
       },
       {
        "type": "text",
-       "text": "Zasadniczy | pytania poz. 1—20 | na kal: cs cntewenaas commons tOROGGOGE LPG"
+       "text": "Liczba** błędnych Wynik egzaminu teoretycznego odpowiedzi"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pozytywny* na Kat: +3; sdms awa cosmemeed eeoneews ZŁE",
+     "children": [
+      {
+       "type": "text",
+       "text": "NA Kab vances seems FA GAY ACE"
       },
       {
        "type": "text",
-       "text": "|pytania poz. 26—30 | poz. 26—30"
+       "text": "| gi area am . . messes 433054 BIOENG"
       },
       {
        "type": "text",
-       "text": "Ma Katy „arsawi 0 eee weumenis v4 semen ys siad"
-      },
-      {
-       "type": "text",
-       "text": "| Dodatkowy na kat. T Po es i pieczeé egzaminatora) *) Niepotrzebne skreślić **) W pozycji nie będącej przedmiotem egzaminu wpisać znak „x”. Strona 2"
-      },
-      {
-       "type": "text",
-       "text": "TEST DODATKOWY EST DODATKOWY oe a ae „D”"
+       "text": "Strona 2 TEST DODATKOWY EST DODATKOWY KATEGORIA „C” KATEGORIA „D” NIE cise rma ass NA ess ocącuutsawaga 1 1 2 2 3 3 4 4 5 5 6 6 a 4 8 8 9 9 10 10 11 11 12 12 13 13 14 14 15 15 16 16 le 17 18 18 19 19 20 20"
       },
       {
        "type": "note",
@@ -6261,7 +6284,11 @@
       },
       {
        "type": "text",
-       "text": "Strona 2 Posiadacz niniejszego świadectwa kwalifikacji upoważniony jest do kierowania:"
+       "text": "Strona 2"
+      },
+      {
+       "type": "text",
+       "text": "Posiadacz niniejszego świadectwa kwalifikacji upoważniony jest do kierowania:"
       },
       {
        "type": "text",
@@ -6286,15 +6313,27 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Postanowienia wstępne Program szkolenia kandydatów na wykładowców i instruktorów, zwany dalej „programem”, dotyczy szkolenia kandydatów na wykładowców i instruktorów lub kandydatów na wykładowców prowadzących nauczanie osób ubiegających się o uzyskanie prawa jazdy kategorii A, B, C, D, T, E lub trolejbusowej oraz uprawnień do kierowania tramwajem. Program określa: — żąsady organizacji kursu, — Warinki kwalifikacyjne uczestników kursu, — warurkj kwalifikacyjne wykładowców, — plan nauwania na kursie, — zasady przerowadzania egzaminu końcowego, — wzór zaświadczunja o posiadaniu kwalifikacji. Program powiniennyć realizowany na kursach organizowanych przez jednostkę upoważnoną przez wojewodę. Podstawowym zadaniem 'uyrsu jest przygotowanie jego słuchaczy do pracy na kursach dla osób ubiegających się o wyżej wymienione uprawnienia do kieroyania pojazdami. Organizator kursu obowiązany jes do zapewnienia właściwych środków technicznych i odpowiedniege sprzętu dydaktycznego do prowadzenia zajęć.",
+     "text": "Postanowienia wstępne",
      "children": [
+      {
+       "type": "text",
+       "text": "Program szkolenia kandydatów na wykładowców i instruktorów, zwany dalej „programem”, dotyczy szkolenia kandydatów na wykładowców i instruktorów lub kandydatów na wykładowców prowadzących nauczanie osób ubiegających się o uzyskanie prawa jazdy kategorii A, B, C, D, T, E lub trolejbusowej oraz uprawnień do kierowania tramwajem."
+      },
+      {
+       "type": "text",
+       "text": "Program określa: — żąsady organizacji kursu, — Warinki kwalifikacyjne uczestników kursu, — warurkj kwalifikacyjne wykładowców, — plan nauwania na kursie, — zasady przerowadzania egzaminu końcowego, — wzór zaświadczunja o posiadaniu kwalifikacji. Program powiniennyć realizowany na kursach organizowanych przez jednostkę upoważnoną przez wojewodę. Podstawowym zadaniem 'uyrsu jest przygotowanie jego słuchaczy do pracy na kursach dla osób ubiegających się o wyżej wymienione uprawnienia do kieroyania pojazdami. Organizator kursu obowiązany jes do zapewnienia właściwych środków technicznych i odpowiedniege sprzętu dydaktycznego do prowadzenia zajęć."
+      },
       {
        "type": "text",
        "text": "Program przewiduje 110 godzin zajęć, w tym 10 godzin na praktykę pedagogiczną słuchaczy. Wykładowcami na kursie powinni być właściwi specjaliści z wieloletnim doświadczeniem pedagogicznym, a dodatkowo przy realizacji przedmiotów określonych w planie nauczania: w poz. 4 — osoby posiadające uprawnienia egzaminatora oraz wykładowcy i instruktora kształcenia kierowców, w poz. 5 — osoby posiadające uprawnienia wykładowcy i instruktora kształcenia kierowców lub egzaminatora, w poz. 6 — osoby posiadające uprawnienia wykładowcy i instruktora kształcenia kierowców."
       },
       {
        "type": "text",
-       "text": "Kursy szkolenia kandydatów na wykładowców i instruktorów lub kandydatów na wykładowców powinny być ewidencjonowane przez ich organizatorów nie później niż w ciągu 14 dni od daty rozpoczęcia zajęć programowych. Po upływie tego terminu nie mogą następować zmiany w liście słuchaczy kursu lub być przyjmowani na kurs nowi kandydaci. Wpisując kurs do ewidencji należy podać: — numer kolejny kursu i rodzaj uprawnień, o jakie ubiegają się jego słuchacze, — date rozpoczęcia kursu, — miejsce prowadzenia zajęć, — liczbę słuchaczy kursu. Kandydaci na wykładowców i instruktorów powinni posiadać karty jazd, wystawione przez organizatora kursu, przeznaczone do"
+       "text": "Kursy szkolenia kandydatów na wykładowców i instruktorów lub kandydatów na wykładowców powinny być ewidencjonowane przez ich organizatorów nie później niż w ciągu 14 dni od daty rozpoczęcia zajęć programowych. Po upływie tego terminu nie mogą następować zmiany w liście słuchaczy kursu lub być przyjmowani na kurs nowi kandydaci. Wpisując kurs do ewidencji należy podać: — numer kolejny kursu i rodzaj uprawnień, o jakie ubiegają się jego słuchacze, — date rozpoczęcia kursu, — miejsce prowadzenia zajęć, — liczbę słuchaczy kursu."
+      },
+      {
+       "type": "text",
+       "text": "Kandydaci na wykładowców i instruktorów powinni posiadać karty jazd, wystawione przez organizatora kursu, przeznaczone do"
       },
       {
        "type": "note",
@@ -6513,8 +6552,13 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "3. Wybrane zagadnienia z dydaktyki kształcenia kursowego W realizacji przedmiotu „Wybrane zagadnienia z dydaktyki kształcenia kursowego” powinny być ujęte następujące tematy: — podstawy dydaktyki kształcenia kursowego, — metodyka nauczania przedmiotów określonych w programach nauczania kandydatów na kierowców dla prawa jazdy kategorii A, B, T, C, D, Ei trolejbusowej oraz pozwolenia na prowadzenie tramwajów, — środki dydaktyczne w kształceniu kierowców lub motorniczych.",
-     "children": []
+     "text": "3. Wybrane zagadnienia z dydaktyki kształcenia kursowego",
+     "children": [
+      {
+       "type": "text",
+       "text": "W realizacji przedmiotu „Wybrane zagadnienia z dydaktyki kształcenia kursowego” powinny być ujęte następujące tematy: — podstawy dydaktyki kształcenia kursowego, — metodyka nauczania przedmiotów określonych w programach nauczania kandydatów na kierowców dla prawa jazdy kategorii A, B, T, C, D, Ei trolejbusowej oraz pozwolenia na prowadzenie tramwajów, — środki dydaktyczne w kształceniu kierowców lub motorniczych."
+      }
+     ]
     },
     {
      "type": "ust",
@@ -6532,15 +6576,27 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "5. Wybrane zagadnienia z techniki kierowania oraz czynności kontrolno-obsługowych pojazdu W realizacji przedmiotu „Wybrane zagadnienia z techniki kierowania oraz czynności kontrolno-obsługowych pojazdu” powinny być ujęte następujące tematy:",
+     "text": "5. Wybrane zagadnienia z techniki kierowania oraz czynności kontrolno-obsługowych pojazdu",
      "children": [
+      {
+       "type": "text",
+       "text": "W realizacji przedmiotu „Wybrane zagadnienia z techniki kierowania oraz czynności kontrolno-obsługowych pojazdu” powinny być ujęte następujące tematy:"
+      },
       {
        "type": "text",
        "text": "pieczęć z nazwą i adresem organizatora kursu"
       },
       {
        "type": "text",
-       "text": "— technika kierowania wszystkimi rodzajami pojazdów w różnych warunkach drogowo-ruchowych i atmosferycznych, — czynności kontrolno-obsługowe wszystkich rodzajów pojazdów, — sprawdzian wiedzy posiadanej przez słuchaczy kursu."
+       "text": "— technika kierowania wszystkimi rodzajami pojazdów w różnych warunkach drogowo-ruchowych i atmosferycznych,"
+      },
+      {
+       "type": "text",
+       "text": "— czynności kontrolno-obsługowe wszystkich rodzajów pojazdów,"
+      },
+      {
+       "type": "text",
+       "text": "— sprawdzian wiedzy posiadanej przez słuchaczy kursu."
       }
      ]
     },
@@ -6660,7 +6716,11 @@
         },
         {
          "type": "text",
-         "text": "pieczęć z nazwą i adresem organizatora kursu numer upoważnienia wojewody ZAŚWIADCZENIE Nr ........... L210 () en urodzony(a) dnia .... 6... eee eect enna ee WIERNA zatmieSzkały(a): . uuu i ł%tRNMKARLYERZRGNAJ 8 2 © RAO 9 4 FTE AMUSE EDG KWWOW EG TEE dóudkad Ba a m mamnaenannia w e A m vonnennuess m 4 si 6 rami ukończył(a) kurs dla kandydatów na wykładowców”) i instruktorów* osób ubiegających się o uprawnienie do kierowania pojazdami, przeprowadzony w dniach: «us: s: seu sea ir PONO ae omens sYa , i zdał(a) egzamin końcowy z wynikiem .................... , uzyskując uprawnienia do nauczania osób ubiegających się o: prawo jazdy kategorii ................... *), pozwolenie na prowadzenie tramwajów”."
+         "text": "pieczęć z nazwą i adresem organizatora kursu numer upoważnienia wojewody ZAŚWIADCZENIE Nr ..........."
+        },
+        {
+         "type": "text",
+         "text": "L210 () en urodzony(a) dnia .... 6... eee eect enna ee WIERNA zatmieSzkały(a): . uuu i ł%tRNMKARLYERZRGNAJ 8 2 © RAO 9 4 FTE AMUSE EDG KWWOW EG TEE dóudkad Ba a m mamnaenannia w e A m vonnennuess m 4 si 6 rami ukończył(a) kurs dla kandydatów na wykładowców”) i instruktorów* osób ubiegających się o uprawnienie do kierowania pojazdami, przeprowadzony w dniach: «us: s: seu sea ir PONO ae omens sYa , i zdał(a) egzamin końcowy z wynikiem .................... , uzyskując uprawnienia do nauczania osób ubiegających się o: prawo jazdy kategorii ................... *), pozwolenie na prowadzenie tramwajów”."
         },
         {
          "type": "text",
@@ -7055,7 +7115,11 @@
       },
       {
        "type": "text",
-       "text": "Członkowie Komisji: Przewodniczący Komisji A. ZGGTA DANS esta hes (podpis)"
+       "text": "Członkowie Komisji: Przewodniczący Komisji"
+      },
+      {
+       "type": "text",
+       "text": "A. ZGGTA DANS esta hes (podpis)"
       },
       {
        "type": "text",
