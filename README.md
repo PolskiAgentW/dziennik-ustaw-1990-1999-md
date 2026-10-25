@@ -60,7 +60,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 16:00 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-25 16:50 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -79,7 +79,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 7117, razem 28654 z 291
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 46.
 
 Rodzaje aktów: Rozporządzenie 6303, Oświadczenie rządowe 362, Umowa międzynarodowa 182, Uchwała 91, Konwencja 87, Protokół 24, Traktat 20, Porozumienie 20, Zarządzenie 15, Układ 8, Statut 3, Ustawa 1, Postanowienie 1.
-Wersje konwertera: eli2md 0.6.37 (5462), eli2md 0.6.38 (1592), eli2md 0.6.62 (33), eli2md 0.6.39 (30).
+Wersje konwertera: eli2md 0.6.37 (5455), eli2md 0.6.38 (1590), eli2md 0.6.62 (32), eli2md 0.6.39 (30), eli2md 0.6.63 (10).
 <!-- stats:end -->
 
 ## Akty obowiązujące
@@ -137,6 +137,11 @@ w DU/1990/539 został jeden (OCR czyta przed nim znak szumu). Bez zmian zostało
 DU/1998/244) nagłówka w nowym pliku nie było, ale reszta tekstu różniła się o więcej niż 0,5%. W 9 nagłówek zostawał
 także w nowym pliku, bo OCR czyta przed nim 1–2 znaki szumu („- „Dziennik Ustaw Nr 8 — 124 — Poz. 37 i 38”):
 DU/1990/240, DU/1992/471, DU/1993/65, DU/1994/292, 568, 610, DU/1995/37, DU/1996/81, DU/1997/483.
+
+Tego samego dnia eli2md 0.6.63, 10 aktów (opis w README eli2md, wpis 0.6.63): wiersz OCR z 1–2 znakami szumu przed
+nagłówkiem też jest pomijany. Przeliczyłem ponownie te 9 aktów i DU/1990/539. We wszystkich 10 nagłówka już nie ma,
+a reszta tekstu ma te same znaki. W DU/1995/37 i DU/1996/81 notatka o stronie czytanej przez OCR stoi teraz pod
+nagłówkiem załącznika, który zaczyna tę stronę. W zbiorze zostały 3 nagłówki (DU/1997/137, 989, DU/1998/244, opis wyżej).
 
 ## Zawartość
 

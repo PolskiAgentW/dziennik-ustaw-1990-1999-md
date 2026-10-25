@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/81",
  "title": "Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 6 lutego 1996 r. w sprawie zwalczania organizmów szkodliwych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.63",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/81/text.pdf",
  "body": [
   {
@@ -438,22 +438,17 @@
      "num": "2",
      "path": "pkt_2",
      "text": "Organizmy szkodliwe podlegające obowiązkowi zwalczania (załącznik nr 1 do rozporządzenia)",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": ", Dziennik Ustaw Nr 15 — 233 — Poz. 81"
-      }
-     ]
+     "children": []
     }
    ]
   },
   {
    "heading": "Załącznik nr 3 WZORY ŚWIADECTW FITOSANITARNYCH",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "ust",
      "num": "1",

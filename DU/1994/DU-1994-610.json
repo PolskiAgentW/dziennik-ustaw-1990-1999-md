@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/610",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 28 października 1994 r. zmieniające rozporządzenie w sprawie wynagradzania nauczycieli akademickich.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.63",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/610/text.pdf",
  "body": [
   {
@@ -15,10 +15,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "- Dziennik Ustaw Nr 125 — 2213 — Poz. 610"
   },
   {
    "type": "pkt",
@@ -147,7 +143,11 @@
     },
     {
      "type": "text",
-     "text": "Stawka miesięcznego wynagrodzenia zasadniczego w a [Serna o em ao Starszy kustosz dyplomowany, starszy dokumentalista dyplomowany pos Kustosz dyplomowany, dokumentalista dyplomowany 270—580 Adiunkt biblioteczny, adiunkt dokumentagji i informacji naukowej 240—450 Asystent biblioteczny, asystent dokumentacji i informacji naukowej 230—410 3"
+     "text": "Stawka miesięcznego wynagrodzenia zasadniczego w a [Serna o em ao Starszy kustosz dyplomowany, starszy dokumentalista dyplomowany pos Kustosz dyplomowany, dokumentalista dyplomowany 270—580 Adiunkt biblioteczny, adiunkt dokumentagji i informacji naukowej 240—450"
+    },
+    {
+     "type": "text",
+     "text": "Asystent biblioteczny, asystent dokumentacji i informacji naukowej 230—410 3"
     },
     {
      "type": "note",
