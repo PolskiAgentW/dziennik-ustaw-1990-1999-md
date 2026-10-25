@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/702",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 19 października 1994 r. w sprawie środków strzałowych i sprzętu strzałowego w zakładach górniczych.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/702/text.pdf",
  "body": [
   {
@@ -3017,10 +3017,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 135 — 2497 — Poz. 702"
-      },
-      {
-       "type": "text",
        "text": "mniejszą niż 2,5 m przy składach stałych i tymczasowych oraz 1,8 m przy składach materiałów wybuchowych podręcznych, ruchomych i przenośnych. W przypadku stosowania ogrodzenia z drutu kolczastego, druty poziome między słupami powinny być poprowadzone w odległości 0,15 m od siebie i być wzmocnione drutem kolczastym prowadzonym na krzyż między słupami. W ogrodzeniu powinny być wykonane drzwi wjazdowe i wejściowe zamykane na klucz."
       },
       {
@@ -3113,7 +3109,15 @@
         },
         {
          "type": "text",
-         "text": "Podziemne składy materiałów wybuchowych powinny być zlokalizowane: 15.1. w odgałęzieniach chodników przewozowych lub służących do ruchu załogi, 15.2. w odległości co najmniej 100 m od szybów i szybików oraz co najmniej 20 m od komór pomp, rozdzielni itp. obiektów oraz wyrobisk służących do ruchu załogi lub transportu licząc od najbliższej komory składowej albo wydawczej, 15.3. w miejscach suchych i zabezpieczonych przed zalaniem wodą, 15.4. w skałach niepalnych, 15.5. w miejscach nie narażonych na skutki eksploatacji górniczej, 15.6. na głębokości co najmniej 30 m od powierzchni."
+         "text": "Podziemne składy materiałów wybuchowych powinny być zlokalizowane:"
+        },
+        {
+         "type": "text",
+         "text": "15.1. w odgałęzieniach chodników przewozowych lub służących do ruchu załogi, 15.2. w odległości co najmniej 100 m od szybów i szybików oraz co najmniej 20 m od komór pomp, rozdzielni itp. obiektów oraz wyrobisk służących do ruchu załogi lub transportu licząc od najbliższej komory składowej albo wydawczej, 15.3. w miejscach suchych i zabezpieczonych przed zalaniem wodą,"
+        },
+        {
+         "type": "text",
+         "text": "15.4. w skałach niepalnych, 15.5. w miejscach nie narażonych na skutki eksploatacji górniczej, 15.6. na głębokości co najmniej 30 m od powierzchni."
         },
         {
          "type": "text",
@@ -3154,10 +3158,6 @@
         {
          "type": "text",
          "text": "24"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 135 — 2499 — Poz. 702"
         },
         {
          "type": "text",
@@ -3441,10 +3441,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 135 — 2502 — Poz. 702"
-        },
-        {
-         "type": "text",
          "text": "48.1. w pkt 5.4., co do najmniejszej odległości od obiektów chronionych przez zastosowanie wzoru: L=5,/O, gdzie: „L” oznacza najmniejszą odległość w m, a,,Q” dopuszczoną do przechowywania ilość materiałów wybuchowych w kg, 48.2. w pkt 7.2, co do wysokości i szerokości w koronie wału, pod warunkiem zastosowania obwałowania do wysokości szczytu dachu składu i do szerokości w koronie 0,5 m, 48.3. w pkt 8, co do odległości ogrodzenia od obwałowania, pod warunkiem wykonania ogrodzenia w odległości 10 m od podstawy wału, 48.4. w pkt 9, co do strefy ochronnej w postaci zezwolenia na umieszczenie tablicy ostrzegawczej wyłącznie na wszystkich bokach ogrodzenia."
         },
         {
@@ -3461,11 +3457,31 @@
         },
         {
          "type": "text",
-         "text": "Dla składów materiałów wybuchowych wgłębionych oraz dla składów materiałów wybuchowych tymczasowych i podręcznych dopuszcza się następujące zmiany wymagań zawartych: 50.1. w pkt 15.6. odnośnie do głębokości składów materiałów wybuchowych wgłębionych, przez zastosowanie mniejszej głębokości dla komór składowych o pojemności mniejszej niż 5000 kg, na podstawie opinii rzeczoznawcy (jednostki naukowo-badawczej) wyznaczonego przez Prezesa Wyższego Urzędu Górniczego, 50.2. w pkt 20 odnośnie do komory wydawczej i wydawania środków strzałowych w przedsionku składu, jak również odnośnie do dwóch chodników dojściowych, przez zastosowanie jednego chodnika przedzielonego siatką do wysokości 1,5 m, 50.3. w pkt 20 odnośnie do dwukrotnego załamania chodnika dojściowego, przez zastosowanie pojedynczego załamania."
+         "text": "Dla składów materiałów wybuchowych wgłębionych oraz dla składów materiałów wybuchowych tymczasowych i podręcznych dopuszcza się następujące zmiany wymagań zawartych: 50.1. w pkt 15.6. odnośnie do głębokości składów materiałów wybuchowych wgłębionych, przez zastosowanie mniejszej głębokości dla komór składowych o pojemności mniejszej niż 5000 kg, na podstawie opinii rzeczoznawcy (jednostki naukowo-badawczej) wyznaczonego przez Prezesa Wyższego Urzędu Górniczego, 50.2. w pkt 20 odnośnie do komory wydawczej i wydawania środków strzałowych w przedsionku składu, jak również odnośnie do dwóch chodników dojściowych, przez zastosowanie jednego chodnika przedzielonego siatką do wysokości 1,5 m,"
         },
         {
          "type": "text",
-         "text": "Dla ruchomych podziemnych składów dopuszcza się następujące zmiany wymagań zawartych: 51.1. wpkt 15, 16i 19, odnośnie do lokalizacji podziemnych składów materiałów wybuchowych, w postaci zezwolenia na lokalizację miejsca postoju ruchomego składu materiałów wybuchowych w wyrobisku, które zabezpieczone jest przed najechaniem składu innymi środkami transportu w czasie przechowywania i wydawania środków strzałowych. Miejsce to musi być oddzielone od pozostałych wyrobisk kopalni metalowymi drzwiami lub kratami, 51.2. w pkt 17 odnośnie do przewietrzania składu materiałów wybuchowych, przez zastosowanie odrębnej wentylacji miejsca postoju ruchomego składu materiałów wybuchowych według ustaleń inżyniera wentylacji, 51.3. w pkt 18 odnośnie do zabezpieczenia zaporami pyłowymi przeciwwybuchowymi ruchomego składu materiałów wybuchowych po uzyskaniu zezwolenia na niestosowanie tych zapór, 51.4. wpkt 20, 21, 22, 23i24, odnośnie do wyposażenia i budowy składu materiałów wybuchowych, gdyż szczegółowe warunki dotyczące budowy i wyposażenia ruchomego składu materiałów wybuchowych zawarte są w decyzji o dopuszczeniu do stosowania. ‘"
+         "text": "50.3. w pkt 20 odnośnie do dwukrotnego załamania chodnika dojściowego, przez zastosowanie pojedynczego załamania."
+        },
+        {
+         "type": "text",
+         "text": "Dla ruchomych podziemnych składów dopuszcza się następujące zmiany wymagań zawartych:"
+        },
+        {
+         "type": "text",
+         "text": "51.1. wpkt 15, 16i 19, odnośnie do lokalizacji podziemnych składów materiałów wybuchowych, w postaci zezwolenia na lokalizację miejsca postoju ruchomego składu materiałów wybuchowych w wyrobisku, które zabezpieczone jest przed najechaniem składu innymi środkami transportu w czasie przechowywania i wydawania środków strzałowych. Miejsce to musi być oddzielone od pozostałych wyrobisk kopalni metalowymi drzwiami lub kratami,"
+        },
+        {
+         "type": "text",
+         "text": "51.2. w pkt 17 odnośnie do przewietrzania składu materiałów wybuchowych, przez zastosowanie odrębnej wentylacji miejsca postoju ruchomego składu materiałów wybuchowych według ustaleń inżyniera wentylacji,"
+        },
+        {
+         "type": "text",
+         "text": "51.3. w pkt 18 odnośnie do zabezpieczenia zaporami pyłowymi przeciwwybuchowymi ruchomego składu materiałów wybuchowych po uzyskaniu zezwolenia na niestosowanie tych zapór,"
+        },
+        {
+         "type": "text",
+         "text": "51.4. wpkt 20, 21, 22, 23i24, odnośnie do wyposażenia i budowy składu materiałów wybuchowych, gdyż szczegółowe warunki dotyczące budowy i wyposażenia ruchomego składu materiałów wybuchowych zawarte są w decyzji o dopuszczeniu do stosowania. ‘"
         }
        ]
       }
@@ -3802,19 +3818,15 @@
       },
       {
        "type": "text",
-       "text": "17"
+       "text": "17 jest dziennik strzałowy przez wpisanie swoich uwag, wraz z podpisem, w rubryce „uwagi kontrolującego”, 13.2. dziennik strzałowy powinien posiadać 100 kart oprawionych w sztywną okładkę; podczas pracy wykonujący roboty strzałowe powinien przechowywać dziennik strzałowy w futerale ochronnym, zabezpieczającym go przed wilgocią, 13.3. po zakończeniu dziennika strzałowego wydawca otrzymuje od kierownika służby strzałowej nowy dziennik i wpisuje do niego „pozostałość do przeniesienia” z zakończonego dziennika strzałowego. Następnie dziennik przekazuje się strzałowemu."
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 135 — 2508 — Poz. 702"
+       "text": ". Zasady prowadzenia ewidencji przychodu i rozchodu środków strzałowych w zakładach górniczych prowadzących prace geologiczne obejmujące wykonywanie prac geofizycznych metodą sejsmiczną oraz wykonujących roboty strzałowe w otworach wiertniczych Ewidencję przychodu i rozchodu środków strzałowych przechowywanych w składach materiałów wybuchowych zakładów górniczych i innych składach materiałów wybuchowych prowadzi się zgodnie z zasadami określonymi w niniejszym załączniku. . Jeżeli w ruchomym składzie materiałów wybuchowych przechowywane są środki strzałowe należące tylko do jednego strzałowego, skład ten należy traktować jako naczynie przeznaczone do transportu i przechowywania środków strzałowych, a ich ewidencję należy prowadzić w jego dzienniku strzałowym. Dokumentację przychodu i rozchodu środków strzałowych stanowią: 16.1. książka obrotu środkami strzałowymi w składzie materiałów wybuchowych, prowadzona przez wydawcę materiałów wybuchowych według wzoru nr 1a, 2a lub 3a: 16.1.1. służy do prowadzenia ewidencji obrotu środkami strzałowymi, 16.1.2. jest książką zapasów, wydawczą i zwrotu środków strzałowych, 16.1.3. zawiera kartę tytułową, karty dostaw środków strzałowych oraz karty obrotu tymi środkami, 16.1.4. powinna posiadać ponumerowane karty dostaw cyframi rzymskimi, karty zaś obrotu — cyframi arabskimi, i być przesznurowana oraz zatwierdzona podpisem kierownika ruchu zakładu górniczego, 16.1.5. powinna być prowadzona przebitkowo. O stosowaniu odpowiedniego wzoru książki obrotu środkami strzałowymi decyduje kierownik ruchu zakładu górniczego. 16.2. dziennik strzałowy prowadzony przebitkowo według wzoru nr 3b, służący do wystawienia zapotrzebowań na środki strzałowe przez upoważnioną osobę dozoru ruchu oraz do rozliczenia się z pobranych środków przez osoby wykonujące roboty strzałowe, 16.3. awizo wysyłkowe środków strzałowych, stanowiące dowód przychodu środków strzałowych do składów materiałów wybuchowych zakładu górniczego z wytwórni, ze składów materiałów wybuchowych innego zakładu górniczego lub z innych składów materiałów wybuchowych, 16.4. dokumenty wymienione w pkt 16.1., 16.2. i 16.3. są przechowywane przez kierownika służby strzałowej w oddzielnych teczkach zbiorczych."
       },
       {
        "type": "text",
-       "text": "jest dziennik strzałowy przez wpisanie swoich uwag, wraz z podpisem, w rubryce „uwagi kontrolującego”, 13.2. dziennik strzałowy powinien posiadać 100 kart oprawionych w sztywną okładkę; podczas pracy wykonujący roboty strzałowe powinien przechowywać dziennik strzałowy w futerale ochronnym, zabezpieczającym go przed wilgocią, 13.3. po zakończeniu dziennika strzałowego wydawca otrzymuje od kierownika służby strzałowej nowy dziennik i wpisuje do niego „pozostałość do przeniesienia” z zakończonego dziennika strzałowego. Następnie dziennik przekazuje się strzałowemu."
-      },
-      {
-       "type": "text",
-       "text": ". Zasady prowadzenia ewidencji przychodu i rozchodu środków strzałowych w zakładach górniczych prowadzących prace geologiczne obejmujące wykonywanie prac geofizycznych metodą sejsmiczną oraz wykonujących roboty strzałowe w otworach wiertniczych Ewidencję przychodu i rozchodu środków strzałowych przechowywanych w składach materiałów wybuchowych zakładów górniczych i innych składach materiałów wybuchowych prowadzi się zgodnie z zasadami określonymi w niniejszym załączniku. . Jeżeli w ruchomym składzie materiałów wybuchowych przechowywane są środki strzałowe należące tylko do jednego strzałowego, skład ten należy traktować jako naczynie przeznaczone do transportu i przechowywania środków strzałowych, a ich ewidencję należy prowadzić w jego dzienniku strzałowym. Dokumentację przychodu i rozchodu środków strzałowych stanowią: 16.1. książka obrotu środkami strzałowymi w składzie materiałów wybuchowych, prowadzona przez wydawcę materiałów wybuchowych według wzoru nr 1a, 2a lub 3a: 16.1.1. służy do prowadzenia ewidencji obrotu środkami strzałowymi, 16.1.2. jest książką zapasów, wydawczą i zwrotu środków strzałowych, 16.1.3. zawiera kartę tytułową, karty dostaw środków strzałowych oraz karty obrotu tymi środkami, 16.1.4. powinna posiadać ponumerowane karty dostaw cyframi rzymskimi, karty zaś obrotu — cyframi arabskimi, i być przesznurowana oraz zatwierdzona podpisem kierownika ruchu zakładu górniczego, 16.1.5. powinna być prowadzona przebitkowo. O stosowaniu odpowiedniego wzoru książki obrotu środkami strzałowymi decyduje kierownik ruchu zakładu górniczego. 16.2. dziennik strzałowy prowadzony przebitkowo według wzoru nr 3b, służący do wystawienia zapotrzebowań na środki strzałowe przez upoważnioną osobę dozoru ruchu oraz do rozliczenia się z pobranych środków przez osoby wykonujące roboty strzałowe, 16.3. awizo wysyłkowe środków strzałowych, stanowiące dowód przychodu środków strzałowych do składów materiałów wybuchowych zakładu górniczego z wytwórni, ze składów materiałów wybuchowych innego zakładu górniczego lub z innych składów materiałów wybuchowych, 16.4. dokumenty wymienione w pkt 16.1., 16.2. i 16.3. są przechowywane przez kierownika służby strzałowej w oddzielnych teczkach zbiorczych. Książkę obrotu środkami strzałowymi należy prowadzić zgodnie z następującymi zasadami: 17.1. przed zatwierdzeniem książki obrotu przez kierownika ruchu zakładu górniczego kierownik służby strzałowej wpisuje na jej stronie tytułowej: 17.1.1. nazwę zakładu górniczego, 17.1.2. kolejny numer książki obrotu w danym zakładzie, 17.1.3. nazwę składu (miejscowość), 17.1.4. nazwiska inżynierów (techników) strzałowych, 17.1.5. nazwiska wydawców materiałów wybuchowych, zatrudnionych w danym składzie materiałów wybuchowych, 17.1.6. ustalone stosowne symbole środków strzałowych, które oznacza się początkowymi literami nazwy środka strzałowego, z wyjątkiem środków inicjujących i zapalających, dla których symbole podane są w decyzji dopuszczającej, 17.1.7. liczbę kart (kart dostaw i kart obrotu), 17.2. nakarcie tytułowej książki obrotu składają swoje podpisy inżynierowie (technicy) strzałowi oraz wydawcy danego składu materiałów wybuchowych, 17.3. kierownik ruchu zakładu górniczego opieczętowuje ją i zatwierdza odciskiem swej pieczęci oraz podpisem, wraz z datą,"
+       "text": "Książkę obrotu środkami strzałowymi należy prowadzić zgodnie z następującymi zasadami: 17.1. przed zatwierdzeniem książki obrotu przez kierownika ruchu zakładu górniczego kierownik służby strzałowej wpisuje na jej stronie tytułowej: 17.1.1. nazwę zakładu górniczego, 17.1.2. kolejny numer książki obrotu w danym zakładzie, 17.1.3. nazwę składu (miejscowość), 17.1.4. nazwiska inżynierów (techników) strzałowych, 17.1.5. nazwiska wydawców materiałów wybuchowych, zatrudnionych w danym składzie materiałów wybuchowych, 17.1.6. ustalone stosowne symbole środków strzałowych, które oznacza się początkowymi literami nazwy środka strzałowego, z wyjątkiem środków inicjujących i zapalających, dla których symbole podane są w decyzji dopuszczającej, 17.1.7. liczbę kart (kart dostaw i kart obrotu), 17.2. nakarcie tytułowej książki obrotu składają swoje podpisy inżynierowie (technicy) strzałowi oraz wydawcy danego składu materiałów wybuchowych, 17.3. kierownik ruchu zakładu górniczego opieczętowuje ją i zatwierdza odciskiem swej pieczęci oraz podpisem, wraz z datą,"
       },
       {
        "type": "note",
@@ -3961,7 +3973,11 @@
       },
       {
        "type": "text",
-       "text": "Wzór 1a str. 1 KSIĄŻKA if ..... eee cece cece ees obrotu środkami strzałowymi składu MW"
+       "text": "Wzór 1a str. 1"
+      },
+      {
+       "type": "text",
+       "text": "KSIĄŻKA if ..... eee cece cece ees obrotu środkami strzałowymi składu MW"
       },
       {
        "type": "text",
@@ -3989,7 +4005,11 @@
       },
       {
        "type": "text",
-       "text": "KARTA DOSTAW ŚRODKÓW STRZAŁOWYCH — książka obrotu środkami strzałowymi składu karta dostaw środków strzałowych Karta nr ............... Nazwisko i imię osoby odbierającej .\" j Data i znak ymbol awiza środka órni wysyłkowego strzałowego i ;"
+       "text": "KARTA DOSTAW ŚRODKÓW STRZAŁOWYCH — książka obrotu środkami strzałowymi składu karta dostaw środków strzałowych Karta nr ..............."
+      },
+      {
+       "type": "text",
+       "text": "Nazwisko i imię osoby odbierającej .\" j Data i znak ymbol awiza środka órni wysyłkowego strzałowego i ;"
       },
       {
        "type": "text",
@@ -4133,7 +4153,11 @@
       },
       {
        "type": "text",
-       "text": "Zakład górniczy ...........422211111 Wzór 2a str. 1 RETE Skład MW nr...........eaaaai1 NUKE Obrotu środkami strzałowymi składu MW (miejscowość) Symbole stosowane prowadzone w książce obrotu środkami strzałowymi"
+       "text": "Zakład górniczy ...........422211111 Wzór 2a str. 1 RETE Skład MW nr...........eaaaai1 NUKE Obrotu środkami strzałowymi składu MW (miejscowość)"
+      },
+      {
+       "type": "text",
+       "text": "Symbole stosowane prowadzone w książce obrotu środkami strzałowymi"
       },
       {
        "type": "text",
@@ -4681,7 +4705,11 @@
         },
         {
          "type": "text",
-         "text": "1.1.1. Wyrobiska kamienne — pola niemetanowe bg Rodzaj materiałów . || wybuchowych Klasa A MW metanowe specjalne MW metanowe MW metanowe nitroglicerynowe MW węglowe MW skalne Warunki:"
+         "text": "1.1.1. Wyrobiska kamienne — pola niemetanowe bg Rodzaj materiałów . || wybuchowych Klasa A MW metanowe specjalne MW metanowe MW metanowe nitroglicerynowe MW węglowe MW skalne"
+        },
+        {
+         "type": "text",
+         "text": "Warunki:"
         },
         {
          "type": "text",
@@ -5821,7 +5849,11 @@
         },
         {
          "type": "text",
-         "text": "2.1.1. Strzelanie w złożu i w skałach płonnych Rodzaj Pola materiałów niemetanowe wybuchowych"
+         "text": "2.1.1. Strzelanie w złożu i w skałach płonnych"
+        },
+        {
+         "type": "text",
+         "text": "Rodzaj Pola materiałów niemetanowe wybuchowych"
         },
         {
          "type": "text",
@@ -6898,10 +6930,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 135 — 2543 — Poz. 702"
-        },
-        {
-         "type": "text",
          "text": "Warunki wykonywania robót strzałowych w kopalniach węgla kamiennego z zastosowaniem lontów detonujących. Można inicjować jednokolumnowe ładunki MW w otworach o normalnej średnicy — pojedynczą linią lontu detonującego oraz -w otworach o większej średnicy przy ładunku dwukolumnowym i mającym więcej kolumn — podwójną linią lontu detonującego."
         },
         {
@@ -7848,10 +7876,6 @@
       {
        "type": "text",
        "text": "\"5"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 135 — 2563 — Poz. 702"
       },
       {
        "type": "text",

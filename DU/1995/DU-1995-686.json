@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/686",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 14 listopada 1995 r. w sprawie warunków technicznych, jakim powinny odpowiadać sieci gazowe.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/686/text.pdf",
  "body": [
   {
@@ -2141,7 +2141,11 @@
     },
     {
      "type": "text",
-     "text": "rzut obiektu w poziomie terenu | 15 | tory kolejowe magistralne pierwszo- | dlatorów ułożonych: i drugorzędne ; ——= tory kolejowe znaczenia miejscowego 4 | tory tramwajowe"
+     "text": "rzut obiektu w poziomie terenu | 15 | tory kolejowe magistralne pierwszo- | dlatorów ułożonych: i drugorzędne"
+    },
+    {
+     "type": "text",
+     "text": "; ——= tory kolejowe znaczenia miejscowego 4 | tory tramwajowe"
     },
     {
      "type": "pkt",
@@ -2161,16 +2165,41 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "na nasypie — podstawa nasypu skrajna szyna toru przewody kanalizacyjne, kanały sieci cieplnej, | skrajnia rury, kanału lub studni wodociągi, kanalizacja kablowa i inne kanały mające połączenie z pomieszczeniami dla ludzi i zwierząt przewody kanalizacyjne, kanały sieci cieplnej, | skrajnia rury, kanału lub studni wodociągi, kanalizacja kablowa i inne kanały nie mające połączenia z pomieszczeniami dla ludzi i zwierząt kable ziemne elektroenergetyczne o napięciu: | skrajnia kabla 7 — do 15kV — powyżej 15kV słupy linii elektroenergetycznych o napięciu do 1 kV, telekomunikacyjnych i trakcyjnych tramwajowych oraz inne podpory rzut fundamentu stupa, podpory [= linia elektroenergetyczna o | rzut poziomy skrajnego przewodu napięciu: — do 1kV — powyżej 1 kV do 30 kV — powyżej 30 kV do 110 kV — powyżej 110 kV linii elektroenergetycznych",
-     "children": []
-    },
-    {
-     "type": "text",
-     "text": "stacje transformatorów elektroenergetycz- | od obrysu zewnętrznego uziemienia stacji 10 nych o napięciu: — do 15 kV, zasilane liniami napowietrznymi — do 15 kV, zasilane kablami — powyżej 15kV od zewnętrznego ogrodzenia stacji"
-    },
-    {
-     "type": "text",
-     "text": "*) Dopuszczalne zmniejszenie odległości podstawowych pomiędzy gazociągiem i telekomunikacyjną kanalizacją kablową określają odrębne przepisy."
+     "text": "na nasypie — podstawa nasypu skrajna szyna toru przewody kanalizacyjne, kanały sieci cieplnej, | skrajnia rury, kanału lub studni wodociągi, kanalizacja kablowa i inne kanały mające połączenie z pomieszczeniami dla ludzi i zwierząt przewody kanalizacyjne, kanały sieci cieplnej, | skrajnia rury, kanału lub studni wodociągi, kanalizacja kablowa i inne kanały nie mające połączenia z pomieszczeniami dla ludzi i zwierząt kable ziemne elektroenergetyczne o napięciu: | skrajnia kabla 7 — do 15kV",
+     "children": [
+      {
+       "type": "text",
+       "text": "— powyżej 15kV słupy linii elektroenergetycznych o napięciu do 1 kV, telekomunikacyjnych i trakcyjnych tramwajowych oraz inne podpory rzut fundamentu stupa, podpory [= linia elektroenergetyczna o | rzut poziomy skrajnego przewodu napięciu: — do 1kV"
+      },
+      {
+       "type": "text",
+       "text": "— powyżej 1 kV do 30 kV"
+      },
+      {
+       "type": "text",
+       "text": "— powyżej 30 kV do 110 kV"
+      },
+      {
+       "type": "text",
+       "text": "— powyżej 110 kV linii elektroenergetycznych"
+      },
+      {
+       "type": "text",
+       "text": "stacje transformatorów elektroenergetycz- | od obrysu zewnętrznego uziemienia stacji 10 nych o napięciu: — do 15 kV, zasilane liniami napowietrznymi"
+      },
+      {
+       "type": "text",
+       "text": "— do 15 kV, zasilane kablami"
+      },
+      {
+       "type": "text",
+       "text": "— powyżej 15kV od zewnętrznego ogrodzenia stacji"
+      },
+      {
+       "type": "text",
+       "text": "*) Dopuszczalne zmniejszenie odległości podstawowych pomiędzy gazociągiem i telekomunikacyjną kanalizacją kablową określają odrębne przepisy."
+      }
+     ]
     }
    ]
   },
@@ -2270,10 +2299,6 @@
       {
        "type": "text",
        "text": "od obrysu zewnętrznego uziemienia stacji"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 139 — 3028 — Poz. 686"
       },
       {
        "type": "text",

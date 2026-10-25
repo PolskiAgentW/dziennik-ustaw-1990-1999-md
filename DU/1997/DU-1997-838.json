@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/838",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 13 października 1997 r. w sprawie zasad wynagradzania pracowników placówek naukowych, pomocniczych placówek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/838/text.pdf",
  "body": [
   {
@@ -741,11 +741,15 @@
  ],
  "annexes": [
   {
-   "heading": "Załączniki do rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 13 października 1997 r. (poz. 838) Załącznik nr 1 TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW NAUKOWYCH",
+   "heading": "Załączniki do rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 13 października 1997 r. (poz. 838) Załącznik nr 1",
    "body": [
     {
      "type": "note",
      "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW NAUKOWYCH"
     },
     {
      "type": "text",
@@ -832,7 +836,11 @@
     },
     {
      "type": "text",
-     "text": "i ł Dziennik Ustaw Nr 128 — 3932 — Poz. 838 a \"——— (cca ——————— ! Załącznik nr 4"
+     "text": "i ł"
+    },
+    {
+     "type": "text",
+     "text": "a \"——— (cca ——————— ! Załącznik nr 4"
     },
     {
      "type": "text",
@@ -1191,11 +1199,7 @@
     },
     {
      "type": "text",
-     "text": "TABELA STAWEK DODATKU FUNKCYJNEGO PRACOWNIKÓW PEŁNIĄCYCH FUNKCJE KIEROWNICZE"
-    },
-    {
-     "type": "text",
-     "text": "Kategoria dodatku Procent minimalnej stawki"
+     "text": "TABELA STAWEK DODATKU FUNKCYJNEGO PRACOWNIKÓW PEŁNIĄCYCH FUNKCJE KIEROWNICZE Kutegcii dodatku Procent rónice stawki 1 | do 25 2 do 35 3 do 45 a do 60 3 do 70 6 do 90 7 do 110 8 do 130 9 do 150 10 do 175 11 do 200"
     },
     {
      "type": "note",

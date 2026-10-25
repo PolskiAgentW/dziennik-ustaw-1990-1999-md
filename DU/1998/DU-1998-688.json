@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/688",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 sierpnia 1998 r. w sprawie podziału powiatów i województw na okręgi wyborcze oraz ustalenia liczby radnych wybieranych w każdym okręgu wyborczym.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/688/text.pdf",
  "body": [
   {
@@ -184,7 +184,11 @@
     },
     {
      "type": "text",
-     "text": "g Gmina Bystrzyca Kłodzka | 9 Gmina Nowa Ruda"
+     "text": "g Gmina Bystrzyca Kłodzka"
+    },
+    {
+     "type": "text",
+     "text": "| 9 Gmina Nowa Ruda"
     },
     {
      "type": "text",
@@ -918,10 +922,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 109 — 3877 — Poz. 688"
-    },
-    {
-     "type": "text",
      "text": "Nr okręgu wyborczego Miasto Hrubieszów w okręgu ieszó a |"
     },
     {
@@ -970,27 +970,43 @@
     },
     {
      "type": "text",
-     "text": "Gminy: Zakrzówek, Wilkołaz Gmina Urzędów Poz. 8. Powiat lubartowski z siedzibą władz w Lubartowie"
+     "text": "1 Gminy: Zakrzówek, Wilkołaz 5 8 Gmina Urzędów 3"
     },
     {
      "type": "text",
-     "text": "wyborczego w okręgu |, 1, |Miastolubartów id 9 | | 2 |Gminy: Abramów Kamionka | 4 | | 3 |Gminy: Firlej, Niedźwiada |S | 4 |Gminy: Jeziorzany,Michów | | 4, | [Gminalubartów _ — ——,—,—.—.—. | | 40 | 6 |Gminy: Ostrówek,Kock | 4 | i MNĘ 20M. : Ostrów Lubelski, Serniki, Uścimów Poz. 9. Powiat lubelski z siedzibą władz w Lublinie"
+     "text": "Poz. 8. Powiat lubartowski z siedzibą władz w Lubartowie"
     },
     {
      "type": "text",
-     "text": "wyborczego w okręgu | 1. | Gminy: Bełżyce, Borzechów | 6."
+     "text": "Nr okręgu Granice okręgu Liczba radnych wyborczego | Miasto Lubartów w okręgu 9 2 Gminy: Abramów, Kamionka + 3 Gminy: Firlej, Niedźwiada A „| Gminy: Jeziorzany, Michów + > Gmina Lubartów 6 Gminy: Ostrówek, Kock"
     },
     {
      "type": "text",
-     "text": "| 6 |Gminy: Konopnica, Wojciechów | | | 8 [Gmina NiedrzwicaDuża _ ___,//_ __ | 9 |Gminy: Niemce, Wólka _ _—_—_———_—_| Poz. 10. Powiat łęczyński z siedzibą władz w Łęcznie"
+     "text": "4 4 7 Gminy: Ostrów Lubelski, Serniki, Uścimów 5"
     },
     {
      "type": "text",
-     "text": "wyborczego w okręgu"
+     "text": "Poz. 9. Powiat lubelski z siedzibą władz w Lublinie"
     },
     {
      "type": "text",
-     "text": "Gminy: Ludwin, Spiczyn, Puchaczów"
+     "text": "Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu l Gminy: Bełżyce, Borzechów 6 2 Gmina Bychawa 3 Gmina Garbów"
+    },
+    {
+     "type": "text",
+     "text": "4 3 z Gminy: Głusk, Jabłonna, Strzyżewice 7 5 Gmina Jastków 4 6 Gminy: Konopnica, Wojciechów 5 ri Gminy: Krzczonów, Wysokie, Zakrzew 5 8 Gmina Niedrzwica Duża 9 Gminy: Niemce, Wólka"
+    },
+    {
+     "type": "text",
+     "text": "+ 7"
+    },
+    {
+     "type": "text",
+     "text": "Poz. 10. Powiat łęczyński z siedzibą władz w Łęcznie"
+    },
+    {
+     "type": "text",
+     "text": "Nr okręgu Granice okręgu Liczba radnych wyborczego l Gmina Cyców 2 Gmina Łęczna 3 Gmina Milejów w okręgu 4 10 4 4 Gminy: Ludwin, Spiczyn, Puchaczów fi"
     },
     {
      "type": "note",
@@ -1287,7 +1303,11 @@
     },
     {
      "type": "text",
-     "text": "4 4"
+     "text": "4"
+    },
+    {
+     "type": "text",
+     "text": "4"
     },
     {
      "type": "text",
@@ -1343,7 +1363,11 @@
     },
     {
      "type": "text",
-     "text": "Miasto Łęknica, gmina Trzebiel 3 i 3 3"
+     "text": "Miasto Łęknica, gmina Trzebiel 3 i 3"
+    },
+    {
+     "type": "text",
+     "text": "3"
     },
     {
      "type": "text",
@@ -2253,15 +2277,7 @@
     },
     {
      "type": "text",
-     "text": "Poz. 14. Powiat proszowicki z siedzibą władz w Proszowicach Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu"
-    },
-    {
-     "type": "text",
-     "text": "ominą Koszyce"
-    },
-    {
-     "type": "text",
-     "text": "gminy: Pałecznica, Radziemice gmina Proszowice"
+     "text": "Poz. 14. Powiat proszowicki z siedzibą władz w Proszowicach Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu ominą Koszyce gminy: Pałecznica, Radziemice gmina Proszowice"
     },
     {
      "type": "text",
@@ -2269,15 +2285,7 @@
     },
     {
      "type": "text",
-     "text": "[040 |gminaBystrasidzina | 0 [050 |gmina Maków Podhalański | 100600 |gminy: Stryszawa, Zembrzyce | 7"
-    },
-    {
-     "type": "text",
-     "text": "Poz. 16. Powiat tarnowski z siedzibą władz w Tarnowie"
-    },
-    {
-     "type": "text",
-     "text": "wyborczego w okręgu"
+     "text": "[040 |gminaBystrasidzina | 0 [050 |gmina Maków Podhalański | 100600 |gminy: Stryszawa, Zembrzyce | 7 Poz. 16. Powiat tarnowski z siedzibą władz w Tarnowie wyborczego w okręgu"
     },
     {
      "type": "text",
@@ -3079,7 +3087,11 @@
       },
       {
        "type": "text",
-       "text": "_| w okręgu | | 9 gminy: Sokołów Podlaski, Bielany im _5 | gmina Repki"
+       "text": "_| w okręgu | | 9 gminy: Sokołów Podlaski, Bielany im _5 |"
+      },
+      {
+       "type": "text",
+       "text": "gmina Repki"
       },
       {
        "type": "text",
@@ -3346,7 +3358,11 @@
     },
     {
      "type": "text",
-     "text": "3 o miny: Brzeg, Olszanka 4 ominą Grodków"
+     "text": "3 o miny: Brzeg, Olszanka 4"
+    },
+    {
+     "type": "text",
+     "text": "ominą Grodków"
     },
     {
      "type": "text",
@@ -3858,7 +3874,17 @@
     },
     {
      "type": "text",
-     "text": "ominą Oleszyce ominą Narol Poz. 10. Powiat łańcucki z siedzibą władz w Łańcucie Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu",
+     "text": "ominą Oleszyce ominą Narol",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Poz. 10. Powiat łańcucki z siedzibą władz w Łańcucie",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu",
      "quoted": true
     },
     {
@@ -3868,7 +3894,17 @@
     },
     {
      "type": "text",
-     "text": "5 gminałańem | 80 | 0500 jgminaMarkowa | a( gminy: Rakszawa, Żołynia Poz. 11. Powiat mielecki z siedzibą władz w Mielcu Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu l miasto Mielec 1 - osiedla: Kościuszki, Rzochów, Wojsław, Kilińskiego, Borek, Lotników. miasto Mielec 2 - osiedla: Kopernika, Kusocińskiego, Cyranka. miasto Mielec 3 - osiedla: Kazimierza WIk., Niepodległości, Wolności, Żeromskiego, Dziubków, Mościska, Mieszka I, Szafera.",
+     "text": "5 gminałańem | 80 | 0500 jgminaMarkowa | a( gminy: Rakszawa, Żołynia",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Poz. 11. Powiat mielecki z siedzibą władz w Mielcu",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Nr okręgu Granice okręgu Liczba radnych wyborczego w okręgu l miasto Mielec 1 - osiedla: Kościuszki, Rzochów, Wojsław, Kilińskiego, Borek, Lotników. miasto Mielec 2 - osiedla: Kopernika, Kusocińskiego, Cyranka. miasto Mielec 3 - osiedla: Kazimierza WIk., Niepodległości, Wolności, Żeromskiego, Dziubków, Mościska, Mieszka I, Szafera.",
      "quoted": true
     },
     {
@@ -3980,7 +4016,22 @@
     },
     {
      "type": "text",
-     "text": "Nr okręgu wyborczego miasto Stalowa Wola 1, gmina Bojanów - osiedle Charzewice, Rozwadów, Piaski, Widok, Mołodynie, Poręby,,. miasto Stalowa Wola 2 - osiedle Pławo (obejmuje ulice: Al. Jana Pawła II nr 2,4,6,8,12,20,22,24, Poniatowskiego nr 23,25,27,29,66,68,68a,70,72,74,78,78a,80,82), ul. Pławo (cała), Księdza Popiełuszki nr 4, Wałowa nr 85,95, osiedla: Flisaków, Osiedle Na Skarpie, Śródmieście, Lasowiaków, Z asanie, Energetyków, Hutnik. miasto Stalowa Wola 3 - osiedle Centralne, Pławo (obejmuje ulice: Al. Jana Pawła II nr 14,16, ul. Poniatowskiego nr 35, 35a, 35b, 37,39), osiedle Fabryczne, Wyzwolenie, Podlesie.",
+     "text": "Nr okręgu wyborczego",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "miasto Stalowa Wola 1, gmina Bojanów - osiedle Charzewice, Rozwadów, Piaski, Widok, Mołodynie, Poręby,,.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "miasto Stalowa Wola 2 - osiedle Pławo (obejmuje ulice: Al. Jana Pawła II nr 2,4,6,8,12,20,22,24, Poniatowskiego nr 23,25,27,29,66,68,68a,70,72,74,78,78a,80,82), ul. Pławo (cała), Księdza Popiełuszki nr 4, Wałowa nr 85,95, osiedla: Flisaków, Osiedle Na Skarpie, Śródmieście, Lasowiaków, Z asanie, Energetyków, Hutnik.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "miasto Stalowa Wola 3 - osiedle Centralne, Pławo (obejmuje ulice: Al. Jana Pawła II nr 14,16, ul. Poniatowskiego nr 35, 35a, 35b, 37,39), osiedle Fabryczne, Wyzwolenie, Podlesie.",
      "quoted": true
     },
     {
@@ -5904,7 +5955,12 @@
     },
     {
      "type": "text",
-     "text": "| 2 |gmina Grodzisk Wielkopolski | 10 | 0,300 |gminaRakoniewie | (60 | | 4. |gminaWielichowo | 4 | Poz. 6. Powiat jarociński z siedzibą władz w Jarocinie",
+     "text": "| 2 |gmina Grodzisk Wielkopolski | 10 | 0,300 |gminaRakoniewie | (60 | | 4. |gminaWielichowo | 4 |",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Poz. 6. Powiat jarociński z siedzibą władz w Jarocinie",
      "quoted": true
     },
     {
@@ -6036,7 +6092,12 @@
     },
     {
      "type": "text",
-     "text": "ominą Rydzyna ominą Swięciechowa o miny: Wijewo, Włoszakowice Poz. 14. Powiat międzychodzki z siedzibą władz w Międzychodzie",
+     "text": "ominą Rydzyna ominą Swięciechowa o miny: Wijewo, Włoszakowice",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Poz. 14. Powiat międzychodzki z siedzibą władz w Międzychodzie",
      "quoted": true
     },
     {

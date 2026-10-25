@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/696",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 grudnia 1994 r. w sprawie ustanowienia dodatkowych kontyngentów celnych na niektóre surowce i półprodukty przywożone z zagranicy dla przemysłu farmaceutycznego.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/696/text.pdf",
  "body": [
   {
@@ -1043,7 +1043,7 @@
     },
     {
      "type": "text",
-     "text": "\\ Dziennik Ustaw Nr 134 — 2412 — Poz. 696"
+     "text": "\\"
     },
     {
      "type": "text",
@@ -1487,15 +1487,39 @@
     },
     {
      "type": "text",
-     "text": "Kod PON lość 3001 Gruczoły i inne narządy do celów organoterapeutycznych, suszone, sproszkowane i nie sproszkowane; ekstrakty z gruczołów lub innych narządów lub ich wydzielin do cełów organoteraputycznych; heparyna i jej sole; inne substancje ludzkie i zwierzęce preparowane, do celów terapeutycznych lub profilaktycznych gdzie indziej nie wymienione: 3001 90 - Pozostałe: - - Pozostałe: 3001 90 99 0 - - - Pozostałe 3001 90 99 0"
+     "text": "Kod PON lość"
     },
     {
      "type": "text",
-     "text": "Heparinoid Syntetyczne organiczne środki barwiące, nawet określone chemicznie, preparaty wyszczególnione w uwadze 3 do ninieszego działu na bazie syntetycznych środków barwiących organicznych; syntetyczne produkty organiczne stosowane jako fluoroscencyjne środki rozjaśniające lub jako iluminatory, nawet o określonej budowie chemicznej: - Syntetyczne organiczne środki barwiące oraz preparaty oparte na nich, jak wyszczególniono w uwadze 3 do niniejszego działu: 3204 17 000 - - Pigmenty oraz preparaty na ich bazie 3204 17 000 3204 19 00 0"
+     "text": "3001 Gruczoły i inne narządy do celów organoterapeutycznych, suszone, sproszkowane i nie sproszkowane; ekstrakty z gruczołów lub innych narządów lub ich wydzielin do cełów organoteraputycznych; heparyna i jej sole; inne substancje ludzkie i zwierzęce preparowane, do celów terapeutycznych lub profilaktycznych gdzie indziej nie wymienione: 3001 90 - Pozostałe:"
     },
     {
      "type": "text",
-     "text": "Czerwień koszenilowa - - Pozostałe, łącznie z mieszaninami środków barwiących z dwóch lub większej liczby z pod pozycji 3204 11 do 3204 19 3204 19000 | Barwnik błękitny Farba drukarska, atrament do pisania, tusz kreślarski i inne atramenty i tusze także stężone lub stałe: - Farba drukarska - - Czarna (do nadruku nici chirurgicznych)"
+     "text": "- - Pozostałe:"
+    },
+    {
+     "type": "text",
+     "text": "3001 90 99 0 - - - Pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "3001 90 99 0"
+    },
+    {
+     "type": "text",
+     "text": "Heparinoid Syntetyczne organiczne środki barwiące, nawet określone chemicznie, preparaty wyszczególnione w uwadze 3 do ninieszego działu na bazie syntetycznych środków barwiących organicznych; syntetyczne produkty organiczne stosowane jako fluoroscencyjne środki rozjaśniające lub jako iluminatory, nawet o określonej budowie chemicznej: - Syntetyczne organiczne środki barwiące oraz preparaty oparte na nich, jak wyszczególniono w uwadze 3 do niniejszego działu: 3204 17 000 - - Pigmenty oraz preparaty na ich bazie 3204 17 000"
+    },
+    {
+     "type": "text",
+     "text": "3204 19 00 0"
+    },
+    {
+     "type": "text",
+     "text": "Czerwień koszenilowa - - Pozostałe, łącznie z mieszaninami środków barwiących z dwóch lub większej liczby z pod pozycji 3204 11 do 3204 19 3204 19000 | Barwnik błękitny Farba drukarska, atrament do pisania, tusz kreślarski i inne atramenty i tusze także stężone lub stałe: - Farba drukarska"
+    },
+    {
+     "type": "text",
+     "text": "- - Czarna (do nadruku nici chirurgicznych)"
     },
     {
      "type": "text",
@@ -1503,7 +1527,11 @@
     },
     {
      "type": "text",
-     "text": "- - Pozostała Farba niebieska (do nadruku nici chirurgicznych) Farba zielona (do nadruku nici chirurgicznych)"
+     "text": "- - Pozostała"
+    },
+    {
+     "type": "text",
+     "text": "Farba niebieska (do nadruku nici chirurgicznych) Farba zielona (do nadruku nici chirurgicznych)"
     },
     {
      "type": "note",
@@ -1799,7 +1827,11 @@
     },
     {
      "type": "text",
-     "text": "4805 40 00 0 - Bibuła i tektura filtracyjne ex | 4805 40 00 0 Bibuła filtracyjna termozgrzewalna 25 000 kg"
+     "text": "4805 40 00 0 - Bibuła i tektura filtracyjne"
+    },
+    {
+     "type": "text",
+     "text": "ex | 4805 40 00 0 Bibuła filtracyjna termozgrzewalna 25 000 kg"
     },
     {
      "type": "text",

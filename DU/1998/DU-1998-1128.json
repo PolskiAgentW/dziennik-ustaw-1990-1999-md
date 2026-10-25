@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/1128",
  "title": "Rozporządzenie Rady Ministrów z dnia 22 grudnia 1998 r. w sprawie opłat za składowanie odpadów.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/1128/text.pdf",
  "body": [
   {
@@ -2003,10 +2003,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 162 — 6705 — Poz. 1128"
-      },
-      {
-       "type": "text",
        "text": "Grupy, podgrupy i rodzaje odpadów - 19 08 05 19 08 06 Nasycone lub zużyte zywice jonowymienne 35,00 19 08 07 Roztwory i szlamy z regeneracji wymienników jonitowych 35,00 \" 19 08 08 Osady z oczyszczania ścieków przemysłowych poneutralizacyjne 11,00 ”"
       },
       {
@@ -2073,11 +2069,15 @@
    ]
   },
   {
-   "heading": "Załącznik nr 2 ROCZNE STAWKI OPŁAT ZA SKŁADOWANIE ODPADÓW NA SKŁADOWISKU ODPADÓW DLA NIEKTÓRYCH RODZAJÓW ODPADÓW",
+   "heading": "Załącznik nr 2",
    "body": [
     {
      "type": "note",
      "text": "[Strona 35 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "ROCZNE STAWKI OPŁAT ZA SKŁADOWANIE ODPADÓW NA SKŁADOWISKU ODPADÓW DLA NIEKTÓRYCH RODZAJÓW ODPADÓW"
     },
     {
      "type": "text",
@@ -2097,7 +2097,11 @@
     },
     {
      "type": "text",
-     "text": "17 04 01 Odpady metaliczne 2 do 17 04 06"
+     "text": "17 04 01 Odpady metaliczne 2 do"
+    },
+    {
+     "type": "text",
+     "text": "17 04 06"
     },
     {
      "type": "text",
