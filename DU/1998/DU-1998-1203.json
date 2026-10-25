@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/1203",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 1998 r. zmieniające rozporządzenie w sprawie określenia wykazu instytucji i jednostek organizacyjnych podległych lub podporządkowanych właściwym ministrom i centralnym organom administracji rządowej, wojewodom i innym terenowym organom administracji rządowej albo przez nich nadzorowanych, przekazywanych określonym jednostkom samorządu terytorialnego.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/1203/text.pdf",
  "body": [
   {
@@ -1409,6 +1409,10 @@
       {
        "type": "note",
        "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— {251 —"
       }
      ]
     },
@@ -1819,10 +1823,6 @@
       {
        "type": "text",
        "text": "IMS\" PRM eee"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 165"
       },
       {
        "type": "text",
@@ -2346,7 +2346,7 @@
       },
       {
        "type": "text",
-       "text": "J255 —"
+       "text": "— J255 —"
       },
       {
        "type": "text",
@@ -2780,6 +2780,10 @@
       {
        "type": "note",
        "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 257 =="
       },
       {
        "type": "text",
@@ -5900,10 +5904,6 @@
       {
        "type": "text",
        "text": "I eee"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 165"
       }
      ]
     },
@@ -6157,6 +6157,10 @@
       {
        "type": "note",
        "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= 7270 —"
       }
      ]
     },
@@ -6986,7 +6990,7 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 165 — /273 —"
+       "text": "— /273 —"
       }
      ]
     },
@@ -7534,10 +7538,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 165"
-      },
-      {
-       "type": "text",
        "text": "MIASTO NA PRAWACH POWIATU — SOSNOWIEC"
       }
      ]
@@ -7811,6 +7811,10 @@
       {
        "type": "note",
        "text": "[Strona 34 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "== 7276 —"
       },
       {
        "type": "text",

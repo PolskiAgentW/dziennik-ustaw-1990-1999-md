@@ -1,7 +1,7 @@
 {
  "eli": "DU/1994/93",
  "title": "Rozporządzenie Ministra Finansów z dnia 19 lutego 1994 r. w sprawie oznaczania wyrobów znakami akcyzy.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1994/93/text.pdf",
  "body": [
   {
@@ -760,10 +760,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 26"
-      },
-      {
-       "type": "text",
        "text": "„15 Rys Rys. 28 Rys. 29 Rys. 30 Rys. 31",
        "quoted": true
       },
@@ -1092,43 +1088,35 @@
     },
     {
      "type": "text",
-     "text": "a 8]"
-    },
-    {
-     "type": "text",
-     "text": "ry ber fi !"
+     "text": "a 8] ry ber fi !"
     },
     {
      "type": "text",
      "text": "Papierosy bez filtra Papierosy importowane ZESTAWIENIE WARTOŚCI BANDEROL PODATKOWYCH (KWOT ZALICZEK NA PODATEK AKCYZOWY) WEDŁUG POJEMNOŚCI OPAKOWAŃ JEDNOSTKOWYCH I MOCY ALKOHOLU W TYCH OPAKOWANIACH IMPORTOWANYCH | KRAJOWYCH WYROBÓW SPIRYTUSOWYCH Pojemność opakowania Moc alkoholu jednostkowego w litrach w opakowaniu jednostkowym w %"
     },
     {
-     "type": "text",
-     "text": "zo)"
-    },
-    {
-     "type": "text",
-     "text": "go)"
-    },
-    {
-     "type": "text",
-     "text": "g plał a=] a O©|©|o| zo)"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "[as [pom 0 S| poo no bs roma 18 po | m [s |pomas Tes ao [2 |pomas__——— |emasee_ | 8% |] [s [poms | nowt aos [powa ——— |romasse"
-    },
-    {
-     "type": "text",
-     "text": "| | o | [s |pomas_——— |emamee_ | 800 [s |pomas [ems"
-    },
-    {
-     "type": "text",
-     "text": "| mo |"
+     "type": "lit",
+     "num": "zo",
+     "path": "lit_zo",
+     "text": "go) g plał a=] a O©|©|o| zo)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "[as [pom 0 S| poo no bs roma 18 po | m [s |pomas Tes ao [2 |pomas__——— |emasee_ | 8% |] [s [poms | nowt aos [powa ——— |romasse"
+      },
+      {
+       "type": "text",
+       "text": "| | o | [s |pomas_——— |emamee_ | 800 [s |pomas [ems"
+      },
+      {
+       "type": "text",
+       "text": "| mo |"
+      }
+     ]
     }
    ]
   },
@@ -1247,7 +1235,11 @@
     },
     {
      "type": "text",
-     "text": "województwa: szczecińskie, gorzowskie, koszalińskie | województwa: warszawskie, ciechanowskie, płockie, siedleckie, skierniewickie, włocławskie 12 Pierwszy Urząd Skarbowy Wrocław-Śródmieście, ul. | województwa: wrocławskie, jeleniogórskie, legnickie, J. Piłsudskiego 38a"
+     "text": "województwa: szczecińskie, gorzowskie, koszalińskie"
+    },
+    {
+     "type": "text",
+     "text": "| województwa: warszawskie, ciechanowskie, płockie, siedleckie, skierniewickie, włocławskie 12 Pierwszy Urząd Skarbowy Wrocław-Śródmieście, ul. | województwa: wrocławskie, jeleniogórskie, legnickie, J. Piłsudskiego 38a"
     },
     {
      "type": "text",

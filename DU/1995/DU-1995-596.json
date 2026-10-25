@@ -1,7 +1,7 @@
 {
  "eli": "DU/1995/596",
  "title": "Rozporządzenie Rady Ministrów z dnia 10 października 1995 r. w sprawie rozdysponowania rezerwy etatów kalkulacyjnych, środków i limitów na wynagrodzenia, przeznaczonej na nie przewidziane zmiany organizacyjne w 1995 r.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1995/596/text.pdf",
  "body": [
   {
@@ -160,10 +160,6 @@
     {
      "type": "text",
      "text": "ay"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 123"
     },
     {
      "type": "heading",
@@ -541,8 +537,12 @@
    ]
   },
   {
-   "heading": "Załącznik nr 3 ROZDYSPONOWANIE REZERWY LIMITÓW WYNAGRODZEŃ DLA GOSPODARKI POZABUDŻETOWEJ NIE DOTOWANEJ WEDŁUG POSZCZEGÓLNYCH CZĘŚCI BUDŻETU, W PODZIALE NA DZIAŁY",
+   "heading": "Załącznik nr 3",
    "body": [
+    {
+     "type": "text",
+     "text": "ROZDYSPONOWANIE REZERWY LIMITÓW WYNAGRODZEŃ DLA GOSPODARKI POZABUDŻETOWEJ NIE DOTOWANEJ WEDŁUG POSZCZEGÓLNYCH CZĘŚCI BUDŻETU, W PODZIALE NA DZIAŁY"
+    },
     {
      "type": "text",
      "text": "Wyszczególnienie"

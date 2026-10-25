@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/989",
  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 7 grudnia 1998 r. w sprawie utworzenia regionalnych Kas Chorych i ich oddziałów, określenia ich siedzib i obszaru działania oraz nadania im statutów.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/989/text.pdf",
  "body": [
   {
@@ -644,6 +644,10 @@
         {
          "type": "note",
          "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "—= 5537 —"
         }
        ]
       },
@@ -17794,10 +17798,6 @@
         {
          "type": "text",
          "text": "ee"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 152"
         }
        ]
       }
@@ -19005,6 +19005,10 @@
         {
          "type": "note",
          "text": "[Strona 68 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "== 9601 —"
         }
        ]
       }
@@ -19557,6 +19561,10 @@
         {
          "type": "note",
          "text": "[Strona 70 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= 5603 —"
         }
        ]
       }
@@ -22458,6 +22466,10 @@
             {
              "type": "note",
              "text": "[Strona 80 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+            },
+            {
+             "type": "text",
+             "text": "== 5613 ="
             }
            ]
           }

@@ -60,7 +60,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 16:50 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-25 18:31 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -79,7 +79,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 7117, razem 28654 z 291
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 46.
 
 Rodzaje aktów: Rozporządzenie 6303, Oświadczenie rządowe 362, Umowa międzynarodowa 182, Uchwała 91, Konwencja 87, Protokół 24, Traktat 20, Porozumienie 20, Zarządzenie 15, Układ 8, Statut 3, Ustawa 1, Postanowienie 1.
-Wersje konwertera: eli2md 0.6.37 (5455), eli2md 0.6.38 (1590), eli2md 0.6.62 (32), eli2md 0.6.39 (30), eli2md 0.6.63 (10).
+Wersje konwertera: eli2md 0.6.37 (5435), eli2md 0.6.38 (1584), eli2md 0.6.62 (32), eli2md 0.6.39 (30), eli2md 0.6.65 (26), eli2md 0.6.63 (10).
 <!-- stats:end -->
 
 ## Akty obowiązujące
@@ -142,6 +142,14 @@ Tego samego dnia eli2md 0.6.63, 10 aktów (opis w README eli2md, wpis 0.6.63): w
 nagłówkiem też jest pomijany. Przeliczyłem ponownie te 9 aktów i DU/1990/539. We wszystkich 10 nagłówka już nie ma,
 a reszta tekstu ma te same znaki. W DU/1995/37 i DU/1996/81 notatka o stronie czytanej przez OCR stoi teraz pod
 nagłówkiem załącznika, który zaczyna tę stronę. W zbiorze zostały 3 nagłówki (DU/1997/137, 989, DU/1998/244, opis wyżej).
+
+Tego samego dnia eli2md 0.6.65, 26 aktów (opis w README eli2md, wpis 0.6.65): na stronach czytanych przez OCR
+nagłówek numeru odczytany bez numeru strony i pozycji („Dziennik Ustaw Nr 65”) i linia drukarni z górnego pasa strony
+nie trafiają już do tekstu. Przeliczyłem ponownie (z eli2md 0.6.37 i 0.6.38) 29 aktów, w których taki nagłówek był
+osobnym akapitem na górze strony z OCR. Reguła jak wyżej (nagłówków i notek mniej, reszta tekstu różni się najwyżej
+o 0,5% znaków). Nowy plik zostaje w 26 aktach (w 20 z nich reszta tekstu ma te same znaki); uciętych nagłówków było
+w nich 29, nie został żaden. Bez zmian zostały 3: w DU/1998/462 i 555 nowy plik ma tyle samo nagłówków, w DU/1997/137
+reszta tekstu różniła się o 3% (opis wyżej).
 
 ## Zawartość
 
