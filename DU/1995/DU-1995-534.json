@@ -587,17 +587,14 @@
     {
      "type": "text",
      "text": "Jeżeli zgodnie z postanowieniami niniejszej umowy właściwe są organy obu Umawiających się Stron, a wniosek o wszczęcie postępowania wniesiony został do organu jednej z nich, wyłączona jest właściwość organu drugiej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział pierwszy"
-    },
-    {
-     "type": "text",
-     "text": "SPRAWY Z ZAKRESU PRAWA OSOBOWEGO"
     }
    ],
    "label": "Artykuł 21"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział pierwszy",
+   "text": "SPRAWY Z ZAKRESU PRAWA OSOBOWEGO"
   },
   {
    "type": "art",
@@ -725,19 +722,15 @@
      "num": "4",
      "path": "art_26/ust_4",
      "text": "Orzeczenie wydane na podstawie ustępu 3 wywiera skutki prawne wyłącznie na terytorium tej Umawiającej się Strony, której sąd wydał orzeczenie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział drugi"
-      },
-      {
-       "type": "text",
-       "text": "SPRAWY Z ZAKRESU PRAWA RODZINNEGO"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 26"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział drugi",
+   "text": "SPRAWY Z ZAKRESU PRAWA RODZINNEGO"
   },
   {
    "type": "art",
@@ -1079,19 +1072,15 @@
      "num": "2",
      "path": "art_36/ust_2",
      "text": "Sąd, który stosownie do ustępu 1 podjął się ustanowienia opieki lub kurateli, stosuje prawo obowiązujące w jego państwie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział trzeci"
-      },
-      {
-       "type": "text",
-       "text": "SPRAWY MAJĄTKOWE"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 36"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzeci",
+   "text": "SPRAWY MAJĄTKOWE"
   },
   {
    "type": "art",
@@ -1186,19 +1175,15 @@
      "num": "2",
      "path": "art_40/ust_2",
      "text": "W sprawach wymienionych w ustępie 1 właściwy jest sąd tej Umawiającej się Strony, na której terytorium nastąpiło zdarzenie będące źródłem zobowiązania lub na której terytorium pozwany ma miejsce zamieszkania. Właściwy jest również sąd tej Umawiającej się Strony, na której terytorium ma miejsce zamieszkania powód, jeżeli na tym terytorium znajduje się majątek pozwanego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział czwarty"
-      },
-      {
-       "type": "text",
-       "text": "SPRAWY SPADKOWE"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 40"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czwarty",
+   "text": "SPRAWY SPADKOWE"
   },
   {
    "type": "art",
@@ -1332,17 +1317,14 @@
     {
      "type": "note",
      "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Rozdział piąty"
-    },
-    {
-     "type": "text",
-     "text": "SPRAWY Z ZAKRESU PRAWA PRACY"
     }
    ],
    "label": "Artykuł 46"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piąty",
+   "text": "SPRAWY Z ZAKRESU PRAWA PRACY"
   },
   {
    "type": "art",
@@ -1376,19 +1358,15 @@
      "num": "4",
      "path": "art_47/ust_4",
      "text": "Właściwość określoną w ustępie 3 strony stosunku pracy mogą zmienić w drodze umowy.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział szósty"
-      },
-      {
-       "type": "text",
-       "text": "KOSZTY PROCESU I UŁATWIENIA PROCESOWE"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 47"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział szósty",
+   "text": "KOSZTY PROCESU I UŁATWIENIA PROCESOWE"
   },
   {
    "type": "art",
@@ -1532,19 +1510,15 @@
      "num": "3",
      "path": "art_53/ust_3",
      "text": "Do skutków uchybienia terminu sąd rozpoznający sprawę stosuje prawo swego państwa.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział siódmy"
-      },
-      {
-       "type": "text",
-       "text": "UZNAWANIE | WYKONYWANIE ORZECZEŃ (POSTA- NOWIEN I WYROKÓW)"
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 53"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział siódmy",
+   "text": "UZNAWANIE | WYKONYWANIE ORZECZEŃ (POSTA- NOWIEN I WYROKÓW)"
   },
   {
    "type": "art",
@@ -1809,11 +1783,8 @@
    "text": "Sprawy karne"
   },
   {
-   "type": "text",
-   "text": "Rozdział pierwszy"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział pierwszy",
    "text": "PRZEJĘCIE ŚCIGANIA KARNEGO"
   },
   {
@@ -2001,21 +1972,18 @@
     {
      "type": "text",
      "text": "nie."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział drugi"
-    },
-    {
-     "type": "text",
-     "text": "WYDANIE W CELU ŚCIGANIA I WYKONANIA WYROKU"
-    },
-    {
-     "type": "text",
-     "text": "Podstawy wydania"
     }
    ],
    "label": "Artykuł 66"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział drugi",
+   "text": "WYDANIE W CELU ŚCIGANIA I WYKONANIA WYROKU"
+  },
+  {
+   "type": "text",
+   "text": "Podstawy wydania"
   },
   {
    "type": "art",
@@ -2420,17 +2388,14 @@
     {
      "type": "text",
      "text": "Koszty wydania ponosi ta Umawiajaca się Strona, na której terytorium koszty te powstały. Koszty tranzytu ponosi wzywająca Umawiająca się Strona."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział trzeci"
-    },
-    {
-     "type": "text",
-     "text": "POSTANOWIENIA SZCZEGÓLNE DOTYCZĄCE PO- MOCY PRAWNEJ W SPRAWACH KARNYCH"
     }
    ],
    "label": "Artykuł 83"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzeci",
+   "text": "POSTANOWIENIA SZCZEGÓLNE DOTYCZĄCE PO- MOCY PRAWNEJ W SPRAWACH KARNYCH"
   },
   {
    "type": "art",
@@ -2552,17 +2517,14 @@
     {
      "type": "text",
      "text": "Przedstawiciele jednej Umawiającej się Strony za zgodą organu centralnego drugiej Umawiającej się Strony, o którym mowa w artykule 4 ustęp 1, mogą być obecni przy podejmowaniu czynności z zakresu pomocy prawnej na terytorium drugiej Umawiającej się Strony."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział czwarty"
-    },
-    {
-     "type": "text",
-     "text": "WYKONYWANIE ORZECZEŃ SĄDOWYCH W SPRA- WACH KARNYCH"
     }
    ],
    "label": "Artykuł 90"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czwarty",
+   "text": "WYKONYWANIE ORZECZEŃ SĄDOWYCH W SPRA- WACH KARNYCH"
   },
   {
    "type": "art",

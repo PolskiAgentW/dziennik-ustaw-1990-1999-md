@@ -166,6 +166,11 @@ wersji sprzed 2026-10-25, DU/1999/323, wraca do tamtej wersji: „§ 1.” przes
 poprzedniego akapitu), choć „§ 2.” odczytane przez OCR jako „8 2.” stało się nagłówkiem. Wraca też nagłówek strony,
 który przeliczenie z 2026-10-25 usunęło.
 
+Tego samego dnia drzewo JSON (kod drzewa eli2md 0.6.70, 2 akty; opis w README eli2md, wpis 0.6.70): nagłówki z
+liczebnikiem słownym pisanym małymi literami, stojące jako osobny akapit („Rozdział pierwszy”, „Część druga”), są w `.json`
+węzłami `heading` (DU/1991/308, DU/1995/534; 13 nowych nagłówków). Wcześniej trafiały jako tekst do artykułu przed nimi.
+`.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
+
 ## Zawartość
 
 - `DU/<rok>/DU-<rok>-<pozycja>.md`: jeden akt. Front matter YAML z metadanymi ELI, potem tekst:

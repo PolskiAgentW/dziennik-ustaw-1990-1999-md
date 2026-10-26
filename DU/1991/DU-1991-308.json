@@ -1824,11 +1824,8 @@
      "text": "WZÓR PRZEDSTAWIENIA DANYCH FINANSOWYCH, W PRZYPADKU GDY EMITENTEM JEST INNY PODMIOT NIŻ BANK, GMINA, ZWIĄZEK GMIN BĄDŹ TOWARZYSTWO UBEZPIECZENIOWE"
     },
     {
-     "type": "text",
-     "text": "Część pierwsza"
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "Część pierwsza",
      "text": "Dane finansowe, o których mowa w § 11 pkt 2 rozporządzenia, dla emitenta posiadającego status przedsiębiorstwa państwowego lub prezentującego sprawozdania finansowe swego prawnego poprzednika, który posiadał status przedsiębiorstwa państwowego, powinny być przedstawione w następujący sposób:"
     },
     {
@@ -2353,146 +2350,143 @@
       {
        "type": "text",
        "text": "również pozycji „Pozostałe wykorzystanie” i „Razem wykorzystanie przychodów źródeł finansowania”."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część druga",
+     "text": "Dane finansowe, o których mowa w § 11 pkt 2 rozporządzenia, dla emitenta posiadającego status spółki akcyjnej, spółki z ograniczoną odpowiedzialnością lub spółdzielni powinny być przedstawione w następujący sposób:"
+    },
+    {
+     "type": "text",
+     "text": "lI. Rachunek wyników"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Przychody netto ze sprzedaży",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Koszty wytworzenia produkcji sprzedanej (włącznie z korektami wartości)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Zysk (strata) brutto ze sprzedaży",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Koszty sprzedaży (włącznie z korektami wartości)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Koszty zarządzania i administracji (włącznie z korektami wartości)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Wyniki z pozostałej działalności operacyjnej",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Przychody z udziału w innych podmiotach, w tym otrzymane od podmiotów zależnych",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Przychody z pozostałych aktywów finansowych i pożyczek zaliczanych do majątku trwałego Pozostałe odsetki i przychody finansowe, w tym o trzy-",
+     "children": [
+      {
+       "type": "text",
+       "text": "9"
       },
       {
        "type": "text",
-       "text": "Część druga"
+       "text": "— mane od podmiotów zależnych Korekta wartości aktywów finansowych oraz lokat zali- 10) czanych do majątku obrotowego Odsetki i inne koszty finansowe, w tym zapłacone"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "podmiotom zależnym Zysk (strata) z działalności gospodarczej",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "Zyski i dochody nadzwyczajne",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "Straty i koszty nadzwyczajne",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "Zysk (strata) ze zdarzeń nadzwyczajnych",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "Podatek dochodowy",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "pkt_16",
+     "text": "Pozostałe podatki płacone z tytułu zysków (strat) 17) Zysk (strata) bilansowy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "18)"
       },
       {
        "type": "text",
-       "text": "Dane finansowe, o których mowa w § 11 pkt 2 rozporządzenia, dla emitenta posiadającego status spółki akcyjnej, spółki z ograniczoną odpowiedzialnością lub spółdzielni powinny być przedstawione w następujący sposób:"
+       "text": "Emitent posiadający status spółki akcyjnej ujawnia zysk w przeliczeniu na jedną akcję."
       },
       {
        "type": "text",
-       "text": "lI. Rachunek wyników"
+       "text": "Zysk przypadający na akcję zwykłą należy ustalić jako relację zysku po opodatkowaniu pomniejszonego o dywidendy z akcji uprzywilejowanych, niezależnie od tego, czy faktycznie były, czy też będą one zadeklarowane do wypłaty, podzielonego przez średnią ważoną ilość akcji zwykłych pozostających w posiadaniu akcjonariuszy w danym roku obrachunkowym. Wagę stanowi tu długość okresu — ustalonego jako całość lub część roku obrachunkowego — w którym akcje zwykłe danej emisji miały prawo do uczestnictwa w dywidendzie."
       },
       {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_5/pkt_1",
-       "text": "Przychody netto ze sprzedaży",
-       "children": []
+       "type": "text",
+       "text": "ll. Bilans."
       },
       {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_5/pkt_2",
-       "text": "Koszty wytworzenia produkcji sprzedanej (włącznie z korektami wartości)",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_5/pkt_3",
-       "text": "Zysk (strata) brutto ze sprzedaży",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_5/pkt_4",
-       "text": "Koszty sprzedaży (włącznie z korektami wartości)",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_5/pkt_5",
-       "text": "Koszty zarządzania i administracji (włącznie z korektami wartości)",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_5/pkt_6",
-       "text": "Wyniki z pozostałej działalności operacyjnej",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_5/pkt_7",
-       "text": "Przychody z udziału w innych podmiotach, w tym otrzymane od podmiotów zależnych",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "8",
-       "path": "ust_5/pkt_8",
-       "text": "Przychody z pozostałych aktywów finansowych i pożyczek zaliczanych do majątku trwałego Pozostałe odsetki i przychody finansowe, w tym o trzy-",
-       "children": [
-        {
-         "type": "text",
-         "text": "9"
-        },
-        {
-         "type": "text",
-         "text": "— mane od podmiotów zależnych Korekta wartości aktywów finansowych oraz lokat zali- 10) czanych do majątku obrotowego Odsetki i inne koszty finansowe, w tym zapłacone"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "11",
-       "path": "ust_5/pkt_11",
-       "text": "podmiotom zależnym Zysk (strata) z działalności gospodarczej",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "12",
-       "path": "ust_5/pkt_12",
-       "text": "Zyski i dochody nadzwyczajne",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "13",
-       "path": "ust_5/pkt_13",
-       "text": "Straty i koszty nadzwyczajne",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "14",
-       "path": "ust_5/pkt_14",
-       "text": "Zysk (strata) ze zdarzeń nadzwyczajnych",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "15",
-       "path": "ust_5/pkt_15",
-       "text": "Podatek dochodowy",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "16",
-       "path": "ust_5/pkt_16",
-       "text": "Pozostałe podatki płacone z tytułu zysków (strat) 17) Zysk (strata) bilansowy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "18)"
-        },
-        {
-         "type": "text",
-         "text": "Emitent posiadający status spółki akcyjnej ujawnia zysk w przeliczeniu na jedną akcję."
-        },
-        {
-         "type": "text",
-         "text": "Zysk przypadający na akcję zwykłą należy ustalić jako relację zysku po opodatkowaniu pomniejszonego o dywidendy z akcji uprzywilejowanych, niezależnie od tego, czy faktycznie były, czy też będą one zadeklarowane do wypłaty, podzielonego przez średnią ważoną ilość akcji zwykłych pozostających w posiadaniu akcjonariuszy w danym roku obrachunkowym. Wagę stanowi tu długość okresu — ustalonego jako całość lub część roku obrachunkowego — w którym akcje zwykłe danej emisji miały prawo do uczestnictwa w dywidendzie."
-        },
-        {
-         "type": "text",
-         "text": "ll. Bilans."
-        },
-        {
-         "type": "text",
-         "text": "A. Aktywa"
-        }
-       ]
+       "type": "text",
+       "text": "A. Aktywa"
       }
      ]
     },
