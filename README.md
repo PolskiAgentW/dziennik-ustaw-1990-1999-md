@@ -278,6 +278,10 @@ Metoda, próbka i oceny per akt:
   stron w nagłówkach (strona, na której akt się zaczyna, jest wcześniejsza niż pierwsza strona jego PDF): 21 aktów
   (1990/233, 1990/289, 1993/303, 1993/316, 1993/371, 1994/353, 1994/606, 1994/622, 1994/629, 1994/696, 1994/697, 1994/765, 1994/787, 1996/158, 1996/161, 1996/165, 1997/145, 1997/1018, 1998/139, 1998/260, 1999/1161). Np. DU/1998/139 zaczyna się na str. 851, jego PDF na str. 852;
   DU/1994/697 zaczyna się na str. 2430, a jego PDF to tylko str. 2481. Lista może nie być pełna (stan 2026-10-05).
+- Na części stron z tabelami OCR czyta nagłówek zeszytu do góry nogami, co daje szum w tekście (najwięcej DU/1999/1320),
+  np. „89 JN MEJSf] Aluueizq” (to „Dziennik Ustaw Nr 68”) i numer strony wspak („— 0849 —”), czasem sklejony z wierszem
+  tabeli. Wierszy z takim nagłówkiem jest 694 w 117 aktach (pomiar 2026-10-26 przybliżonym wzorcem; w próbie 25 z 25
+  trafień to ten nagłówek; może nie łapać wszystkich).
 - Strony słabej jakości (przekreślenia, pieczęcie, ciemne tło) dają fragmenty bez sensu (DU/1990/390).
 - Tabele są spłaszczone do akapitów; na stronach w dwóch łamach ich komórki mogą się przeplatać.
 - Przypisy nie są rozpoznawane jako przypisy (zostają akapitami).
