@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/364",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 23 marca 1998 r. w sprawie obowiązków sprawozdawczych w zakresie gospodarki paliwowo-energetycznej.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/364/text.pdf",
  "body": [
   {
@@ -1356,10 +1356,6 @@
     },
     {
      "type": "text",
-     "text": "= 2178 —"
-    },
-    {
-     "type": "text",
      "text": "OBJAŚNIENIA DO FORMULARZA G - 10.1 (w)"
     },
     {
@@ -1400,10 +1396,6 @@
     {
      "type": "note",
      "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 2179 ="
     },
     {
      "type": "text",
@@ -1836,11 +1828,6 @@
     },
     {
      "type": "text",
-     "text": "— 2187 =",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "- strefa szczytowa ranna godz. 8° - 11 we wszystkich miesiącach i dniach miesiąca, - strefa szczytowa wieczorna wg poniższej tabelki: Czas trwania Miesiące strefy szczytowej",
      "quoted": true
     },
@@ -2231,10 +2218,6 @@
     {
      "type": "note",
      "text": "[Strona 41 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 2197 ="
     },
     {
      "type": "text",
@@ -2768,8 +2751,9 @@
      "text": "Ceny uzyskane w obrocie energią elektryczną"
     },
     {
-     "type": "text",
-     "text": "—= 2209 == Dział 5. Zysk / strata na działalności handlowej, w zt Wyszczególnienie Opłaty za handlową obsługę"
+     "type": "heading",
+     "label": "Dział 5",
+     "text": "Zysk / strata na działalności handlowej, w zt Wyszczególnienie Opłaty za handlową obsługę"
     },
     {
      "type": "text",
@@ -2910,10 +2894,6 @@
       {
        "type": "note",
        "text": "[Strona 56 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 2712 —"
       }
      ]
     },
@@ -3048,10 +3028,6 @@
     {
      "type": "note",
      "text": "[Strona 59 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 2715 ="
     },
     {
      "type": "text",
@@ -3292,10 +3268,6 @@
     {
      "type": "note",
      "text": "[Strona 65 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 2221 ="
     },
     {
      "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/557",
  "title": "Europejska konwencja o zwalczaniu terroryzmu, sporządzona w Strasburgu dnia 27 stycznia 1977 r.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/557/text.pdf",
  "body": [
   {
@@ -330,11 +330,6 @@
   },
   {
    "type": "text",
-   "text": "— 2516 ==",
-   "quoted": true
-  },
-  {
-   "type": "text",
    "text": "2. Żadnego z postanowień niniejszej konwencji nie należy interpretować jako nakładającego obowiązek udzielenia pomocy prawnej, jeżeli państwo wezwane ma uzasadnione podstawy przypuszczać, że wniosek o udzielenie pomocy prawnej w związku z przestępstwem określonym w art. 1 lub 2 złożono w celu ścigania lub karania osoby ze względu na jej rasę, religię, narodowość lub poglądy polityczne albo że sytuacja takiej osoby może ulec pogorszeniu ze względu na którąkolwiek z tych okoliczności.",
    "quoted": true
   },
@@ -623,7 +618,12 @@
   },
   {
    "type": "text",
-   "text": "b) złożeniu dokumentów ratyfikacyjnych, przyjęcia lub zatwierdzenia; dacie wejścia w życie konwencji, zgodnie z jej",
+   "text": "b) złożeniu dokumentów ratyfikacyjnych, przyjęcia lub zatwierdzenia;",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "dacie wejścia w życie konwencji, zgodnie z jej",
    "quoted": true
   },
   {
@@ -713,7 +713,12 @@
   },
   {
    "type": "text",
-   "text": "b) any deposit of an instrument of ratification, acceptance or approval; any date of entry into force of this Convention in — c accordance with Article 11 thereof;",
+   "text": "b) any deposit of an instrument of ratification, acceptance or approval;",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "any date of entry into force of this Convention in — c accordance with Article 11 thereof;",
    "quoted": true
   },
   {

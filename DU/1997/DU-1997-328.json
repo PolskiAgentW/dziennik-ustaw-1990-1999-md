@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/328",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 22 maja 1997 r. w sprawie spisów osób uprawnionych do nieodpłatnego nabycia świadectw rekompensacyjnych.",
- "converter": "eli2md 0.6.38",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/328/text.pdf",
  "body": [
   {
@@ -1736,10 +1736,6 @@
       },
       {
        "type": "text",
-       "text": "= 197 ="
-      },
-      {
-       "type": "text",
        "text": "Rekord końca informacji o zmianach w spisach: Nr |Długość |Typ |Wyp. | Nazwa pola pola | pola pola |pola a _|fi___][AN |M_ |Typrekordu _ | Liczba pozycji ze zmianami Liczba pozycji usuniętych ze spisu Liczba pozycji dopisanych do spisu Liczba pozycji uaktualnionych Liczba świadectw wynikająca z uaktualnienia liczby świadectw"
       },
       {
@@ -2249,8 +2245,12 @@
      "type": "lit",
      "num": "b",
      "path": "lit_b",
-     "text": "od I stycznia 1992 r. do 28 czerwca 1992 r. - przezZ........-..-e--e-ee- ena a ae aaa aaa anna a azs asa acza0A w wymiarze .............etatu. (wpisać liczbę pełnych miesięcy) Uwaga! Powyższe dane przekazuje się w celu ich sprawdzenia oraz ewentualnego sprostowania i uzupełnienia. Zgodnie z art. 18 ust. 3 wymienionej ustawy, może Pan (i), w terminie 14 dni od daty doręczenia zawiadomienia, wnieść do organu sporządzającego spis pisemne lub ustne żądanie sprostowania powyższych danych. Informacje w tej sprawie można uzyskać pod nr tel........... . Organ sporządzający spis",
+     "text": "od I stycznia 1992 r. do 28 czerwca 1992 r. - przezZ........-..-e--e-ee- ena a ae aaa aaa anna a azs asa acza0A w wymiarze .............etatu. (wpisać liczbę pełnych miesięcy) Uwaga! Powyższe dane przekazuje się w celu ich sprawdzenia oraz ewentualnego sprostowania i uzupełnienia. Zgodnie z art. 18 ust. 3 wymienionej ustawy, może Pan (i), w terminie 14 dni od daty doręczenia zawiadomienia, wnieść do organu sporządzającego spis pisemne lub ustne żądanie sprostowania powyższych danych. Informacje w tej sprawie można uzyskać pod nr tel........... .",
      "children": [
+      {
+       "type": "text",
+       "text": "Organ sporządzający spis"
+      },
       {
        "type": "text",
        "text": "(pieczęć i podpis) Miejscowość, data....-u=rsevsocze wznowy \" Niepotrzebne skreślić"

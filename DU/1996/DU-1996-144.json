@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/144",
  "title": "Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 26 lutego 1996 r. w sprawie warunków technicznych, jakim powinny odpowiadać skrzyżowania linii kolejowych z drogami publicznymi i ich usytuowanie.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/144/text.pdf",
  "body": [
   {
@@ -419,10 +419,6 @@
       },
       {
        "type": "text",
-       "text": "= 881 ="
-      },
-      {
-       "type": "text",
        "text": "na których ruch na drodze kierowany jest sygnałami nadawanymi przez pracowników kolejowych,"
       }
      ]
@@ -653,10 +649,6 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 932 =="
       }
      ]
     },

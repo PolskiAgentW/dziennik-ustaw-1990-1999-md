@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/745",
  "title": "Rozporządzenie Rady Ministrów z dnia 18 sierpnia 1998 r. w sprawie wykonania niektórych przepisów ustawy o gospodarce nieruchomościami, dotyczących działalności zawodowej.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/745/text.pdf",
  "body": [
   {
@@ -776,10 +776,6 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 4247 —"
     },
     {
      "type": "pkt",
@@ -1916,23 +1912,7 @@
     },
     {
      "type": "text",
-     "text": "URZĄD MIESZKALNICTWA | ROZWOJU MIAST"
-    },
-    {
-     "type": "text",
-     "text": "ŚWIADECTWO"
-    },
-    {
-     "type": "text",
-     "text": "NADANIA LICENCJI ZAWODOWEJ ZARZĄDCY NIERUCHOMOŚCI"
-    },
-    {
-     "type": "text",
-     "text": "Na podstawie art. 192 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741 i z 1998 r. Nr 106, poz. 668) JAN KOWALSKI s. Józefa"
-    },
-    {
-     "type": "text",
-     "text": "otrzymał licencję zawodową nr ...... uprawniającą do wykonywania działalności zawodowej w zakresie zarządzania nieruchomościami."
+     "text": "URZĄD MIESZKALNICTWA | ROZWOJU MIAST ŚWIADECTWO NADANIA LICENCJI ZAWODOWEJ ZARZĄDCY NIERUCHOMOŚCI Na podstawie art. 192 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. Nr 115, poz. 741 i z 1998 r. Nr 106, poz. 668) JAN KOWALSKI s. Józefa otrzymał licencję zawodową nr ...... uprawniającą do wykonywania działalności zawodowej w zakresie zarządzania nieruchomościami."
     },
     {
      "type": "text",
@@ -1949,11 +1929,19 @@
     },
     {
      "type": "text",
-     "text": "Godło Państwa ŚWIADECTWO Na podstawie art. 192 ustawy z dnia 21 sier- URZĄD MIESZKALNICTWA pnia 1997 r. o gospodarce nieruchomością- | ROZWOJU MIAST mi (Dz. U. Nr 115, poz. 741 i z 1998 r. Nr 106, poz. 668)"
+     "text": "Godło Państwa ŚWIADECTWO"
     },
     {
      "type": "text",
-     "text": "JAN KOWALSKI s. Józefa miejsce na zdjęcie otrzymał licencję zawodową zarządcy nieruchomości nr uprawniającą do wykonywania działalności zawodowej w zakresie zarządzania nieruchomościami."
+     "text": "Na podstawie art. 192 ustawy z dnia 21 sier- URZĄD MIESZKALNICTWA pnia 1997 r. o gospodarce nieruchomością- | ROZWOJU MIAST mi (Dz. U. Nr 115, poz. 741 i z 1998 r. Nr 106, poz. 668)"
+    },
+    {
+     "type": "text",
+     "text": "JAN KOWALSKI s. Józefa"
+    },
+    {
+     "type": "text",
+     "text": "miejsce na zdjęcie otrzymał licencję zawodową zarządcy nieruchomości nr uprawniającą do wykonywania działalności zawodowej w zakresie zarządzania nieruchomościami."
     },
     {
      "type": "text",
@@ -2002,7 +1990,11 @@
     },
     {
      "type": "text",
-     "text": "otrzymał w dniu ...... eee eee eeeeeeeeeeeeeees uprawnienia zawodowe Nr ...... w zakresie szacowania nieruchomości i posiada tytuł rzeczoznawcy majątkowego oraz prawo wykonywania działalności zawodowej w zakresie szacowania nieruchomości, a także maszyn i urządzeń trwale związanych z gruntem."
+     "text": "otrzymał w dniu ...... eee eee eeeeeeeeeeeeeees uprawnienia zawodowe Nr ...... w zakresie szacowania nieruchomości i posiada tytuł rzeczoznawcy majątkowego"
+    },
+    {
+     "type": "text",
+     "text": "oraz prawo wykonywania działalności zawodowej w zakresie szacowania nieruchomości, a także maszyn i urządzeń trwale związanych z gruntem."
     },
     {
      "type": "text",

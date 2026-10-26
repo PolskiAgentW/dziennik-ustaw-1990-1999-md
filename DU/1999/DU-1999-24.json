@@ -1,7 +1,7 @@
 {
  "eli": "DU/1999/24",
  "title": "Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 24 grudnia 1998 r. w sprawie kwalifikacji i zakresu uprawnień zawodowych osób nie posiadających tytułu lekarza weterynarii.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1999/24/text.pdf",
  "body": [
   {
@@ -198,10 +198,6 @@
           {
            "type": "note",
            "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-          },
-          {
-           "type": "text",
-           "text": "= 111 ="
           }
          ]
         }

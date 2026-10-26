@@ -1,7 +1,7 @@
 {
  "eli": "DU/1996/16",
  "title": "Rozporządzenie Rady Ministrów z dnia 21 listopada 1995 r. w sprawie warunków wydawania zezwoleń na działalność związaną z wykorzystywaniem energii atomowej.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1996/16/text.pdf",
  "body": [
   {
@@ -485,20 +485,16 @@
   {
    "type": "signature",
    "text": "Prezes Rady Ministrów: J. Oleksy"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "= 40 ="
   }
  ],
  "annexes": [
   {
    "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 21 listopada 1995 r. (poz. 16) Załącznik nr 1",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "DOKUMENTACJA WYMAGANA PRZY SKŁADANIU WNIOSKU O WYDANIE ZEZWOLENIA NA DZIAŁALNOŚĆ ZWIĄZANĄ ZE ŹRÓDŁAMI PROMIENIOWANIA JONIZUJĄCEGO (Z WYJĄTKIEM APARATÓW RENTGENÓW- SKICH O ENERGII PROMIENIOWANIA DO 300 keV), MATERIAŁAMI JĄDROWYMI (Z WYJĄTKIEM OBIEKTÓW JĄ- DROWYCH) | ODPADAMI PROMIENIOTWÓRCZYMI (Z WYJĄTKIEM SKŁADOWISK ODPADÓW PROMIENIO- TWÓRCZYCH)"

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1997/129",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 28 lutego 1997 r. w sprawie określenia wykazu rejonów administracyjnych (gmin) nie uznanych za zagrożone szczególnie wysokim bezrobociem strukturalnym, w których rejonowy urząd pracy może dokonać zwrotu części lub całości kosztów dojazdu do pracy i zakwaterowania osobom, które zostały skierowane i podjęły zatrudnienie, staż lub szkolenie poza miejscem stałego zamieszkania.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1997/129/text.pdf",
  "body": [],
  "annexes": [
@@ -2623,10 +2623,6 @@
         },
         {
          "type": "text",
-         "text": "— 988 —="
-        },
-        {
-         "type": "text",
          "text": "3a.94 Bezrobotnym uprawnionym do zasiłku zasiłek przystuguje również za okres udokumentowanej niezdolności do pracy, za który na podstawie odrębnych przepisów pracownicy zachowują prawo do wynagrodzenia lub przysługują im zasiłki z ubezpieczenia społecznego w razie choroby lub macierzyństwa."
         }
        ]
@@ -3544,10 +3540,6 @@
           {
            "type": "note",
            "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-          },
-          {
-           "type": "text",
-           "text": "= 993 —"
           }
          ]
         },

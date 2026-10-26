@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/1038",
  "title": "Rozporządzenie Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie ustanowienia kontyngentów taryfowych na przywóz niektórych towarów pochodzących z Republiki Czeskiej, Republiki Słowackiej, Republiki Węgierskiej, Rumunii, Republiki Słowenii i Republiki Bułgarii.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/1038/text.pdf",
  "body": [
   {
@@ -762,10 +762,6 @@
     },
     {
      "type": "text",
-     "text": "== 6112 —"
-    },
-    {
-     "type": "text",
      "text": "Wyszczególnienie"
     },
     {
@@ -1082,7 +1078,23 @@
     },
     {
      "type": "text",
-     "text": "- 2 litry lub mniej - Więcej niż 2 litry Napoje alkoholowe śliwkowe. gruszkowe i wiśniowe (z wyłączeniem likierów). w pojemnikach zawierających: - 2 litry lub mniej - Więcej niż 2 litry Pozostałe wódki i inne napoje alkoholowe, w pojemnikach zawierających: - 2 litry lub mniej: - Ouzo"
+     "text": "- 2 litry lub mniej"
+    },
+    {
+     "type": "text",
+     "text": "- Więcej niż 2 litry"
+    },
+    {
+     "type": "text",
+     "text": "Napoje alkoholowe śliwkowe. gruszkowe i wiśniowe (z wyłączeniem likierów). w pojemnikach zawierających: - 2 litry lub mniej"
+    },
+    {
+     "type": "text",
+     "text": "- Więcej niż 2 litry"
+    },
+    {
+     "type": "text",
+     "text": "Pozostałe wódki i inne napoje alkoholowe, w pojemnikach zawierających: - 2 litry lub mniej: - Ouzo"
     },
     {
      "type": "text",
@@ -1098,7 +1110,35 @@
     },
     {
      "type": "text",
-     "text": "Pozostałe - - Pozostałe napoje alkoholowe: — - — — Gotowe preparaty ziołowe będące farmaceutykami, na bazie alkoholu ~--- Pozostałe Więcej niż 2 litry: - Wódki (z wyłączeniem likierów): - - Destylowane z owoców - - - Pozostałe - - Inne napoje alkoholowe Alkohol etylowy nieskażony o objętościowej mocy alkoholu mniejszej niż 80% obj., w pojemnikach zawierających: - 2 litry lub mniej - Więcej niż 2 litry"
+     "text": "Pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "- - Pozostałe napoje alkoholowe: — - — — Gotowe preparaty ziołowe będące farmaceutykami, na bazie alkoholu ~--- Pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "Więcej niż 2 litry: - Wódki (z wyłączeniem likierów):"
+    },
+    {
+     "type": "text",
+     "text": "- - Destylowane z owoców"
+    },
+    {
+     "type": "text",
+     "text": "- - - Pozostałe"
+    },
+    {
+     "type": "text",
+     "text": "- - Inne napoje alkoholowe"
+    },
+    {
+     "type": "text",
+     "text": "Alkohol etylowy nieskażony o objętościowej mocy alkoholu mniejszej niż 80% obj., w pojemnikach zawierających: - 2 litry lub mniej"
+    },
+    {
+     "type": "text",
+     "text": "- Więcej niż 2 litry"
     },
     {
      "type": "text",
@@ -1399,7 +1439,11 @@
     },
     {
      "type": "text",
-     "text": "- - - - O rzeczywistej objętościowej mocy alkoholu nie przewyższającej 13% obj.: ----- Wina jakościowe produkowane w określonych rejonach: ------ Białe: 220421110 | ------- Alsace 220421120 | ------- Bordeaux 220421130 | ------- Bourgogne (Burgundy) 220421170 | ------- Val de Loire (Loire valley) 220421180 | ------- Mosel-Saar-Ruwer 220421190 | ------- Pfalz 220421220 | ------- Rheinhessen 220421240 | ------- Lazio (Latium)"
+     "text": "- - - - O rzeczywistej objętościowej mocy alkoholu nie przewyższającej 13% obj.: ----- Wina jakościowe produkowane w określonych rejonach: ------ Białe: 220421110 | ------- Alsace 220421120 | ------- Bordeaux 220421130 | ------- Bourgogne (Burgundy) 220421170 | ------- Val de Loire (Loire valley)"
+    },
+    {
+     "type": "text",
+     "text": "220421180 | ------- Mosel-Saar-Ruwer 220421190 | ------- Pfalz 220421220 | ------- Rheinhessen 220421240 | ------- Lazio (Latium)"
     },
     {
      "type": "text",
@@ -1615,7 +1659,11 @@
     },
     {
      "type": "text",
-     "text": "------ Pozostałe: 220429710 | ------- Puglia (Apuglia)"
+     "text": "------ Pozostałe:"
+    },
+    {
+     "type": "text",
+     "text": "220429710 | ------- Puglia (Apuglia)"
     },
     {
      "type": "text",
@@ -2047,7 +2095,11 @@
     },
     {
      "type": "text",
-     "text": "Kod PCN Wyszczególnienie ? stawka celna 220840390 | - - - -Pozostałe 146,65 minimum 3,34 ECU/%/hl - - W pojemnikach zawierających więcej niż 2 litry: 2208 40510 | - - - Rumo zawartości lotnych substancji innych niż alkohoł etylowy i 146,63 metylowy, równej lub przekraczającej 225 g na hektolitr czystego minimum 3.34 alkoholu (z tolerancją 10%) ECU/ %/hl - - - Pozostałe: 2208 40910 | - - - - O wartości przekraczającej 2 ECU za litr czystego alkoholu 146,63 minimum 3,34 ECU/ %/hl 220840990 | - - - -Pozostałe 146.63 minimum 3,34 ECU/ %/hl"
+     "text": "Kod PCN Wyszczególnienie ? stawka celna 220840390 | - - - -Pozostałe 146,65 minimum 3,34 ECU/%/hl"
+    },
+    {
+     "type": "text",
+     "text": "- - W pojemnikach zawierających więcej niż 2 litry: 2208 40510 | - - - Rumo zawartości lotnych substancji innych niż alkohoł etylowy i 146,63 metylowy, równej lub przekraczającej 225 g na hektolitr czystego minimum 3.34 alkoholu (z tolerancją 10%) ECU/ %/hl - - - Pozostałe: 2208 40910 | - - - - O wartości przekraczającej 2 ECU za litr czystego alkoholu 146,63 minimum 3,34 ECU/ %/hl 220840990 | - - - -Pozostałe 146.63 minimum 3,34 ECU/ %/hl"
     },
     {
      "type": "text",
@@ -2059,7 +2111,11 @@
     },
     {
      "type": "text",
-     "text": "- - Gin Geneva, w pojemnikach zawierających: 2208 50910 | - - - 2 litry lub mniej 146.65 minimum 3,34 ECU/ %/hl 2208 50990 | - - - Więcej niż 2 litry 146,65 minimum 3,34 ECU/ %hl 2208 60 - Vodka: - - O objętościowej mocy alkoholu wynoszącej 45,4% obj. lub mniej, w pojemnikach zawierających: 220860110 | - - - 2 litry lub mniej 146,63 minimum 3.34 ECU %/hi 2208 60 190 | - - - Więcej niż 2 litry 146,65 minimum 3.34 ECU %/hl - - O objętościowej mocy alkoholu większej niż 45,4% obj., w pojemnikach zawierających: 220860910 | - - 2 litry lub mniej 146,63 minimum 3.34 ECU %/hl 2208 60990 | - - - Więcej niż 2 litry 146,65 minimum 3.34 ECU %/hl"
+     "text": "- - Gin Geneva, w pojemnikach zawierających: 2208 50910 | - - - 2 litry lub mniej 146.65 minimum 3,34 ECU/ %/hl 2208 50990 | - - - Więcej niż 2 litry 146,65 minimum 3,34 ECU/ %hl"
+    },
+    {
+     "type": "text",
+     "text": "2208 60 - Vodka: - - O objętościowej mocy alkoholu wynoszącej 45,4% obj. lub mniej, w pojemnikach zawierających: 220860110 | - - - 2 litry lub mniej 146,63 minimum 3.34 ECU %/hi 2208 60 190 | - - - Więcej niż 2 litry 146,65 minimum 3.34 ECU %/hl - - O objętościowej mocy alkoholu większej niż 45,4% obj., w pojemnikach zawierających: 220860910 | - - 2 litry lub mniej 146,63 minimum 3.34 ECU %/hl 2208 60990 | - - - Więcej niż 2 litry 146,65 minimum 3.34 ECU %/hl"
     },
     {
      "type": "text",
@@ -4272,7 +4328,12 @@
       },
       {
        "type": "text",
-       "text": "----- Pozostałe: 220421830 | ------ Białe 15 minimum 12,5 ECU/hl 220421840 | ------ Pozostałe 15 minimum 12,5 ECU/hl - - - - O rzeczywistej objętościowej mocy alkoholu powyżej 15% obj.. ale nie przewyższającej 18% obj.: 220421870 | ----- Marsala 15 minimum 12,5 ECU/hl 220421880 | -==== Samos i Muscat de Lemnos 13 minimum 12.5 ECU7/hl 220421890 | ----- Port 13 minimum 12.5 ECUhl",
+       "text": "----- Pozostałe: 220421830 | ------ Białe 15 minimum 12,5 ECU/hl 220421840 | ------ Pozostałe 15 minimum 12,5 ECU/hl",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "- - - - O rzeczywistej objętościowej mocy alkoholu powyżej 15% obj.. ale nie przewyższającej 18% obj.: 220421870 | ----- Marsala 15 minimum 12,5 ECU/hl 220421880 | -==== Samos i Muscat de Lemnos 13 minimum 12.5 ECU7/hl 220421890 | ----- Port 13 minimum 12.5 ECUhl",
        "quoted": true
       },
       {

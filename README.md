@@ -182,6 +182,14 @@ zostaje poprzedni plik: w 106 nowy był taki sam, w 24 różnił się też w inn
 których tu nie publikuję). Gdy cała ostatnia strona jest ogłoszeniem, nie liczy się już do stron aktu (`pages_ocr`,
 `pages_without_text` w 41 aktach).
 
+Tego samego dnia eli2md 0.6.72, 97 aktów (opis w README eli2md, wpis 0.6.72): wiersz z samym numerem strony u góry
+strony („= 4284 —”, „— 1491 =”) nie jest już tekstem. Przeliczyłem ponownie 137 aktów, w których stoi taki wiersz. Nowy
+plik zostaje tylko wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie brakiem numerów stron, a jednostki drzewa
+są te same. Tak jest w 97 aktach. W 40 zostaje poprzedni plik: w 14 nowy był taki sam, w 26 różnił się też w innych
+miejscach (zmiany konwertera od wersji poprzedniego pliku: 0.6.37–0.6.39 w 24, 0.6.66 w 2), których tu nie publikuję. Gdy
+z ostatniej strony do aktu trafiał tylko numer strony, ta strona nie liczy się już do stron aktu (`pages_ocr`,
+`pages_without_text` w 10 aktach). Wierszy z samym numerem strony było w zbiorze 226 w 137 aktach, zostało 65 w 40.
+
 ## Zawartość
 
 - `DU/<rok>/DU-<rok>-<pozycja>.md`: jeden akt. Front matter YAML z metadanymi ELI, potem tekst:

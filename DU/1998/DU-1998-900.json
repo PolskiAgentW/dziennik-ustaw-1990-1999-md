@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/900",
  "title": "Rozporządzenie Ministra Gospodarki z dnia 21 października 1998 r. w sprawie ustalenia planu rozwoju Łódzkiej Specjalnej Strefy Ekonomicznej.",
- "converter": "eli2md 0.6.37",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/900/text.pdf",
  "body": [
   {
@@ -1446,10 +1446,6 @@
       {
        "type": "note",
        "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 4915 —"
       }
      ]
     },
@@ -1861,7 +1857,11 @@
       },
       {
        "type": "text",
-       "text": "Rezerwa 10% na roboty nie przewidziane Razem"
+       "text": "Rezerwa 10% na roboty nie przewidziane"
+      },
+      {
+       "type": "text",
+       "text": "Razem"
       },
       {
        "type": "text",
@@ -1885,7 +1885,19 @@
      "children": [
       {
        "type": "text",
-       "text": "Źródłem zasobów kadrowych są bezrobotni, których liczba w województwie łódzkim na koniec 1997 r. wynosiła 51 148 osób, w tym 28 143 kobiety, z czego: — w Łodzi — 38 382 osoby (w tym 21 342 kobiety), — w Pabianicach — 4 674 osoby (w tym 2 495 kobiet), — w Zgierzu — 8 092 osoby (w tym 4 306 kobiet),"
+       "text": "Źródłem zasobów kadrowych są bezrobotni, których liczba w województwie łódzkim na koniec 1997 r. wynosiła 51 148 osób, w tym 28 143 kobiety, z czego:"
+      },
+      {
+       "type": "text",
+       "text": "— w Łodzi — 38 382 osoby (w tym 21 342 kobiety),"
+      },
+      {
+       "type": "text",
+       "text": "— w Pabianicach — 4 674 osoby (w tym 2 495 kobiet),"
+      },
+      {
+       "type": "text",
+       "text": "— w Zgierzu — 8 092 osoby (w tym 4 306 kobiet),"
       },
       {
        "type": "text",
@@ -2081,7 +2093,11 @@
       },
       {
        "type": "text",
-       "text": "— tworzenie warunków formalnoprawnych i organizacyjnych umożliwiających po- 1997—1998 dejmowanie działalności gospodarczej, — przyjęcie pierwszych inwestorów, 1998"
+       "text": "— tworzenie warunków formalnoprawnych i organizacyjnych umożliwiających po- 1997—1998 dejmowanie działalności gospodarczej,"
+      },
+      {
+       "type": "text",
+       "text": "— przyjęcie pierwszych inwestorów, 1998"
       },
       {
        "type": "text",

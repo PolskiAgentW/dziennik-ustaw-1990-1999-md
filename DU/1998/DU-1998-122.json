@@ -1,7 +1,7 @@
 {
  "eli": "DU/1998/122",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 18 lutego 1998 r. zmieniające rozporządzenie w sprawie nadania statutu Ministerstwu Rolnictwa i Gospodarki Żywnościowej.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1998/122/text.pdf",
  "body": [
   {
@@ -14,7 +14,11 @@
   },
   {
    "type": "text",
-   "text": "z dnia 18 lutego 1998 r. zmieniające rozporządzenie w sprawie nadania statutu Ministerstwu Rolnictwa i Gospodarki Żywnościowej."
+   "text": "z dnia 18 lutego 1998 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie nadania statutu Ministerstwu Rolnictwa i Gospodarki Żywnościowej."
   },
   {
    "type": "text",
@@ -28,7 +32,12 @@
    "children": [
     {
      "type": "text",
-     "text": "1)w załączniku do rozporządzenia § 4 otrzymuje brzmienie: „3 4.1. W skład Ministerstwa wchodzą następujące komórki organizacyjne:"
+     "text": "1)w załączniku do rozporządzenia § 4 otrzymuje brzmienie:"
+    },
+    {
+     "type": "text",
+     "text": "„3 4.1. W skład Ministerstwa wchodzą następujące komórki organizacyjne:",
+     "quoted": true
     },
     {
      "type": "text",
@@ -376,10 +385,6 @@
       {
        "type": "note",
        "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 816 ="
       },
       {
        "type": "text",
