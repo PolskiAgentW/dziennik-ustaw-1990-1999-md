@@ -171,6 +171,17 @@ liczebnikiem słownym pisanym małymi literami, stojące jako osobny akapit („
 węzłami `heading` (DU/1991/308, DU/1995/534; 13 nowych nagłówków). Wcześniej trafiały jako tekst do artykułu przed nimi.
 `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
 
+Tego samego dnia eli2md 0.6.71, 142 akty (opis w README eli2md, wpis 0.6.71): stopka zeszytu i ogłoszenia wydawcy
+na ostatniej stronie zeszytu czytanej przez OCR („UWAGA PRENUMERATORZY!”, „Opłata za prenumeratę…”, „Egzemplarze
+bieżące…”, listy wydawnictw na sprzedaż) są wycinane po podpisie ostatniego aktu zeszytu. Przeliczyłem ponownie 272
+akty, w których końcówka tekstu ma słowa stopki. Nowy plik zostaje tylko wtedy, gdy różni się od poprzedniego wyłącznie
+wyciętym końcem tekstu (od początku stopki, po ostatnim podpisie), a jednostki drzewa przed wycięciem są te same. Tak
+jest w 142 aktach (usuniętych słów 25 883; w 20 aktach ponad 300, każdy obejrzany: same ogłoszenia wydawcy; w 8 ubyło
+54 jednostek drzewa, które były punktami ogłoszeń, np. listą wydawnictw „1. Skorowidz przepisów prawnych…”). W 130
+zostaje poprzedni plik: w 106 nowy był taki sam, w 24 różnił się też w innych miejscach (zmiany konwertera od 0.6.37,
+których tu nie publikuję). Gdy cała ostatnia strona jest ogłoszeniem, nie liczy się już do stron aktu (`pages_ocr`,
+`pages_without_text` w 41 aktach).
+
 ## Zawartość
 
 - `DU/<rok>/DU-<rok>-<pozycja>.md`: jeden akt. Front matter YAML z metadanymi ELI, potem tekst:
@@ -246,8 +257,10 @@ Metoda, próbka i oceny per akt:
 - Nagłówki załączników, które OCR odczytał przed podpisem aktu, są od 0.6.36 zwykłymi akapitami, nie `## Załącznik`
   (tekst zostaje). Dotyczy to głównie załączników umów międzynarodowych ogłaszanych w akcie, ale też DU/1995/229,
   gdzie OCR ułożył strony w złej kolejności.
-- W tekście 122 aktów jest fragment stopki zeszytu („Egzemplarze bieżące i z lat ubiegłych…”, adres sprzedaży),
-  nie zawsze na końcu.
+- Stopka zeszytu i ogłoszenia wydawcy (adres sprzedaży, prenumerata) zostają w tekście 17 aktów (pomiar 2026-10-26 po
+  eli2md 0.6.71, wzorcem słów stopki w końcówce tekstu; może nie łapać wszystkich; wcześniej podawane 122 akty liczone
+  innym wzorcem): gdy OCR nie odczytał podpisu, gdy stopka stoi w jednym akapicie z podpisem, za załącznikiem bez słów
+  wydawcy, na przedostatniej stronie albo gdy przeliczenie zmieniało w akcie także inne miejsca.
 - Umowy międzynarodowe, konwencje i podobne akty numerują jednostki „Artykuł N” w osobnym wierszu. W `.md` zostają
   akapitami. W JSON od eli2md 0.6.39 (2026-10-07) są węzłami `art` (292 akty). Ograniczenia: wersje obcojęzyczne
   („Article N”) trafiają pod ostatni polski artykuł, a „Artykuł” zniekształcony przez OCR („Artykuf 23”) nie jest

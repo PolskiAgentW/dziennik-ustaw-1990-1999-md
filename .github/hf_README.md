@@ -93,7 +93,7 @@ eli2md 0.6.37, wynik jak w 0.6.31–0.6.36) odsetek słów oficjalnego tekstu od
 obecnych w oficjalnym tekście 0,974 (warstwa tekstowa Acrobata w tych PDF-ach: 0,664 i 0,568). Akty w tym zbiorze
 (bez HTML, głównie rozporządzenia) nie mają wzorca. Typowe błędy: „ł” odczytane jako „t”, sklejone wyrazy, „§” jako
 „8”, fragmenty spisu treści w pierwszym akcie zeszytu, tabele spłaszczone do akapitów, przypisy jako zwykłe akapity,
-fragment stopki zeszytu („Egzemplarze bieżące…”) w tekście 122 aktów; w umowach międzynarodowych i konwencjach
+stopka zeszytu i ogłoszenia wydawcy w tekście 17 aktów (2026-10-26, po eli2md 0.6.71); w umowach międzynarodowych i konwencjach
 „Artykuł N” jest w tekście akapitem (w drzewie `tree` od eli2md 0.6.39 węzłem `art`; numeracja ma luki tam, gdzie
 OCR zniekształcił słowo „Artykuł”).
 W 21 aktach brakuje początku (numeru, tytułu, pierwszych przepisów): ich PDF w API ELI zaczyna się później,
