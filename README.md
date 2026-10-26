@@ -183,7 +183,7 @@ których tu nie publikuję). Gdy cała ostatnia strona jest ogłoszeniem, nie li
 `pages_without_text` w 41 aktach).
 
 Tego samego dnia eli2md 0.6.72, 97 aktów (opis w README eli2md, wpis 0.6.72): wiersz z samym numerem strony u góry
-strony („= 4284 —”, „— 1491 =”) nie jest już tekstem. Przeliczyłem ponownie 137 aktów, w których stoi taki wiersz. Nowy
+strony („= 256 =” DU/1990/113, „= 768 —” DU/1991/245) nie jest już tekstem. Przeliczyłem ponownie 137 aktów, w których stoi taki wiersz. Nowy
 plik zostaje tylko wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie brakiem numerów stron, a jednostki drzewa
 są te same. Tak jest w 97 aktach. W 40 zostaje poprzedni plik: w 14 nowy był taki sam, w 26 różnił się też w innych
 miejscach (zmiany konwertera od wersji poprzedniego pliku: 0.6.37–0.6.39 w 24, 0.6.66 w 2), których tu nie publikuję. Gdy
